@@ -1,0 +1,177 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/1115/p609.html#afp20191115p609-f3",
+    "title": "Depression in Children and Adolescents: Evaluation and Treatment | AAFP",
+    "author": "SHELLEY S. SELPH, MD, MPH, AND MARIAN S. MCDONAGH, PharmD",
+    "doi": "Am Fam Physician.2019;100(10):609-617",
+    "abstract": "The prevalence of major unipolar depression in children and adolescents is increasing in the United States. In 2016, approximately 5% of 12-year-olds and 17% of 17-year-olds reported experiencing a major depressive episode in the previous 12 months. Screening for depression in adolescents 12 years and older should be conducted annually using a validated instrument, such as the Patient Health Questionnaire-9: Modified for Teens. If the diagnosis is confirmed, treatment should be initiated for persistent, moderate, and severe depression. Active support and monitoring may be sufficient for mild, self-limited depression. For more severe depression, evidence indicates greater response to treatment when psychotherapy (e.g., cognitive behavior therapy) and an antidepressant are used concurrently, compared with either treatment alone. Fluoxetine and escitalopram are the only antidepressants approved by the U.S. Food and Drug Administration for treatment of depression in children and adolescents. Fluoxetine may be used in patients older than eight years, and escitalopram may be used in patients 12 years and older. Monitoring for suicidality is necessary in children and adolescents receiving pharmacotherapy, with frequency of monitoring based on each patient's individual risk. The decision to modify treatment (add, increase, change the medication or add psychotherapy) should be made after about four to eight weeks. Consultation with or referral to a mental health subspecialist is warranted if symptoms worsen or do not improve despite treatment and for those who become a risk to themselves or others.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening for Depression",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Risk Assessment for Suicide",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "INITIAL MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ONGOING MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PHARMACOTHERAPY ALONE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "PSYCHOTHERAPY ALONE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "COMBINED THERAPY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Reassessing Treatment and Treatment Duration",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Referral to a Mental Health Subspecialist",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The prevalence of depression is increasing among youth in the United States. The 2005 to 2014 National Surveys on Drug Use and Health, which included 172,495 adolescents 12 to 17 years of age, found that the percentage of adolescents who experienced one or more major depressive episodes in the previous 12 months increased from 9% in 2005 to 11% in 2014.1In 2016, this percentage was approximately 13% (5% in 12-year-olds, 13% in 14-year-olds, and 17% in 17-year-olds), and although 70% of youths experienced severe impairment from depression, only about 40% received treatment.1Treatment rates have changed little since 2005, raising concern that adolescents are not receiving needed care for depression.1"
+        },
+        {
+            "parent": 0,
+            "text": "Increased risk of depression in children and adolescents may be due to biologic, psychological, or environmental factors(Table 1).2–34In children 12 years and younger, depression is slightly more common in boys than in girls (1.3% vs. 0.8%).35However, after puberty, adolescent girls are more likely to experience depression.35"
+        },
+        {
+            "parent": 1,
+            "text": "The U.S. Preventive Services Task Force (USPSTF) recommends screening children and adolescents 12 to 18 years of age for major depressive disorder with adequate systems in place to ensure accurate diagnosis, effective treatment, and appropriate follow-up.36The American Academy of Family Physicians supports the USPSTF recommendation.37In 2018, the American Academy of Pediatrics endorsed the Guidelines for Adolescent Depression in Primary Care (GLAD-PC), which recommends screening adolescents 12 years and older annually for depressive disorders using a self-report screening tool.38,39"
+        },
+        {
+            "parent": 1,
+            "text": "There are various instruments to screen adolescents for depression. One popular instrument for use in primary care is the Patient Health Questionnaire-9: Modified for Teens (also called PHQ-A) for patients 11 to 17 years of age. The PHQ-A is shown inFigure 1andTable 2, along with four questions not used in scoring that address suicidality, dysthymia, and severity of depression.40,41"
+        },
+        {
+            "parent": 2,
+            "text": "The presenting sign of major depressive disorder may be insomnia or hypersomnia; weight loss or gain; difficulty concentrating; loss of interest in school, sports, or other previously enjoyable activities; increased irritability; or feeling sad or worthless.42To distinguish between normal grief, such as after the loss of a loved one, and a major depressive episode, it may be helpful to determine whether the predominant symptom is a sense of loss or emptiness (more typical of grief) vs. a persistent depressed mood with the inability to anticipate future enjoyable events (more typical of depression).42"
+        },
+        {
+            "parent": 3,
+            "text": "When a child or adolescent screens positive using a formal screening tool, such as the PHQ-A, or when he or she presents with symptoms indicating a possible depressive disorder, the primary care physician should assess whether the symptoms are a result of a major depressive episode or another condition that could present with similar symptoms. To diagnose major depressive disorder, criteria from theDiagnostic and Statistical Manual of Mental Disorders, 5th ed. (DSM-5), must be met and not explained by substance abuse, medication use, or other medical or psychological condition.42The full DSM-5 criteria are available athttps://www.aafp.org/afp/2018/1015/p508.html#afp20181015p508-t6. Some children may develop a cranky mood or irritability rather than sadness."
+        },
+        {
+            "parent": 3,
+            "text": "Medical conditions that may present similarly to depression include hypothyroidism, anemia, autoimmune disease, and vitamin deficiency. Laboratory tests that may be helpful in ruling out common medical conditions that could be mistaken for depression include complete blood count; comprehensive metabolic profile panel; an inflammatory biomarker, such as C-reactive protein or erythrocyte sedimentation rate; thyroid-stimulating hormone; vitamin B12; and folate."
+        },
+        {
+            "parent": 3,
+            "text": "Other psychological conditions that may present similarly to major depressive disorder include persistent depressive disorder (also called dysthymia) and disruptive mood dysregulation disorder. If a child or adolescent has a depressed mood for more days than not for at least one year, the diagnosis may be persistent depressive disorder, which is often treated the same as a major depressive episode (e.g., antidepressants, psychotherapy).42If a child or adolescent is predominantly angry with temper outbursts, the diagnosis may be disruptive mood dysregulation disorder or posttraumatic stress disorder.42"
+        },
+        {
+            "parent": 3,
+            "text": "Symptoms of bipolar disorder, eating disorders, and conduct disorders may also overlap with major depressive disorder. Children and adolescents may have more than one psychiatric diagnosis concurrently, such as comorbid depression and anxiety. According to the Centers for Disease Control and Prevention, 74% of children three to 17 years of age who have depression also have anxiety, and 47% of children with depression also have a behavior problem. Therefore, a thorough assessment is needed, with possible mental health consultation or referral."
+        },
+        {
+            "parent": 4,
+            "text": "Suicide is the second leading cause of death for people 10 to 24 years of age after unintentional injury.43Depression is a risk factor for suicide, but at-risk youth can be easily missed without specific suicide screening. In one study, nurses in a pediatric emergency department used the Ask Suicide-Screening Questions (ASQ) tool to assess suicide risk in 970 adolescents who presented with psychiatric problems.44Of those who screened positive, 53% did not present with suicide-related problems. The sensitivity and specificity for a return visit to the emergency department because of suicidality within six months were 93% and 43%, respectively, for a positive predictive value of 10% and a negative predictive value of 99%.44The ASQ screening test is shown inFigure 2.45The complete ASQ toolkit is available athttps://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/index.shtml#outpatient."
+        },
+        {
+            "parent": 6,
+            "text": "The GLAD-PC guidelines recommend that primary care physicians counsel families and patients about depression and develop a treatment plan that includes setting specific goals involving functioning at home, at school, and with peers.38For example, a treatment plan might include treating others with respect, attending family meals, keeping up with schoolwork, and spending time in activities with supportive peers. Additionally, a safety plan should be established that limits access to lethal means, such as removing firearms from the home or locking them up. It should also provide a way for the patient to communicate during an acute crisis (e.g., providing phone numbers for people to contact if suicidal thoughts occur, creating a list of coping skills, educating the parents on how to recognize if the patient is a risk to self or others).38If the danger of suicide becomes imminent, psychiatric evaluation in a hospital emergency department or psychiatry crisis clinic is needed."
+        },
+        {
+            "parent": 6,
+            "text": "For mild depression, which may be short-lived, primary care physicians should consider active support such as counseling about depression and treatment options, facilitating caregiver/patient depression self-management, and monitoring the patient every week or two for six to eight weeks before initiating pharmacotherapy and/or psychotherapy.46–50According to the DSM-5, although the symptoms of mild depression are distressing, they are manageable and result in only minor impairment in functioning, whereas severe depression causes more seriously distressing, unmanageable symptoms that greatly impact functioning. SeeFigure 3for a suggested approach to the management of depression in children and adolescents.43,50"
+        },
+        {
+            "parent": 7,
+            "text": "Treatment options for children and adolescents with depression include psychotherapy and anti-depressants. Cognitive behavior therapy (CBT) is a form of talk therapy that focuses on changing behaviors by correcting faulty or potentially harmful thought patterns and generally includes five to 20 sessions. Whereas CBT focuses on cognition and behaviors, interpersonal psychotherapy concentrates on improving interpersonal relationships and typically includes around 12 to 16 sessions."
+        },
+        {
+            "parent": 7,
+            "text": "Fluoxetine (Prozac) and escitalopram (Lexapro) are the only two medications approved by the U.S. Food and Drug Administration to treat major depressive disorder in children and adolescents. Fluoxetine is approved for patients eight years and older, and escitalopram is approved for patients 12 years and older. There are concerns of increased suicidality with the use of fluoxetine and escitalopram in this population.51Although there were no suicides in trials of children and adolescents taking antidepressants, suicidal thoughts and behaviors were increased compared with placebo (4% vs. 2%).51Children and adolescents who are taking these medications should be monitored for suicidality. The frequency of monitoring should be based on the individual patient's risk (e.g., weekly monitoring at treatment onset, monthly monitoring in a child showing steady improvement on antidepressants)."
+        },
+        {
+            "parent": 8,
+            "text": "Three systematic reviews of randomized controlled trials including children and adolescents with major depressive disorder support the use of fluoxetine as the first-line antidepressant medication.52–54Two reviews also support the use of escitalopram as initial therapy.52,54However, the effects of fluoxetine and escitalopram as monotherapy were often similar to placebo, depending on the outcome measured. Tricyclic antidepressants, other selective serotonin reuptake inhibitors, and serotonin-norepinephrine reupta ke inhibitors have not been shown to be effective in treating depression in children and adolescents.46,52–54If neither fluoxetine nor escitalopram is effective and antidepressant therapy is desired, referral to a child or adolescent psychiatrist is recommended."
+        },
+        {
+            "parent": 9,
+            "text": "Evidence is mixed for the use of CBT as monotherapy in children and adolescents with depression. A systematic review for the USPSTF found no benefit of CBT on remission or recovery and inconsistent effects on symptoms, response, and functioning.54One trial of youth with major depression who declined antidepressants found that compared with self-selected treatment as usual, 12 weeks of CBT was associated with shorter time to treatment response and remission and improved depression scores through week 52 but not in weeks 53 to 104.55In children and adolescents with subclinical depression, one systematic review (19 trials) found moderate-quality evidence that CBT is associated with a small effect on depressive symptoms vs. waitlist or no treatment.56"
+        },
+        {
+            "parent": 10,
+            "text": "Evidence from a good-quality randomized trial suggests that adolescents are most likely to achieve remission with 12 weeks of combined therapy with fluoxetine and CBT (37%; number needed to treat = 4) compared with either therapy alone (23% with fluoxetine; number needed to treat = 11; 16% with CBT) or placebo (17%).47,57Suicidality declined with duration of treatment for all therapies, but the decline was less steep for fluoxetine alone (26.2% at baseline to 13.7% at week 36) vs. combination therapy (39.6% to 2.5%) and CBT alone (25.2% to 3.9%).47,57"
+        },
+        {
+            "parent": 10,
+            "text": "In another trial of adolescents who achieved at least a 50% decrease in depression scores following six weeks of fluoxetine treatment, those who were randomized to receive the addition of CBT to fluoxetine therapy for six months were less likely to relapse at 78 weeks compared with continued fluoxetine monotherapy (36% vs. 62%).58"
+        },
+        {
+            "parent": 10,
+            "text": "Children and adolescents with moderate or severe depression or persistent mild depression should be treated with fluoxetine or escitalopram in conjunction with CBT or other talk therapy.47,57–59If combination therapy is not used, monotherapy with an antidepressant or psychotherapy is recommended, although the likelihood of benefit is lower.46,52–56"
+        },
+        {
+            "parent": 11,
+            "text": "One trial found that early reassessment of depression is valuable.43In this study, all youth received interpersonal psychotherapy and were randomized to a four- or eight-week follow-up assessment for treatment modification. If additional treatment was needed because of inadequate response, patients were further randomized to add-on fluoxetine or more intense (twice weekly) psychotherapy. Those who were reassessed at four weeks improved the most at 16 weeks (a difference of 5.7 points on the Hamilton Rating Scale for Depression; scores on this scale can range from 0 to 58 points, with a score of 0 to 7 considered normal and a score of 20 associated with moderate depression;P< .05). Additionally, those who began add-on fluoxetine at four weeks had better posttreatment depression scores than those who began intense interpersonal psychotherapy at eight weeks, although there was no difference in global assessment scores between the two groups."
+        },
+        {
+            "parent": 11,
+            "text": "Treatment duration for talk therapy in adolescents with unipolar depression is typically six months or less, but longer treatment may be necessary. Although good evidence regarding the duration of medication treatment in adolescents with depression is lacking, the GLAD-PC guidelines recommend continuing medication for one year beyond the resolution of symptoms.50"
+        },
+        {
+            "parent": 12,
+            "text": "If a child or adolescent does not improve after initial treatment for depression, the primary care physician may add, change, or increase a medication and may consider referral for psychotherapy. Referral to a licensed mental health professional is appropriate at any point in the treatment process. However, if the depression does not improve or the child deteriorates even with treatment, consultation with or referral to a child or adolescent psychiatrist is necessary."
+        },
+        {
+            "parent": 12,
+            "text": "This article updates previous articles on this topic byClark, et al.60;Bhatia and Bhatia61; andSon and Kirchner.62"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:We conducted general and targeted searches using Essential Evidence Plus, Ovid Medline, PubMed, the Cochrane Database of Systematic Reviews, the U.S. Preventive Services Task Force, the Agency for Healthcare Research and Quality, and UpToDate, including the key words children or adolescents with depression. Search dates: November 2018 to January 2019, and September 27, 2019."
+        },
+        {
+            "parent": 12,
+            "text": "The authors thank Alycia Brown, MD, for her review of the manuscript and Ngoc Wasson, MPH, and Chandler Weeks, BS, for help with formatting the manuscript."
+        }
+    ],
+    "locked": false
+}

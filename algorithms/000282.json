@@ -1,0 +1,232 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/1115/p908.html#afp20151115p908-f1",
+    "title": "A Systematic Approach to the Evaluation of a Limping Child | AAFP",
+    "author": "SAMEER NARANJE, MD, DEREK M. KELLY, MD, AND JEFFREY R. SAWYER, MD",
+    "doi": "Am Fam Physician.2015;92(10):908-918",
+    "abstract": "A limp is defined as a deviation from a normal age-appropriate gait pattern resulting in an uneven, jerky, or laborious gait. It can be caused by pain, weakness, or deformity as a result of a variety of conditions. Transient synovitis is the most common diagnosis. Other causes of acute limp include contusion, foreign body in the foot, fracture, osteomyelitis, septic arthritis, reactive arthritis, and Lyme arthritis. Causes of chronic limp include rheumatic disease, dermatomyositis, acute rheumatic fever, inflammatory bowel disease, and systemic lupus erythematosus. Evaluation of a limping child should begin with a history focused on identifying pain, trauma, and associated systemic symptoms. For a limping child with focal findings on physical examination, initial imaging includes anteroposterior and lateral radiography of the involved site. If there are no focal findings on physical examination, radiography of both lower extremities should be performed. Laboratory testing is guided by history and physical examination findings. Septic arthritis of the hip should be suspected in a child with an oral temperature more than 101.3°F (38.5°C), refusal to bear weight, erythrocyte sedimentation rate more than 40 mm per hour, peripheral white blood cell count more than 12,000 per mm3(12 × 109per L), or C-reactive protein level more than 20 mg per L (180.96 nmol per L).",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Normal and Abnormal Gait",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "GENERAL EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ADDITIONAL TESTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Laboratory Tests",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Imaging",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "RADIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "BONE SCINTIGRAPHY AND COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "MAGNETIC RESONANCE IMAGING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Common Diagnostic Dilemmas",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "DIFFERENTIATING SEPTIC ARTHRITIS OF THE HIP FROM TRANSIENT SYNOVITIS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "DIFFERENTIATING DISKITIS FROM VERTEBRAL OSTEOMYELITIS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "DIFFERENTIATING MALIGNANCIES FROM RHEUMATOLOGIC DISEASES",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "DIFFERENTIATING PSOAS ABSCESS FROM SEPTIC ARTHRITIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "A limp, which is a deviation from a normal age-appropriate gait pattern resulting in an uneven, jerky, or laborious gait, can be caused by pain, weakness, or deformity as a result of a variety of conditions. The exact incidence of limping in children is unknown. One study of children younger than 14 years presenting to an emergency department with an acute atraumatic limp reported an incidence of 1.8 per 1,000 children, a male-to-female ratio of 1.7:1, and a median age of 4.4 years.1The right and left limbs were nearly equally involved, and 80% of the children reported pain. Transient synovitis was the most common diagnosis. Other common causes of acute limp include contusion, foreign body in the foot, fracture, osteomyelitis, septic arthritis, reactive arthritis, and Lyme arthritis. Common causes of chronic limp include rheumatic disease, dermatomyositis, acute rheumatic fever, inflammatory bowel disease, and systemic lupus erythematosus."
+        },
+        {
+            "parent": -1,
+            "text": "A systematic approach to the evaluation of the limping child can reduce the overall time patients spend in the acute care setting, ensure that only appropriate testing is performed, and increase the likelihood of a correct diagnosis.2"
+        },
+        {
+            "parent": 0,
+            "text": "A normal mature gait cycle consists of the stance phase, during which the foot is in contact with the ground (60%), and the swing phase, during which the foot is in the air (40%). The stance phase is further divided into initial double-limb support (20%) followed by single-limb stance (60%) and another period of double-limb support (20%).3"
+        },
+        {
+            "parent": 0,
+            "text": "With increasing age, the duration of single-limb stance, walking velocity, and step length increase, whereas the number of steps taken per minute decreases. A mature gait pattern is well established by three years of age, and the gait of a seven-year-old closely approximates that of an adult.4"
+        },
+        {
+            "parent": 0,
+            "text": "Abnormal gait may be antalgic. Antalgic gait is characterized by a shortening of the stance phase to unload the painful limb. Because there is decreased contact between the affected extremity and the ground, the child may not complain of pain. Several different types of limps are associated with nonantalgic gait, and most do not require urgent evaluation and treatment."
+        },
+        {
+            "parent": 0,
+            "text": "There are a variety of etiologies for limping in a child(Table 1).1,5–10A detailed history and physical examination, with appropriate imaging and laboratory tests, are essential to make the correct diagnosis.Figures 1and2are algorithms for the diagnosis of antalgic and nonantalgic gaits.11"
+        },
+        {
+            "parent": 1,
+            "text": "A history should be obtained from the child and ideally both parents. If possible, separate interviews should be performed when physical abuse is suspected.12"
+        },
+        {
+            "parent": 1,
+            "text": "The initial interview can provide valuable clues(Table 211)and should be structured to collect information on the following factors."
+        },
+        {
+            "parent": 1,
+            "text": "Patient's Sex. Developmental dysplasia of the hip is more common in girls, whereas Legg-Calvé-Perthes disease (idiopathic osteonecrosis of the proximal femoral epiphysis) and slipped capital femoral epiphysis (SCFE) are more common in boys."
+        },
+        {
+            "parent": 1,
+            "text": "Duration and Nature of Pain. Chronic limps most often arise from Legg-Calvé-Perthes disease, overuse syndromes, apophysitis, SCFE, or systemic illness (e.g., rheumatic disease, tumor)."
+        },
+        {
+            "parent": 1,
+            "text": "History of Trauma. Patients with soft tissue injuries (e.g., sprain, strain, contusion) and fractures often have a history of trauma, although seemingly trivial trauma in toddlers may be overlooked by caregivers."
+        },
+        {
+            "parent": 1,
+            "text": "Associated Systemic Signs. Fever, weight loss, night sweats, and anorexia suggest infection, inflammation, or malignancy. Toxic synovitis also may present with an associated viral illness and fever. Rheumatic disease and leukemia are rare causes of fever and limp."
+        },
+        {
+            "parent": 1,
+            "text": "Isolated musculoskeletal pain in the absence of other signs or symptoms is almost never a presenting symptom in children with chronic arthritis. Malignant bone tumors can present with intermittent pain at rest, which may make the condition appear temporary and benign."
+        },
+        {
+            "parent": 2,
+            "text": "The goals of the physical examination are to identify the type of limp and, if possible, localize the site of pain.Table 3includes important findings.11"
+        },
+        {
+            "parent": 3,
+            "text": "Gait is best examined by having the child walk and run while distracted. Each limb segment should be observed systematically through several gait cycles. The stance and swing phases should be compared in both lower extremities. Upper body posturing and frontal-plane abnormalities, such as scoliosis or varus or valgus deformities of the lower extremities, should be noted. Differentiating between antalgic and nonantalgic gait and identifying the specific type of nonantalgic gait to help narrow the differential diagnosis(Figures 111and211)."
+        },
+        {
+            "parent": 3,
+            "text": "During the examination, the entire lower limbs, including hips and back, should be visible. Inspection should begin by noting the resting limb position, comparing both sides for symmetry, and evaluating for areas of erythema, swelling, and deformity. The extremities should then be palpated to localize the point of maximal tenderness and to detect any masses. Range of motion should be assessed in each joint, especially the hip(Figures 311and413). Joints adjacent to the painful joint should be examined to rule out referred pain; hip conditions can present as knee or lateral thigh pain. Measuring leg length from the hip to knee joint and knee joint to ankle may help rule out abnormal gait caused by a discrepancy in right vs. left leg length."
+        },
+        {
+            "parent": 3,
+            "text": "General ill appearance or significant pain suggests a more serious cause of limp. Infectious or inflammatory etiologies are often associated with fever. Spinal, pelvic, neurologic, abdominal, and genitourinary conditions may also present with a limp."
+        },
+        {
+            "parent": 4,
+            "text": "The following tests may be performed to further evaluate a limping child."
+        },
+        {
+            "parent": 4,
+            "text": "Trendelenburg Test. The child stands on the affected limb while lifting the unaffected limb off the floor. The test is positive if the pelvis fails to stay level and drops downward toward the normal side, indicating a condition that causes weakness in the hip abductors."
+        },
+        {
+            "parent": 4,
+            "text": "Galeazzi Sign (Figure 511). The child lies supine with the hips and knees flexed. If the knee on the affected side is lower than the knee on the normal side, the child may have a condition that causes a leg-length discrepancy."
+        },
+        {
+            "parent": 4,
+            "text": "Evaluation of Flexion/Internal Rotation. Flexing and internally rotating the hip decreases the intracapsular space. This may elicit pain in children with hip effusions. Although not diagnostic in terms of etiology, this test is highly sensitive in detecting intra-articular hip pathology and is helpful in detecting other intra-articular hip conditions such as Legg-Calvé-Perthes disease and SCFE. A child holding his or her hip in a characteristic flexed and externally rotated position to decrease the intracapsular pressure is highly suggestive of septic arthritis(Figure 6)."
+        },
+        {
+            "parent": 4,
+            "text": "Patrick (FABER) Test (eFigure A). With the child supine, the examiner flexes, abducts, and externally rotates the hip joint. Pain with this maneuver indicates sacroiliac joint pathology."
+        },
+        {
+            "parent": 4,
+            "text": "Pelvic Compression Test. With the child supine, the examiner compresses the iliac wings toward each other. Pain with the maneuver indicates sacroiliac joint pathology."
+        },
+        {
+            "parent": 4,
+            "text": "Psoas Sign. With the child lying on his or her side, the examiner passively extends the hip. Pain with hip extension suggests a possible psoas abscess or appendicitis."
+        },
+        {
+            "parent": 5,
+            "text": "A complete blood count with differential, erythrocyte sedimentation rate (ESR), and C-reactive protein (CRP) measurement should be obtained when infection, inflammatory arthritis, or neoplasm is suspected. If septic arthritis is suspected, joint fluid aspiration should be performed urgently for Gram staining, culture, and cell count. Laboratory tests for the evaluation of a limping child are summarized ineTable A."
+        },
+        {
+            "parent": 7,
+            "text": "In the absence of localized pathology, plain radiography of both lower extremities should be performed.14If the clinical evaluation suggests localized pathology, anteroposterior and lateral radiography of the affected areas should be performed. Frog-leg lateral radiographs should be used when evaluating the hip, especially when SCFE is a concern(Figure 711). Obtaining radiographs of both hips can be helpful to evaluate side-to-side symmetry and ensure that a mild contralateral SCFE, which can be asymptomatic, is not missed. Initial radiograph findings in children with stress fractures, toddler's fracture (fracture of the distal tibia common in toddlers), Legg-Calvé-Perthes disease, osteomyelitis, and septic arthritis may be normal in the early stages."
+        },
+        {
+            "parent": 8,
+            "text": "Ultrasonography is recommended over plain radiography for detecting hip effusions in children because of its high sensitivity, but it cannot differentiate between sterile, purulent, and hemorrhagic fluid accumulations.14If an effusion is seen in the hip joint and the clinical suspicion for septic arthritis is high, urgent ultrasound-guided aspiration should be performed and the joint fluid should be sent for Gram stain, cell count, and culture.15Ultrasonography should not delay aspiration.6"
+        },
+        {
+            "parent": 9,
+            "text": "Bone scintigraphy is helpful when history, physical examination, radiograph, and ultrasound findings fail to localize the pathologic area.6,14Bone scanning is useful for detecting occult fractures, stress fractures, osteomyelitis, tumors, and metastatic lesions. Although bone scintigraphy has high sensitivity, it lacks specificity. Computed tomography is indicated specifically when cortical bone needs to be visualized.6"
+        },
+        {
+            "parent": 10,
+            "text": "Magnetic resonance imaging (MRI) is beneficial for visualizing joints, soft tissues, cartilage, and medullary bone.6Contrast MRI may help differentiate septic arthritis of the hip from transient synovitis in patients with hip effusion.16,17MRI has high sensitivity and specificity and is especially useful for confirming osteomyelitis(Figure 811), delineating the extent of malignancies, identifying stress fractures, and diagnosing early Legg-Calvé-Perthes disease.18,19Between 15% and 63% of patients with SCFE have involvement of the contralateral hip,20and MRI is useful for diagnosing “preslips” in these patients.21"
+        },
+        {
+            "parent": 12,
+            "text": "Children with transient synovitis often are afebrile, have a nontoxic appearance, and have less acute pain and restriction in range of motion of the hip compared with children with septic arthritis, who typically have a toxic appearance and pain with movement of the joint in any direction. Septic arthritis of the hip should be suspected in a child with an oral temperature more than 101.3°F (38.5°C), refusal to bear weight, ESR more than 40 mm per hour, peripheral white blood cell count more than 12,000 per mm3(12 × 109per L), or CRP level more than 20 mg per L (180.96 nmol per L). Earlier studies found that the probability of having septic arthritis ranges from 37% with one of these predictors to 98% with all five predictors.5,6However, a more recent study in a lower-prevalence population found the probability of septic arthritis to be 60% with all five predictors.22Another study found that only weight-bearing status and CRP level more than 20 mg per L independently differentiated septic arthritis from transient synovitis. Individuals with neither predictor had a less than 1% probability of septic arthritis, but those with both had a 74% probability.23"
+        },
+        {
+            "parent": 13,
+            "text": "Diskitis and vertebral osteomyelitis can both lead to a limp or refusal to walk, fever, and back pain. Fever is much more common, usually higher, and of longer duration with vertebral osteomyelitis.24A child with diskitis usually is not ill-appearing, whereas a child with vertebral osteomyelitis has a toxic appearance. In addition, diskitis almost exclusively involves the lumbar region, and vertebral osteomyelitis can involve any part of the spine. Radiographs of a child with diskitis may show disk space narrowing and variable degrees of destruction of adjacent vertebral end plates; in a child with vertebral osteomyelitis, localized rarefaction of one vertebral body and bony destruction may be seen. MRI is the diagnostic study of choice in a child with suspected vertebral osteomyelitis.25"
+        },
+        {
+            "parent": 14,
+            "text": "Malignancies and rheumatologic conditions can have overlapping clinical features such as musculoskeletal pain, fever, fatigue, weight loss, hepatomegaly, and arthritis. Features of malignancy include nonarticular bone pain or tenderness, back pain, severe constitutional symptoms, night sweats, ecchymosis, bruising, abnormal neurologic signs, and abnormal masses. An elevated ESR in the presence of a normal or low platelet count may also suggest malignancy. One study of children presenting with unexplained musculoskeletal problems found that the presence of a low white blood cell count, a low to normal platelet count, and a history of nighttime pain has a sensitivity of 100% and a specificity of 85% for the diagnosis of acute lymphocytic leukemia.26"
+        },
+        {
+            "parent": 15,
+            "text": "Patients with a psoas abscess may have a palpable abdominal mass and a positive psoas sign. Additionally, scoliosis, sciatica, and femoral nerve neuropathy may be present because of the proximity of the psoas abscess to the spine and the peripheral nerves.27In children with a psoas abscess, flexing of the hip relieves the pain and allows painless internal and external rotation of the hip, whereas range of motion is painful and limited in all directions in those with septic arthritis. Plain radiographs in a child with psoas abscess may show obscuration of the sacroiliac joint. Computed tomography or MRI can be used to confirm the diagnosis."
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key terms limping child, diagnosis, and treatment. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. We also searched Google Scholar, the Cochrane database, Essential Evidence Plus, and Medline. Search dates: September 1, 2014, and September 9, 2015."
+        },
+        {
+            "parent": 15,
+            "text": "note: This review updates aprevious articleon this topic by Sawyer and Kapoor.11The authors thank George Cibulas II for his assistance in the preparation of the manuscript."
+        }
+    ],
+    "locked": false
+}

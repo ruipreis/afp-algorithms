@@ -1,0 +1,288 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2001/0815/p603.html#afp20010815p603-f1",
+    "title": "COPD: Management of Acute Exacerbations and Chronic Stable Disease | AAFP",
+    "author": "MELISSA H. HUNTER, M.D., AND DANA E. KING, M.D.",
+    "doi": "Am Fam Physician.2001;64(4):603-613",
+    "abstract": "Acute exacerbations of chronic obstructive pulmonary disease (COPD) are treated with oxygen (in hypoxemic patients), inhaled beta2agonists, inhaled anticholinergics, antibiotics and systemic corticosteroids. Methylxanthine therapy may be considered in patients who do not respond to other bronchodilators. Antibiotic therapy is directed at the most common pathogens, includingStreptococcus pneumoniae, Haemophilus influenzaeandMoraxella catarrhalis. Mild to moderate exacerbations of COPD are usually treated with older broad-spectrum antibiotics such as doxycycline, trimethoprim-sulfamethoxazole and amoxicillin-clavulanate potassium. Treatment with augmented penicillins, fluoroquinolones, third-generation cephalosporins or aminoglycosides may be considered in patients with more severe exacerbations. The management of chronic stable COPD always includes smoking cessation and oxygen therapy. Inhaled beta2agonists, inhaled anticholinergics and systemic corticosteroids provide short-term benefits in patients with chronic stable disease. Inhaled corticosteroids decrease airway reactivity and reduce the use of health care services for management of respiratory symptoms. Preventing acute exacerbations helps to reduce long-term complications. Long-term oxygen therapy, regular monitoring of pulmonary function and referral for pulmonary rehabilitation are often indicated. Influenza and pneumococcal vaccines should be given. Patients who do not respond to standard therapies may benefit from surgery.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Prognostic Indicators",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Pharmacologic Management of Exacerbations",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "OXYGENATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "BRONCHODILATORS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ANTICHOLINERGICS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ANTIBIOTICS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CORTICOSTEROIDS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "METHYLXANTHINES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Management of Chronic Stable Disease",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "NONPHARMACOLOGIC INTERVENTIONS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "PHARMACOLOGIC INTERVENTIONS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "HYPOXEMIA",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "PULMONARY REHABILITATION",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "SURGERY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Despite public education about the dangers of smoking, chronic obstructive pulmonary disease (COPD) continues to be a major medical problem and is now the fourth leading cause of death in the United States.1Approximately 20 percent of adult Americans have COPD.2Acute bronchitis and acute exacerbations of COPD are among the most common illnesses encountered by family physicians and account for more than 14 million physician visits annually.3,4"
+        },
+        {
+            "parent": -1,
+            "text": "To date, widespread agreement on the precise definition of COPD is lacking. The American Thoracic Society (ATS) defines COPD as a disease process involving progressive chronic airflow obstruction because of chronic bronchitis, emphysema, or both.5Chronic bronchitis is defined clinically as excessive cough and sputum production on most days for at least three months during at least two consecutive years.6Emphysema is characterized by chronic dyspnea resulting from the destruction of lung tissue and the enlargement of air spaces. Asthma, which also features airflow obstruction, airway inflammation and increased airway responsiveness to various stimuli, may be distinguished from COPD by reversibility of pulmonary function deficits.5"
+        },
+        {
+            "parent": -1,
+            "text": "Outpatient management of patients with stable COPD should be directed at improving quality of life by preventing acute exacerbations, relieving symptoms and slowing the progressive deterioration of lung function. The clinical course of COPD is characterized by chronic disability, with intermittent acute exacerbations that occur more often during the winter months. When exacerbations occur, they typically manifest as increased sputum production, more purulent sputum and worsening of dyspnea.7Although infectious etiologies account for most exacerbations, exposure to allergens, pollutants or inhaled irritants may also play a role.8This article reviews the management of acute exacerbations and stable COPD."
+        },
+        {
+            "parent": 0,
+            "text": "COPD is one of the most serious and disabling conditions in middle-aged and elderly Americans. Cigarette smoking is implicated in 90 percent of cases and, along with coronary artery disease, is a leading cause of disability.9Two thirds of patients with COPD have serious chronic dyspnea, and nearly 25 percent have profound total body pain.10"
+        },
+        {
+            "parent": 0,
+            "text": "COPD has a major impact on the families of affected patients. Caring for these patients at home can be difficult because of their functional limitations and anxieties about air hunger. Furthermore, patients with COPD can have frequent exacerbations that often require medical intervention. Ultimately, caregivers may have the burden of considering end-of-life decisions."
+        },
+        {
+            "parent": 1,
+            "text": "COPD is a subset of obstructive lung diseases that also includes cystic fibrosis, bronchiectasis and asthma. COPD is characterized by degeneration and destruction of the lung and supporting tissue, processes that result in emphysema, chronic bronchitis, or both. Emphysema begins with small airway disease and progresses to alveolar destruction, with a predominance of small airway narrowing and mucous gland hyperplasia."
+        },
+        {
+            "parent": 1,
+            "text": "The pathophysiology of COPD is not completely understood. Chronic inflammation of the cells lining the bronchial tree plays a prominent role. Smoking and, occasionally, other inhaled irritants, perpetuates an ongoing inflammatory response that leads to airway narrowing and hyperactivity. As a result, airways become edematous, excess mucus production occurs and cilia function poorly. With disease progression, patients have increasing difficulty clearing secretions. Consequently, they develop a chronic productive cough, wheezing and dyspnea. Bacterial colonization of the airways leads to further inflammation and the formation of diverticula in the bronchial tree."
+        },
+        {
+            "parent": 1,
+            "text": "Exacerbations of COPD can be caused by many factors, including environmental irritants, heart failure or noncompliance with medication use.11Most often, however, exacerbations are the result of bacterial or viral infection(Table 1).12Bacterial infection is a factor in 70 to 75 percent of exacerbations, with up to 60 percent caused byStreptococcus pneumoniae, Haemophilus influenzaeorMoraxella catarrhalis.13Atypical organisms such asChlamydia pneumoniaehave been implicated in about 10 percent of exacerbations. The remaining 25 to 30 percent of cases are usually caused by viruses.14More serious exacerbations requiring mechanical ventilation have been associated with Pseudomonas species. These exacerbations are more common in patients with severe disease and a history of frequent exacerbations.13"
+        },
+        {
+            "parent": 2,
+            "text": "Over the past 40 years, numerous studies have attempted to determine which factors influence survival in patients with COPD. Most of these studies have examined survival in stable outpatients. The long-term prognosis for patients with symptomatic chronic bronchitis is not promising. Data from the past decade indicate that 60-year-old smokers with chronic bronchitis have a 10-year mortality rate of 60 percent, which is four times higher than the mortality rate for agematched nonsmoking asthmatics.15"
+        },
+        {
+            "parent": 2,
+            "text": "Several studies have shown that the strongest predictors of mortality are older age and a decreased forced expiratory volume per second (FEV1)16,17(Table 2).18Younger patients with COPD generally have a lower mortality rate unless they also have alpha1-antitrypsin deficiency, a rare genetic abnormality that causes panlobular emphysema in younger adults. Alpha1-antitrypsin deficiency should be suspected when COPD develops in a patient younger than 45 years who does not have a history of chronic bronchitis or tobacco use, or when multiple family members develop obstructive lung disease at an early age. Reversible changes after bronchodilator administration are a sign of less advanced disease and improved survival."
+        },
+        {
+            "parent": 2,
+            "text": "Decreases in FEV1on serial testing are associated with increased mortality (i.e., patients with a faster decline of FEV1have a higher rate of death). Cigarette smoking is the major risk factor associated with an accelerated decline of FEV1. Smoking cessation in patients with early COPD improves lung function initially and slows the annual decline of FEV1.19–21Other factors found to relate positively to survival include a higher partial pressure of arterial oxygen (PaO2), a history of atopy and higher diffusion and exercise capacity.16,22–24Factors found to decrease survival include malnutrition and weight loss, dyspnea, hypoxemia (PaO2less than 55 mm Hg), right-sided heart failure, tachycardia at rest and increased partial pressure of arterial carbon dioxide (PaCO2higher than 45 mm Hg).16,25,26"
+        },
+        {
+            "parent": 2,
+            "text": "Recommendations for the clinical monitoring of patients with COPD include serial FEV1measurements, pulse oximetry and timed walking of predetermined distances, although a decline in the FEV1has the most predictive value.27An FEV1of less than 1 L signifies severe disease, and an FEV1of less than 750 mL or less than 50 percent predicted on spirometric testing is associated with a poorer prognosis."
+        },
+        {
+            "parent": 3,
+            "text": "Because no curative therapy is available, management of severe exacerbations of COPD should be directed at relieving symptoms and restoring functional capacity(Figure 1).5Patients with COPD often have poor baseline functional status with few respiratory reserves. Infections can worsen their condition and lead to a quick decline in pulmonary function."
+        },
+        {
+            "parent": 3,
+            "text": "The ATS has recommended strategies for managing acute exacerbations of chronic bronchitis and emphysema.5These strategies include beta2agonists, the addition of anticholinergics (or an increase in their dosage), the intravenous administration of corticosteroids, antibiotic therapy when indicated, and the intravenous administration of methylxanthines such as aminophylline.11"
+        },
+        {
+            "parent": 3,
+            "text": "Hospitalization of patients with COPD may be necessary to provide antibiotic therapy, appropriate supportive care and monitoring of oxygen status. Oxygen supplementation via external devices or mechanical ventilation may be indicated to maintain oxygen delivery to vital tissues."
+        },
+        {
+            "parent": 4,
+            "text": "Initial therapy should focus on maintaining oxygen saturation at 90 percent or higher. Oxygen status can be monitored clinically, as well as by pulse oximetry. Oxygen supplementation by nasal cannula or face mask is frequently required. With more severe exacerbations, intubation or a positive-pressure mask ventilation method (e.g., continuous positive airway pressure [CPAP]) is often necessary to provide adequate oxygenation. Such interventions are more likely to be needed when hypercapnia is present, exacerbations are frequent or altered mental status is evident.12"
+        },
+        {
+            "parent": 5,
+            "text": "Inhaled beta2agonists should be administered as soon as possible during an acute exacerbation of COPD. Use of a nebulizer to provide albuterol (Ventolin) or a similar agent with saline and oxygen enhances delivery of the medication to the airways.28"
+        },
+        {
+            "parent": 5,
+            "text": "Beta2agonists can be delivered effectively by metered-dose inhaler if patients are able to use proper technique, which may be difficult during an exacerbation. Salmeterol (Serevent), a long-acting beta2agonist, has been shown to relieve symptoms in patients with COPD.29Twice-daily dosing is an added benefit and may be convenient for many patients."
+        },
+        {
+            "parent": 5,
+            "text": "Orally administered beta2agonists have more side effects than inhaled forms. Hence, oral agents generally are not used to treat exacerbations of COPD."
+        },
+        {
+            "parent": 6,
+            "text": "Compared with beta2agonists, inhaled anticholinergics such as ipratropium (Atrovent) provide the same or greater bronchodilation. These agents have been shown to be beneficial in patients with COPD.12Anticholinergics can be delivered by nebulizer or metered-dose inhaler. In inhaled forms, anticholinergics have few adverse effects because of minimal systemic absorption. Use of a combination product such as ipratropium-albuterol (Combivent) may simplify the medication regimen, thereby improving compliance."
+        },
+        {
+            "parent": 7,
+            "text": "Antibiotic therapy has been shown to have a small but important effect on clinical recovery and outcome in patients with acute exacerbations of chronic bronchitis and emphysema.30Therefore, antibiotic administration should be considered at the beginning of treatment for exacerbations of COPD.12"
+        },
+        {
+            "parent": 7,
+            "text": "A recent meta-analysis30of nine clinical trials demonstrated the benefit of antibiotic therapy in the management of COPD. Therapy for moderate acute exacerbations of chronic bronchitis and emphysema should be directed atS. pneumoniae, H. influenzaeandM. catarrhalis, which are the most common pathogens, withC. pneumoniaeandMycoplasma pneumoniaeoccurring less often."
+        },
+        {
+            "parent": 7,
+            "text": "Initial outpatient management may include orally administered doxycycline (Vibramycin), trimethoprim-sulfamethoxazole (Bactrim DS, Septra DS) or amoxicillin-clavulanate potassium (Augmentin).12Patients who are older than 65 years of age or have more frequent exacerbations (four or more episodes per year) may need an augmented penicillin or a fluoroquinolone."
+        },
+        {
+            "parent": 7,
+            "text": "Hospitalized patients should receive intravenous treatment with an antipseudomonal penicillin, a third-generation cephalosporin, a newer macrolide or a fluoroquinolone, as determined by local bacterial resistance patterns. In more severe exacerbations, infections with gram-negative bacteria (especially Klebsiella and Pseudomonas species) are more common. Thus, treatment should include a third-generation cephalosporin or an augmented penicillin, plus a fluoroquinolone or an aminoglycoside for synergy."
+        },
+        {
+            "parent": 7,
+            "text": "Some of the antibiotics most commonly used to treat acute exacerbations of chronic bronchitis and emphysema are listed inTable 3.12,28,29Antibiotic resistance poses an increasing problem, especially in infections caused byS. pneumoniae, beta-lactamase-producingH. influenzaeandM. catarrhalis. Consequently, physicians often are forced to use broader spectrum antibiotics for empiric therapy.31Cultures of respiratory samples are useful for guiding antibiotic therapy in patients who require mechanical ventilation.13"
+        },
+        {
+            "parent": 8,
+            "text": "Short courses of systemic corticosteroids may provide important benefits in patients with exacerbations of COPD. A recent clinical trial32involving 271 patients in Veterans Affairs hospitals showed that steroid therapy resulted in moderate improvement of clinical outcomes, with shorter hospital stays and increases in FEV1. The fact that there were no significant differences between patients treated for two weeks and those treated for eight weeks justifies the use of a shorter course of corticosteroids to reduce the occurrence of adverse effects. Adverse effects can include hyperglycemia, secondary infection and behavioral changes.33"
+        },
+        {
+            "parent": 8,
+            "text": "For severe exacerbations of COPD requiring inpatient therapy, methylprednisolone sodium succinate (Solu-Medrol) is commonly used initially. The steroid is administered intravenously in a dosage of 1 to 2 mg per kg every six to 12 hours. After two to three days of intravenous therapy, the patient can be switched to orally administered prednisone in a starting dosage of 60 mg daily for a total of two weeks of therapy. Tapering doses of prednisone should then be given over a two-week period to avoid adverse effects from sudden withdrawal."
+        },
+        {
+            "parent": 8,
+            "text": "Currently, no criteria have been established for deciding which patients benefit most from corticosteroid therapy. Thus, all patients without serious contraindications should receive systemic corticosteroids for severe exacerbations of COPD."
+        },
+        {
+            "parent": 9,
+            "text": "The use of methylxanthines such as aminophylline and theophylline is controversial in patients with exacerbations of COPD. Although methylxanthines can be of some help in improving diaphragmatic function, they are potentially toxic and are associated with serious drug effects.34"
+        },
+        {
+            "parent": 9,
+            "text": "Nevertheless, with close monitoring and attention to potential adverse effects, methylxanthines may have a place in the treatment of patients who do not respond to other bronchodilators. They may also have a role in the management of patients with chronic stable disease who cannot operate metereddose inhalers or use other medications because of adverse drug effects."
+        },
+        {
+            "parent": 9,
+            "text": "Dosages of aminophylline ranging from 10 to 15 mg per kg daily are required to achieve therapeutic levels of 10 to 20 mg per mL Increased serum levels can be expected with concomitant use of cimetidine (Tagamet), ciprofloxacin (Cipro) or erythromycin.35Smoking promotes methylxanthine metabolism and decreases serum drug levels.9"
+        },
+        {
+            "parent": 11,
+            "text": "Patients with COPD should be encouraged to adopt and maintain a healthy lifestyle. Regular exercise should be promoted, and nutritional management should be provided. Patients who smoke should stop smoking. Weight loss should be encouraged in obese patients labeled as “blue bloaters,” and nutritional supplementation should be considered in thin patients labeled as “pink puffers.” Comprehensive pulmonary rehabilitation also should be considered."
+        },
+        {
+            "parent": 11,
+            "text": "Home health care services are key to successful management in outpatient settings. Hospice care may be appropriate for selected patients."
+        },
+        {
+            "parent": 11,
+            "text": "Smoking cessation is the most important, and probably the most difficult, factor in preventing or treating COPD. Interventions available to help patients stop smoking include behavioral modification programs and pharmacologic agents such as nicotine replacement products and antidepressants (e.g., bupropion [Zyban]). A combination of pharmacologic and behavioral approaches appears to yield the best quit rates. The effectiveness of nicotine patches is improved in patients who also receive even minimal counseling from a health care provider.36"
+        },
+        {
+            "parent": 12,
+            "text": "Pharmacologic interventions used in the treatment of stable COPD include essentially the same medications for the management of acute exacerbations of chronic bronchitis and emphysema(Figure 1).5Based on clinical evidence, at least short-term benefits result from treatment that includes inhaled beta2agonists, inhaled anticholinergics and orally administered corticosteroids."
+        },
+        {
+            "parent": 12,
+            "text": "Anticholinergics such as ipratropium seem to provide some short-term improvement in airway obstruction but have no significant effect on the rate of decline of FEV1.37Both short-acting and long-acting beta2agonists produce short-term bronchodilation, relieve symptoms and improve quality of life in patients with COPD.38The use of combined beta2agonists and anticholinergic agents has been found to provide small additional bronchodilation compared with the use of either medication alone.39"
+        },
+        {
+            "parent": 12,
+            "text": "Treatment with orally administered corticosteroids for two to four weeks has been correlated with a 20 percent or greater improvement of the baseline FEV1in patients with COPD.40However, no current evidence is available on the long-term effects of steroid therapy on lung function."
+        },
+        {
+            "parent": 12,
+            "text": "The effectiveness of inhaled corticosteroids remains controversial. Recent investigations in the Lung Health Study41have shown no slowing of the rate of decline of FEV1. However, inhaled steroids seem to improve airway reactivity and respiratory symptoms, and they also have been found to decrease the use of health care services for treatment of respiratory problems."
+        },
+        {
+            "parent": 12,
+            "text": "If long-term corticosteroid therapy is contemplated, it is important to consider possible adverse effects. These include potential effects on bone mineral density, weight gain and the development of glucose intolerance."
+        },
+        {
+            "parent": 12,
+            "text": "Antibiotics are generally reserved for use in episodes of acute exacerbations of chronic bronchitis and emphysema. Theophylline may induce short-term improvement of the FEV1, but the benefits of methylxanthine therapy should be weighed against potential side effects and possible toxicity."
+        },
+        {
+            "parent": 13,
+            "text": "Apart from smoking cessation, supplemental oxygen therapy is the only measure that has been shown to reduce mortality in patients with COPD.42Supplemental oxygen should be given to patients who are hypoxemic with a PaO2of 55 mm Hg or less, or an oxygen saturation of 88 percent or less while sleeping."
+        },
+        {
+            "parent": 13,
+            "text": "Oxygen therapy, with delivery by nasal cannula or CPAP, may be provided in the home. Continuous long-term oxygen therapy (LTOT) should be considered in patients with a PaO2below 55 mm Hg while at rest and awake, and in patients with accompanying polycythemia, pulmonary hypertension, rightsided heart failure or hypercapnia (PaCO2above 45 mm Hg). CPAP is generally reserved for patients with chronic hypercapnia."
+        },
+        {
+            "parent": 13,
+            "text": "One set of investigators43found significant decreases in hospital admissions and length of hospital stays for acute exacerbations of COPD in patients treated with CPAP and LTOT. Home health care services and nursing care are essential to assist patients in the proper use of these measures."
+        },
+        {
+            "parent": 14,
+            "text": "Pulmonary rehabilitation and exercise may be beneficial as adjunct treatment in patients whose symptoms are not adequately addressed with pharmacologic therapy. The goals of pulmonary rehabilitation are to enhance standard medical therapy and maximize functional capacity. Rehabilitation exercises can also improve exercise tolerance.44Pulmonary rehabilitation may be most useful in patients who have limited activity and decreased quality of life."
+        },
+        {
+            "parent": 14,
+            "text": "Rehabilitation programs should include the following: patient and family education; smoking cessation; physical, nutritional and occupational therapy; and, in selected patients, LTOT or CPAP."
+        },
+        {
+            "parent": 14,
+            "text": "Long-term management and monitoring should include periodic spirometry and measurement of arterial blood gases to assess the need for supplemental LTOT or CPAP once the PaO2is below 55 mm Hg or the PaCO2is above 45 mm Hg. The use of sedatives and hypnotics should be avoided."
+        },
+        {
+            "parent": 14,
+            "text": "Annual influenza immunization is recommended for patients with COPD. Pneumococcal vaccine should be given at least once, with consideration of re-vaccination every five to 10 years."
+        },
+        {
+            "parent": 15,
+            "text": "Surgical interventions in COPD include lung transplantation and lung volume reduction procedures. Recent advances in immune suppression and an improved understanding of the timing of interventions and the selection of appropriate recipients have made transplantation a realistic option."
+        },
+        {
+            "parent": 15,
+            "text": "The goal of lung volume reduction surgery is to reduce hyperinflation of one or both lungs by surgical and/or laser resection. The results of one study45showed a one-year 45 percent increase in FEV1, a 25 percent decrease in total lung capacity and an improvement of exercise performance in patients who underwent the procedure. Preliminary findings in other studies have shown improvement in dyspnea, quality of life and lung function.46However, the perioperative mortality rate can be as high as 10 percent, and cost-effectiveness should be considered before lung volume reduction surgery becomes widely used.47"
+        }
+    ],
+    "locked": false
+}

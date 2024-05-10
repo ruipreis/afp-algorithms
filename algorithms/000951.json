@@ -1,0 +1,235 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/0801/p455.html#afp19990801p455-f2",
+    "title": "Management of Diabetic Ketoacidosis | AAFP",
+    "author": "ABBAS E. KITABCHI, PH.D., M.D., AND BARRY M. WALL, M.D.",
+    "doi": "Am Fam Physician.1999;60(2):455-464",
+    "abstract": "Diabetic ketoacidosis is an emergency medical condition that can be life-threatening if not treated properly. The incidence of this condition may be increasing, and a 1 to 2 percent mortality rate has stubbornly persisted since the 1970s. Diabetic ketoacidosis occurs most often in patients with type 1 diabetes (formerly called insulin-dependent diabetes mellitus); however, its occurrence in patients with type 2 diabetes (formerly called non–insulin-dependent diabetes mellitus), particularly obese black patients, is not as rare as was once thought. The management of patients with diabetic ketoacidosis includes obtaining a thorough but rapid history and performing a physical examination in an attempt to identify possible precipitating factors. The major treatment of this condition is initial rehydration (using isotonic saline) with subsequent potassium replacement and low-dose insulin therapy. The use of bicarbonate is not recommended in most patients. Cerebral edema, one of the most dire complications of diabetic ketoacidosis, occurs more commonly in children and adolescents than in adults. Continuous follow-up of patients using treatment algorithms and flow sheets can help to minimize adverse outcomes. Preventive measures include patient education and instructions for the patient to contact the physician early during an illness.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Evaluation of Patients with Diabetic Ketoacidosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "FLUID REPLACEMENT",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "INSULIN THERAPY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "POTASSIUM THERAPY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "BICARBONATE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PHOSPHATE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Immediate Posthyperglycemic Care",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Complications of Therapy",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Resource Utilization in Diabetic Ketoacidosis",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Diabetic ketoacidosis is a triad of hyperglycemia, ketonemia and acidemia, each of which may be caused by other conditions(Figure 1).1Although diabetic ketoacidosis most often occurs in patients with type 1 diabetes (formerly called insulin-dependent diabetes mellitus), more recent studies suggest that it can sometimes be the presenting condition in obese black patients with newly diagnosed type 2 diabetes (formerly called non–insulin-dependent diabetes mellitus).2,3"
+        },
+        {
+            "parent": -1,
+            "text": "The commonly used diagnostic criteria for diabetic ketoacidosis and average deficits of water and electrolytes are given inTable 1.4The therapeutic regimen, which consists of replacing fluid and electrolyte losses and administering low-dose insulin, is based on an understanding of the pathogenesis of the condition. Although protocols for the treatment of diabetic ketoacidosis are well established, a 1 to 2 percent mortality rate has persisted since the 1970s,5emphasizing the need for careful, ongoing evaluation of this sometimes “routine” medical emergency."
+        },
+        {
+            "parent": -1,
+            "text": "Major components of the pathogenesis of diabetic ketoacidosis are reductions in effective concentrations of circulating insulin and concomitant elevations of counterregulatory hormones (catecholamines, glucagon, growth hormone and cortisol).6These hormonal alterations bring about three major metabolic events: (1) hyperglycemia resulting from accelerated gluconeogenesis and decreased glucose utilization, (2) increased proteolysis and decreased protein synthesis and (3) increased lipolysis and ketone production.7"
+        },
+        {
+            "parent": -1,
+            "text": "Hyperglycemia initially causes the movement of water out of cells, with subsequent intracellular dehydration, extra-cellular fluid expansion and hyponatremia. It also leads to a diuresis in which water losses exceed sodium chloride losses. Urinary losses then lead to progressive dehydration and volume depletion, which causes diminished urine flow and greater retention of glucose in plasma. The net result of all these alterations is hyperglycemia with metabolic acidosis and an increased plasma anion gap.8"
+        },
+        {
+            "parent": 0,
+            "text": "The history and physical examination continue to be important aspects of management. Even in comatose patients, information documenting a history of diabetes or insulin therapy may be available. The physical examination can provide supportive evidence for the diagnosis of diabetic ketoacidosis and can point to precipitating factors(Table 2).3,4"
+        },
+        {
+            "parent": 0,
+            "text": "Although usually straightforward, the diagnosis of diabetic ketoacidosis is occasionally missed in unusual situations, such as when it is the initial presentation of diabetes in infants or elderly patients or when patients present with sepsis or infarction of the brain, bowel or myocardium. These presentations can distract the physician from the underlying diagnosis of diabetic ketoacidosis."
+        },
+        {
+            "parent": 0,
+            "text": "The laboratory tests needed to confirm the presence of diabetic ketoacidosis and to screen for precipitating events are summarized inTable 14andFigure 2. The essential data can be obtained promptly in the emergency department."
+        },
+        {
+            "parent": 1,
+            "text": "The therapeutic goals for diabetic ketoacidosis consist of improving circulatory volume and tissue perfusion, reducing blood glucose and serum osmolality toward normal levels, clearing ketones from serum and urine at a steady rate, correcting electrolyte imbalances and identifying precipitating factors. A suggested flow sheet for monitoring therapeutic response is provided inFigure 3.6"
+        },
+        {
+            "parent": 2,
+            "text": "The severity of fluid and sodium deficits(Table 1)4is determined primarily by the duration of hyperglycemia, the level of renal function and the patient's fluid intake. Dehydration can be estimated by clinical examination and by calculating total serum osmolality and the corrected serum sodium concentration. Total serum osmolality is calculated using the following equation:"
+        },
+        {
+            "parent": 2,
+            "text": "The measured serum sodium concentration can be corrected for the changes related to hyperglycemia by adding 1.6 mEq per L (1.6 mmol per L) to the measured sodium value for every 100 mg per dL (5.6 mmol per L) of glucose over the normal baseline of 100 mg per dL.1,8Corrected serum sodium concentrations of greater than 140 mEq per L (140 mmol per L) and calculated total osmolalities of greater than 330 mOsm per kg of water are associated with large fluid deficits.4,6Calculated total osmolalities are correlated with mental status, in that stupor and coma typically occur with an osmolality of greater than 330 mOsm per kg of water.1,6"
+        },
+        {
+            "parent": 2,
+            "text": "The initial priority in the treatment of diabetic ketoacidosis is the restoration of extra-cellular fluid volume through the intravenous administration of a normal saline (0.9 percent sodium chloride) solution. This step will restore intravascular volume, decrease counterregulatory hormones and lower the blood glucose level.9As a result, insulin sensitivity may be augmented."
+        },
+        {
+            "parent": 2,
+            "text": "In patients with mild to moderate volume depletion, infusion rates of 7 mL per kg per hour have been as efficacious as infusion rates of 14 mL per kg per hour.10The subsequent administration of a hypotonic saline (0.45 percent sodium chloride) solution, which is similar in composition to the fluid lost during osmotic diuresis, leads to gradual replacement of deficits in both intracellular and extracellular compartments."
+        },
+        {
+            "parent": 2,
+            "text": "When the blood glucose concentration is approximately 250 mg per dL (13.9 mmol per L), glucose should be added to the hydration fluid (i.e., 5 percent dextrose in hypotonic saline solution). This allows continued insulin administration until ketonemia is controlled and also helps to avoid iatrogenic hypoglycemia."
+        },
+        {
+            "parent": 2,
+            "text": "Another important aspect of rehydration therapy in patients with diabetic ketoacidosis is the replacement of ongoing urinary losses."
+        },
+        {
+            "parent": 3,
+            "text": "Modern management of diabetic ketoacidosis has emphasized the use of lower doses of insulin. This has been shown to be the most efficacious treatment in both children and adults with diabetic ketoacidosis.11–14The current recommendation is to give low-dose (short-acting regular) insulin after the diagnosis of diabetic ketoacidosis has been confirmed by laboratory tests and fluid replacement has been initiated."
+        },
+        {
+            "parent": 3,
+            "text": "It is prudent to withhold insulin therapy until the serum potassium concentration has been determined. In the rare patient who presents with hypokalemia, insulin therapy may worsen the hypokalemia and precipitate life-threatening cardiac arrhythmias.1,2"
+        },
+        {
+            "parent": 3,
+            "text": "Standard low-dose insulin therapy consists of an initial intravenous bolus of 0.15 unit of regular insulin per kg followed by the continuous intravenous infusion of regular insulin prepared in normal saline or hypotonic saline solution at a rate of 0.1 unit per kg per hour."
+        },
+        {
+            "parent": 3,
+            "text": "In clinical situations in which continuous intravenous insulin cannot be administered, the recommended initial insulin dose is 0.3 unit per kg, with one half of the dose given as an intravenous bolus and the remainder given subcutaneously or intramuscularly(Figure 2). Subsequently, regular insulin should be given in a dosage of 0.1 unit per kg per hour until the blood glucose level is approximately 250 mg per dL."
+        },
+        {
+            "parent": 3,
+            "text": "If the blood glucose concentration does not fall by 50 to 70 mg per dL (2.8 to 3.9 mmol per L) in the first hour, the intravenous infusion rate should be doubled or additional intravenous 10-unit boluses of insulin should be given every hour(Figure 2). Either of these treatments should be continued until the blood glucose level falls by 50 to 70 mg per dL. Low-dose insulin therapy typically produces a linear fall in the glucose concentration of 50 to 70 mg per dL per hour.12"
+        },
+        {
+            "parent": 3,
+            "text": "More rapid correction of hyperglycemia should be avoided because it may increase the risk of cerebral edema. This dreaded treatment complication occurs in approximately 1 percent of children with diabetic ketoacidosis.5The typical presentation is onset of headache and decreased mental status occurring several hours after the start of treatment. Cerebral edema is associated with a mortality rate of up to 70 percent.15"
+        },
+        {
+            "parent": 3,
+            "text": "When a blood glucose concentration of 250 mg per dL has been achieved, the continuous or hourly insulin dosage can be reduced to 0.05 unit per kg per hour. The insulin and fluid regimens are continued until ketoacidosis is controlled. This requires the achievement of at least two of these acid-base parameters: a serum bicarbonate concentration of greater than 18 mEq per L, a venous pH of 7.3 or greater and an anion gap of less than 14 mEq per L."
+        },
+        {
+            "parent": 4,
+            "text": "Although the typical potassium deficit in diabetic ketoacidosis is 500 to 700 mEq (500 to 700 mmol), most patients are hyperkalemic at the time of diagnosis because of the effects of insulinopenia, hyperosmolality and acidemia.4During rehydration and insulin therapies for diabetic ketoacidosis, the serum potassium concentration typically declines rapidly as potassium reenters the intracellular compartment."
+        },
+        {
+            "parent": 4,
+            "text": "One protocol entails using insulin and intravenous fluids until the serum potassium concentration is less than 5.5 mEq per L (5.5 mmol per L). At this time, potassium chloride is added to intravenous fluids in the amount of 20 to 40 mEq per L. The exact amount of potassium that is administered depends on the serum potassium concentration. When the serum potassium level is less than 3.3 mEq per L (3.3 mmol per L), the administration of 40 mEq per L of potassium is appropriate. If the serum potassium is greater than 3.3 mEq per L but less than 5.5 mEq per L, 20 to 30 mEq per L of potassium can be administered. The goal is to maintain the serum potassium concentration in the range of 4 to 5 mEq per L (4 to 5 mmol per L).1,2,6"
+        },
+        {
+            "parent": 5,
+            "text": "In general, supplemental bicarbonate therapy is no longer recommended for patients with diabetic ketoacidosis, because the plasma bicarbonate concentration increases with insulin therapy.1,4,8,16,17Insulin administration inhibits ongoing lipolysis and ketone production and also promotes the regeneration of bicarbonate."
+        },
+        {
+            "parent": 5,
+            "text": "Retrospective reviews and prospective randomized studies have failed to identify changes in morbidity or mortality with sodium bicarbonate therapy in patients who presented with a pH of 6.9 to 7.1. Therefore, the use of bicarbonate in a patient with a pH greater than 7.0 is not recommended. Furthermore, bicarbonate therapy carries some risks, including hypokalemia with overly rapid administration, paradoxic cerebrospinal fluid acidosis and hypoxia.6,15,17"
+        },
+        {
+            "parent": 5,
+            "text": "Some authorities, however, recommend bicarbonate administration when the pH is less than 7.0, for the purpose of treating the possible adverse hemodynamic effects of profound acidemia. If bicarbonate is used, it should be given as a nearly isotonic solution, which can be approximated by the addition of one ampule of sodium bicarbonate in 300 mL of sterile water. The bicarbonate solution is administered over a one-hour period.1,2,8"
+        },
+        {
+            "parent": 5,
+            "text": "A small percentage of patients who have diabetic ketoacidosis present with metabolic acidosis and a normal anion gap. Therefore, they have fewer ketones available for the regeneration of bicarbonate during insulin administration.18Bicarbonate therapy may be warranted in this subset of patients."
+        },
+        {
+            "parent": 6,
+            "text": "Osmotic diuresis leads to increased urinary phosphate losses. During insulin therapy, phosphate reenters the intracellular compartment, leading to mild to moderate reductions in the serum phosphate concentration. Adverse complications of hypophosphatemia are uncommon and occur primarily in patients with severe hypophosphatemia (a serum phosphate concentration of less than 1.0 mg per dL [0.32 mmol per L])."
+        },
+        {
+            "parent": 6,
+            "text": "Prospective studies have indicated no clinical benefit for phosphate replacement in the treatment of diabetic ketoacidosis, and excessive phosphate replacement may contribute to hypocalcemia and soft tissue metastatic calcification.19–21Although the replacement of phosphate per se is not routinely recommended, it may be useful to replace some potassium as potassium phosphate. One protocol is to administer two thirds of the potassium as potassium chloride and one third as potassium phosphate. The use of phosphate for this purpose reduces the chloride load that might contribute to hyperchloremic acidosis and decreases the likelihood that the patient will develop severe hypophosphatemia during insulin therapy."
+        },
+        {
+            "parent": 7,
+            "text": "When diabetic ketoacidosis has been controlled, subcutaneous insulin therapy can be started. The half-life of regular insulin is less than 10 minutes. Therefore, to avoid relapse of diabetic ketoacidosis, the first subcutaneous dose of regular insulin should be given at least one hour before intravenous insulin is discontinued.1,22A protocol for the administration of subcutaneous insulin is included inFigure 2."
+        },
+        {
+            "parent": 7,
+            "text": "In patients who are unable to eat, 5 percent dextrose in hypotonic saline solution is continued at a rate of 100 to 200 mL per hour. Blood glucose levels are monitored every four hours, and regular insulin is given subcutaneously every four hours using a sliding scale (Figure 2). When patients are able to eat, multidose subcutaneous therapy with both regular (short-acting) and intermediate-acting insulin may be given."
+        },
+        {
+            "parent": 7,
+            "text": "In patients with newly diagnosed diabetes, an initial total insulin dosage of 0.6 to 0.7 unit per kg per day is usually adequate to achieve metabolic control. A typical regimen is two thirds of the total daily dosage before breakfast and one third of the total daily dosage before dinner, with the insulin doses consisting of two-thirds NPH (intermediate-acting) insulin and one-third regular (short-acting) insulin."
+        },
+        {
+            "parent": 7,
+            "text": "Patients with known diabetes can typically be given the dosage they were receiving before the onset of diabetic ketoacidosis."
+        },
+        {
+            "parent": 8,
+            "text": "Symptomatic cerebral edema occurs primarily in pediatric patients, particularly those with newly diagnosed diabetes. No single factor predictive for cerebral edema has yet been identified. As noted previously, however, overly rapid rehydration or overcorrection of hyperglycemia appears to increase the risk of cerebral edema. Onset of headache or mental status changes during therapy should lead to consideration of this complication. Intravenous mannitol in a dosage of 1 to 2 g per kg given over 15 minutes is the mainstay of therapy. Prompt involvement of a critical care specialist is prudent."
+        },
+        {
+            "parent": 8,
+            "text": "Adult respiratory distress syndrome (ARDS) is a rare but potentially fatal complication of the treatment of diabetic ketoacidosis.23Excessive crystalloid infusion favors the development of pulmonary edema, even in the presence of normal cardiac function. Patients with an increased alveolar to arterial oxygen gradient (AaO2) and patients with pulmonary rales on physical examination may be at increased risk for ARDS. Monitoring of oxygen saturation with pulse oximetry may assist in the management of such patients."
+        },
+        {
+            "parent": 8,
+            "text": "Hyperchloremic metabolic acidosis with a normal anion gap typically persists after the resolution of ketonemia. This acidosis has no adverse clinical effects and is gradually corrected over the subsequent 24 to 48 hours by enhanced renal acid excretion.8,18The severity of hyperchloremia can be aggravated by excessive chloride administration in hydration fluids."
+        },
+        {
+            "parent": 9,
+            "text": "No randomized prospective studies have evaluated the optimal site of care for patients with diabetic ketoacidosis. The response to initial therapy in the emergency department can be used as a guideline for choosing the most appropriate hospital site (i.e., intensive care unit, step-down unit, general medical ward) for further care."
+        },
+        {
+            "parent": 9,
+            "text": "Admission to a step-down or intensive care unit should be considered for patients with hypotension or oliguria refractory to initial rehydration and for patients with mental obtundation or coma with hyperosmolality (total osmolality of greater than 330 mOsm per kg of water). Most patients can be treated in step-down units or on general medical wards in which staff members have been trained in on-site blood glucose monitoring and continuous intravenous insulin administration."
+        },
+        {
+            "parent": 9,
+            "text": "Milder forms of diabetic ketoacidosis can be treated in the emergency department using the same treatment guidelines described in this review."
+        },
+        {
+            "parent": 9,
+            "text": "Successful outpatient therapy requires the absence of severe intercurrent illness, an alert patient who is able to resume oral intake and the presence of mild diabetic ketoacidosis (pH of greater than 7.2 and a plasma bicarbonate concentration of greater than 10 mEq per L).24"
+        },
+        {
+            "parent": 9,
+            "text": "With the use of standardized written treatment guidelines and flow sheets for monitoring therapeutic response, the mortality rate for patients with diabetic ketoacidosis is now less than 5 percent.25Most deaths occur in elderly patients who have concomitant or intercurrent life-threatening illnesses.1–4,6Similar outcomes for the treatment of diabetic ketoacidosis have been observed in both community and training hospitals. These outcomes have not been altered by the specialty of the primary treating physicians (e.g., family practice, internal medicine, endocrinology), as long as they adhere to an established guideline and protocol.26"
+        },
+        {
+            "parent": 10,
+            "text": "An educational program should include sick-day management instructions (i.e., for any illness that alters routine care), including the use of short-acting insulin, blood glucose and urinary ketone monitoring, and the use of a liquid diet containing carbohydrates and salt. Patients should not discontinue insulin therapy when they are ill, and they should contact their physician early in the course of illness. Indications for hospitalization include greater than 5 percent loss of body weight, respiration rate of greater than 35 per minute, intractable elevation of blood glucose concentrations, change in mental status, uncontrolled fever and unresolved nausea and vomiting."
+        }
+    ],
+    "locked": false
+}

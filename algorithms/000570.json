@@ -1,0 +1,126 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/1001/p835.html#afp20081001p835-f2",
+    "title": "Acute Lumbar Disk Pain: Navigating Evaluation and Treatment Choices | AAFP",
+    "author": "DAVID S. GREGORY, MD, CRAIG K. SETO, MD, GEORGE C. WORTLEY, MD, AND CHRISTINE M. SHUGART, MD",
+    "doi": "Am Fam Physician.2008;78(7):835-842",
+    "abstract": "Acute lumbar disk herniations are the most common cause of sciatica. After excluding emergent causes, such as cauda equina syndrome, epidural abscess, fracture, or malignancy, a six-week trial of conservative management is indicated. Patients should be advised to stay active. If symptoms persist after six weeks, or if there is worsening neurologic function, imaging and invasive procedures may be considered. Most patients with lumbar disk herniations improve over six weeks. Because there is no difference in outcomes between surgical and conservative treatment after two years, patient preference and the severity of the disability from the pain should be considered when choosing treatment modalities. If a disk herniation is identified that correlates with physical findings, surgical diskectomy may improve symptoms more quickly than continued conservative management. Epidural steroid injections can also provide short-term relief.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Imaging",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Conservative Management",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Nonsurgical Invasive Treatments",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Surgical Treatments",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Patient Counseling",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Low back pain is one of the most common reasons patients present to primary care practices, and is a leading cause of job-related disability in the United States.1Radiating acute lumbar back pain can indicate severe neurologic sequelae that must first be ruled out as causes of the pain(Table 1). Cauda equina syndrome, neoplasm, infection, and fracture may represent emergent situations that require expeditious evaluation and treatment. Physicians must investigate “red-flag” findings(Table 22)that are indicators of these serious conditions."
+        },
+        {
+            "parent": -1,
+            "text": "Sciatica is defined as pain originating in the lower back and radiating down the posterior or lateral thigh.3The evaluation for sciatica begins with excluding serious spinal diseases. In the absence of red-flag findings, the most common cause for sciatica is lumbar disk herniation. Only 4 percent of patients with acute lumbar pain with sciatica will have a radiologically detectable lumbar disk herniation,3although 99 percent of patients with symptomatic lumbar disk herniation present with sciatica.4"
+        },
+        {
+            "parent": -1,
+            "text": "Acute lumbar disk herniation can produce severe, function-limiting pain that usually resolves with conservative management. Because a small proportion of lumbar disk herniations can result in serious disability and progressive neurologic dysfunction, surgical treatments are sometimes indicated."
+        },
+        {
+            "parent": 0,
+            "text": "Sciatic pain is not specific for lumbar disk herniation. Many other common conditions cause radiating pain similar to sciatica(Table 1). Symptoms that increase the specificity of sciatica from lumbar disk herniation include pain that is worse in the leg than in the back; a typical dermatomal distribution of neurologic symptoms (e.g., pain, numbness, cold sensation); and pain that is worse with the Valsalva maneuver (e.g., coughing, sneezing, straining).5Although most patients with lumbar disk herniation present with sciatica, patients may also present with less common symptoms such as nonradiating pain and sensory/motor deficits. Patients with intellectual disabilities, neurologic conditions, dementia, or communication disorders may not present with a complaint of pain, or exhibit typical pain behavior. Instead, they may present with a change in mobility or functional status."
+        },
+        {
+            "parent": 0,
+            "text": "When lumbar disk herniation is suspected, the physical examination should include a full examination of the pelvis and lower extremities, including a neurologic examination to evaluate sensation, strength, and reflexes, and provocative tests, such as the straight-leg-raise test. Although not specific, the straight-leg-raise test is the most sensitive test for lumbar disk herniation, with a negative result strongly indicating against lumbar disk herniation.4,6"
+        },
+        {
+            "parent": 0,
+            "text": "The straight-leg-raise test can be performed with the patient supine or seated, although the supine test has higher sensitivity for lumbar disk herniation. With supine straight-leg-raise testing, a positive result has been defined as radiating pain observed at 30 to 70 degrees of hip flexion, with a smaller angle indicating a more significantly positive result. The crossed straight-leg-raise test is performed with the straight-leg-raise test. For this test, the physician observes for radiating pain in the affected leg while lifting the patient's opposite uninvolved leg. A positive crossed straight-leg-raise test is more specific for lumbar disk herniation, and it complements the sensitive uncrossed straight-leg-raise test."
+        },
+        {
+            "parent": 0,
+            "text": "Other physical findings specific for lumbar disk herniation include weak ankle dorsiflexion and absent ankle reflex, although most patients with acute lumbar disk herniation do not have these findings (Table 36). Calf muscle wasting is a late finding with lumbar disk herniation, taking four to six weeks to appear. It should alert the physician to severe neuromotor dysfunction or preexisting chronic neurologic impingement. Some findings may localize the radiculopathy to a specific nerve root4(Figure 1). Clinical determination of the involved nerve root helps correlate symptoms with findings on imaging. Because radiologic lumbar disk herniation is common in asymptomatic people, this helps determine whether a lumbar disk herniation is linked to a patient's complaints. An abnormal patellar reflex predicts L3 or L4 radiculopathy. L5 radiculopathy is best predicted by sensory loss on the dorsum of the foot at the third metatarsophalangeal joint. The best predictors of acute S1 radiculopathy are weak ankle plantar flexion and sensory loss on the lateral heel.4,7Although an asymmetric absent ankle reflex is specific for lumbar disk herniation,6the predictive value is not high.4,7"
+        },
+        {
+            "parent": 1,
+            "text": "Patients with sciatica do not always require imaging of the spine. Radiographic findings of lumbar disk herniation are common in patients without back pain, and not all neurologic findings correlate with imaging results.3The timing and modality of imaging is based on risk factors for serious spinal disease, the patient's clinical progress, and the characteristics of the imaging modality."
+        },
+        {
+            "parent": 1,
+            "text": "If red-flag findings (Table 22) are present, imaging is highly recommended. Emergent imaging is required with symptoms of cauda equina syndrome or lumbar myelopathy, such as saddle anesthesia, fecal incontinence, or urinary retention. Magnetic resonance imaging (MRI) is preferred over other modalities (Figure 28–13). If red-flag findings are absent, many clinical guidelines recommend delaying imaging until completing a six-week trial of conservative management.8–10"
+        },
+        {
+            "parent": 1,
+            "text": "Imaging modalities evaluated to detect lumbar disk herniation include myelography, computed tomography (CT), CT myelography, and MRI (Table 4).3,14Standard myelography and CT myelography are invasive procedures that carry more risk and are less predictive for lumbar disk herniation than standard CT or MRI. CT and MRI provide similar sensitivity and specificity for lumbar disk herniation, although MRI provides a more detailed evaluation of the nerve roots and soft tissues of the spine.3"
+        },
+        {
+            "parent": 2,
+            "text": "For 90 percent of patients with lumbar disk herniation, acute sciatica starts to improve within six weeks and resolves by 12 weeks with conservative care.15Several nonsurgical treatments have proven effective in improving symptoms of lumbar disk herniation and should be considered first-line in the first six weeks of conservative management. Bed rest is less effective for sciatica than activity. In general, bed rest should be limited to avoid muscle deconditioning.16"
+        },
+        {
+            "parent": 2,
+            "text": "Several medications have been used to treat lumbar disk herniation pain. Nonsteroidal anti-inflammatory drugs (NSAIDs), acetaminophen, and muscle relaxants have been shown to be effective in the treatment of nonspecific low back pain, but these therapies have not been as extensively studied with lumbar disk herniation pain.17,18Because available studies of NSAIDs with lumbar disk herniation pain provide conflicting conclusions,19,20and because the effectiveness of muscle relaxants and acetaminophen for lumbar disk herniation pain has not been studied, the role of these therapies remains unclear. Systemic corticosteroids are no better than placebo for lumbar disk herniation pain21and have no role in conservative management. Opioid analgesics have not been studied for lumbar disk herniation pain, but are generally considered standard conservative therapy for patients with severe, function-limiting pain."
+        },
+        {
+            "parent": 2,
+            "text": "Physical therapy typically has had a role in conservative management of lumbar disk herniation, although best evidence suggests there is little to support its effectiveness for improving pain or functional status.22Cost-effectiveness analysis concludes that physical therapy is no more cost-effective than usual conservative management without physical therapy.23The effectiveness of physical therapy modalities, including therapeutic ultrasound, transcutaneous electrical nerve stimulation (TENS), and traction is difficult to assess because of limited quantity and quality of studies. Therapeutic ultrasound and TENS may provide short-term benefit,24,25but data on traction are conflicting, with recent systematic reviews concluding that traction is not effective.26"
+        },
+        {
+            "parent": 2,
+            "text": "Studies evaluating spinal manipulation for lumbar disk herniation have had conflicting results. Although one systematic review concludes that manipulation can be safely incorporated as a component of conservative management,27later meta-analyses have found no benefit of manipulation over other conservative therapies.22,28A subsequent study comparing manipulation with sham manipulation found that manipulation significantly improved pain.29More high-quality studies are needed to determine the role of spinal manipulation in the management of lumbar disk herniation."
+        },
+        {
+            "parent": 2,
+            "text": "Cognitive interventions involve educating the patient to stay active and avoid activities that could worsen the pain. One study compared disability outcomes in patients with a herniated lumbar disk using cognitive intervention with exercise or surgery. No difference in disability outcomes were shown after one year of treatment; however, less fear and fewer avoidance behaviors were noted in patients given cognitive intervention.30"
+        },
+        {
+            "parent": 3,
+            "text": "Invasive nonsurgical treatments involve injections into the epidural space or the herniated disk. Steroids have been used in both locations to reduce inflammation. Epidural steroid injections may provide moderate short-term improvement of pain, but do not impact long-term outcomes, such as impairment of function, need for surgery, and pain after three months.31There is fair evidence that injections done under radiologic guidance are more effective than injections without this guidance in terms of improving pain at intermediate follow-up, and disability at short-term and intermediate follow-up.22Epidural steroid injections have a role for certain patients in the management of short-term pain from lumbar disk herniation. A study of intradiscal corticosteroid injections has not shown benefit over placebo for treatment of discogenic pain.32"
+        },
+        {
+            "parent": 3,
+            "text": "Chemonucleolysis is a procedure involving percutaneous injection of a substance into the disk to digest and ablate herniated disk material. Chymopapain, the papaya extract once used for this purpose, has been proven unsafe.11Chemonucleolysis with other substances is in experimental stages, but presently has no role in the management of lumbar disk herniation."
+        },
+        {
+            "parent": 4,
+            "text": "The indications for emergent surgical intervention for sciatica include cauda equina syndrome, epidural abscess, or severe and progressive neuromotor deficits. Patients with no improvement after six weeks of conservative management should undergo MRI or CT(Figure 28–13). At this point, appropriate surgical candidates include patients with persistent neuromotor deficit, or severe sciatica with a positive straight-leg-raise test and imaging demonstrating lumbar disk herniation at the nerve root level correlating with the patient's examination findings.8,11,33"
+        },
+        {
+            "parent": 4,
+            "text": "The purpose of surgery is to relieve nerve root compression or irritation from herniated disk material. Two surgical techniques include open diskectomy and microdiskectomy, which involves disk removal with the aid of a surgical microscope. These techniques have demonstrated similar surgical outcomes when compared directly.11A systematic review and a recent large randomized controlled trial (RCT) show that surgical diskectomy in carefully selected patients with sciatica from lumbar disk herniation provided faster relief of pain and disability than patients who were treated with conservative management. Surgery has been shown to have greater improvement in pain and disability than conservative treatment in the first two years after surgery, after which the outcomes are no different.11,12"
+        },
+        {
+            "parent": 4,
+            "text": "The optimal timing for surgery is still unclear, but most surgical studies have followed a minimum six-week trial of conservative therapy before surgical intervention. One recent RCT comparing prolonged conservative management with early microdiskectomy for lumbar disk herniation concluded that a longer course of conservative management before surgery (i.e., averaging more than 18 weeks) did not alter the incidence of adverse outcomes as a result of waiting longer before surgery.13"
+        },
+        {
+            "parent": 5,
+            "text": "The natural history of lumbar disk herniation reveals that large herniations typically reabsorb with time,33and symptoms will improve in most patients with conservative management alone. If imaging correlates well, surgical referral should be offered, but only as a potential means of expediting improvement in pain and disability over conservative management alone.11Patients should be informed that the expected amount of pain and disability two years after surgery will be indistinguishable from the pain two years after prolonged conservative management. Patients who are not surgical candidates or who decide to continue conservative management should expect their clinical improvement to be slower than for patients who undergo surgery.12"
+        }
+    ],
+    "locked": false
+}

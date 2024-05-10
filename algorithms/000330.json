@@ -1,0 +1,75 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0815/p212.html#afp20140815p212-f1",
+    "title": "Should Family Physicians Follow the New ACC/AHA Cholesterol Treatment Guideline?Yes: Implementing the New ACC/AHA Cholesterol Guideline Will Improve Cardiovascular Outcomes | AAFP",
+    "author": "PATRICK MCBRIDE, MD, MPH, NEIL J. STONE, MD, MACP, FAHA, FACC, AND CONRAD B. BLUM, MD, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin",
+    "doi": "Am Fam Physician.2014;90(4):212-216",
+    "abstract": null,
+    "headers": [],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The new American College of Cardiology/American Heart Association (ACC/AHA) Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults used a strong evidence-based approach to update clinical practice recommendations for primary care physicians.1,2As defined in the guideline, atherosclerotic cardiovascular disease (ASCVD) includes atherosclerotic cardiac disease and stroke. Three features of the panel's report are:"
+        },
+        {
+            "parent": -1,
+            "text": "(1) Emphasizing quality-rated evidence from randomized controlled trials (RCTs), meta-analyses, and systematic reviews(2) Defining patient groups best treated with medication as well as lifestyle modification(3) Recommending statins as the treatment most supported by RCT evidence to lower ASCVD risk."
+        },
+        {
+            "parent": -1,
+            "text": "Lifestyle modification is highlighted as the first step to addressing cardiovascular risk in most patients with high blood cholesterol levels. The roles of lifestyle modification and risk assessment were deemed so vital that they were addressed in separate accompanying guidelines that recommend a dietary pattern that emphasizes consumption of fruits, vegetables, and whole grains (e.g., Dietary Approaches to Stop Hypertension [DASH] diet, AHA diet, U.S. Department of Agriculture Food Patterns), and aerobic exercise for 40-minute sessions three to four times weekly.1,3There are some exceptions to recommending lifestyle modification as initial management. Pharmacologic therapy generally is the first step in persons with preexisting clinical ASCVD; in those 40 to 75 years of age who have diabetes mellitus and a low-density-lipoprotein cholesterol (LDL-C) level of 70 to 189 mg per dL (1.81 to 4.90 mmol per L); and in those with diet-resistant, genetic disorders and an LDL-C level of 190 mg per dL (4.92 mmol per L) or greater.2"
+        },
+        {
+            "parent": -1,
+            "text": "As in the Adult Treatment Panel (ATP) III, evidence used in the updated guideline supports the role of risk assessment to define who qualifies for cholesterol treatment.4The calculation of risk assessment is recommended using an updated ASCVD risk estimator, such as the ACC/AHA calculator athttp://my.americanheart.org/cvriskcalculator, which estimates 10-year and lifetime ASCVD risk.1The updated risk estimator has been internally and externally validated, and has several advantages over the Framingham-based calculator used previously because it reflects more diverse U.S. populations. It considers the risk impact of race (black vs. white), and it estimates the risk of stroke in addition to coronary heart disease, which is especially important for blacks and women. The risk estimator should not be used if the patient is already taking a statin."
+        },
+        {
+            "parent": -1,
+            "text": "The new guideline includes an extensive review of RCT evidence that was rated independently for quality; results demonstrated that statins lowered morbidity and total mortality when used as primary or secondary prevention.2,5–7There are four groups most likely to benefit from statin therapy:"
+        },
+        {
+            "parent": -1,
+            "text": "(1) Patients with any form of clinical ASCVD (including acute coronary syndrome, history of myocardial infarction, stable or unstable angina, coronary or other arterial revascularization, stroke, transient ischemic attack, or peripheral arterial disease presumed to be of atherosclerotic origin)(2) Patients with primary LDL-C levels of 190 mg per dL (i.e., no secondary cause) or greater(3) Patients 40 to 75 years of age who have diabetes and LDL-C levels of 70 to 189 mg per dL(4) Patients 40 to 75 years of age who do not have diabetes but who do have an estimated 10-year ASCVD risk of 7.5% or greater."
+        },
+        {
+            "parent": -1,
+            "text": "The first three groups are considered high risk, and treatment should focus on high-intensity statin therapy if tolerated and if there are no contraindications or safety issues, such as drug-drug interactions. The last group does not automatically receive statin therapy, but is engaged in a risk discussion with their physician. This discussion should address the magnitude and basis for the individual's ASCVD risk, including other risk factors that may merit treatment; the potential benefit from risk reduction or the potential for adverse effects from treatment (which is small, if the statin is taken and monitored as described in the guideline); the potential for drug-drug interactions; and patient preferences. These considerations inform the decision on whether statin therapy should be initiated. All of these considerations are summarized in the workflow inFigure 1.2"
+        },
+        {
+            "parent": -1,
+            "text": "Heart-healthy lifestyle measures should be emphasized.3If patients and physicians agree that there are significant opportunities to lower risk through lifestyle modification, or if there are other reasons not to start cholesterol treatment, statin therapy may be delayed and the need for medication reassessed later. However, meta-analyses and RCTs demonstrate that statins reduce ASCVD risk across a wide range of LDL-C values.5–7"
+        },
+        {
+            "parent": -1,
+            "text": "When a patient's risk level is uncertain, six factors are useful in informing a treatment decision. These include an LDL-C level of 160 mg per dL (4.14 mmol per L) or greater; a family history of premature ASCVD; a lifetime risk of ASCVD; a high-sensitivity C-reactive protein level of 2.0 mg per L (19.05 nmol per L) or greater; a coronary artery calcification score of 300 Agatston units or greater, or falling in the 75th percentile or greater based on age, sex, or race (http://www.mesa-nhlbi.org/calcium/input.aspx); and an ankle-brachial index less than 0.9. The first two factors may be important for young patients in whom an LDL-C level greater than 160 mg per dL (not from secondary causes) and a family history of premature ASCVD would prompt consideration of statin therapy."
+        },
+        {
+            "parent": -1,
+            "text": "The panel's evidence review did not support the use of LDL-C level as a target for treatment. The RCTs tested a medication dose vs. placebo, and a high dose of medication vs. a lower dose, but did not test LDL-C targets. The evidence review did provide strong evidence supporting appropriate intensity of statin use. Based on evidence from RCTs, the guideline recommends follow-up, including periodic lipid measurement to assess the adequacy of LDL-C reduction, adherence to medication and lifestyle modification, and safety."
+        },
+        {
+            "parent": -1,
+            "text": "All of these changes should simplify the approach to clinical practice by reducing titration of medication, the addition of other medications, and the frequency of follow-up laboratory testing. Outcome measures should focus on adherence to the appropriate statin intensity, rather than LDL-C levels. Risk assessment, which is recommended in the ATP III and ATP IV, can now be integrated in the electronic medical record for efficiency. Although nonstatin therapy may be considered in specific cases, physicians should preferentially prescribe statins because they have been shown in RCTs to reduce ASCVD risk and total mortality in primary and secondary prevention."
+        },
+        {
+            "parent": -1,
+            "text": "The evidence is clear that the benefits of statins substantially outweigh the adverse effects for the four groups described here.2A high priority for future research is to conduct RCTs that test effective risk reduction therapies in patients with total or partial statin intolerance. The guideline demonstrates that potential adverse effects (harms) from appropriate statin therapy include a new diagnosis of diabetes and myalgias. However, patients who are prone to developing diabetes with statin use have risk factors for diabetes and show net benefit from statin therapy. Additionally, the guideline provides specific recommendations on managing myalgias or myositis if it occurs.2"
+        },
+        {
+            "parent": -1,
+            "text": "In 2012, a Cochrane review and the Cholesterol Treatment Trialists found that RCT evidence strongly supports the use and safety of statins in the primary prevention of ASCVD for men and women with a 10-year risk less than 10%.6,7Both studies used end points of angina and revascularization, which are considered more subjective end points, whereas the ACC/AHA used only more objective end points of documented CVD, including stroke. The recommended 10-year risk level of 7.5% is solidly based on RCT evidence detailed in the guideline."
+        },
+        {
+            "parent": -1,
+            "text": "Now that nearly all statins are available as generics, treatment costs have been greatly reduced. One year's daily treatment with 40 mg of simvastatin or 80 mg of atorvastatin retails for as little as $60 or $180, respectively. The new guideline is likely to alter the total number of statin users based on estimates by the cholesterol and risk assessment panels. The exact number cannot be predicted because of the needed physician-patient discussion in primary care. Nonetheless, the recommendations appropriately focus treatment on those most likely to benefit.8"
+        },
+        {
+            "parent": -1,
+            "text": "editor's note: Drs. McBride, Stone, and Blum all served as expert panel members for the 2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults. Dr. Stone served as chair of the panel."
+        },
+        {
+            "parent": -1,
+            "text": "editor's note: The AAFP endorsed the ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults with “qualifications” in June 2014. The qualifications include a concern that the cardiovascular disease risk assessment tool has not been validated and may overestimate risk with a cutoff of 7.5% leading to greater statin use; a note that many of the recommendations were based on expert opinion; and mention of conflict of interest in nearly one-half of the panel members.—SUMI SEXTON, MD, Associate Medical Editor,American Family Physician"
+        }
+    ],
+    "locked": false
+}

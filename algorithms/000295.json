@@ -1,0 +1,137 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0915/p460.html#afp20150915p460-f1",
+    "title": "Update on Routine Childhood and Adolescent Immunizations | AAFP",
+    "author": "LANI K. ACKERMAN, MD, AND JACQUELYN L. SERRANO, MD, MPH",
+    "doi": "Am Fam Physician.2015;92(6):460-468",
+    "abstract": "Recommendations for routine vaccinations in children and adolescents have changed multiple times in recent years, based on findings in clinical trials, licensure of new vaccines, and evidence of waning immunity. Despite the overwhelming success of vaccinations, vaccine delay and refusal are leading to pockets of vaccine-preventable diseases. Schedules for diphtheria and tetanus toxoids, and acellular pertussis (DTaP); hepatitis A and B;Haemophilus influenzaetype b (Hib); inactivated poliovirus; varicella; and measles, mumps, and rubella are unchanged. However, since 2008, 13-valent pneumococcal conjugate vaccine has replaced the 7-valent vaccine; a new two-dose oral rotavirus vaccine has been approved; use of the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine has been expanded to children seven to 10 years of age who received fewer than five doses of DTaP, as well as during each pregnancy; a booster dose of meningococcal vaccine is recommended in adolescents 16 to 18 years of age (unless the first dose was given after 16 years of age); new meningococcal vaccines have been approved for use in infants at high risk of meningococcal disease; influenza vaccine has been expanded to routine use in all children six months and older; and the human papillomavirus vaccine has been approved for routine immunization of adolescent boys and girls. For the 2015–2016 influenza season, either live attenuated or inactivated vaccine can be administered to healthy children two to eight years of age.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Reasons for Lack of Immunizations",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Vaccines and Schedules for Children",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HIB VACCINES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PNEUMOCOCCAL VACCINES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ROTAVIRUS VACCINES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "INFLUENZA VACCINES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIPHTHERIA, TETANUS, AND PERTUSSIS VACCINES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "MENINGOCOCCAL VACCINES",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "HPV VACCINES",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "High vaccine coverage is one of the major public health achievements in recent years, particularly with regard to nearly eliminating and dramatically decreasing the 13 vaccine-preventable diseases for which vaccinations were in place before 2005.1,2For children born in the United States from 1994 to 2013, vaccination will prevent an estimated 322 million illnesses, 21 million hospitalizations, and 732,000 deaths during their lifetimes.3Coverage for most vaccines for children 19 to 35 months of age has been stable since 2012, with the exception of a slight increase in rotavirus and birth-dose hepatitis B vaccinations, and a decline in the rates ofHaemophilus influenzaetype b (Hib) vaccination from 2005 to 2010, possibly related to vaccine shortages.4,5According to the National Immunization Survey–Teen (2007 to 2013), vaccination coverage for adolescents is improving, although still behind the Healthy People 2020 goals for human papillomavirus (HPV) and meningococcal vaccinations.6,7Evidence-based findings to improve vaccine access in communities, encourage community demand for vaccinations, and encourage physicians and health care systems to provide vaccines have contributed to many immunization rates reaching the Healthy People 2020 goals(Table 1).4,6Recommendations from the Community Preventive Services Task Force include many interventions that improve vaccination rates(Table 2).6,8"
+        },
+        {
+            "parent": 0,
+            "text": "Low socioeconomic status has been cited as a reason for lack of immunizations. More recently, however, parental reluctance to vaccinate their children has become a growing public health concern.9,10Reasons for refusing vaccinations include parental concerns that the vaccine has not been on the market long enough and beliefs that their child is at low risk of disease, that they would rather their child get the disease (e.g., varicella), and that the risk of adverse effects is too high. Safety concerns are more prominent with newer vaccines, such as the HPV vaccine. Among adolescents, one of the most important factors in the decision to vaccinate is the physician's recommendation.11–13Surveys suggest that physicians who graduated more recently believe that children receive too many vaccinations.13It is unclear whether these beliefs contribute to parental decisions to delay or forgo vaccinations or simply reflect the tendency for parents to choose physicians who have beliefs similar to their own. Although parents place their trust in their child's physician, they also trust non–health professional sources, practitioners of complementary and alternative medicine, social media, and their social networks.14,15Missed opportunities for vaccination at the adolescent visit are also common; if the HPV vaccine is administered at the same time as another vaccine, the coverage rate for one or more doses could be as high as 92.6%.16"
+        },
+        {
+            "parent": 0,
+            "text": "Parental fear of vaccines has resulted in lack of immunization in many communities, leading to recent outbreaks of pertussis.17From January to May 2014, the Centers for Disease Control and Prevention (CDC) recorded 280 cases of measles, the highest number since the disease was eliminated in 2000. Of these cases, 97% were imported from 18 countries, and 90% of patients were not vaccinated because of philosophical, religious, or personal issues, or had unknown immunization status.18–20A recent multistate measles outbreak from one source case in California triggered a CDC health advisory in January 2015.21Although studies have not consistently shown that face-to-face counseling with parents improves acceptance of immunizations, physicians should continue to advocate for immunizations during routine clinical encounters, encouraging the parent's trust, a factor that has been linked to overcoming vaccine hesitancy.22Resources are available to provide evidence-based education to physicians about vaccines and their effectiveness, as well as to reassure parents that vaccines are safe and effective.23Forms are also available to document parents' refusal to vaccinate.24,25"
+        },
+        {
+            "parent": 1,
+            "text": "The 2015 schedules of recommended vaccinations for children and adolescents are available athttp://www.cdc.gov/vaccines/schedules/hcp/child-adolescent.html. Some recommendations for routine vaccinations for healthy children (e.g., hepatitis A and B; diphtheria and tetanus toxoids, and acellular pertussis [DTaP]; Hib; inactivated poliovirus [IPV]; measles, mumps, and rubella; varicella) have not changed significantly. For other routine vaccinations, there have been significant changes in recent years(Table 3).1,26,27Data obtained by the CDC through the Vaccine Adverse Event Reporting System, Vaccine Safety Datalink, and Clinical Immunization Safety Assessment provide physicians with evidence that currently approved vaccines are safe and effective(Table 4).28–43"
+        },
+        {
+            "parent": 2,
+            "text": "Two Hib vaccines, PRP-T (ActHIB, Hiberix) and PRP-OMP (PedvaxHIB), have been approved by the U.S. Food and Drug Administration since 1987. Data indicate that PRP-OMP elicits a stronger immune response with the first injection, and it is recommended for use in American Indians and Alaska Natives, who have 8% to 10% higher disease rates, as well as for children with functional asplenia or immunosuppression30(eTable A). Combined vaccines (e.g., DTaP/IPV/PRP-T [Pentacel], PRP-OMP/hepatitis B [Comvax]) have equal immunogenicity to individual vaccines and are often more acceptable to parents.44"
+        },
+        {
+            "parent": 3,
+            "text": "Since 2000, when the first pneumococcal conjugate vaccine (7-valent pneumococcal conjugate vaccine [PCV7; Prevnar]) was introduced, rates of invasive pneumococcal disease and pneumonia have dramatically decreased. The newer PCV13 vaccine (Prevnar 13), which replaced PCV7 in the routine immunization schedule in 2011, expands coverage of a disease that continues to cause significant morbidity and mortality.41,45The 23-valent pneumococcal polysaccharide vaccine (PPSV23; Pneumovax 23) is recommended routinely for only high-risk children two years and older. However, corticosteroid-dependent asthma is now considered a chronic lung condition for which PPSV23 vaccine is recommended42(eTable B)."
+        },
+        {
+            "parent": 4,
+            "text": "Rotavirus vaccination is effective in reducing severe diarrheal illness. It reduced cases of severe rotavirus diarrhea by more than 80% in children younger than two years in low-mortality countries, and by 40% to 57% in those in high-mortality countries.38The vaccine is now available as a monovalent two-dose series (RV1; Rotarix) or pentavalent three-dose series (RV5; Rotateq).1These formulations are equally effective and cost-effective, and both result in a minimally increased risk of intussusception on days 3 to 6 after the first dose.39The risk of intussusception (0.79 in 100,000 cases) is minimal compared with the 40,000 fewer hospitalizations for diarrheal illness.39Although RV5 covers more strains of rotavirus, RV1 requires only two doses and thus has higher compliance rates.40"
+        },
+        {
+            "parent": 5,
+            "text": "Influenza is a major cause of morbidity and mortality in the United States. Since the 2003–2004 season when the CDC began tracking influenza deaths in children, the highest number occurred during the 2009–2010 pandemic, with 358 deaths reported.46In 2010, the CDC's Advisory Committee on Immunization Practices (ACIP) first recommended annual influenza vaccination for all children and adolescents older than six months.46–48An analysis of 830 influenza-associated deaths in children from 2004 to 2012 showed that 43% had no high-risk medical condition, and that these children were more likely to die before hospital admission.49During the 2014–2015 influenza season, 141 laboratory-confirmed influenza deaths in children had been reported in 40 states as of May 23, predominantly from influenza A (H3N2). The vaccine during this season offered reduced protection against the circulating strains, with an estimated 18% to 19% effectiveness.50"
+        },
+        {
+            "parent": 5,
+            "text": "The virus composition of the 2014–2015 vaccine was unchanged from 2013–2014. However, the vaccine for 2015–2016 represents a change in the influenza A (H3N2) and influenza B viruses. Children six months to eight years of age who received at least two doses of trivalent or quadrivalent influenza vaccine before July 1, 2015, need only a single dose for the 2015–2016 influenza season.27Those who received only one dose before July 1, 2015, or who have not been vaccinated previously should receive two doses, at least four weeks apart, for the 2015-2016 season. [ corrected] The Fluzone trivalent and quadrivalent inactivated influenza vaccines are approved for children six months and older, and the Fluarix quadrivalent inactivated vaccine is approved for persons three years and older.27"
+        },
+        {
+            "parent": 5,
+            "text": "The live attenuated influenza vaccine (LAIV), Flumist, is available only as a quadrivalent vaccine and is approved for persons two to 49 years of age.47,48A 2012 Cochrane review found that LAIV is more effective in children six years and younger51; however, research with more recent influenza strains suggests that there is no difference in effectiveness between LAIV and inactivated vaccines. ACIP previously recommended LAIV over inactivated vaccine in children two to eight years of age; however, based on the absence of consistent data showing greater effectiveness of LAIV, it is no longer preferred over inactivated vaccine.27eTable Clists precautions and contraindications for the use of LAIV. The two newest influenza vaccines, Flublok and Flucelvax, are preferred in persons with egg allergy, but they have not been approved for children; children with milder allergies and those who can eat lightly cooked eggs can usually receive inactivated vaccine(Figure 1).48The recombinant, cell-based, and intradermal vaccines are approved for persons 18 years and older; high-dose inactivated vaccine is approved for those 65 years and older.48Although no influenza vaccine is available for children younger than six months, there is some evidence that immunization of pregnant women protects newborns and decreases hospitalization of infants younger than six months.52"
+        },
+        {
+            "parent": 6,
+            "text": "Recommendations to vaccinate children with DTaP have not changed; a five-dose series is still given at two months, four months, six months, 12 to 15 months, and four to six years of age(eTable D). In 1997, when the whole-cell DTP series was replaced by acellular DTaP, pertussis immunity began to wane, and unprecedented changes in the epidemiology of the disease began. By 2000, the rate reported in adolescents 11 to 19 years of age exceeded that for younger children, even among those who were fully vaccinated.53,54A decrease in vaccine effectiveness (from 95% to 71%) occurred in the five years after the fifth dose.55Global concern over this decrease led the World Health Organization to recommend that countries with fewer than five doses in the primary series continue to use whole-cell pertussis vaccines.56"
+        },
+        {
+            "parent": 6,
+            "text": "Currently, the highest rate of pertussis (160 per 100,000 persons) occurs in infants younger than two months, and more than 80% of these infants are hospitalized.57Consequently, ACIP replaced the tetanus and diphtheria toxoids (Td) booster with tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap)53for adolescents 11 to 18 years of age and for adults, then recommended booster doses for child-care workers, health professionals, parents, grandparents older than 65 years, children seven to 10 years of age who did not receive five doses in the primary series, and, most recently, with each pregnancy (at 27 to 36 weeks' gestation)58to reduce the exposure of infants to pertussis.59"
+        },
+        {
+            "parent": 7,
+            "text": "Disease caused byNeisseria meningitidisdevelops rapidly, even among healthy children and adolescents, resulting in high morbidity and mortality. There are now fewer than 1,000 cases of meningococcal disease per year in the United States, and rates have been declining since the late 1990s, making it difficult for randomized controlled trials to evaluate the effectiveness of meningococcal vaccines.60,61"
+        },
+        {
+            "parent": 7,
+            "text": "Serogroups B, C, and Y each account for approximately one-third of cases in the United States, although the proportion of cases caused by each serogroup varies with age; serogroups A and W circulate globally.60Type B causes most cases of meningococcal disease in infants; the highest rates are in children younger than one year. Three vaccines are approved for young children who are at increased risk, but they do not provide protection against serotype B and thus are not routinely recommended in children who do not have risk factors60–63(eTable E)."
+        },
+        {
+            "parent": 7,
+            "text": "The second peak of disease occurs in adolescence, with types C, Y, and W causing 73% of cases among persons 11 years and older.60ACIP recommends routine meningococcal vaccination in adolescents 11 to 18 years of age.60Both quadrivalent meningococcal polysaccharide-protein conjugate vaccines approved for adolescents (MenACWY-D [Menactra] and MenACWY-CRM [Menveo]) provide protection against serotypes A, C, W, and Y. Because of demonstrated loss of immunity over time (82% one year postvaccination to 59% at three to six years), ACIP recommends a booster dose at 16 years of age, and for those at continued risk.61,62Although colleges in 36 states require meningococcal vaccination, 98% of cases are sporadic, and overall incidence among college students is similar to or lower than that in the general population; recent outbreaks on college campuses have also been caused by type B, necessitating the use of a vaccine initially approved outside the United States.63"
+        },
+        {
+            "parent": 7,
+            "text": "In October 2014, the first serogroup B vaccine (Trumenba) was approved by the U.S. Food and Drug Administration as a three-dose series for persons 10 to 25 years of age, followed by a second vaccine (Bexero), which is given as a two-dose series. These vaccines are recommended only in the setting of a serotype B outbreak. The initial precaution for persons with a history of Guillain-Barré syndrome was removed after post-licensure surveillance studies were performed.60"
+        },
+        {
+            "parent": 8,
+            "text": "Genital HPV is the most common sexually transmitted infection in the United States. Of the more than 150 HPV types, approximately 40 are linked with genital HPV infection and are classified as high or low risk according to their epidemiologic association with cervical cancer. Although most HPV infections are transient, persistent infection may result in genital warts, cervical dysplasia, and cervical, anogenital, and oropharnygeal cancers.64"
+        },
+        {
+            "parent": 8,
+            "text": "Two HPV vaccines are recommended for routine immunization of adolescents 11 to 12 years of age: a bivalent vaccine (Cervarix) for girls and a quadrivalent vaccine (Gardasil) for both boys and girls. Both vaccines provide protection against high-risk HPV types 16 and 18, which cause 70% of cervical cancers, but only the quadrivalent vaccine protects against HPV types 6 and 11, which cause more than 90% of genital warts and recurrent respiratory papillomatosis.64Both vaccines are administered as a three-shot series given at 0, one to two, and six months64(eTable F). Some evidence suggests that using two shots instead of three is effective and can result in cost savings if immunogenicity lasts for 20 years65,66; however, immunogenicity data are currently available only for eight years.67"
+        },
+        {
+            "parent": 8,
+            "text": "Overall, 50% of high-grade cervical lesions (cervical intraepithelial neoplasia grade 2 or higher) were attributable to HPV types 16 and 18, and 25% to types 31, 33, 45, 52, and 58.68Population-based studies have shown a reduction in the prevalence of HPV types 16 and 18–induced high-grade cervical lesions (from 53.6% to 28.4%).69In December 2014, a nonavalent HPV vaccine effective against HPV types 6, 11, 16, 18, 31, 33, 45, 52, and 58 (Gardasil 9) was approved for females nine to 26 years of age and males nine to 15 years of age. It is estimated to protect against approximately 90% of HPV-related cervical, vulvar, vaginal, and anal cancers.70The three-dose series costs approximately $1,100.71"
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources: The authors reviewed Essential Evidence Plus, and a PubMed search was completed in Clinical Queries using the key terms childhood immunization, adolescent immunization, lack of immunization, efficacy, immunogenicity, safety, combined vaccines, and the name of each vaccine and associated disease. The Cochrane database, Clinical Evidence, Agency for Healthcare Research and Quality evidence reports, and National Guideline Clearinghouse database were also searched. Search dates: July 3, August 10, and September 12, 2014, and June 6, 2015."
+        }
+    ],
+    "locked": false
+}

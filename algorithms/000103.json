@@ -1,0 +1,119 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0900/p263.html#afp20210900p263-f1",
+    "title": "Hereditary Hemochromatosis: Rapid Evidence Review | AAFP",
+    "author": "SHAWN F. KANE, MD, CAROLINE ROBERTS, MD, AND RYAN PAULUS, DO",
+    "doi": "Am Fam Physician.2021;104(2):263-270",
+    "abstract": "Hereditary hemochromatosis is an autosomal recessive disorder that disrupts iron homeostasis, resulting in systemic iron overload. It is the most common inherited disorder among people of northern European ancestry. Despite the high prevalence of the gene mutation, there is a low and variable clinical penetrance. The deposition of excess iron into parenchymal cells leads to cellular dysfunction and the clinical manifestations of the disease. The liver, pancreas, joints, heart, skin, and pituitary gland are the most commonly involved organs. Hereditary hemochromatosis is usually diagnosed in the 40s or 50s. Women are often diagnosed later than men, likely because of menstrual blood loss. There is no typical presentation or pathognomonic signs and symptoms of hereditary hemochromatosis. Because of increased awareness and earlier diagnosis, the end-organ damage secondary to iron overload is not often seen in clinical practice. A common initial presentation is an asymptomatic patient with mildly elevated liver enzymes who is subsequently found to have elevated serum ferritin and transferrin saturation. Ferritin levels greater than 300 ng per mL for men and 200 ng per mL for women and transferrin saturations greater than 45% are highly suggestive of hereditary hemochromatosis. Phlebotomy is the mainstay of treatment and can help improve heart function, reduce abnormal skin pigmentation, and lessen the risk of liver complications. Liver transplantation may be considered in select patients. Individuals with hereditary hemochromatosis have an increased risk of hepatocellular carcinoma and colorectal and breast cancers. Genetic testing for the hereditary hemochromatosis genes should be offered after 18 years of age to first-degree relatives of patients with the condition.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening and Prevention",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "LIFESTYLE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "MEDICAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "SURGICAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Surveillance for Complications",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hereditary hemochromatosis is an autosomal recessive condition that results in systemic iron overload due to a deficiency in hepcidin, an iron regulatory protein.1,2The body's iron stores are primarily regulated by controlling intestinal absorption. Other than menses and shedding of senescent cells, there are no physiologic mechanisms of iron excretion. Deposition of excess iron into parenchymal cells leads to tissue damage and ultimately organ failure. The liver, pancreas, joints, heart, skin, and pituitary glands are the most commonly involved organs.3,4This article summarizes the best available patient-oriented evidence regarding hereditary hemochromatosis."
+        },
+        {
+            "parent": 0,
+            "text": "There are four types of hereditary hemochromatosis, which are categorized by the specific gene mutation involved(Table 1).1,5,6Homozygous C282Y and heterozygous C282Y/H63D mutations of theHFEgene (iron regulatory protein) on chromosome 6 are responsible for up to 95% of hereditary hemochromatosis cases (type 1).1,3Hereditary hemochromatosis types 2 to 4 comprise the small percentage of remaining cases and are caused by non-HFEmutations.1,5Hereditary hemochromatosis is the most common inherited disorder among people of northern European ancestry.1,3The United States, Europe, and Australia have a similar disease prevalence of one case per 200 to 400 people, with the highest prevalence in those of Irish and Scandinavian ancestry.1,3,5The hereditary hemochromatosis mutation is rare in people of Asian, African, Hispanic, and Pacific Islander ancestry.7Despite the high prevalence of the gene mutation, there is a low and variable clinical penetrance, with up to 25% of people with C282Y homozygosity being clinically asymptomatic.4,8The clinical manifestations of iron overload typically develop in the 40s or 50s.1The disease is equally prevalent in men and women. Women typically present later in life when they are postmenopausal, likely because of menstrual blood loss delaying the development of symptomatic iron overload.1,3"
+        },
+        {
+            "parent": 1,
+            "text": "Genetic testing for the C282Y and H63D mutations of theHFEgene is recommended for first-degree relatives of people with hereditary hemochromatosis; screening does not need to begin until 18 years of age because clinical manifestations are rare before this age.1,3Population-level genetic testing or laboratory screening for hereditary hemochromatosis is not recommended because of the cost and the variable prevalence and incomplete penetrance of the C282Y mutation.1,3–5,9"
+        },
+        {
+            "parent": 2,
+            "text": "The presentation of hereditary hemochromatosis varies, with biochemical expression occurring first and clinical expression occurring in later stages of disease.3,8Table 2summarizes the stages of hereditary hemochromatosis.1,2,4,5The differential diagnosis includes other causes of secondary iron overload via excess absorption and organ deposition of iron(Table 3).1–5,10Hereditary hemochromatosis should be considered in the differential diagnosis of patients with elevated liver enzymes and abnormal iron study results.2–4,11"
+        },
+        {
+            "parent": 3,
+            "text": "Hereditary hemochromatosis has no pathognomonic signs and symptoms, with excess iron accumulating in multiple organ systems and leading to a variety of presentations(Table 4).1–5There are no good data on the predictive value of symptoms in identifying patients at risk of hereditary hemochromatosis.1,3,8A common presentation is an asymptomatic patient who has abnormal hepatic transaminase levels and then elevated serum ferritin and/or transferrin saturation on subsequent testing.Fatigue and arthralgias are the most common early clinical symptoms, followed by decreased libido.1,3Hereditary hemochromatosis has classically been characterized by a triad of diabetes mellitus, liver cirrhosis, and abnormal skin pigmentation; however, this late-stage presentation is now uncommon given increased clinical awareness and advances in diagnosis and treatment.2End-organ damage secondary to hereditary hemochromatosis develops in 10% of those with theHFEhomozygous mutation.3,4,8"
+        },
+        {
+            "parent": 4,
+            "text": "Figure 1is a suggested approach to the evaluation of patients in the general population with suspected hereditary hemochromatosis.7,9,10The relative accuracy of diagnostic tests for hereditary hemochromatosis is shown inTable 5.5,12–16Transferrin saturation of greater than 45% is often the earliest laboratory abnormality detected.7Ferritin levels greater than 300 ng per mL (300 mcg per L) in men and greater than 200 ng per mL (200 mcg per L) in women suggest iron overload, but other diagnoses must be ruled out before attributing them to hereditary hemochromatosis.7,17In the past, fasting blood samples were recommended to avoid circadian and postprandial variations in ferritin levels because nonfasting samples were thought to increase the false-positive rate. Newer data call this concept into question, and blood draws can be performed regardless of whether the patient is fasting.5,6Determining the hepatic iron concentration via low T2-weighted magnetic resonance imaging can help predict the long-term risk of developing cirrhosis.1Transient elastography is a noninvasive method for determining the extent of cirrhosis.Liver biopsy is reserved for staging of hepatic fibrosis or when evaluating for an alternate diagnosis.1,4"
+        },
+        {
+            "parent": 6,
+            "text": "Obesity and alcohol intake can compound the risk of liver injury in hereditary hemochromatosis. Patients with the disease should avoid alcohol and maintain a healthy body weight and level of physical activity.2,18,19Aside from alcohol cessation, dietary modifications have minimal impact on iron overload. Guidelines do not support specific dietary interventions or avoidance of plant-based iron sources when patients are undergoing phlebotomy, although avoiding iron-rich foods may decrease the amount of blood that needs to be phlebotomized.1,8Based on pathophysiologic reasoning and expert opinion, restricting vitamin C intake to 500 mg per day and reducing red meat consumption are often recommended.8,20,21"
+        },
+        {
+            "parent": 7,
+            "text": "Early detection and adequate treatment in the early stages of disease (prediabetes and prefibrosis) can result in improvement and resolution of symptoms and a normal survival rate.3Phlebotomy has not been studied in a randomized controlled trial, but it is considered the mainstay of treatment to remove excess iron and improve outcomes if irreversible end-organ damage has not occurred.22–24Phlebotomy should be offered to patients with elevated serum ferritin levels (greater than 300 ng per mL in men and greater than 200 ng per mL in women) or a transferrin saturation of greater than 45% in both men and women.Phlebotomy may improve heart function, reduce abnormal skin pigmentation, and lessen the risk of liver complications. It likely will not improve preexisting diabetes, arthralgias, cirrhosis, and hypogonadism.11,25–29The American College of Gastroenterology recommends weekly removal of 500 mL of blood, increasing or decreasing the amount based on patient tolerance.1Monthly ferritin levels should be tracked, with weekly blood removal continuing until a serum ferritin level of 50 to 150 ng per mL (50 to 150 mcg per L) is obtained.Once this goal is achieved, the patient should undergo lifelong phlebotomy three or four times per year, with ferritin monitoring every six months, to maintain levels around 50 ng per mL.22,23,30,31Adverse effects of phlebotomy, such as phlebitis, malaise, hematoma, delayed bleeding, infection, neurovascular damage, and fatigue, occur in 37% to 50% of patients.32Erythrocytapheresis, a red blood cell apheresis treatment that removes red blood cells and returns the other blood components to the patient, is limited by its availability and cost. There is insufficient evidence to assess the benefits and harms of this treatment compared with phlebotomy.24,32Chelation, which uses medications to bind serum iron, is not a first-line therapy because of significant adverse effects (e.g., neurotoxicity, neutropenia, agranulocytosis, increased serum creatinine, increased liver enzymes) and limited evidence. Chelation should be considered in consultation with a specialist and only if phlebotomy is contraindicated or ineffective.30,31Patients with hereditary hemochromatosis should be vaccinated against hepatitis A and B, if not already immune.8Although not recommended in patients without other indications (e.g., gastroesophageal reflux disease), proton pump inhibitors lower the acidity of the stomach and reduce iron absorption. A systematic review and meta-analysis demonstrated a decreased need for phlebotomies in patients taking proton pump inhibitors for at least one year.33"
+        },
+        {
+            "parent": 8,
+            "text": "Liver transplantation may be considered in patients who develop end-stage liver disease or hepatocellular carcinoma.1A small study demonstrated that liver transplantation can normalize hepcidin secretion and prevent recurrence of hepatic iron overload.34"
+        },
+        {
+            "parent": 9,
+            "text": "The incidence of hepatocellular carcinoma is 20 to 200 times higher in patients with hereditary hemochromatosis, especially those with higher than stage 3 fibrosis and cirrhosis.1Hepatocellular carcinoma accounts for nearly 45% of deaths in patients with hereditary hemochromatosis.1Liver imaging, with or without alpha-fetoprotein measurements, should be performed every six months for life to screen for hepatocellular carcinoma and monitor for the progression of cirrhosis. This should occur even after iron removal because hepatocellular carcinoma can develop years after successful iron depletion.1,2,4Laboratory testing and/or liver ultrasonography should be performed in patients with hereditary hemochromatosis to screen for concomitant liver diseases, such as hepatitis A, B, and C; alcoholic liver disease; and nonalcoholic fatty liver disease.2,4There is a twofold increased risk of colorectal and breast cancers in people with hereditary hemochromatosis C282Y homozygosity. There does not appear to be an increased cancer risk in those with C282Y/H63D heterozygosity or a non-HFEmutation.35Patients with hereditary hemochromatosis should receive age-appropriate screening for colorectal and breast cancers.5,35"
+        },
+        {
+            "parent": 10,
+            "text": "Patients with the clinical hereditary hemochromatosis phenotype have been shown to have higher in-hospital mortality (relative risk = 2.45; 95% CI, 2.27 to 2.64; 857 deaths) and out-of-hospital mortality (relative risk = 1.15; 95% CI, 1.00 to 1.33; 216 deaths) compared with control groups.16The presence of cirrhosis or a ferritin level greater than 2,000 ng per mL (2,000 mcg per L) at the time of diagnosis or in treated patients is associated with higher mortality, mostly liver-related deaths (standardized mortality ratio = 23.9; 95% Cl, 13.9 to 38.2).36Increased age, diabetes, alcohol consumption, and hepatic fibrosis are independent prognostic factors for death.36One study suggested that 20% of patients with hereditary hemochromatosis and cirrhosis will develop hepatocellular carcinoma.37Patients with diabetes have a twofold to sixfold increased risk of premature death if they have increased transferrin saturation or theHFEgenotype.38"
+        },
+        {
+            "parent": 10,
+            "text": "This article updates other articles on this topic byCrownover and Covey5andBrandhagen, et al.39"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key term hereditary hemochromatosis. The search included meta-analyses, randomized clinical trials, clinical trials, and reviews. We also searched the Agency for Healthcare Research and Quality evidence reports, Clinical Evidence, the Cochrane database, Essential Evidence Plus, the Institute for Clinical Systems Improvement, and the evidence summary provided byAFPeditors. Search dates: August 2020 and April 2021."
+        }
+    ],
+    "locked": false
+}

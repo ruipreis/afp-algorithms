@@ -1,0 +1,164 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/0915/p339.html#afp20190915p339-f3",
+    "title": "Urinary Incontinence in Women: Evaluation and Management | AAFP",
+    "author": "JOCELYN S. HU, MD, AND ELYSE FIORE PIERRE, MD",
+    "doi": "Am Fam Physician.2019;100(6):339-348",
+    "abstract": "Urinary incontinence is a common problem among women worldwide, resulting in a substantial economic burden and decreased quality of life. The Women's Preventive Services Initiative is the only major organization that recommends annual screening for urinary incontinence in all women despite low to insufficient evidence regarding effectiveness and accuracy of methods. No other major organization endorses screening. Initial evaluation should include determining whether incontinence is transient or chronic; the subtype of incontinence; and identifying any red flag findings that warrant subspecialist referral such as significant pelvic organ prolapse or suspected fistula. Helpful tools during initial evaluation include incontinence screening questionnaires, a three-day voiding diary, the cough stress test, and measurement of postvoid residual. Urinalysis should be ordered for all patients. A step-wise approach to treatment is directed at the urinary incontinence subtype, starting with conservative management, escalating to physical devices and medications, and ultimately referring for surgical intervention. Pelvic floor strengthening and lifestyle modifications, including appropriate fluid intake, smoking cessation, and weight loss, are first-line recommendations for all urinary incontinence subtypes. No medications are approved by the U.S. Food and Drug Administration for treatment of stress incontinence. Pharmacologic therapy for urge incontinence includes antimuscarinic medications and mirabegron. Patients with refractory symptoms should be referred for more invasive management such as mechanical devices, injections of bulking agents, onabotulinumtoxin A injections, neuromodulation, sling procedures, or urethropexy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Classification",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Laboratory Tests and Imaging",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "General Approach to Management",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "CONSERVATIVE MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "STRESS UI",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "URGE UI",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "MIXED, OVERFLOW, AND FUNCTIONAL UI",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Indications for Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Urinary incontinence (UI), defined as any complaint of involuntary loss of urine,1is a common issue, with a prevalence of 51% among adult women in the United States.2Over half of affected women report that their UI symptoms are bothersome.3This results in a substantial economic burden, up to $65 billion annually.4Comorbidities include decreased quality of life (QOL) and productivity; increased anxiety and depression; increased urinary tract and skin infections; increased risk for falls and nonspine, nontraumatic fractures in older women; and increased caregiver burden.5–9A large meta-analysis of the relationship of UI to mortality found that UI is associated with a pooled, adjusted hazard ratio of 1.27 (95% CI, 1.13 to 1.42).10Another study found that UI was associated with a 24% increased risk of all-cause mortality among older institutionalized adults.11"
+        },
+        {
+            "parent": 0,
+            "text": "UI can be transient or chronic. Transient UI arises suddenly, lasts less than six months, and can be reversed if the underlying cause is addressed.12Chronic UI is differentiated into stress, urge, mixed, overflow, or functional subtypes. Stress UI caused by urethral sphincter weakness or urethral hypermobility results in predictable loss of urine with activities that increase intra-abdominal pressure (e.g., exercising, sneezing, laughing). Stress UI affects 25% to 45% of women older than 30 years.13"
+        },
+        {
+            "parent": 0,
+            "text": "Urge UI related to detrusor overactivity causes involuntary loss of urine associated with urgency as well as increased urinary frequency or nocturia. Patients typically lose urine on the way to the toilet. Prevalence ranges from 9% of women in their forties to 31% of women in their seventies.13"
+        },
+        {
+            "parent": 0,
+            "text": "Mixed UI has components of stress and urge UI and has a prevalence of 20% to 30%. Overflow UI accounts for 5% of chronic UI because of detrusor underactivity or bladder outlet obstruction, which leads to urinary retention and subsequent leakage.13Patients may strain to pass urine or have a sensation of incomplete emptying. Functional UI occurs when there are barriers to toileting, such as cognitive impairment, physical frailty, or immobility. The number of patients affected by functional UI is unclear.1,13"
+        },
+        {
+            "parent": 1,
+            "text": "Well-established risk factors for UI include increasing age, parity, obesity, history of hysterectomy, and increasing medical comorbidity. Other risk factors include diuretic use, poor overall health, and high impact exercise.14–16Vaginal deliveries are associated with an increased risk of UI, but evidence is mixed regarding whether cesarean deliveries have a prolonged protective effect.17,18"
+        },
+        {
+            "parent": 2,
+            "text": "The Women's Preventive Services Initiative recommends annually screening for women of all ages, including adolescents, for UI despite low-quality evidence for accuracy of screening methods and insufficient evidence regarding the effectiveness of screening in improving symptoms, QOL, and function.19No other major organization recommends screening for UI. The National Committee for Quality Assurance lists Management of Urinary Incontinence in Older Adults as a Healthcare Effectiveness Data and Information Set measure based on responses to the Medicare Health Outcomes Survey. The measure does not require universal screening; it is scored on the percentage of members who reported having urine leakage in the past six months and have discussed their symptoms and treatment options with a health care professional.20The 3 Incontinence Questions(Figure 113,21), the International Consultation on Incontinence Questionnaire Urinary Incontinence Short Form(Figure 222),23,24and the Revised Urinary Incontinence Scale (available atwww.mdcalc.com/revised-urinary-incontinence-scale-ruis)25have good sensitivity, validity, and are easily completed in a primary care setting to screen for UI symptoms and the effect that UI has on QOL."
+        },
+        {
+            "parent": 3,
+            "text": "A thorough history can often distinguish between transient and chronic UI, as well as the subtype of chronic UI. The mnemonic TOILETED (thin, dry vaginal and urethral epithelium; obstruction [stool impaction/constipation]; infection; limited mobility; emotional [psychological disorders]; therapeutic medications; endocrine disorders; delirium) is helpful to identify causes for transient UI.12Table 1lists medications that frequently cause or exacerbate UI.13Physicians should inquire about the nature and duration of urinary symptoms; gynecologic history; and comorbidities such as tobacco use, diabetes mellitus, or congestive heart failure. Physicians should also assess the patient's cognitive and functional status. A three-day voiding diary may be helpful in clarifying fluid intake, symptoms, and situations in which UI occurs.26,27A sample bladder voiding diary is available atwww.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf."
+        },
+        {
+            "parent": 4,
+            "text": "Physical examination should be guided by the patient's history and may include pelvic and neurologic examinations with cognitive and functional assessments.The cough stress test should be included in the initial evaluation of women with stress UI symptoms.24It has excellent reliability, sensitivity, and specificity for identifying stress UI when compared with urodynamic testing.28,29The patient's bladder should have at least 200 to 300 mL of urine or be at symptomatic fullness. The patient is then asked to cough while the physician observes for urine leakage. Immediate leakage is consistent with stress UI. The test can be performed in the supine or standing position but is more sensitive in the standing position.30If the test is initially performed in the supine position with a negative result, it should be repeated in the standing position if possible."
+        },
+        {
+            "parent": 4,
+            "text": "The cotton swab test can be performed to evaluate for urethral hypermobility. After lubrication or application of intraurethral lidocaine jelly, the swab is inserted into the bladder through the urethra. The patient is asked to do the Valsalva maneuver. A change in cotton swab angle more than 30 degrees from resting position is considered positive, indicating urethral hypermobility.24"
+        },
+        {
+            "parent": 4,
+            "text": "Measurement of postvoid residual is traditionally part of the initial evaluation but is not necessary in all patients with uncomplicated UI. If performed, ultrasonography should be used if available because it is as accurate and less invasive than catheterization. Postvoid residual can be measured as a precaution to exclude significant urinary retention; it should be measured in patients being considered for subspecialty referral or those receiving treatments that may cause or worsen voiding dysfunction.31,32Urodynamic testing is rarely needed in a primary care setting and should not routinely be performed in the initial workup for uncomplicated UI.33–35"
+        },
+        {
+            "parent": 5,
+            "text": "Urinalysis should be ordered on all patients to evaluate for urinary tract infection and to exclude hematuria, proteinuria, and glycosuria.23,24,32,36Renal function should be assessed if there is concern for obstruction. Routine imaging should not be performed in the initial assessment of uncomplicated UI other than the use of ultrasonography to assess postvoid residual.32,36"
+        },
+        {
+            "parent": 6,
+            "text": "Intervention should be considered in patients with bothersome UI symptoms who desire treatment. The American Academy of Family Physicians endorses the evidence-based guidelines for management of UI published in 2014 by the American College of Physicians; the recommendations within this article are generally consistent with these guidelines.37A step-wise approach to treatment is directed at the UI subtype, starting with conservative management, escalating to physical devices and medications,and ultimately referring for surgical intervention(Figure 3).38Initiating treatment with surgical intervention can be considered after appropriate counseling if the patient prefers a surgical approach or if medications are contraindicated.32,37,39Table 2summarizes treatment options for UI40;Table 3lists pharmacologic therapies. Concurrent behavior and pharmacologic therapy is more effective than pharmacologic therapy alone.32,41"
+        },
+        {
+            "parent": 7,
+            "text": "Despite low-quality evidence to suggest that lifestyle interventions improve UI, these interventions are inexpensive with low risk of side effects. It is reasonable for physicians to counsel patients on appropriate fluid intake,32,40,42,43timed voiding,32,44reduction of caffeinated and carbonated beverages,32,40,44,45smoking cessation,32,44regular moderate physical activity,32and weight loss if patient is overweight or obese.32,45Overly aggressive fluid restriction should be avoided because of potential adverse effects of headaches, constipation, and thirst.43Optimized management of medications and comorbidities, especially in geriatric patients, may reverse transient UI or improve chronic UI.32Pelvic floor muscle strengthening exercises, such as Kegel exercises, are the mainstay of behavior therapy for stress UI, with cure rates varying from 29% to 59% in systematic reviews46–48; when compared with no treatment, the number needed to treat for benefit is three patients (95% CI, 2 to 5).48A referral for clinically guided pelvic floor muscle training, including manual feedback, biofeedback, and weighted intravaginal cones, may be more effective if the patient has difficulty contracting her pelvic floor muscles voluntarily.40,44Table 4provides examples of interventions that may reduce UI symptoms.40,42"
+        },
+        {
+            "parent": 8,
+            "text": "Mechanical devices for stress UI management include vaginal inserts (cones, pessaries) and urethral plugs. These devices frequently require intravaginal estrogen before use and are most often discontinued because of poor fit48; however, they may be effective in patients with predictable, episodic symptoms (e.g., during exercise, pregnancy), in nonsurgical candidates, or in those awaiting surgery. Up to one-third of patients who use urethral plugs develop urinary tract infections in a two-year period, but patient satisfaction remains high with this device.40"
+        },
+        {
+            "parent": 8,
+            "text": "No medications are approved by the U.S. Food and Drug Administration (FDA) for treatment of stress UI40; the American College of Physicians recommends against systemic pharmacotherapy.37Alpha-adrenergic agonists (e.g., pseudoephedrine, phenylephrine) have previously been prescribed as adjunct therapy because they act on receptors in the proximal urethra and bladder neck. Significant adverse effects include palpitations and headache.47Behavior therapy has significantly improved outcomes when compared with alpha agonists,47and alpha agonists are no longer recommended for stress UI.24,39,40Duloxetine (Cymbalta) has alpha-agonist properties with low strength of evidence regarding effectiveness or improved QOL.40,47No strong evidence supports the use of tricyclic antidepressants or hormone therapy.47"
+        },
+        {
+            "parent": 8,
+            "text": "The injection of trans- or periurethral bulking agents can be considered for treatment of stress UI, although there is low-quality evidence to show improved outcomes compared with no treatment.47Adverse effects include urinary retention, urgency, dysuria, and infection; repeat injections are often needed.40,47Intravesical balloons are more effective than sham therapy and, by indirect comparison, more effective than behavior therapy combined with neuromodulation.47Home electrode-stimulation therapy of the vagina or anus is a Medicare-covered option for patients who cannot voluntarily contract their pelvic floor muscles.40Urologic surgery for stress UI includes sling procedures and urethropexy to support urethral constriction or to stabilize the bladder neck and urethra. There is no consensus on the best surgical approach; obesity, diabetes, age, and desire for future fertility are not absolute contraindications to surgery.39,40"
+        },
+        {
+            "parent": 9,
+            "text": "Antimuscarinics and beta-adrenergic agonists are FDA-approved oral medications for urge UI. Antimuscarinics prevent recurrent spasm of the detrusor muscle, but side effects include tachycardia, edema, confusion, constipation, and blurry vision.40Selective antimuscarinic agents (darifenacin [Enablex], solifenacin [Vesicare]) are preferred over nonselective agents (oxybutynin, tolterodine [Detrol]) to reduce cognitive side effects.40,47Antimuscarinics are not recommended as first-line pharmacotherapy in older adults.49Mirabegron is a beta-adrenergic agonist that relaxes the detrusor muscle via beta-3 receptors.47Adverse effects include gastrointestinal upset, dizziness, headache, and increased blood pressure. Concurrent use with antimuscarinics increases the risk of urinary retention.40Intravaginal estrogen may improve urge UI symptoms but is not approved by the FDA for this indication; systemic estrogen exacerbates incontinence.40,44,47"
+        },
+        {
+            "parent": 9,
+            "text": "Percutaneous tibial nerve stimulation requires weekly procedures for the initial three months and subsequent monthly maintenance treatments. It has similar effectiveness as antimuscarinic medications.44,47Intravesical onabotulinumtoxinA (Botox) injection delivered via cystoscopy is approved by the FDA and results in flaccid paralysis of the detrusor muscle; studies show consistent improvement in UI and QOL. The procedure can be repeated every six months as symptoms recur.40,44,47Sacral, pudendal, and paraurethral nerve stimulators can be surgically implanted; 60% to 90% of patients with sacral neuromodulators report improvement in symptoms.These devices are expensive and are indicated only for patients with refractory symptoms because of the risk of surgical complications.40,44A 2016 study showed that onabotulinumtoxinA was superior to neuromodulation devices for reduction of UI.47"
+        },
+        {
+            "parent": 10,
+            "text": "Management of mixed UI should be directed toward treating predominant symptoms. Reversible causes of overflow UI should be identified (e.g., stopping medications that cause urinary retention; seeTable 113). Intermittent or indwelling catheterization is often required if the etiology is irreversible (e.g., neurologic dysfunction because of stroke).40Behavior therapies, such as assisted and timed toileting, are the primary treatment for functional incontinence.40"
+        },
+        {
+            "parent": 11,
+            "text": "Subspecialist referral should be considered for complicated UI to include associated pain, persistent hematuria or proteinuria, significant pelvic organ prolapse, previous pelvic surgery or radiation, suspected fistula, or elevated postvoid residual.13,23"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:An evidence summary generated from Essential Evidence Plus was reviewed and relevant studies referenced. A PubMed search was completed using the following key terms: prevalence of urinary incontinence, risk factors for urinary incontinence, screening for urinary incontinence, cough stress test for urinary incontinence, nonsurgical management of urinary incontinence, pharmacologic management of urinary incontinence. The searches included meta-analyses, randomized controlled trials, clinical trials, and reviews. Pertinent United States, European, and international society guidelines were also reviewed. Search dates: September 2018 through December 2018 and June 2019."
+        },
+        {
+            "parent": 11,
+            "text": "This article updates previous articles on this topic byKhandelwal and Kistler,13Weiss,38Hersh and Salzman,40andCulligan and Heit.50"
+        },
+        {
+            "parent": 11,
+            "text": "The opinions or assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the Department of Defense, the U.S. Army Medical Corps, or the U.S. Army at large."
+        }
+    ],
+    "locked": false
+}

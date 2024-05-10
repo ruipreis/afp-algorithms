@@ -1,0 +1,223 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0201/p180.html#afp20140201p180-f1",
+    "title": "Acute Diarrhea in Adults | AAFP",
+    "author": "WENDY BARR, MD, MPH, MSCE, AND ANDREW SMITH, MD",
+    "doi": "Am Fam Physician.2014;89(3):180-189",
+    "abstract": "Acute diarrhea in adults is a common problem encountered by family physicians. The most common etiology is viral gastroenteritis, a self-limited disease. Increases in travel, comorbidities, and foodborne illness lead to more bacteria-related cases of acute diarrhea. A history and physical examination evaluating for risk factors and signs of inflammatory diarrhea and/or severe dehydration can direct any needed testing and treatment. Most patients do not require laboratory workup, and routine stool cultures are not recommended. Treatment focuses on preventing and treating dehydration. Diagnostic investigation should be reserved for patients with severe dehydration or illness, persistent fever, bloody stool, or immunosuppression, and for cases of suspected nosocomial infection or outbreak. Oral rehydration therapy with early refeeding is the preferred treatment for dehydration. Antimotility agents should be avoided in patients with bloody diarrhea, but loperamide/simethicone may improve symptoms in patients with watery diarrhea. Probiotic use may shorten the duration of illness. When used appropriately, antibiotics are effective in the treatment of shigellosis, campylobacteriosis,Clostridium difficile, traveler's diarrhea, and protozoal infections. Prevention of acute diarrhea is promoted through adequate hand washing, safe food preparation, access to clean water, and vaccinations.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "OCCULT BLOOD",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "LEUKOCYTES AND LACTOFERRIN",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "STOOL CULTURES",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CLOSTRIDIUM DIFFICILE TESTING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "OVA AND PARASITES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "ENDOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "REHYDRATION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "FEEDING",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "ANTIDIARRHEAL MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "ANTIBIOTIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "PROBIOTICS",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "ZINC SUPPLEMENTATION",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute diarrhea is defined as stool with increased water content, volume, or frequency that lasts less than 14 days.1Diarrheal illness accounts for 2.5 million deaths per year worldwide.2In the United States, an estimated 48 million foodborne diarrheal illnesses occur annually, resulting in more than 128,000 hospitalizations and 3,000 deaths.3,4In the developing world, infectious causes of acute diarrhea are largely related to contaminated food and water supplies.5In the developed world, technological progress and an increase in mass production of food have paradoxically contributed to the persistence of foodborne illness, despite higher standards of food production.6"
+        },
+        {
+            "parent": 0,
+            "text": "Infectious causes of acute diarrhea include viruses, bacteria, and, less often, parasites. Noninfectious causes include medication adverse effects, acute abdominal processes, gastroenterologic disease, and endocrine disease."
+        },
+        {
+            "parent": 0,
+            "text": "Clinically, acute infectious diarrhea is classified into two pathophysiologic syndromes, commonly referred to as noninflammatory (mostly viral, milder disease) and inflammatory (mostly invasive or with toxin-producing bacteria, more severe disease).7,8Table 1compares noninflammatory and inflammatory acute infectious diarrhea.7,8"
+        },
+        {
+            "parent": 0,
+            "text": "Viral infections are the most common cause of acute diarrhea.9Bacterial infections are more often associated with travel, comorbidities, and foodborne illness. When a specific organism is identified, the most common causes of acute diarrhea in the United States areSalmonella, Campylobacter, Shigella, and Shiga toxin–producingEscherichia coli(enterohemorrhagicE. coli).10The Centers for Disease Control and Prevention provides a comprehensive list of foodborne illnesses athttp://www.cdc.gov/foodsafety/diseases."
+        },
+        {
+            "parent": 2,
+            "text": "The onset, duration, severity, and frequency of diarrhea should be noted, with particular attention to stool character (e.g., watery, bloody, mucus-filled, purulent, bilious). The patient should be evaluated for signs of dehydration, including decreased urine output, thirst, dizziness, and change in mental status. Vomiting is more suggestive of viral illness or illness caused by ingestion of a preformed bacterial toxin. Symptoms more suggestive of invasive bacterial (inflammatory) diarrhea include fever, tenesmus, and grossly bloody stool.11"
+        },
+        {
+            "parent": 2,
+            "text": "A food and travel history is helpful to evaluate potential exposures. Children in day care, nursing home residents, food handlers, and recently hospitalized patients are at high risk of infectious diarrheal illness. Pregnant women have a 12-fold increased risk of listeriosis,12which is primarily contracted by consuming cold meats, soft cheeses, and raw milk.13Recent sick contacts and use of antibiotics and other medications should be noted in patients with acute diarrhea. Sexual practices that include receptive anal and oral-anal contact increase the possibility of direct rectal inoculation and fecal-oral transmission."
+        },
+        {
+            "parent": 2,
+            "text": "The history should also include gastroenterologic disease or surgery; endocrine disease; radiation to the pelvis; and factors that increase the risk of immunosuppression, including human immunodeficiency virus infection, long-term steroid use, chemotherapy, and immunoglobulin A deficiency. History findings associated with causes of diarrhea are summarized inTable 2,1,7,8,14,15and clinical features by pathogen are summarized inTable 3.1,14"
+        },
+        {
+            "parent": 3,
+            "text": "The primary goal of the physical examination is to assess the patient's degree of dehydration. Generally ill appearance, dry mucous membranes, delayed capillary refill time, increased heart rate, and abnormal orthostatic vital signs can be helpful in identifying more severe dehydration. Fever is more suggestive of inflammatory diarrhea. The abdominal examination is important to assess for pain and acute abdominal processes. A rectal examination may be helpful in assessing for blood, rectal tenderness, and stool consistency."
+        },
+        {
+            "parent": 4,
+            "text": "Because most watery diarrhea is self-limited, testing is usually not indicated.1,16In general, specific diagnostic investigation can be reserved for patients with severe dehydration, more severe illness, persistent fever, bloody stool, or immunosuppression, and for cases of suspected nosocomial infection or outbreak."
+        },
+        {
+            "parent": 5,
+            "text": "It is unclear how much fecal occult blood testing affects pretest probability. Nevertheless, it is a rapid and inexpensive test, and when tests are positive for fecal occult blood in conjunction with the presence of fecal leukocytes or lactoferrin, the diagnosis of inflammatory diarrhea is more common.17Of note, fecal occult blood testing is 71% sensitive and 79% specific for inflammatory diarrhea in developed countries, but the sensitivity drops to 44% and specificity to 72% in developing countries.18"
+        },
+        {
+            "parent": 6,
+            "text": "Testing stool for leukocytes to screen for inflammatory diarrhea poses several challenges, including the handling of specimens and the standardization of laboratory processing and interpretation. There is a wide variability in sensitivity and specificity. Therefore, this testing has fallen out of favor.18"
+        },
+        {
+            "parent": 6,
+            "text": "Lactoferrin is a marker for leukocytes that is released by damaged or deteriorating cells, and increases in the setting of bacterial infections.19Commercially available immunoassay testing kits are a more precise and less variable method for specimen analysis compared with fecal leukocytes, with a sensitivity greater than 90% and a specificity greater than 70%.20Although there is some debate as to whether fecal lactoferrin is clearly superior to fecal leukocytes, the speed and simplicity of lactoferrin testing make it the preferred method to screen for the presence of leukocytes when indicated.21"
+        },
+        {
+            "parent": 7,
+            "text": "The indiscriminate use of stool cultures in the evaluation of acute diarrhea is inefficient (results are positive in only 1.6% to 5.6% of cases)1and expensive, with an estimated cost of $900 to $1,200 per positive stool culture.22Obtaining cultures only in patients with screening tests positive for leukocytes decreases the cost to $150 per positive culture.23Obtaining cultures only in patients with grossly bloody stools increases the yield for positive culture results to greater than 30%.24"
+        },
+        {
+            "parent": 7,
+            "text": "Although there is no consensus on which patients need a culture, it is reasonable to perform a culture if the patient has grossly bloody stool, severe dehydration, signs of inflammatory disease, symptoms lasting more than three to seven days, or immunosuppression.25,26Cultures are often obtained for traveler's diarrhea; however, empiric treatment is also an option.1,11In the hospital setting, cultures should be reserved for the reasons listed above or if diarrhea begins more than three days after admission and there has been a nosocomial outbreak, the patient has human immunodeficiency virus infection or neutropenia, or the patient is older than 65 years with significant comorbidity (e.g., end-stage liver, renal, or pulmonary disease; leukemia hemiparesis caused by cardiovascular accident; inflammatory bowel disease).25"
+        },
+        {
+            "parent": 8,
+            "text": "Testing forClostridium difficiletoxins A and B is recommended for patients who develop unexplained diarrhea after three days of hospitalization; the test will be positive in 15% to 20% of these patients.25,27Furthermore, the risk of contractingC. difficileinfection increases by seven to 10 times throughout any period of antibiotic treatment and for the first month after antibiotic discontinuation, and this risk is still three times higher in the second and third months after antibiotic discontinuation.28Therefore, testing forC. difficiletoxins is also suggested in patients who develop unexplained diarrhea while using antibiotics or within three months of discontinuing antibiotics.C. difficiletesting can be considered in certain populations with significant comorbidities, including older persons and those who are immunocompromised."
+        },
+        {
+            "parent": 9,
+            "text": "Routine analysis for ova and parasites in patients with acute diarrhea is not cost-effective, especially in developed countries.29Indications for ova and parasite testing include persistent diarrhea lasting more than seven days, especially if associated with infants in day care or travel to mountainous regions; diarrhea in persons with AIDS or men who have sex with men; community waterborne outbreaks; or bloody diarrhea with few fecal leukocytes.11The benefit of sending multiple samples to increase the test yield is debatable."
+        },
+        {
+            "parent": 10,
+            "text": "The role of endoscopy in the diagnosis and management of acute diarrhea is limited. Endoscopic evaluation may be considered if the diagnosis is unclear after routine blood and stool tests, if empiric therapy is ineffective, or if symptoms persist.30Specifically, lower endoscopy with colonic biopsy and culture can be helpful in patients with diarrhea and suspected tuberculosis or diffuse colitis (as inC. difficilecolitis) and in determining noninfectious causes of acute diarrhea, such as inflammatory bowel disease, ischemic colitis, enteropathy related to nonsteroidal anti-inflammatory drug use, and cancer.31"
+        },
+        {
+            "parent": 11,
+            "text": "Figure 1provides an algorithm for the treatment of acute diarrhea.1,14,20"
+        },
+        {
+            "parent": 12,
+            "text": "The first step to treating acute diarrhea is rehydration, preferably oral rehydration.1The accumulated fluid deficit (calculated roughly as the difference between the patient's normal weight and his or her weight at presentation with diarrheal illness) must first be addressed. Next, the focus should turn to the replacement of ongoing losses and the continuation of maintenance fluids. An oral rehydration solution (ORS) must contain a mixture of salt and glucose in combination with water to best use the intestine's sodium-glucose coupled cellular transport mechanism."
+        },
+        {
+            "parent": 12,
+            "text": "In 2002, the World Health Organization endorsed an ORS with reduced osmolarity (250 mOsm per L or less compared with the prior standard of 311 mOsm per L). The reduced osmolarity ORS decreases stool outputs, episodes of emesis, and the need for intravenous rehydration,32without increasing hyponatremia, compared with the standard ORS.33A reduced osmolarity ORS can be roughly duplicated by mixing 1/2 teaspoon of salt, 6 teaspoons of sugar, and 1 liter of water. If oral rehydration is not feasible, intravenous rehydration may be necessary."
+        },
+        {
+            "parent": 13,
+            "text": "Early refeeding decreases intestinal permeability caused by infections, reduces illness duration, and improves nutritional outcomes.34,35This is particularly important in developing countries where underlying preexisting malnutrition is often a factor. Although theBRAT diet (bananas, rice, applesauce, and toast)and the avoidance of dairy are commonly recommended, supporting data for these interventions are limited. Instructing patients to refrain from eating solid food for 24 hours also does not appear useful.36"
+        },
+        {
+            "parent": 14,
+            "text": "The antimotility agent loperamide (Imodium) may reduce the duration of diarrhea by as much as one day and increase the likelihood of clinical cure at 24 and 48 hours when given with antibiotics for traveler's diarrhea.37,38A loperamide/simethicone combination has demonstrated faster and more complete relief of acute nonspecific diarrhea and gas-related discomfort compared with either medication alone.39"
+        },
+        {
+            "parent": 14,
+            "text": "Loperamide may cause dangerous prolongation of illness in patients with some forms of bloody or inflammatory diarrhea and, therefore, should be restricted to patients with nonbloody stool.40The antisecretory drug bismuth subsalicylate (Pepto-Bismol) is a safe alternative in patients with fever and inflammatory diarrhea. There is inadequate evidence to recommend the use of the absorbents kaolin/pectin, activated charcoal, or attapulgite (no longer available in the United States). The antisecretory drug racecadotril, widely used in Europe but unavailable in the United States, appears to be more tolerable and as effective as loperamide.41"
+        },
+        {
+            "parent": 15,
+            "text": "Because acute diarrhea is most often self-limited and caused by viruses, routine antibiotic use is not recommended for most adults with nonsevere, watery diarrhea. Additionally, the overuse of antibiotics can lead to resistance (e.g.,Campylobacter), harmful eradication of normal flora, prolongation of illness (e.g., superinfection withC. difficile), prolongation of carrier state (e.g., delayed excretion ofSalmonella), induction of Shiga toxins (e.g., from Shiga toxin–producingE. coli), and increased cost."
+        },
+        {
+            "parent": 15,
+            "text": "However, when used appropriately, antibiotics are effective for shigellosis, campylobacteriosis,C. difficile, traveler's diarrhea, and protozoal infections. Antibiotic treatment of traveler's diarrhea (usually a quinolone) is associated with decreased severity of illness and a two-or three-day reduction in duration of illness.1,42If the patient's clinical presentation suggests the possibility of Shiga toxin–producingE. coli(e.g., bloody diarrhea, history of eating seed sprouts or rare ground beef, proximity to an outbreak), antibiotic use should be avoided because it may increase the risk of hemolytic uremic syndrome.43Conservative management without antibiotic treatment is less successful for diarrhea lasting more than 10 to 14 days, and testing and treatment for protozoal infections should be considered.1Antibiotics may be considered in patients who are older than 65 years, immunocompromised, severely ill, or septic.Table 4summarizes antibiotic therapy for acute diarrhea.1,14,16,44,45"
+        },
+        {
+            "parent": 16,
+            "text": "Probiotics are thought to work by stimulating the immune system and competing for binding sites on intestinal epithelial cells. Their use in children with acute diarrhea is associated with reduced severity and duration of illness (an average of about one less day of illness).46Although many species are generally categorized as probiotics, even closely related strains may have different clinical effects. Effects of strain-specific probiotics need to be verified in adult studies before a specific evidence-based recommendation can be made.16"
+        },
+        {
+            "parent": 17,
+            "text": "Research in children suggests that zinc supplementation (20 mg per day for 10 days in children older than two months) may play a crucial role in treating and preventing acute diarrhea, particularly in developing countries. Studies demonstrate a decrease in the risk of dehydration, and in the duration and severity of the diarrheal episode by an estimated 20% to 40%.47Additional research is needed to evaluate potential benefits of zinc supplementation in the adult population."
+        },
+        {
+            "parent": 18,
+            "text": "Good hygiene, hand washing, safe food preparation, and access to clean water are key factors in preventing diarrheal illness.48Public health interventions to promote hand washing alone can reduce the incidence of diarrhea by about one-third.49Vaccine development remains a high priority for disease prevention, particularly for those in the developing world. Effective and safe vaccines exist for rotavirus, typhoid fever, and cholera, and are under investigation forCampylobacter, enterotoxigenicE. coli, andShigellainfections. To contain disease outbreaks, designated diseases should be reported to public health authorities. In the United States, reportable diarrheal illnesses include those caused byVibrio cholerae,Cryptosporidium,Giardia,Salmonella,Shigella, and Shiga toxin–producingE. coli."
+        },
+        {
+            "parent": 18,
+            "text": "Data Sources: A literature search was completed in Medline via Ovid, EBSCOhost, DynaMed, Essential Evidence Plus, and the Cochrane Database of Systematic Reviews. Keywords were acute diarrhea, evaluation of acute diarrhea,Clostridium difficile, testing in acute diarrhea, and diagnostic testing in acute diarrhea. Search dates: March to April 2011, and December 2013."
+        }
+    ],
+    "locked": false
+}

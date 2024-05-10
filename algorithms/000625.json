@@ -1,0 +1,194 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0415/p1219.html#afp20070415p1219-f2",
+    "title": "Noninvasive Cardiac Imaging | AAFP",
+    "author": "JENNIFER H. MIERES, M.D., AMGAD N. MAKARYUS, M.D., RITA F. REDBERG, M.D., M.SC., AND LESLEE J. SHAW, PH.D.",
+    "doi": "Am Fam Physician.2007;75(8):1219-1228",
+    "abstract": "Noninvasive cardiac imaging can be used for the diagnostic and prognostic assessment of patients with suspected or known coronary artery disease. It is central to the treatment of patients with myocardial infarction, coronary artery disease, or acute coronary syndromes with or without angina. Radionuclide cardiac imaging; echocardiography; and, increasingly, cardiac computed tomography and cardiac magnetic resonance imaging techniques play an important role in the diagnosis of coronary artery disease, which is the leading cause of mortality in adults in the United States. Contemporary imaging techniques, with either stress nuclear myocardial perfusion imaging or stress echocardiography, provide a high sensitivity and specificity in the detection and risk assessment of coronary artery disease, and have incremental value over exercise electrocardiography and clinical variables. They also are recommended for patients at intermediate to high pretest likelihood of coronary artery disease based on symptoms and risk factors. Cardiac magnetic resonance imaging and cardiac computed tomography are newly emerging modalities in the evaluation of patients with coronary artery disease. Cardiac magnetic resonance imaging is useful in the assessment of myocardial perfusion and viability, as well as function. It also is considered a first-line tool for the diagnosis of arrhythmogenic right ventricular dysplasia. Cardiac computed tomography detects and quantifies coronary calcium and evaluates the lumen and wall of the coronary artery. It is a clinical tool for the detection of subclinical coronary artery disease in select asymptomatic patients with an intermediate Framingham 10-year risk estimate of 10 to 20 percent. In addition, cardiac computed tomography is evolving as a noninvasive tool for the detection and quantification of coronary artery stenosis. Although guidelines can help with treating patients, treatment ultimately should be tailored to each person based on clinical judgment of the a priori risk of a cardiac event, symptoms, and the cardiac risk profile.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Initial Evaluation of Patients with Suspected CAD",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Cardiac Radionuclide Imaging: SPECT Myocardial Perfusion Imaging",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "UTILITY AND PATIENT SELECTION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "RECOMMENDATIONS FOR CARDIAC RADIONUCLIDE STRESS TESTING",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Echocardiography and Stress Echocardiography",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "UTILITY AND PATIENT SELECTION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "RECOMMENDATIONS FOR ECHOCARDIOGRAPHY AND STRESS ECHOCARDIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Cardiac CT: Coronary Calcium Scoring and Noninvasive Coronary Angiography",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "UTILITY AND PATIENT SELECTION",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "RECOMMENDATIONS FOR CARDIAC CT",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Cardiac MRI",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "UTILITY AND PATIENT SELECTION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "RECOMMENDATIONS FOR CARDIAC MRI",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Conclusion",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Coronary artery disease (CAD) is the leading cause of mortality in men and women in the United States and claims 500,000 lives each year.1Establishing the diagnosis, extent, and severity of CAD and determining the potential risk of cardiovascular events are crucial steps toward improving patient outcomes. The use of noninvasive cardiac imaging in the identification of CAD involves techniques that provide images of cardiac structure and increasingly yield physiologic information that assists in management and treatment decisions."
+        },
+        {
+            "parent": -1,
+            "text": "The value of commonly used noninvasive cardiac diagnostic techniques is now well established. Research continues to help develop new techniques and improve existing techniques and applications in the areas of cardiac radionuclide imaging, echocardiography, cardiac computed tomography (CT), and cardiac magnetic resonance imaging (MRI). Current guidelines from national organizations, including the American Heart Association (AHA) and the American College of Cardiology (ACC), provide guidance on the choice and use of imaging modalities in patient populations with and at risk of CAD.2–7"
+        },
+        {
+            "parent": 0,
+            "text": "Evaluation of patient history will reveal the presence of cardiac risk factors, including age, sex, hypertension, diabetes, smoking, physical inactivity, obesity, abnormal lipid profile, and family history in any first-degree female relative 65 years or younger or first-degree male relative 55 years or younger. The presence, character, location, and associated symptoms of chest pain or angina and the precipitating, exacerbating, or alleviating factors should be assessed. The Framingham risk estimate, a global risk score that includes traditional risk factors for CAD, also should be assessed. Based on their Framingham risk score, patients at low risk have a less than 10 percent 10-year CAD risk, patients at intermediate risk have a 10 to 20 percent 10-year CAD risk, and those at high risk have a more than 20 percent 10-year CAD risk. This translates to expected annual rates of CAD death or myocardial infarction (MI) of less than 0.6 percent (low risk), 0.6 percent to 2.0 percent (intermediate risk), and more than 2.0 percent (high risk).8The online Framingham risk estimate calculator can be found athttp://hp2010.nhlbihin.net/atpiii/calculator.asp?usertype=prof."
+        },
+        {
+            "parent": 0,
+            "text": "Resting 12-lead electrocardiography (ECG) should be performed on all patients with suspected CAD. The presence of left ventricular hypertrophy, ST-segment changes, T-wave changes, diagnostic Q waves in two contiguous leads, and conduction abnormalities (e.g., left bundle branch block) increases the likelihood of CAD.8–10Noninvasive cardiac testing is recommended for the symptomatic patient at intermediate risk of CAD, based on the presence of risk factors and symptoms.2,4,6,7Patients who can exercise should undergo treadmill testing alone or in combination with cardiac imaging because this assessment of exercise capacity yields diagnostic and prognostic data.6"
+        },
+        {
+            "parent": 0,
+            "text": "Treadmill testing with exercise ECG is the oldest and most commonly used form of noninvasive cardiac testing in the evaluation of patients with suspected CAD. According to the ACC/AHA exercise testing guidelines, patients should undergo exercise treadmill testing if they are at an intermediate pretest risk of CAD based on symptoms and risk factors, have a normal resting ECG, and are capable of maximal exercise.6Patients with poor functional capacity on treadmill stress testing (less than five metabolic equivalents) typically will have a poor prognosis.3,11,12"
+        },
+        {
+            "parent": 0,
+            "text": "In daily clinical practice, the risk assessment helps determine management. Patients with an increased likelihood of a cardiac event should be referred for testing and more intensive treatment, whereas those at low risk of cardiac events can be treated with medical therapy and risk factor modification and avoid further testing.2–10,13,14Figure 17is an algorithm showing the diagnosis and risk stratification of patients with suspected CAD; it is based on ACC/AHA guidelines for the evaluation of stable angina."
+        },
+        {
+            "parent": 2,
+            "text": "Stress myocardial perfusion imaging with single-photon emission computed tomography (SPECT) uses radioactive tracers to provide information about regional blood flow, coronary artery perfusion, and ventricular function.2A meta-analysis of 33 studies, which included thallium 201 and technetium tracers, found that nuclear exercise stress imaging for the detection of CAD (50 percent or more stenosis) had an average sensitivity of 87 percent and specificity of 73 percent.2Pharmacologic stress SPECT myocardial perfusion imaging with vasodilator agents (e.g., adenosine [Adenoscan] and dipyridamole [Persantine]) is often used and has a high diagnostic accuracy in patients with suspected CAD who are incapable of exercise. The overall estimated sensitivity of vasodilator stress is 89 percent with a specificity of 75 percent.2Vasodilator pharmacologic SPECT has been shown to be more accurate than exercise perfusion imaging in the identification of CAD in patients with a left bundle branch block."
+        },
+        {
+            "parent": 2,
+            "text": "Over the last decade, innovations in myocardial perfusion imaging have resulted in substantial improvements in its accuracy. The lower energy-isotope (thallium 201) is now largely supplanted by the use of technetium-based imaging agents that improve accuracy, particularly with ECG gated SPECT imaging.2With ECG gated SPECT, image data are acquired in synchrony with the ECG signal, facilitating the evaluation of wall motion and ejection fraction. Recent clinical studies have suggested that technetium agents have better specificity, especially for women with suspected CAD in whom false-positive results caused by breast attenuation and small left ventricular chamber size were common with the use of thallium 201.3,15–17"
+        },
+        {
+            "parent": 2,
+            "text": "Within the last three years, the validation and addition of attenuation correction techniques to myocardial perfusion imaging have demonstrated improved specificity.2Overall, in patients with symptoms suggestive of typical or atypical angina, exercise or pharmacologic stress SPECT myocardial perfusion imaging yields a sensitivity for detecting CAD of 85 to 90 percent and a specificity of 80 to 90 percent when gated SPECT is used.2,15–17"
+        },
+        {
+            "parent": 2,
+            "text": "Myocardial perfusion imaging has been shown to have powerful predictive value for the development of subsequent cardiac death or MI or the need for coronary revascularization. Stress myocardial perfusion imaging provides prognostic information supplemental to that of clinical and exercise ECG variables, and has an excellent negative predictive value for identifying patients at low risk of cardiac events (e.g., death, MI).2A normal perfusion scan at peak stress is associated with an excellent outcome and a cardiac event rate of less than 1 percent per year. Prognosis worsens relative to the number of vascular territories involved, the extent and severity of defect size, and the degree of reversibility. Additional negative prognostic components include poststress ejection fraction less than 45 percent, end systolic volume more than 70 mL, transient ischemic dilation, and increased lung uptake of thallium 201.2,18–22"
+        },
+        {
+            "parent": 2,
+            "text": "Recent validations of contemporary computer techniques and protocols have resulted in decreased radiation exposure and shorter imaging times.2,23,24"
+        },
+        {
+            "parent": 3,
+            "text": "Table 12–4,6lists the guidelines for cardiac radionuclide stress testing. The guidelines are based on evidence or general agreement that a given procedure is useful and effective."
+        },
+        {
+            "parent": 5,
+            "text": "Two-dimensional echocardiography provides excellent images of the heart and great vessels, as well as the assessment of regional and global left and right ventricular function. Of all the noninvasive techniques, it is the most versatile and provides the most ancillary information at the lowest cost.4Stress echocardiography with exercise or dobutamine (Dobutrex) can assess for the presence of left ventricular systolic or diastolic dysfunction, valvular heart disease, and the extent of infarction and stress-induced ischemia. Exercise echocardiography may be performed using treadmill, supine bicycle, or upright bicycle. In patients who cannot exercise, dobutamine is the most commonly used pharmacologic stress agent; vasodilator stress echocardiography (with dipyridamole or adenosine) has been reported to have a lower diagnostic sensitivity for single vessel disease.25Transient regional wall motion abnormality, if visualized in the setting of exercise or dobutamine stress, is a marker of CAD."
+        },
+        {
+            "parent": 5,
+            "text": "Based on data in patients with suspected CAD, stress echocardiography has demonstrated very good diagnostic accuracy for detecting or excluding significant CAD, with a mean sensitivity of 81 percent, a specificity of 86 percent, and overall accuracy of 84 percent.25,26In patients with suspected CAD who cannot exercise, dobutamine stress echocardiography reliably detects multivessel stenoses with sensitivities in the range of 75 to 93 percent and specificities in the range of 79 to 92 percent.4"
+        },
+        {
+            "parent": 5,
+            "text": "In patients with chronic CAD, left ventricular ejection fraction (LVEF) measured at rest has an important impact on prognosis, with increasing mortality associated with declining LVEF.4For stress echocardiography, the presence or absence of inducible myocardial ischemia is useful for risk stratification in patients with known or suspected CAD. The number of segments with stress-induced wall motion abnormalities has a strong correlation with cardiac events, death, and MI. Negative stress echocardiography generally denotes a low rate of cardiac events.4Stress echocardiography with exercise or dobutamine is an effective and highly accurate noninvasive means of detecting CAD and risk-stratifying symptomatic patients with an intermediate to high pretest likelihood of CAD.4,27–30"
+        },
+        {
+            "parent": 5,
+            "text": "A meta-analysis of 1,405 patients compared stress echocardiography with stress myocardial perfusion imaging.31The study showed that myocardial perfusion imaging (with the use of older techniques) had higher sensitivity (around 87 to 90 percent); however, it had lower specificity than stress echocardiography, which had a specificity of about 85 percent, and stress nuclear perfusion imaging, which had a specificity of about 75 percent.31For the evaluation of patients with suspsected CAD, local expertise should guide the selection of technique because contemporary techniques of myocardial perfusion imaging have demonstrated improved specificity, with numbers similar to stress echocardiography.2,15–17"
+        },
+        {
+            "parent": 6,
+            "text": "Table 24lists the guidelines for echocardiography in the diagnosis of CAD. These guidelines are based on evidence or general agreement that a given procedure is useful and effective."
+        },
+        {
+            "parent": 8,
+            "text": "Cardiac CT detects and quantifies the amount of coronary artery calcium (a marker of CAD burden) using either electron beam tomography or multidetector CT. Coronary artery calcium scores approximate the total atherosclerotic plaque burden and strongly predict future cardiac events.32In patients with moderate (101 to 400) or higher (over 400) calcium scores, there is a greater prevalence of obstructive coronary disease.32–34Electron beam tomography is established as first-line testing for the detection of coronary artery calcium."
+        },
+        {
+            "parent": 8,
+            "text": "A recent meta-analysis found that even low coronary artery calcium scores (1 to 100) are associated with about twice the risk of CAD events compared with those persons who have no evidence of coronary artery calcium (a summary adjusted relative risk [RR] of 2.1; 95% confidence interval [CI], 1.6 to 2.9).33Higher scores are associated with a higher relative risk of events (RR, 4.3 to 17.0; 95% CI, 3.1 to 34.0).33Despite heterogeneity in some studies, the coronary artery calcium score appears to be an independent predictor of CAD events.32–37More recent studies of coronary artery calcium further suggest that these scores predict CAD events; however, the amount of coronary artery calcium does not correlate with the focal stenosis severity of a given lesion.38,39Therefore, the use of calcium scanning for predicting the necessity of performing angioplasty or bypass surgery is limited.33,34,40–44"
+        },
+        {
+            "parent": 8,
+            "text": "In addition to the quantification of calcium, a new generation of multislice CT scanners permits the noninvasive acquisition of very high-quality coronary CT angiography. According to a study that evaluated 103 consecutive patients, early generation cardiac CT using 16-slice multidetector CT still performed quite well. When compared with invasive coronary angiography, multidetector CT had a high discriminative power to detect significant obstructive CAD, with sensitivity and specificity in the 90 percent range.45Multidetector CT does have limitations, including high radiation exposure, the need to administer contrast media, and the need to obtain a heart rate of 60 beats per minute or less; however, a recent study found that 64-slice multidetector CT had a sensitivity for the detection of stenosis of more than 75 percent and a specificity of 97 percent.46"
+        },
+        {
+            "parent": 9,
+            "text": "Cardiac CT has been demonstrated to provide quantitative measures of calcified and noncalcified coronary artery plaque. Calcified coronary plaque, as determined by cardiac CT, documents the presence of coronary atherosclerosis and identifies persons at elevated risk of MI and cardiovascular death.47Although a positive calcium scan indicates CAD, often there is no significant stenosis. Therefore, the recent AHA expert consensus document on the assessment of CAD by cardiac CT notes the lack of supportive evidence for the widespread screening for CAD and instead endorses the use of calcium testing as a screening procedure in select groups of patients.47A number of studies have reported that coronary artery calcium has independent and incremental value when added to clinical or historical data in the estimation of death and nonfatal MI.32–39"
+        },
+        {
+            "parent": 9,
+            "text": "Recent expert consensus documents have suggested using calcium scoring in clinically selected, asymptomatic patients with an intermediate Framingham 10-year risk estimate of 10 to 20 percent(Figure 248).3,35,47–49In addition, the assessment of coronary calcium may be reasonable in the evaluation of symptomatic patients in the setting of an equivocal stress test.47The guidelines note that the use of multidetector CT for the noninvasive assessment of lumen coronary artery stenosis in specific circumstances and in specific symptomatic patients is being evaluated and has the potential to change the current diagnostic and management algorithms.47Based on the current body of evidence, recent appropriateness criteria have been published to guide patient selection for cardiac CT and cardiac MRI.50"
+        },
+        {
+            "parent": 11,
+            "text": "Cardiac MRI is a noninvasive technique for evaluating right and left ventricular function, cardiac masses, and congenital heart disease, and for identifying patients with suspected arrhythmogenic right ventricular dysplasia. Cardiac MRI angiography is a standard technique for imaging the aorta and large vessels of the chest and abdomen, as well as assessing the anomalous origin and course of coronary arteries.51–53Cardiac MRI evaluates the presence of CAD by multiple techniques including direct visualization of coronary stenoses; determination of flow within the coronary arteries; evaluation of myocardial perfusion and metabolism; assessment of abnormal wall motion during stress; and identification of infarcted myocardium as well as viable myocardium using delayed hyperenhancement imaging.3,51–59"
+        },
+        {
+            "parent": 11,
+            "text": "New techniques with cardiac MRI perfusion imaging have demonstrated ability to detect high-grade coronary artery stenoses and to characterize the severity of valvular disease.55–59"
+        },
+        {
+            "parent": 11,
+            "text": "The use of cardiac MRI in the risk assessment and prognostication of patients with suspected and known CAD was recently evaluated in a study of 279 patients who were referred for dobutamine-atropine cardiac MRI. The presence of inducible ischemia or an LVEF of less than 40 percent were predictors of CAD, death, or MI at an average follow-up of 20 months. Patients who had no evidence of ischemia and who had an LVEF of 40 percent or more had an excellent prognosis in the two years following stress cardiac MRI.60"
+        },
+        {
+            "parent": 12,
+            "text": "Studies suggest that cardiac MRI is clinically useful in the assessment of myocardial viability and the evaluation of cardiac structure and function. Recent data demonstrate an evolving role of cardiac MRI in the diagnosis and risk assessment of patients with known or suspected CAD; however, there are limited data to support its use in this setting.50,57"
+        },
+        {
+            "parent": 13,
+            "text": "Based on a growing body of evidence, cardiac imaging using contemporary techniques of stress echocardiography or ECG gated SPECT myocardial perfusion imaging provides accurate diagnostic and prognostic information for persons with suspected CAD. Local expertise and availability should guide technique selection."
+        },
+        {
+            "parent": 13,
+            "text": "Research continues to improve existing techniques and applications in the areas of cardiac CT and cardiac MRI. Definitive randomized clinical trial data are not yet available; however, based on existing evidence, many experts advocate that asymptomatic men and women with significant subclinical coronary atherosclerosis should be treated to secondary prevention goals. The asymptomatic patient with a calcium score over 400 has an annual 2 percent risk of CAD death or MI and should be considered at high cardiac risk.35–37,39,61Figure 248is an algorithm that expands the current clinical guidelines"
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,207 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0801/p158.html#afp20200801p158-f1",
+    "title": "Intrapartum Fetal Monitoring | AAFP",
+    "author": "JAMES J. ARNOLD, DO, AND BREANNA L. GAWRYS, DO",
+    "doi": "Am Fam Physician.2020;102(3):158-167",
+    "abstract": "Continuous electronic fetal monitoring was developed to screen for signs of hypoxic-ischemic encephalopathy, cerebral palsy, and impending fetal death during labor. Because these events have a low prevalence, continuous electronic fetal monitoring has a false-positive rate of 99%. The widespread use of continuous electronic fetal monitoring has increased operative and cesarean delivery rates without improved neonatal outcomes, but its use is appropriate in high-risk labor. Structured intermittent auscultation is an underused form of fetal monitoring; when employed during low-risk labor, it can lower rates of operative and cesarean deliveries with neonatal outcomes similar to those of continuous electronic fetal monitoring. However, structured intermittent auscultation remains difficult to implement because of barriers in nurse staffing and physician oversight. The National Institute of Child Health and Human Development terminology is used when reviewing continuous electronic fetal monitoring and delineates fetal risk by three categories. Category I tracings reflect a lack of fetal acidosis and do not require intervention. Category II tracings are indeterminate, are present in the majority of laboring patients, and can encompass monitoring predictive of clinically normal to rapidly developing acidosis. Presence of moderate fetal heart rate variability and accelerations with absence of recurrent pathologic decelerations provides reassurance that acidosis is not present. Category II tracing abnormalities can be addressed by treating reversible causes and providing intrauterine resuscitation, which includes stopping uterine-stimulating agents, fetal scalp stimulation and/or maternal repositioning, intravenous fluids, or oxygen. Recurrent deep variable decelerations can be corrected with amnioinfusion. Category III tracings are highly concerning for fetal acidosis, and delivery should be expedited if immediate interventions do not improve the tracing.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Continuous Electronic Fetal Monitoring Adjuncts",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Fetal Monitoring Classifications",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Tachysystole Identification and Management",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Intrapartum Fetal Monitoring: Identification and Management",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "CATEGORY I MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "CATEGORY II MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CATEGORY III MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Specific Tracing Findings and Management",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "FETAL TACHYCARDIA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "FETAL BRADYCARDIA",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "MINIMAL FHR VARIABILITY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MARKED FHR VARIABILITY",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "RECURRENT VARIABLE DECELERATIONS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "LATE DECELERATIONS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "PROLONGED DECELERATIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Continuous electronic fetal monitoring is the continuous monitoring of fluctuations of the fetal heart rate (FHR) in relation to maternal contractions and is considered standard practice during active labor.1–3Continuous electronic fetal monitoring was developed for widespread use in the 1970s as a screening test for fetal hypoxia/acidosis during labor, specifically to reduce hypoxic-ischemic encephalopathy, cerebral palsy, and fetal death.1–3"
+        },
+        {
+            "parent": -1,
+            "text": "Fetal acidemia (pH < 7.15) is most accurately diagnosed via umbilical cord arterial sampling immediately after delivery.4–6Because fetal acidosis can affect autonomic control and therefore variability of FHR, continuous electronic fetal monitoring is considered a surrogate marker for measurement.2,7However, the very low prevalence of cerebral palsy (antepartum events are most likely causative agents), hypoxic-ischemic encephalopathy, and fetal death has led to a false-positive rate of 99%3for continuous electronic fetal monitoring and a low predictive value.8–10Additionally, continuous electronic fetal monitoring is falsely positive for fetal acidosis two-thirds of the time, with low sensitivity (57%) and specificity (69%).1,3Furthermore, user variability in interpretation is high, with agreement between experts only half the time.11,12"
+        },
+        {
+            "parent": -1,
+            "text": "Continuous electronic fetal monitoring includes external and internal monitoring.7External monitoring involves placement of two monitors (one for FHR and the other for contractions) against the maternal abdomen. Internal monitoring involves intravaginal placement of monitors within the uterine cavity.7A fetal scalp electrode is recommended for fetal heart monitoring when fetal position and/or maternal habitus make external monitoring suboptimal.4External monitors measure only contraction frequency, but an intrauterine pressure catheter can also determine the strength of contractions.13Placement of an intrauterine pressure catheter or fetal scalp electrode requires cervical dilation and amniotomy, which can increase the risk of intrauterine infection, fetal injury, and the transmission of herpes simplex virus and hepatitis B or C.4,13"
+        },
+        {
+            "parent": -1,
+            "text": "Structured intermittent auscultation is a fetal monitoring option for detecting fetal acidosis in low-risk pregnancies.7,14,15Typically, the labor nurse auscultates the fetal heartbeat with a handheld Doppler device(Table 1).7,14–17Structured intermittent auscultation is not standard practice in the United States because of 1:1 nursing staff requirements and physician oversight concerns, whereas continuous electronic fetal monitoring can be monitored centrally with continuous recording capabilities.7,14–18"
+        },
+        {
+            "parent": -1,
+            "text": "Despite these challenges,structured intermittent auscultation should be considered for low-risk labor because it statistically decreases cesarean and operative vaginal delivery rates without an increase in unfavorable outcomes associated with continuous monitor use and a high false-positive rate.1,7,14,16,17Compared with women who receive structured intermittent auscultation, those who receive continuous electronic fetal monitoring for an initial 20-minute period at admission are at increased risk of continuing use for the duration of their labor (relative risk [RR] = 1.30; 95% CI, 1.14 to 1.48; n = 10,753) and a possible 20% increased rate of cesarean delivery.19"
+        },
+        {
+            "parent": -1,
+            "text": "Structured intermittent auscultation detects changes in FHR during contractions but not overall FHR variability (moment-by-moment fluctuations in FHR)4,5; therefore, continuous electronic fetal monitoring remains the more appropriate option in high-risk labor(Table 214,16,17)."
+        },
+        {
+            "parent": -1,
+            "text": "Continuous electronic fetal monitoring, compared with structured intermittent auscultation, has been shown to increase the need for cesarean delivery (number needed to harm = 56; RR = 1.63; 95% CI, 1.29 to 2.07; n = 18,861) and operative vaginal delivery (number needed to harm = 41; RR = 1.15; 95% CI, 1.01 to 1.33; n = 18,615), with no statistical decrease in fetal death or cerebral palsy.1Continuous electronic fetal monitoring has also led to a 50% reduction in the incidence of neonatal seizure vs. structured intermittent auscultation, but this has no effect on long-term outcomes.1"
+        },
+        {
+            "parent": 0,
+            "text": "Several adjuncts have been studied to overcome the high false-positive rate of continuous electronic fetal monitoring. Fetal scalp sampling, which requires amniotomy, tests fetal pH for the presence of acidemia.16However, because of a 10% inadequate sample rate and a prolonged sample-to-result time of 18 minutes on average, this test is rarely performed in the United States.20Lactate fetal scalp sampling (direct measurement of lactate by a probe) is another option that boasts a sample-to-result time of two minutes; however, its use has not resulted in improved newborn outcomes.21An internal real-time fetal pulse oximetry probe (similar to an intrauterine pressure catheter) may lower operative vaginal delivery rates during the second stage of labor but has no apparent effect on neonatal outcomes.22,23Fetal electrocardiograms have also been studied because fetal acidosis can affect the ST interval. These require attachment of fetal head electrodes; a recent randomized controlled trial and meta-analysis showed no improvement in neonatal outcomes or rates of operative or cesarean delivery.24,25"
+        },
+        {
+            "parent": 1,
+            "text": "The National Institute of Child Health and Human Development terminology (revised in 2008) classifies continuous electronic fetal monitoring tracings using a three-tiered system and is the accepted national standard for continuous electronic fetal monitoring interpretation.5Labor management depends on the continuous electronic fetal monitoring category and overall clinical scenario(Table 3).4,5,7"
+        },
+        {
+            "parent": 1,
+            "text": "Interpretation of continuous electronic fetal monitoring tracings must include comments on uterine contractions, baseline FHR, variability (fluctuations in the FHR around the determined baseline during a 10-minute segment), presence of accelerations and/or decelerations, and trends of continuous electronic fetal monitoring patterns over time.2,5"
+        },
+        {
+            "parent": 1,
+            "text": "DR C BRAVADO (determine risk, contractions, baseline rate, variability, accelerations, decelerations, overall assessment) is a mnemonic that serves as a standardized tracing interpretation and reporting tool14(Table 44,5,7,14,16,26)."
+        },
+        {
+            "parent": 2,
+            "text": "Uterine tachysystole is defined as more than five contractions in any 10-minute period, averaged over 30 minutes.2Each normal uterine contraction causes a temporary decrease in uterine blood flow and fetal oxygenation, which is generally well tolerated.26,27However, tachysystole increases the risk of acidosis.26,27To correct tachysystole, physicians must reduce or stop uterine stimulants or add tocolytics.2,27–29"
+        },
+        {
+            "parent": 3,
+            "text": "Goals of intrapartum fetal monitoring include rapid identification and intervention for suspected fetal acidosis as well as reassurance and avoidance of unnecessary interventions in cases of adequate fetal oxygenation.4,26Figure 1provides an algorithm for suggested management.2,7,16,21,27,30–33"
+        },
+        {
+            "parent": 4,
+            "text": "Category I is defined by an FHR baseline of 110 to 160 beats per minute (bpm), moderate variability (six- to 25-bpm fluctuation in FHR from baseline), with no late decelerations (onset and nadir after peak of contraction, decrease of more than 15 bpm from baseline, likely uteroplacental insufficiency) and no variable decelerations (onset variable to contraction and slow [i.e., more than 15 seconds and less than two minutes] return to baseline, likely from cord compression) present5(Figure 27). Early decelerations (mirror contraction, with nadir at peak of contraction, likely fetal head compression) and accelerations (FHR increase of 15 bpm or more over at least 15 seconds) may be present.2,5,7,34No intervention is required for Category I tracings."
+        },
+        {
+            "parent": 5,
+            "text": "Category II tracings are defined as indeterminate, are common, and represent all tracings that do not fall into the Category I or III groups.2,5They vary widely in level of concern for acidosis, so the family physician must determine the severity of the Category II tracing and take the appropriate action.2,5,7,35"
+        },
+        {
+            "parent": 5,
+            "text": "There is a direct association between fetal acidosis, recurrent decelerations, and depth of decelerations2,5,34,36; however,the presence of moderate variability and/or accelerations offers reassurance in Category II tracings because the presence is predictive of a lack of fetal acidosis.2,4,26,27,34,36–38For Category II tracings without spontaneous or provoked accelerations, minimal/absent variability, or deep decelerations (i.e., FHR drops to 70 bpm or less), immediate action is needed.3,4"
+        },
+        {
+            "parent": 5,
+            "text": "A management algorithm30(eFigure A)has been developed that is based on the suspected degree of fetal acidosis and ideally minimizes unnecessary interventions.7"
+        },
+        {
+            "parent": 5,
+            "text": "A five-tiered classification/management scheme for management of Category II tracings has been developed (http://www.obapps.org).7,37,39Each continuous electronic fetal monitoring tracing is color coded to represent the threat of acidosis based on the National Institute of Child Health and Human Development definitions, and Category II is broken into three separate severity and intervention subcategories based on the presence of accelerations and/or moderate variability.7,37This classification has been shown to improve identification of fetal acidosis and newborns requiring immediate intervention after delivery.37"
+        },
+        {
+            "parent": 5,
+            "text": "Category II management should focus on first correcting reversible causes, including stopping uterotonic agents and placental fetal perfusion, through intrauterine resuscitation(Figure 1).2,7,16,21,27,30–33Lateral recumbent maternal positioning reduces compression of the maternal vena cava and aorta and the fetal umbilical cord.2,32,33Intravenous fluid boluses up to 1 L have been shown to improve fetal oxygenation up to 30 minutes after administration.32,33Maternal oxygen may be administered after other maneuvers, but it can be discontinued after tracing improvement because there is no evidence to support its routine use.2,32,33Modification in maternal pushing efforts, such as initiating only with the urge to push and allowing for fetal recovery by pushing with every second or third contraction, can improve maternal and fetal oxygenation.40"
+        },
+        {
+            "parent": 6,
+            "text": "Category III tracings, defined by a sinusoidal FHR pattern(Figure 37)or absent FHR variability(Figure 47)with recurrent late and/or variable decelerations or fetal bradycardia (see the Fetal Bradycardia section), require immediate intrauterine resuscitation and intervention.2,5,8,14,27,30,32,33,38,39If the Category III tracing does not rapidly improve, expedited delivery is recommended. Category III tracings have been associated with fetal hypoxia, acidosis, and encephalopathy.2,5,26,37"
+        },
+        {
+            "parent": 8,
+            "text": "Fetal tachycardia (FHR of more than 160 bpm for at least 10 minutes) can be caused by maternal or fetal factors(Table 52,5,7andeFigure B). Management includes correction of identified reversible causes. This alone is not predictive of fetal acidosis unless accompanied by decreased variability and/or absent spontaneous or stimulated accelerations.2,5"
+        },
+        {
+            "parent": 9,
+            "text": "Fetal bradycardia (FHR less than 110 bpm for at least 10 minutes) is more concerning than fetal tachycardia, and interventions should focus on intrauterine resuscitation and treating reversible maternal or fetal causes(Table 62,5,7andeFigure C)."
+        },
+        {
+            "parent": 10,
+            "text": "Decreased variability is defined as a variation of one to five bpm from baseline for at least 10 minutes5(eFigure D). Minimal variability during the hour preceding fetal bradycardic events has been shown to be most predictive of fetal acidosis and need for emergent delivery.23During periods of minimal variability, accelerations produced by scalp stimulation offer reassurance.15,23,26,41Management of minimal variability includes intrauterine resuscitation and identifying and treating reversible causes(Table 7).2,7,16"
+        },
+        {
+            "parent": 11,
+            "text": "Marked variability is defined as more than 25 bpm fluctuations in FHR around the determined baseline for more than 10 minutes and may represent hypoxic stress5,33(eFigure E). Management includes further investigation into and correction of possible stressors.14,33"
+        },
+        {
+            "parent": 12,
+            "text": "Variable decelerations are recurrent when they occur with greater than 50% of contractions in any 20-minute period2,5(Figure 57). Recurrent variable decelerations can be treated with amnioinfusion, the placement of isotonic fluids into the intrauterine cavity, with the same requirement and risks as the intrauterine pressure catheter and fetal scalp electrode mentioned previously.7Amnioinfusion has been shown to reduce cord compression, leading to resolution of FHR decelerations (RR = 0.53; 95% CI, 0.38 to 0.74; n = 1,000) and lowering the likelihood of cesarean delivery(RR = 0.62; 95% CI, 0.46 to 0.83; n = 1,400).26,42"
+        },
+        {
+            "parent": 13,
+            "text": "Management of late decelerations includes intrauterine resuscitation and identifying and treating reversible causes, with immediate delivery recommended if they do not resolve2,5,7(Figure 67)."
+        },
+        {
+            "parent": 14,
+            "text": "Prolonged FHR decelerations from baseline (more than two minutes but less than 10 minutes) may represent rapid cervical change and/or fetal descent, maternal hypotension, placental abruption, umbilical cord prolapse, or uterine rupture2,5,26(Figure 77). If decelerations are not reversed by intrauterine resuscitation measures, immediate delivery is recommended.2,43"
+        },
+        {
+            "parent": 14,
+            "text": "This article updates previous articles on this topic byBailey44and bySweha, et al.45"
+        },
+        {
+            "parent": 14,
+            "text": "Data Sources:PubMed searches were completed using the key terms intrapartum fetal heart monitoring, cardiotocography, structured fetal heart monitoring, National Institute of Child Health and Human Development classifications, amnioinfusion, and advanced life support in obstetrics. The searches included systematic reviews, meta-analyses, randomized controlled trials, and review articles. We also searched the Cochrane Library, Essential Evidence Plus, and Clinical Evidence. Search dates: December 2018, July 2019, and March 2020."
+        },
+        {
+            "parent": 14,
+            "text": "The views expressed in this article are those of the authors and do not necessarily reflect the official policy or position of the Department of the Air Force, Uniformed Services University of the Health Sciences, Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

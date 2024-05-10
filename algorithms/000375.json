@@ -1,0 +1,185 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0701/p44.html#afp20130701p44-f1",
+    "title": "Early Recognition and Management of Sepsis in Adults: The First Six Hours | AAFP",
+    "author": "ROBERT L. GAUER, MD",
+    "doi": "Am Fam Physician.2013;88(1):44-53",
+    "abstract": "Sepsis is a complication of severe infection characterized by a systemic inflammatory response. Mortality rates from sepsis range between 25% to 30% for severe sepsis and 40% to 70% for septic shock. The clinical presentation of sepsis is highly variable depending on the etiology. The most common sites of infection are the respiratory, genitourinary, and gastrointestinal systems, as well as the skin and soft tissue. Fever is often the first manifestation of sepsis, with pneumonia being the most common presentation leading to sepsis. Early goal-directed therapy completed within the first six hours of sepsis recognition significantly decreases in-hospital mortality. Initial management includes respiratory stabilization followed by aggressive fluid resuscitation. Vasopressor therapy is indicated when fluid resuscitation fails to restore adequate mean arterial pressure and organ perfusion. Early antibiotic therapy can improve clinical outcomes, and should be given within one hour of suspected sepsis. Blood product therapy may be required in some cases to correct coagulopathy and anemia, and to improve the central venous oxygen saturation. Insulin therapy may be required to maintain serum glucose levels less than 180 mg per dL. Initiation of low-dose corticosteroids may further improve survival in patients with septic shock that does not respond to vasopressor therapy. Timely initiation of evidence-based protocols should improve sepsis outcomes.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Defining Sepsis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Early Management",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "LABORATORY AND RADIOGRAPHIC STUDIES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "INITIAL FLUID RESUSCITATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "VASOPRESSOR THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ANTIBIOTIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Later Management",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Future Directions",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Sepsis is a life-threatening inflammatory disorder and the immune system's response to infection. It affects more than 750,000 persons annually, with a prevalence of three cases per 1,000 persons.1Advances in pharmacotherapy and supportive care have improved survival rates; however, mortality rates remain between 25% to 30% for severe sepsis and 40% to 70% for septic shock. Sepsis is responsible for 20% of all in-hospital deaths each year (210,000), which equals the number of annual deaths from acute myocardial infarction.2,3"
+        },
+        {
+            "parent": 0,
+            "text": "The American College of Chest Physicians and Society of Critical Care Medicine classify the continuum of an inflammatory response to microorganisms as systemic inflammatory response syndrome, sepsis, severe sepsis, and septic shock4,5(Table 16). Systemic inflammatory response syndrome is identified when two of the four criteria (fever, tachycardia, tachypnea, and leukocytosis or leukopenia) are met. It occasionally occurs in the absence of an infection, such as in autoimmune syndromes, vasculitis, pancreatitis, burns, trauma, or surgery.6Sepsis is the presence of an infection in association with systemic inflammatory response syndrome, although some patients with sepsis may not meet the criteria for systemic inflammatory response syndrome."
+        },
+        {
+            "parent": 1,
+            "text": "Syndromes that mimic sepsis include hypovolemia, acute blood loss, acute pulmonary embolus, acute myocardial infarction, acute pancreatitis, transfusion reaction, diabetic ketoacidosis, and adrenal insufficiency.7"
+        },
+        {
+            "parent": 2,
+            "text": "The pathophysiology of sepsis involves a complex interaction of proinflammatory and anti-inflammatory mediators in response to pathogen invasion. These mechanisms lead to endothelium damage, vascular permeability, microvascular dysfunction, coagulation pathway activation, and impaired tissue oxygenation resulting in the cascade of sepsis.8"
+        },
+        {
+            "parent": 2,
+            "text": "The systems most commonly infected are the respiratory, genitourinary, and gastrointestinal systems, as well as the skin and soft tissue. These sites comprise more than 80% of all cases of sepsis.6Pneumonia is the most common presentation leading to sepsis.1,9–11Bacterial microbes are the most common causative organisms (gram-positive bacteria account for 30% to 50% of total cases)6; however, a small number of patients may manifest with fungal, viral, or parasitic infections.6"
+        },
+        {
+            "parent": 3,
+            "text": "Persons at the extremes of age are at higher risk of developing sepsis. Patients older than 65 years are 13 times more likely to develop sepsis and have a twofold higher risk of death from sepsis independent of race, sex, comorbid conditions, and severity of illness.2Additional risk factors include malnutrition, chronic illness, immunosuppression, recent surgery or hospitalization, and indwelling catheters or other devices."
+        },
+        {
+            "parent": 4,
+            "text": "The signs and symptoms of sepsis are highly variable, and a clinical diagnosis is often made before culture results are available. Although localized signs and symptoms may be present, organ hypoperfusion or shock can manifest without knowledge of causation. To diagnose sepsis, physicians must obtain historical, clinical, and laboratory findings indicative of infection and organ dysfunction(Table 212). Overall, the respiratory system is the most common site of sepsis, although in patients older than 65 years, the most common site is the genitourinary tract.13"
+        },
+        {
+            "parent": 4,
+            "text": "The patient history should focus on symptoms, recent surgery, underlying disease, history of recent antibiotic use, and travel. Key components of the physical examination include vital signs (e.g., fever, hypoxia, hypotension), skin (e.g., furuncles or carbuncles, ulcers, cellulitis, intravenous sites, ecchymosis or petechiae), pulmonary system (e.g., tachypnea, hyperventilation, cough, hemoptysis, rhonchi or rales, egophony), gastrointestinal system (e.g., abdominal pain or guarding, decreased bowel sounds, diarrhea), genitourinary system (e.g., suprapubic tenderness, costovertebral tenderness), cardiovascular system (e.g., tachycardia, murmur), and neurologic system (e.g., altered mental status)."
+        },
+        {
+            "parent": 4,
+            "text": "Fever is the most common manifestation of sepsis. The absence of fever and sepsis-induced hypothermia is more likely in patients at the extremes of age, debilitated patients, patients with chronic alcohol abuse, and patients with uremia.14Hypotension is the presenting abnormality in approximately 40% of patients with sepsis.4Withdrawal and agitation can be subtle and may be the sole presentations of sepsis in older persons. Immunocompromised patients and those with neutropenia often lack an obvious source of infection."
+        },
+        {
+            "parent": 5,
+            "text": "Early management of sepsis requires respiratory stabilization. Supplemental oxygen should be given to all patients. Mechanical ventilation is recommended when supplemental oxygen fails to improve oxygenation, when respiratory failure is imminent, or when the airway cannot be protected. Perfusion is assessed after respiratory stabilization. Hypotension signifies inadequate tissue perfusion. Clinical signs of hypoperfusion include cold or clammy skin, altered mental status, oliguria or anuria, and lactic acidosis."
+        },
+        {
+            "parent": 5,
+            "text": "After initial respiratory stabilization, treatment consists of fluid resuscitation, vasopressor therapy, infection identification and control, prompt antibiotic administration, and the removal or drainage of the infection source(Figure 115). Early general surgery consultation should be obtained for suspected acute abdomen and necrotizing infections."
+        },
+        {
+            "parent": 5,
+            "text": "Early goal-directed therapy is a strategy implemented within six hours of suspected sepsis or septic shock. A prospective randomized controlled trial compared early goal-directed therapy with standard therapy in 263 emergency department patients with sepsis.16Goals for both treatment arms were similar: placement of central venous catheter to maintain central venous pressure between 8 and 12 mm Hg, mean arterial blood pressure of at least 65 mm Hg, and adequate urine output. The early goal-directed therapy protocol diverged from standard management by increasing oxygen content (blood transfusions) and cardiac contractility (inotrope use) to achieve a central venous oxygen saturation greater than 70%. Patients in the early goal-directed therapy group received more intravenous fluid (5 vs. 3.5 L), inotropic support (13.7% vs. 0.8%), and packed red blood cell transfusions (64.1% vs. 18.5%) within six hours compared with the standard group. Study results demonstrated that early goal-directed therapy decreased in-hospital mortality compared with the standard therapy (30% vs. 46%). Early intervention to normalize central venous oxygen saturation and improve lactate levels increased survival rates in patients with severe sepsis(Figure 216)."
+        },
+        {
+            "parent": 5,
+            "text": "A meta-analysis on quantitative resuscitation targeting defined hemodynamic end points showed that early resuscitation significantly decreased the mortality rate compared with late resuscitation (39% vs. 64%).17"
+        },
+        {
+            "parent": 6,
+            "text": "Recommended tests include a complete blood count with differential, basic metabolic panel, measurement of lactate and liver enzyme levels, coagulation studies, and urinalysis. Suspected respiratory infections should be evaluated using chest radiography and arterial blood gas testing to assess hypoxemia and acid-base abnormalities. If disseminated intravascular coagulation is suspected, fibrin degradation products, d-dimer levels, and fibrinogen levels should be measured. Several biologic markers of sepsis such as C-reactive protein, procalcitonin, activated partial thromboplastin time, and interleukin-6 may have diagnostic and prognostic implications, although lack of standardized assays limits their practical use. Blood cultures (two peripheral and from each indwelling catheter), urine culture, stool culture (for diarrhea or recent antibiotic use), sputum culture, and skin and soft tissue culture should be obtained. However, blood culture results are negative in 50% to 65% of patients with sepsis.18Cerebrospinal, joint, pleural, and peritoneal fluid should be evaluated as clinically indicated."
+        },
+        {
+            "parent": 6,
+            "text": "Echocardiography is recommended to diagnose endocarditis, and should be performed in patients with a heart murmur or suspected intravenous drug use. Evaluation for pulmonary embolus requires chest computed tomography (CT) or ventilation-perfusion scanning, and suspected abdominal or pelvic infection requires abdominal and pelvic CT. Evaluation of renal abscess or complicated pyelonephritis often requires renal ultrasonography or CT. Head CT should be considered for patients presenting with altered mental status to rule out intracranial hemorrhage, abscess, or malignancy."
+        },
+        {
+            "parent": 7,
+            "text": "The highest priority in early sepsis is establishing vascular access and initiating fluid resuscitation. Hypovolemia, myocardial depression, and hypoperfusion (termed “distributive shock”) result in hypotension, which is the most important event leading to increased morbidity and mortality in patients with sepsis. Intravenous fluid should be initiated immediately when sepsis is recognized.9,16,17Delaying fluid resuscitation can worsen tissue hypoxia, leading to multiple organ dysfunction. Isotonic crystalloid is the most common resuscitative fluid used; however, the use of colloid fluid showed no differences in pulmonary edema, mortality, or length of hospitalization compared with isotonic crystalloid.19,20"
+        },
+        {
+            "parent": 7,
+            "text": "Dosing intravenous fluid is often empiric; however, most physicians use central venous pressure measurements to guide initial fluid therapy. Beyond the first 12 hours of sepsis, central venous pressures poorly predict hemodynamic response to fluid challenges.21Thereafter, the use of cardiac output monitoring systems to assess changes in arterial waveform is more accurate in predicting fluid responsiveness.22The initial resuscitative goal is to optimize intravascular volume to achieve a central venous pressure of 8 to 12 mm Hg, and 12 to 15 mm Hg when patients are mechanically ventilated.16,23Fluid challenge therapy should begin with a bolus of 20 mL per kg over 30 minutes or less. The degree of hypovolemia will guide further challenges and should be in increments of 500 mL. The average fluid resuscitation volume in two recognized sepsis trials was 5 L in six hours and 6.3 L in 12 hours.16,24Response to fluid resuscitation and continued rates of administration beyond the first 12 hours should be assessed by blood pressure response, tissue perfusion, and urine output. Optimal survival occurs with a positive fluid balance (i.e., intravenous fluid input minus urine output) of 3 to 4 L at 12 hours.24"
+        },
+        {
+            "parent": 8,
+            "text": "Vasopressor support is recommended when intravenous fluid administration fails to restore adequate mean arterial pressure and organ perfusion. The mean arterial pressure should be maintained at greater than 65 mm Hg. Dopamine and norepinephrine are the first-line vasopressor agents recommended in the treatment of septic shock.9,23,25A randomized controlled trial (n = 1,679) compared dopamine with norepinephrine and demonstrated no clinically significant difference in 28-day mortality between the groups, although arrhythmia events were more common in the dopamine group.26Most experts favor using norepinephrine over dopamine in persons with septic shock. The addition of low-dose vasopressin (Pitressin) to norepinephrine may be synergistic but does not improve 28-day mortality rates in persons with severe sepsis compared with norepinephrine alone.27"
+        },
+        {
+            "parent": 8,
+            "text": "The use of low-dose dopamine to maintain renal function or treat renal dysfunction in clinical practice is not recommended. A meta-analysis failed to show benefit in mortality reduction, prevention of acute renal failure, or the need for dialysis in critically ill patients.28"
+        },
+        {
+            "parent": 9,
+            "text": "Early appropriate antibiotic therapy is associated with improved clinical outcomes. Consensus guidelines recommend antibiotic therapy within one hour of suspected sepsis.11,23In septic shock, the initiation of antibiotic therapy within one hour increases survival; with each hour antibiotic therapy is delayed, survival decreases by about 8%.29"
+        },
+        {
+            "parent": 9,
+            "text": "Empiric antibiotic therapy should be based on the most likely source, clinical context (community- vs. hospital-acquired sepsis), recent antibiotic use, and local resistance patterns(Table 330). Empiric antibiotic therapy should be narrowed or redirected when the causative organism has been identified, thereby reducing the risk of resistance or superinfection."
+        },
+        {
+            "parent": 9,
+            "text": "A 2010 meta-analysis compared combination antibiotic therapy with monotherapy, and found that combination therapy demonstrated survival benefit and improved clinical response in patients who had septic shock.31However, combination antibiotic therapy did not improve sepsis survival compared with monotherapy in hemodynamically stable patients.31When there is a risk ofPseudomonas aeruginosabacteremia, antipseudomonal combination therapy is recommended.9"
+        },
+        {
+            "parent": 10,
+            "text": "Improvement in survival remains contingent on early recognition and management of severe sepsis and septic shock.Table 4lists additional interventions designed to improve survival.16,23,26,32–37Therapeutic advancements have led to the development of guidelines that call for implementation of a six-hour resuscitation bundle.15,23,38This includes initiation of central venous pressure and central venous oxygen saturation monitoring within two hours; broad-spectrum antibiotics administered within four hours, although within one hour is preferred; early goal-directed therapy completed within six hours; and monitoring of lactate clearance. Patients presenting to the emergency department with sepsis who complete the resuscitation bundle before intensive care unit transfer have lower in-hospital mortality rates compared with patients whose resuscitative bundles were not completed (21% vs. 40%).39"
+        },
+        {
+            "parent": 10,
+            "text": "In addition to early goal-directed therapy, other therapies have been reported to improve outcomes. In randomized controlled trials, reductions in mortality in patients with sepsis were achieved with low-dose corticosteroid therapy, conventional (as opposed to intensive) glycemic control (i.e., serum glucose levels less than 180 mg per dL [10 mmol per L]), and low tidal volumes in ventilated patients.16,23,34–36,40Blood product therapy with packed red blood cells is recommended in patients with a hemoglobin level less than 7 g per dL (70 g per L) for a target level of 7 to 9 g per dL (70 to 90 g per L), although the early goal-directed therapy protocol uses a target hematocrit level of 30% or greater in patients with low central venous oxygen saturation (less than 70%).16,23Drotrecogin alfa (Xigris), an initially promising therapy for severe sepsis and septic shock in adults, was withdrawn from the market on October 25, 2011, after failing to demonstrate survival benefit.41"
+        },
+        {
+            "parent": 11,
+            "text": "Surveys of medical centers instituting early goal-directed therapy sepsis programs demonstrated a 45% relative risk reduction in mortality rates.42Prospective studies show that the use of standardized hospital order sets hastens fluid resuscitation and appropriate antibiotic therapy, resulting in lower 28-day mortality rates (48% vs. 30%).43To overcome clinician and institutional barriers to early treatment protocols, some tertiary medical centers have collaborated with small rural hospitals to provide telemedicine as an advisory support mechanism in the management of sepsis.44"
+        },
+        {
+            "parent": 12,
+            "text": "Patients who survive sepsis, regardless of severity, have higher mortality rates after discharge. One-year mortality rates from severe sepsis after hospital discharge range from 7% to 43%. Survivors of sepsis also have an increased incidence of posttraumatic stress disorder, cognitive dysfunction, physical disability, and persistent pulmonary dysfunction.45"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:The author searched OvidSP, PrimeAnswers, Trip Database, Institute for Healthcare Improvement, Essential Evidence Plus, National Guideline Clearinghouse, Agency for Healthcare Research and Quality, Cochrane Library, ClinicalTrials.gov, UpToDate, and the Surviving Sepsis Campaign. Key words included: sepsis, severe sepsis, septic shock, Surviving Sepsis Campaign, pathophysiology, antimicrobial, early goal-directed therapy, fluid resuscitation, central venous oxygen saturation, mortality, epidemiology, outcome assessment, quality of life, long-term follow-up, systemic inflammatory response syndrome, glycemic control, drotrecogin alfa activated, corticosteroids, vasopressor agents, dopamine, norepinephrine, vasopressin, inotropic therapy, stress ulcer prophylaxis, sepsis care bundles, and acute renal failure. Search dates: August 2011 and January 2012."
+        }
+    ],
+    "locked": false
+}

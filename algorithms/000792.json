@@ -1,0 +1,200 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/0615/p2527.html#afp20030615p2527-f1",
+    "title": "Diagnosis and Management of Acute Interstitial Nephritis | AAFP",
+    "author": "CHARLES M. KODNER, M.D., AND ARCHANA KUDRIMOTI, M.D.",
+    "doi": "Am Fam Physician.2003;67(12):2527-2534",
+    "abstract": "Acute interstitial nephritis is an important cause of acute renal failure resulting from immune-mediated tubulointerstitial injury, initiated by medications, infection, and other causes. Acute interstitial nephritis may be implicated in up to 15 percent of patients hospitalized for acute renal failure. Clinical features are essentially those of acute renal failure from any cause, and apart from a history of new illness or medication exposure, there are no specific history, physical examination, or laboratory findings that distinguish acute interstitial nephritis from other causes of acute renal failure. Classic findings of fever, rash, and arthralgias may be absent in up to two thirds of patients. Diagnostic studies such as urine eosinophils and renal gallium 67 scanning provide suggestive evidence, but they are unable to reliably confirm or exclude the diagnosis of acute interstitial nephritis. Renal biopsy remains the gold standard for diagnosis, but it may not be required in mild cases or when clinical improvement is rapid after removal of an offending agent or medication. The time until removal of such agents, and renal biopsy findings, provide the best prognostic information for return to baseline renal function. Corticosteroids appear to provide some benefit in terms of clinical improvement and return of renal function, but no controlled clinical trials have been conducted to confirm this.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "DRUG-INDUCED AIN",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "INFECTIONS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "IMMUNE DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Clinical Features",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Pathology",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "URINE EOSINOPHILS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "IMAGING STUDIES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "RENAL BIOPSY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Prognosis",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "SUPPORTIVE CARE",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "CORTICOSTEROID THERAPY",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "Other Clinical Syndromes",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute interstitial nephritis (AIN) defines a pattern of renal injury usually associated with an abrupt deterioration in renal function characterized histopathologically by inflammation and edema of the renal interstitium. The term was first used by Councilman1in 1898 when he noted the histopathologic changes in autopsy specimens of patients with diphtheria and scarlet fever. Although the term acute interstitial nephritis is more commonly used, acute tubulointerstitial nephritis more accurately describes this disease entity, because the renal tubules, as well as the interstitium, are involved. AIN has become an important cause of acute renal failure caused by drug hypersensitivity reactions as a result of the increasing use of antibiotics and other medications that may induce an allergic response in the interstitium. AIN has been reported to occur in approximately 1 percent of renal biopsies during the evaluation of hematuria or proteinuria. In some studies of patients with acute renal failure, approximately 5 to 15 percent had AIN.2"
+        },
+        {
+            "parent": 0,
+            "text": "The most frequent causes of AIN can be found in one of three general categories: drug-induced, infection-associated, and cases associated with immune or neoplastic disorders(Table 12–4). Other causes of tubulointerstitial nephropathy also are addressed."
+        },
+        {
+            "parent": 1,
+            "text": "The list of drugs implicated in causing AIN continues to expand(Table 22,5–16). Drugs are more frequently recognized as etiologic factors in AIN because of the increased frequency with which drugs are used, the increased use of renal biopsy, and the characteristic clinical presentation. Some classes of medication often are associated with certain clinical features of AIN, as summarized inTable 3. Development of drug-induced AIN is not dose-related. AIN may become clinically evident an average of two weeks or longer after starting a medication.17"
+        },
+        {
+            "parent": 2,
+            "text": "AIN is associated with primary renal infections such as acute bacterial pyelonephritis, renal tuberculosis, and fungal nephritis. Systemic infections can cause direct injury because of pathologic processes in the kidney or can be associated with indirect injury caused by medications used in the treatment of infections. For example, human immunodeficiency virus (HIV) can be responsible for AIN caused by opportunistic infections or using drugs such as indinavir (Crixivan), sulfonamide antibiotics, and others. Sometimes depressed cell-mediated immunity may have the impact of protecting the patient from developing AIN."
+        },
+        {
+            "parent": 3,
+            "text": "AIN may be caused by local or systemic autoimmune processes. Several types of glomerulonephritis result in interstitial inflammation, possibly associated with anti-tubular basement membrane (anti-TBM) autoantibodies. Sjögren's syndrome, systemic lupus erythematosus, and Wegener's granulomatosis also may cause immune complex-mediated disease."
+        },
+        {
+            "parent": 4,
+            "text": "Patients with AIN typically present with nonspecific symptoms of acute renal failure, including oliguria, malaise, anorexia, or nausea and vomiting, with acute or subacute onset.5The clinical presentation can range from asymptomatic elevation in creatinine or blood urea nitrogen (BUN) or abnormal urinary sediment, to generalized hypersensitivity syndrome with fever, rash, eosinophilia, and oliguric renal failure. A relatively rapid decrease in renal function, as measured by elevated creatinine and BUN, is typical. Other nonspecific laboratory findings, with expected ranges for AIN, are listed inTable 4."
+        },
+        {
+            "parent": 4,
+            "text": "The classic triad of low-grade fever, skin rash, and arthralgias was primarily described with methicillin (Staphcillin)-induced AIN, but it was present only about one third of the time. This triad is present in only 5 percent of cases of AIN overall. Each component of the triad is present in 70 to 100 percent, 30 to 50 percent, and 15 to 20 percent of AIN cases, respectively.17Other associated symptoms may include flank pain, gross hematuria, or other clinical findings associated with an underlying disease process."
+        },
+        {
+            "parent": 5,
+            "text": "The hallmark of AIN is the infiltration of inflammatory cells within the renal interstitium, with associated edema, sparing the glomeruli and blood vessels.2,18Interstitial fibrosis is initially sparse, but develops later in the course of the illness. Fibrotic lesions may be diffuse or patchy, beginning deep in the renal cortex, most prominently at the medullocortical junction. The inflammatory infiltrate is typically composed of mononuclear cells and T lymphocytes, with a variable number of plasma cells and eosinophils. Eosinophils may be totally absent from the infiltrate or may concentrate in small foci, forming eosinophilic microabscesses."
+        },
+        {
+            "parent": 5,
+            "text": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are commonly associated with glomerular involvement producing a nil lesion (minimal change disease). Peritubular infiltration and occasional invasion of lymphocytes beneath the TBM may occur with mild to extensive tubular damage, which may be difficult to distinguish from acute tubular necrosis (ATN). In chronic interstitial nephritis, the cellular infiltrate is largely replaced by interstitial fibrosis."
+        },
+        {
+            "parent": 5,
+            "text": "A third pathologic category is granuloma formation with epithelioid giant cells usually found in AIN secondary to tuberculosis, sarcoidosis, or Wegener's granulomatosis."
+        },
+        {
+            "parent": 6,
+            "text": "There is strong evidence that AIN is immunologically mediated. The precise disease mechanism is unclear, but antigen-driven immunopathology is the key mechanism. The presence of helper-inducer and suppressor-cytotoxic T lymphocytes in the inflammatory infiltrate suggests that T-cell mediated hypersensitivity reactions and cytotoxic T-cell injury are involved in pathogenesis of AIN.19In some cases, humoral mechanisms are involved with complement proteins, immunoglobulins, and anti-TBM antibodies found in the interstitium."
+        },
+        {
+            "parent": 7,
+            "text": "The diagnostic approach to renal failure in general has been described elsewhere.20Renal biopsy is the only definitive method of establishing the diagnosis of AIN; this step usually is undertaken when the diagnosis is unclear and there are no contraindications for the procedure, or when the patient does not improve clinically following discontinuation of the medication suspected as the cause of AIN and renal failure. Other laboratory features(Table 4)are used to provide suggestive evidence of AIN, to guide conservative management, or to permit empiric treatment with steroids. Unfortunately, none of these tests have sufficient predictive value to be diagnostically reliable. A number of other diagnostic studies have been proposed to help confirm or exclude AIN."
+        },
+        {
+            "parent": 8,
+            "text": "Urine eosinophils are frequently tested to provide confirmatory evidence of AIN, though the typical constellation of fever, rash, arthralgias, eosinophiluria, and renal insufficiency rarely presents completely. Early studies21,22found that Hansel's stain for eosinophils was more sensitive than Wright's stain but did not conclusively demonstrate that urine eosinophils were diagnostically useful in confirming or excluding AIN. A more recent study23found a positive predictive value of 38 percent (95 percent confidence interval [CI], 15 to 65 percent) and a negative predictive value of 74 percent (95 percent CI, 57 to 88 percent) among 51 patients for whom urine eosinophils were ordered to help diagnose an acute renal condition; 15 of these were suspected to have AIN, though biopsy was not performed in all patients. Other conditions such as cystitis, prostatitis, and pyelonephritis also can be associated with eosinophiluria. Other studies have found similar results; thus, the diagnostic value of urine eosinophils remains unclear."
+        },
+        {
+            "parent": 9,
+            "text": "Renal ultrasonography may demonstrate kidneys that are normal to enlarged in size, with increased cortical echogenicity, but there are no ultrasonographic findings that will reliably confirm or exclude AIN versus other causes of acute renal failure."
+        },
+        {
+            "parent": 9,
+            "text": "Gallium 67 scanning has been proposed24,25as a useful test to diagnose AIN. In one small series,26nine patients with AIN had positive gallium 67 scans, while six patients with ATN had negative scans. In other studies,27other renal disorders such as minimal-change glomerulonephritis, cortical necrosis, and ATN have resulted in positive gallium 67 scans. Nonrenal disorders such as iron overload or severe liver disease also can result in positive gallium 67 scans."
+        },
+        {
+            "parent": 9,
+            "text": "Likewise, patients with biopsy-proven acute tubulointerstitial disease have had negative gallium 67 scans, therefore the predictive value of this test is limited. In general, patients with ATN have negative scans, and in patients who are poor candidates for renal biopsy, gallium 67 scanning may be useful in distinguishing ATN from AIN."
+        },
+        {
+            "parent": 10,
+            "text": "Renal biopsy is the gold standard for diagnosis of AIN, with the typical histopathologic findings of plasma cell and lymphocytic infiltrates in the peritubular areas of the interstitium, usually with interstitial edema."
+        },
+        {
+            "parent": 10,
+            "text": "Renal biopsy is not needed in all patients. In patients for whom the diagnosis seems likely, for whom a probable precipitating drug can be easily withdrawn, or who improve readily after withdrawal of a potentially offending drug, supportive management can proceed safely without renal biopsy. Patients who do not improve following withdrawal of likely precipitating medications, who have no contraindications to renal biopsy and do not refuse the procedure, and who are being considered for steroid therapy, are good candidates for renal biopsy(Figure 15). Indications and contraindications for renal biopsy are listed inTable 5.28"
+        },
+        {
+            "parent": 11,
+            "text": "Most patients with AIN in whom offending medications are withdrawn early can be expected to recover normal or near-normal renal function within a few weeks. Patients who discontinue offending medications within two weeks of the onset of AIN (measured by increased creatinine) are more likely to recover nearly baseline renal function than those who remain on the precipitating medication for three or more weeks."
+        },
+        {
+            "parent": 11,
+            "text": "A number of investigators have tried to identify other clinical and renal biopsy features that will provide prognostic information in terms of recovery of renal function. One study29noted two phases to recovery in AIN: an initial rapid phase of improvement lasting six to eight weeks, followed by a phase of slower improvement to the previous or new baseline renal function lasting approximately one year."
+        },
+        {
+            "parent": 11,
+            "text": "Adverse prognostic factors in AIN recovery include diffuse (versus patchy) inflammation on biopsy; excess number of neutrophils (1 to 6 percent); and extent or severity of interstitial fibrosis, which was noted to correlate most closely with the final glomerular filtration rate.29"
+        },
+        {
+            "parent": 12,
+            "text": "Figure 15shows an algorithm for diagnosis and management of patients with suspected AIN."
+        },
+        {
+            "parent": 13,
+            "text": "Withdrawal of medications that are likely to cause AIN is the most significant step in early management of suspected or biopsy-proven AIN.30If multiple potentially precipitating medications are being used by the patient, it is reasonable to substitute other medications for as many of these as possible and to withdraw the most likely etiologic agent among medications that cannot be substituted. The majority of patients with AIN improve spontaneously following the withdrawal of medications that resulted in renal failure, and such patients should be listed as having had an adverse reaction to these medications."
+        },
+        {
+            "parent": 13,
+            "text": "Other supportive care interventions are listed inTable 6. Indications for renal dialysis in the management of acute renal failure have been described elsewhere,31and these include uncontrolled hyperkalemia, azotemia with mental status changes, and other symptomatic fluid or electrolyte derangements."
+        },
+        {
+            "parent": 14,
+            "text": "There are no randomized trials to support the use of corticosteroids in treatment of AIN. Small case reports and studies32have demonstrated rapid diuresis, clinical improvement, and return of normal renal function within 72 hours after starting steroid treatment, although some case reports indicate lack of efficacy, especially in cases of NSAID-induced AIN. The decision to use steroids should be guided by the clinical course following withdrawal of offending medications."
+        },
+        {
+            "parent": 14,
+            "text": "If steroid therapy is started, a reasonable dosage is prednisone, 1 mg per kg per day orally (or equivalent intravenous dose) for two to three weeks,30,33followed by a gradually tapering dose over three to four weeks. In patients who do not respond to corticosteroids within two to three weeks, treatment with cyclophosphamide (Cytoxan) can be considered."
+        },
+        {
+            "parent": 15,
+            "text": "Drug-induced AIN accounts for the majority of interstitial nephropathies; however, a number of other tubulointerstitial nephropathy syndromes deserve mention because they may be identified clinically and may have different treatable or correctable causes.18Table 7summarizes the typical features of some of these disorders."
+        }
+    ],
+    "locked": false
+}

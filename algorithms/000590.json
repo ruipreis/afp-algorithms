@@ -1,0 +1,146 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/0501/p1279.html#afp20080501p1279-f1",
+    "title": "Managing Hypertension Using Combination Therapy | AAFP",
+    "author": "JENNIFER FRANK, MD",
+    "doi": "Am Fam Physician.2008;77(9):1279-1286",
+    "abstract": "Combination therapy of hypertension with separate agents or a fixed-dose combination pill offers the potential to lower blood pressure more quickly, obtain target blood pressure, and decrease adverse effects. Antihypertensive agents from different classes may offset adverse reactions from each other, such as a diuretic decreasing edema occurring secondary to treatment with a calcium channel blocker. Most patients with hypertension require more than a single antihypertensive agent, particularly if they have comorbid conditions. Although the Joint National Committee guidelines recommend diuretic therapy as the initial pharmacologic agent for most patients with hypertension, the presence of “compelling indications” may prompt treatment with antihypertensive agents that demonstrate a particular benefit in primary or secondary prevention. Specific recommendations include treatment with angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, diuretics, beta blockers, or aldosterone antagonists for hypertensive patients with heart failure. For hypertensive patients with diabetes, recommended treatment includes diuretics, beta blockers, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and/or calcium channel blockers. Recommended treatment for hypertensive patients with increased risk of coronary disease includes a diuretic, beta blockers, angiotensin-converting enzyme inhibitors, and/or calcium channel blocker. The Joint National Committee guidelines recommend beta blockers, angiotensin-converting enzyme inhibitors, and aldosterone antagonists for hypertensive patients who are postmyocardial infarction; angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for hypertensive patients with chronic kidney disease; and diuretic and angiotensin-converting enzyme inhibitors for recurrent stroke prevention in patients with hypertension.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Choice of Agents",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Fixed-Dose Combination Agents",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Initial Management of Hypertension with Combination Therapy",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Special Populations",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HEART FAILURE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "POSTMYOCARDIAL INFARCTION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "HIGH RISK OF CORONARY DISEASE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "DIABETES MELLITUS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CHRONIC KIDNEY DISEASE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Recurrent Stroke Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Combination therapy is treatment with two or more agents administered separately or in a fixed-dose combination pill and is required by most patients with hypertension to reach target blood pressure.1,2In many cases, combination therapy improves rates of blood pressure control and requires less time to achieve target blood pressure1,3,4with equivalent5or better tolerability6than higher-dose monotherapy. Additional benefits may include cost savings and better compliance.4,6–8"
+        },
+        {
+            "parent": -1,
+            "text": "Potential disadvantages include increased cost for some combinations, increased risk of adverse events and drug-drug interactions, and patients' perception that taking more medications is equated with being sicker (this may be partially addressed by the use of a fixed-dose combination pill).9"
+        },
+        {
+            "parent": -1,
+            "text": "Patients with comorbidities may benefit from the effects of different antihypertensive medications and warrant consideration for combination therapy. For example, a patient with hypertension and diabetes, heart failure, or renal disease may benefit from the combination of a diuretic and an angiotensin-converting enzyme (ACE) inhibitor. When monotherapy fails to achieve target blood pressure, using combination therapy is an alternative to increasing the dose of a single agent1(Table 11,10,11)."
+        },
+        {
+            "parent": 0,
+            "text": "A number of studies evaluated the effectiveness of different antihypertensive agents in decreasing all-cause mortality and, secondarily, decreasing cardiovascular morbidity and mortality. Although these studies often seek to establish the superiority of an agent or a combination of agents, interpretation of results is often complicated by differences in blood pressure lowering between treatment groups,12–14which alone could account for any observed benefit.15,16Some trials draw conclusions about a single agent despite most study participants requiring treatment with multiple agents.13,17,18Additional limitations include heterogeneous study populations and inherent differences in agents from the same class.15This has led to debate in the literature and variation among clinical guidelines regarding initial, first-line, and second-line treatment recommendations. Because most patients with hypertension require more than one medication, choosing a “first-line” agent may be less important than identifying beneficial combinations for an individual patient."
+        },
+        {
+            "parent": 0,
+            "text": "The choice of antihypertensive agents is guided by clinical guidelines and patient characteristics (Table 2).1The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial demonstrated the clinical- and cost-effectiveness of a thiazide diuretic as initial therapy.17Thiazide diuretics are recommended as first-line pharmacologic treatment in the Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC-7),1recognizing that most patients with hypertension will require a second agent in addition to the diuretic. A number of diuretic combinations are available (Table 319,20)."
+        },
+        {
+            "parent": 0,
+            "text": "Antihypertensive agents can have complementary effects and may help offset each other's adverse effects. Combination therapies demonstrating synergistic or complementary mechanisms of action include beta blocker-diuretic;21angiotensin receptor blocker (ARB)-diuretic;22,23ACE inhibitor-diuretic;21calcium channel blocker-ACE inhibitor;4,24,25calcium channel blocker-diuretic;16and a thiazide diuretic plus a potassium-sparing diuretic.21"
+        },
+        {
+            "parent": 0,
+            "text": "A randomized controlled trial of hypertensive patients with increased cardiovascular risk evaluating treatment with amlodipine (Norvasc) plus perindopril (Aceon; a calcium channel blocker plus an ACE inhibitor, if needed) or atenolol (Tenormin) plus bendroflumethiazide (Naturetin; a beta blocker plus a diuretic, if needed), demonstrated that a calcium channel blocker-ACE inhibitor combination was superior to a beta blocker-diuretic combination in reducing cardiovascular morbidity and mortality and in preventing new-onset diabetes.26However, the amlodipine-based treatment group achieved significantly lower blood pressure than the atenolol-based treatment group. Initial data of an ongoing trial comparing a combination pill containing a calcium channel blocker and an ACE inhibitor with a combination pill containing an ACE inhibitor and a diuretic on cardiovascular morbidity and mortality in patients with hypertension has demonstrated statistically significant blood pressure reductions using initial treatment combination therapy compared with the participants' pre-study enrollment antihypertensive drug regimens.27"
+        },
+        {
+            "parent": 0,
+            "text": "Another randomized trial compared valsartan (Diovan), an ARB-based treatment, with amlodipine, a calcium channel blocker-based treatment, in patients with hypertension who are at an increased cardiovascular risk.16Most participants required add-on therapy with hydrochlorothiazide plus other agents to achieve adequate blood pressure lowering. Despite improved blood pressure lowering in the amlodipine group, there was no decrease in cardiovascular morbidity or mortality between the study groups except for a decreased incidence of myocardial infarction in the patients treated with amlodipine."
+        },
+        {
+            "parent": 0,
+            "text": "The following combinations demonstrate particular risks: a nondihydropyridine calcium channel blocker with a beta blocker (risk of bradycardia),1and an ACE inhibitor or ARB with an aldosterone antagonist (risk of hyperkalemia).28"
+        },
+        {
+            "parent": 1,
+            "text": "Fixed-dose combination treatments offer several potential benefits, including simplification of the treatment regimen, convenience, and sometimes decreased cost.1,8The choice of combined agents can be used to minimize the adverse effects of each individual agent.8An example is the combination of a thiazide diuretic with an ACE inhibitor.6"
+        },
+        {
+            "parent": 1,
+            "text": "Disadvantages include initial doses that are often below those that would be started with monotherapy, making it potentially more difficult to achieve the desired dose, and the risk of causing orthostatic hypotension in older patients and patients with diabetic autonomic neuropathy.1Patients' concerns about switching from combination therapy to a fixed-dose combination include: change in an established routine; ability to achieve the same medications and dosages in a combined pill; increased cost; inability to easily adjust the dose; and tablet size.29"
+        },
+        {
+            "parent": 2,
+            "text": "Approximately 70 percent of patients with hypertension will require two or more agents to achieve their target blood pressure.6,26Using combination therapy for initial management offers the potential to achieve target blood pressure9with fewer adverse effects because lower doses of each agent may be used.7,12Potential economic advantages include a reduced need to switch medications and improved long-term outcomes secondary to improved blood pressure control.30Initial management with combination therapy should be considered in any patient whose blood pressure is greater than 20 mm Hg above systolic goal or 10 mm Hg above diastolic goal.1,3The 2003 European Society of Hypertension-European Society of Cardiology guidelines offer a fixed-dose combination agent as an initial management option in patients with complicated and uncomplicated hypertension.10Figure 1provides an algorithm for the management of hypertension.1"
+        },
+        {
+            "parent": 4,
+            "text": "JNC-7 guidelines recommend diuretics, beta blockers, ACE inhibitors, ARBs, and aldosterone antagonists (aldosterone antagonists include eplerenone [Inspra] and spironolactone [Aldactone]) in the treatment of hypertensive patients with heart failure.1These medications have been shown to reduce morbidity and mortality in appropriately selected patients with heart failure. Aldosterone antagonists are beneficial in the treatment of moderate to severe heart failure, but may not offer the same benefit to patients with less severe heart failure or with significant renal failure.31The use of ACE inhibitors, ARBs, and aldosterone antagonists in combination is not recommended because of the risk of hyperkalemia.31ARBs may substitute for ACE inhibitors in patients unable to tolerate an ACE inhibitor.31The choice of agents is based on severity of heart failure, left ventricular ejection fraction, and history of myocardial infarction.31"
+        },
+        {
+            "parent": 5,
+            "text": "The American College of Cardiology/American Heart Association guidelines recommend that treatment of patients with hypertension who have had a myocardial infarction include an ACE inhibitor, an ARB (for patients intolerant of ACE inhibitors), a beta blocker, and an aldosterone antagonist (for patients with symptomatic heart failure without hyperkalemia or significant renal failure).32JNC-7 guidelines make similar recommendations.1Short-acting calcium channel blockers are not recommended for the treatment of hypertension in postmyocardial infarction patients.32"
+        },
+        {
+            "parent": 6,
+            "text": "In patients with hypertension at high risk of coronary disease, JNC-7 guidelines recommend the use of diuretics, calcium channel blockers, beta blockers, and ACE inhibitors.1A study comparing the ACE inhibitor ramipril (Altace) with placebo in more than 10,000 patients with cardiovascular disease or at high coronary risk found a significant reduction in the risk of acute myocardial infarction, stroke, or death (14 versus 17.8 percent, number needed to treat [NNT] = 26 for five years).33Another study comparing treatment with a calcium channel blocker-ACE inhibitor combination to a beta blocker-diuretic regimen in hypertensive patients with coronary artery disease demonstrated equivalent blood pressure lowering and no difference in cardiovascular morbidity and mortality.34A randomized controlled trial of a valsartan-based anti-hypertensive regimen compared with conventional treatment with other agents (e.g., calcium channel blockers, ACE inhibitors, beta blockers) in Japanese patients with hypertension and an increased risk for or presence of cardiovascular disease demonstrated decreased cardiovascular morbidity in the valsartan-based group, despite equivalent blood pressure lowering (adjusted relative risk [ARR] = 3.7 percent, NNT = 27).35There was no difference in all-cause or cardiovascular mortality."
+        },
+        {
+            "parent": 7,
+            "text": "Patients with hypertension and diabetes have lower rates of blood pressure control7and often require combination therapy.1JNC-7 guidelines recommend an ACE inhibitor or ARB (if an ACE inhibitor is not tolerated or is contraindicated) for these patients.1Common combinations include an ACE inhibitor or ARB plus a calcium channel blocker36or a diuretic.23Given the low cost and proven benefits of a diuretic in reducing all-cause and cardiovascular mortality, the combination of a diuretic and an ACE inhibitor is a good starting point if combination therapy is chosen."
+        },
+        {
+            "parent": 7,
+            "text": "The calcium channel blocker-ACE inhibitor combination has demonstrated superior blood pressure lowering compared with ACE inhibitor monotherapy in patients with hypertension and diabetes.36,37Renoprotection achieved in these patients by using ACE inhibitor treatment reflects the action of the ACE inhibitor and blood pressure lowering.13"
+        },
+        {
+            "parent": 7,
+            "text": "The U.K. Prospective Diabetes Study Group found that blood pressure control was more important than tight blood glucose control at preventing cardiovascular events, and that an ACE inhibitor and a beta blocker were equivalent in their benefit, although 30 percent of patients in both groups required three or more medications to control their blood pressure.38A study examining combination treatment with an ACE inhibitor-diuretic treatment compared with placebo was associated with a small decrease in vascular complications and significant blood pressure lowering of 5.6/2.2 mm Hg.39Study participants with hypertension were continued on antihypertensive treatment regardless of treatment arm.39"
+        },
+        {
+            "parent": 8,
+            "text": "Diabetes and hypertension are the two leading causes of end-stage renal disease.40Hypertension can cause or worsen kidney disease, as well as be caused by kidney disease. Combination therapy is often needed to effectively lower blood pressure to goal levels in patients with kidney disease because monotherapy rarely attains the level of blood pressure lowering required to slow the decline in glomerular filtration rate.40,41First-line therapy for proteinuric kidney disease includes an ACE inhibitor or ARB, and often requires the addition of a diuretic or a calcium channel blocker.41,42In patients with hypertension and nondiabetic proteinuric kidney disease, addition of a calcium channel blocker to an ACE inhibitor achieved greater blood pressure reduction, but did not offer an advantage in decreasing the progression to end-stage renal disease.43Thiazide diuretics are recommended in patients with a glomerular filtration rate greater than or equal to 40 mL per minute per 1.73 m2(body surface area), and loop diuretics are recommended in patients with a glomerular filtration rate less than or equal to 40 to 50 mL per minute per 1.73 m2.28,42The combination of an ACE inhibitor and an ARB may be beneficial compared with either agent alone in certain patients with chronic kidney disease.28,42,44In initial trials, patients already taking an ARB or an ACE inhibitor experienced decreased proteinuria with the addition of an aldosterone antagonist, although this combination may increase potassium levels and its use needs to be supported by larger studies.28"
+        },
+        {
+            "parent": 9,
+            "text": "JNC-7 guidelines recommend diuretics and ACE inhibitors for secondary stroke prevention.1A randomized study evaluating the effectiveness of treatment with an ACE inhibitor for decreasing recurrent stroke found that treatment with an ACE inhibitor plus a diuretic (required by most of the study participants) significantly decreased recurrent stroke incidence.14The participants who received combination therapy experienced significantly greater blood pressure lowering compared with participants who received ACE inhibitor monotherapy."
+        },
+        {
+            "parent": 9,
+            "text": "In a study evaluating an ARB versus a calcium channel blocker for secondary stroke prevention, two thirds of patients in both treatment arms required at least one additional agent to achieve adequate blood pressure lowering.45Despite equivalent blood pressure lowering in both groups, patients in the ARB-based treatment group had a lower incidence of stroke (ARR = 8 percent, NNT = 12.5)."
+        }
+    ],
+    "locked": false
+}

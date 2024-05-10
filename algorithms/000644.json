@@ -1,0 +1,192 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0715/p262.html#afp20060715p262-f1",
+    "title": "Interventions to Facilitate Smoking Cessation | AAFP",
+    "author": "KOLAWOLE S. OKUYEMI, M.D., M.P.H., NICOLE L. NOLLEN, PH.D., AND JASJIT S. AHLUWALIA, M.D., M.P.H.",
+    "doi": "Am Fam Physician.2006;74(2):262-271",
+    "abstract": "Tobacco use, primarily cigarette smoking, is the leading cause of preventable morbidity and mortality in the United States, and nearly one third of those who try a cigarette become addicted to nicotine. Family physicians, who see most of these patients in their offices every year, have an important opportunity to decrease smoking rates with office-based interventions. The U.S. Public Health Service recommends that primary care physicians use the five A’s (Ask, Advise, Assess, Assist, and Arrange) model when treating patients with nicotine addiction. Physicians can improve screening and increase cessation rates by asking patients about tobacco use at every office visit. Behavior modification can improve long-term smoking cessation success; even brief (five minutes or less) advice on smoking cessation during an office visit can increase cessation rates. The effectiveness of nonpharmacologic treatments generally is lower; therefore, pharmacotherapy is recommended for smokers who are willing to attempt cessation, unless medical contraindications exist. The pharmacologic agents approved by the U.S. Food and Drug Administration for treatment of tobacco dependence include bupropion (a non-nicotine therapy) and nicotine replacement therapies in the form of a gum, patch, nasal spray, inhaler, and lozenge. These agents have similar long-term success rates.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening and Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "NONPHARMACOLOGIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PHARMACOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Nicotine Gum",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Nicotine Patch (Transdermal)",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Nicotine Nasal Spray",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Nicotine Inhaler",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Nicotine Lozenge",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Bupropion SR",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Combination Pharmacotherapy",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Other Recommended Pharmacotherapies",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ALTERNATIVE THERAPIES",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "CHOOSING A TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Follow-up",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Tobacco use, primarily cigarette smoking, is the leading cause of preventable morbidity and mortality in the United States.1Primary care physicians have an opportunity to offer office-based smoking cessation interventions to the 70 percent of smokers who visit their offices every year.2Goals of the Healthy People 20103initiative include increasing to 75 percent the proportion of family physicians who routinely provide smoking cessation counseling. Studies have shown that physicians and their staffs can be trained to successfully deliver office-based smoking cessation interventions,4and that these interventions significantly improve smoking cessation rates.4,5"
+        },
+        {
+            "parent": 0,
+            "text": "The 2000 Agency for Health Care Policy and Research (AHCPR; now the Agency for Healthcare Research and Quality) clinical practice guideline on treating tobacco use and dependence urges physicians to treat tobacco use as a chronic disease.2It recommends that physicians use the five A’s (Ask, Advise, Assess, Assist, and Arrange) model(Table 12)when treating patients with nicotine addiction."
+        },
+        {
+            "parent": 0,
+            "text": "The first step, asking about tobacco use at every visit, has been shown to improve screening and cessation rates; a nurse or other staff member can do this when taking the patient’s vital signs.2Physicians should establish office-wide systems to enhance consistent identification of smokers. This includes asking questions to identify current, former, or never-smokers. For example, patients should be asked, “Do you currently use any form of tobacco?” Those who answer “no” should then be asked, “Have you regularly used any form of tobacco in the past?” Merely asking, “Are you a smoker?” may not identify occasional or light smokers, some of whom do not consider themselves smokers."
+        },
+        {
+            "parent": 1,
+            "text": "One of the barriers to addressing tobacco use in the clinical setting is that physicians have not been reimbursed for much of their work in this area. However, the Medicare Part B insurance plan recently began covering smoking cessation counseling. The coverage is limited to Medicare patients who have diseases or adverse health effects linked to their tobacco use and to those whose tobacco use affects their metabolism or medication dosages. More information on the coverage of tobacco use counseling is available athttp://www.cms.hhs.gov/Transmittals/downloads/R818CP.pdf."
+        },
+        {
+            "parent": 1,
+            "text": "Physicians should give patients who use tobacco brief advice on why they should attempt cessation and then assess their willingness to quit. Physicians can offer motivation and support to help patients modify their behaviors. However, pharmacologic treatment has a higher success rate6than nonpharmacologic treatment and should be offered to patients unless a clinical contraindication exists.2"
+        },
+        {
+            "parent": 2,
+            "text": "The “stages of change” model7is a useful tool for assessing a patient’s willingness to quit using tobacco. This model entails changing behavior through a process of five motivational stages: (1) precontemplation (not planning to quit within the next six months), (2) contemplation (considering quitting within the next six months), (3) preparation (planning to quit within the next 30 days), (4) action (successfully quitting for less than six months), and (5) maintenance (successfully quitting for at least six months). Interventions based on the stages of change model have been shown to enhance motivation and predict cessation.8"
+        },
+        {
+            "parent": 2,
+            "text": "For patients who are unwilling to quit, physicians should identify reasons for their resistance and address these reasons. Patients who are willing to attempt cessation should receive specific advice about how to proceed (e.g., setting a quit date, pharmacotherapy). Studies2have shown that even brief (five minutes or less) advice on cessation from a physician during an office visit improves cessation rates compared with no advice."
+        },
+        {
+            "parent": 3,
+            "text": "The pharmacologic agents approved by the U.S. Food and Drug Administration (FDA) for the treatment of tobacco dependence(Table 29)have similar long-term success rates.9These agents include five forms of nicotine replacement therapy (NRT; e.g., gum, patch, nasal spray, inhaler, lozenge) and bupropion sustained release (Wellbutrin SR).9"
+        },
+        {
+            "parent": 4,
+            "text": "A meta-analysis that included randomized controlled studies of specialized cessation clinics showed that patients using nicotine gum had higher success rates at six months than those using placebo gum (27 versus 18 percent).2However, studies10of general medical practices showed that the six-month success rate of nicotine gum was no different than that of placebo (12 percent). The higher cessation rate associated with nicotine gum in specialized smoking cessation clinics may be attributed to more in-depth counseling, better adherence to treatment, better trained counselors, and participants who are more motivated to quit. Nicotine gum is available over the counter in 2- and 4-mg doses. The 4-mg dose is recommended for those who smoke 15 or more cigarettes per day.2No definite benefits have been noted beyond eight weeks.11"
+        },
+        {
+            "parent": 5,
+            "text": "A meta-analysis12showed that the patch has a six-month success rate of 8 to 21 percent compared with 4 to 14 percent for placebo, and a 12-month success rate of 10 to 16 percent compared with 6 to 16 percent for placebo. Treatment beyond eight weeks has not been shown to increase effectiveness. Patches are available over the counter in 15- and 21-mg doses. Step-down doses of 14 and 7 mg may accompany the 21-mg dose, although data have not shown that this step-down approach adds benefit. Those who smoke more than 10 cigarettes per day should use the 21-mg dose.2Although there were earlier concerns about the safety of nicotine patches, specifically in patients with myocardial infarction, the FDA has concluded and studies have shown that there are no adverse effects associated with the nicotine patch in smokers with a history of coronary heart disease.13,14"
+        },
+        {
+            "parent": 6,
+            "text": "A meta-analysis2showed that the nicotine nasal spray had a six-month success rate of 31 percent compared with 14 percent for placebo. One spray into each nostril equals one dose; each spray contains 0.5 mg of nicotine. Patients should use one to two doses per waking hour for three to six months.2The nicotine nasal spray seems to be the most addictive of the NRTs.15If a patient presents with withdrawal symptoms after abrupt discontinuation of treatment, the physician should consider initiating a four- to six-week tapering period. Tapering may be achieved by halving the dose every week. The most common side effects include nasal irritation, runny nose, sneezing, throat irritation, coughing, and watery eyes. Patients usually develop tolerance to these effects within the first week, however."
+        },
+        {
+            "parent": 7,
+            "text": "A meta-analysis2showed that the inhaler had a six-month success rate of 23 percent compared with 11 percent for placebo. Adverse events are generally mild and consist of throat irritation and cough. The nicotine inhaler is unique in that it mimics the hand-to-mouth motion of smoking. The inhaler consists of a cartridge attached to a plastic mouthpiece. The cartridge contains 10 mg of nicotine (but only delivers 4 mg) plus 1 mg of menthol. The recommended dose is six to 16 cartridges per day for three months, then taper for six to 12 months. The nicotine is absorbed in the mouth rather than in the lungs.2"
+        },
+        {
+            "parent": 8,
+            "text": "Randomized clinical trials16,17have shown that the nicotine lozenge (2 mg) has a six-week success rate of 46 percent compared with 30 percent for placebo and a six-month success rate of 24 percent compared with 14 percent for placebo. Results were similar for the 4-mg dose. The nicotine lozenge is similar to nicotine gum in that it is administered orally; however, it delivers about 25 percent more nicotine than the gum.18The 4-mg dose is recommended for those who smoke their first cigarette of the day within 30 minutes of awakening; otherwise, the 2-mg dose should be used. At least nine lozenges per day are recommended for the first six weeks."
+        },
+        {
+            "parent": 9,
+            "text": "Randomized controlled trials have demonstrated that bupropion SR is effective in clinical practice settings19,20and in hospital employees21and minorities.22Six-month success rates were 21 to 30 percent for bupropion SR compared with 10 to 19 percent for placebo. Common adverse effects are generally mild and consist of insomnia and dry mouth. Less common side effects include headache, nausea, and anxiety. Bupropion is contraindicated for patients with a history of seizures, anorexia or bulimia, or head trauma, and in those who currently use bupropion or monoamine oxidase inhibitors. The drug also should be avoided in patients with increased seizure risk (e.g., excessive use of alcohol or sedatives, such as benzodiazepines; addiction to opiates, cocaine, or stimulants; tight control of diabetes). Because the risk of seizure is dose dependent, the total daily dosage of bupropion SR should not exceed 300 mg."
+        },
+        {
+            "parent": 10,
+            "text": "Combining the nicotine patch with a self-administered NRT (e.g., gum, spray, inhaler) is more effective than a single NRT.2A randomized trial23showed that bupropion SR combined with the patch was more effective than the patch alone but not significantly more effective than bupropion SR alone. However, a recent study including mostly veterans24showed that combining bupropion SR with the patch did not significantly increase success rates compared with the patch alone. Other studies25have shown that combining the patch with the gum significantly increases cessation success rates (by up to 50 percent) compared with the patch alone. Similarly, studies have shown that combining the patch with the inhaler26or nasal spray27,28significantly increases cessation success rates compared with each therapy alone. Therefore, combination pharmacotherapy should be considered for smokers who are unable to quit because of significant cravings or withdrawal symptoms despite adequate doses of a single therapy."
+        },
+        {
+            "parent": 11,
+            "text": "The AHCPR clinical practice guideline2recommends clonidine (Catapres) and nortriptyline (Pamelor) as second-line agents for smoking cessation. Controlled studies on these agents are limited,29,30and neither drug is FDA-approved for smoking cessation. Clonidine and nortriptyline should be considered only for patients who have failed first-line therapies or are unable to use them because of contraindications."
+        },
+        {
+            "parent": 12,
+            "text": "A number of complementary and alternative therapies such as hypnosis and acupuncture have been considered for smoking cessation. The AHCPR did not find sufficient evidence to recommend hypnosis or acupuncture for smoking cessation.2A Cochrane review31of nine studies provided no evidence that hypnosis was effective for smoking cessation. Another Cochrane review32of 22 randomized trials showed that there was no clear evidence that acupuncture or its variations (e.g., acupressure, laser therapy, electrostimulation) were effective for smoking cessation."
+        },
+        {
+            "parent": 13,
+            "text": "Few data exist comparing the effectiveness of the approved pharmacotherapies for smoking cessation. The Safety, Tolerability, Efficacy, Price, Simplicity (STEPS) approach can be used to guide physicians when they are choosing a therapy.33NRTs are considered generally safe with mild adverse effects. They all have similar cardiovascular precautions, and all are pregnancy category D. Bupropion SR also is relatively safe with precautions as discussed above. However, product-specific characteristics may make some NRTs less suitable for certain patients. For example, the gum is not appropriate for patients with dental or jaw problems because it requires special chewing techniques and high frequency of use. The adhesive on the patch may be affected by humid weather. The patch also should be avoided in patients with systemic eczema."
+        },
+        {
+            "parent": 13,
+            "text": "The only study34that has compared the effectiveness of various NRTs reported similar results for the gum, patch, spray, and inhaler. No study has compared the lozenge with other NRTs. Although one study23reported that bupropion was more effective than the patch, this finding has not been replicated. Bupropion costs slightly less than NRTs, and the patch appears to be the most convenient therapy to use among the NRTs. In one randomized controlled trial,34compliance was highest for the patch (82 percent) compared with the gum (38 percent), the spray (15 percent), and the inhaler (11 percent). However, the effectiveness of these therapies may be lower in “real-world” settings because clinical trial participants are self-selected and, therefore, are more motivated to quit smoking and willing to comply with frequent follow-ups. Also, those in placebo groups typically receive substantially more counseling than those in real-world settings. These factors may produce higher quit rates in patients taking placebo than are typically found in unaided cessation attempts.Figure 135is an algorithm for identifying and treating patients who smoke."
+        },
+        {
+            "parent": 14,
+            "text": "Relapse (in general or, more specifically, smoking on seven consecutive days or once each week over two consecutive weeks)36is common. Physicians can use a number of brief strategies to help prevent relapse. At a minimum, patients should be encouraged to identify their smoking cues and triggers and decide on alternative coping strategies before they attempt to quit smoking. During follow-up visits, physicians should assess patients’ progress, congratulate success, and encourage continued cessation. Patients also should be encouraged to discuss the benefits of cessation including health benefits; the successes they have had (e.g., duration of abstinence, effective coping strategies); and problems or barriers to cessation (e.g., negative mood, irritability, alcohol, other smokers).2"
+        },
+        {
+            "parent": 14,
+            "text": "For patients who have experienced a relapse, it is recommended that the physician review with the patient the circumstances surrounding the relapse and elicit a new commitment to quit. It also is important to counsel these patients on the proper use of pharmacotherapy and to arrange a timely follow-up visit (i.e., about one week after the new quit date). Behavior modification for smoking cessation also should be considered. Finally, patients should be reminded that a relapse is an opportunity for them to learn what tempted them to smoke and how to cope better with similar situations in the future."
+        },
+        {
+            "parent": 14,
+            "text": "On average, most smokers attempt to quit smoking four or five times before cessation is successful.2Data suggest that approximately 6 to 38 percent of smokers who relapse will attempt to quit again within the next year.2Given this relatively high rate of reattempts, it is important for physicians to maintain contact with a patient who smokes, even after relapses, to facilitate a future smoking cessation attempt when a patient is most motivated to quit. For this reason, arranging follow-up care for smoking cessation (the last step of the five A’s model) is highly important. The follow-up should occur within one week of the patient’s quit date, because the risk of relapse is highest during the first few days of abstinence.2"
+        },
+        {
+            "parent": 14,
+            "text": "Considerable data show that additional follow-up (e.g., face-to-face contact; letters or telephone conversations37; self-help materials38beyond initial brief advice) significantly increases cessation success rates.39Self-help brochures and print materials from professional organizations are readily available. The patient information handout with this article can be given to patients as an adjunct to initial brief advice and follow-up. In addition to office-based self-help resources, a growing number of free telephone “quitlines” and Internet-based resources are available for persons who want to quit smoking.40Table 3includes a list of self-help resources for smoking cessation."
+        },
+        {
+            "parent": 15,
+            "text": "Smoking cessation significantly reduces morbidity and mortality from smoking.2The degree of improvement, however, depends on the disease process and the amount of damage present as well as the reversibility of this damage at the time of cessation. Former smokers reduce their risk of developing coronary heart disease by 50 percent within one year of quitting.2After four years, this risk becomes equal to that of never-smokers.2The decrease in cancer risk varies with the type of cancer involved. For example, the risk of lung cancer in former smokers always remains higher than that in never-smokers. However, this risk decreases progressively and considerably with the number of years the former smoker remains abstinent."
+        },
+        {
+            "parent": 15,
+            "text": "In addition to reducing morbidity and mortality, smoking cessation is among the most cost-effective measures in primary care.41The estimated cost per life-year saved is $2,000 for smoking cessation compared with $50,000 per life-year saved for breast cancer mammography.2"
+        }
+    ],
+    "locked": false
+}

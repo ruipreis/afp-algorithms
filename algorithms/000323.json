@@ -1,0 +1,136 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0101/p38.html#afp20150101p38-f1",
+    "title": "Recognition and Management of Motor Delay and Muscle Weakness in Children | AAFP",
+    "author": "JOSEPH G. LURIO, MD, HOLLY L. PEAY, MS, AND KATHERINE D. MATHEWS, MD",
+    "doi": "Am Fam Physician.2015;91(1):38-44",
+    "abstract": "Diagnosis of neuromuscular disorders in young children is often delayed for years after symptoms emerge, resulting in missed opportunities for therapy and genetic counseling. Identification of the weak child begins with careful attention to caregiver concerns and developmental surveillance at well-child visits. Family and medical histories can differentiate inherited from acquired causes of weakness. Physical examination should include observation of age-appropriate motor skills such as pull-to-sit, sitting, rising to stand, and walking/running. Serum creatine kinase levels should always be measured in children exhibiting neuromuscular weakness. Referrals to early intervention programs should not be postponed pending definitive diagnosis. If motor delay does not improve with early intervention, referral to a pediatric neurologist for diagnostic assessment is recommended. Tongue fasciculations, loss of motor milestones, or creatine kinase level greater than three times the normal limit should prompt immediate neurology referral. Once a neuromuscular disorder is diagnosed, the primary care clinician can help the family navigate subspecialty visits and consultations, advocate for services in the school and home, and help them cope with the emotional stresses of caring for a child with special needs.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Importance of Early Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Identification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Testing",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "LABORATORY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Referral and Follow-Up",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Role of the Family Physician",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The diagnosis of neuromuscular disorders, commonly defined as acquired and inherited conditions of the muscles, nerves, and neuromuscular junction,1is often delayed. For example, the average time from first parental concerns to diagnosis of Duchenne muscular dystrophy is more than two years.2,3Only 10% of children with developmental delay receive services for which they are eligible by two years of age.4Although caregiver characteristics and other socioeconomic factors affect timing of access to special services, medical practice also plays a role. Because neuromuscular disorders are rare, accounting for only a fraction of the approximately 9.6 million children in the United States with developmental disabilities5(Table 16–9), physician experience may be inadequate to ensure timely identification."
+        },
+        {
+            "parent": 0,
+            "text": "Neuromuscular disorders place a financial and emotional burden on patients, families, and caregivers, as well as their communities.10–14Early identification and diagnosis can help relieve caregiver stress and ensure appropriate management and services.15In some cases, initiation of treatment can slow disease progression and improve outcomes (e.g., corticosteroids for Duchenne muscular dystrophy,16enzyme replacement therapy for Pompe disease,17medications for congenital myasthenic syndrome1). Genetic counseling enables informed decision making for future pregnancies. Recognition and accurate diagnosis also facilitate participation in treatment trials."
+        },
+        {
+            "parent": 0,
+            "text": "Screening (administration of a brief standardized tool aiding in the identification of children at risk of a developmental disorder) and surveillance (a flexible, longitudinal, continuous, and cumulative process whereby knowledgeable health care professionals identify children who may have developmental problems) of early childhood development are key components in the care of children.18,19Not all clinicians adhere to standardized guidelines for developmental assessment, such as Bright Futures (http://brightfutures.aap.org).20,21Basing assessments on clinical judgment alone can miss developmental delay in two-thirds of patients.22"
+        },
+        {
+            "parent": 0,
+            "text": "To promote earlier recognition of neuromuscular diseases in children, the National Task Force for the Early Identification of Childhood Neuromuscular Disorders, a program partially funded by the Centers for Disease Control and Prevention, has made recommendations for identifying weakness and motor delay in children three months to five years of age.23These recommendations are available athttp://www.cdc.gov/ncbddd/musculardystrophy/diagnostic-tool.html."
+        },
+        {
+            "parent": 1,
+            "text": "Children with neuromuscular disorders usually present with gross motor delays, although fine motor and cognitive delays may also be present. Identification starts with attention to caregiver concerns about the child's development(Table 2).24Caregivers who express concern about developmental problems are correct more than 80% of the time.25–28Caregivers may report concerns about a child's muscle tone, coordination, strength, and ambulation,24as well as poor or slow feeding. During all well-child visits, clinicians should review developmental milestones, incorporating checklists or other tools (available athttp://www.cdc.gov/ncbddd/actearly/hcp/index.html) and considering risk factors for neurologic dysfunction, such as prematurity.29,30The use of screening tools completed by a caregiver, such as the Ages and Stages questionnaire31or Parents' Evaluation of Developmental Status,32before well-child visits adds little time to the length of the visit and improves sensitivity for identifying developmental delay (70% to 80%) with reasonable specificity (70% to 80%),33comparing favorably to the estimated 30% sensitivity of clinical impression alone.20"
+        },
+        {
+            "parent": 2,
+            "text": "If developmental concerns are identified, more formal assessment is indicated. Because of the importance of early intervention, clinicians should not take a “wait and see” approach without further discussion or evaluation.34It is imperative to consider other medical problems that could cause weakness and mimic neuromuscular disorders, particularly those that are potentially treatable, such as hypothyroidism, congenital heart disease, and nutritional deficiency."
+        },
+        {
+            "parent": 2,
+            "text": "During the focused evaluation of a child with weakness, the first objective is to establish whether the motor problem is primarily central (acquired brain injury, such as cerebral palsy) or peripheral (neuromuscular; involving the anterior horn cell, nerve, neuromuscular junction, or muscle). Central motor problems emerge without progressive weakness, whereas peripheral motor problems are degenerative conditions in which expected development lags or regresses. History might clarify the reasons for delay in cases of pre- and perinatal trauma or neonatal disease. Family history should be reviewed for weakness or developmental delay."
+        },
+        {
+            "parent": 2,
+            "text": "Physical examination confirms the presence and severity of weakness and can also help distinguish central from peripheral causes(Table 3).35Special attention should be given to an age-appropriate motor evaluation, such as observing for head lag on pull-to-sit, independent sitting, and getting into the sitting position; standing from the floor; walking; and running. Placing the child on a floor mat helps in the evaluation of gross motor function. Recommendations for the age-specific examination are included inTable 4.35Video clips of children with neuromuscular disorders demonstrating abnormal tone and strength are available athttp://www.childmuscleweakness.org/index.php/videos."
+        },
+        {
+            "parent": 4,
+            "text": "When the evaluation suggests a peripheral neuromuscular problem, serum creatine kinase (CK) levels should be measured.36The measurement is rarely elevated with primary central nervous system disease, whereas it is markedly elevated in many muscular dystrophies (e.g., Duchenne muscular dystrophy) and mildly elevated or normal in spinal muscular atrophy, neuropathies, congenital myopathies, and some other muscular dystrophies.eTable Asummarizes general guidelines for interpretation of serum CK measurements. If the CK level is mildly elevated, testing should be repeated in two to three weeks. Levels that are grossly (more than three times the upper limit of normal) or persistently elevated warrant referral to a pediatric neurologist.35"
+        },
+        {
+            "parent": 4,
+            "text": "Elevated serum transaminase levels in the context of motor delay should also trigger CK testing. Because aspartate transaminase and alanine transaminase can come from muscle or the liver and CK comes only from muscle, CK testing can prevent unnecessary liver evaluation."
+        },
+        {
+            "parent": 4,
+            "text": "Identifying elevated CK levels may be lifesaving. Some neuromuscular disorders increase the risk of malignant hyperthermia with the use of inhalation anesthetics. Because weak children are at risk of fracture37and may have an increased need for surgery, knowledge of this risk is particularly pertinent."
+        },
+        {
+            "parent": 4,
+            "text": "It is reasonable to measure thyroxine and thyroid-stimulating hormone levels, especially if routine newborn test results are unavailable, because congenital hypothyroidism can cause muscle weakness.38"
+        },
+        {
+            "parent": 5,
+            "text": "Radiography is not indicated in the evaluation of neuromuscular delay, although a neuromuscular disorder may be initially suspected because of the bell shape on chest radiography or a scoliosis curve in a C shape as opposed to an S shape.39Although brain or spine magnetic resonance imaging is indicated for children with increased tone and suspected cerebral palsy, micro- or macrocephaly, or neurocognitive delay or regression,40it is not a routine component of the evaluation of a child with isolated weakness."
+        },
+        {
+            "parent": 6,
+            "text": "Figure 1is an algorithm for the appropriate referral of children with suspected neuromuscular disorders.35In most cases, referral to an early intervention program is recommended whenever developmental delay is identified.41These programs provide comprehensive evaluation and, when appropriate, services directed at improving motor, cognitive, speech, or social problems. Involvement in an early intervention program can also provide caregivers with emotional support and respite time. Children who have problems with motor function may benefit from physical and/or occupational therapy."
+        },
+        {
+            "parent": 6,
+            "text": "If a child is referred to an early intervention program, primary care follow-up appointments should be scheduled in one month for infants and in two to three months for younger children. If progress toward developmental milestones remains poor, the child should be referred to a pediatric neurologist. While the neurology evaluation is in progress, therapists should avoid using strengthening exercises that might be counterproductive in patients who have some neuromuscular disorders with high CK levels."
+        },
+        {
+            "parent": 6,
+            "text": "Although neuromuscular delay is rarely an emergency, red flag indications for immediate neurology referral include presence of tongue fasciculations (suggesting spinal muscular atrophy), loss of motor milestones, or a CK level greater than three times the upper limit of normal. Children with neuromuscular weakness are at increased risk of respiratory failure with infection or from fatigue. Clinicians should have a low threshold for hospitalization and monitoring of blood gases for carbon dioxide retention if a weak child has signs or symptoms of respiratory distress."
+        },
+        {
+            "parent": 7,
+            "text": "The family physician can help the family navigate subspecialty visits and consultations, advocate for services in the school and home, and help them cope with the emotional stresses of caring for a child with special needs. More frequent primary care visits (in addition to routine well-child visits) after subspecialty referrals can be used to monitor progress and test results, and to support and assist families. It is important to ask caregivers how they feel when the problem is identified and again during follow-up. Caregivers often have conflicting emotions: relief that their concerns were heard, but worry that the child has a medical condition. Sometimes anger will be directed at the clinician for bringing unwelcome news. It is helpful to use active listening techniques, such as acknowledging the caregiver's feeling by paraphrasing what he or she has said and using the BATHE (background, affect, troubles, handling, empathy) protocol.42,43"
+        },
+        {
+            "parent": 7,
+            "text": "Caregivers should be reassured that even the most serious neuromuscular disorders are unlikely to suddenly and dramatically worsen. A clear plan for evaluation and follow-up and description of which health care professionals will be involved can help minimize worry. Caregivers should be given the opportunity to respond to this plan, including whether they understand the plan and are able to follow it."
+        },
+        {
+            "parent": 7,
+            "text": "The whole family should be considered. Not only can siblings feel neglected by parents who devote a disproportionate amount of time to the affected child, but the parents can also find themselves isolated from peers whose children are developing normally. Separation or divorce of parents who have a child with special needs is not uncommon.44,45Family physicians should be aware of the stress and burden neuromuscular disorders place on caregivers and other family members, and should be prepared to provide or facilitate mental health services.Table 5provides resources that may be helpful to families."
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources: We searched Medline using the key words weakness, neuromuscular, muscular dystrophy, and spinal muscular atrophy. Additional searches were performed using Essential Evidence Plus, the Agency for Healthcare Research and Quality clinical guidelines and evidence reports, Cochrane Database of Systematic Reviews, Google Scholar, DynaMed, and UpToDate. Search dates: June and October 2013. We repeated our search using DynaMed, Academic Search Complete, EBSCOhost, and Cochrane Database of Systematic Reviews. Search date: September 1, 2014."
+        },
+        {
+            "parent": 7,
+            "text": "The authors are members of the National Task Force for the Early Identification of Childhood Neuromuscular Disorders, which is partially supported by the National Center on Birth Defects and Developmental Disabilities at the Centers for Disease Control and Prevention. This paper, and its conclusions and recommendations, are solely the responsibility of the authors and do not necessarily represent the official views of the Centers for Disease Control and Prevention."
+        }
+    ],
+    "locked": false
+}

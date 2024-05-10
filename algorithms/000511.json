@@ -1,0 +1,135 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0701/p81.html#afp20100701p81-f1",
+    "title": "AGS Releases Guideline for Prevention of Falls in Older Persons | AAFP",
+    "author": "AMBER HUNTZINGER",
+    "doi": "Am Fam Physician.2010;82(1):81-82",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Intervention",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "MEDICATION MODIFICATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "EXERCISE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "VISION IMPAIRMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "MANAGEMENT OF POSTURAL HYPOTENSION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CARDIOVASCULAR FACTORS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "VITAMIN D SUPPLEMENTATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MANAGEMENT OF FOOT AND FOOTWEAR PROBLEMS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "HOME MODIFICATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "EDUCATION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:American Geriatrics Society"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.americangeriatrics.org/health_care_professionals/clinical_practice/clinical_guidelines_recommendations/2010/"
+        },
+        {
+            "parent": -1,
+            "text": "Recent recommendations from the American Geriatrics Society (AGS) guide physicians in screening older patients for risk of falling and preventing falls among those at increased risk.Figure 1is an algorithm based on these guidelines."
+        },
+        {
+            "parent": 0,
+            "text": "Physicians should ask all older patients at least annually whether they have fallen within the previous year and whether they have difficulties with walking or balance. Those who seek medical attention for injuries from a fall, report multiple falls, report a single fall but have poor gait and balance on assessment, or report difficulty with walking or balance should receive a multifactorial fall risk assessment."
+        },
+        {
+            "parent": 0,
+            "text": "The multifactorial assessment includes a focused history (history of falls and relevant risk factors, medication review); physical examination (gait, balance, mobility, neurologic function, muscle strength, cardiovascular status, visual acuity, feet and footwear); functional assessment (activities of daily living, patient's perceived function); and environmental assessment (home safety)."
+        },
+        {
+            "parent": 1,
+            "text": "A multicomponent/multifactorial intervention based on individual risk factors should be implemented to help prevent future falls in community-dwelling older persons. Intervention to prevent falls should be considered in older persons living in long-term care facilities, taking into account their physical ability and health status. There is insufficient evidence to recommend for or against intervention in older persons with cognitive impairment."
+        },
+        {
+            "parent": 2,
+            "text": "Medications are often associated with increased risk of falling. The strongest evidence for reducing this risk supports withdrawal of psychotropic medications (e.g., sedative hypnotics, anxiolytics, antidepressants, antipsy-chotics). Dosage reduction is an option in patients who cannot stop taking a medication because of a medical condition. Minimizing the number of medications a patient is taking should be considered in older persons at increased risk of falling."
+        },
+        {
+            "parent": 3,
+            "text": "All patients should be offered an exercise program that includes strength training and balance and gait exercises, such as tai chi and physical therapy. Flexibility and endurance training should also be offered as additional exercises. The program should be tailored to the patient's health and physical ability, and reviewed regularly. Individual and group exercise programs are equally effective."
+        },
+        {
+            "parent": 4,
+            "text": "There is insufficient evidence to recommend vision assessment and intervention to prevent falls in older persons. However, if a patient reports problems with vision, a formal assessment should be performed and any remediable visual abnormalities treated, particularly cataract. Patients should be advised not to wear multifocal lenses while walking."
+        },
+        {
+            "parent": 5,
+            "text": "Assessment and treatment of postural hypotension should be a component of fall prevention. The condition, which leads to loss of balance, is usually caused by dehydration, concomitant medication use, or autonomic neuropathy."
+        },
+        {
+            "parent": 6,
+            "text": "Common cardiovascular disorders associated with falls include carotid sinus hypersensitivity, vasovagal syndrome, bradyarrhythmias, and tachyarrhythmias. Dual chamber cardiac pacing may be considered for older persons with cardioinhibitory carotid sinus hypersensitivity who have had unexplained, recurrent falls."
+        },
+        {
+            "parent": 7,
+            "text": "Vitamin D deficiency is common in older persons and can impair muscle strength and neuromuscular function. Supplementation has been shown to be beneficial in preventing falls in older persons with vitamin D deficiency, and possibly in those with normal vitamin D levels. Therefore, vitamin D supplementation (at least 800 IU per day) should be used to treat deficiency, and should be considered for all older persons."
+        },
+        {
+            "parent": 8,
+            "text": "Foot problems, such as bunions, toe or nail deformities, and ulcers, should be identified and treated to prevent falls in older persons. Poor or improper footwear can also increase the risk of falls, and older persons should be advised to wear shoes with low heels and high surface contact area."
+        },
+        {
+            "parent": 9,
+            "text": "A health care professional should assess the patient's home so that it can be modified to reduce or eliminate hazards. Common home hazards include inadequate lighting, absence of railings, and clutter. Safe performance of activities of daily living also should be promoted."
+        },
+        {
+            "parent": 10,
+            "text": "Fall prevention programs should include education about risk factors and strategies to minimize risk. Education may include access to resources (e.g., durable medical equipment, local exercise programs) and opportunities to develop fall prevention skills (e.g., practicing safely getting into the bathtub)."
+        }
+    ],
+    "locked": false
+}

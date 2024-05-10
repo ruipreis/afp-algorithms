@@ -1,0 +1,158 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0900/p253.html#afp20210900p253-f3",
+    "title": "Alcohol Withdrawal Syndrome: Outpatient Management | AAFP",
+    "author": "SAMUEL M. TIGLAO, DO, ERICA S. MEISENHEIMER, MD, AND ROBERT C. OH, MD, MPH",
+    "doi": "Am Fam Physician.2021;104(2):253-262",
+    "abstract": "Approximately one-half of patients with alcohol use disorder who abruptly stop or reduce their alcohol use will develop signs or symptoms of alcohol withdrawal syndrome. The syndrome is due to overactivity of the central and autonomic nervous systems, leading to tremors, insomnia, nausea and vomiting, hallucinations, anxiety, and agitation. If untreated or inadequately treated, withdrawal can progress to generalized tonic-clonic seizures, delirium tremens, and death. The three-question Alcohol Use Disorders Identification Test–Consumption and the Single Alcohol Screening Question instrument have the best accuracy for assessing unhealthy alcohol use in adults 18 years and older. Two commonly used tools to assess withdrawal symptoms are the Clinical Institute Withdrawal Assessment for Alcohol Scale, Revised, and the Short Alcohol Withdrawal Scale. Patients with mild to moderate withdrawal symptoms without additional risk factors for developing severe or complicated withdrawal should be treated as outpatients when possible. Ambulatory withdrawal treatment should include supportive care and pharmacotherapy as appropriate. Mild symptoms can be treated with carbamazepine or gabapentin. Benzodiazepines are first-line therapy for moderate to severe symptoms, with carbamazepine and gabapentin as potential adjunctive or alternative therapies. Physicians should monitor outpatients with alcohol withdrawal syndrome daily for up to five days after their last drink to verify symptom improvement and to evaluate the need for additional treatment. Primary care physicians should offer to initiate long-term treatment for alcohol use disorder, including pharmacotherapy, in addition to withdrawal management.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Recognizing Patients at Risk for AUD",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnostic Criteria",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Assessing Severity",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "MILD SYMPTOMS (CIWA-AR SCORE LESS THAN 10 OR SAWS SCORE LESS THAN 12)",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "MODERATE SYMPTOMS (CIWA-AR SCORE OF 10 TO 18 OR SAWS SCORE GREATER THAN 12)",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "SEVERE OR COMPLICATED SYMPTOMS (CIWA-AR SCORE OF 19 OR MORE)",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OTHER MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Monitoring and Follow-up",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Supporting Long-Term Abstinence",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Alcohol-related disorders cause significant physical, psychological, and societal harm. Diagnostic criteria have integrated alcohol abuse and dependence into a single disorder: alcohol use disorder (AUD;Table 11). AUD has an estimated 12-month and lifetime prevalence of 13.9% and 29.1%, respectively.2Key management principles include promptly recognizing and evaluating for alcohol withdrawal syndrome (AWS), establishing a treatment and monitoring plan, and providing medications and resources to support long-term abstinence."
+        },
+        {
+            "parent": 0,
+            "text": "The U.S. Preventive Services Task Force recommends that primary care physicians screen patients 18 years and older for unhealthy alcohol use and offer appropriate behavioral counseling as indicated.3Several screening instruments can be used to identify hazardous and harmful drinking behaviors. The three-question Alcohol Use Disorders Identification Test–Consumption (AUDIT-C;https://www.mdcalc.com/audit-c-alcohol-use) and the Single Alcohol Screening Question (SASQ) instrument have the best accuracy for assessing unhealthy alcohol use in adults 18 years and older.3Screening positive with either scale should prompt a longer evaluation with the full 10-question AUDIT (https://auditscreen.org/).3"
+        },
+        {
+            "parent": 0,
+            "text": "The SASQ has a sensitivity of 73% to 88% and specificity of 74% to 100% for detecting unhealthy alcohol use.3The question, “How many times in the past year have you had X or more drinks in a day?” where X is five for men and four for women is used in the screening. Any response greater than one is considered positive. In comparison, the full AUDIT is less sensitive (73.9%) but more specific (82.8%) at detecting unhealthy alcohol use.3,4"
+        },
+        {
+            "parent": 0,
+            "text": "Despite the high prevalence of AUD, many patients are undertreated partly because of the stigma associated with the diagnosis.5For patients who are reluctant to tell their physician about their alcohol consumption, the National Institute on Alcohol Abuse and Alcoholism has a website, Rethinking Drinking (https://www.rethinkingdrinking.niaaa.nih.gov/), that provides assessment and motivational tools for moderation and abstinence treatment resources."
+        },
+        {
+            "parent": 1,
+            "text": "Approximately one-half of patients with AUD who abruptly reduce or abstain from alcohol use experience signs or symptoms of AWS.6When patients abruptly stop drinking or reduce their alcohol intake after a prolonged period (more than two weeks) of heavy use, withdrawal symptoms begin within six to 24 hours.7Withdrawal effects are primarily due to the unmasking of the adaptive responses to chronic alcohol use,7including decreased inhibitory activity of alpha-2 receptors, resulting in increased catecholamine levels on presynaptic neurons.Table 2outlines the diagnostic criteria for alcohol withdrawal.1"
+        },
+        {
+            "parent": 2,
+            "text": "The patient's symptom severity should be evaluated using a validated scale to determine the risk of severe or complicated AWS.8The syndrome is classified as mild, moderate, severe, and complicated by the most recent guideline from the American Society of Addiction Medicine.8Patients with mild AWS tend to have mild to moderate anxiety, sweating, and insomnia, but tremor is absent. Moderately severe AWS causes moderate anxiety, sweating, insomnia, and mild tremor. Those with severe AWS experience severe anxiety and moderate to severe tremor, but they do not have confusion, hallucinations, or seizures. Complicated AWS is identified by seizures or signs and symptoms indicative of delirium, such as the inability to fully comprehend instructions, clouding of the sensorium, confusion, or new onset of hallucinations.8Correlating the patient's symptoms in relation to the time since their last drink is useful in anticipating the progression of symptoms. When not properly treated, AWS can progress to delirium tremens(Table 38–10)."
+        },
+        {
+            "parent": 2,
+            "text": "The two most commonly used tools to assess withdrawal symptoms are the Clinical Institute Withdrawal Assessment for Alcohol Scale, Revised (CIWA-Ar;https://www.mdcalc.com/ciwa-ar-alcohol-withdrawal) and the Short Alcohol Withdrawal Scale (SAWS). The CIWA-Ar is a 10-item questionnaire completed by a physician that assesses the signs, symptoms, and severity of alcohol withdrawal to guide benzodiazepine dosing as part of symptom-triggered dosing regimens(Figure 1).11The SAWS is a validated 10-item symptom checklist designed to be a self-assessment completed by the patient(Figure 2).12The initial assessment can help to determine appropriate treatment setting and to monitor symptom improvement."
+        },
+        {
+            "parent": 2,
+            "text": "Physicians may consider laboratory testing that includes a comprehensive metabolic panel (basic metabolic profile and hepatic panel), a complete blood count with differential, urine drug screen, and blood alcohol level.8These results also aid in identifying the risk of severe or complicated withdrawal and determining the appropriate disposition of care."
+        },
+        {
+            "parent": 3,
+            "text": "Treatment goals include reducing withdrawal symptoms, preventing seizures, and preventing progression to delirium tremens, which has a 5% to 10% mortality rate.8–10In appropriate patients, outpatient treatment for AWS is safe and may be preferred.A randomized trial (n = 164) comparing outpatient and inpatient treatment of male veterans with mild to moderate withdrawal symptoms found the duration of therapy was shorter for outpatients.13The American Society of Addiction Medicine guidelines define two levels of outpatient care: Level 1 Withdrawal Management and Level 2 Withdrawal Management.8The two levels differ in their monitoring capabilities, with Level 1 Withdrawal Management being a typical outpatient clinic and Level 2 Withdrawal Management having extended on-site monitoring outside the scope of most primary care clinics. Level 2 Withdrawal Management facilities, including day hospitals, mental health facilities, and addiction treatment facilities, can monitor each patient for several hours each day and have greater access to psychological or psychiatric specialty treatments. Generally, patients experiencing mild symptoms (CIWA-Ar score less than 10) can be managed in Level 1 or Level 2 Withdrawal Management. For those with moderate symptoms, particularly those at increased risk of complicated withdrawal, a Level 2 Withdrawal Management facility may be more appropriate(Figure 38). Those with severe or complicated symptoms or additional risk factors should be treated in an inpatient facility(Table 48). [corrected]"
+        },
+        {
+            "parent": 4,
+            "text": "For patients with mild symptoms who are at minimal risk of developing severe or complicated alcohol withdrawal, treatment options include supportive care with or without pharmacotherapy(Table 58,14). Patients at minimal risk have none of the following factors: history of alcohol withdrawal–related delirium or seizures, multiple prior withdrawal episodes, comorbid illness, age older than 65 years, long duration of alcohol consumption (e.g., heavy alcohol use five or more days in the past month15), seizures during current withdrawal episode, marked autonomic hyperactivity on presentation, and physiologic dependence on GABAergic agents.8"
+        },
+        {
+            "parent": 4,
+            "text": "Supportive care includes educating patients on the course of withdrawal, monitoring for severe withdrawal, instructing them on how to maintain low-stimulation home environments, consuming noncaffeinated fluids, recommending a daily multivitamin containing 400 mcg of folic acid, and prescribing thiamine (typical dosage of 100 mg daily for three to five days).16,17If medications are used, carbamazepine (Tegretol) and gabapentin (Neurontin) are appropriate options for monotherapy but do not reliably prevent withdrawal seizures or delirium tremens.18Gabapentin is effective in treating AUD; patients already taking it should continue during treatment of AWS.18,19"
+        },
+        {
+            "parent": 5,
+            "text": "Benzodiazepines are a first-line therapy for patients experiencing moderate withdrawal symptoms, reducing the risk of seizure and the development of delirium tremens20,21(Table 58,14). Benzodiazepine dosing can be either fixed or symptom triggered. Fixed dosing sets a specific dose and time and is gradually tapered on a set schedule. Symptom-triggered dosing is given as needed based on specific CIWA-Ar or SAWS scores. Symptom-triggered use of benzodiazepines is preferred when the patient or caregiver can reliably assess symptoms and follow the dosing guidelines.22"
+        },
+        {
+            "parent": 5,
+            "text": "Long-acting benzodiazepines, such as chlordiazepoxide (Librium) and diazepam (Valium), can help control and minimize breakthrough symptoms and are preferred over short-acting benzodiazepines.23,24Patients should be monitored for oversedation and respiratory depression, especially if concomitant liver disease is present.25Physicians should consider benzodiazepines with less hepatic metabolism, such as lorazepam (Ativan) and oxazepam (Serax), in patients with liver disease.8If contraindications to benzodiazepines exist or if the risk of use outweighs the benefits, gabapentin, carbamazepine, and phenobarbital may be considered as alternative monotherapies.8,18"
+        },
+        {
+            "parent": 6,
+            "text": "Those with severe or complicated symptoms should be referred to the nearest emergency department for inpatient hospitalization."
+        },
+        {
+            "parent": 7,
+            "text": "Gabapentin, carbamazepine, and valproate (Depacon) may be used adjunctively with benzodiazepines if symptoms persist despite adequate use.18Valproate is currently not recommended as monotherapy for the treatment of alcohol withdrawal.26Alpha-adrenergic agonists (e.g., clonidine) and beta-blocker agonists (e.g., atenolol, metoprolol) may also be used adjunctively with benzodiazepines for persistent hypertension or tachycardia.27,28Evidence does not support the use of oral or intravenous alcohol, baclofen (Lioresal), or magnesium in prophylaxis and treatment of AWS.21,29,30Table 5provides a list of several medications used to treat moderate AWS.8,14"
+        },
+        {
+            "parent": 8,
+            "text": "The frequency and setting for outpatient monitoring of AWS should be guided by symptom severity, risk of complications, and social factors, including reliable social support and a safe home environment. Most patients will require daily evaluations for up to five days after their last drink, but evaluations may increase or decrease in frequency as necessitated by changes in symptom severity.8These visits can be with any health care professional. Face-to-face visits are preferred, but telemedicine appointments can alternate with in-person visits when necessary, for instance during treatment in a viral pandemic.8Evaluation should include multiple indicators of symptom severity and overall health, including mental status, hydration, sleep, mood, suicidality, and substance use. Blood pressure, pulse, and alcohol breath analysis should be obtained whenever possible. The assessment should also include a validated measure of withdrawal symptom severity, ideally with the same instrument as the initial assessment."
+        },
+        {
+            "parent": 8,
+            "text": "Continued symptoms despite multiple doses of the prescribed medication, worsening or severe symptoms (persistent vomiting, hallucinations, confusion, or seizure), signs of oversedation, worsening psychiatric symptoms, or unstable vital signs should prompt transfer to a higher level of care. Symptoms outside of the anticipated withdrawal period or resumption of alcohol use also warrants referral to an addiction specialist or inpatient treatment program."
+        },
+        {
+            "parent": 9,
+            "text": "Long-term treatment of AUD should begin concurrently with the management of AWS.8Successful long-term treatment includes evidence-based community resources and pharmacotherapy. Primary care physicians should offer to initiate appropriate medications."
+        },
+        {
+            "parent": 9,
+            "text": "Currently, three medications are approved by the U.S. Food and Drug Administration for AUD treatment: acamprosate, naltrexone (Revia), and disulfiram (Ant-abuse). Acamprosate and naltrexone have the best evidence for use in AUD and should be initiated in patients who wish to reduce or abstain from alcohol use.31Neither of the medications has been shown consistently to be more effective than the other, and thus the choice should be individualized based on patient and physician preference.31Disulfiram should be considered for patients who have not responded to acamprosate or naltrexone.32"
+        },
+        {
+            "parent": 9,
+            "text": "Gabapentin and topiramate (Topamax), though not approved for this use, may be considered as second-line treatments.33In a randomized controlled trial, patients who started taking gabapentin after three days of abstinence had fewer heavy drinking days (defined as five or more drinks for men and four or more drinks for women) and greater rates of abstinence than those who received placebo.34These results were more pronounced in patients with higher self-reported scores on the Alcohol Withdrawal Severity Checklist than those with lower scores.34,35Antidepressants may be beneficial for concomitant mood disorders but are not used for the treatment of AUD.33"
+        },
+        {
+            "parent": 9,
+            "text": "Community-based support and formal therapeutic interventions should accompany pharmacotherapy. Motivational interviewing and cognitive behavior therapy are beneficial.36A recent Cochrane review found Alcoholics Anonymous and 12-step facilitation programs that follow a specific manual or syllabus to be more effective at increasing rates of abstinence at one-, two-, and three-year follow-up than motivational interviewing or cognitive behavior therapy, with substantial cost savings.37Regular monthly follow-up visits for at least one year can increase abstinence.8"
+        },
+        {
+            "parent": 9,
+            "text": "This article updates previous articles on this topic byMuncie, et al.38;Blondell14; andBayard, et al.10"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:A PubMed search was completed using the key terms alcohol use disorder (AUD), alcohol withdrawal, alcohol dependence, epidemiology, diagnosis, delirium tremens, screening, outpatient, and management. The search included meta-analyses, systematic reviews, practice guidelines, clinical trials, and original studies. Also searched were the Cochrane database, ECRI Guidelines Trust, Essential Evidence Plus, and the U.S. Preventive Services Task Force. Search dates: March 4 and 14, April 15 and 29, and June 15, 2020."
+        },
+        {
+            "parent": 9,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the Uniformed Services University of the Health Sciences, the U.S. Army Medical Department, or the U.S. Army at large."
+        }
+    ],
+    "locked": false
+}

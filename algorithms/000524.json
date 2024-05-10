@@ -1,0 +1,152 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0201/p289.html#afp20100201p289-f1",
+    "title": "Secondary Prevention of Coronary Artery Disease | AAFP",
+    "author": "SCOTT L. HALL, MD, AND TODD LORENC, MD",
+    "doi": "Am Fam Physician.2010;81(3):289-296",
+    "abstract": "Coronary artery disease is the leading cause of mortality in the United States. In patients who have had a myocardial infarction or revascularization procedure, secondary prevention of coronary artery disease by comprehensive risk factor modification reduces mortality, decreases subsequent cardiac events, and improves quality of life. Options for secondary prevention include medical therapy and surgical revascularization in the form of coronary artery bypass grafting or percutaneous coronary intervention. Medical therapy focuses on comprehensive risk factor modification. Therapeutic lifestyle changes (including weight management, physical activity, tobacco cessation, and dietary modification) improve cardiac risk factors and are universally recommended by evidence-based guidelines. Treatment of hypertension and dyslipidemia reduces morbidity and mortality. Recommendations for persons with diabetes mellitus generally encourage glucose control, but current evidence has not shown reductions in mortality with intensive glucose management. Aspirin, angiotensin-converting enzyme inhibitors, and beta blockers reduce recurrent cardiac events in patients after myocardial infarction. Surgical revascularization by coronary artery bypass grafting is recommended for those with significant left main coronary artery stenosis, significant stenosis of the proximal left anterior descending artery, multivessel coronary disease, or disabling angina. Percutaneous coronary intervention may be considered in select patients with objective evidence of ischemia demonstrated by noninvasive testing.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Physical Activity",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Weight and Dietary Management",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Tobacco Cessation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Hypertension",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Beta Blockers",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ACE Inhibitors",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Management of Patients with Diabetes",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Antiplatelet Agents",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Lipid Management",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Influenza Vaccination",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Depression",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "PCI and Coronary Artery Bypass Grafting",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Coronary artery disease (CAD) is the leading cause of death in the United States, with more than 1 million new and recurrent cardiovascular events occurring each year, and its prevalence and impact are expected to grow.1,2Advances in treatment have improved survival after the initial event, but persons with established CAD have a high risk of future cardiovascular events.2"
+        },
+        {
+            "parent": -1,
+            "text": "Recent clinical studies show that persons with CAD can reduce their risk of subsequent cardiovascular events through effective secondary prevention, which reduces mortality and improves quality of life.2Family physicians play an important role in initiating and maintaining risk factor modification using evidence-based standards. This article reviews the risk factors for recurrent CAD, current evidence-based interventions, and comprehensive risk factor improvement strategies."
+        },
+        {
+            "parent": 0,
+            "text": "Regular physical activity is an important component of secondary prevention of CAD; it increases exercise capacity, treats comorbid risk factors, and improves quality of life.3,4Exercise-based cardiac rehabilitation has been shown to reduce all-cause and cardiac mortality compared with usual care.3–7The goal for all patients is 30 to 60 minutes of moderate-intensity physical activity (e.g., brisk walking, biking) on most, if not all, days of the week.2–4,8Consistent physical activity improves cardiovascular risk factors—especially total cholesterol and triglyceride levels—and systolic blood pressure.5"
+        },
+        {
+            "parent": 0,
+            "text": "Exercise-based cardiac rehabilitation programs may be initiated shortly after an acute coronary syndrome or revascularization procedure.2,3Hospital-based cardiac rehabilitation has not been shown to be superior to home-based cardiac rehabilitation for low-risk patients.9Before patients begin a rigorous exercise program, physicians should assess their cardiovascular status by taking a physical activity history or performing an exercise test.4Details of assessment tools and exercise prescriptions were reviewed in a previous article inAmerican Family Physician(AFP;https://www.aafp.org/afp/2008/0415/p1129.html).10"
+        },
+        {
+            "parent": 1,
+            "text": "Obesity is associated with increased CAD mortality and adversely affects cardiac function and comorbid CAD risk factors.11Obesity is classified using the body mass index (BMI;Table 1).11Weight loss is indicated for patients who are classified as overweight or obese according to their BMI. The American Heart Association (AHA) recommends measuring BMI at each office visit, then providing objective feedback and consistent counseling on weight loss strategies.2,4,8,11Long-term weight maintenance is best achieved through a balance of physical activity and moderation of caloric intake; improvements in cardiac risk factors are commonly observed with even modest weight loss (i.e., 10 percent of baseline weight).8,11Insufficient evidence exists to determine whether weight reduction decreases cardiovascular mortality in persons who are obese.11The evidence for current dietary recommendations for primary and secondary prevention of CAD is summarized in a previous article inAFP(https://www.aafp.org/afp/2009/0401/p571.html).12"
+        },
+        {
+            "parent": 2,
+            "text": "Tobacco cessation has been shown to reduce all-cause mortality in patients with established CAD.13,14In a recent Cochrane review, investigators concluded that persons who quit smoking after a myocardial infarction (MI) or cardiac surgery reduce their risk of death by at least one third, and that discontinuing smoking is at least as beneficial as modifying other risk factors.13,14"
+        },
+        {
+            "parent": 2,
+            "text": "Physicians are encouraged to ask about tobacco use at each office visit, and to extend a clear recommendation to quit to every patient who smokes. If a patient is willing to try to quit, physicians can assist with cessation through counseling and pharmacotherapy, which are most effective when combined.15,16Providing behavior therapy, telephone support, and self-help materials for at least one month can help patients with CAD to quit smoking.15,16"
+        },
+        {
+            "parent": 3,
+            "text": "The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC 7) and the AHA recommend treating hypertension (i.e., blood pressure greater than 140/90 mm Hg, or greater than 130/80 mm Hg for persons with diabetes mellitus or chronic kidney disease) for the secondary prevention of CAD.17,18Lifestyle modifications involve weight management, regular physical activity, prudent alcohol consumption, and a low-sodium diet. The JNC 7 and the AHA recommend initial treatment of hypertension after an MI with beta blockers or angiotensin-converting enzyme (ACE) inhibitors, with additional medications added in a stepwise fashion to achieve goal blood pressure.17,18"
+        },
+        {
+            "parent": 4,
+            "text": "Multiple clinical trials have shown that beta-blocker therapy can reduce recurrent MI, sudden cardiac death, and mortality in patients after MI, even in those who are normotensive.19–22Consequently, the AHA has recommended that a beta-blocker regimen be initiated and maintained indefinitely for the secondary prevention of CAD in all patients after having an MI, unless contra-indicated.2,23Common contraindications and precautions for beta-blocker therapy are listed inTable 2.22There is no clear consensus as to which beta blocker is the safest or most effective.22"
+        },
+        {
+            "parent": 5,
+            "text": "Two large randomized trials have demonstrated the benefits of ACE inhibitors in the secondary prevention of CAD. The Heart Outcomes Prevention Evaluation (HOPE) study showed that 10 mg per day of ramipril (Altace) reduced cardiovascular death and MI in those who were at high risk of or had established vascular disease without heart failure.24The European Trial on Reduction of Cardiac Events with Perindopril in Stable Coronary Artery Disease (EUROPA) revealed a 20 percent reduction in cardiovascular mortality and MI in patients with stable CAD without heart failure who were treated with perindopril (Aceon).25Investigators who performed a combined analysis of several studies concluded that there is strong evidence for consistent cardiovascular protection with ACE-inhibitor therapy by improving survival and reducing the risk of major cardiovascular events in patients with vascular disease.26"
+        },
+        {
+            "parent": 6,
+            "text": "The mortality rate of CAD is higher in patients with diabetes than in those without diabetes.27Controversy exists regarding appropriate glucose control for diabetes management. Several guidelines recommend treatment to reduce A1C levels to less than 7 percent; however, recent randomized clinical trials have not demonstrated reductions in cardiovascular events or mortality with intensive glucose control.2,27–30Studies have shown inconsistent improvement with intensive glucose control in microvascular complications, including nephropathy, but increased adverse effects were observed, including weight gain, fluid retention, and symptomatic hypoglycemia.28–31The largest recent trial investigating cardiovascular outcomes with intensive glucose control was discontinued early because of a 22 percent increased risk of all-cause mortality in the group treated toward an A1C goal of 6 percent compared with less-intensive glucose control.28In summary, recent randomized clinical trials have not shown significant reductions in cardiovascular events or mortality with intensive glucose control.28–31"
+        },
+        {
+            "parent": 6,
+            "text": "Secondary prevention of CAD in patients with diabetes also includes treatment of comorbid hypertension, dyslipidemia, and hypercoagulability.32Treatment of diabetes with statins reduces vascular morbidity and mortality regardless of cholesterol values, and a 2008 meta-analysis33reported a proportional reduction in major vascular events, with a reduction in low-density lipoprotein (LDL) cholesterol levels in those with diabetes.27,32–34A multifactorial approach to diabetic care that includes glucose control; blood pressure management with reninangiotensin system blockers; aspirin therapy; and lipid management with statins has been shown to reduce vascular complications and cardiovascular mortality.32"
+        },
+        {
+            "parent": 7,
+            "text": "Antiplatelet agents are recommended in all patients for the secondary prevention of CAD. In a large meta-analysis, antiplatelet therapy reduced recurrent vascular events by one fourth in patients with a previous vascular event.35Aspirin treatment (81 to 162 mg per day) should begin immediately after diagnosis of CAD and continue indefinitely unless contraindicated.2,4,35Clopidogrel (Plavix) is an effective alternative in patients who cannot take aspirin, and the AHA recommends using clopidogrel in combination with aspirin for up to 12 months after an acute cardiac event or percutaneous coronary intervention (PCI) with stent placement.35,36"
+        },
+        {
+            "parent": 8,
+            "text": "Recent clinical trials have demonstrated that reducing cholesterol levels decreases the risk of recurrent coronary events, and evidence-based cholesterol-lowering guidelines have been established by the National Cholesterol Education Program Adult Treatment Panel III (ATP III).37–39The AHA and ATP III recommend that all patients with CAD initiate lipid management through therapeutic lifestyle changes.2,4,38For the secondary prevention of CAD, ATP III recommends LDL levels of less than 100 mg per dL (2.59 mmol per L), with an optional goal of less than 70 mg per dL (1.81 mmol per L); if the LDL level is greater than 130 mg per dL (3.37 mmol per L), cholesterol-lowering medications are indicated in addition to lifestyle changes.38"
+        },
+        {
+            "parent": 8,
+            "text": "Statins should be the initial medication choice; however, additional agents may be considered if the LDL goal is not reached through statin therapy alone.2,37,38Recent studies have shown intensive statin therapy reduces all-cause mortality in patients after acute coronary syndromes compared with standard therapy; consequently, some have encouraged statin use in all patients who have CAD.40,41For every sustained 2 mg per dL reduction in LDL cholesterol, statin therapy has been shown to reduce major coronary events, coronary revascularization, and stroke by 1 percent.41The AHA suggests that physicians consider advising patients to increase dietary intake of omega-3 fatty acids to improve cholesterol levels,42but a Cochrane review found insufficient evidence to recommend for or against supplementation.43"
+        },
+        {
+            "parent": 9,
+            "text": "Influenza vaccination has been shown to reduce the risk of hospitalizations for heart disease and all-cause mortality in older persons, and annual influenza vaccination is recommended by the AHA for patients with CAD.44–46However, a recent Cochrane review concluded that the data were insufficient to evaluate the effect of vaccination in the secondary prevention of CAD.47"
+        },
+        {
+            "parent": 10,
+            "text": "Observational studies have shown that depression is about three times more common in patients after having an MI than in the general population, and 15 to 20 percent of hospitalized patients with acute MI meet criteria for major depression.48Studies have shown that depression is associated with a higher risk of recurrent cardiac events one to two years after an MI.48,49Results of a retrospective review showed that patients with CAD who were depressed and treated with a selective serotonin reuptake inhibitor (SSRI) were 42 percent less likely to experience recurrent MI or death compared with patients who had depression but did not take an antidepressant.48,49However, a subsequent randomized trial in patients who had an MI found that treatment with an SSRI and cognitive behavior therapy (CBT) did not reduce mortality,50and the authors of a recent systematic review concluded that treatment of depression with medication or CBT in patients with cardiovascular disease is associated with modest improvement in depressive symptoms, but no improvement in cardiac outcomes.51The AHA recommends screening for depression during secondary prevention of CAD and, if diagnosed, beginning appropriate treatment.2,4,48,50"
+        },
+        {
+            "parent": 11,
+            "text": "Interventional treatment options for the secondary prevention of CAD include surgical revascularization by coronary artery bypass grafting (CABG) or PCI. No standardized assessment tool exists, but several factors influence decision making, including the extent of CAD, the severity of ischemia on noninvasive testing, and the presence of left ventricular dysfunction.2The AHA recommends that persons with CAD undergo risk stratification by exercise stress testing with left ventricular functional assessment or radionuclide myocardial perfusion imaging to identify who would benefit from surgical intervention.23"
+        },
+        {
+            "parent": 11,
+            "text": "The role of PCI in the secondary prevention of CAD is limited. Clinical trials involving patients with stable CAD have not shown that PCI prevents further events.36,52,53One recent trial showed no difference between optimal medical therapy with PCI versus optimal medical therapy alone for death or recurrent cardiovascular events52; however, PCI remains indicated for treatment of angina in select patients because there may be transient improvement in physical limitations, angina frequency, and quality of life.36,52,53Current guidelines support obtaining objective evidence of ischemia before elective PCI.36,52–54"
+        },
+        {
+            "parent": 11,
+            "text": "CABG has been shown to reduce mortality in patients who have established CAD with appropriate findings on noninvasive testing (Table 3).23For those without indications for CABG, medical therapy should be optimized to minimize disease progression.2,23Despite appropriate medical management, disease progression remains a possibility, and surgical revascularization can be reconsidered based on symptoms and clinical assessment.23Figure 1provides an algorithm of evaluation and treatment considerations for the secondary prevention of CAD.2,23"
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,298 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0401/p409.html#afp20200401p409-fa",
+    "title": "Sepsis: Diagnosis and Management | AAFP",
+    "author": "ROBERT GAUER, MD, DAMON FORBES, MD, AND NATHAN BOYER, MD",
+    "doi": "Am Fam Physician.2020;101(7):409-418",
+    "abstract": "Guidelines published in 2016 provide a revised definition of sepsis: life-threatening organ dysfunction caused by a dysregulated host response to infection. The guidelines define septic shock as sepsis with circulatory, cellular, and metabolic dysfunction that is associated with a higher risk of mortality. The measurement of serum lactate has been incorporated into the latest septic shock definition. The guidelines recommend the Sequential Organ Failure Assessment (original and quick versions) as an important tool for early diagnosis. Respiratory, gastrointestinal, genitourinary, and skin and soft tissue infections are the most common sources of sepsis. Pneumonia is the most common cause of sepsis. Although many patients with sepsis have fever, the clinical manifestation can be subtle, particularly in older patients and those who are immunocompromised. Initial evaluation of patients with suspected sepsis includes basic laboratory tests, cultures, imaging studies as indicated, and sepsis biomarkers such as procalcitonin and lactate levels. Fluid resuscitation is the priority in early management, including administering an intravenous crystalloid at 30 mL per kg within the first three hours. Antimicrobial therapy should also be initiated early. Most research indicates that antimicrobial therapy should be started within three hours of presentation. The latest guidelines recommend starting antimicrobials within one hour, but this is controversial. Vasopressor therapy is indicated if hypotension persists despite fluid administration. Future trials of sepsis management are focusing on improving long-term rates of readmission and death, physical disability, cognitive impairment, and quality of life.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "SIRS CRITERIA",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "SOFA AND qSOFA",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Overall Approach",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "SEPSIS BIOMARKERS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "FLUID RESUSCITATION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ANTIMICROBIAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Vasopressor Therapy",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Other Interventions",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "STANDARD THERAPIES",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "ADJUNCTIVE THERAPIES",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "What Is New",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Sepsis is a substantial global health burden and is the leading cause of death among adults in intensive care units (ICUs).1It affects more than 900,000 people annually in the United States, with an incidence of 535 cases per 100,000 person-years.2Medical advances over the past decade, standardized protocols, and physician awareness have significantly improved survival, but mortality rates remain between 20% and 36%, with approximately 270,000 deaths annually in the United States.3–5"
+        },
+        {
+            "parent": -1,
+            "text": "Sepsis"
+        },
+        {
+            "parent": -1,
+            "text": "2016 guidelines provide a new definition for sepsis: a life-threatening organ dysfunction caused by a dysregulated host response to infection. The guidelines define septic shock as sepsis with circulatory, cellular, and metabolic dysfunction that is associated with a higher risk of mortality; the presence of hypotension is no longer required.*"
+        },
+        {
+            "parent": -1,
+            "text": "Medical advances over the past decade, standardized protocols, and physician awareness have significantly improved survival in patients with sepsis, but mortality rates remain between 20% and 36%, with approximately 270,000 deaths annually in the United States."
+        },
+        {
+            "parent": -1,
+            "text": "Lactate-guided resuscitation (i.e., measuring lactate every four to six hours until levels have normalized) reduces overall mortality compared with no lactate monitoring."
+        },
+        {
+            "parent": -1,
+            "text": "SIRS = systemic inflammatory response syndrome; SOFA = Sequential Organ Failure Assessment."
+        },
+        {
+            "parent": -1,
+            "text": "*—The 2016 guidelines include the SOFA and quick SOFA to aid in diagnosis. Online calculators are available athttps://www.mdcalc.com/sequential-organ-failure-assessment-sofa-scoreandhttps://www.mdcalc.com/qsofa-quick-sofa-score-sepsis. Although the SIRS criteria (https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria) are no longer endorsed in the guidelines, they still have a role in the identification of acute infection."
+        },
+        {
+            "parent": -1,
+            "text": "Of patients with sepsis, 80% are initially treated in an emergency department, and the remainder develop sepsis during hospitalization for other conditions.5Major risk factors for developing sepsis are age of 65 years or older, malnutrition, chronic illness, immunosuppression, recent surgery or hospitalization, and indwelling devices.3Approximately one-third of sepsis cases occur in the postoperative period.6"
+        },
+        {
+            "parent": -1,
+            "text": "Although an increasing number of patients admitted for sepsis become well enough to be discharged from the hospital, these patients have higher rates of readmission and of death within 12 months and significantly reduced physical and cognitive function compared with matched controls.7"
+        },
+        {
+            "parent": 0,
+            "text": "The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) were published by the European Society of Intensive Care Medicine and the Society of Critical Care Medicine and incorporated into the Surviving Sepsis Campaign (SSC) International guidelines in 2016.8,9The terminology was simplified, and sepsis and septic shock are now the only recognized terms.8,9Sepsis is now defined as a life-threatening organ dysfunction caused by a dysregulated host response to infection. Septic shock is defined as sepsis with circulatory, cellular, and metabolic dysfunction that is associated with a higher risk of mortality.8Previously, septic shock was identified by the presence of hypotension. It is now recognized that hypotension can be a late manifestation, and tissue hypoperfusion precedes hypotension. Lactate level, an indirect marker of tissue perfusion, has been incorporated in the diagnosis of septic shock in addition to the need for vasopressor therapy required to maintain mean arterial pressure of greater than 65 mm Hg. In this article, use of the term sepsis includes both sepsis and septic shock unless otherwise specified."
+        },
+        {
+            "parent": 1,
+            "text": "The systemic inflammatory response syndrome (SIRS) criteria (https://www.mdcalc.com/sirs-sepsis-septic-shock-criteria) are no longer part of Sepsis-3. However, SIRS criteria still have a role in the identification of acute infections."
+        },
+        {
+            "parent": 1,
+            "text": "SIRS is defined as the presence of at least two of the following four criteria: temperature greater than 100.4°F (38°C) or less than 96.8°F (36°C); heart rate greater than 90 beats per minute; respiratory rate greater than 20 breaths per minute or partial pressure of carbon dioxide less than 32 mm Hg; and white blood cell count greater than 12,000 per μL (12 × 109per L), less than 4,000 per μL (4 × 109per L), or greater than 10% immature forms."
+        },
+        {
+            "parent": 1,
+            "text": "The overall sensitivity of the SIRS criteria for detecting sepsis is only about 50% to 60%, and one in eight patients admitted to the ICU with sepsis does not meet SIRS criteria.10,11A limitation of the SIRS criteria is that SIRS may be present with noninfectious conditions such as autoimmune disorders, vasculitis, pancreatitis, burns, trauma, or recent surgery."
+        },
+        {
+            "parent": 2,
+            "text": "Sepsis-3 includes the full Sequential Organ Failure Assessment (SOFA) and a quick version (qSOFA) to aid in diagnosis.The qSOFA (https://www.mdcalc.com/qsofa-quick-sofa-score-sepsis) was designed to help clinicians recognize possible sepsis in settings other than the ICU.9,12–14Sepsis should be suspected in patients meeting at least two of the three qSOFA criteria: respiratory rate of 22 breaths per minute or greater, altered mental status, and systolic blood pressure of 100 mm Hg or less. These patients should undergo additional evaluation."
+        },
+        {
+            "parent": 2,
+            "text": "The qSOFA is limited by its low sensitivity (approximately 50%) and because it typically identifies patients who present late in the course of sepsis.14Nonetheless, Sepsis-3 includes qSOFA because it requires no laboratory testing and can be rapidly administered.12,13Until additional diagnostic tools emerge, sepsis should be suspected in patients with a positive score on the SIRS criteria or qSOFA.15"
+        },
+        {
+            "parent": 2,
+            "text": "The full SOFA (https://www.mdcalc.com/sequential-organ-failure-assessment-sofa-score) has been endorsed by the Society of Critical Care Medicine12and is used in the ICU to predict in-hospital mortality. It assesses the severity of dysfunction for six organ systems in critically ill patients. The score is calculated at the time of ICU admission and then every 48 hours. An increase in the SOFA score by at least two points from baseline (assumed to be 0 before sepsis in patients with unknown preexisting organ dysfunction) indicates acute organ dysfunction with a presumptive diagnosis of sepsis and an increase in mortality rate of greater than 20%.13,16"
+        },
+        {
+            "parent": 3,
+            "text": "Respiratory, gastrointestinal, genitourinary, and skin or soft tissue infections are the most common sources of sepsis, accounting for more than 80% of all sepsis cases.17Indwelling devices, endocarditis, and meningitis or encephalitis each account for 1% of sepsis cases.18Pneumonia is the most common cause of sepsis.19"
+        },
+        {
+            "parent": 3,
+            "text": "Bacterial microbes (gram-negative [62%] or gram-positive [47%]) are the most common causative organisms for sepsis.18Some patients with sepsis are infected with multiple microbial organisms. A small number of patients with sepsis have fungal, viral, or parasitic infections."
+        },
+        {
+            "parent": 3,
+            "text": "The source will not be determined in approximately 50% of patients treated for sepsis, which is termed culture-negative sepsis.17,20Respiratory tract infections are more likely to be culture-negative, whereas urinary tract infections are likely to be culture-positive.20"
+        },
+        {
+            "parent": 4,
+            "text": "Despite scientific advances over the past 20 years, the management of sepsis remains largely unchanged(eFigure A). The main difference is the concept of bundles, which are multiple interventions that should be completed within a specified time frame.Use of such sepsis care protocols has been shown to decrease sepsis mortality and should be implemented in all medical facilities.21–24"
+        },
+        {
+            "parent": 4,
+            "text": "After initial airway and respiratory stabilization, patients with sepsis should complete the sepsis bundle (fluid resuscitation, antibiotics, lactate measurement, and cultures) within three hours of presentation.24–27Vasopressor therapy is initiated if the patient is hypotensive despite fluid resuscitation.21,28,29Infection source control with early surgical consultation should be obtained for suspected infections requiring operative or other interventional treatment (e.g., abdominal, gallbladder or biliary, urinary, joint, skin and soft tissue infections)."
+        },
+        {
+            "parent": 5,
+            "text": "Sepsis has a variable presentation depending on the source of the initial infection and may not be apparent until late in the course of illness, when signs and symptoms are obvious. There are several medical conditions that mimic sepsis and should be considered in the differential diagnosis (e.g., acute pulmonary embolus, acute myocardial infarction, acute pancreatitis, acute transfusion reaction, adrenal crisis, acute alcohol withdrawal, thyrotoxicosis).30To improve the diagnosis of sepsis, clinicians must obtain historical, clinical, laboratory, and radiographic data supportive of infection and organ dysfunction.Table 1summarizes the clinical manifestations of sepsis and septic shock.31,32"
+        },
+        {
+            "parent": 6,
+            "text": "Fever is the most common manifestation of sepsis.31The absence of fever, however, does not exclude sepsis. Sepsis-induced hypothermia and the absence of fever are more likely in older adults and in people with chronic alcohol abuse or immunosuppression.33Hypotension is the presenting abnormality in approximately 40% of patients with sepsis.34In older adults, generalized weakness, agitation or irritation, or altered mental status may be the only manifestation."
+        },
+        {
+            "parent": 7,
+            "text": "Laboratory testing should include a complete blood count with differential; basic metabolic panel; lactate, procalcitonin, and liver enzyme measurements; coagulation studies; and urinalysis. Arterial or venous blood sampling can determine the degree of acid-base abnormalities, which are common in sepsis and are likely secondary to tissue hypoperfusion (lactic acidosis) and renal dysfunction.35"
+        },
+        {
+            "parent": 7,
+            "text": "Clinicians should obtain two sets of peripheral blood cultures (including a set from a central venous catheter, if present), as well as cultures of urine, stool (for diarrhea or recent antibiotic use), sputum (for respiratory symptoms), and skin and soft tissue (for skin abscess, ulceration, or drainage). Cerebrospinal, joint, pleural, and peritoneal fluid cultures are obtained as clinically indicated.2,36"
+        },
+        {
+            "parent": 8,
+            "text": "Imaging studies should include chest radiography, with additional studies as indicated (e.g., echocardiography for suspected endocarditis, computed tomography of the chest for empyema or parapneumonic effusion, computed tomography of the abdomen/pelvis for renal or abdominal abscess)."
+        },
+        {
+            "parent": 9,
+            "text": "Procalcitonin is a marker for inflammation produced by cytokines and bacterial endotoxins and is widely used as an indicator for bacterial sepsis. Serum lactate level is also integral to the diagnosis, treatment, and prognosis of sepsis."
+        },
+        {
+            "parent": 9,
+            "text": "A procalcitonin value of less than 0.05 ng per mL is considered normal, and patients with levels less than 0.25 ng per mL have a low likelihood of bacterial sepsis.37Procalcitonin levels rise within four hours after onset of an infection and peak at 12 to 48 hours.38Procalcitonin levels have a statistically significant relationship with the severity of sepsis. For example, in one study, a mean procalcitonin level of 32.7 ng per mL was observed in patients with septic shock requiring vasopressors compared with a mean level of 9.6 ng per mL in patients with sepsis and no shock.39Because of its short half-life, procalcitonin levels are also useful to monitor response to therapy and to provide guidance for antibiotic discontinuation, particularly in bacterial pneumonia. The inability to clear procalcitonin by at least 80% within 72 hours is associated with higher sepsis-related mortality in hospitalized patients.40"
+        },
+        {
+            "parent": 9,
+            "text": "Increased lactate levels in patients with sepsis are the result of tissue hypoxia, aerobic glycolysis, or decreased clearance (e.g., hepatic dysfunction). A lactate level greater than 18 mg per dL (2 mmol per L) is a diagnostic criterion for septic shock in Sepsis-3. Elevated lactate levels should not be dismissed in a patient with sepsis, even with normal blood pressures. Lactate measurements should be obtained every four to six hours until levels have normalized. Lactate-guided fluid resuscitation reduces overall mortality compared with no lactate monitoring.41,42The inability to clear lactate during sepsis management should prompt reevaluation of adequate source control.21"
+        },
+        {
+            "parent": 11,
+            "text": "The priorities in early sepsis management are establishing vascular access and initiating fluid resuscitation.Patients with sepsis should receive an intravenous crystalloid at 30 mL per kg within the first three hours.21Infusing an initial 1-L bolus over the first 30 minutes is an accepted approach. The remainder of fluid resuscitation should be given by repeat bolus infusions.43Infusion of intravenous fluids in this manner enhances preload and cardiac output, thereby improving oxygen delivery. However, the hemodynamic effects of fluid boluses in sepsis last only 60 minutes.44"
+        },
+        {
+            "parent": 11,
+            "text": "Several individual trials showed no difference in 28-day mortality benefit between resuscitation using a colloid (e.g., albumin) and a crystalloid (e.g., normal saline, Ringer lactate); however, a subsequent meta-analysis suggested a marginal mortality benefit with the use of albumin.26,45–47Despite these findings, crystalloids are recommended for fluid resuscitation because of availability and lower cost."
+        },
+        {
+            "parent": 11,
+            "text": "Crystalloid formulations are unbalanced (e.g., 0.9% normal saline) or balanced (e.g., Ringer lactate, Plasma-Lyte A). Large-volume resuscitation with an unbalanced crystalloid can result in hyperchloremic acidosis, coagulopathy, and acute kidney injury. Because of these concerns, there has been an increased interest in the use of balanced crystalloids. In a recent trial comparing balanced crystalloid with normal saline in critically ill adults, the balanced crystalloid led to marginal improvement in mortality (10.3% vs. 11.1%; not statistically significant) and lower incidence of renal dysfunction (14.3% vs. 15.4%; statistically significant). This trial, however, had a heterogenous population with sepsis as the admitting diagnosis in only 15% of patients.48"
+        },
+        {
+            "parent": 11,
+            "text": "Regardless of the fluid used, frequent reassessment of fluid balance beyond initial resuscitation is recommended to avoid under- or overhydration. Dynamic blood pressure response, tissue perfusion (lactate clearance), and most importantly urine output (should be 0.5 mL per kg per hour or greater) can be used to help avoid volume overload, particularly in patients with chronic renal disease, heart failure, or acute lung injury. Additional modalities can be used to determine fluid tolerance and fluid responsiveness (increase in stroke volume) for assessment of optimal fluid management. These include ultrasonography to assess inferior vena cava collapsibility or distensibility, pulse pressure variation (change in the difference between systolic and diastolic pressure), and passive leg raise test (assesses whether cardiac output and blood pressure increase when legs are raised from supine to 45 degrees).49"
+        },
+        {
+            "parent": 11,
+            "text": "Fluid administration should be restricted in the latter phases of sepsis management. At 72 hours, the net fluid balance goal should be close to zero (i.e., patient ultimately voids an amount equal to the fluids given) or slightly negative (i.e., patient voids slightly more than the fluids given). Each 1-L increase in net positive balance at 72 hours is associated with increased risk of death.50–52"
+        },
+        {
+            "parent": 12,
+            "text": "Multiple studies indicate that early initiation of appropriate antibiotic therapy is associated with improved clinical outcomes.4,53–56The precise timing is controversial. SSC guidelines recommend administration of antibiotics within the first hour.21However, such a short time frame may be difficult in most clinical settings.21,28More importantly, this one-hour goal has not been clearly validated by evidence-based protocols. In January 2019, the Society of Critical Care Medicine and the American College of Emergency Physicians issued a joint statement recommending against the one-hour goal.57"
+        },
+        {
+            "parent": 12,
+            "text": "A meta-analysis of 11 trials including 16,178 patients assessed the timing of antibiotic administration.27Patients were 18 years or older and presented to an emergency department with an admission diagnosis of severe sepsis or septic shock. There was no difference in mortality between patients who received antibiotics within three hours of triage in the emergency department and those who received antibiotics within the one hour after severe sepsis or septic shock was recognized. This meta-analysis does not minimize the importance of early antibiotic administration; however, it could not confirm the exact timing for maximal benefit."
+        },
+        {
+            "parent": 12,
+            "text": "A more recent retrospective study evaluated outcomes in more than 10,000 patients presenting to an emergency department with sepsis.58One-year mortality rates were higher for patients receiving antibiotics after three hours compared with those receiving antibiotics within less than three hours. There was no statistically significant difference in mortality rates between patients receiving antibiotics within less than one hour vs. after one hour, supporting the position that the one-hour goal may be unnecessary. The study concluded that one death per 61 patients could be prevented if antibiotics are administered within 90 minutes of sepsis presentation."
+        },
+        {
+            "parent": 12,
+            "text": "Initial antibiotic therapy should be broad and started empirically based on the suspected infection site, likely pathogen, clinical context (community vs. hospital acquired), and local resistance patterns.59–62The use of inappropriate antibiotics is associated with up to a 34% increase in mortality.63,64Antibiotic therapy should be narrowed or redirected once culture results are available and the causative organism has been identified. This approach reduces the risk of antimicrobial resistance, drug toxicity, and overall treatment cost.eTable Asummarizes recommendations for empiric antimicrobial therapy in adults with sepsis and septic shock."
+        },
+        {
+            "parent": 12,
+            "text": "Currently, there is no consensus on de-escalation of combination antibiotic therapy, particularly in culture-negative sepsis. Factors to consider include clinical progress during treatment, use of biomarkers (e.g., decreasing procalcitonin levels) to monitor antibiotic response, and fixed duration of combination therapy."
+        },
+        {
+            "parent": 12,
+            "text": "Antibiotic therapy for seven to 10 days is sufficient for most infections associated with sepsis, including culture-negative sepsis.21Specific infections, such as endocarditis, osteomyelitis, or colonized endovascular devices or orthopedic hardware that cannot be removed, require a longer duration of antibiotic therapy."
+        },
+        {
+            "parent": 13,
+            "text": "Norepinephrine is the first-line vasopressor agent for patientswith septic shock if initial fluid resuscitation fails to restore mean arterial pressure to 65 mm Hg or greater(https://www.mdcalc.com/mean-arterial-pressure-map).21,28,29Vasopressor therapy clearly improves survival in these patients and should be started within the first hour following initial fluid resuscitation.25,29Failure to initiate early vasopressor therapy in patients with septic shock increases mortality rates by 5% per hour of delay.65"
+        },
+        {
+            "parent": 13,
+            "text": "Norepinephrine should be initiated at 2 to 5 mcg per minute and titrated up to 35 to 90 mcg per minute to achieve a mean arterial pressure of 65 mm Hg or greater.28If norepinephrine fails to restore the mean arterial pressure to this level, vasopressin (up to 0.03 units per minute) can be added as a second-line agent, followed by the addition of epinephrine (20 to 50 mcg per minute) if needed.66"
+        },
+        {
+            "parent": 13,
+            "text": "Vasopressor therapy is infused through a central venous catheter with dynamic blood pressure monitoring through an arterial line. Peripheral administration of norepinephrine can be initiated if placement of a central venous catheter is delayed (e.g., pending a consultation, failed attempt at inserting a central venous catheter). This is favored over continued fluid administration if septic shock is unresponsive to fluid resuscitation.67The risk of tissue necrosis from short-term use of vasopressors through a peripheral venous catheter is low.68Vasopressor therapy should be titrated to maintain adequate hemodynamic status and should be used for the shortest duration possible."
+        },
+        {
+            "parent": 15,
+            "text": "Additional therapeutic interventions designed to improve survival include corticosteroids (although evidence is mixed), blood product therapy, glycemic control, nutrition, and source control(Table 2).21,69–73"
+        },
+        {
+            "parent": 16,
+            "text": "A recent small retrospective observational study evaluated the effect of usual care vs. the addition of intravenous ascorbic acid (1,500 mg every six hours), hydrocortisone (50 mg every six hours), and thiamine (200 mg every 12 hours) in patients with sepsis.74,75Patients in the treatment group had decreased mortality (8.5% vs. 40%;P< .001) and decreased time on vasopressor therapy compared with the control group. The major limitation of this trial was sample size (94 patients), but it has generated considerable interest.76A larger clinical trial is ongoing to better assess the effectiveness of this therapy.77"
+        },
+        {
+            "parent": 17,
+            "text": "A recent article analyzed a dataset of more than 20,000 patients to identify those at greatest risk of dying from sepsis using clinical phenotypes. Four phenotypes were derived based on 27 biomarkers.78Patients with the lowest mortality (5%) were taking the lowest doses of vasopressors and patients with the highest mortality (40%) had liver dysfunction and septic shock. This study highlights the clinical heterogeneity of sepsis; however, further research is needed before these clinical phenotypes can be used in clinical practice."
+        },
+        {
+            "parent": 17,
+            "text": "This article updates a previous article on this topic byGauer.79"
+        },
+        {
+            "parent": 17,
+            "text": "Data Sources:We searched OvidSP, PubMed, UptoDate, Google Scholar, andhttp://www.survivingsepsis.org. Key words were sepsis, septic shock, Surviving Sepsis Campaign, pathophysiology, antimicrobial therapy, fluid resuscitation, mortality, epidemiology, hospitalization, long-term follow-up, intensive glucose control, corticosteroids, vasopressor therapy, fluid resuscitation, fluid balance, norepinephrine, procalcitonin, lactate, early goal-directed therapy, systemic inflammatory response syndrome, sequential organ failure assessment, venous thromboembolism prophylaxis, and source control. Search dates: December 7, 2018; January to June 30, 2019; and October 12, 2019."
+        },
+        {
+            "parent": 17,
+            "text": "The views expressed herein are those of the authors and do not reflect the official policy of the Department of the Army, Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

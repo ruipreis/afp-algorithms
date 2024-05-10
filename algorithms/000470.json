@@ -1,0 +1,102 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0415/p933.html#afp20110415p933-f1",
+    "title": "Update on Subclinical Hyperthyroidism | AAFP",
+    "author": "INES DONANGELO, MD, PhD, AND GLENN D. BRAUNSTEIN, MD",
+    "doi": "Am Fam Physician.2011;83(8):933-938",
+    "abstract": "Subclinical hyperthyroidism is defined by low or undetectable serum thyroid-stimulating hormone levels, with normal free thyroxine and total or free triiodothyronine levels. It can be caused by increased endogenous production of thyroid hormone (as in Graves disease or toxic nodular goiter), administration of thyroid hormone for treatment of malignant thyroid disease, or unintentional excessive thyroid hormone therapy. The rate of progression to overt hyperthyroidism is higher in persons who have suppressed thyroid-stimulating hormone levels compared with those who have low but detectable levels. Subclinical hyperthyroidism is associated with an increased risk of atrial fibrillation in older adults, and with decreased bone mineral density in postmenopausal women; however, the effectiveness of treatment in preventing these conditions is unknown. There is lesser-quality evidence suggesting an association between subclinical hyperthyroidism and other cardiovascular effects, including increased heart rate and left ventricular mass, and increased bone turnover markers. Possible associations between subclinical hyperthyroidism and quality of life parameters, cognition, and increased mortality rates are controversial. Prospective randomized controlled trials are needed to address the effects of early treatment on potential morbidities to help determine whether screening should be recommended in the asymptomatic general population.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology and Prevalence",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Natural History",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Cardiovascular and Mortality Risk",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Bone and Mineral Metabolism",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Quality of Life and Cognitive Function",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Screening Guidelines",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Subclinical hyperthyroidism is defined by low or undetectable serum thyroid-stimulating hormone (TSH) levels, with normal free thyroxine (T4) and total or free triiodothyronine (T3) levels.1Currently used third-generation assays are capable of detecting TSH at levels as low as 0.01 to 0.02 mIU per L. Subclinical hyperthyroidism can be divided into two categories: low but detectable TSH levels (0.1 to 0.4 mIU per L), and suppressed TSH levels (less than 0.1 mIU per L).1Although there is compelling evidence that treatment of suppressed TSH is cost-effective, particularly in older adults, the importance of timely diagnosis and treatment of low but detectable TSH levels is controversial. The quality of evidence on the strength of association and benefits of treatment of subclinical hyperthyroidism is summarized inTable 1.1"
+        },
+        {
+            "parent": 0,
+            "text": "Subclinical hyperthyroidism may result from endogenous overproduction of thyroid hormone; it also may be exogenous as a result of intentional administration of thyroid hormone to suppress thyroid malignancy, or unintentional excessive hormone therapy in patients with hypothyroidism. Common causes of endogenous subclinical hyperthyroidism include Graves disease, autonomous functioning thyroid adenoma, and toxic multinodular goiter. Transient TSH suppression may occur during subacute, painless, or postpartum thyroiditis. There is an inverse correlation between population iodine intake and the prevalence of thyroid autonomy (thyroid tissue that functions without TSH), with a higher prevalence in iodinedeficient areas.2The prevalence of subclinical hyperthyroidism varies among studies because of differences in defining the TSH level for subclinical hyperthyroidism, age of the study population, and use of thyroid hormone medication. The Third National Health and Nutrition Examination Survey evaluated thyroid antibodies and TSH and free T4levels in persons older than 12 years who represented the geographic and ethnic distribution of the U.S. population.3The prevalence of TSH levels less than 0.1 mIU per L was 0.7 percent, whereas 3.2 percent had levels less than 0.4 mIU per L."
+        },
+        {
+            "parent": 0,
+            "text": "The prevalence of subclinical hyperthyroidism has been reported to be as high as 15 percent in persons older than 70 years in iodine-deficient regions.4The condition is most common in patients on thyroid hormone therapy, in whom the prevalence may be as high as 20 percent,5,6particularly in those taking desiccated thyroid hormone."
+        },
+        {
+            "parent": 0,
+            "text": "Subclinical hyperthyroidism should be differentiated from other causes of low TSH levels that are not related to relative thyroid overactivity, such as the use of certain drugs (dopamine and glucocorticoids); nonthyroidal illness (euthyroid sick syndrome), pituitary causes (TSH deficiency); hypothalamic causes (thyrotropinreleasing hormone deficiency); and psychiatric conditions, especially affective disorders. T4and T3levels are generally lower in persons with these conditions, whereas patients with subclinical hyperthyroidism may have T4and T3levels in the mid to high reference range. A suggested diagnostic approach for patients with suspected subclinical hyperthyroidism is outlined inFigure 1."
+        },
+        {
+            "parent": 1,
+            "text": "Most patients with subclinical hyperthyroidism will not progress to overt hyperthyroidism. The factors that seem to affect the natural history include the degree of TSH suppression and the etiology. One study prospectively evaluated 102 women older than 60 years who had subclinical hyperthyroidism with TSH levels between 0.1 and 0.4 mIU per L.7Of these women, three (2.9 percent) progressed to overt hyperthyroidism; four (3.9 percent) had TSH levels decrease to less than 0.1 mIU per L, with normal T3and T4levels; 24 (23.5 percent) had normalization of TSH levels; and 71 (69.5 percent) had TSH levels remain at 0.1 to 0.4 mIU per L over a median follow-up of 41 months. This represents a 1 percent progression to overt hyperthyroidism per year. The only predictor of progression was an initial TSH level less than 0.2 mIU per L. Women older than 65 years who had subclinical hyperthyroidism and TSH levels less than 0.1 mIU per L had a 27 percent progression to overt hyperthyroidism over two years,8indicating that the chance of progression is higher in persons with TSH levels less than 0.1 mIU per L."
+        },
+        {
+            "parent": 1,
+            "text": "A retrospective analysis of the natural history of subclinical hyperthyroidism revealed that the course of disease is less predictable in patients with Graves disease than in those with toxic multinodular goiter.9In Graves disease, patients experienced remission, progression, or no change after up to 36 months of follow-up, whereas most patients with subclinical hyperthyroidism caused by multinodular goiter tended to have stable thyroid function during the same follow-up period. Multinodular goiter is more common in iodinedeficient areas, and supplementation with iodine (including iodine-containing medications, such as amiodarone [Cordarone]) has been shown to precipitate subclinical hyperthyroidism.10"
+        },
+        {
+            "parent": 2,
+            "text": "Cardiovascular effects of subclinical hyperthyroidism include an increase in average heart rate, increased risk of atrial arrhythmias, increased left ventricular mass, and reduced heart rate variability.11,12Decreased heart rate variability on 24-hour Holter monitoring was noted in patients with subclinical and overt hyperthyroidism compared with control patients, which may predict an increased risk of subsequent cardiac events.12In a retrospective, population-based study of adults older than 65 years on average, the prevalence of atrial fibrillation in persons with subclinical hyperthyroidism whose TSH levels were less than 0.4 mIU per L was 12.7 percent, compared with 2.3 percent in those with normal TSH levels. The age- and risk f a c tor – adjus t ed risk of atrial fibrillation is 2.8 in persons with subclinical hyperthyroidism compared with euthyroid control patients.13Similarly, two large cohorts of adults older than 60 to 65 years found that subclinical hyperthyroidism is associated with an increased relative risk of developing atrial fibrillation over at least 10 years.14,15"
+        },
+        {
+            "parent": 2,
+            "text": "Subclinical hyperthyroidism is associated with cardiovascular-specific and all-cause mortality, although the data are conflicting. A systematic review of prospective cohort studies that evaluated coronary heart disease and mortality in patients with subclinical hyperthyroidism (TSH levels less than 0.3 to 0.5 mIU per L) found a modest nonsignificant increase in risk.16However, a meta-analysis involving different studies concluded that subclinical hyperthyroidism is associated with a 41 percent higher risk of all-cause mortality compared with euthyroid control patients, and that this risk increases with age.17Recently, two population cohort studies from Germany and Brazil reached conflicting results regarding the association between low TSH levels and mortality risk.18,19In an 8.5-year follow-up study in Pomerania, Germany, adjusted all-cause mortality was not increased in middle-aged patients with TSH levels less than 0.25 mIU per L.18Conversely, Brazilian patients averaging 60 years of age who had TSH levels less than 0.45 mIU per L had a significant 20.3 percent increase in all-cause mortality risk over 7.5 years, but no increase in cardiovascular disease.19"
+        },
+        {
+            "parent": 2,
+            "text": "Two studies evaluated the cardiovascular effects of treatment of low TSH levels with methimazole (Tapazole)20or radioactive iodine.21The first study found that methimazole therapy in patients with suppressed TSH levels significantly decreased heart rate, atrial and ventricular premature beats, and left ventricular wall thickness six months after normalization of TSH levels, becoming similar to that of the control group.20In another study, treatment with radioactive iodine in patients with subclinical hyperthyroidism (TSH levels less than 0.1 mIU per L) caused by multinodular goiter resulted in an 11 percent decrease in heart rate, 19 percent reduction in cardiac output, and a concomitant 30 percent increase in systemic vascular resistance after a mean follow-up period of 224 days after TSH normalization; however, this study lacked a euthyroid control group.21"
+        },
+        {
+            "parent": 3,
+            "text": "Subclinical hyperthyroidism may reduce bone mineral density (BMD), particularly in cortical bone, although the impact is likely influenced by the duration of the disease, associated risk factors for bone loss, and degree of TSH suppression. Loss of bone mass with hyperthyroidism is a result of increased bone turnover caused by imbalance between bone reabsorption and formation,22with a resulting decrease in BMD and increase in bone turnover markers. Although overt hyperthyroidism is associated with increased fracture risk, the studies are conflicting for patients with subclinical hyperthyroidism."
+        },
+        {
+            "parent": 3,
+            "text": "The impact of subclinical hyperthyroidism on BMD is most prominent in postmenopausal women. In a crosssectional study of women with endogenous subclinical hyperthyroidism (TSH levels of 0.01 to 0.1 mIU per L), postmenopausal women had significantly lower BMD at the level of the femur and lumbar regions, whereas premenopausal women had only a modest decrease in BMD in the femur area compared with matched euthyroid control patients.23A meta-analysis of 12 studies also found an association between excessively decreased BMD in postmenopausal women, but not in premenopausal women or in men.24"
+        },
+        {
+            "parent": 3,
+            "text": "There is evidence that suppressed TSH results in increased bone turnover markers, especially in postmenopausal women with exogenous subclinical hyperthyroidism. There are limited studies evaluating bone turnover markers in endogenous subclinical hyperthyroidism; however, the findings are similar. The evidence suggests bone benefit from treating postmenopausal women with subclinical hyperthyroidism. In one study, postmenopausal women with subclinical hyperthyroidism (TSH levels less than 0.2 mIU per L) due to multinodular goiter were treated with radioactive iodine ablation or were not treated, and were followed for two years.25Treated patients had normal TSH levels and no significant change in lumbar and hip BMD, whereas the untreated patients with low TSH levels had a continued loss of bone mass of about 1 to 2 percent per year. Another study found a significant increase in BMD in persons with overt or subclinical hyperthyroidism (2.8 and 1.5 percent, respectively) after six months of normalization of thyroid function tests.26"
+        },
+        {
+            "parent": 4,
+            "text": "Patients with subclinical hyperthyroidism may experience increased signs and symptoms of adrenergic overactivity, particularly those younger than 50 years. Quality of life and specific signs and symptoms of excess thyroid hormone were assessed in 23 patients approximately 43 years of age (± nine years) who had TSH levels less than 0.3 mIU per L.11Compared with age- and sex-matched euthyroid control patients, those with low TSH levels had a higher prevalence of palpitations, nervousness, tremor, heat intolerance, and sweating, and lower functional health and well-being. However, recent studies did not find a correlation between TSH levels and health-related quality of life scores in patients who had been treated for hyperthyroidism,27or in a communitybased study of women that included patients with subclinical hyperthyroidism.28"
+        },
+        {
+            "parent": 4,
+            "text": "The association between low TSH levels and dementia is controversial. The population-based prospective Rotterdam study evaluated a random sample of 1,846 patients older than 55 years, and found that TSH levels less than 0.4 mIU per L were associated with a 3.5-fold increased risk of dementia and Alzheimer disease during a two- to four-year follow-up.29This risk was significantly higher in patients with both low TSH levels and positive antithyroid peroxidase antibodies, raising the possibility of an autoimmune mechanism. However, a recent study with the same population did not find an association between incident dementia or Alzheimer disease and TSH levels in a five-year follow-up.30A population-based study in Italy revealed that patients older than 65 years who had TSH levels less than 0.46 mIU per L had lower Mini-Mental State Examination scores compared with euthyroid agematched control patients (22.61 ± 6.88 versus 24.72 ± 4.52, respectively [P< .03]).31In multivariate regression analysis, these patients had a more than twofold higher likelihood of cognitive impairment compared with agematched control patients.31Further studies are needed to clarify whether there is a causal relationship between subclinical hyperthyroidism and cognitive decline, or whether the association between low TSH levels and dementia is confounded by a higher prevalence of nonthyroidal illness in older adults."
+        },
+        {
+            "parent": 5,
+            "text": "There is no consensus regarding screening for subclinical hyperthyroidism in the general population. A criterion for recommending a screening test should be that detection and treatment of a disorder in asymptomatic persons would result in measurable improvement in health outcomes compared with persons who are not screened. The U.S. Preventive Services Task Force concluded in 2004 that there is good evidence that an undetectable TSH level is a risk factor for later development of atrial fibrillation, but there are no studies addressing whether treatment would prevent this complication.32Similarly, a panel representing members of the American Thyroid Association, the American Association of Clinical Endocrinologists, and The Endocrine Society published the conclusions of their consensus conference evaluating the strength of the evidence for the management of subclinical thyroid disease with a recommendation against population-based screening for thyroid disease.1However, it is also emphasized that recommendations derived from evidence-based medicine are population-based, and that physicians should use their best clinical judgment in the context of the recommendations for screening in individual patients."
+        }
+    ],
+    "locked": false
+}

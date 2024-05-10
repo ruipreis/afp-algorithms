@@ -1,0 +1,199 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0415/p1529.html#afp20050415p1529-f2",
+    "title": "Evaluation of Chronic Dyspnea | AAFP",
+    "author": "NEEL G. KARNANI, M.D., GARY M. REISFIELD, M.D., AND GEORGE R. WILSON, M.D.",
+    "doi": "Am Fam Physician.2005;71(8):1529-1537",
+    "abstract": "Chronic dyspnea is defined as dyspnea lasting more than one month. In approximately two thirds of patients presenting with dyspnea, the underlying cause is cardiopulmonary disease. Establishing an accurate diagnosis is essential because treatment differs depending on the underlying condition. Asthma, congestive heart failure, chronic obstructive pulmonary disease, pneumonia, cardiac ischemia, interstitial lung disease, and psychogenic causes account for 85 percent of patients with this principal symptom. The history and physical examination should guide selection of initial diagnostic tests such as electrocardiogram, chest radiograph, pulse oximetry, spirometry, complete blood count, and metabolic panel. If these are inconclusive, additional testing is indicated. Formal pulmonary function testing may be needed to establish a diagnosis of asthma, chronic obstructive pulmonary disease, or interstitial lung disease. High-resolution computed tomography is particularly useful for diagnosing interstitial lung disease, idiopathic pulmonary fibrosis, bronchiectasis, or pulmonary embolism. Echocardiography and brain natriuretic peptide levels help establish a diagnosis of congestive heart failure. If the diagnosis remains unclear, additional tests may be required. These include ventilation perfusion scans, Holter monitoring, cardiac catheterization, esophageal pH monitoring, lung biopsy, and cardiopulmonary exercise testing.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Assessment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Initial Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "ELECTROCARDIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "CHEST RADIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "COMPLETE BLOOD COUNT AND METABOLIC PANEL",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "SPIROMETRY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PULSE OXIMETRY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Selective Testing",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "PULMONARY FUNCTION TESTING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "TESTS FOR PULMONARY VASCULAR DISEASE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "TESTS FOR CARDIAC DISEASE",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Additional Testing for Difficult Cases",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Guidelines for Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Dyspnea is a common symptom in patients presenting to the primary care office. The proportion of office visits for this symptom rises with age, with a peak incidence in patients who are 55 to 69 years of age.1Many patients will have a likely cause of dyspnea, such as exacerbation of known asthma, chronic obstructive pulmonary disease (COPD), or heart failure; however, many other patients will require a thorough diagnostic evaluation to establish the underlying cause. This article reviews the salient features of the history, physical examination, laboratory testing, office spirometry, and imaging in patients with dyspnea, as well as more specialized testing that is required if the cause remains unexplained after initial evaluation."
+        },
+        {
+            "parent": 0,
+            "text": "In a consensus statement,2the American Thoracic Society defined dyspnea as “a subjective experience of breathing discomfort that consists of qualitatively distinct sensations that vary in intensity.” Chronic dyspnea is defined as dyspnea lasting longer than one month."
+        },
+        {
+            "parent": 0,
+            "text": "Dyspnea is a subjective phenomenon based on the variation in severity for a given degree of functional impairment.3This condition also is considered a “synthetic” sensation (like thirst) because it is composed of a variety of afferent sources. These sources arise from the automatic centers in the brain stem and the motor cortex, as well as from receptors in the upper airway, lungs, and chest wall.2,4Other factors that contribute to the variability of dyspnea are the type of stimulus involved, the situational context, behavioral influences, and the patient's ability to describe the sensation. Some of the more common descriptors include: “I cannot get enough air,” or “My chest feels tight.” However, several studies5–7have failed to establish an association between the type of descriptors used by patients and the underlying pathophysiology of dyspnea."
+        },
+        {
+            "parent": 1,
+            "text": "The differential diagnosis of chronic dyspnea in adults is presented inTable 1.8The underlying cause of dyspnea cannot be determined by the duration or severity.9Approximately two thirds of cases of dyspnea are caused by a pulmonary or cardiac disorder.10Asthma, congestive heart failure, COPD, pneumonia, cardiac ischemia, interstitial lung disease, and psychogenic conditions (e.g., generalized anxiety disorder, panic disorders, post-traumatic stress disorder) are the cause of dyspnea in 85 percent of patients with this principal symptom.9,11In one study9of patients with dyspnea that was unexplained by history, physical examination, chest radiography, and spirometry, the most common causes of chronic dyspnea were COPD, congestive heart failure, psychogenic causes, and deconditioning."
+        },
+        {
+            "parent": 1,
+            "text": "The first step in the evaluation of patients with suspected chronic dyspnea is to establish the primary organ system involved: pulmonary, cardiac, both, or neither. Studies11have shown the diagnosis of dyspnea to be multifactorial in approximately one third of patients. When a patient continues to experience breathlessness despite maximal therapy, the presence of a coexisting factor, such as deconditioning or emotional response to illness, should be considered.2Patients with chronic cardiopulmonary disease may gradually limit their activities because of dyspnea associated with exertion. However, a sedentary lifestyle leads to further cardiovascular deconditioning that will worsen the effects of exertional dyspnea."
+        },
+        {
+            "parent": 2,
+            "text": "Key features of the history and physical examination may provide diagnostic clues or suggest an investigative pathway (Table 28). In at least one half of patients, the diagnosis can be made based on the history.12In a study1of dyspnea in a pulmonary specialty clinic, the history, physical examination, and chest radiography were 81 percent accurate for the four most common diagnoses."
+        },
+        {
+            "parent": 2,
+            "text": "The Global Initiative for Chronic Obstructive Lung Disease (GOLD) workshop report13states that chronic productive cough, chronic sputum production, progressive and persistent dyspnea that is exacerbated by respiratory infections, and exposure to risk factors (primarily smoking and occupational dust) are key indicators for considering a diagnosis of COPD. However, the sensitivity of the physical examination for detecting mild to moderate COPD is relatively poor.14The most useful findings of the clinical examination for a diagnosis of COPD are: wheezing (positive likelihood ratio [LR+] = 15.0); smoking for at least 40 pack-years (LR+ = 8.0); rhonchi (LR+ = 8.0); hyperresonance to percussion (LR+ = 5.3); and forced expiratory time greater than 9 seconds (LR+ = 4.8). A global physician impression of moderate to severe COPD also was fairly accurate (LR+ = 4.2).15,16"
+        },
+        {
+            "parent": 2,
+            "text": "In patients with more severe COPD, the clinical examination may reveal a barrel-chested appearance and/or hyperresonance on percussion. Chest radiographs may reveal signs of hyperinflation (Figure 1). The most useful study for confirmation of COPD is pulmonary function testing."
+        },
+        {
+            "parent": 2,
+            "text": "Dyspnea on exertion is usually the earliest symptom of heart failure.17However, the occurrence of paroxysmal nocturnal dyspnea is a more specific indicator of heart failure. Physical examination findings that are the best indicators of left ventricular dysfunction include S3gallop (LR+ = 24.0), a displaced apical impulse (LR+= 16.5), and jugular venous distension (LR+ = 8.5).18Given an overall likelihood of heart failure of 33 percent, the presence of any one of these findings increases the likelihood of heart failure to more than 80 percent. The presence of all three signs is virtually diagnostic of heart failure.19"
+        },
+        {
+            "parent": 2,
+            "text": "Because the physical examination for asthma is usually noncontributory unless there is wheezing at the time of the visit, a high index of suspicion for asthma is essential for diagnosis. An episodic pattern of respiratory symptoms and possible precipitating factors (e.g., exercise) are important diagnostic clues. In one study,968 percent of patients with an intermittent pattern of dyspnea had asthma or hyperventilation, and only 32 percent did not. The diagnosis of asthma can be confirmed with spirometry, which usually reveals airflow obstruction that is partially reversible after inhaling a short-acting bronchodilator. Broncho-provocation with methacholine or exercise challenge may be useful in patients with suspected asthma and normal spirometry. A recent study20suggests that elevated exhaled nitric oxide in patients with asthma may provide an additional tool for diagnosis."
+        },
+        {
+            "parent": 2,
+            "text": "Exertional dyspnea is present in most patients with interstitial lung disease, but it is not a highly specific sign. More useful diagnostic indicators are the presence of persistent and inspiratory crackles (heard in 80 percent of patients) that do not clear with cough or deep inspiration and persistent reticular or alveolar abnormalities on chest radiographs. Clubbing is present in 25 to 50 percent of patients with idiopathic pulmonary fibrosis.21In more advanced cases of idiopathic pulmonary fibrosis with a vital capacity less than 50 percent, signs of secondary pulmonary hypertension may be present. These include an accentuated P2, right ventricular heave, and tricuspid regurgitation murmur.22"
+        },
+        {
+            "parent": 3,
+            "text": "An algorithm for the evaluation of chronic dyspnea is presented inFigure 2.23The algorithm begins with a careful history and physical examination that should guide the physician to appropriate initial testing."
+        },
+        {
+            "parent": 4,
+            "text": "Electrocardiography may reveal a disturbance of heart rate or rhythm. There may be evidence of cardiac ischemia, ventricular hypertrophy, or pericardial disease. The presence of heart failure is highly unlikely in patients with a normal electrocardiogram.18"
+        },
+        {
+            "parent": 5,
+            "text": "Chest radiography may reveal chest wall abnormalities, lung parenchymal disease (e.g., COPD), neoplastic lesions, congestive heart failure, or pleural disease."
+        },
+        {
+            "parent": 6,
+            "text": "Profound anemia is an unusual but important cause of chronic dyspnea. Secondary erythrocytosis may be present in patients with advanced COPD. Changes in acid-base balance, reflected by the bicarbonate level in a metabolic panel, may provide a clue to dyspnea. Respiratory acidosis, occurring in patients with severe cases of COPD, interstitial lung disease, and neuromuscular disorders, leads to a metabolic compensation resulting in an elevated bicarbonate level."
+        },
+        {
+            "parent": 7,
+            "text": "This test is useful in distinguishing obstructive lung disorders from restrictive lung disorders. It is highly effort dependent, which can be challenging in older or impaired patients, especially when measuring forced vital capacity (FVC). However, forced expiratory volume in six seconds (FEV6) has been shown to be an acceptable surrogate for FVC in the spirometric diagnosis of obstructive disease and possibly in restrictive lung disease.24Most of the newer spirometers are equipped to measure FEV6. Although the FEV in one second (FEV1) and FVC are reduced proportionately in patients with restrictive lung disease, the FEV1is reduced more than the FVC in those with obstructive lung disease. Therefore, a ratio of FEV1/FVC less than 0.7 or 0.8 is a common diagnostic criterion for COPD."
+        },
+        {
+            "parent": 8,
+            "text": "Desaturation at rest or after exercise is a sensitive indicator of gas exchange abnormalities. If abnormal, consideration should be given to obtaining arterial blood gas measurements."
+        },
+        {
+            "parent": 10,
+            "text": "The primary limitation of spirometry is its inability to measure lung volumes, including the total amount of air in the lungs at full inspiration (total lung capacity [TLC]), the amount of air remaining in the lungs at the end of passive expiration (functional residual capacity [FRC]), or the amount of air remaining after maximal expiration (residual volume [RV]). The TLC is reduced in restrictive disorders and normal or increased in obstructive disorders as a result of air trapping. In restrictive disorders caused by lung parenchymal disease, all lung volumes are proportionately reduced. In contrast, with other restrictive diseases (e.g., neuromuscular disease or chest wall restriction) the RV and the RV/TLC ratio are increased."
+        },
+        {
+            "parent": 10,
+            "text": "With the use of carbon monoxide, which is a highly diffusible gas, the gas-transfer function of the lung can be estimated by measuring the diffusing capacity of the lung for carbon monoxide (DLCO). This is reduced in patients with diseases affecting the lung parenchyma, vascular abnormalities, anemia, and conditions where there is a reduction of effective lung volume (e.g., after lung resection). DLCO may be elevated in conditions where there is an increased effective pulmonary blood volume, such as asthma, obesity, left-to-right cardiac shunts, and polycythemia. Performing a broncho-provocation challenge using methacholine can identify airway hyperreactivity. A 20 percent reduction in FEV1 is considered diagnostic of asthma."
+        },
+        {
+            "parent": 11,
+            "text": "Pulmonary hypertension may be primary (rare) or secondary to a pulmonary, cardiac, or extrathoracic pathology. Two-dimensional echocardiography with Doppler flow studies is the most useful imaging modality to demonstrate elevated pulmonary artery pressures and the resultant tricuspid regurgitation.25If the etiology of pulmonary hypertension remains unexplained after appropriate testing, chronic thromboembolism should be suspected. Ventilation-perfusion scanning or spiral computed tomography of the chest may be used to confirm this diagnosis. Right heart catheterization may be required to confirm or diagnose less common causes of pulmonary hypertension."
+        },
+        {
+            "parent": 12,
+            "text": "The test of choice for diagnosing most cardiac causes of chronic dyspnea is echocardiography, especially if heart failure is suspected. However, as many as 40 percent of patients with clinical evidence of congestive heart failure have diastolic dysfunction with preserved left ventricular systolic function.26In such cases, the diagnosis is suggested by the findings of left ventricular hypertrophy, dilated left atrium, and reversal of the normal pattern of flow velocity across the mitral valve. Other cardiac pathologies that can be demonstrated on echocardiography include valvular dysfunction, atrial tumors, and pericardial disease."
+        },
+        {
+            "parent": 12,
+            "text": "Brain natriuretic peptide (BNP), also known as B-type natriuretic peptide, is a neurohormone synthesized by ventricular myocytes that is useful in the diagnosis of heart failure. It is released in response to pressure/volume overload resulting in increased wall tension. The magnitude of elevation is proportional to the severity of heart failure and the New York Heart Association functional classification.27Using a threshold of 100 pg per mL, the test is 82 percent sensitive and 99 percent specific.27Table 328compares the specificity, sensitivity, and post-test probabilities of different cutoffs for an abnormal BNP test with echocardiographic diagnoses of left ventricular dysfunction (systolic or diastolic). This test is available as a point-of-care assay. Although an absolute standard for the diagnosis of congestive heart failure does not exist, the BNP test may be helpful, especially in patients who have coexisting cardiac and pulmonary disease and if there is uncertainty about the primary cause of dyspnea."
+        },
+        {
+            "parent": 13,
+            "text": "Cardiopulmonary exercise testing is a sophisticated procedure that helps quantify cardiac function, pulmonary gas exchange, ventilation, and physical fitness.29It is especially useful in cases where no apparent cause for dyspnea is found after a thorough evaluation or in patients who have multiple potential causes for dyspnea.29Parameters that are measured by computerized systems are blood pressure, electrocardiography, heart rate, ventilation, oxygen saturation, oxygen uptake, and carbon dioxide output."
+        },
+        {
+            "parent": 13,
+            "text": "Patients who have obstructive lung disease generally will display a decrease in maximal oxygen uptake. Patients with interstitial restrictive disease have abnormalities of gas exchange and pulmonary mechanics. Patients who have cardiac disease exhibit a lower than predicted maximal heart rate. Low cardiac output is reflected by decreased maximal oxygen uptake and anaerobic metabolism at low workloads. Additionally, there may be abnormalities of the electrocardiogram and the blood pressure response may be blunted. Deconditioning results in a decreased maximal oxygen uptake but normal gas exchange and breathing reserve. In these patients, the heart rate, cardiac output, and blood pressure rise appropriately in response to exercise."
+        },
+        {
+            "parent": 13,
+            "text": "Cardiac arrhythmias (most commonly atrial fibrillation) may be the sole cause of dyspnea or may exacerbate other cardiac causes, such as cardiomyopathy. Intermittent arrhythmias can be diagnosed using a Holter monitor or an event recorder. In some patients with coronary artery disease, dyspnea may represent an anginal equivalent. Noninvasive cardiovascular testing (e.g., stress thallium, stress echocardiography, cardiac magnetic resonance imaging) cardiac catheterization should be considered for these patients."
+        },
+        {
+            "parent": 13,
+            "text": "High-resolution computed tomography (CT) scan may be useful for patients in whom an etiology is unclear. High-resolution CT is especially helpful in diagnosing unsuspected interstitial lung disease. In one series,30approximately 85 percent of patients with findings of upper-lung irregular lines and lower-lung honeycombing on high-resolution CT had idiopathic pulmonary fibrosis(Figure 3). High-resolution CT also is the preferred test for diagnosing bronchiectasis and can identify pulmonary embolism, particularly in larger vessels."
+        },
+        {
+            "parent": 13,
+            "text": "Lung biopsy may be indicated in cases of interstitial lung disease that are difficult to diagnose or when malignancy is suspected. Depending on the specific clinical situation, the biopsy may be transbronchial, video-assisted thoracoscopic surgery, or open lung biopsy. Studies1,9have identified an association between gastroesophageal reflux and chronic dyspnea despite normal pulmonary function tests. Reflux may stimulate vagal reflexes that inhibit diaphragmatic function, thereby causing breathlessness. This etiology can be established by performing a 24-hour pH monitoring."
+        },
+        {
+            "parent": 14,
+            "text": "When the underlying cause of dyspnea cannot be established definitively or when symptoms are disproportionate to the apparent severity of the disease, subspecialty consultation is indicated. Referral also is required when a specific diagnostic procedure is needed to establish a diagnosis (e.g., lung biopsy or cardiac catheterization). Finally, patients who do not respond to therapy will need consultation with subspecialists to confirm the diagnosis or maximize therapy."
+        }
+    ],
+    "locked": false
+}

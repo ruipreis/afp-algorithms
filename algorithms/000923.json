@@ -1,0 +1,269 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2000/0215/p1080.html#afp20000215p1080-f2",
+    "title": "Ectopic Pregnancy | AAFP",
+    "author": "JOSIE L. TENORE, M.D., S.M.",
+    "doi": "Am Fam Physician.2000;61(4):1080-1088",
+    "abstract": "Ectopic pregnancy occurs at a rate of 19.7 cases per 1,000 pregnancies in North America and is a leading cause of maternal mortality in the first trimester. Greater awareness of risk factors and improved technology (biochemical markers and ultrasonography) allow ectopic pregnancy to be identified before the development of life-threatening events. The evaluation may include a combination of determination of urine and serum human chorionic gonadotropin (hCG) levels, serum progesterone levels, ultrasonography, culdocentesis and laparoscopy. Key to the diagnosis is determination of the presence or absence of an intrauterine gestational sac correlated with quantitative serum beta-subunit hCG (ß-hCG) levels. An ectopic pregnancy should be suspected if transvaginal ultrasonography shows no intrauterine gestational sac when the ß-hCG level is higher than 1,500 mlU per mL (1,500 IU per L). If the ß-hCG level plateaus or fails to double in 48 hours and the ultrasound examination fails to identify an intrauterine gestational sac, uterine curettage may determine the presence or absence of chorionic villi. Although past treatment consisted of an open laparotomy and salpingectomy, current laparoscopic techniques for unruptured ectopic pregnancy emphasize tubal preservation. Other treatment options include the use of methotrexate therapy for small, unruptured ectopic pregnancies in hemodynamically stable patients. Expectant management may have a role when ß-hCG levels are low and declining.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "RISK FACTORS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Clinical Findings",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "BIOCHEMICAL MARKERS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "OTHER DIAGNOSTIC MODALITIES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "INITIAL EVALUATION UNCLEAR",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "EXPECTANT MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "MEDICAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Heterotopic Pregnancy",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Ectopic pregnancy is any pregnancy in which the fertilized ovum implants outside the intrauterine cavity. More than 95 percent of ectopic pregnancies occur in the fallopian tubes.1Another 2.5 percent occur in the cornua of the uterus, and the remainder are found in the ovary, cervix or abdominal cavity.1Because none of these anatomic sites can accommodate placental attachment or a growing embryo, the potential for rupture and hemorrhage always exists. A ruptured ectopic pregnancy is a true medical emergency. It is the leading cause of maternal mortality in the first trimester and accounts for 10 to 15 percent of all maternal deaths.2–4"
+        },
+        {
+            "parent": -1,
+            "text": "Modern advances in ultrasound technology and the determination of serum beta-subunit human chorionic gonadotropin (β-hCG) levels have made it easier to diagnose ectopic pregnancy. Nonetheless, the diagnosis remains a challenge."
+        },
+        {
+            "parent": 0,
+            "text": "The number of ectopic pregnancies has increased dramatically in the past few decades. Based on hospital discharge data, the incidence of ectopic pregnancy has risen from 4.5 cases per 1,000 pregnancies in 19705,6to 19.7 cases per 1,000 pregnancies in 1992.2The rise can be attributed partly to increases in certain risk factors but mostly to improved diagnostics. Some ectopic pregnancies detected today, for instance, would have spontaneously resolved without detection or intervention in the past. Ectopic pregnancy is more often detected in women over 35 years of age and in non-white ethnic groups.1"
+        },
+        {
+            "parent": 0,
+            "text": "The case-fatality rate has declined from 35.5 maternal deaths per 10,000 ectopic pregnancies in 1970 to only 3.8 maternal deaths per 10,000 ectopic pregnancies in 1989.6Even though overall survival has increased, the risk of death associated with ectopic pregnancy remains higher among black and other non-white minority women."
+        },
+        {
+            "parent": 1,
+            "text": "Several factors increase the risk of ectopic pregnancy(Table 1). These risk factors share a common mechanism of action—namely, interference with fallopian tube function. Normally, an egg is fertilized in the fallopian tube and then travels down the tube to the implantation site. Any mechanism that interferes with the normal function of the fallopian tube during this process increases the risk of ectopic pregnancy. The mechanism can be anatomic (e.g., scarring that blocks transport of the egg) or functional (e.g., impaired tubal mobility)."
+        },
+        {
+            "parent": 1,
+            "text": "In the general population, pelvic inflammatory disease is the most common risk factor for ectopic pregnancy. Organisms that preferentially attack the fallopian tubes includeNeisseria gonorrhoeae, Chlamydia trachomatisand mixed aerobes and anaerobes. Unlike mixed aerobes and anaerobes,N. gonorrhoeaeandC. trachomatiscan produce silent infections. In women with these infections, even early treatment does not necessarily prevent tubal damage.7"
+        },
+        {
+            "parent": 1,
+            "text": "Intrauterine devices (IUDs) used for contraception do not increase the risk of ectopic pregnancy, and no evidence suggests that currently available IUDs cause pelvic inflammatory disease. One explanation for the mistaken association of IUDs with ectopic pregnancy may be that when an IUD is present, ectopic pregnancy occurs more often than intrauterine pregnancy.1,8Simply because IUDs are more effective in preventing intrauterine pregnancy than ectopic pregnancy, implantation is more likely to occur in an ectopic location."
+        },
+        {
+            "parent": 1,
+            "text": "Previous ectopic pregnancy becomes a more significant risk factor with each successive occurrence. With one previous ectopic pregnancy treated by linear salpingostomy, the recurrence rate ranges from 15 to 20 percent, depending on the integrity of the contralateral tube.1,9Two previous ectopic pregnancies increase the risk of recurrence to 32 percent, although an intervening intrauterine pregnancy lowers this rate.1,10"
+        },
+        {
+            "parent": 1,
+            "text": "Endometriosis, tubal surgery and pelvic surgery result in pelvic and tubal adhesions and abnormal tubal function. The fallopian tubes may also be affected by other, less clearly understood causes of infertility, as well as many of the hormones that are administered to aid ovulation and improve fertility.10"
+        },
+        {
+            "parent": 1,
+            "text": "In utero exposure to diethylstilbestrol (DES) is associated with uterotubal anomalies ranging from gross structural abnormalities such as a double uterus to more subtle microscopic abnormalities resulting in tubal dysfunction.1,10,11Any uterotubal anomalies, with or without DES exposure, increase the risk of ectopic pregnancy."
+        },
+        {
+            "parent": 1,
+            "text": "Cigarette smoking has an independent and dose-related effect on the risk of ectopic pregnancy. Cigarette smoking is known to affect ciliary action in the nasopharynx and respiratory tract. A similar effect may occur within the fallopian tubes.3,12"
+        },
+        {
+            "parent": 1,
+            "text": "Multiple sexual partners, early age at first intercourse and vaginal douching are often considered risk factors for ectopic pregnancy. The mechanism of action for these risk factors is indirect, in that they are markers for the development of sexually transmitted disease, ascending infection, or both.3,10"
+        },
+        {
+            "parent": 2,
+            "text": "Recent technologic improvements have made it possible to diagnose ectopic pregnancy earlier. This has altered the clinical presentation from that of a life-threatening surgical emergency to a less severe constellation of signs and symptoms."
+        },
+        {
+            "parent": 2,
+            "text": "Historically, the hallmark of ectopic pregnancy has been abdominal pain with spotting, usually occurring six to eight weeks after the last normal menstrual period. This remains the most common presentation of tubal pregnancy in symptomatic patients. Other presentations depend on the location of the ectopic pregnancy. Less commonly, ectopic pregnancy presents with pain radiating to the shoulder, vaginal bleeding, syncope and/or hypovolemic shock."
+        },
+        {
+            "parent": 2,
+            "text": "Physical findings include a normal or slightly enlarged uterus, pelvic pain with movement of the cervix and a palpable adnexal mass. Findings such as hypotension and marked abdominal tenderness with guarding and rebound tenderness suggest a leaking or ruptured ectopic pregnancy. Case reports indicate that viable abdominal ectopic pregnancies may be discovered at cesarean section, albeit rarely.13"
+        },
+        {
+            "parent": 3,
+            "text": "Between 40 and 50 percent of ectopic pregnancies are misdiagnosed at the initial visit to an emergency department.4,14Failure to identify risk factors is cited as a common and significant reason for misdiagnosis.4A proper history and physical examination remain the foundation for initiating an appropriate work-up that will result in the accurate and timely diagnosis of an ectopic pregnancy."
+        },
+        {
+            "parent": 3,
+            "text": "Identification of risk factors can raise the index of suspicion and lend significance to otherwise minor physical findings. For example, subtle changes in vital signs, such as mild tachycardia or lower than usual blood pressure, should prompt further investigation. Scoring systems have been proposed to facilitate earlier diagnosis of ectopic pregnancy by indicating the level of risk as a function of weighted risk factors.15"
+        },
+        {
+            "parent": 4,
+            "text": "After a careful history and physical examination, ancillary studies may include a urine pregnancy test and determination of the serum progesterone level and serum quantitative β-hCG levels. Other chemical markers, such as creatine kinase16,17and fetal fibronectin levels,18have been investigated and rejected because of inadequate diagnostic sensitivity."
+        },
+        {
+            "parent": 4,
+            "text": "The standard urine pregnancy test is 99 percent sensitive and 99 percent specific for pregnancy. Although used as the initial step in some settings, the urine pregnancy test is a qualitative rather than quantitative measure that identifies the presence of hCG in concentrations as low as 25 mIU per mL. Semiquantitative urine testing is being evaluated and may provide a cost-effective alternative to serum β-hCG testing.19"
+        },
+        {
+            "parent": 4,
+            "text": "Historically, serum progesterone levels were obtained concurrently with β-hCG levels. Some clinicians continue to find progesterone determinations useful. The rationale is that viable intrauterine pregnancies were associated with serum progesterone levels of 11 ng per mL (35 nmol per L) or greater in one study,20and levels of 25 ng per mL (80 nmol per L) or greater in another study.12Corresponding sensitivities were 91 percent at 11 ng per mL20and 97.5 percent at 25 ng per mL.12"
+        },
+        {
+            "parent": 4,
+            "text": "Although a serum progesterone level of less than 11 ng per mL is indicative of an abnormal pregnancy, the measure does not distinguish between a normal ectopic pregnancy and a failing intrauterine pregnancy. In addition, ectopic pregnancies are known to occur when the serum progesterone level is greater than 25 ng per mL.21Consequently, serum β-hCG levels are more often used in conjunction with ultrasonography."
+        },
+        {
+            "parent": 5,
+            "text": "The discriminatory zone is the range of serum β-hCG concentrations above which a gestational sac can be visualized consistently.11Abdominal ultrasonography should consistently detect the gestational sac when the 3 -hCG level is greater than 6,500 mIU per mL (6,500 IU per L). Absence of an intrauterine gestational sac on abdominal ultrasound in conjunction with a β-hCG level of greater than 6,500 mIU per mL suggests the presence of an ectopic pregnancy."
+        },
+        {
+            "parent": 5,
+            "text": "Compared with abdominal ultrasonography, transvaginal ultrasonography diagnoses intrauterine pregnancies an average of one week earlier because it is more sensitive and has a lower discriminatory zone (i.e., a β-hCG level between 1,00022and 1,500 mIU per mL [1,000 and 1,500 IU per L]). An ectopic pregnancy can be suspected if the transvaginal ultrasound examination does not detect an intrauterine gestational sac when the β-hCG level is higher than 1,500 mIU per mL."
+        },
+        {
+            "parent": 5,
+            "text": "The literature provides a wide range of sensitivities and specificities for transvaginal ultrasonography in the detection of ectopic pregnancy. Sensitivities range from 69 to 99 percent, and specificities range from 84 to 99.6 percent.14,23,24"
+        },
+        {
+            "parent": 6,
+            "text": "Today, culdocentesis is performed only rarely, because ultrasonography can reveal the presence of any free fluid. Thus, the procedure is used primarily when ultrasonography is not readily available. A culdocentesis that is positive for nonclotting bloody fluid strongly suggests the presence of a bleeding ectopic pregnancy. The finding of yellow or straw-colored fluid is more consistent with a ruptured ovarian cyst than an ectopic pregnancy."
+        },
+        {
+            "parent": 7,
+            "text": "If the β-hCG level is less than 1,500 mIU per mL, the patient's clinical condition directs the investigation. Patients who have multiple signs and symptoms of ectopic pregnancy or who are hemodynamically unstable should undergo laparoscopy."
+        },
+        {
+            "parent": 7,
+            "text": "In minimally symptomatic or hemodynamically stable patients, serial β-hCG levels can be followed. Even at very low levels, the β-hCG measurement should double every two days. Lack of a 48-hour doubling indicates the presence of an abnormal pregnancy25but does not indicate where the failing pregnancy is located."
+        },
+        {
+            "parent": 7,
+            "text": "Uterine curettage can be used to determine the presence or absence of chorionic villi when the β-hCG level is falling or has less than doubled in 48 hours and a nonviable intrauterine pregnancy is suspected. An ectopic pregnancy can be suspected when the β-hCG level fails to decline by at least 15 percent in 12 hours or the histologic findings do not include chorionic villi.10"
+        },
+        {
+            "parent": 7,
+            "text": "Algorithms for the evaluation of patients with a positive urine hCG level, lower abdominal pain and/or vaginal bleeding are provided inFigures 1and2."
+        },
+        {
+            "parent": 8,
+            "text": "Once an ectopic pregnancy has been diagnosed, the patient should be reevaluated clinically. Expectant or medical management may be attempted if the patient remains stable and is reliable. If the patient's condition deteriorates, surgical management is indicated (Figure 3)."
+        },
+        {
+            "parent": 9,
+            "text": "To date, at least 14 studies have documented that 68 to 77 percent of ectopic pregnancies resolve without intervention. Unfortunately, no markers clearly identify which subset of patients has self-limited disease. One retrospective chart review of 236 ectopic pregnancies was unable to identify any parameters that were specifically associated with tubal rupture.26Nonetheless, expectant management may be an option for the patient with a small ectopic pregnancy (less than 3.5 cm in greatest dimension) and low, declining β-hCG values who is willing and able to comply with close follow-up."
+        },
+        {
+            "parent": 10,
+            "text": "Earlier diagnosis has made medical management of ectopic pregnancy an option. The potential advantages are the avoidance of surgery and its concomitant hazards, the preservation of tubal patency and function, and a lower cost. Chemical agents that have been investigated include hyperosmolar glucose,27,28urea,28cytotoxic agents (e.g., methotrexate [Rheumatrex]28and actinomycin), prostaglandins28and mifeproston (RU486).28"
+        },
+        {
+            "parent": 10,
+            "text": "The most studied of these agents is methotrexate, a folic acid antagonist that is metabolized in the liver and excreted in the kidney. Methotrexate inhibits the synthesis of purines and pyrimidines. Thus, it interferes with DNA synthesis and cell multiplication. Rapidly dividing cells are most vulnerable to methotrexate. This accounts for the drug's effect on trophoblastic tissue, as well as its side effects on the buccal and intestinal mucosa, urinary bladder, bone marrow and skin."
+        },
+        {
+            "parent": 10,
+            "text": "Although the potential for serious toxic effects exists, the low dosages of methotrexate that are used in patients with ectopic pregnancies generally cause only mild, self-limited reactions. Common side effects include nausea and vomiting, urinary frequency and mild diarrhea. Thus, when the diagnosis is certain and an ectopic mass is less than 3.5 cm in greatest dimension, methotrexate therapy is an option."
+        },
+        {
+            "parent": 10,
+            "text": "The β-hCG level needs to be considered in selecting patients for methotrexate therapy. One study found that β-hCG levels higher than 1,500 mIU per mL are associated with a much higher risk of treatment failure.29The same study also showed that patients with 3 -hCG levels higher than 5,000 mIU per mL (5,000 IU per L) usually do not respond to methotrexate therapy."
+        },
+        {
+            "parent": 10,
+            "text": "Criteria for methotrexate therapy are listed inTable 2.11In addition to β-hCG levels, indications for methotrexate include hemodynamic stability, confirmation of ectopic pregnancy by ultrasound examination, significant risk associated with general anesthesia, patient compliance, lack of contraindications to methotrexate therapy, small size of ectopic mass and lack of fetal cardiac motion."
+        },
+        {
+            "parent": 10,
+            "text": "Variable-dose, single-dose and low-dose methotrexate regimens have been studied.30–33Direct injection into the conceptus has also been investigated. Because the use of methotrexate in ectopic pregnancy is relatively new, a standardized protocol is not yet available.11"
+        },
+        {
+            "parent": 10,
+            "text": "The variable-dose regimen involves alternating methotrexate with leucovorin (Wellcovorin). During treatment, β-hCG levels are obtained daily. The regimen is continued until the β-hCG level declines by more than 15 percent in 48 hours. This regimen appears to be 82 to 86 percent effective in resolving ectopic pregnancy.30Rates of subsequent fertility and tubal patency are comparable to those for conservative surgical management.30"
+        },
+        {
+            "parent": 10,
+            "text": "Single-dose regimens have had a success rate of 71 percent. The success rate increases to 84 to 94 percent with the addition of a second single dose.31,32"
+        },
+        {
+            "parent": 10,
+            "text": "Low-dose methotrexate regimens have been found to be no better than placebo.33"
+        },
+        {
+            "parent": 10,
+            "text": "Direct-injection regimens have displayed a lower success rate than variable-dose and single-dose methotrexate regimens. The advantages of direct injection include delivery of a higher concentration of active agent to the involved tissue, as well as fewer systemic toxic effects. The disadvantages include the need for laparoscopic or ultrasound needle guidance, with both techniques increasing morbidity and cost."
+        },
+        {
+            "parent": 11,
+            "text": "Previously, salpingectomy by laparotomy was the gold standard for the treatment of ectopic pregnancy. The laparoscope has virtually eliminated the need for laparotomy. Currently, laparotomy is the preferred technique when the patient is hemodynamically unstable, the surgeon has not been trained in laparoscopy, physical facilities and supplies to perform laparoscopic surgery are lacking or technical barriers to laparoscopy are present."
+        },
+        {
+            "parent": 11,
+            "text": "In an ampullary ectopic pregnancy, a linear salpingostomy is performed, and the incision is then left to heal by secondary intent(Figure 4). In an ectopic pregnancy located at the fimbrial ends, a “milking” technique allows the trophoblastic tissue to pass through the fimbria. When the pregnancy is located in the isthmic portion of the fallopian tube, that segment is excised, and the two ends are reanastamosed under microscopic guidance at a later date."
+        },
+        {
+            "parent": 11,
+            "text": "Salpingectomy is used much less often than salpingostomy. It is preferred only in patients with uncontrolled bleeding, extensive tubal damage or recurrent ectopic pregnancy in the same tube. It is also used when the patient wants a sterilization procedure to be performed."
+        },
+        {
+            "parent": 11,
+            "text": "One review compared the results of linear salpingostomy and salpingectomy in 40 studies, none of which were randomized, controlled trials.9The studies suggested that subsequent fertility and rates of recurrent ectopic pregnancy are equal for the two methods. However, randomized prospective trials are needed to confirm these results."
+        },
+        {
+            "parent": 11,
+            "text": "The most frequent complications of surgery are recurrence of ectopic pregnancy (incidence ranging from 5 to 20 percent) and incomplete removal of trophoblastic tissue. It has been suggested that in very high-risk patients, a single dose of methotrexate should be given postoperatively as a prophylactic measure.30"
+        },
+        {
+            "parent": 11,
+            "text": "Regardless of the treatment approach (expectant, medical or surgical), the β-hCG level should be followed until it becomes undetectable or decreases to less than 5 mIU per mL."
+        },
+        {
+            "parent": 12,
+            "text": "Any discussion of ectopic pregnancy would be incomplete without mention of heterotopic pregnancy (coexistence of intrauterine and ectopic pregnancies). In Europe and the United States, this condition occurs in one of 2,600 pregnancies.34With fertility treatments, the incidence of heterotopic pregnancy increases to as high as 3 percent.34Heterotopic pregnancy is extremely difficult to diagnose, and 50 percent of cases are identified only after tubal rupture. If retention of the intrauterine gestation is desired, the ectopic pregnancy must be treated surgically.1,12"
+        }
+    ],
+    "locked": false
+}

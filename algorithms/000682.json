@@ -1,0 +1,164 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/1215/p2501.html#afp20051215p2501-f1",
+    "title": "Treatment of Irritable Bowel Syndrome | AAFP",
+    "author": "SUSAN K. HADLEY, M.D., AND STEPHEN M. GAARDER, PH.D.",
+    "doi": "Am Fam Physician.2005;72(12):2501-2508",
+    "abstract": "Irritable bowel syndrome affects 10 to 15 percent of the U.S. population to some degree. This condition is defined as abdominal pain and discomfort with altered bowel habits in the absence of any other mechanical, inflammatory, or biochemical explanation for these symptoms. Irritable bowel syndrome is more likely to affect women than men and is most common in patients 30 to 50 years of age. Symptoms are improved equally by diets supplemented with fiber or hydrolyzed guar gum, but more patients prefer hydrolyzed guar gum. Antispasmodic agents may be used as needed, but anticholinergic and other side effects limit their use in some patients. Loperamide is an option for treatment of moderately severe diarrhea. Antidepressants have been shown to relieve pain and may be effective in low doses. Trials using alosetron showed a clinically significant, although modest, gain over placebo, but it is indicated only for women with severe diarrhea-predominant symptoms or for those in whom conventional treatment has failed. Tegaserod has an advantage over placebo in constipation-predominant irritable bowel syndrome; it is indicated for up to 12 weeks of treatment in women. However, postmarketing reports of severe diarrhea and ischemic colitis further limit its use. Herbal therapies such as peppermint oil also may be effective in the treatment of irritable bowel syndrome. Therapies should focus on specific gastrointestinal dysfunctions (e.g., constipation, diarrhea, pain), and medications only should be used when nonprescription remedies do not work or when symptoms are severe.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "DIETARY THERAPY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ANTISPASMODIC AGENTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ANTIDIARRHEAL AGENTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ANTIDEPRESSANT AND ANTIANXIETY MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PSYCHOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "5-HT3 RECEPTOR ANTAGONISTS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "5-HT4 RECEPTOR AGONISTS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "OTHER AGENTS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "COMPLEMENTARY THERAPIES",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Approach to the Patient",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Irritable bowel syndrome (IBS) is defined as abdominal pain and discomfort with altered bowel habits that are not explained by any other mechanical, biochemical, or inflammatory cause. Approximately 10 to 15 percent of the U.S. population is affected by IBS, and women are more likely to have symptoms than are men.1Diagnosis is based on clinical signs and symptoms that include abdominal pain, bloating, constipation, and diarrhea. The criteria inTable 1were developed to aid in the diagnosis of IBS.2"
+        },
+        {
+            "parent": -1,
+            "text": "Alarm factors are signs or symptoms requiring immediate attention and careful diagnostic evaluation to exclude diagnoses other than IBS. These factors, and other less urgent symptoms that may lead to a diagnosis other than IBS, are summarized inTable 2.3,4"
+        },
+        {
+            "parent": -1,
+            "text": "The severity of the symptoms and their effects on the patient's quality of life should guide the decision to investigate and treat IBS. Given the limited benefits of pharmacologic therapy and the psychosocial issues involved, effective treatment of IBS requires a comprehensive, multifaceted approach."
+        },
+        {
+            "parent": 0,
+            "text": "The pathophysiology of IBS is not clearly understood, but likely factors include altered gastrointestinal motility, increased gut sensitivity, and increased intestinal contractions. Proposed mechanisms include: (1) stress as an aggravating factor because of corticosporin releasing factor, gastric emptying delay, and accelerated colonic transit; (2) visceral hypersensitivity, with a decreased threshold after exposure; (3) abnormal brain activation; (4) altered colonic motility and disturbed motor function; (5) response to eating as a stimulus to colonic activity; (6) abnormal gas propulsion and expulsion; (7) dietary intolerance, most commonly to wheat and dairy products; and (8) inflammation, with production of prostaglandins, bradykinins, nerve growth factors, adenosine, and 5-hydroxytryptamine.5"
+        },
+        {
+            "parent": 1,
+            "text": "The evidence to support dietary, pharmacologic, behavioral, and herbal therapies for IBS is summarized and accompanied by a suggested management algorithm(Figure 11). Prescribing information for commonly used medications is listed inTable 3."
+        },
+        {
+            "parent": 2,
+            "text": "Reported dietary triggers of IBS include caffeine, citrus, corn, dairy lactose, wheat, and wheat gluten. Lactose and caffeine, in particular, may be associated with diarrhea-predominant IBS.1Food diaries are recommended because they may help patients identify and avoid dietary triggers. Although one study showed a reduction of IBS symptoms in 48 percent of patients on an elimination diet,6other specific diets have not been effective, and few studies have been done. A complicating factor is that patients may experience symptoms as a generalized effect to eating any foods."
+        },
+        {
+            "parent": 2,
+            "text": "Increasing dietary fiber has long been recommended as a treatment for IBS. The proposed mechanism of action is the enhancement of the stool's water-holding properties, gel formation to provide lubrication, bulking of the stool, and binding of agents such as bile.7A systematic review8of 13 randomized controlled trials (RCTs) found no convincing evidence that bulking agents relieve global symptoms of IBS. However, a second systematic review9did find significant improvement in the ease of stool passage and in general satisfaction with bowel movements."
+        },
+        {
+            "parent": 2,
+            "text": "Because of its safety and low cost, a trial of fiber is reasonable, particularly in patients whose predominant symptom is constipation. There are many types of fiber, and not all have been studied. Synthetic fibers are more soluble than natural fibers but may cause more gas symptoms. Psyllium seed and linseed are natural fibers containing mucilages and are bulking agents with lubrication properties. Wheat bran fiber should be avoided in patients with gluten sensitivity.9Patients with very slow colonic transit may benefit from scheduled use of osmotic laxatives such as magnesium salts, phosphate salts, and polyethylene glycol, although these agents have not been well studied.1"
+        },
+        {
+            "parent": 2,
+            "text": "Partially hydrolyzed guar gum has been successful in softening and improving fecal output. One recent nonblinded RCT10found that symptoms of IBS were improved equally by diets supplemented with fiber or guar gum, but more patients preferred guar gum. This was especially true of patients with IBS who could not tolerate fiber or reported a worsening of symptoms.10"
+        },
+        {
+            "parent": 3,
+            "text": "Antispasmodic agents relax smooth muscle in the gut and reduce contractions. Dicyclomine (Bentyl) and hyoscyamine (Levsin) act through anticholinergic or antimuscarinic properties.8One meta-analysis11of 23 trials found an advantage over placebo in global improvement (56 versus 38 percent), pain (53 versus 41 percent), and abdominal distension (44 versus 35 percent), but no difference regarding constipation. However, the studies were generally of poor quality.11The anticholinergic effects of antispasmodics limit their use, especially in the long term."
+        },
+        {
+            "parent": 4,
+            "text": "A systematic review9of loperamide (Imodium) for the treatment of IBS found that it improved diarrhea symptoms; two of the four studies in the review also reported improved global symptoms. Loperamide slows intestinal transit, increases intestinal water absorption, and increases resting sphincter tone.12Because loperamide does not cross the blood-brain barrier, side effects are less than other opioids, but it should be used with caution."
+        },
+        {
+            "parent": 5,
+            "text": "Antidepressants have been shown to relieve pain with low doses.13The successful use of low doses supports a mechanism of action separate from the recognized psychiatric effects.14It is thought that tricyclic antidepressants facilitate endogenous endorphin release and block norepinephrine reuptake, which leads to enhancement of descending inhibitory pathways blockage of the pain neuromodulator serotonin.15Tricyclic antidepressants may slow intestinal transit time and aid in the treatment of diarrhea. Two recent meta-analyses9,16reviewed RCTs of patients taking low-dose tricyclic antidepressants including amitriptyline, clomipramine (Anafranil), desipramine (Norpramin), doxepin (Sinequan), and trimipramine (Surmontil). These studies showed that tricyclic antidepressants improve global symptoms, abdominal pain, and diarrhea. On average, for every three patients treated with a tricyclic antidepressant, one experiences a significant benefit.16Side effects may cause patients to discontinue use, particularly because tricyclic antidepressants may worsen constipation."
+        },
+        {
+            "parent": 5,
+            "text": "Selective serotonin reuptake inhibitors (SSRIs) are being examined for the treatment of IBS. The evidence is limited, but one RCT17found that patients taking 10 to 40 mg of paroxetine (Paxil) per day were more likely than those taking placebo to have a clinically significant improvement in overall well-being (63 versus 26 percent, number needed to treat [NNT] = 2). This benefit also was present in the subset without depression. Given the limited evidence, SSRIs are not recommended as routine or first-line therapy for IBS except in patients who also have comorbid depression."
+        },
+        {
+            "parent": 5,
+            "text": "Although anxiolytics (e.g., benzodiazepines) may be beneficial in patients with comorbid anxiety disorders, they are not recommended routinely for treatment of IBS because of adverse effects, dependence potential, and interactions with alcohol and other medications.18"
+        },
+        {
+            "parent": 6,
+            "text": "A variety of psychotherapies, including cognitive behavior therapy, hypnosis, and stress management/relaxation therapy, reduce abdominal pain and diarrhea.18For example, in one study19patients were more likely to experience a significant benefit with cognitive behavior therapy than education (70 versus 37 percent). Psychotherapies should be considered for motivated patients who have more severe or disabling symptoms."
+        },
+        {
+            "parent": 7,
+            "text": "Antagonism of serotonin receptor subtype 5-hydroxy-tryptamine-3 (5-HT3) reduces noxious stimuli perception, increases colonic compliance, and decreases gastrocolonic reflexes. Alosetron (Lotronex), the first IBS-specific medication approved by the U.S. Food and Drug Administration (FDA), is a highly selective central penetrating 5-HT3antagonist. Alosetron did show a clinically significant, although modest, gain over placebo (41 versus 26 percent) in alleviating IBS symptoms such as bloating and pain.20Initially, alosetron was removed from the market after being linked to ischemic colitis and the deaths of five women. It became available again in late 2002, but with strict prescribing regulations. Alosetron is indicated only for women with severe diarrhea-predominant symptoms and for whom conventional treatment has failed. Constipation may result from its use."
+        },
+        {
+            "parent": 8,
+            "text": "Stimulation of the serotonin receptor subtype 5-hydroxy-tryptamine-4 (5-HT4) increases colonic transit time and inhibits visceral sensitivity. Tegaserod (Zelnorm), a partial 5-HT4receptor agonist, is an aminoguanidine indole similar to serotonin. Tegaserod stimulates the release of neurotransmitters and increases colonic motility; it is more effective than placebo in constipation-predominant IBS.21However, a systematic review22showed that global benefits are small, with an NNT of 17. Tegaserod is approved for up to 12 weeks of use for treatment of constipation-predominant IBS in women.23The long-term safety of tegaserod has not been established, and post-marketing reports of tegaserod causingischemic colitis and diarrhea resulting in hypovolemia and syncope prompted an FDA advisory in April 2004.24In summary, tegaserod improves global symptoms of IBS in women, but the benefits are small; further studies are needed to clarify any long-term adverse effects.22"
+        },
+        {
+            "parent": 9,
+            "text": "There are a variety of other agents with reported advantages in treating IBS symptoms. Antibiotics may be recommended for the treatment of refractory diarrhea if bacterial infection is suspected.12However, antibiotics should not be used routinely for treatment of IBS. Antibiotics are not indicated for long-term use because they may increase diarrhea through changes in the bowel flora."
+        },
+        {
+            "parent": 9,
+            "text": "Probiotics consist of a preparation containing a single- or mixed-culture of live microbes that exert beneficial health effects by altering the gastrointestinal flora.6Probiotics are presumed to restore normal bowel flora. Studies with probiotics demonstrate a trend toward improvement of IBS symptoms and are promising enough to warrant further investigation.25Cisapride (Propulsid), a promotility agent, has been studied for treatment of IBS, but its use was not supported in a recent systematic literature review.12Cisapride was removed from the market and is only available for compassionate use in the United States. The alpha adrenoceptor antagonist clonidine (Catapres) has been shown in a single small study26to provide overall relief at a dosage of 0.1 mg twice a day when compared with placebo (67 versus 46 percent)."
+        },
+        {
+            "parent": 10,
+            "text": "Given the absence of a cure and the adverse effects of medications, patients with IBS often turn to complementary therapies. Peppermint possesses antispasmodic properties and has long been associated with improvement of digestive function. Peppermint leaves contain oils that have mild anesthetic properties, relieve nausea, and relax smooth muscle spasticity caused by histamine and cholinergic stimulation.27A systematic review27identified five trials that showed that peppermint oil relieved IBS symptoms. Three of these trials showed statistically significant benefit of peppermint over placebo (P< .001). The placebo response ranged from 13 to 52 percent with a mean of 31 percent including all five trials.27A randomized double-blind placebo-controlled study28of enteric-coated peppermint oil involving 110 patients showed 79 percent with less pain, 83 percent with decreased stool frequency, and 79 percent with less flatulence. Peppermint is contraindicated in patients with gastroesophageal reflux disease."
+        },
+        {
+            "parent": 10,
+            "text": "The herb ginger also may play a role in IBS treatment. One component, gingerois, functions as a serotonin 5-HT antagonist and enhances motility.29Aloe vera has been recommended for constipation-dominant IBS,30and fennel has been recommended for IBS-related bloating. None of these agents has been studied in any clinical trials measuring patient-oriented outcomes."
+        },
+        {
+            "parent": 11,
+            "text": "Given the variability of IBS, the most successful treatment will be comprehensive, involving multiple strategies(Figure 11). Patients should be allowed to participate actively in their care, and therapies should focus on particular types of gastrointestinal dysfunction.1Initial treatment should include education, reassurance, stress management, and relaxation techniques. Further treatments are based on the type and severity of symptoms. Constipation-predominant IBS with mild symptoms may benefit from additional fluids, guar gum, exercise, and fiber. For constipation-predominant IBS with moderate symptoms, an antispasmodic, peppermint oil, or osmotic laxative may be appropriate. In severe cases, the aforementioned may be supplemented with tricyclic antidepressants, psychotherapy, and consideration of serotonin 5-HT4-agonist."
+        },
+        {
+            "parent": 11,
+            "text": "For diarrhea-predominant IBS, begin with dietary changes and add an antispasmodic, loperamide, or peppermint oil if symptoms are moderate. In severe diarrhea-predominant IBS, consider tricyclic antidepressants, therapy, and a serotonin 5-HT3antagonist. In pain-predominant IBS, use an antispasmodic; a tricyclic antidepressant; and, if severe with diarrhea, consider a serotonin 5-HT3agonist."
+        }
+    ],
+    "locked": false
+}

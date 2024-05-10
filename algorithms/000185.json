@@ -1,0 +1,209 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/1201/p661.html#afp20181201p661-f1",
+    "title": "Crohn's Disease: Diagnosis and Management | AAFP",
+    "author": "BRIAN VEAUTHIER, MD, AND JAIME R. HORNECKER, PharmD",
+    "doi": "Am Fam Physician.2018;98(11):661-669",
+    "abstract": "Crohn's disease is a chronic inflammatory condition that affects the gastrointestinal tract. It can cause lesions from mouth to anus and may result in extraintestinal complications. The prevalence of Crohn's disease is increasing in adults and children. Genetic predispositions to Crohn's disease have been identified, and specific environmental factors have been associated with its development. Common presenting symptoms include diarrhea, abdominal pain, rectal bleeding, fever, weight loss, and fatigue. Physical examination should identify unstable patients requiring immediate care, include an anorectal examination, and look for extraintestinal complications. Initial laboratory evaluation identifies inflammation and screens for alternative diagnoses. Measurement of fecal calprotectin has value to rule out disease in adults and children. Endoscopy and cross-sectional imaging are used to confirm the diagnosis and determine the extent of disease. Treatment decisions are guided by disease severity and risk of poor outcomes. Patients commonly receive corticosteroids to treat symptom flare-ups. Patients with higher-risk disease are given biologics, with or without immunomodulators, to induce and maintain remission. For children, enteral nutrition is an option for induction therapy. All patients with Crohn's disease should be counseled on smoking avoidance or cessation. Patients with Crohn's disease are at increased risk of cancer, osteoporosis, anemia, nutritional deficiencies, depression, infection, and thrombotic events. Maximizing prevention measures is essential in caring for these patients.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Findings",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "EXTRAINTESTINAL FINDINGS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Diagnostic Studies and Monitoring",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ENDOSCOPY AND IMAGING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "MEDICAL TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CORTICOSTEROIDS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "IMMUNOMODULATORS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "BIOLOGICS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "OTHER THERAPIES",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Perianal and Fistulizing Disease",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Surgical Treatment",
+            "level": 2
+        },
+        {
+            "id": 16,
+            "name": "Preventive Measures",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Crohn's disease is a chronic inflammatory condition affecting the gastrointestinal tract that often causes extraintestinal complications. Inflammation may occur at any point from mouth to anus(Table 11). Specific clinical and diagnostic characteristics distinguish Crohn's disease from ulcerative colitis1,2(Table 21). In the United States, the prevalence is estimated at 58 per 100,000 children and 119 to 241 per 100,000 adults, and is increasing for both groups.3,4Most cases are diagnosed in the 20s to 40s, but new cases do occur later.5White race and higher education levels are associated with increased prevalence.4The estimated annual economic burden to U.S. health care is $6.3 billion.6"
+        },
+        {
+            "parent": 0,
+            "text": "Current data suggest an interplay between genetic susceptibility and environmental factors in the development of Crohn's disease. Genetic loci have been identified that increase risk. For example, homozygosity for theNOD2gene has shown a 20- to 40-fold increased risk of developing Crohn's disease.5Environmental factors associated with increased risk include smoking, oral contraceptive use, antibiotic use, regular use of nonsteroidal anti-inflammatory drugs, and urban environment.5,7Factors associated with decreased risk include exposure to pets and farm animals, bedroom sharing, having more than two siblings, high fiber intake, fruit consumption, and physical activity.5,8Vaccines have not been associated with the development of Crohn's disease.9"
+        },
+        {
+            "parent": 2,
+            "text": "Crohn's disease most often presents insidiously but can present as an acute toxic illness. Common symptoms include diarrhea, abdominal pain, rectal bleeding, fever, weight loss, and fatigue.1,2A case review of 201 participants compared patients with Crohn's disease and patients without Crohn's disease who had irritable bowel syndrome or were otherwise healthy. The study identified eight red flag findings for Crohn's disease in adults. In order of strength of association, the findings were perianal lesions other than hemorrhoids, a first-degree relative with inflammatory bowel disease, weight loss (5% of usual body weight) in the past three months, abdominal pain for longer than three months, nocturnal diarrhea, fever, no abdominal pain for 30 to 45 minutes after meals, and no rectal urgency.10A case review of 606 children with chronic abdominal pain identified three red flag findings for children: anemia, hematochezia, and weight loss.11The history should identify findings specific for Crohn's disease, identify alternative diagnoses(Table 31,2,12), and search for extraintestinal findings(Table 41). Important areas to cover are nocturnal symptoms; urgency findings; food intolerance; travel; medications (including antibiotic exposure); smoking status; family history of inflammatory bowel disease; and eye, joint, or skin symptoms."
+        },
+        {
+            "parent": 2,
+            "text": "The physical examination should first identify unstable patients that need immediate attention. Pulse, blood pressure, temperature, respiratory rate, and body weight should be measured. Abdominal examination findings can include tenderness, distention, and/or masses.1,2An anorectal examination is required, and a pelvic examination should be considered because abscesses, fissures, or fistulas are common in Crohn's disease.1,2Perianal findings (e.g., fistulas, abscesses) increase the likelihood of Crohn's disease.10"
+        },
+        {
+            "parent": 3,
+            "text": "The inflammatory effects of Crohn's disease can extend beyond the intestinal lumen, causing abscesses, fissures, and/or fistulas, and can affect organs outside of the intestinal tract. Patients can present with extraintestinal findings before gastrointestinal symptoms are prominent. Areas affected include, but are not limited to, the eyes, hematologic system, joints, and skin(Table 41). History, physical examination, laboratory testing, and imaging are important in identifying these manifestations.1,13"
+        },
+        {
+            "parent": 5,
+            "text": "Laboratory testing has multiple purposes for the evaluation of Crohn's disease, including diagnosis, monitoring of disease activity, and tracking adverse effects and effectiveness of medications. Fecal calprotectin is a reasonable test to rule out Crohn's disease for adults (sensitivity of 83% to 100%; specificity of 60% to 100%) and children (sensitivity of 95% to 100%; specificity of 44% to 93%) with equivocal symptoms, and may spare them from more invasive testing.2,14When the diagnosis of Crohn's disease is considered, a complete blood count; a complete metabolic panel; pregnancy test; C-reactive protein level; erythrocyte sedimentation rate; and stool studies forClostridium difficile, ova and parasites, and culture may be useful. Results can provide information to support the diagnosis, identify the severity of disease, or determine alternative diagnoses.1,2Measurement of C-reactive protein, fecal calprotectin, and stool lactoferrin can help assess disease activity and potentially limit the need for endoscopy in disease management decisions.15"
+        },
+        {
+            "parent": 5,
+            "text": "Anemia is common, so hemoglobin and hematocrit should be monitored periodically. Deficiencies of folate, iron, and 25-hydroxyvitamin D are also common; thus, screening is prudent. Patients with extensive bowel resection have increased risk of vitamin B12deficiency and should be screened.16Tuberculosis screening should be considered before using biologic agents. A complete blood count and renal and hepatic function testing should be done periodically when methotrexate, thiopurines, and/or biologic agents are used for treatment.16Therapeutic drug monitoring can guide therapy.17"
+        },
+        {
+            "parent": 6,
+            "text": "Endoscopy and imaging are essential tools for diagnosing and monitoring Crohn's disease. Endoscopic procedures allow direct visualization of and access to the bowel lumen. Direct visualization allows for identification of characteristic lesions, monitoring the success or failure of therapy, and screening for colorectal cancer. Endoscopic procedures (except capsule endoscopy) also allow for biopsy and therapeutic interventions(Table 52,13,18,19)."
+        },
+        {
+            "parent": 6,
+            "text": "Cross-sectional imaging techniques, including computed tomography (CT), magnetic resonance imaging, and ultrasonography, have come to the forefront in the management of Crohn's disease. These techniques are all useful and provide similar accuracy for making the initial diagnosis, monitoring disease activity, and identifying complications (e.g., fistulas, abscesses).20,21They complement endoscopy because they can identify extraluminal pathology and examine the gastrointestinal tract not accessible to endoscopic procedures. If the patient can tolerate the contrast load, CT and magnetic resonance enterography are preferred to standard CT and magnetic resonance imaging protocols. CT studies provide the most consistent results but have the downside of radiation exposure. Magnetic resonance studies have no radiation exposure, but are expensive, may have limited availability, and are more difficult for patients to tolerate. Ultrasonography is readily available and has no radiation exposure, but it is highly operator dependent and can be limited by body habitus. Choosing which modality to pursue depends on the patient's age, pregnancy status, current clinical condition, local expertise, and availability13,20,21(Table 613,21,22)."
+        },
+        {
+            "parent": 7,
+            "text": "The diagnosis of Crohn's disease results from clinical findings coupled with endoscopic, histologic, radiologic, and/or biochemical testing. History, physical examination, and basic laboratory findings drive the decision to pursue the diagnosis. If the patient has a toxic presentation, standard CT should be the first test. If the patient does not have a fulminant presentation, ileocolonoscopy with biopsy should be the first test, and esophagogastroduodenoscopy should be considered for children. Cross-sectional imaging should follow so that the full extent of disease seen by endoscopy can be determined or to identify disease not visualized by endoscopy. Identifying the complete extent of disease is important for developing a treatment plan. When ileocolonoscopy and cross-sectional imaging are negative and concern for Crohn's disease is still high, capsule endoscopy would be the next step. If this study is negative, it is moderately certain that the disease is not present1,2,13,20,21(Figure 11,2,13,14,18,19,21)."
+        },
+        {
+            "parent": 8,
+            "text": "Management has two aims. First is treating the inflammatory process and its associated complications (e.g., abscesses, fistulas, strictures, intestinal obstructions) with the goal of achieving and maintaining remission. Second is minimizing the negative health impacts from Crohn's disease itself and the therapies used to treat it.13,16,22,23"
+        },
+        {
+            "parent": 9,
+            "text": "Treatment decisions are guided by age, comorbidities, symptoms, inflammation status, disease location and extent, and overall risk of more severe and complicated disease(Table 72,24). More severe disease and the presence of risk factors that predict poor prognosis justify the use of high-risk medications.2,24"
+        },
+        {
+            "parent": 9,
+            "text": "Significant advancements have been made in treatment. Whereas 5-aminosalicylates were once commonly used and are still prescribed for symptom management in mild to moderate disease, mucosal healing has not been demonstrated.2Antibiotics, also widely used, should be limited to treating complications such as abscesses and fistulas.2,25,26"
+        },
+        {
+            "parent": 9,
+            "text": "Medication management includes corticosteroids, immunomodulators, and biologics(eTable A). Each plays an important role in inducing or maintaining remission."
+        },
+        {
+            "parent": 10,
+            "text": "Corticosteroids are often used for symptom management.2,24Tapering courses of prednisone, with initial doses of 40 to 60 mg based on disease severity, are recommended. Depending on response and how quickly remission is achieved, first tapering by 5 mg per week until the patient reaches a dose of 20 mg, and then tapering by 2.5 to 5 mg weekly until discontinuation is an appropriate strategy.2When disease is diffuse or located in the left colon, prednisone is preferred; however, formulations of controlled ileal-release budesonide (Entocort EC) are an option for disease affecting the ileum and/or proximal colon and may be preferred because of their unique delivery specifically to that area.2Budesonide undergoes significant first-pass metabolism in the liver, resulting in improved tolerability.26Because corticosteroids do not maintain remission, adverse effects are common, and because perforating complications are higher in patients who take corticosteroids, they are most often used to treat symptom flare-ups while patients transition to more effective therapies."
+        },
+        {
+            "parent": 11,
+            "text": "Thiopurines and methotrexate are the immunomodulators used in Crohn's disease. Azathioprine (Imuran) and 6-mercaptopurine are no more effective than placebo in inducing remission, and therefore, have limited use as monotherapy.2Immunomodulators have a relatively slow onset of action, but they are often used adjunctively for their steroid-sparing effects. In moderate- to high-risk patients, azathioprine combined with anti–tumor necrosis factor (TNF) agents, such as infliximab (Remicade), demonstrated improved effectiveness over either agent used alone.2This combination decreases corticosteroid exposure, resulting in fewer adverse effects, and reduces the rate of immunogenicity against anti-TNF agents.2,27Based on more limited evidence, methotrexate may also be used for induction or maintenance of remission; however, time to clinical response should be considered.2,24,28,29"
+        },
+        {
+            "parent": 12,
+            "text": "Several monoclonal antibodies have been approved for the treatment of Crohn's disease: anti-TNF agents, anti-integrin agents, and anti-interleukin-12/23p40 antibody therapy. Whichever agent induces remission should be continued for maintenance. All monoclonal antibodies increase the risk of certain cancers and infections, including reactivation of tuberculosis.1,30,31Despite these risks, a recent meta-analysis indicates that patients are more likely to continue treatment with biologics than immunomodulators because of improved effectiveness and tolerability.32"
+        },
+        {
+            "parent": 12,
+            "text": "Anti-TNF agents, such as certolizumab pegol (Cimzia), adalimumab (Humira), and infliximab, induce and maintain remission in moderate- to high-risk patients, or in patients with inadequate response to corticosteroids and immunomodulators. Onset of action and clinical benefit are often seen within two weeks of therapy initiation. The overall effectiveness of anti-TNF agents is greatest when given within two years of disease onset.2"
+        },
+        {
+            "parent": 12,
+            "text": "Natalizumab (Tysabri) and vedolizumab (Entyvio) are anti-integrin agents that target leukocyte trafficking. Natalizumab is associated with progressive multifocal leukoencephalopathy and should only be used in patients who are not seropositive for anti–John Cunningham virus antibody; progressive multifocal leukoencephalopathy has not been observed in patients treated with vedolizumab. Vedolizumab is preferred because of its specificity to leukocyte trafficking in the gut, and has demonstrated effectiveness in achieving clinical response, remission, and corticosteroid-free remission.2"
+        },
+        {
+            "parent": 12,
+            "text": "Anti-interleukin-12/23p40 antibody therapy (ustekinumab [Stelara]) is an emerging treatment option for patients when standard therapies have been ineffective.2The U.S. Food and Drug Administration approved the use of ustekinumab for Crohn's disease in September 2016. Although ustekinumab has been shown to be better than placebo for achieving remission and decreasing symptoms of Crohn's disease, no head-to-head studies have demonstrated the effectiveness of ustekinumab over other therapies, and clinical experience is limited.2,33,34"
+        },
+        {
+            "parent": 13,
+            "text": "Enteral nutrition is first-line therapy to induce remission in children.23,35Small studies also show benefit for enteral nutrition for maintenance therapy in adults, so it may be considered when medications are contraindicated or refused.13,36Current evidence does not support the use of probiotics or omega-3 fatty acids.13"
+        },
+        {
+            "parent": 14,
+            "text": "These complex situations are associated with worse outcomes37and are best managed by a multidisciplinary approach involving subspecialty care from gastroenterologists and surgeons. Perianal disease is best evaluated by contrast-enhanced magnetic resonance imaging. Endoscopic anorectal ultrasonography and clinical examination under anesthesia are also useful diagnostic procedures.21,22"
+        },
+        {
+            "parent": 14,
+            "text": "Perianal fistulization is classified as simple or complex. Simple disease is managed with surgical drainage of abscesses and antibiotic therapy (commonly metronidazole [Flagyl] with or without ciprofloxacin). Complex disease first requires surgical drainage of abscesses followed by therapy with an anti-TNF agent (i.e., infliximab or adalimumab). The addition of ciprofloxacin or thiopurines can enhance the effect of anti-TNF agents. Evidence for the management of other fistulas (e.g., enterocutaneous, enteroenteric, enterovesical, enterogynecologic) is limited. When treatment is necessary, they usually require surgical intervention. Anti-TNF agents, thiopurines, and tacrolimus (Prograf; enterocutaneous fistulas) may also provide benefit.2,22"
+        },
+        {
+            "parent": 15,
+            "text": "The need for surgery is common, with up to 57% of patients requiring at least one surgery.38Surgery is often needed to treat fistulas, abscesses, and perianal disease. Other indications include medically resistant disease, perforation, obstruction, strictures, uncontrolled bleeding, dysplasia, and malignancy.1,22,26Early resection may be an option for patients with disease confined to the ileocecal region who wish to minimize adverse effects of medical therapy.23,39If resection is required for colonic disease, segmental, as opposed to total, is preferable.22Strictureplasty and endoscopic dilatation are alternatives to resection for the treatment of strictures. Strictureplasty is not recommended in the colon.22,23"
+        },
+        {
+            "parent": 15,
+            "text": "After surgical resection, prophylactic therapy should be considered to prevent recurrence.2,22,23Current data show that anti-TNF agents are most effective.2Nitroimidazole antibiotics (metronidazole), mesalamine, and thiopurines are also useful in preventing postoperative recurrence.2,22,40"
+        },
+        {
+            "parent": 16,
+            "text": "Crohn's disease itself and treatments for the disease are associated with medical comorbidities. Preventive measures can mitigate these complications. Patients with Crohn's disease are at increased risk of cancer, osteoporosis, anemia, nutritional deficiencies, depression, infection, and thrombotic events16,41(Table 816,41–51andeTable B)."
+        },
+        {
+            "parent": 16,
+            "text": "This article updates previous articles on this topic byBotoman, et al.52;Feller, et al.53;Knutson, et al.54; andWilkins, et al.1"
+        },
+        {
+            "parent": 16,
+            "text": "Data Sources:We searched the National Guideline Clearinghouse using the term Crohn disease; PubMed was searched using the terms Crohn disease and cost United States, prevalence of Crohn disease, and Crohn disease AND prevalence AND United States, and using the Clinical Queries function with the term Crohn's Disease. Also searched were the Cochrane database and Bandolier database using the term Crohn's, and the Institute for Clinical Systems Improvement database for the term Crohn disease. Essential Evidence was also searched. Search dates: November 1, 2016, through July 2, 2018."
+        }
+    ],
+    "locked": false
+}

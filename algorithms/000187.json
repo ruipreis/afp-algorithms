@@ -1,0 +1,158 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/1015/p496.html#afp20181015p496-f2",
+    "title": "Urinary Retention in Adults: Evaluation and Initial Management | AAFP",
+    "author": "DAVID C. SERLIN, MD, JOEL J. HEIDELBAUGH, MD, AND JOHN T. STOFFEL, MD",
+    "doi": "Am Fam Physician.2018;98(8):496-503",
+    "abstract": "Urinary retention is the acute or chronic inability to voluntarily pass an adequate amount of urine. The condition predominantly affects men. The most common causes are obstructive in nature, with benign prostatic hyperplasia accounting for 53% of cases. Infectious, inflammatory, iatrogenic, and neurologic causes can also affect urinary retention. Initial evaluation should involve a detailed history that includes information about current prescription medications and use of over-the-counter medications and herbal supplements. A focused physical examination with neurologic evaluation should be performed, and diagnostic testing should include measurement of postvoid residual (PVR) volume of urine. There is no consensus regarding a PVR-based definition for acute urinary retention; the American Urological Association recommends that chronic urinary retention be defined as PVR volume greater than 300 mL measured on two separate occasions and persisting for at least six months. Initial management of urinary retention involves assessment of urethral patency with prompt and complete bladder decompression by catheterization. Suprapubic catheters improve patient comfort and decrease bacteriuria and the need for recatheterization in the short term; silver alloy–coated and antibiotic-impregnated catheters offer clinically insignificant or no benefit. Further management is decided by determining the cause and chronicity of the urinary retention and can include initiation of alpha blockers with voiding trials. Patients with urinary retention related to an underlying neurologic cause should be monitored in conjunction with neurology and urology subspecialists.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes of Urinary Retention",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "OBSTRUCTIVE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "INFECTIOUS AND INFLAMMATORY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "IATROGENIC",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "NEUROLOGIC",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "OTHER CAUSES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Approach to Patients with Urinary Retention",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Management of Patients with Urinary Retention",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "ACUTE URINARY RETENTION",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "CHRONIC URINARY RETENTION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Urinary retention is the inability to voluntarily pass an adequate amount of urine and can be attributable to acute and chronic etiologies. Acute urinary retention is a urologic emergency characterized by the sudden inability to urinate combined with suprapubic pain, bloating, urgency, distress, or, occasionally, mild incontinence.1Chronic urinary retention is usually associated with non-neurogenic causes, is often asymptomatic, and lacks consensus on defining criteria. The overall incidence of urinary retention is much higher in men than women and increases dramatically as men age. Estimates for men range from 4.5 to 6.8 per 1,000 person-years, increasing up to 300 per 1,000 person-years for men in their 80s, whereas the incidence in women is only seven per 100,000 per year.2–4"
+        },
+        {
+            "parent": 0,
+            "text": "The main causes of urinary retention are obstructive, infectious/inflammatory, iatrogenic, and neurologic in nature; obstructive causes are the most common(Table 1).5"
+        },
+        {
+            "parent": 1,
+            "text": "Benign prostatic hyperplasia is the most common obstructive cause of urinary retention, accounting for approximately 53% of cases6; a previousAmerican Family Physician(AFP) article provides a detailed review of benign prostatic hyperplasia.7"
+        },
+        {
+            "parent": 1,
+            "text": "Other obstructive causes in males include prostate cancer, phimosis, and paraphimosis; obstructive causes in females include pelvic organ prolapse of the bladder, rectum, or uterus. Both men and women can experience direct physical obstruction attributable to stones, urethral strictures, hematuria-related clot obstruction, and bladder cancer. Uncommonly, foreign bodies, either intraluminal or those causing extrinsic compression, can cause urinary retention. Additionally, fecal impaction, benign or malignant tumors, or other space-occupying pelvic masses can indirectly obstruct the urinary tract.5"
+        },
+        {
+            "parent": 2,
+            "text": "Various infections can lead to edema of the urethra or bladder, resulting in acute urinary retention. Acute bacterial prostatitis, previously reviewed in anAFParticle,8and balanitis/posthitis5are common infectious causes in men; vulvovaginal candidiasis and Behçet syndrome are infectious and inflammatory causes in women. In both sexes, urinary tract and other infections, including herpes zoster affecting the lumbosacral dermatome, can be triggers for urinary retention.5"
+        },
+        {
+            "parent": 3,
+            "text": "The two main causes of iatrogenic urinary retention include postoperative side effects or are pharmacologic in nature. An estimated 2% of acute urinary retention cases admitted to a teaching hospital over a two-year period were attributed to medication side effects9; in another study, medications were determined to be the most likely cause of 12% of cases of chronic urinary retention.10The most common medications that cause acute or chronic urinary retention have anticholinergic side effects(Table 211)that block the parasympathetic muscarinic receptors in the detrusor muscle, leading to impaired detrusor contractility. Alpha-adrenergic agonists, such as decongestants, increase tone in the prostate and bladder neck, whereas calcium channel blockers reduce smooth muscle contractility in the bladder.12Nonsteroidal anti-inflammatory drugs inhibit prostaglandin synthesis, which, in theory, could lead to decreased detrusor muscle contraction.13"
+        },
+        {
+            "parent": 3,
+            "text": "Postoperative urinary retention occurs in 2% to 14% of inpatient surgeries and significantly varies based on the type of anesthetic used in the procedure, but also on patient age, sex, and comorbidities. In two large analyses, the strongest risk factors for postoperative urinary retention included older age and the presence of lower urinary tract symptoms; use of a preoperative alpha blocker decreased this risk.14,15"
+        },
+        {
+            "parent": 4,
+            "text": "Normal urinary function depends on storage of urine in the bladder at low intravesicular pressure without leakage and the ability to intermittently voluntarily and effectively empty the bladder. These processes depend on dynamic interactions between the central and peripheral autonomic and somatic nervous systems.16Although miscommunication or interruption in these pathways more often results in urinary incontinence, comorbid or independent urinary retention can occur.17"
+        },
+        {
+            "parent": 4,
+            "text": "Urinary retention can result from many neurologic conditions(Table 318). Over time, 25% to 60% of men and women with diabetes mellitus will develop diabetic cystopathy, which can lead to detrusor underactivity and urinary retention.19In a 2010 cross-sectional study, approximately 25% of patients with multiple sclerosis reported needing intermittent catheterization.20Patients with a new spinal cord injury experience spinal shock for one to 12 months postinjury, which can result in complete urinary retention. The majority of patients who have spinal cord injury with spinal shock–induced urinary retention will require management for incomplete bladder emptying, such as intermittent catheterization or a suprapubic tube, during this time frame.21Many patients with spina bifida require anticholinergic medications to reduce bladder pressure. These medications can cause urinary retention, which requires intermittent catheterization to facilitate bladder emptying.22"
+        },
+        {
+            "parent": 4,
+            "text": "Cerebrovascular accidents more commonly lead to urinary incontinence; however, a subset of patients experience urinary retention because of detrusor hyporeflexia or areflexia, and retention is more likely to occur when lesions are found in the brainstem. The incidence of urinary retention can range from 19% to 47% in the early recovery period; a study of 80 consecutive adults undergoing inpatient rehabilitation after a first ischemic stroke found that 23 had evidence of urinary retention on admission, but only four still did by the time of discharge.23"
+        },
+        {
+            "parent": 5,
+            "text": "The risk of acute urinary retention increases during pregnancy and after the postpartum period. The incidence of acute urinary retention in pregnant women is about one in 200, and it is most common during weeks 9 through 16 of gestation. A significantly higher risk of developing acute urinary retention occurs in pregnant women who are 35 years or older, who have a retroverted uterus, or who experience preterm delivery during that pregnancy.24In the postpartum period, the incidence of acute urinary retention rose to one in 10 women; risk factors included instrumental deliveries, labors lasting longer than 700 minutes, and applied fundal pressure during the second stage of labor. The correlation of acute urinary retention with epidural anesthesia, episiotomy, macrosomia, and primiparity is supported by conflicting data.24–26"
+        },
+        {
+            "parent": 5,
+            "text": "Self-inflicted causes of acute urinary retention include the use of external penile constricting devices used to maintain erections, as well as various other genitourinary traumas.5"
+        },
+        {
+            "parent": 6,
+            "text": "The evaluation of the patient with suspected urinary retention should begin with a detailed history to elucidate the precise etiology, as summarized inTable 4.5Initial evaluation should also include a thorough medication history, including use of over-the-counter medications and herbal supplements. The American Urological Association Symptom Index is a validated questionnaire that aims to quantify lower urinary tract symptoms in men relative to obstructive uropathy, often secondary to prostatic enlargement (https://www.aafp.org/afp/2014/1201/p769.html#afp20141201p769-f1).27"
+        },
+        {
+            "parent": 6,
+            "text": "Physical examination should include a complete abdominal assessment, including palpation and percussion of the bladder and abdominal/pelvic organs; evaluation for flank tenderness; a digital rectal examination in men to assess prostate size with or without nodularity and the presence or absence of rectal masses; a complete pelvic examination in women; and a neurologic evaluation to assess strength, sensation, muscle tone, and reflexes relative to lower thoracic, lumbar, and sacral spinal levels.5"
+        },
+        {
+            "parent": 6,
+            "text": "Testing should include a postvoid residual (PVR) urine evaluation, which is a simple, noninvasive, and cost-effective volume measurement of urine within the bladder that can be performed with ultrasonography in the office. To date, there is no consensus on the cutoff volume to define acute urinary retention. Some studies posit that the bladder can be percussed when it contains 150 mL of urine and palpated with greater than 200 mL.5No evidence supports a specific PVR threshold for patients with chronic urinary retention; however, the American Urological Association has recommended using a value greater than 300 mL that has persisted for at least six months and has been documented on two separate occasions.28Patients with chronic urinary retention should be referred to a urologist if they are bothered by related symptoms or have evidence of renal or infectious complications resulting from retained urine. If PVR evaluation cannot be obtained or if it is thought to be inaccurate, patients with suspected urinary retention should be catheterized for decompression of the bladder and accurate measurement of stored urine."
+        },
+        {
+            "parent": 6,
+            "text": "Table 5reviews additional diagnostic testing that may be indicated in the evaluation of a patient with urinary retention.5"
+        },
+        {
+            "parent": 8,
+            "text": "In patients with suggestive history or symptoms, physicians should first use physical examination and/or imaging to confirm that the patient is retaining urine(Figure 1). The physician should then assess for urethral access by asking patients whether they have a history of urethral stricture, urethral injury, bladder or urethral surgery, or pelvic/perineal trauma that may have altered their urethral anatomy. It may be advisable to urgently refer these patients for urologic evaluation rather than attempting catheterization, particularly if patients note a history of being difficult to catheterize. These patients may benefit from an alternative catheter, such as a coudé tip, an endoscopic catheter placement via cystoscopy, or suprapubic catheter placement rather than the traditional 16 Fr catheter. Suprapubic catheters improve patient comfort and decrease bacteriuria and the need for recatheterization in those who require catheterization for up to 14 days.29"
+        },
+        {
+            "parent": 8,
+            "text": "Catheterization of patients with acute urinary retention should be attempted by experienced physicians because patients are usually experiencing significant discomfort; multiple unsuccessful attempts to place the catheter may increase the risk of urethral injury.30A Cochrane review found that catheters coated with silver alloy do not prevent catheter-acquired urinary tract infections, and antibiotic-impregnated catheters produce statistically significant but clinically unimportant reductions.31After the catheter is placed, the bladder should be allowed to drain continuously for at least three days."
+        },
+        {
+            "parent": 8,
+            "text": "Physicians should be aware that high-volume urinary retention can sometimes cause ureteral obstruction and, consequently, acute renal injury. Therefore, rapid decompression of the bladder can occasionally lead to a postobstructive diuresis and hematuria. Physicians should be aware of this rare potential complication and should monitor patients closely for electrolyte abnormalities, dehydration, and hypotension."
+        },
+        {
+            "parent": 8,
+            "text": "Starting an alpha-blocker medication such as tamsulosin (Flomax) at the time of catheter insertion or certainly before removal increases the likelihood of a successful voiding trial, although it may not prevent recurrent urinary retention or the need for future surgical intervention. Most experts recommend a voiding trial after the catheter has been in place for three to seven days, which should be sufficient for resolution of an iatrogenic or temporary condition.32–37Patients who fail a voiding trial after catheter removal, who have a PVR greater than 300 mL, or who reported bothersome urinary symptoms before the retention episode should be referred to a urologist within two to three weeks for evaluation."
+        },
+        {
+            "parent": 9,
+            "text": "Chronic urinary retention should be managed based on its underlying cause. For patients with non-neurologic chronic urinary retention, the American Urological Association has proposed a treatment algorithm that recommends classifying patients with chronic urinary retention first by risk and then by symptoms(Figure 228). Patients with high-risk chronic urinary retention have associated findings of hydronephrosis on imaging, stage 3 chronic kidney disease, or recurrent culture-proven urinary tract infection or urosepsis. Patients with symptomatic chronic urinary retention will generally report moderate to severe urinary symptoms on the American Urological Association Symptom Index and/or have a recent history of catheterization for urinary retention. All of these patients should be reassessed periodically for changes in risk or symptoms.28"
+        },
+        {
+            "parent": 9,
+            "text": "Persons with urinary retention related to an underlying neurologic cause (“neurogenic bladder”), including those with spinal cord injuries, have a significantly higher risk of infectious or renal morbidity from retained urine.38Given the additional risk of these and other neurologic conditions, such as multiple sclerosis and Parkinson disease, these patients should be followed in conjunction with a neurologist and urologist."
+        },
+        {
+            "parent": 9,
+            "text": "This article updates a previous article on this topic bySelius and Subedi.5"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:A PubMed search was completed using the key terms acute urinary retention and chronic urinary retention. The Cochrane Database of Systematic Reviews was searched using the key term urinary retention. Essential Evidence Plus, the U.S. Preventive Services Task Force, the Agency for Healthcare Research and Quality, and the National Guideline Clearinghouse were also searched. Search dates: April through July 2017."
+        }
+    ],
+    "locked": false
+}

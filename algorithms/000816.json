@@ -1,0 +1,239 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/1215/p2259.html#afp20021215p2259-f5",
+    "title": "Gluten-Sensitive Enteropathy (Celiac Disease): More Common Than You Think | AAFP",
+    "author": "DAVID A. NELSEN, JR., M.D., M.S.",
+    "doi": "Am Fam Physician.2002;66(12):2259-2266",
+    "abstract": "Gluten-sensitive enteropathy or, as it is more commonly called, celiac disease, is an autoimmune inflammatory disease of the small intestine that is precipitated by the ingestion of gluten, a component of wheat protein, in genetically susceptible persons. Exclusion of dietary gluten results in healing of the mucosa, resolution of the malabsorptive state, and reversal of most, if not all, effects of celiac disease. Recent studies in the United States suggest that the prevalence of celiac disease is approximately one case per 250 persons. Gluten-sensitive enteropathy commonly manifests as “silent” celiac disease (i.e., minimal or no symptoms). Serologic tests for antibodies against endomysium, transglutaminase, and gliadin identify most patients with the disease. Serologic testing should be considered in patients who are at increased genetic risk for gluten-sensitive enteropathy (i.e., family history of celiac disease or personal history of type I diabetes) and in patients who have chronic diarrhea, unexplained anemia, chronic fatigue, or unexplained weight loss. Early diagnosis and management are important to forestall serious consequences of malabsorption, such as osteoporosis and anemia.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "DERMATITIS HERPETIFORMIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ANEMIA",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SILENT CELIAC DISEASE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "SEROLOGIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "DISTAL DUODENAL BIOPSY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Complications",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "OSTEOPOROSIS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "NEUROLOGIC MANIFESTATIONS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "REFRACTORY SPRUE",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "LYMPHOMA AND BOWEL ADENOCARCINOMA",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Management",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Although celiac disease was formally described late in the 19th century, treatment remained empiric until the middle of the 20th century when patients were noted to improve dramatically after wheat was removed from their diet. With the development of small-bowel biopsy techniques, the small intestine was identified as the target organ. Disease causality was established when the characteristic features of villous flattening, crypt hyperplasia, and increased intra-epithelial lymphocytes(Figure 1)were shown to normalize after the institution of a gluten-free diet.1"
+        },
+        {
+            "parent": -1,
+            "text": "In the mid-1960s, an enteropathy strikingly similar to celiac disease was identified in patients with dermatitis herpetiformis. Subsequently, this skin disorder was shown to be a manifestation of gluten-sensitive enteropathy. In the mid-1960s, adult celiac disease was also noted to be associated with numerous neurologic disorders, including epilepsy, cerebral calcifications, and peripheral neuropathy.1"
+        },
+        {
+            "parent": -1,
+            "text": "Recent population studies indicate that celiac disease is more common than was previously thought. Some patients with gluten-sensitive enteropathy have minimal or no symptoms and are unlikely to be referred to a gastroenterologist unless the disease is considered. Hence, family physicians need to be familiar with the diagnosis and management of gluten-sensitive enteropathy."
+        },
+        {
+            "parent": 0,
+            "text": "Ingested protein does not normally provoke an immune response. This phenomenon is termed “oral tolerance.” Patients who exhibit true allergy to an ingested protein (e.g., milk or soy protein) have a typical IgE-mediated response consisting of urticaria, angioedema, and bronchoreactivity."
+        },
+        {
+            "parent": 0,
+            "text": "The autoimmunity in gluten-sensitive enteropathy involves plasma cells that produce IgA and IgG; there is little or no IgE involvement. Current theory suggests that ingested α-gliadin (a component of the gluten protein) and related peptides bind with tissue transglutaminase (a ubiquitous intracellular enzyme) in enterocytes. The α-gliadin is rich in glutamine; transglutaminase deamidates glutamine residues, forming glutamic acid. Deamidation enhances the immunogenicity of α-gliadin by creating epitopes that are recognized as foreign by host cell–mediated immunity.2"
+        },
+        {
+            "parent": 0,
+            "text": "Plasma cells produce IgA and IgG that are directed against a variety of antigens, including transglutaminase, endomysium, gliadin, and reticulin. Locally elaborated lymphokines attract inflammatory cells.3This intense local inflammatory reaction produces the villous flattening characteristic of gluten-sensitive enteropathy. Malabsorption of micronutrients (e.g., vitamins and minerals) and macronutrients (e.g., protein, carbohydrate, fat) follows. Small-bowel involvement is most prominent proximally and may be “patchy,” especially in patients with “silent” celiac disease (i.e., minimal or no symptoms) and those with dermatitis herpetiformis."
+        },
+        {
+            "parent": 0,
+            "text": "Approximately 95 percent of patients with celiac disease exhibit specific Human Leukocyte Antigen (HLA) class II alleles DQA1*0501 and DQB1*0201.4Patients with type 1 diabetes, autoimmune thyroid disease,5Sjögren's syndrome, primary biliary cirrhosis, Addison's disease, systemic lupus erythematosus, selective IgA deficiency, and alopecia areata may also exhibit similar genotypes and are at risk for gluten-sensitive enteropathy(Table 1). Because many persons have these genotypes and only a few develop gluten-sensitive enteropathy, investigators have hypothesized that other genes or cofactors may be involved.1"
+        },
+        {
+            "parent": 1,
+            "text": "Until recently, celiac disease was considered to be relatively uncommon. Previous U.S. figures suggested that it affected one in 6,000 persons.6However, population studies published in the past four years suggest a much higher prevalence, particularly in persons of European ancestry.7Studies conducted in Europe estimate the seroprevalence of celiac disease to be one case per 130 to 300 persons.8–10"
+        },
+        {
+            "parent": 1,
+            "text": "In a recent U.S. study,11investigators tested sera from 2,000 healthy Red Cross blood donors and found eight samples that were positive for antibodies associated with gluten-sensitive enteropathy (seven samples from white persons, one sample from a black person). The seroprevalence rate in this study (one case per 250 persons tested) is consistent with the rates in European studies."
+        },
+        {
+            "parent": 1,
+            "text": "The likelihood of having gluten-sensitive enteropathy increases to 10 to 20 percent in persons who have a first-degree relative with celiac disease.1In addition, celiac disease is associated with other autoimmune syndromes. For example, as many as 7 percent of patients with type I diabetes also have gluten-sensitive enteropathy.12"
+        },
+        {
+            "parent": 2,
+            "text": "Untreated gluten-sensitive enteropathy is associated with a range of symptoms13,14(Table 2). The “classic” form typically presents in infancy and manifests as failure to thrive, diarrhea, abdominal distention, developmental delay, and, occasionally, severe malnutrition. Failure to diagnose the disorder may lead to a true medical emergency."
+        },
+        {
+            "parent": 2,
+            "text": "Beyond infancy, the symptoms of celiac disease tend to be less dramatic. Older children may present with constitutional short stature or dental enamel defects."
+        },
+        {
+            "parent": 2,
+            "text": "Women comprise approximately 75 percent of newly diagnosed adult celiac disease cases. Women also tend to have more clinically conspicuous disease.15In adults of both sexes, gastrointestinal tract involvement may manifest as diarrhea, constipation, or other symptoms of malabsorption, such as bloating, flatus, or belching. Fatigue, depression, fibromyalgia-like symptoms, aphthous stomatitis, bone pain, dyspepsia, gastroesophageal reflux, and other nonspecific symptoms may be present and can make the diagnosis quite challenging.14A number of other autoimmune syndromes have been associated with celiac disease(Table 1)."
+        },
+        {
+            "parent": 3,
+            "text": "Fewer than 10 percent of adults with gluten-sensitive enteropathy present with dermatitis herpetiformis.16This skin condition may be misdiagnosed as atypical psoriasis or nonspecific dermatitis."
+        },
+        {
+            "parent": 3,
+            "text": "The rash of dermatitis herpetiformis is intensely pruritic and typically occurs on the back, buttocks, knees, and elbows(Figure 2). Unexcoriated lesions(Figure 3)are remarkably like those of herpes simplex (thus, the term “herpetiformis”). Granular IgA deposition on immunofluorescence of a skin biopsy specimen is diagnostic(Figure 4)."
+        },
+        {
+            "parent": 4,
+            "text": "Anemia is the most common laboratory manifestation of celiac disease13,14(Table 3). One half of patients with newly diagnosed gluten-sensitive enteropathy are anemic. Iron is absorbed in the proximal small intestine, where celiac manifestations are most prominent; hence, iron malabsorption is common. In addition, occult blood loss related to intense small-bowel inflammation may occur in 50 percent of patients with gluten-sensitive enteropathy.17Less commonly, vitamin B12deficiency, folate deficiency, or both may be present."
+        },
+        {
+            "parent": 5,
+            "text": "A number of investigators believe that clinically apparent gluten-sensitive enteropathy represents the “tip of the iceberg” of the overall disease burden.7Patients who were detected in the seroprevalence studies8–11were asymptomatic or oligosymptomatic (so-called “silent” celiac disease)."
+        },
+        {
+            "parent": 5,
+            "text": "Family physicians should consider serologic testing in patients with the following: family history of celiac disease, personal history of thyroid disease or type I diabetes, irritable bowel syndrome, anemia (especially iron deficiency), chronic diarrhea, chronic fatigue, unexplained weight loss, short stature, epilepsy, infertility,18or unexplained elevation of transaminase levels. Asymptomatic or oligosymptomatic patients are still at risk for complications of celiac disease."
+        },
+        {
+            "parent": 7,
+            "text": "When the diagnosis of gluten-sensitive enteropathy is suspected, serologic tests can identify many affected patients.19(Figure 5). IgA antiendomysial antibody has been shown to be 85 to 100 percent sensitive and 96 to 100 percent specific for celiac disease. IgA antiendomysial antibody is measured using direct immunofluorescence of monkey esophagus or umbilical cord tissue processed with suspect serum."
+        },
+        {
+            "parent": 7,
+            "text": "IgG and IgA antigliadin antibodies are also useful in diagnosing celiac disease. The antibody directed against endomysium has recently been identified as identical to the antibody directed against (tissue) transglutaminase. An enzyme-linked immunosorbent assay has been developed to measure IgA antitransglutaminase; this test will generally replace the more tedious direct fluorescent antibody test for IgA antiendomysial antibody.20–22In diagnosing celiac disease, antitransglutaminase antibody is considered to be approximately as sensitive and specific as antiendomysial antibody(Table 4).21,23–25"
+        },
+        {
+            "parent": 7,
+            "text": "The presence of IgA antiendomysial and antitransglutaminase antibodies correlates with intestinal damage. Tests for these antibodies are highly sensitive in patients with total and subtotal villous atrophy. IgA antiendomysial antibody testing has been reported to be 100 percent sensitive in patients with total villous atrophy. The combination of IgA antiendomysial antibody and IgG and IgA antigliadin antibodies detects 76 percent of patients with mucosal damage."
+        },
+        {
+            "parent": 7,
+            "text": "It is important to note that 2 to 3 percent of patients with gluten-sensitive enteropathy also have selective IgA deficiency. Because these patients may not produce the diagnostic IgA antibodies, a positive IgG antigliadin antibody test may be the only serologic evidence of the disease. If clinical suspicion is high, quantitative IgA measurements should be obtained in these patients.26Endoscopy and biopsy should be strongly considered in patients with selective IgA deficiency."
+        },
+        {
+            "parent": 7,
+            "text": "Declining autoantibody titers correlate with resolution of the gastrointestinal lesion and may be used to document clinical improvement. In equivocal cases or when a patient has been on a gluten-free diet, a gluten challenge test may be used to provoke the gastrointestinal lesion and serologic response."
+        },
+        {
+            "parent": 8,
+            "text": "Distal duodenal biopsy is the gold standard for the diagnosis of celiac disease. Biopsy should be performed in most patients with suspected gluten-sensitive enteropathy. In determining the need for biopsy, family physicians should consult a gastroenterologist who is experienced in the diagnosis and management of celiac disease.1"
+        },
+        {
+            "parent": 10,
+            "text": "Calcium and vitamin D malabsorption dramatically increases the risk of osteoporosis and osteomalacia in patients with gluten-sensitive enteropathy. Most patients with celiac disease have some degree of osteopenia or osteoporosis. Fortunately, calcium and vitamin D supplementation, coupled with a strict gluten-free diet, usually results in remineralization of the skeleton.27,28"
+        },
+        {
+            "parent": 10,
+            "text": "Bone density should be assessed in all patients with newly diagnosed celiac disease. Postmenopausal women should be advised about the benefits of estrogen replacement. The use of antiresorptive agents (e.g., alendronate [Fosamax]) has not been extensively studied, but these drugs may be of benefit."
+        },
+        {
+            "parent": 11,
+            "text": "Cerebral calcifications and epilepsy have been associated with celiac disease29,30and do not always resolve with the institution of a gluten-free diet. Peripheral neuropathy, postural instability, “gluten ataxia,” and other vague neurologic complaints may be the sole manifestation of gluten-sensitive enteropathy.31Autoantibodies associated with celiac disease have demonstrated a strong affinity for brain vasculature.32"
+        },
+        {
+            "parent": 12,
+            "text": "In patients with refractory sprue, gastrointestinal tract inflammation continues despite maintenance of a gluten-free diet. Dietary noncompliance is the most common reason for persistent inflammation; however, coexistent conditions such as hyperthyroidism and collagenous colitis should also be considered."
+        },
+        {
+            "parent": 12,
+            "text": "Patients who are truly refractory to dietary measures may have cryptic lymphoma of (bowel) intraepithelial lymphocytes. All diet-refractory patients should be evaluated by a gastroenterologist with expertise in the management of celiac disease. Corticosteroids and immunosuppressant drugs have been used to treat refractory sprue, but data on their effectiveness are sparse."
+        },
+        {
+            "parent": 12,
+            "text": "Intestinal strictures and bowel obstruction may develop in patients with refractory sprue or celiac disease that has been untreated over a long period."
+        },
+        {
+            "parent": 13,
+            "text": "Enteropathy-associated T-cell lymphoma has been associated with untreated gluten-sensitive enteropathy and refractory sprue.33Lymphoma may develop in patients with celiac disease who also have dermatitis herpetiformis."
+        },
+        {
+            "parent": 13,
+            "text": "Studies34,35have shown that maintenance of a long-term gluten-free state reduces the risk of lymphoma to the level in the general population. Thus, it is imperative that patients with celiac disease (and dermatitis herpetiformis) maintain a gluten-free diet for the rest of their lives."
+        },
+        {
+            "parent": 13,
+            "text": "Patients with celiac disease are also at risk for the development of bowel adenocarcinoma in all sites. The risk is especially high in patients with a long period of disease preceding institution of a gluten-free diet."
+        },
+        {
+            "parent": 14,
+            "text": "Once the diagnosis of celiac disease has been made, patients should be evaluated for known manifestations and complications(Table 5). Iron deficiency should be treated with supplemental iron. Osteoporosis should be treated with calcium and vitamin D replacement. Depending on individual factors, patients with gluten-sensitive enteropathy may need to take a multivitamin, iron, calcium, magnesium, zinc, selenium, vitamin D, or other nutrients."
+        },
+        {
+            "parent": 14,
+            "text": "The primary treatment for celiac disease is the removal of gluten and related proteins from the diet. Complete exclusion of dietary gluten generally results in rapid and complete healing of small-bowel inflammation. Advice from a registered dietitian is essential to outline an appropriate diet."
+        },
+        {
+            "parent": 14,
+            "text": "Gluten, a prolamine, is the primary protein in wheat. Hence, wheat and products containing wheat must be avoided. Barley and rye contain similar proteins and must also be avoided. Oats are a subject of controversy.36,37Although oats themselves may be nontoxic in limited quantities, commercial oat products are measurably contaminated with wheat. Rice, corn, maize, flax, quinoa, tapioca, potato, amaranth, and other grain substitutes, such as nuts and beans, are safe."
+        },
+        {
+            "parent": 14,
+            "text": "There are many commercial gluten-free products, including breads, cookies, chips, and cereals, that can be used to fashion a rich and interesting diet. Meats, vegetables, fruit, and most dairy products are free of gluten, as long as they have not been contaminated during production."
+        },
+        {
+            "parent": 14,
+            "text": "A number of food manufacturers maintain lists of gluten-free products. These lists can be obtained from the manufacturers' Web sites or by telephone request. Information on gluten-free foods is also available from local or national support groups such as the Celiac Sprue Association. Selected resources are provided inTable 6."
+        }
+    ],
+    "locked": false
+}

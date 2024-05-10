@@ -1,0 +1,109 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0115/p106.html#afp20140115p106-f1",
+    "title": "Diagnostic Approach to Patients with Tinnitus | AAFP",
+    "author": "KENNETH S. YEW, MD, MPH",
+    "doi": "Am Fam Physician.2014;89(2):106-113",
+    "abstract": "Tinnitus, a common symptom encountered in family medicine, is defined as the perception of noise in the absence of an acoustic stimulus outside of the body. Because tinnitus is a symptom and not a disease, its underlying cause must be determined to best help patients. Although tinnitus is often idiopathic, sensorineural hearing loss is the most common identified cause. It can also be caused by other otologic, vascular, neoplastic, neurologic, pharmacologic, dental, and psychological factors. More serious causes, such as Meniere disease or vestibular schwannoma, can be excluded during the evaluation. History and physical examination of the head, eyes, ears, nose, throat, neck, and neurologic system guide subsequent evaluation. Almost all patients with tinnitus should undergo audiometry with tympanometry, and some patients require neuroimaging or assessment of vestibular function with electronystagmography. Supportive counseling should begin during the initial evaluation to help patients cope with tinnitus. Counseling may also improve the chances of successful subsequent treatment.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ANCILLARY STUDIES, IMAGING, AND DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Information for Patients",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Tinnitus is a common symptom encountered in family medicine. It is defined as sound perception in the absence of sound input external to the patient. Subjective tinnitus is the most common type, and is audible only to the patient, without internal or external sound input. Objective tinnitus is rare, accounting for less than 1% of cases.1It involves the perception of an internal sound, such as a bruit, as tinnitus. The causes of objective tinnitus are chiefly vascular or muscle dysfunction.2"
+        },
+        {
+            "parent": -1,
+            "text": "Tinnitus lasting at least five minutes was reported by 30% of persons 49 years and older in an Australian population-based cohort.3In a U.S. population-based study, slightly more than 8% of persons 48 years and older were affected by tinnitus that was moderately severe or that impacted sleep.4Although it can be transient, older persons are more likely to have persistent tinnitus.5A simple and efficient approach to the evaluation and diagnosis of tinnitus can safely detect the minority of persons with more serious etiologies, such as Meniere disease or vestibular schwannoma."
+        },
+        {
+            "parent": 0,
+            "text": "Because tinnitus is a symptom and not a disease, there is no objective test to confirm its existence or grade its severity.6For this reason, much of the workup for tinnitus is without evidence. The etiology of tinnitus is often multifactorial, but in many cases, it is a response of the central nervous system to insufficient or abnormal input from the ear, comparable to phantom limb syndrome.7In this syndrome, persons perceive their limb even after it has been amputated. In a similar manner, tinnitus persists even after surgical transection of the auditory nerve.7"
+        },
+        {
+            "parent": 0,
+            "text": "Tinnitus occurs in most persons with normal hearing who are exposed to silence.8It can be affected by input outside of the auditory system. For example, in patients with somatosensory tinnitus, movements of the head, neck, or limbs or palpation of myofascial trigger points can modulate or reproduce tinnitus.9The belief that tinnitus is entirely psychosomatic is outmoded. Appreciation of a person's subjective response to tinnitus can help establish a therapeutic alliance that will support further education and therapy."
+        },
+        {
+            "parent": 0,
+            "text": "Table 1lists the common etiologies of tinnitus.1,2,10–15The condition most often associated with tinnitus is sensorineural hearing loss caused by presbycusis or occupational noise exposure.3,16Conductive hearing loss from cerumen impaction, middle ear effusion, or otosclerosis is also associated with tinnitus.4Although certain metabolic conditions were previously thought to cause tinnitus, there is little evidence to support this.15A Medline search found no studies linking tinnitus with thyroid disease. The search found a single case report and a weakly suggestive observational study linking tinnitus with vitamin B12deficiency,17,18as well as several case series and small observational studies inconsistently suggesting a link between tinnitus and hyperlipidemia or diabetes mellitus.19–24"
+        },
+        {
+            "parent": 0,
+            "text": "More than 130 medications have been reported to cause tinnitus or hearing loss.25To decrease the risk of iatrogenic tinnitus, patients should avoid using more than one potentially ototoxic agent concurrently, and should limit the dose and duration, especially if other risk factors for tinnitus are present.Table 2lists common medications consistently associated with tinnitus.25,26"
+        },
+        {
+            "parent": 0,
+            "text": "Some studies suggest that a somatosensory component may be present in some patients with tinnitus, although this is not fully understood. Tinnitus may be associated with temporomandibular joint dysfunction27and whiplash,3and may be modulated by body movements.28Several neurologic conditions can produce tinnitus. For example, spontaneous intracranial hypotension is an uncommon but increasingly recognized cause of daily or thunderclap headache; it results from a spontaneous cerebrospinal fluid leak often following a forceful Valsalva maneuver.11Spontaneous intracranial hypotension is characterized by a positional headache similar to a post–dural puncture headache, and patients may have associated tinnitus. Idiopathic intracranial hypertension is another neurologic cause of tinnitus that occurs primarily in women who are overweight.13Vestibular migraine is characterized by vertiginous symptoms coincident at least twice with migraine symptoms in persons with a history of recurrent vestibular symptoms and migraine.14"
+        },
+        {
+            "parent": 0,
+            "text": "Meniere disease is characterized by intermittent episodes of vertigo, fluctuating hearing loss, tinnitus, and ear pressure secondary to malabsorption of endolymphatic fluid in the inner ear.29Patients may present with any one of these symptoms or a combination of symptoms, making early diagnosis a challenge.30Meniere disease has an annual incidence of 4.3 per 100,000 persons, a prevalence of 17 to 46 per 100,000 persons, and a peak age of onset of 40 to 60 years.29Diagnosis depends on the presence of typical symptoms, with or without audiometrically documented hearing loss.31When hearing loss is documented in patients with Meniere disease, it is usually noted in lower pitches.30"
+        },
+        {
+            "parent": 0,
+            "text": "Vestibular schwannoma, formerly known as acoustic neuroma, is a benign tumor of the acoustic nerve presenting most commonly as progressive unilateral or asymmetric hearing loss, with or without tinnitus, vertigo, or both.32–34It is rare for tinnitus to be the only symptom.35Only 1% to 2% of patients presenting with the classic symptoms of unilateral hearing loss with or without unilateral tinnitus have a schwannoma.36The incidence is about one per 100,000 persons in the United States,37although it has been increasing over the past several decades, in part because of better detection.38Although some investigators have speculated that cellular telephone use has contributed to this apparent increase,39studies do not show a consistent association."
+        },
+        {
+            "parent": 0,
+            "text": "Tinnitus is associated with increased prevalence of depression and anxiety; however, the precise timing and sequence of the relationship is unclear.40,41There is no evidence that affective disorders cause tinnitus, but anxiety or depression may alter a patient's toleration of tinnitus or be exacerbated by tinnitus.40,41Individual personality factors, such as being more socially withdrawn, less tolerant of stress, and more likely to feel victimized by life's circumstances, were associated with longer duration of and greater annoyance from tinnitus in a New Zealand cohort.42"
+        },
+        {
+            "parent": 2,
+            "text": "History and physical examination are the primary diagnostic tools for tinnitus.Table 3lists historical items that are helpful in the evaluation of a patient with tinnitus.2–4,6,11,13,16,25,27,30–32,43–49Key elements of the physical examination include the head, eyes, ears, nose, throat, neck, and neurologic system.Table 4provides physical examination findings that are helpful in the evaluation of a patient with tinnitus.2,3,10,11,32,35,45,50,51"
+        },
+        {
+            "parent": 3,
+            "text": "Figure 1is a suggested evaluation algorithm based on tinnitus chronicity, accompanying features, and examination findings. Almost all patients presenting with persistent tinnitus should undergo pure tone audiometry with assessment of air and bone conduction, speech discrimination testing, and tympanometry.34,49Table 5provides sensitivity and specificity data for several ancillary and imaging studies in the evaluation of patients with tinnitus.29,33,36,52,53The optimal definition for asymmetric hearing loss has not been studied by randomized controlled trials linked to long-term patient outcomes. A recent cross-sectional study of all published definitions of asymmetric hearing loss found an average difference of 10 dB or greater over 1 to 8 kHz had the best sensitivity for vestibular schwannoma. An average difference of 15 dB or greater over 0.5 to 3 kHz maximized specificity.36"
+        },
+        {
+            "parent": 3,
+            "text": "Previously, the auditory brainstem response (ABR) test has been used to screen for vestibular schwannoma in patients with asymmetric sensorineural hearing loss, unilateral tinnitus or hearing difficulties, symptoms of vestibular dysfunction, or abnormal neurologic examination.35The ABR test uses a series of clicks to stimulate the ear and then monitors for afferent nerve propagation of the resulting signal.33However, a systematic review of magnetic resonance imaging (MRI) for the evaluation of suspected vestibular schwannoma concluded that MRI superseded ABR testing.33Most U.S. otolaryngologists order a contrast-enhanced MRI of the brain and internal auditory canals in the setting of asymmetric hearing loss to rule out vestibular schwannoma. Conversely, a systematic review from the United Kingdom concluded that non–contrast-enhanced T2- and T2*-weighted MRI was the most cost-effective initial examination second to abnormal audiometry because its sensitivity was expected to be comparable with locally available contrast-enhanced MRI studies.33Similar reviews have not been performed in the United States. In patients unable to undergo MRI, ABR testing or computed tomography is an acceptable alternative.33"
+        },
+        {
+            "parent": 3,
+            "text": "For patients with suspected Meniere disease, vestibular testing with electronystagmography, in addition to audiometry and neuroimaging, can help exclude other vestibular disorders. Electronystagmography is a battery of four tests designed to record eye movements in response to visual or vestibular stimuli, thus assessing the peripheral vestibular system. The most common electronystagmography finding in patients with Meniere disease is unilateral vestibular hypofunction.29No single test confirms a diagnosis of Meniere disease. Rather, the diagnosis is based on a history of fluctuating episodes of tinnitus, hearing loss, aural pressure, vertigo, or a combination of these symptoms."
+        },
+        {
+            "parent": 3,
+            "text": "In patients with pulsatile tinnitus, the choice of imaging test depends on whether arterial or venous tinnitus is suspected. In addition to audiometry, patients with suspected arterial pulsatile tinnitus, retrotympanic lesions, or arterial bruits in the head should be assessed by head and neck computed tomography angiography.51An arterial bruit confined to the neck can be assessed using carotid Doppler ultrasonography, neck computed tomography angiography, or magnetic resonance angiography.51Suspected venous pulsatile tinnitus requires MRI, magnetic resonance venography, and, in patients with suspected idiopathic intracranial hypertension, a lumbar puncture and measurement of cerebrospinal fluid pressure.51In a case series of 145 patients with pulsatile tinnitus, the most common diagnoses were idiopathic intracranial hypertension, atherosclerotic carotid artery disease, and glomus tumors; these diagnoses accounted for two-thirds of all patients in the study.54"
+        },
+        {
+            "parent": 3,
+            "text": "Laboratory tests seldom reveal a treatable cause of tinnitus, and little existing evidence supports their use. Laboratory testing should be guided by clinical suspicion rather than the presence of tinnitus because the diagnostic yield is likely to be low. For patients with asymmetric sensorineural hearing loss and tinnitus, syphilis and Lyme serologies are cost-effective ways to identify treatable causes.55"
+        },
+        {
+            "parent": 4,
+            "text": "A population-based study of older patients found that tinnitus persisted in more than 80% of individuals during a follow-up of five years and increased in severity in nearly 50%.5However, most of the relatively small number of persons with “very annoying” tinnitus at baseline expressed less annoyance at five years, suggesting improved coping over time.5Because many patients with chronic tinnitus do not have a specific etiology beyond presbycusis,44supportive counseling can help patients understand the generally benign nature of tinnitus and learn to cope with it. Counseling can also support subsequent therapeutic efforts. In those with intractable and life-altering tinnitus, several otolaryngology and audiology programs offer clinics for learning coping techniques."
+        },
+        {
+            "parent": 4,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries with the term tinnitus. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Essential Evidence was also searched for the terms Meniere disease, tinnitus, and acoustic neuroma. Using the key word tinnitus, a search was performed in Evidence Based Medicine, Bandolier, Cochrane Database of Systematic Reviews, ACP Journal Club, and Database of Abstracts of Reviews of Effectiveness (DARE), Effective Health Care, Institute for Clinical Systems Improvement guidelines, and the National Guideline Clearinghouse. Also searched in PubMed Clinical Queries Diagnosis were the terms acoustic neuroma and Meniere disease. Additionally, a full PubMed search was performed for tinnitus crossed with benign intracranial hypertension, diabetes, thyroid disease, hyperlipidemia, and vitamin B12deficiency. Search dates: June and July 2010, and July 2013."
+        }
+    ],
+    "locked": false
+}

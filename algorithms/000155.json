@@ -1,0 +1,134 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0315/p362.html#afp20200315p362-f2",
+    "title": "Office Spirometry: Indications and Interpretation | AAFP",
+    "author": "ROBERT C. LANGAN, MD, AND ANDREW J. GOODBRED, MD",
+    "doi": "Am Fam Physician.2020;101(6):362-368",
+    "abstract": "High-quality, office-based spirometry provides diagnostic information as useful and reliable as testing performed in a pulmonary function laboratory. Spirometry may be used to monitor progression of lung disease and response to therapy. A stepwise approach to spirometry allows for ease and reliability of interpretation. Airway obstruction is suspected when there is a decreased forced expiratory volume in one second/forced vital capacity (FEV1/FVC) ratio, but there is no strong evidence to clearly define what constitutes a significant decrease in this ratio. A low FVC is defined as a value below the 5th percentile in adults or less than 80% of predicted in children and adolescents five to 18 years of age. The FEV1/FVC ratio and FVC are used together to identify obstructive defects and restrictive or mixed patterns. Obstructive defects should be assessed for reversibility, as indicated by an improvement of the FEV1or FVC by at least 12% and 0.2 L in adults, or by more than 12% in children and adolescents five to 18 years of age after the administration of a short-acting bronchodilator. FEV1is used to determine the severity of obstructive and restrictive disease, although the values were arbitrarily determined and are not based on evidence from patient outcomes. Bronchoprovocation testing may be used if spirometry results are normal and allergen- or exercise-induced asthma is suspected. For patients with an FEV1less than 70% of predicted, a therapeutic trial of a short-acting bronchodilator may be tried instead of bronchoprovocation testing.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Indications for Screening",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Spirometry Overview",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Interpretation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "STEP ONE: ASSESS FOR OBSTRUCTION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "STEP TWO: EVALUATE THE FVC",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "STEP THREE: GRADING SEVERITY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "STEP FOUR: FULL PULMONARY FUNCTION TESTING TO CONFIRM RESTRICTION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "STEP FIVE: ASSESS FOR REVERSIBILITY OF OBSTRUCTION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "STEP SIX: ROLE OF BRONCHOPROVOCATION TESTING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Differential Diagnosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Approximately 1% to 4% of all visits to primary care offices are for dyspnea.1The proper use of pulmonary function tests can help differentiate many of the causes of dyspnea, monitor the progression of chronic pulmonary disease, and assess response to treatment. In a cross-sectional study, primary care physicians underestimated the severity of chronic obstructive pulmonary disease (COPD) in 41% of patients and overestimated severity in 29% of patients when compared with immediate, in-office spirometry. Overall, physician rating of severity was accurate in only 30% of patients.2Spirometry is recommended as part of the diagnostic workup in patients with presumed COPD or asthma by the American Thoracic Society/European Respiratory Society (ATS/ERS)3; the Global Initiative for Chronic Obstructive Lung Disease (GOLD)4; the Global Initiative for Asthma5; and the American Academy of Allergy, Asthma, and Immunology.6High-quality spirometry performed in a family physician's office is comparable to testing performed in a pulmonary function laboratory.7,8A video of office-based spirometry is available athttps://bit.ly/2JAIYGx. Although there are different types of pulmonary function tests, this article focuses on office-based spirometry."
+        },
+        {
+            "parent": 0,
+            "text": "Indications for spirometry from the ATS/ERS are listed inTable 1.9The U.S. Preventive Services Task Force recommends against screening asymptomatic adults for COPD with spirometry,10which is consistent with recommendations from the American Academy of Family Physicians,11ATS/ERS,3,12and GOLD.4"
+        },
+        {
+            "parent": 1,
+            "text": "The ATS/ERS have published guidelines for performing spirometry and for standardized spirometry reports.3,13The patient's height and weight should be measured before the examination. Patients should be instructed to withhold most bronchodilators before testing if the examination is being performed to diagnose an underlying lung disorder or if bronchodilator responsiveness will be assessed. This includes short-acting beta agonists (four to six hours), short-acting muscarinic antagonists (12 hours), long-acting beta agonists (24 hours), and long-acting muscarinic antagonists (36 to 48 hours). Inhaled corticosteroids may be continued. Other controller medications may be used. Patients should not smoke for one hour before testing. Drinking up to 16 oz of caffeinated coffee before spirometry does not affect the results.14"
+        },
+        {
+            "parent": 1,
+            "text": "Spirometry measures forced exhaled or inhaled air. The most important volumes for interpretation are the forced vital capacity (FVC; the total amount of air that can be expelled from full lungs) and the forced expiratory volume in one second (FEV1; the amount expelled during the first second of this maneuver). A decreased FEV1/FVC ratio is used to define the presence of obstruction. A bronchodilator may be administered to assess responsiveness if an obstructive defect is present. A decreased FVC identifies a restrictive pattern, whereas the combination of a decreased FEV1/FVC ratio and decreased FVC is classified as a mixed pattern.Full pulmonary function testing is recommended for patients with a restrictive pattern and for patients with a mixed pattern if FVC does not improve significantly after administration of a bronchodilator.15"
+        },
+        {
+            "parent": 1,
+            "text": "The results are displayed graphically in a flow-volume loop, which contains inspiratory and expiratory maneuvers and aids in determining the quality, acceptability, and reproducibility of the test.16The best FEV1and FVC results should be used to calculate the FEV1/FVC ratio, even if they are obtained from separate attempts by the patient(Figure 117). The ATS/ERS guidelines define five quality categories for spirometry based on assessments of maximal lung volume and patient effort. Only the two poorest-quality results as defined by the grading system affect test interpretation, however.13,18"
+        },
+        {
+            "parent": 2,
+            "text": "Once the validity of the spirometry test has been confirmed, the process of interpretation begins. A stepwise approach allows for ease and reliability of interpretation(Figure 217). Using this approach, a patient's pulmonary abnormality should be placed into the most specific category possible. Spirometry usually provides sufficient information to suggest a working diagnosis even in the context of medical conditions that are not easily characterized."
+        },
+        {
+            "parent": 3,
+            "text": "A decrease in the FEV1/FVC ratio indicates the presence of an obstructive defect. In older patients and those with more severe pulmonary disease who may be unable to adequately generate the required effort for a valid test, an FEV1/FEV6ratio may be an accurate parameter that is more easily obtained. A 2009 meta-analysis found that the FEV1/FEV6ratio has a sensitivity of 89% and a specificity of 98% for diagnosing airway obstruction.19In a subsequent study, an FEV1/FEV6ratio of less than 0.73 had excellent accuracy for detecting obstruction compared with the standard FEV1/FVC cutoff of less than 0.7, and may be a better predictor of COPD-related morbidity.20Use of the FEV1/FEV6ratio is not currently recommended by national organizations."
+        },
+        {
+            "parent": 3,
+            "text": "Specific FEV1/FVC ratio values to diagnose obstructive disease vary by organization. In patients with asthma, the Global Initiative for Asthma uses an FEV1/FVC ratio cutoff of less than 0.75 to 0.8 in adults and less than 0.9 in children.5For patients at risk of COPD, the GOLD criteria use a cutoff of less than 0.7, whereas the ATS/ERS guidelines recommend using an FEV1/FVC ratio that is less than the lower limit of normal.3,4The lower limit of normal is defined as less than the 5th percentile of spirometry data from ethnically appropriate reference equations published by the Third National Health and Nutrition Examination Survey. Many spirometers can calculate the lower limit of normal, or online calculators (e.g.,https://www.cdc.gov/niosh/topics/spirometry/refcalculator.html) can be used, although they are not approved by the U.S. Food and Drug Administration for this purpose."
+        },
+        {
+            "parent": 3,
+            "text": "Because lung volumes vary based on age, sex, and ethnicity, the use of a fixed FEV1/FVC ratio for diagnosis may overestimate the presence of obstruction in older patients and underestimate it in younger patients.21However, a 2012 study in a general practice setting reported that using a fixed FEV1/FVC ratio was better at diagnosing COPD than using the lower limit of normal, and a 2019 study showed that there was no difference between the two in predicting COPD-related hospital admissions or mortality in adults.22,23In the absence of clear evidence, physicians may use either set of spirometry criteria in conjunction with the patient's overall clinical picture to diagnose obstruction."
+        },
+        {
+            "parent": 4,
+            "text": "A low FVC is defined as a value less than the lower limit of normal for adults or less than 80% of predicted for children and adolescents five to 18 years of age.24Using the FEV1/FVC ratio and FVC, the spirometry pattern can be characterized as normal, restrictive, obstructive defect, or mixed(Table 224)."
+        },
+        {
+            "parent": 5,
+            "text": "The ATS/ERS guidelines classify the severity of an obstructive defect or restrictive or mixed pattern based on the percentage reduction in FEV1from the predicted value after administration of a bronchodilator(Table 3).24These values were arbitrarily determined and are not based on patient-oriented evidence outcomes.24There is evidence that lower FEV1values are associated with poorer prognosis and more severe symptoms in COPD, but accurate predictions for individual patients cannot be made based on FEV1.24"
+        },
+        {
+            "parent": 6,
+            "text": "Full pulmonary function tests, which are performed in a laboratory, provide information about lung volumes and quantitative measurement of gas exchange in the lungs that cannot be measured by standard office-based spirometry. Lung volumes, including the total volume of air in the lungs at maximum inspiration (total lung capacity) and the volume of air left in the lungs after maximal expiration (residual volume), are measured via body plethysmography (the most accurate technique),15helium dilution, or nitrogen washout. Carbon monoxide diffusion in the lung involves the patient inhaling a mixture of nitrogen, oxygen, helium, and carbon monoxide; holding his or her breath for 10 seconds; and then exhaling. Measurement of the exhaled helium and carbon monoxide allows for calculation of gas exchange. Hemoglobin concentrations can affect the carbon monoxide diffusion in the lung measurement and should be known before performing the test."
+        },
+        {
+            "parent": 6,
+            "text": "Full pulmonary function testing is recommended for patients with a restrictive pattern to differentiate between a restrictive defect and a mixed pattern. They should also be performed for patients with a mixed pattern if the FVC does not improve significantly after administration of a bronchodilator."
+        },
+        {
+            "parent": 7,
+            "text": "Obstructive defects can be further characterized by the degree of reversibility following administration of a short-acting bronchodilator. The ATS/ERS guidelines define significant reversibility as an increase in FEV1or FVC of more than 12% and 0.2 L in adults, or more than 12% in children and adolescents five to 18 years of age.24Full reversibility typically occurs with asthma but is typically absent or incomplete with COPD. Air trapping, in which air that would normally be exhaled remains in the lungs, can occur in patients with a pure obstructive process and produce a mixed pattern. Significant reversibility of a decreased FVC with a bronchodilator demonstrates that the apparent mixed pattern is a pure obstructive process."
+        },
+        {
+            "parent": 8,
+            "text": "Bronchoprovocation testing is recommended for patients with normal results on pulmonary function testing but a history that suggests exercise- or allergen-induced asthma.25A number of bronchoprovocation testing strategies are available(Table 4).25–28If there is a reversible obstruction consistent with asthma, a therapeutic trial of a short-acting bronchodilator may be considered rather than bronchoprovocation testing.29"
+        },
+        {
+            "parent": 9,
+            "text": "After spirometry results have been interpreted, a differential diagnosis may be considered, taking into account the patient's history and physical examination findings(Table 517). Review of previous spirometry results, if available, can aid in assessing disease progression or response to treatment. It should be noted that FVC and FEV1values decrease by 20 to 30 mL per year, and variations in test quality may affect the comparison.15"
+        },
+        {
+            "parent": 9,
+            "text": "This article updates previous articles on this topic byJohnson and Theurer,17andBarreiro and Perillo.30"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:We conducted literature searches using Ovid, PubMed, the Cochrane database, Essential Evidence Plus, and the U.S. Preventive Services Task Force focusing on the key words spirometry and pulmonary function tests. Search dates: April to November 2019."
+        }
+    ],
+    "locked": false
+}

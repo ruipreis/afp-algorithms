@@ -1,0 +1,86 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0315/p711.html#afp20110315p711-f1",
+    "title": "Considerations for Safe Use of Statins: Liver Enzyme Abnormalities and Muscle Toxicity | AAFP",
+    "author": "R. CLARK GILLETT, JR., MD, AND ANGELICA NORRELL, PharmD",
+    "doi": "Am Fam Physician.2011;83(6):711-716",
+    "abstract": "Statins play an important role in the care of patients with cardiovascular disease and have a good safety record in clinical practice. The risk of hepatic injury caused by statins is estimated to be about 1 percent, similar to that of patients taking a placebo. Patients with transaminase levels no more than three times the upper limit of normal can continue taking statins; often the elevations will resolve spontaneously. Coexisting elevations of transaminase levels from non alcoholic fatty liver disease and stable hepatitis B and C viral infections are not contraindications to statin use. Although myalgias are common with statin use, myositis and rhabdomyolysis are rare. When prescribed at one-half the recommended maximal dosage or less, statins are associated with an incidence of myopathy similar to that of placebo; therefore, routine monitoring of creatine kinase levels in asymptomatic patients is not recommended. Myopathic symptoms usually resolve approximately two months after discontinuing the statin, and the same statin can be restarted at a lower dosage, or patients can try a different statin. Clinically important drugs that interact with statins and increase the risk of adverse effects include fibrates, diltiazem, verapamil, and amiodarone.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Statins and the Liver",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "NONALCOHOLIC FATTY LIVER DISEASE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "CHRONIC VIRAL HEPATITIS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Statins and Muscle",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "RISK FACTORS FOR MUSCLE TOXICITY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PREVENTION OF STATIN-INDUCED MUSCLE INJURY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The incidence of true liver injury caused by statin therapy is low (about 1 percent). The dose-related elevations of alanine transaminase and aspartate transaminase levels observed in patients taking statins do not exceed those in patients taking placebo at low to moderate dosages (one-half the maximal dosage or less) and are modest at higher dosages. Many preexisting conditions that cause elevations in transaminase levels (e.g., chronic viral hepatitis, nonalcoholic fatty liver disease) were once thought to be contraindications to statin therapy; however, statins do not worsen liver function in most patients with chronic liver disease.1–7"
+        },
+        {
+            "parent": 0,
+            "text": "Elevations in transaminase levels do not reflect hepatic injury per se; the best indicator of true liver injury is the serum bilirubin level.1Meta-analyses of randomized placebocontrolled trials demonstrate that low to moderate dosages of statins are not associated with clinically significant (i.e., greater than three times the upper limit of normal) elevations in transaminase levels.2,8Maximal recommended dosages of lovastatin (Mevacor),9pravastatin (Pravachol),10simvastatin (Zocor),11atorvastatin (Lipitor),8and rosuvastatin (Crestor)8were associated with modest but notable increases in transaminase levels. Many of these elevations will resolve with continued therapy.1"
+        },
+        {
+            "parent": 1,
+            "text": "The presence of nonalcoholic fatty liver disease or nonalcoholic steatohepatitis should not deter physicians from using statins in patients with hyperlipidemia. Some studies even suggest that statins may have a beneficial effect on underlying liver disease.12"
+        },
+        {
+            "parent": 1,
+            "text": "Two retrospective studies examining 7,473 patients with mildly elevated transaminase levels found fewer severe increases in transaminase levels in patients using statins than in patients not using them over a 12-month period.3,4In another matched study of 2,264 patients, those taking statins showed no differences in liver enzyme levels or progression of steatohepatitis compared with patients not taking statins.13A small study of 68 patients with biopsy-proven nonalcoholic fatty liver disease showed no change in liver enzymes but a statistically significant 46 percent reduction in the quantitative steatosis on repeat biopsy in the 17 patients taking statins at follow-up.14Two small studies evaluating patients with nonalcoholic steatohepatitis showed no change (seven patients)15or a reduction (five patients)12in liver enzymes among those taking statins; both studies also demonstrated some degree of improvement in liver pathology."
+        },
+        {
+            "parent": 2,
+            "text": "Evidence suggests that patients with chronic hepatitis B and C infections may safely use statins, although supporting data are not as strong as those for patients with nonalcoholic fatty liver disease. A retrospective cohort study of 13,492 patients taking lovastatin5and a prospective study of 320 patients taking pravastatin6found no evidence of increased hepatotoxicity among those with chronic liver disease (including hepatitis B and C infections). A cohort study showed that patients with hepatitis C infection who took statins had less severe elevations in transaminase levels than patients with hepatitis C infection who were not on statins or those who took statins but tested negative for hepatitis C infection.7"
+        },
+        {
+            "parent": 2,
+            "text": "An expert consensus panel of hepatologists convened by the National Lipid Association concluded that chronic liver disease is not a contraindication to statin use. Although the panel also concluded that routine monitoring of liver function was not supported by the literature, for medicolegal reasons they recommended checking transaminase levels before initiating therapy, 12 weeks after initiating therapy or increasing the dosage, and periodically thereafter.1"
+        },
+        {
+            "parent": 3,
+            "text": "Myopathy is a general term describing any disease of the muscles. Myalgia is defined as muscle ache or weakness without elevated creatine kinase (CK) levels, whereas myositis denotes muscle symptoms with elevated CK levels. Rhabdomyolysis indicates muscle symptoms with a CK elevation greater than 10 times the upper limit of normal associated with creatinine elevation (usually with brown urine and urinary myoglobin).16Myalgias are common with statin use. However, myositis and rhabdomyolysis are far less common, with rates of 5.0 and 1.6 per 100,000 patient-years, respectively; these rates appear to be similar with all statins, although well-designed comparative studies are lacking.17The mechanism of statininduced muscle injury is uncertain.18"
+        },
+        {
+            "parent": 4,
+            "text": "Several factors may increase the likelihood of statin-induced myopathy(Table 1).16Multiple clinical trials have found that the risk of myopathy is dose-dependent, especially with simvastatin.17,19The U.S. Food and Drug Administration recently cautioned about the increased risk of muscle injury from the 80-mg dose of simvastatin.20A systematic review of placebo-controlled trials found that the incidence of statin-related myopathy from low to moderate dosages (40 mg per day or less) is similar to that with placebo (approximately 5 percent).17High dosages (more than 40 mg per day) are associated with myopathic symptoms in 5 to 18 percent of patients.19"
+        },
+        {
+            "parent": 4,
+            "text": "Myopathy risk increases when statins are taken with medications known to inhibit their metabolism(Table 2).11,17,18,21–32Serum levels of simvastatin and lovastatin are increased four- to sixfold in conjunction with erythromycin and verapamil therapy, and 10- to 20-fold with itraconazole (Sporanox) and cyclosporine (Sandimmune) therapy.11,21,22,25,27Simvastatin and lovastatin levels are increased threefold and rosuvastatin levels are increased twofold in patients also taking gemfibrozil (Lopid).11,22,28The rate of rhabdomyolysis was 0.44 per 10,000 patient-years with statin monotherapy versus 5.98 when the statin was combined with a fibrate. This interaction appears to be more notable with gemfibrozil than fenofibrate (Tricor).32"
+        },
+        {
+            "parent": 4,
+            "text": "Patients who have disease states or are taking concomitant medications known to independently cause myalgias are more likely to experience muscle injury when statin therapy is initiated. Untreated hypothyroidism33a nd a lcohol a buse34m ay p redispose patients to myopathic symptoms from statin therapy. Gemfibrozil and niacin, often used in patients taking statins, have their own associated risks of myopathy,32a lthough t hese a ppear t o b e r are a nd have not been confirmed by large, welldesigned studies.18,35Evidence does not support the hypothesis that lipophilic statins (e.g., lovastatin, simvastatin, atorvastatin), which penetrate muscle fibers more easily, are more likely to cause muscle toxicity than hydrophilic statins (e.g., pravastatin, rosuvastatin).18"
+        },
+        {
+            "parent": 5,
+            "text": "Strategies to reduce the risk of statin-induced myopathy include using the lowest effective dosage, identifying patient risk factors, monitoring adverse effects and CK levels in symptomatic patients, avoiding serious drug interactions, and educating patients. Although the third report of the National Cholesterol Education Program Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults recommends measuring baseline CK levels in all patients, other experts recommend obtaining baseline CK levels only in patients at high risk of muscle toxicity.1,16,18,36Asymptomatic patients do not require routine measurement of CK levels.Figure 1provides an algorithm for the evaluation and treatment of patients with myopathic symptoms.37These usually resolve approximately two months after discontinuing statin therapy; patients can then restart the statin at a lower dosage or try a different statin. In a retrospective cohort study, 43 percent of patients remained asymptomatic on statin rechallenge, with 32 percent of patients tolerating a different statin and 11 percent tolerating a lower dosage of the same statin.38"
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,144 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/1115/p2012.html#afp20051115p2012-f1",
+    "title": "Diagnosing the Cause of Chest Pain | AAFP",
+    "author": "WILLIAM E. CAYLEY, JR., M.D.",
+    "doi": "Am Fam Physician.2005;72(10):2012-2021",
+    "abstract": "Chest pain presents a diagnostic challenge in outpatient family medicine. Noncardiac causes are common, but it is important not to overlook serious conditions such as an acute coronary syndrome, pulmonary embolism, or pneumonia. In addition to a thorough history and physical examination, most patients should have a chest radiograph and an electrocardiogram. Patients with chest pain that is predictably exertional, with electrocardiogram abnormalities, or with cardiac risk factors should be evaluated further with measurement of troponin levels and cardiac stress testing. Risk of pulmonary embolism can be determined with a simple prediction rule, and a d-dimer assay can help determine whether further evaluation with helical computed tomography or venous ultrasound is needed. Fever, egophony, and dullness to percussion suggest pneumonia, which can be confirmed with chest radiograph. Although some patients with chest pain have heart failure, this is unlikely in the absence of dyspnea; a brain natriuretic peptide level measurement can clarify the diagnosis. Pain reproducible by palpation is more likely to be musculoskeletal than ischemic. Chest pain also may be associated with panic disorder, for which patients can be screened with a two-item questionnaire. Clinical prediction rules can help clarify many of these diagnoses.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "ACUTE CORONARY SYNDROME AND CAD",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PULMONARY EMBOLISM",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PNEUMONIA AND HEART FAILURE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CHEST WALL PAIN",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Recommended Diagnostic Strategy",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Chest pain is the chief complaint in about 1 to 2 percent of out-patient visits,1and although the cause is often noncardiac, heart disease remains the leading cause of death in the United States.2Thus, distinguishing between serious and benign causes of chest pain is imperative, and diagnostic and prognostic questions are important in making this determination."
+        },
+        {
+            "parent": -1,
+            "text": "The epidemiology of chest pain differs markedly between outpatient and emergency settings. Cardiovascular conditions such as myocardial infarction (MI), angina, pulmonary embolism (PE), and heart failure are found in more than 50 percent of patients presenting to the emergency department with chest pain,3but the most common causes of chest pain seen in outpatient primary care are musculoskeletal conditions, gastrointestinal disease, stable coronary artery disease (CAD), panic disorder or other psychiatric conditions, and pulmonary disease (Table 1).3,4Unstable CAD rarely is the cause of chest pain in primary care, and around 15 percent of chest pain episodes never reach a definitive diagnosis.3,4Despite these figures, when evaluating chest pain in primary care it is important to consider serious conditions such as stable or unstable CAD, PE, and pneumonia, in addition to more common (but less serious) conditions such as chest wall pain, peptic ulcer disease, gastroesophageal reflux disease (GERD), and panic disorder."
+        },
+        {
+            "parent": 0,
+            "text": "Chest pressure with dyspnea commonly leads physicians and other health care professionals to consider an acute coronary syndrome such as unstable angina or MI, but these symptoms also may represent chest wall pain or PE. Dyspnea is common in patients with heart failure, whereas dyspnea with fever is characteristic of pneumonia and bronchitis. The usual descriptions of peptic ulcer disease and GERD include epigastric discomfort and retrosternal burning, but often it is difficult to distinguish clearly between classic “heart-burn” and classic “chest pressure.” Although it often is thought that symptoms of anxiety can help distinguish pulmonary diseases from other causes of chest pain, this is not a consistent finding and should not be relied upon. There is enough overlap among the clinical manifestations of different causes of chest pain to make “classic” symptoms unhelpful in differentiating among diagnoses and ruling out serious causes. However, there are several validated clinical decision rules that combine key groups of symptoms."
+        },
+        {
+            "parent": 1,
+            "text": "It is important to obtain a clear history of the onset and evolution of chest pain, with particular attention to details such as location, quality, duration, and aggravating or alleviating factors. Certain key symptoms and clinical findings can help rule in or out specific diagnoses (Table 2).4–15"
+        },
+        {
+            "parent": 1,
+            "text": "Determining whether pain is (1) substernal, (2) provoked by exertion, or (3) relieved by rest or nitroglycerin helps to clarify whether it is typical anginal pain (has all three characteristics), atypical anginal pain (has two characteristics), or nonanginal pain (has one characteristic). Anginal chest pain has a high risk for CAD in all age groups; atypical anginal chest pain carries intermediate risk for CAD in women older than 50 years and in all men; and nonanginal chest pain carries intermediate risk for CAD in women older than 60 years and men older than 40 years.16"
+        },
+        {
+            "parent": 1,
+            "text": "The likelihood of MI is higher if there is pain radiating to both arms,5hypotension,6an S3gallop on physical examination,7or diaphoresis.8,9Other factors predicting MI include age greater than 60 years, male sex, and prior MI.17MI is less likely if pain is sharp or pleuritic.7If the pain is reproducible by palpation of a specific tender area, the likelihood of MI decreases8but the likelihood of chest wall pain increases.15A history of rheumatoid arthritis or osteoarthritis also increases the likelihood of chest wall pain.18The Rouan decision rule reliably predicts which patients with chest pain and a normal or nonspecific electrocardiogram (ECG) are at higher risk for MI (Table 3).17However, because up to 3 percent of patients initially diagnosed with a noncardiac cause of chest pain suffer death or MI within 30 days of presentation, patients with cardiac risk factors such as male sex, greater age, diabetes, hyperlipidemia, prior CAD, or heart failure warrant close follow-up.19"
+        },
+        {
+            "parent": 1,
+            "text": "There are no individual signs or symptoms that reliably diagnose PE, but the simplified Wells scoring system20(Table 420,21) is well validated for determining whether patients have low, moderate, or high likelihood of PE,20–22and this guides further evaluation."
+        },
+        {
+            "parent": 1,
+            "text": "Findings that suggest pneumonia include fever, egophony, and dullness to percussion, but their absence does not rule out the diagnosis.10Although chest pain in patients with chronic obstructive pulmonary disease and at least four previous acute exacerbations of chronic bronchitis is more likely to be caused by a recurrent exacerbation of bronchitis or pneumonia,23these patients are also at greater risk for CAD or acute coronary syndrome. The Diehr diagnostic rule, developed in a large study11from 1984, uses seven clinical findings to predict the likelihood of pneumonia (Table 511)."
+        },
+        {
+            "parent": 1,
+            "text": "Although heart failure alone is an uncommon cause of chest pain, it may accompany acute coronary syndrome, valvular disease, or MI. A displaced apical impulse and a history of MI also support this diagnosis. Almost all patients with heart failure have exertional dyspnea, so the absence of exertional dyspnea is helpful in ruling out this diagnosis.13"
+        },
+        {
+            "parent": 1,
+            "text": "Two simple questions14are a highly sensitive screen for panic disorder:"
+        },
+        {
+            "parent": 1,
+            "text": "“In the past six months, did you ever have a spell or an attack when all of a sudden you felt frightened, anxious, or very uneasy?”“In the past six months, did you ever have a spell or an attack when for no reason your heart suddenly began to race, you felt faint, or you couldn’t catch your breath?”14"
+        },
+        {
+            "parent": 1,
+            "text": "A “yes” on either item is a positive screen, and a “no” on both items makes panic disorder unlikely. However, neither these questions nor a general clinical impression are specific enough to allow a definite diagnosis of anxiety-related noncardiac chest pain, and a positive screen should not preclude further cardiac testing in patients with cardiac risk factors.19"
+        },
+        {
+            "parent": 1,
+            "text": "Gastrointestinal disease can cause chest pain, but the history and physical examination are relatively inaccurate for ruling in or ruling out serious gastrointestinal pathology,24and it is important first to rule out immediately life-threatening cardiovascular and pulmonary causes of chest pain."
+        },
+        {
+            "parent": 2,
+            "text": "Once the clinical examination has narrowed the differential diagnosis, diagnostic testing helps determine whether the patient has a serious condition (Table 6).4,7,12,25,26Most adults with chest pain should have at least an ECG and a chest radiograph, unless the history and physical examination suggest an obviously nonthreatening cause of chest discomfort."
+        },
+        {
+            "parent": 3,
+            "text": "Important diagnostic tests when evaluating for acute coronary syndrome include the 12-lead ECG, serum markers of myocardial damage, and cardiac testing with stress testing or nuclear imaging. ECG findings that most strongly suggest MI are ST segment elevation, Q waves, and a conduction defect, especially if such findings are new compared with a previous ECG. New T-wave inversion also increases the likelihood of MI.7,9However, none of these findings is sensitive enough that its absence can exclude MI."
+        },
+        {
+            "parent": 3,
+            "text": "The most common markers of myocardial damage are creatine kinase, the MB isoenzyme of creatine kinase (CK-MB), troponin T, and troponin I. A CK-MB level greater than 6.0 ng per mL (6.0 mcg per L) within nine hours of presentation for emergency care modestly increases the likelihood of MI or death in the next 30 days.27Elevated levels of either troponin T (i.e., higher than 2 ng per mL [2 mcg per L]) at least eight hours from presentation or troponin I (i.e., higher than 1 ng per mL [1 mcg per L]) at least six hours from presentation support the diagnosis of MI or acute coronary syndrome and increase the likelihood of death or recurrent MI within 30 days. A normal level of troponin T or troponin I between six and 72 hours after the onset of chest pain is strong evidence against MI and acute coronary syndrome, particularly if the ECG is normal or near normal.25,28In one study29of 773 patients who each presented to an emergency department with chest pain and had a normal ECG, researchers found that only 0.3 percent of those with a normal troponin I at six hours and 1.1 percent of those with a normal troponin T at six hours experienced acute MI or death in the 30 days following presentation. Thus, individuals with chest pain who have a history that indicates low risk of cardiovascular disease, a normal or near-normal ECG, and normal troponin levels can safely be evaluated as outpatients."
+        },
+        {
+            "parent": 3,
+            "text": "Patients at low risk usually do not need further testing unless there are other risk factors in their family or medical history that markedly increase their likelihood of CAD. Patients at intermediate risk for CAD who can exercise and have no left bundle branch block, preexcitation, or significant resting ST depression on their ECG can be evaluated with an exercise stress ECG. Patients with baseline ECG abnormalities should have perfusion imaging performed along with a stress ECG, and patients who cannot exercise may be evaluated with a pharmacologic stress or vasodilator test (e.g., dobutamine [Dobutrex], adenosine [Adenocard]). Patients at high risk for CAD generally should proceed directly to angiography, which allows definitive assessment of coronary artery anatomy for patients in whom other testing is nondiagnostic and for patients who could benefit from revascularization.30"
+        },
+        {
+            "parent": 3,
+            "text": "For patients undergoing stress ECG testing, the Duke treadmill score (Table 731) provides helpful prognostic information. Among 1,466 patients with a normal resting ECG, and 939 patients with ST-T abnormalities on a resting ECG, low-, intermediate-, and high-risk Duke treadmill scores accurately predicted seven-year survival rates for all-cause mortality.31"
+        },
+        {
+            "parent": 4,
+            "text": "d-dimer testing has become an important part of the evaluation for PE and deep venous thrombosis (DVT). Quantitative enzyme-linked immunosorbent antibody assay (ELISA) d-dimer assays are more sensitive and have been more thoroughly tested in clinical settings than whole-blood agglutination assays.32A low clinical suspicion for PE (e.g., Wells score less than 2) plus a normal quantitative ELISA d-dimer assay safely rules out PE, with a negative predictive value greater than 99.5 percent.20,32,33If further testing is needed, helical computed tomography (CT), combined with clinical suspicion and other testing such as lower extremity venous ultrasound, can be used to rule in or rule out PE.33,34A number of different sequential testing protocols have been proposed, all of which involve the same basic elements: (1) for patients with low clinical suspicion and a normal d-dimer, no further evaluation or treatment is needed unless symptoms change or progress; (2) for patients with low clinical suspicion and an abnormal d-dimer, or moderate to high clinical suspicion, helical CT and lower extremity venous ultrasound examination should be ordered; (3) for patients with moderate or high clinical suspicion and an abnormal CT scan or venous ultrasound result, treatment should be given for PE or DVT regardless of D-dimer; and (4) for patients with an abnormal d-dimer plus a normal CT scan and a normal venous ultrasound result, serial ultrasound should be considered if clinical suspicion is low to moderate, and pulmonary angiography should be considered if clinical suspicion is high.33,35Patients in whom PE initially is ruled out by such an approach and who do not receive treatment have a less than 1 percent risk for PE occurring over the subsequent three months.33An encounter form that takes this approach appears in the February 1, 2004, issue ofAmerican Family Physicianand can be accessed online athttps://www.aafp.org/afp/2004/0201/p599.html.36"
+        },
+        {
+            "parent": 5,
+            "text": "Chest radiograph generally is considered the reference standard for patients suspected of having pneumonia, and it is the standard against which clinical evaluations for pneumonia are compared.10An abnormal ECG and cardiomegaly on chest radiograph increase the likelihood of heart failure among patients with chest pain,26and brain natriuretic peptide (also known as B-type natriuretic peptide) level has been found to be reliable for detecting heart failure in patients presenting with acute dyspnea. Brain natriuretic peptide level is particularly helpful for ruling in heart failure if it is more than 500 pg per mL (500 ng per L), and for ruling out heart failure if it is less than 100 pg per mL (100 ng per L).14,37"
+        },
+        {
+            "parent": 6,
+            "text": "Chest wall pain usually can be diagnosed by history and physical examination if other etiologies have been excluded. Measurement of the sedimentation rate generally is not helpful in making the diagnosis18; in unusual situations, radiography may be helpful.38"
+        },
+        {
+            "parent": 7,
+            "text": "An algorithm illustrating the dicussed diagnostic strategy is provided inFigure 1.4,5,7–12,14–17,20–22,25,26,28,29,32–35When a patient presents with new chest pain, a typical or an atypical anginal pattern, pain radiation or diaphoresis, cardiac risk factors, or ischemic ECG changes, serial measurement of troponins should be considered to determine whether hospitalization or outpatient evaluation with stress testing is warranted. If the probability of PE is low, based on the Wells score, a negative d-dimer result eliminates the need for further testing; an abnormal d-dimer or moderate to high probability of PE should prompt helical CT and venous ultrasound examination to guide further management. Fever, egophony, or dullness to percussion should prompt evaluation for pneumonia with chest radiograph. If life-threatening causes of chest pain are ruled out, then a history of spontaneous anxiety, palpitations, faintness, or dyspnea suggests panic disorder. A history of exertional dyspnea and a displaced apical impulse should prompt investigation for heart failure. Gastrointestinal symptoms should prompt further evaluation."
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources: The PubMed database was searched using the following terms: chest pain, angina, acute myocardial infarction, coronary artery disease, heart failure, pulmonary embolism, chest wall pain, bronchitis, pneumonia, and peptic ulcer disease. Titles were reviewed to identify literature relevant to the outpatient diagnosis of chest pain. Additional searches were performed using the following databases: InfoPOEMs (http://www.infopoems.com), Agency for Healthcare Research and Quality (http://www.ahrq.gov), Cochrane Collaboration (http://www.cochrane.org), Database of Abstracts of Reviews of Effects (http://www.york.ac.uk/inst/crd/darehp.htm), and Institute for Clinical Systems Improvement (http://www.icsi.org)."
+        }
+    ],
+    "locked": false
+}

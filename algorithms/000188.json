@@ -1,0 +1,151 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/1001/p429.html#afp20181001p429-f3",
+    "title": "Abdominal Wall Pain: Clinical Evaluation, Differential Diagnosis, and Treatment | AAFP",
+    "author": "BRIAN SHIAN, MD, AND SCOTT T. LARSON, MD",
+    "doi": "Am Fam Physician.2018;98(7):429-436",
+    "abstract": "Abdominal wall pain is often mistaken for intra-abdominal visceral pain, resulting in expensive and unnecessary laboratory tests, imaging studies, consultations, and invasive procedures. Those evaluations generally are nondiagnostic, and lingering pain can become frustrating to the patient and clinician. Common causes of abdominal wall pain include nerve entrapment, hernia, and surgical or procedural complications. Anterior cutaneous nerve entrapment syndrome is the most common and frequently missed type of abdominal wall pain. This condition typically presents with acute or chronic localized pain at the lateral edge of the rectus abdominis that worsens with position changes or increased abdominal muscle tension. Abdominal wall pain should be suspected in patients with no symptoms or signs of visceral etiology and a localized small tender spot. A positive Carnett test, in which tenderness stays the same or worsens when the patient tenses the abdominal muscles, suggests abdominal wall pain. A local anesthetic injection can confirm the diagnosis when there is 50% postprocedural pain improvement. Point-of-care ultrasonography may help rule out other abdominal wall pathologies and guide injections. The management of abdominal wall pain depends on the etiology. Reassurance and patient education can be helpful. Local injection with an anesthetic and a corticosteroid is an effective treatment for anterior cutaneous nerve entrapment syndrome, with an overall response rate of 70% to 99%. For refractory cases that require more than two injections, surgical neurectomy generally resolves the pain.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Applied Anterior Abdominal Wall Anatomy",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Etiologies and Differential Diagnoses",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DIAGNOSTIC IMAGING AND PROCEDURES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Pain originating from the abdominal wall has been described for nearly 100 years1but did not receive much attention until 1926, when a simple bedside test was proposed.2Case reports in the early 1970s suggested that nerve entrapment could be the cause of abdominal wall pain and was able to be successfully treated with local injections.3,4More recently, the consensus has been that abdominal wall pain is commonly unrecognized, overlooked, underdiagnosed, and understudied.5–11"
+        },
+        {
+            "parent": -1,
+            "text": "The prevalence of abdominal wall pain in the general population and primary care settings is not known, but it ranges from 5% to 67% in patients referred to subspecialists.12–14A study of 100 consecutive patients referred to a pain clinic by gastroenterologists for chronic abdominal pain management found that 43 had abdominal wall pain, and that many were initially misdiagnosed with functional abdominal pain, irritable bowel syndrome, or a psychiatric disorder.13"
+        },
+        {
+            "parent": -1,
+            "text": "Abdominal wall pain is an umbrella term that comprises many etiologies, the most common of which is benign nerve entrapment. Because of physicians' unfamiliarity with abdominal wall pain and concern about the consequences of missing serious pathology, evaluation is often misdirected toward costly and unnecessary laboratory tests, advanced imaging studies, consultations, and frequent clinic visits. Patients may be exposed to unwarranted invasive procedures such as endoscopy, laparoscopy, or cholecystectomy. These procedures have a high cost: one study calculated that the typical patient had abdominal wall pain for 25 months before diagnosis, with an annual direct health care cost of more than $1,100.12This highlights the importance of early consideration of abdominal wall pain. The critical task for clinicians is to distinguish benign etiologies from more serious intra- or extra-abdominal causes."
+        },
+        {
+            "parent": -1,
+            "text": "This article updates a previousAmerican Family Physicianarticle on abdominal wall pain with emerging data on point-of-care ultrasonography and surgical intervention.8"
+        },
+        {
+            "parent": 0,
+            "text": "Understanding the anatomy of the anterior abdominal wall will aid clinicians in diagnosing and treating abdominal wall pain. There are five pairs of muscles in the anterior abdominal wall(Figure 1). Along the midline, the rectus abdominis can cause localized pain on the xyphoid process superiorly or in the pubic area inferiorly. The pyramidalis can also cause pubic area pain. The lateral abdominal wall is composed of—from superficial to deep—the external oblique, internal oblique, and transverse abdominis muscles. Their aponeuroses fuse together, forming the rectus sheath that encloses the rectus abdominis (except the posterior quarter inferior to the arcuate line), the inguinal ligament inferiorly, the linea semilunaris lateral to the rectus abdominis, and the linea alba at the midline.15These aponeuroses, as well as the navel and any surgical incision sites, are areas prone to hernia formation."
+        },
+        {
+            "parent": 0,
+            "text": "The nerves of the anterior abdominal wall are the ventral rami of the T6–L1 spinal nerves(Figure 2). It was originally thought that the terminal branches of the T7–T12 ventral rami enter the lateral posterior rectus abdominis at a 90-degree angle through a fibrous neurovascular channel, progressing anteriorly through the muscle and anterior rectus sheath to become the anterior cutaneous nerves of the abdomen. Once those nerves reach the overlying aponeurosis, the nerves again change course at 90-degree angles beneath the skin.16A recent study indicates that their anatomy is far more complex.17The L1 nerve bifurcates into the iliohypogastric and ilioinguinal nerves; the iliohypogastric nerve pierces the external oblique aponeurosis superior to the superficial inguinal ring, whereas the ilioinguinal nerve passes through the inguinal canal to emerge through the superficial inguinal ring.15"
+        },
+        {
+            "parent": 1,
+            "text": "Abdominal wall pain can originate locally. Less commonly, it can be referred from intra-abdominal pathology, intrathoracic visceral pathology, or thoracic spinal radiculopathy."
+        },
+        {
+            "parent": 1,
+            "text": "The most common cause of abdominal wall pain is nerve entrapment at the lateral border of the rectus muscle; this is known as anterior cutaneous nerve entrapment syndrome.4,16It is caused by compression of an anterior cutaneous nerve as it courses through the abdominal wall musculature and aponeuroses.16Intra- or extra-abdominal pressure or scar formation causes traction on the nerve, leading to nerve irritation and, potentially, nerve ischemia.4,18Ilioinguinal–iliohypogastric nerve entrapment is another common cause of lower abdominal pain in patients with a history of lower abdominal surgery, particularly inguinal herniorrhaphy, appendectomy, and procedures incorporating a Pfannenstiel incision.19Diabetic neuropathy, thoracic spine radiculopathy, and postherpetic neuralgia are less common causes of abdominal wall pain."
+        },
+        {
+            "parent": 1,
+            "text": "Sports hernias are a common cause of groin pain in athletes, although the term is a misnomer because there is no classical herniation of soft tissue. Pain is thought to be caused by an imbalance between the strength of adductor and abdominal wall muscles and partial weakness of the posterior abdominal wall. There is evidence implicating nerve entrapment in some cases of sports hernias.20"
+        },
+        {
+            "parent": 1,
+            "text": "True hernias, either incisional or spontaneous, may cause abdominal wall pain without noticeable bulging or obstructive symptoms. Incisional hernias can occur wherever there is an incision. Nonincisional hernias tend to be localized at the epigastric and umbilical areas in the midline or laterally in the groin or around the linea semilunaris. Spigelian hernias, which are rare defects in the transversus aponeurosis occurring at the junction of the rectus abdominis and linea semilunaris, often occur at or inferior to the arcuate line because the posterior rectus sheath is lacking in this area. Spigelian hernias can be difficult to clinically distinguish from anterior cutaneous nerve entrapment syndrome because of the location, although ultrasonography may help.21"
+        },
+        {
+            "parent": 1,
+            "text": "Other less common benign causes of abdominal wall pain include abdominal wall muscle strain, abdominal wall endometriosis, and slipping rib syndrome; less common but potentially more serious causes include rectus sheath hematoma, abdominal wall infection, and intra-abdominal pathology with adhesion to the abdominal wall.22–27An inflamed appendix with adhesion to the abdominal wall may cause localized pain but is generally associated with systemic symptoms.28"
+        },
+        {
+            "parent": 1,
+            "text": "The differential diagnosis of abdominal wall pain also includes intra-abdominal visceral etiology(Table 1)and other rare causes, such as xiphodynia or adiposis dolorosa(Table 2).7,8,16,20,22–26,28–31"
+        },
+        {
+            "parent": 2,
+            "text": "A history and targeted physical examination, potentially complemented with local anesthetic injection or ultrasonography, generally can promptly and accurately identify the abdominal wall as the source of pain."
+        },
+        {
+            "parent": 3,
+            "text": "Abdominal wall pain is typically provoked by physical movement, such as lifting, bending, laughing, straining, and twisting. Therefore, a history regarding precipitating and associated factors is crucial in making the diagnosis. Questions about gastrointestinal, genitourinary, or constitutional symptoms are vital for ruling out intra-abdominal etiology. It is also important to ask about a history of abdominal surgery, injury, trauma, diabetes mellitus, or back problems to rule out neuropathic causes. The patient's ability to localize pain with a fingertip is an element of the history that is highly suggestive of abdominal wall pain.11Patients with abdominal wall pain often have comorbid obesity.12Validated screening tools can also be helpful; a systematic 18-item patient questionnaire(Table 3)can be used to differentiate anterior cutaneous nerve entrapment syndrome from irritable bowel syndrome, with a score of 10 or higher having 94% sensitivity and 92% specificity for anterior cutaneous nerve entrapment syndrome.6"
+        },
+        {
+            "parent": 4,
+            "text": "The Carnett test is a validated and crucial tool in the evaluation of abdominal wall pain.2,28The clinician places the patient in the supine position and identifies the point of maximal tenderness on the abdomen; constant pressure is then applied to that spot. Next, the patient is asked to cross his or her arms over the chest, then to lift the head and shoulders from the examination table to tense the abdomina l muscles. An alternative variant is to have the patient raise both legs with knees extended. A positive test elicits stable or worsened pain, indicating abdominal wall etiology. A negative test, in which pain improves, suggests that the pain is likely of intra-abdominal or visceral origin. It can be challenging to interpret results in patients with psychogenic abdominal pain."
+        },
+        {
+            "parent": 4,
+            "text": "A modified Carnett test for pelvic pain has been described previously.32In patients with tenderness during bimanual pelvic examination, the clinician should locate the spot of maximal tenderness and then remove his or her hand from the abdomen without changing the location and pressure of the vaginal fingers to see whether the pain changes. The clinician can then replace the abdominal hand on the tender spot and retract the vaginal finger to see whether the pain changes. The test is positive when external abdominal palpation elicits pain."
+        },
+        {
+            "parent": 4,
+            "text": "In addition to the Carnett test, other components of the physical examination include a pelvic examination for women with lower abdominal pain; a neurologic examination, including sensory dermatome determination; muscle strength testing; a thoracic spine examination; and detection of abdominal defects, masses, or bulging. The hooking maneuver, in which the examiner hooks curved fingers under the inferior rib margins and pulls anteriorly to reproduce pain in the lower chest and upper abdominal area, can help diagnose slipping rib syndrome.24"
+        },
+        {
+            "parent": 5,
+            "text": "Ultrasonography, especially point-of-care ultrasonography, can be useful in evaluating abdominal wall pain. It can be used to detect masses, abscesses, hematomas, tissue edema, and slipping rib syndrome. It can also offer dynamic evaluation for hernia and provide guidance for therapeutic or diagnostic trigger point injection. Other advanced imaging modalities, such as computed tomography and magnetic resonance imaging, are generally not needed unless there is diagnostic ambiguity or concern about intra-abdominal etiology."
+        },
+        {
+            "parent": 5,
+            "text": "Diagnostic trigger point injection with or without ultrasound guidance can help confirm the diagnosis of nerve entrapment.10,33–36Ultrasound guidance is preferred because it provides needle visualization to avoid accidentally entering the abdominal cavity, and it helps the needle infiltrate the entire neurovascular channel in patients with suspected anterior cutaneous nerve entrapment syndrome. In trigger point injection, 5 to 10 mL of 1% to 2% lidocaine is injected deep into the fascia and muscle at the point of maximal tenderness (seevideobelow). Pain improvement of 50% or more confirms the diagnosis of abdominal wall pain. Pain resolution also occurs in about 20% to 30% of patients with anterior cutaneous nerve entrapment syndrome.5"
+        },
+        {
+            "parent": 5,
+            "text": "Electromyelography can be helpful in cases of suspected radiculopathy or neuropathy. An algorithm for the evaluation of abdominal wall pain is presented inFigure 3.11"
+        },
+        {
+            "parent": 6,
+            "text": "The management of abdominal wall pain depends on its etiology. Patient education and reassurance may decrease patient anxiety, which subsequently reduces clinic visit frequency and patient insistence on undergoing unnecessary expensive or invasive evaluations."
+        },
+        {
+            "parent": 6,
+            "text": "Oral analgesics, muscle relaxants, and antispasmodics are the most commonly prescribed medications for abdominal wall pain. However, their effectiveness is inconsistent, and their use is not evidence based.37The same is true for local interventions such as icing, massage, and topical analgesics."
+        },
+        {
+            "parent": 6,
+            "text": "As discussed previously, ultrasound-guided trigger point injection can confirm the diagnosis of abdominal wall pain caused by nerve entrapment while also providing symptom relief. Because of the relatively high failure rate of local anesthetic injection, a combination of local anesthetic and other agents such as corticosteroids, onabotulinumtoxinA (Botox), and phenol are sometimes used. Corticosteroids are the most commonly used and have a response rate of 70% to 99%10,33–36(eTable A). Alternatives to local injection include transversus abdominis plane block, rectus sheath plane block, chemical neurolysis with phenol, or radiofrequency denervation; however, the effectiveness and safety of these modalities are not well documented.37Surgical neurectomy, in which a portion of the entrapped nerve is surgically removed, can be considered in cases of anterior cutaneous nerve entrapment syndrome that require more than two injections. A stepwise management approach— beginning with local trigger point injection followed by neurectomy—is recommended37–39(eFigure A)."
+        },
+        {
+            "parent": 6,
+            "text": "Surgical intervention may be necessary for hernia, endometriosis, slipping rib syndrome, abdominal wall mass or abscess, rectal sheath hematoma, xiphodynia, or sports hernia when conservative management is ineffective."
+        },
+        {
+            "parent": 6,
+            "text": "This article updates a previous article on this topic bySuleiman and Johnston.8"
+        },
+        {
+            "parent": 6,
+            "text": "Data Sources:We searched PubMed, the Cochrane database, Essential Evidence Plus, and Guidelines.gov using the following terms in various combinations: diagnosis, management, treatment, therapy, abdominal wall pain, anterior cutaneous nerve entrapment, ultrasound, and trigger point injection. Search dates: February 2017 to June 2018."
+        }
+    ],
+    "locked": false
+}

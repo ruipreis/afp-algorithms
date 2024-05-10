@@ -1,0 +1,224 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0515/p795.html#afp20140515p795-f1",
+    "title": "Surgical and Nonsurgical Management of Gallstones | AAFP",
+    "author": "SHERLY ABRAHAM, MD, HAIDY G. RIVERO, MD, IRINA V. ERLIKH, MD, LARRY F. GRIFFITH, MD, AND VASANTHA K. KONDAMUDI, MD",
+    "doi": "Am Fam Physician.2014;89(10):795-802",
+    "abstract": "Cholelithiasis, or gallstones, is one of the most common and costly of all the gastrointestinal diseases. The incidence of gallstones increases with age. At-risk populations include persons with diabetes mellitus, persons who are obese, women, rapid weight cyclers, and patients on hormone therapy or taking oral contraceptives. Most patients are asymptomatic; gallstones are discovered incidentally during ultrasonography or other imaging of the abdomen. Asymptomatic patients have a low annual rate of developing symptoms (about 2% per year). Once symptoms appear, the usual presentation of uncomplicated gallstones is biliary colic, caused by the intermittent obstruction of the cystic duct by a stone. The pain is characteristically steady, is usually moderate to severe in intensity, is located in the epigastrium or right upper quadrant of the abdomen, lasts one to five hours, and gradually subsides. If pain persists with the onset of fever or high white blood cell count, it should raise suspicion for complications such as acute cholecystitis, gallstone pancreatitis, and ascending cholangitis. Ultrasonography is the best initial imaging study for most patients, although additional imaging studies may be indicated. The management of acute biliary colic mainly involves pain control with nonsteroidal anti-inflammatory drugs or narcotic pain relievers. Oral dissolution therapy is usually minimally successful and used only if the patient cannot undergo surgery. Laparoscopic cholecystectomy remains the surgical choice for symptomatic and complicated gallstones, with a shorter hospital stay and shorter convalescence period than open cholecystectomy. Percutaneous cholecystostomy is an alternative for patients who are critically ill with gallbladder empyema and sepsis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "COMPLICATIONS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "IMAGING STUDIES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "LABORATORY STUDIES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "PAIN CONTROL",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "SURGICAL TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ORAL DISSOLUTION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "EXTRACORPOREAL SHOCK WAVE LITHOTRIPSY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "NEW SURGICAL TECHNIQUES",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Special Populations",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "PREGNANCY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "OLDER AND CRITICALLY ILL PATIENTS",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "PATIENTS WITH CIRRHOSIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Cholelithiasis, or gallstones, is one of the most common and costly of all the gastrointestinal diseases.1Gallstones are solid calculi formed by precipitation of supersaturated bile composed of cholesterol monohydrate crystals or by “black pigment” of polymerized calcium bilirubinate.2In the United States, more than 80% of gallstones contain cholesterol as their major component. Over the past two decades, much has been learned about the epidemiology of this condition and its risk factors2(Table 13). Gallstones are associated with high-calorie diets, type 2 diabetes mellitus, dyslipidemia, hyperinsulinism, obesity, and metabolic syndrome.2"
+        },
+        {
+            "parent": 0,
+            "text": "Gallstones are often discovered incidentally during ultrasonography or computed tomography of the abdomen. Only 10% to 20% of asymptomatic patients will eventually become symptomatic within five to 20 years of diagnosis. The average rate at which patients develop symptomatic gallstones is low, approximately 2% per year.2,4"
+        },
+        {
+            "parent": 1,
+            "text": "Patients typically present with biliary colic, described as acute onset of pain in the right upper quadrant of the abdomen or epigastrium (dermatomes T8/9) caused by brief impaction of the gallstone in the neck of the gallbladder. The pain is characteristically steady and is usually moderate to severe in intensity. It typically starts abruptly without fluctuations, is not relieved with a bowel movement, and reaches a peak within one hour. The pain tends to resolve gradually over one to five hours as the stone dislodges; if it lasts longer, suspicion for complications should be raised. More than 90% of patients presenting with a first episode of biliary colic have recurrent pain within 10 years (two-thirds of those within two years).2,3"
+        },
+        {
+            "parent": 1,
+            "text": "After an episode, physical examination findings are usually normal, with the possible exception of residual upper abdominal tenderness.3Table 2summarizes the accuracy of clinical examination findings in patients with suspected gallstones or acute cholecystitis.5,6"
+        },
+        {
+            "parent": 2,
+            "text": "Patients with gallstones are often seen for complications; the signs and symptoms are summarized inTable 3.7–9Acute cholecystitis is an inflammation of the gallbladder caused by gallstones blocking the cystic duct. It should be suspected in patients with fever, leukocytosis, right upper quadrant mass, persistent pain, a mild elevation of bilirubin levels, or Murphy sign (inspiratory arrest during deep right upper quadrant palpation). It generally follows food intake and often occurs in patients with prior attacks of biliary colic.7"
+        },
+        {
+            "parent": 2,
+            "text": "Choledocholithiasis refers to gallstones that have migrated from the gallbladder into the common bile duct, most often via the cystic duct. Common duct stones can be asymptomatic or can lead to complications such as gallstone pancreatitis or acute cholangitis. Ascending cholangitis is characterized by fever, jaundice, and abdominal pain (Charcot triad); the addition of altered mentation and hypotension is known as Reynolds pentad. Both develop as a result of stasis of bile and bacterial infection in the biliary tract, and should be promptly addressed with intravenous antibiotics and endoscopic retrograde cholangiopancreatography (ERCP) to clear the duct.8,10,11"
+        },
+        {
+            "parent": 2,
+            "text": "Patients with gallstone pancreatitis, caused by obstruction at the level of the sphincter of Oddi, typically present with epigastric pain and increased amylase and lipase levels.9,11"
+        },
+        {
+            "parent": 4,
+            "text": "Table 4summarizes the tests used to diagnose gallstones.12–22The recommended initial imaging study for most patients with suspected gallstones or a complication of gallstones is abdominal ultrasonography. It is inexpensive, has no associated radiation exposure, and is highly sensitive for detection of gallstones.12–14Computed tomography should be considered in patients with negative or equivocal ultrasonography results or if complications of gallstones are suspected.13,14"
+        },
+        {
+            "parent": 4,
+            "text": "A hepatobiliary iminodiacetic acid (HIDA) scan is a functional study that evaluates for cystic duct obstruction. It is useful for the diagnosis of acute cholecystitis. Normal gallbladder visualization excludes acute cholecystitis with an accuracy of 99%.12A variant of the study, known as a cholecystokinin-HIDA scan, can be used in the elective setting to assess gallbladder contractility and calculate an ejection fraction. A cholecystokinin-HIDA scan is helpful in patients with suspected gallstones, but who have normal findings on ultrasonography and workup for their symptoms (e.g., upper endoscopy, upper gastrointestinal series, negativeHelicobacter pyloriserology)."
+        },
+        {
+            "parent": 4,
+            "text": "Magnetic resonance cholangiopancreatography (MRCP) is a noninvasive study with high sensitivity and specificity for the detection of gallstones. According to the 2010 American College of Radiology guidelines, magnetic resonance imaging is recommended as a secondary imaging study if ultrasonography does not result in a clear diagnosis of acute cholecystitis or gallstones.14"
+        },
+        {
+            "parent": 4,
+            "text": "Choledocholithiasis is found in 6% to 12% of patients with gallstones; it increases the risk of recurrent symptoms, pancreatitis, and cholangitis.13It should be suspected in any patient with a common bile duct stone on ultrasonography, symptoms of ascending cholangitis, a bilirubin level higher than 4 mg per dL (68.4 μmol per L), or dilated common bile duct (greater than 6 mm) on ultrasonography.8The presence of any of the previously mentioned signs or symptoms warrants additional biliary imaging; options include MRCP, endoscopic ultrasonography, or preoperative ERCP.23Endoscopic ultrasonography has accuracy similar to MRCP, but is more invasive.13ERCP is invasive, with 4% to 10% of patients experiencing hemorrhage, acute pancreatitis, acute cholangitis, or perforation.24An advantage of ERCP is in its potentially therapeutic nature, enabling stone extraction, placement of stents, and biopsy of any diagnosed lesion that might become evident during the study.25"
+        },
+        {
+            "parent": 5,
+            "text": "Laboratory studies recommended for patients with suspected complications of gallstones include a complete blood count and measurement of hepatic transaminase, total bilirubin, alkaline phosphatase, amylase, and lipase levels. Although patients with acute cholecystitis often have mild leukocytosis, the absence of leukocytosis does not exclude this diagnosis. Abnormal findings on liver function testing also occur in patients with cholecystitis, as well as in patients with cholangitis. Elevated amylase and lipase levels, or abnormal findings on liver function testing raise suspicion for gallstone pancreatitis. A high white blood cell count may indicate a gangrenous or perforated gallbladder, or the presence of other pathology.11,13"
+        },
+        {
+            "parent": 6,
+            "text": "Although the natural history of gallstones is generally benign, the physician must decide whether treatment is needed. When considering gallstones, it is helpful to categorize patients into the following groups: those with incidentally detected, asymptomatic gallstones; with symptomatic gallstones; with atypical symptoms and gallstones on imaging; and with typical symptoms but no gallstones on imaging. A suggested approach to the management of gallstones is shown inFigure 1.4"
+        },
+        {
+            "parent": 6,
+            "text": "Expectant management is the best approach for patients with incidentally detected, asymptomatic gallstones.4,26,27However, even in these patients, cholecystectomy may be indicated in certain circumstances, such as in patients planning to have a transplant and patients with hemolytic anemia(Table 5).4,28–30"
+        },
+        {
+            "parent": 6,
+            "text": "Prophylactic treatment, usually with laparoscopic cholecystectomy, should be recommended for patients with biliary-type symptoms or those with complications of gallstones, because these patients are likely to have recurrent and more severe symptoms."
+        },
+        {
+            "parent": 6,
+            "text": "For patients with gallstones on imaging but atypical symptoms, other common gastrointestinal diagnoses should be considered, such as peptic ulcer disease, gastroesophageal reflux disease, or irritable bowel syndrome."
+        },
+        {
+            "parent": 6,
+            "text": "Finally, for patients presenting with symptoms highly suggestive of gallstones but without gallstones on imaging, a cholecystokinin-HIDA scan should be considered. In up to 20% of the patients with symptoms typical of biliary colic, no gallstones are seen on imaging, possibly because of small size or stone composition.3Although such patients may be treated expectantly, studies indicate that laparoscopic cholecystectomy may be beneficial in those with long-standing symptoms of biliary-type colic in the absence of identified gallstones who have a reduced gallbladder ejection fraction and reproducible symptoms with the injection of cholecystokinin.31"
+        },
+        {
+            "parent": 7,
+            "text": "Treatment of acute biliary colic primarily involves pain control with nonsteroidal anti-inflammatory drugs (NSAIDs) or narcotic pain relievers."
+        },
+        {
+            "parent": 7,
+            "text": "NSAIDs are preferred for most patients because they are equally effective with fewer adverse effects. A randomized controlled trial of 324 patients given intravenous ketorolac or meperidine (Demerol) found that both medications were similarly effective at relieving pain, but that patients receiving an NSAID had fewer adverse effects.32"
+        },
+        {
+            "parent": 7,
+            "text": "Another option for pain control is antispasmodic agents (e.g., scopolamine), which are thought to relax and relieve the spasms of the gallbladder. However, comparison studies have shown that NSAIDs provide faster and more effective pain relief.33The patient should fast as part of the conservative management of biliary colic and to avoid the release of endogenous cholecystokinin."
+        },
+        {
+            "parent": 8,
+            "text": "Patients with symptomatic gallstones can be divided into two categories: those who have simple biliary colic and those with complications. Cholecystectomy, usually laparoscopic, is recommended for most patients with symptomatic gallstones.34However, expectant management is also a valid alternative. For example, in one study of 69 adults with symptomatic gallstones treated expectantly, only 35 required cholecystectomy after a median follow-up of 5.6 years.27"
+        },
+        {
+            "parent": 8,
+            "text": "In a Cochrane review of laparoscopic cholecystectomy vs. open cholecystectomy, laparoscopic surgery was similar to the open procedure in complication rates and surgical time, but resulted in a shorter hospital stay (three fewer days; 95% confidence interval, 2.3 to 3.9 days) and shorter convalescence period (22 fewer days; 95% confidence interval, 8 to 37 days).34"
+        },
+        {
+            "parent": 8,
+            "text": "Laparoscopic cholecystectomy is the most commonly performed abdominal surgery in industrialized countries, with almost 900,000 procedures performed annually in Europe and the United States.34,35The rate of conversions to laparotomy for uninflamed gallbladder disease ranges from 2% to 15%, and in cases of acute cholecystitis, from 6% to 35%.35Factors that increase the risk of conversion to open cholecystectomy include male sex, age 60 years or older, previous upper abdominal surgery, thickened gallbladder wall on ultrasonography, and acute cholecystitis.36,37Table 6provides the indications and contraindications for laparoscopic cholecystectomy.35"
+        },
+        {
+            "parent": 8,
+            "text": "Antibiotic prophylaxis is not required in low-risk patients undergoing elective laparoscopic cholecystectomy, but it may reduce the incidence of wound infection in high-risk patients (i.e., those older than 60 years; patients with diabetes mellitus, acute colic within 30 days of surgery, jaundice, acute cholecystitis, or cholangitis).38,39Antibiotic prophylaxis should be limited to a single preoperative dose of intravenous cefazolin, 1 g given within one hour of skin excision.40"
+        },
+        {
+            "parent": 9,
+            "text": "For asymptomatic pigmented or calcified gallstones, no medical therapy aside from pain control is recommended. For cholesterol-containing gallstones, litholysis with oral agents is a historical option that is less often used in today's clinical practice. Symptomatic patients who are not candidates for surgery or those who have small gallstones (5 mm or smaller) in a functioning gallbladder with a patent cystic duct are candidates for dissolution therapy. Options include oral ursodeoxycholic acid (ursodiol [Actigall]) and chenodeoxycholic acid.4,41Both agents decrease hepatic secretion of biliary cholesterol, cause formation of unsaturated bile, and promote dissolution of cholesterol crystals and gallstones. After six to 12 months of therapy, it may eventually result in dissolution of small gallstones, but with a recurrence rate of more than 50%. Oral dissolution has several disadvantages, including the lengthy time frame of observation (up to two years). Fewer than 10% of patients with symptomatic gallstones are candidates for this therapy.4,41"
+        },
+        {
+            "parent": 10,
+            "text": "When surgery is to be avoided, extracorporeal shock wave lithotripsy is a noninvasive therapeutic alternative for symptomatic patients. Although serious adverse effects (e.g., biliary pancreatitis, liver hematoma) are rare, limitations of the procedure include stone recurrence. Also, complete ductal clearance is not always achieved because of the size or position of the stones.42However, recent studies demonstrated usefulness of extracorporeal shock wave lithotripsy for large pancreatic and common bile duct stones followed by ERCP, with results comparable to those of surgery with regard to pain relief and duct clearance.43"
+        },
+        {
+            "parent": 11,
+            "text": "As laparoscopic techniques evolve, physicians continue to try to make surgery as minimally invasive as possible. One such procedure is called single incision laparoscopic surgery, totally transumbilical single-port surgery, laparoendoscopic single-site surgery, or single incision multiport laparoendoscopic surgery. A 2013 systematic review comparing single incision laparoscopic surgery with standard laparoscopic cholecystectomy found no advantage with single incision laparoscopic surgery and concluded that such a procedure cannot be routinely recommended outside of clinical trials.44"
+        },
+        {
+            "parent": 11,
+            "text": "The second type of procedure is called natural orifice transluminal endoscopic surgery, an approach that makes use of one of the body's existing orifices for abdominal access. In the case of cholecystectomy, the most common access is transvaginal. This procedure is currently hampered by the unavailability of suitable instrumentation.45Studies are currently underway and long-term outcomes are forthcoming."
+        },
+        {
+            "parent": 13,
+            "text": "In pregnant women with symptomatic gallstones, the initial management is supportive care, which is usually successful.46Because NSAIDs are generally not recommended in pregnancy, pain control can be achieved with intravenous administration of meperidine. Ursodeoxycholic acid has been administered in pregnant patients to manage intrahepatic cholestasis, but the safety and effectiveness of treating gallstones during pregnancy have not been evaluated (U.S. Food and Drug Administration pregnancy category B). Chenodeoxycholic acid should not be used in pregnant patients (U.S. Food and Drug Administration pregnancy category X). Surgery is usually reserved for patients with recurrent or intractable biliary pain or those who have complications related to gallstones. When surgery is indicated, the laparoscopic approach is preferred, and has been used safely in all trimesters.47"
+        },
+        {
+            "parent": 14,
+            "text": "The clinical presentation of gallstones in older patients may be different because of impaired cognition and the presence of comorbidities. A history of biliary colic might be difficult to obtain, and in patients with acute cholecystitis, fever and Murphy sign are often absent.48Although surgery is the treatment of choice for acute cholecystitis, it is associated with increased mortality in older persons.49"
+        },
+        {
+            "parent": 14,
+            "text": "In patients who are critically ill with gallbladder empyema and sepsis, cholecystectomy can be life threatening. In this circumstance, the surgeon may elect to perform percutaneous cholecystostomy, which involves placement of a percutaneous-transhepatic-cholecystostomy tube using computed tomography or ultrasonography guidance, with delayed interval cholecystectomy. Once the patient's condition is more stable, definitive cholecystectomy can be performed.50,51"
+        },
+        {
+            "parent": 15,
+            "text": "Because of gallbladder dysfunction and increased hemolysis, patients with cirrhosis have a higher rate of gallstones than the general population. These patients also present significant surgical challenges with risk of liver failure and significant bleeding in the face of portal hypertension. Laparoscopic cholecystectomy is the procedure of choice for those with Child-Pugh class A and B cirrhosis.52"
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources: A search of the Cochrane database, PubMed, DARE, and National Guideline Clearinghouse was performed using the key terms gallstones, cholelithiasis, laparoscopic cholecystectomy, cholelithiasis and hepatic cirrhosis, and pregnancy and cholelithiasis. Search dates: December 1 through 20, 2010, and March through April 2014."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,92 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0415/p832.html#afp20120415p832-f2",
+    "title": "NICE Updates Guidelines on Management of Chronic Heart Failure | AAFP",
+    "author": "MARA LAMBERT",
+    "doi": "Am Fam Physician.2012;85(8):832-834",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Monitoring Patients with Heart Failure",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "New Evidence",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:National Institute for Health and Clinical Excellence"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Guideline developed by participants without relevant financial ties to industry?No"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Annals of Internal Medicine, August 16, 2011"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.annals.org/content/155/4/252.full"
+        },
+        {
+            "parent": -1,
+            "text": "Heart failure is associated with poor prognosis and quality of life, as well as high health care costs. In 2010, the National Institute for Health and Clinical Excellence (NICE) updated its previous guideline on the management of chronic heart failure in adults. This update focuses on the role of signs and symptoms, serum natriuretic peptide levels, and echocardiography in the diagnosis of heart failure. It also discusses pharmacologic treatment of heart failure and management using cardiac resynchronization therapy and implantable cardioverter-defibrillators (ICDs), as well as disease monitoring. These recommendations apply to nonpregnant adults with symptoms of chronic heart failure, but not with acute heart failure or acute exacerbations of chronic heart failure."
+        },
+        {
+            "parent": 0,
+            "text": "Diagnosis of heart failure begins with a history and physical examination(Figure 1). To rule out other diagnoses, electrocardiography and consideration of chest radiography, peak flow measurement or spirometry, and blood tests are appropriate. Clinical signs and symptoms have limited use in diagnosing heart failure. Measurement of serum natriuretic peptide levels (brain natriuretic peptide [BNP] and N-terminal pro-BNP) has a high sensitivity but only moderate specificity for diagnosing heart failure."
+        },
+        {
+            "parent": 0,
+            "text": "In patients without previous myocardial infarction (MI), it is appropriate to measure serum natriuretic peptide levels and perform subsequent echocardiography. Subspecialist evaluation is needed if levels are elevated. In patients with a history of MI, the physician should proceed directly to echocardiography with sub-specialist evaluation. If the echocardiogram is normal, measurement of serum natriuretic peptide levels should be considered. Patients with previous MI or with high levels of serum natriuretic peptide should undergo echocardiography and subspecialist evaluation within two weeks of presentation. Those with no previous MI and raised (but not high) levels of serum natriuretic peptide should have echocardiography and subspecialist evaluation within six weeks of initial presentation. If an abnormality is discovered, the physician can begin assessing the severity and possible cause of cardiac dysfunction."
+        },
+        {
+            "parent": 1,
+            "text": "Management of chronic heart failure depends on whether the patient has heart failure with preserved ejection fraction or caused by left ventricular systolic dysfunction(Figure 2). In patients with preserved ventricular function, physicians should focus on managing comorbid conditions (e.g., hypertension, ischemic heart disease, diabetes mellitus) because there is insufficient evidence to recommend specific therapies in this population. Diuretics may be prescribed to manage fluid retention."
+        },
+        {
+            "parent": 1,
+            "text": "Patients with left ventricular systolic dysfunction should receive an angiotensin-converting enzyme (ACE) inhibitor and a beta blocker, regardless of symptom severity. High-quality evidence has shown that this treatment reduces morbidity and increases survival. Outcomes are the same regardless of whether ACE inhibitor or beta-blocker therapy is started first. If patients cannot tolerate ACE inhibitors, angiotensin receptor blockers (ARBs) may be considered. Second-line therapy options include ARBs, aldosterone antagonists, and combination therapy with hydralazine and a nitrate. Hydralazine in combination with a nitrate is appropriate in patients who cannot tolerate ACE inhibitors or ARBs. When choosing a second-line therapy, physicians should consider the severity of heart failure, the patient's ethnicity, and comorbid conditions. Monitoring renal function is important in patients taking any of these medications. Potassium levels should be monitored closely in those taking ARBs or aldosterone antagonists."
+        },
+        {
+            "parent": 1,
+            "text": "Patients with left ventricular systolic dysfunction and persistent symptoms should be referred to a subspecialist for possible additional drug therapy (digoxin), cardiac resynchronization therapy, or an ICD. Criteria for cardiac resynchronization therapy include a left ventricular ejection fraction less than 35 percent and a QRS duration on electrocardiography of 150 milliseconds or higher, or between 120 and 149 milliseconds in those with mechanical dyssynchrony on echocardiography. Criteria for an ICD include sustained ventricular tachycardia or nonsustained ventricular tachycardia that is inducible on electrophysiologic testing if the left ventricular ejection fraction is less than 35 percent, or a QRS duration of 120 milliseconds or higher on electrocardiography if the left ventricular ejection fraction is less than 30 percent."
+        },
+        {
+            "parent": 1,
+            "text": "All patients with heart failure should be offered supervised group exercise–based rehabilitation that includes psychological and educational components, as long as they are stable and do not have a condition or device that precludes such a program. Moderate-quality evidence has shown that exercise rehabilitation reduces hospital admissions for heart failure and increases long-term quality of life almost exclusively in patients with left ventricular systolic dysfunction."
+        },
+        {
+            "parent": 2,
+            "text": "Because the clinical course of heart failure is unpredictable and fluctuating, physicians should monitor patients to make sure they are receiving optimal therapy and adjust treatment as necessary. Serial monitoring of serum natriuretic peptide levels has been shown to be cost-effective when used by sub-specialists. Moderate-quality evidence has shown that therapy guided by serum natriuretic peptide levels can lead to a medium-term reduction in hospitalization for heart failure, although there was no reduction in mortality in persons older than 75 years, in quality of life, or in hospitalization for any cause. Telemonitoring can reduce mortality and hospitalization for any cause, but does not improve quality of life or decrease hospitalization for heart failure. However, the guideline does not make a recommendation on the use of telemonitoring because of heterogeneity of results from different trials."
+        },
+        {
+            "parent": 3,
+            "text": "Since publication of the 2010 update of the NICE clinical guideline on heart failure, some new evidence has emerged, although it is unclear whether these results would have affected guideline recommendations. The Eplerenone in Mild Patients Hospitalization and Survival Study in Heart Failure investigated patients with chronic heart failure caused by left ventricular systolic dysfunction with mild symptoms (i.e., New York Heart Association class II heart failure). Results showed significant reductions in hospitalization and mortality when eplerenone (Inspra) therapy was started in patients hospitalized during the preceding six months or in those with persistent moderate elevation in serum natriuretic peptide levels. The Systolic Heart Failure Treatment with theIfInhibitor Ivabradine Trial showed that ivabradine, a blocker of theIfchannel in the sinoatrial node, significantly reduced unplanned hospitalization and mortality in patients with heart failure caused by left ventricular systolic dysfunction who had a heart rate above 70 beats per minute. A large trial of telemonitoring in patients with a recent hospitalization for heart failure found no evidence that it reduced hospital readmission or mortality. The Resynchronisation/Defibrillation for Ambulatory Heart Failure Trial found that adding cardiac resynchronization therapy in patients with an ICD who had mild to moderate heart failure reduced all-cause mortality and hospitalization, but increased adverse events."
+        }
+    ],
+    "locked": false
+}

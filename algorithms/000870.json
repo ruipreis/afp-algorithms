@@ -1,0 +1,259 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2001/0415/p1557.html#afp20010415p1557-f1",
+    "title": "Management of Group A Beta-Hemolytic Streptococcal Pharyngitis | AAFP",
+    "author": "CYNTHIA S. HAYES, M.D., M.H.A., AND HAROLD WILLIAMSON, JR., M.D., M.S.P.H.",
+    "doi": "Am Fam Physician.2001;63(8):1557-1565",
+    "abstract": "Bacteria are responsible for approximately 5 to 10 percent of pharyngitis cases, with group A beta-hemolytic streptococci being the most common bacterial etiology. A positive rapid antigen detection test may be considered definitive evidence for treatment; a negative test should be followed by a confirmatory throat culture when streptococcal pharyngitis is strongly suspected. Treatment goals include prevention of suppurative and nonsuppurative complications, abatement of clinical signs and symptoms, reduction of bacterial transmission and minimization of antimicrobial adverse effects. Antibiotic selection requires consideration of patients' allergies, bacteriologic and clinical efficacy, frequency of administration, duration of therapy, potential side effects, compliance and cost. Oral penicillin remains the drug of choice in most clinical situations, although the more expensive cephalosporins and, perhaps, amoxicillin-clavulanate potassium provide superior bacteriologic and clinical cure rates. Alternative treatments must be used in patients with penicillin allergy, compliance issues or penicillin treatment failure. Patients who do not respond to initial treatment should be given an antimicrobial that is not inactivated by penicillinase-producing organisms (e.g., amoxicillin-clavulanate potassium, a cephalosporin or a macrolide). Patient education may help to reduce recurrence.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Therapeutic Goals",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Antibiotic Therapy",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "PENICILLIN",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ALTERNATIVES TO PENICILLIN",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Amoxicillin",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Macrolides",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Cephalosporins",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Amoxicillin-Clavulanate",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "MANAGEMENT ISSUES",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Treatment Failure and Reinfection",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Pets",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Close Contacts",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Follow-up and Carriers",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "Contagion",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "Streptococcal Necrotizing Fasciitis",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "Symptomatic Treatment",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "The Future",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Every day, the family physician can expect to encounter at least one patient with a sore throat. Approximately 30 to 65 percent of pharyngitis cases are idiopathic, and 30 to 60 percent have a viral etiology (rhinovirus, adeno-virus and many others).1Only 5 to 10 percent of sore throats are caused by bacteria, with group A beta-hemolytic streptococci being the most common bacterial etiology.1Other bacteria that occasionally cause pharyngitis include groups C and G streptococci,Neisseria gonorrhoeae, Mycoplasma pneumoniae, Chlamydia pneumoniaeandArcanobacterium haemolyticus.2"
+        },
+        {
+            "parent": -1,
+            "text": "Pharyngitis caused by group A beta-hemolytic streptococci, commonly called “strep throat” or streptococcal pharyngitis, has an incubation period of two to five days and is most common in children five to 12 years of age. The illness can occur in clusters and is diagnosed most often in the winter and spring."
+        },
+        {
+            "parent": -1,
+            "text": "Group A beta-hemolytic streptococci are ordinarily spread by direct person-to-person contact, most likely through droplets of saliva or nasal secretions.3Crowding increases transmission, and outbreaks of streptococcal pharyngitis are common in institutional settings, the military, schools and families. Outbreaks resulting from human contamination of food during preparation have also been reported.4"
+        },
+        {
+            "parent": 0,
+            "text": "The textbook case of group A beta-hemolytic streptococcal pharyngitis is an acute illness with a predominant sore throat and a temperature higher than 38.5° C (101.3° F). Constitutional symptoms include fever and chills, myalgias, headaches and nausea. Physical findings may include petechiae of the palate, pharyngeal and tonsillar erythema and exudates, and anterior cervical adenopathy. However, many patients do not fit the textbook picture. Children, for example, may present with abdominal pain or emesis."
+        },
+        {
+            "parent": 0,
+            "text": "Patients with other respiratory complaints, such as cough or coryza, are less likely to have streptococcal pharyngitis.5,6A sandpaper-like rash on the trunk, which is sometimes linear on the groin and axilla (Pastia's lines), is more consistent with scarlet fever."
+        },
+        {
+            "parent": 1,
+            "text": "Throat culture remains the gold standard for the diagnosis of streptococcal pharyngitis. Under ideal conditions, the sensitivity of throat culture for group A beta-hemolytic streptococci is 90 percent; in office settings, the sensitivity ranges from 29 to 90 percent. The specificity of throat culture is 99 percent under ideal conditions and can be anywhere from 76 to 99 percent in office settings.5"
+        },
+        {
+            "parent": 1,
+            "text": "A rapid antigen detection test (rapid strep test) may be performed in the office setting, with results available in five to 10 minutes. This test has a reported specificity of greater than 95 percent but a sensitivity of only 76 to 87 percent.2,5"
+        },
+        {
+            "parent": 1,
+            "text": "According to the American Academy of Pediatrics4and the American Heart Association,7a positive rapid antigen detection test may be considered definitive evidence for treatment of streptococcal pharyngitis. A confirmatory throat culture should follow a negative rapid antigen detection test when the diagnosis of group A beta-hemolytic streptococcal infection is strongly suspected.4,7"
+        },
+        {
+            "parent": 1,
+            "text": "Investigators in one recent study8recommended that cost-conscious physicians use well-validated prediction rules to help them make better use of rapid antigen tests and throat cultures. Clinical prediction rules take into account key elements of a patient's history and physical examination and allow physicians to predict the probability of group A beta-hemolytic streptococcal pharyngitis."
+        },
+        {
+            "parent": 2,
+            "text": "Treatment goals in patients with strepto coccal pharyngitis, including the management of complications, are listed inTable 15Nonsuppurative and suppurative complications are listed inTable 2.5"
+        },
+        {
+            "parent": 2,
+            "text": "Acute rheumatic fever and poststreptococ-cal glomerulonephritis are the nonsuppurative complications of streptococcal pharyngitis. During World War II, the incidence of acute rheumatic fever was as high as 388 cases per 100,000 U.S. Army personnel. In the 1970s and early 1980s, the incidence of this illness fell to 0.23 to 1.14 cases per 100,000 school-aged children,9most likely because of changes in nutrition, decreased crowding, alterations in the pathogen's immune-stimulating potential, improved access to medical care and the introduction of effective antibiotics. However, important outbreaks of acute rheumatic fever in the late 1980s raised concern that virulent serotypes were on the rise.9,10The reported annual incidence of acute rheumatic fever is now approximately one case per 1 million population.8"
+        },
+        {
+            "parent": 2,
+            "text": "Suppurative complications of streptococcal pharyngitis occur as infection spreads from pharyngeal mucosa to deeper tissues. Since the mid-1980s, an increase in the severity of streptococcal pharyngitis cases has been reported in the United States.9,10"
+        },
+        {
+            "parent": 2,
+            "text": "Group A beta-hemolytic streptococci can also cause invasive infections such as necrotizing fasciitis, myositis and streptococcal toxic shock syndrome. Although the skin is the most common portal of entry for these invasive infections, the pharynx has been documented as the point of entry in some cases.9,11"
+        },
+        {
+            "parent": 3,
+            "text": "Multiple factors should be considered in selecting an antibiotic to treat streptococcal pharyngitis(Table 3).5Potential antibiotic regimens are provided inTable 4. An algorithm for the suggested evaluation and treatment of patients with a sore throat is pro vided inFigure 1.12"
+        },
+        {
+            "parent": 4,
+            "text": "For almost five decades, penicillin has been the drug of choice for the treatment of streptococcal pharyngitis. This antibiotic has proven efficacy and safety, a narrow spectrum of activity and low cost."
+        },
+        {
+            "parent": 4,
+            "text": "From the early 1950s into the 1970s, streptococcal pharyngitis was treated with a single intra muscular injection of penicillin G benzathine. Studies from the late 1960s and the 1970s revealed that streptococcal eradication was equal with intramuscularly and orally administered penicillins. Thus, since the early 1980s, oral treatment using penicillin V has been preferred.13"
+        },
+        {
+            "parent": 4,
+            "text": "Although penicillin is effective, it does have drawbacks. About 10 percent of patients are allergic to penicillin, and compliance with a four-times-daily dosing schedule is difficult. Fortunately, cure rates are similar for 250 mg of penicillin V given two, three or four times daily.14The use of intramuscularly administered penicillin may overcome compliance problems, but the injection is painful.14"
+        },
+        {
+            "parent": 4,
+            "text": "Bacteriologic and clinical treatment failures occur with penicillin, as with all antibiotics. “Bacteriologic failure” is failure to eradicate the streptococcal organism responsible for the original infection. Patients with this type of treatment failure may or may not remain symptomatic. Some infected but asymptomatic patients may be carriers. Patients who remain symptomatic despite treatment are considered “clinical failures” and must be retreated. Studies conducted over the past 40 years have reported penicillin V bacteriologic failure rates ranging from 10 to 30 percent and clinical failure rates ranging from 5 to 15 percent.15"
+        },
+        {
+            "parent": 6,
+            "text": "In children, the cure rates for amoxicillin given once daily for 10 days are similar to those for penicillin V.16–18The absorption of amoxicillin is unaffected by the ingestion of food, and the drug's serum half-life in children is longer than that of penicillin V."
+        },
+        {
+            "parent": 6,
+            "text": "Amoxicillin is less expensive and has a narrower spectrum of antimicrobial activity than the presently approved once-daily antibiotics. Suspensions of this drug taste better than penicillin V suspensions, and chewable tablets are available. However, gastrointestinal side effects and skin rash may be more common with amoxicillin."
+        },
+        {
+            "parent": 7,
+            "text": "Erythromycin is recommended as a first alternative in patients with penicillin allergy.4,5,7Because erythromycin estolate is hepatotoxic in adults, erythromycin ethylsuccinate may be used. Erythromycin is absorbed better when it is given with food. Although this antibiotic is as effective as penicillin, 15 to 20 percent of patients cannot tolerate its gastrointestinal side effects.16"
+        },
+        {
+            "parent": 7,
+            "text": "The extended spectrum of azithromycin (Zithromax) allows once-daily dosing and a shorter treatment course. The U.S. Food and Drug Administration (FDA) has labeled a five-day course of azithromycin as a second-line therapy for streptococcal pharyngitis. Azithromycin is associated with a low incidence of gastrointestinal side effects, and three-and four-day courses of this antibiotic have been shown to be as effective as a 10-day course of penicillin V.19,20However, azithromycin is expensive, and its effectiveness in pre venting acute rheumatic fever is unknown."
+        },
+        {
+            "parent": 8,
+            "text": "A10-day course of a cephalosporin has been shown to be superior to penicillin in eradicating group A beta-hemolytic streptococci. A meta-analysis21of 19 comparative trials found that the overall bacteriologic cure rate for cephalosporins was 92 percent, compared with 84 percent for penicillin(P< 0.0001)."
+        },
+        {
+            "parent": 8,
+            "text": "Cephalosporins have a broader spectrum of activity than penicillin V. Unlike penicillin, cephalosporins are resistant to degradation from beta-lactamase produced by copathogens. First-generation agents such as cefa-droxil (Duricef) and cephalexin (Keflex, Keftab) are preferable to second-or third-generation agents, if used, because they offer a narrower spectrum of activity.7"
+        },
+        {
+            "parent": 8,
+            "text": "Because of the possibility of cross-reactivity, patients with immediate hypersensitivity to penicillin should not be treated with a cephalosporin. Cephalosporins are also expensive. Therefore, use of these agents is often reserved for patients with relapse or recurrence of streptococcal pharyngitis."
+        },
+        {
+            "parent": 9,
+            "text": "The combination drug amoxicillin-clavulanate potassium (Augmentin) is resistant to degradation from beta-lactamase produced by copathogens that may colonize the tonsil-lopharyngeal area. Amoxicillin-clavulanate is often used to treat recurrent streptococcal pharyngitis.22Its major adverse effect is diarrhea. Amoxicillin-clavulanate is also expensive."
+        },
+        {
+            "parent": 11,
+            "text": "A recent retrospective chart review23found that recur rent group A beta-hemolytic streptococcal infections were more common in the 1990s than in the 1970s. Within days after completing antimicrobial therapy, a small percentage of patients redevelop symptoms of acute pharyngitis, with the infection confirmed by laboratory tests. These patients have either relapse or reinfection. Theories to explain apparent treatment failures include lack of antibiotic compliance, repeat exposure, beta-lactamase-producing copathogens, eradication of protective pharyngeal microflora, antibiotic suppression of immunity and penicillin resistence.15"
+        },
+        {
+            "parent": 11,
+            "text": "Not all treatment failures should be regarded in the same manner. Repeated episodes in a patient should prompt a search within the patient's family for an asymptomatic carrier who, if found, can be treated. Patients who do not comply with a 10-day course of penicillin should be offered an alternative, such as intra muscularly administered penicillin or a once-daily orally administered macrolide or cephalosporin. Patients with clinical failure should be treated with an antimicrobial agent that is not inactivated by penicillinase-producing organisms. Amoxicillin-clavulanate potassium, cephalosporins and macrolides fall into this category."
+        },
+        {
+            "parent": 11,
+            "text": "Group A beta-hemolytic streptococci persist for up to 15 days on unrinsed tooth brushes and removable orthodontic appliances.24The pathogens are not isolated from rinsed toothbrushes after three days. Instructing patients to rinse toothbrushes and removable orthodontic appliances thoroughly may help to prevent recurrent infections."
+        },
+        {
+            "parent": 12,
+            "text": "Transmission of group A beta-hemolytic streptococci occurs principally through contact with respiratory secretions from an infected person. Although anecdotes are numerous and a few cases have been reported,25family pets are rare reservoirs of group A beta-hemolytic streptococci.5,9,26"
+        },
+        {
+            "parent": 13,
+            "text": "During epidemics, 50 percent of the siblings and 20 percent of the parents of infected children develop streptococcal pharyngitis.14Asymptomatic contacts do not require cultures or prophylaxis. Symptomatic contacts may be treated with or without cultures."
+        },
+        {
+            "parent": 14,
+            "text": "Routine post-treatment throat cultures are not necessary. About 5 to 12 percent of treated patients have a positive post-treatment culture, regardless of the therapy given.27A positive post-treatment culture represents the asymptomatic chronic carrier state, and carriers are not a significant source for the spread of group A beta-hemolytic streptococci. Furthermore, they are not at risk of developing rheumatic fever.14In general, asymptomatic carriers are not treated unless they are associated with treatment failure in a close-contact index patient."
+        },
+        {
+            "parent": 15,
+            "text": "Patients with streptococcal pharyngitis are considered contagious until they have been taking an antibiotic for 24 hours.2Children should not go back to their day-care center or school until their temperature returns to normal and they have had at least 24 hours of antibiotic therapy."
+        },
+        {
+            "parent": 16,
+            "text": "Group A beta-hemolytic streptococci are the causative organisms in streptococcal necrotizing fasciitis. This infection, attributed to so-called “flesh-eating bacteria,” has been the subject of sensational journalistic reports. Invasive streptococcus strains usually have a cutaneous portal of entry and rarely enter via the tonsillopharyngeal area.2,28,29Patients with streptococcal necrotizing fasciitis may develop streptococcal toxic shock syndrome."
+        },
+        {
+            "parent": 17,
+            "text": "Antibiotic therapy for streptococcal pharyngitis shortens the duration of symptoms by less than one day.30Therefore, measures to relieve symptoms are important. Salt-water gargles, lozenges, aspirin-containing gum, demulcents and other remedies all have proponents. No evidence confirms or denies the utility of these measures."
+        },
+        {
+            "parent": 17,
+            "text": "Acetaminophen or a nonsteroidal anti-inflammatory drug may be given to reduce temperature. Children and adolescents should not take aspirin."
+        },
+        {
+            "parent": 18,
+            "text": "In time, rapid tests such as optical immunoassay and chemiluminescent DNA may increase the accuracy and, unfortunately, the cost of diagnosing group A beta-hemolytic streptococcal infections. Current research on a vaccine, involving the streptococcal M pro tein, may allow prevention of the disease.31However, the clinical studies that must follow basic research on a vaccine will require many years. A marker to identify susceptibility to rheumatic fever may make use of the vaccine in susceptible persons practical.4"
+        },
+        {
+            "parent": 18,
+            "text": "More research on penicillin treatment failures would be useful. If a reported increase in recurrences after antibiotic treatment23is con firmed elsewhere and streptococcal serotypes and drug sensitivities are, indeed, changing, penicillin will probably no longer be the drug of choice for the treatment of streptococcal pharyngitis."
+        }
+    ],
+    "locked": false
+}

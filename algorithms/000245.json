@@ -1,0 +1,185 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0915/p442.html#afp20160915p442-f2",
+    "title": "Diagnosis and Treatment of Atrial Fibrillation | AAFP",
+    "author": "CECILIA GUTIERREZ, MD, AND DANIEL G. BLANCHARD, MD",
+    "doi": "Am Fam Physician.2016;94(6):442-452",
+    "abstract": "Atrial fibrillation is a supraventricular arrhythmia that adversely affects cardiac function and increases the risk of stroke. It is the most common arrhythmia and a major source of morbidity and mortality; its prevalence increases with age. Pulse rate is sensitive, but not specific, for diagnosis, and suspected atrial fibrillation should be confirmed with 12-lead electrocardiography. Because normal electrocardiographic findings do not rule out atrial fibrillation, home monitoring is recommended if there is clinical suspicion of arrhythmia despite normal test results. Treatment is based on decisions made regarding when to convert to normal sinus rhythm vs. when to treat with rate control, and, in either case, how to best reduce the risk of stroke. For most patients, rate control is preferred to rhythm control. Ablation therapy is used to destroy abnormal foci responsible for atrial fibrillation. Anticoagulation reduces the risk of stroke while increasing the risk of bleeding. The CHADS2and the CHA2DS2-VASc scoring systems assess the risk of stroke, with a score of 2 or greater indicating a need for anticoagulation. The HAS-BLED score estimates the risk of bleeding. Scores of 3 or greater indicate high risk. Warfarin, dabigatran, factor Xa inhibitors (e.g., rivaroxaban, apixaban, edoxaban), and aspirin are options for stroke prevention. Selection of therapy should be individualized based on risks and potential benefits, cost, and patient preference. Left atrial appendage obliteration is an option for reducing stroke risk. Two implantable devices used to occlude the appendage, the Watchman and the Amplatzer Cardiac Plug, appear to be as effective as warfarin in preventing stroke, but they are invasive. Another percutaneous approach to occlusion, wherein the left atrium is closed off using the Lariat, is also available, but data on its long-term effectiveness and safety are still limited. Surgical treatments for atrial fibrillation are reserved for patients who are undergoing cardiac surgery for other reasons.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology and Definitions",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "RATE CONTROL",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "CARDIOVERSION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ABLATION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "SURGERY AND PERCUTANEOUS LEFT ATRIAL APPENDAGE ISOLATION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Anticoagulation",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Atrial fibrillation is a supraventricular arrhythmia characterized by uncoordinated electrical activation of the atria and an irregular, often rapid, ventricular response causing hemodynamic compromise.1,2As the atria fibrillate, blood pools in the atria, and a clot may form in the atrial appendage, increasing the risk of embolic stroke. Atrial fibrillation is associated with a fivefold increased risk of stroke,3–5and it is the most common arrhythmia. It worsens heart failure and increases mortality in patients with myocardial infarction, and is an independent risk factor for death.6–8The prevalence of atrial fibrillation increases with age, and the associated cost of medical care is high.9,10"
+        },
+        {
+            "parent": -1,
+            "text": "Ablation therapy may be superior to antiarrhythmics in selected patients, including those with paroxysmal atrial fibrillation who are symptomatic but without structural heart disease, patients who are intolerant of antiarrhythmics, and patients with inadequate pharmacologic rhythm control."
+        },
+        {
+            "parent": -1,
+            "text": "The CHA2DS2-VASc scoring system is an alternative to the CHADS2for estimating stroke risk."
+        },
+        {
+            "parent": -1,
+            "text": "Newer oral anticoagulants have a slightly lower risk of intracranial hemorrhage compared with warfarin (Coumadin), but dose adjustment is required in patients with renal disease."
+        },
+        {
+            "parent": 0,
+            "text": "Micro-reentry and enhanced automaticity in one or more atrial circuits are the most common triggers for atrial fibrillation.1,2Key electrocardiographic findings are a loss of P waves and replacement by fibrillatory waves; erratic activation of the ventricles resulting in an irregular, rapid heart rate (usually 90 to 170 beats per minute [bpm]); and a narrow QRS complex, unless other conduction abnormalities coexist(Figure 1). Sympathetic and parasympathetic activation can provoke or worsen atrial fibrillation by shortening the atrial refractory period, which increases susceptibility to reentry and enhanced automaticity.11"
+        },
+        {
+            "parent": 0,
+            "text": "Atrial fibrillation results from several disease processes, each with different prognoses. Nonvalvular atrial fibrillation, which occurs in the absence of rheumatic valve disease, a mechanical or bioprosthetic valve, or mitral valve abnormalities, is the most common form of atrial fibrillation.1,2Paroxysmal atrial fibrillation is episodic and resolves spontaneously or with intervention within seven days.1,2Permanent atrial fibrillation indicates a decision to discontinue attempts to restore or maintain sinus rhythm.1,2Paroxysmal and permanent forms carry the same long-term risk of stroke. Persistent atrial fibrillation lasts more than seven days and causes atrial remodeling, which leads to its perpetuation.1,2,12Atrial fibrillation caused by valvular disease carries a higher risk of stroke than nonvalvular atrial fibrillation. When due to noncardiac disease, it is referred to as secondary atrial fibrillation; treating its cause often resolves the arrhythmia.Table 1lists common causes of atrial fibrillation."
+        },
+        {
+            "parent": 1,
+            "text": "Patients with atrial fibrillation may present with mild or no symptoms, heart failure, myocardial infarction, stroke, or hemodynamic collapse. A systematic review concluded that pulse rate is 94% sensitive and 72% specific for diagnosis (positive likelihood ratio = 3.4; negative likelihood ratio = 0.08).13Suspected atrial fibrillation based on evaluation of pulse rate should always be confirmed with 12-lead electrocardiography. However, a normal test result does not completely rule out the presence of atrial fibrillation because electrocardiography may not capture a paroxysmal arrhythmia. When clinical suspicion of atrial fibrillation persists despite normal electrocardiography results, a Holter monitor (24-hour recording) or event monitor (seven- to 30-day recording) may be required."
+        },
+        {
+            "parent": 1,
+            "text": "The history and physical examination are focused on identifying risk factors, comorbidities, and physical findings of atrial fibrillation. Cardiac and noncardiac etiologies must be considered. Onset and duration of arrhythmia, aggravating and alleviating factors, and severity of associated symptoms should be elicited. Common symptoms include fatigue, palpitations, chest pain, syncope, dizziness, dyspnea, and orthopnea. Sleep apnea, thyroid disease, recent illnesses, and the use of any new medications or supplements must be considered. Physicians also should inquire about use of illicit drugs, alcohol, and diet pills. The physical examination should assess blood pressure, heart rate, presence of cardiac murmurs (such as aortic or mitral stenosis), and evidence of heart failure (pulmonary rales, S3 gallop, peripheral pulses, and jugular venous distention)."
+        },
+        {
+            "parent": 1,
+            "text": "Initial blood tests include a complete blood count, an electrolyte panel, thyroid-stimulating hormone, and liver and kidney function tests. Imaging requirements for all patients include two-dimensional transthoracic echocardiography to evaluate cardiac structure and function, and chest radiography to assess for pulmonary disease.1,2Additional testing may be necessary depending on the patient's history and risk factors. These may include stress echocardiography, nuclear perfusion imaging, or cardiac catheterization to evaluate for ischemia or coronary artery disease; drug screening in selected cases; and a sleep study if sleep apnea is suspected."
+        },
+        {
+            "parent": 2,
+            "text": "In patients who are hemodynamically unstable, immediate evaluation and treatment are warranted, including emergency cardioversion, if necessary. In stable patients, treatment depends on the duration of atrial fibrillation and the presence of underlying cardiac disease or other comorbidities. Atrial fibrillation treatment poses three main therapeutic dilemmas. Physicians must determine how to best control ventricular rate; whether a procedure to convert the rhythm back to normal sinus rhythm is safe and advisable; and whether an anticoagulant should be started, and which medication to use, if so. All therapeutic decisions should include discussions with the patient and their families about risks and benefits.Figure 2presents an algorithm showing the key decision-making points in the process.1,2,14–16"
+        },
+        {
+            "parent": 3,
+            "text": "Rate control is an essential part of atrial fibrillation treatment in acute and chronic settings. It promotes hemodynamic function by slowing ventricular response, improving diastolic ventricular filling, reducing myocardial oxygen demand, and improving coronary perfusion and mechanical function. Given the challenges of achieving and maintaining normal sinus rhythm and the deleterious effects of antiarrhythmic drugs, most patients with atrial fibrillation are treated with rate control.17–19"
+        },
+        {
+            "parent": 3,
+            "text": "Beta blockers (e.g., metoprolol, esmolol [Brevibloc], propranolol) or nondihydropyridine calcium channel blockers (e.g., diltiazem, verapamil) are used to achieve heart rate goals.1,2Lenient rate control to achieve a resting rate less than 110 bpm is reasonable in the majority of patients.20Stricter rate control (less than 80 bpm during rest) may be appropriate if needed to resolve symptoms. Beta blockers and calcium channel blockers are contraindicated in patients with preexcitation (Wolff-Parkinson-White syndrome). Non-cardioselective beta blockers are also contraindicated in patients with acute heart failure, severe chronic obstructive pulmonary disease, and asthma. Digoxin is no longer considered a first-line agent or recommended as monotherapy, but it can be added to therapy with beta blockers or calcium channel blockers.1,2Amiodarone offers another choice for rate control when beta blockers and calcium channel blockers do not work, but its delayed action, potential toxicity, and drug interactions severely limit its use. It may also cause acute cardioversion, which could lead to a stroke if anticoagulation therapy has not been properly administered.1,2"
+        },
+        {
+            "parent": 4,
+            "text": "The main indication for cardioversion is unstable or poorly tolerated atrial fibrillation that is unresponsive to drug therapy.1,2Unless done emergently, or when the duration of the arrhythmia is known to be less than 48 hours, four weeks of pre- and post-cardioversion anticoagulation is required.1,2Cardioversion can be attempted electrically or pharmacologically. Electrical cardioversion is usually successful in the short term, but often not in the long term. If transesophageal echocardiography shows no thrombus in the left atrium, it is safe to omit pre-cardioversion anticoagulation.1,2"
+        },
+        {
+            "parent": 4,
+            "text": "Electrical cardioversion delivers a direct-current electric shock in synchrony with the QRS complex to avoid triggering ventricular fibrillation. One or more shocks of 200 to 300 joules may be necessary.1,2"
+        },
+        {
+            "parent": 4,
+            "text": "Pharmacologic cardioversion uses intravenous ibutilide (Corvert), flecainide, dofetilide (Tikosyn), propafenone (Rythmol), or amiodarone.1,2Cardioversion and maintenance of normal sinus rhythm using medication are challenging because of the limited long-term effectiveness of antiarrhythmics, the risk of triggering ventricular arrhythmias, and long-term adverse effects. In general, maintenance of normal sinus rhythm with oral medications is more successful in patients 65 years and younger with structurally normal hearts, as well as patients who have only recently developed atrial fibrillation.1,2Contraindications to either form of cardioversion include known atrial thrombus, digitalis toxicity, multifocal atrial tachycardia, and suboptimal anticoagulation."
+        },
+        {
+            "parent": 5,
+            "text": "Electrophysiologic radiofrequency ablation is a nonoperative, catheter-based procedure used to isolate and possibly destroy abnormal foci responsible for atrial fibrillation. Specific foci that cause atrial fibrillation have been found at or near the pulmonary vein ostia in the left atrium; locating these sites allows targeted ablation. Some trials have shown that radiofrequency ablation is superior to antiarrhythmics in selected patients, including patients with paroxysmal atrial fibrillation who are symptomatic but without structural heart disease, patients who are intolerant of antiarrhythmics, and patients with inadequate pharmacologic rhythm control.21,22However, data on the long-term effectiveness and safety of radiofrequency ablation are limited. Atrial fibrillation may recur after ablation, and a repeat procedure may be required in approximately 20% of cases. Ablation of the accessory pathway is the optimal treatment for patients with Wolff-Parkinson-White syndrome and atrial fibrillation.1,2The procedure is contraindicated in patients who cannot be anticoagulated one month before and at least several months after the procedure."
+        },
+        {
+            "parent": 5,
+            "text": "Atrioventricular nodal ablation with pacemaker implantation may be beneficial for older patients with tachycardia-induced cardiomyopathy and persons with refractory ventricular rate control despite maximal medical therapy.1,2Long-term anticoagulation is usually required following this procedure.1,2"
+        },
+        {
+            "parent": 6,
+            "text": "Surgical treatments for atrial fibrillation are invasive, high risk, and should be considered only in patients undergoing cardiac surgery for other reasons.1,2The primary surgical therapies for treating atrial fibrillation are the maze procedure and left atrial appendage (LAA) obliteration. The maze procedure aims to eliminate atrial fibrillation through the use of incisions in the atrial wall to interrupt arrhythmogenic wavelet pathways and reentry circuits.23LAA obliteration reduces stroke risk by percutaneous ligation or surgical removal of the LAA.24,25"
+        },
+        {
+            "parent": 6,
+            "text": "LAA obliteration does not correct the underlying atrial fibrillation; however, because approximately 90% of cardiac thrombi occur in the appendage, it decreases the subsequent risk of stroke. Two percutaneously inserted devices, the Watchman and the Amplatzer Cardiac Plug, can be used to achieve occlusion of the LAA, although the latter is not available in the United States. Both are non-inferior to warfarin (Coumadin) in stroke risk reduction.26,27A newer device, the Lariat, is available to ligate the LAA, but data on its long-term effectiveness and safety are limited.27"
+        },
+        {
+            "parent": 7,
+            "text": "Anticoagulation is an essential part of atrial fibrillation management. It significantly reduces the risk of embolic stroke, but increases the risk of bleeding. Although the benefit of anticoagulation exceeds the risk of bleeding for most patients, discussions about stroke prevention vs. risk of bleeding remain challenging. Tools to aid in the assessment of the risks of stroke and bleeding are available and are useful in making decisions with patients about therapeutic options."
+        },
+        {
+            "parent": 7,
+            "text": "For many years, the CHADS2(congestive heart failure; hypertension; age 75 years or older; diabetes mellitus; prior stroke, transient ischemic attack, or thromboembolism [doubled]) scoring system has been used to estimate risk of stroke in patients with atrial fibrillation. Anticoagulation is recommended for patients with a CHADS2score of 2 or more, unless a contraindication is present.28More recently, the CHA2DS2-VASc (congestive heart failure; hypertension; age 75 years or older [doubled]; diabetes; prior stroke, transient ischemic attack, or thromboembolism [doubled]; vascular disease; age 65 to 74 years; sex category) scoring system(Table 21)has been recommended by the American College of Cardiology.29–31Anticoagulation is recommended for patients with a score of at least 2 who have no contraindications. CHA2DS2-VASc significantly increases the number of patients eligible for anticoagulation compared with CHADS2."
+        },
+        {
+            "parent": 7,
+            "text": "Similar clinical tools are available to assess anticoagulation bleeding risk.32–34The HAS-BLED (hypertension, abnormal renal function and liver function, stroke, bleeding, labile international normalized ratio, elderly [older than 65 years], drugs and alcohol) scoring system has been well validated, with a score of 3 or more indicating that a patient has a high likelihood of hemorrhage.14,34,35A tool for calculating a patient's HAS-BLED score is available athttps://www.qxmd.com/calculate/calculator_106/bleeding-risk-in-atrial-fibrillation-has-bled-score."
+        },
+        {
+            "parent": 7,
+            "text": "Warfarin lowers the risk of thromboembolic events,36–39but it has a narrow therapeutic range, multiple drug and food interactions, and requires frequent blood monitoring of the international normalized ratio. Even with optimal compliance, patients using warfarin are within the therapeutic range (2 to 3 for nonvalvular atrial fibrillation) only 55% to 66% of the time.40,41Studies have shown that low-intensity warfarin in atrial fibrillation (international normalized ratio of approximately 1.5) is not effective in preventing stroke.42Aspirin alone or in combination with clopidogrel is an option for patients who decline or are unable to tolerate anticoagulants, or who are at low risk of stroke as indicated by a CHADS2score of 0 or 1.1,2"
+        },
+        {
+            "parent": 7,
+            "text": "Direct oral anticoagulants, including a direct thrombin and several factor Xa inhibitors, are available.40,41,43–45Their main advantages compared with warfarin include fixed dosing, no food interactions, fewer drug interactions, and no need for international normalized ratio monitoring. Their major drawbacks are higher costs, difficulty reversing their effect in emergency situations, and the lack of simple blood tests to check drug levels. A specific antidote for dabigatran is available, and factor Xa inhibitor antidotes are in the late stages of development.46–48"
+        },
+        {
+            "parent": 7,
+            "text": "The oral direct thrombin inhibitor dabigatran is as effective as warfarin in preventing stroke and systemic emboli. Major bleeding events were similar to those of warfarin, with fewer intracranial bleeds (0.30% vs. 0.74% per year, number needed to treat [NNT] = 227), but increased gastrointestinal hemorrhage (1.51% vs. 1.02% per year, number needed to harm = 204).40Factor Xa inhibitors include rivaroxaban (Xarelto), apixaban (Eliquis), and edoxaban (Savaysa).41,43,44Compared with warfarin, rivaroxaban and edoxaban are noninferior in preventing stroke and systemic thromboembolic events, although edoxaban has a lower rate of major bleeding.41Apixaban is slightly superior to warfarin in stroke prevention (1.27% vs. 1.60% per year, NNT = 303) and has a lower bleeding risk (2.13% vs. 3.09%, NNT = 104).43"
+        },
+        {
+            "parent": 7,
+            "text": "These oral anticoagulants also have a slightly lower risk of intracranial hemorrhage compared with warfarin (0.6% vs. 1.2% per year, NNT = 166),15but require dose adjustment in patients with renal disease.Table 3outlines the pharmacologic properties of direct oral anticoagulants and warfarin16; none are recommended for patients on hemodialysis, nor are they approved for use during pregnancy or in patients with valvular atrial fibrillation or advanced kidney disease.Table 4compares some of the risks and benefits of direct oral anticoagulants vs. warfarin.40,41,43,45,49"
+        },
+        {
+            "parent": 7,
+            "text": "Although current practice has been to use heparin or low-molecular-weight heparin to bridge anticoagulation when patients taking warfarin need surgery or invasive procedures, a recent randomized trial in patients with atrial fibrillation who were undergoing surgery and who were at low or moderate bleeding risk found that these patients had worse outcomes if bridged than those who had their anticoagulation stopped during the perioperative period. Patients with a very high risk of stroke or thromboembolism and those undergoing cardiac, spinal, or intracranial surgery were excluded from the study.50"
+        },
+        {
+            "parent": 7,
+            "text": "The treatment of nonvalvular atrial fibrillation must be individualized to each patient's condition, which can change over time."
+        },
+        {
+            "parent": 8,
+            "text": "Referral to a cardiologist is warranted for patients with complex cardiac disease; those who cannot tolerate atrial fibrillation despite rate control; those who need rhythm control, require ablation therapy, or may benefit from surgical treatment; and those who need a pacemaker or defibrillator because of another rhythm abnormality.1"
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the terms atrial fibrillation, rate control, rhythm control, ablation therapy on nonvalvular atrial fibrillation, and anticoagulation therapy for nonvalvular atrial fibrillation. We also searched Essential Evidence Plus, the Cochrane Library, the most updated guidelines from the AHA/ACC/HRS and ESC Guidelines on the Management of Patients with Atrial Fibrillation, the Agency for Healthcare Research and Quality evidence reports, the National Guideline Clearinghouse database, and DynaMed. The search focused on randomized controlled clinical trials, systematic reviews, meta-analyses, and reviews published since 2005. Search dates: January 2015 to June 2015."
+        },
+        {
+            "parent": 8,
+            "text": "editor's note: When this article was initially published, the American Academy of Family Physicians was updating its previous clinical practice guideline on the management of newly detected atrial fibrillation.51Now that thatguidelinehas been updated52, we have revised the online version of this article to incorporate new guidance."
+        },
+        {
+            "parent": 8,
+            "text": "note:This review updates a previous article on this topic by the authors.53"
+        }
+    ],
+    "locked": false
+}

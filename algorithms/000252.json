@@ -1,0 +1,228 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0601/p937.html#afp20160601p937-f1",
+    "title": "Diagnosis and Management of Ovarian Cancer | AAFP",
+    "author": "CHYKE A. DOUBENI, MD, MPH, ANNA R. B. DOUBENI, MD, MPH, AND ALLISON E. MYERS, MD, MPH",
+    "doi": "Am Fam Physician.2016;93(11):937-944",
+    "abstract": "Ovarian cancer is the most lethal gynecologic cancer. Less than one-half of patients survive for more than five years after diagnosis. Ovarian cancer affects women of all ages but is most commonly diagnosed after menopause. More than 75% of affected women are diagnosed at an advanced stage because early-stage disease is usually asymptomatic and symptoms of late-stage disease are nonspecific. The strongest risk factors are advancing age and family history of ovarian and breast cancer. Women who have symptoms concerning for ovarian cancer should undergo a physical examination, transvaginal ultrasonography, and measurement of biomarkers such as cancer antigen 125. If results are suspicious for ovarian cancer, the patient should be referred to a gynecologic oncologist. Despite the low rate of early diagnosis, guidelines recommend against routine screening for ovarian cancer in average-risk women because screening, including routine pelvic examinations, is ineffective and associated with harm. However, a recent trial found a potential benefit of annual screening using an algorithm based on serial cancer antigen 125 measurements followed by transvaginal ultrasonography for women at increased risk, as determined by the algorithm. Women with an increased-risk family history should be referred for genetic counseling and, if genetic mutations (e.g.,BRCAmutations) are identified, bilateral salpingo-oophorectomy can be considered for risk reduction. In both average- and high-risk women, long-term hormonal contraceptive use reduces risk by about 50%. The treatment of ovarian cancer usually involves surgery, with or without intraperitoneal and intravenous chemotherapy. Primary care physicians have important roles in posttreatment surveillance and end-of-life care.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "GENETIC SYNDROMES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "OTHER RISK FACTORS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Presentation",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Indications for Referral",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Survivorship Care",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Palliative and End-of-Life Care",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Ovarian cancer is the most lethal gynecologic cancer. It affects women of all ages, but is most commonly diagnosed in those 55 to 64 years of age.1,2About 90% of tumors are epithelial ovarian cancers that occur primarily in postmenopausal women.3–5Germ cell tumors, which occur primarily in women in their early 20s, comprise 5% of tumors, and sex cord–stromal tumors, which secrete sex steroids and occur at any age (most commonly in a patient's 50s), comprise the remainder.3,6,7Early diagnosis when tumors are small and still confined to the ovaries is the most important prognostic factor1,3,4,7(Table 11,4–7). Only about 45% of women with ovarian cancer survive for five years or longer from the date of diagnosis.1The five-year survival rate is 92% for women with stage I epithelial ovarian cancers but only 17% to 28% for those with advanced-stage tumors.1,5"
+        },
+        {
+            "parent": 0,
+            "text": "Although ovarian cancer has a lifetime risk of only 1.3% in the general population and accounts for only 1.3% of all new cancers, it is the fifth-leading cause of cancer-related deaths in women.1,8It is estimated that in 2016, there will be more than 22,200 new cases of ovarian cancer and more than 14,200 deaths from ovarian cancer in the United States.1The incidence and mortality rates have decreased slightly over the previous four decades,1which may be because of increasing rates of hormonal contraceptive use and decreasing postmenopausal hormone use.9"
+        },
+        {
+            "parent": 2,
+            "text": "Familial genetic syndromes are the strongest known risk factors, accounting for about 10% to 12% of ovarian cancers.4,10BRCAgene mutations are involved in about 10% of cases of ovarian cancer, and hereditary nonpolyposis colorectal cancer (Lynch syndrome) is involved in 2% to 3% of cases.11,12Table 2lists features, epidemiology, and lifetime ovarian cancer risks for these and other rare genetic syndromes.10,11,13,14"
+        },
+        {
+            "parent": 2,
+            "text": "BRCA1/BRCA2tumor suppressor gene mutations are the cause of hereditary breast and ovarian cancer syndrome, which affects one in 300 to 800 women, but the prevalence may be higher than one in 50 among Ashkenazi Jews.10,11,13In families with a history of ovarian or breast cancer,BRCAmutations are responsible for about 90% of cases of ovarian cancer.10,13,14The estimated lifetime risk of ovarian cancer is 40% inBRCA1mutation carriers and 18% inBRCA2mutation carriers.2,13,15Because of incomplete penetrance, however, 35% to 85% ofBRCAcarriers do not develop ovarian cancer and about 20% to 30% never develop breast cancer.2,13–15"
+        },
+        {
+            "parent": 3,
+            "text": "Because only 10% to 12% of cases have a genetic basis, most women with ovarian cancer do not have a relevant family history10,13(Table 311,13–16). Known nongenetic risk factors for epithelial ovarian cancers are increased age, postmenopausal hormone therapy (particularly for more than five years), and obesity or weight gain. The roles of diet, nonsteroidal anti-inflammatory drugs, perineal talc exposure, and smoking are controversial, and the effect of infertility drug treatment is uncertain.2,3,11,17"
+        },
+        {
+            "parent": 3,
+            "text": "Long-term oral contraceptive use (four years or more) reduces the risk of ovarian cancer by approximately 50% inBRCA-mutation carriers.18Depot medroxyprogesterone (Depo-Provera) use, salpingectomy, tubal ligation, and breastfeeding also reduce risk, but there is less definitive evidence of lower risk for multiparity, late menarche, and early menopause.11,19,20"
+        },
+        {
+            "parent": 4,
+            "text": "About 60% of women with ovarian cancers have meta-static disease at the time of diagnosis because early-stage disease is usually asymptomatic. Late-stage ovarian cancers often have symptoms, but they are usually nonspecific and not recognized as symptoms of cancer."
+        },
+        {
+            "parent": 4,
+            "text": "In a survey of 1,709 women diagnosed with ovarian cancer, 72% reported having back pain, fatigue, abdominal pain/bloating, constipation, or urinary symptoms for three months or more before diagnosis; 35% reported symptoms for six months or more.21A case-control study developed a six-item symptom index and found that the presence of any one symptom (i.e., pelvic pain, abdominal pain, increased abdominal size, bloating, difficulty eating, or early satiety) for 12 days per month or more in the previous 12 months had low sensitivity (56.7%) for early disease but higher sensitivity (79.5%) for late-stage disease. The specificity was 90% for women 50 years or older and 86.7% for women younger than 50 years.22The sensitivity is low because many women are asymptomatic or present with symptoms other than those mentioned here.21–23"
+        },
+        {
+            "parent": 4,
+            "text": "In addition to these nonspecific symptoms, ovarian cancer may present with paraneoplastic syndromes such as subacute cerebellar degeneration; sudden onset of seborrheic keratoses (Leser-Trélat sign); or unexplained spontaneous, recurrent, or migratory venous thrombotic events (Trousseau syndrome). Advanced disease may present with symptoms of regional spread or metastasis, such as bowel or ureteral obstruction, or shortness of breath.3,17An exception to the late presentation of ovarian cancer symptoms is sex cord–stromal tumors, which produce hormonal manifestations such as precocious puberty, abnormal uterine bleeding, and virilization; 70% of these tumors are diagnosed at stage I.24"
+        },
+        {
+            "parent": 6,
+            "text": "The evaluation should be guided by a history of the presenting symptoms and assessment of the risk factors previously mentioned, including personal and family history of gynecologic and other cancers(Table 311,13–16). This information can help determine whether ovarian cancer should be considered as a cause of a patient's symptoms."
+        },
+        {
+            "parent": 7,
+            "text": "Patients with symptoms that might be related to ovarian cancer should undergo a complete physical examination, including a rectovaginal examination with the bladder empty to evaluate for pelvic and abdominal masses. However, the physical examination has limited accuracy, especially in obese patients, and a mass could easily be missed or, if detected, could be caused by conditions other than ovarian cancer(Table 4).23"
+        },
+        {
+            "parent": 7,
+            "text": "In addition to the rectovaginal examination, the physical examination should assess for signs of endocrine dysfunction, paraneoplastic syndromes, and meta-static disease, including inguinal or left supraclavicular lymphadenopathy, pleural effusion, and umbilical mass (Sister Mary Joseph nodule).3,17,23,25"
+        },
+        {
+            "parent": 8,
+            "text": "Women with suspected ovarian cancer based on clinical presentation or a pelvic mass should undergo transvaginal ultrasonography17,23,25(Figure 1), which can assess ovarian architecture and vascularity, differentiate cystic from solid masses, and detect ascites. The sensitivity and specificity for distinguishing benign from malignant adnexal lesions on transvaginal ultrasonography are 86% to 94%, and 94% to 96%, respectively.26,27"
+        },
+        {
+            "parent": 9,
+            "text": "A complete blood count, blood chemistry including liver function tests and calcium (to assess for paraneoplastic syndromes), and serum biomarkers should be obtained if ovarian cancer is suspected. Cancer antigen (CA) 125 is the biomarker commonly tested, but its diagnostic utility depends on disease risk and stage at the time of presentation."
+        },
+        {
+            "parent": 9,
+            "text": "CA 125 is elevated in about 80% of epithelial ovarian cancers overall, but in only 50% of early-stage epithelial ovarian cancers.17Furthermore, CA 125 can be elevated in benign conditions such as endometriosis and fibroids.2,17,23,25The specificity and positive predictive value of CA 125 are higher in postmenopausal women than in premenopausal women, partly because of the higher pretest probability of cancer and lower prevalence of the benign lesions after menopause."
+        },
+        {
+            "parent": 9,
+            "text": "There are other serum biomarkers under investigation including human epididymis protein 4 (HE4), a glycoprotein expressed in about one-third of ovarian cancers that lack CA 125. HE4 is used primarily to assess disease progression and monitor for recurrence. However, a positive HE4 or CA 125 level during the diagnostic process may improve the sensitivity and specificity of the six-item symptom index to 83.8% and 98.5%, respectively.28"
+        },
+        {
+            "parent": 9,
+            "text": "Biomarkers for nonepithelial ovarian cancers include inhibin A/B for sex cord–stromal tumors, and serum α-fetoprotein and quantitative beta human chorionic gonadotropin for germ cell tumors."
+        },
+        {
+            "parent": 10,
+            "text": "Women who have a high-risk family history should be referred for genetic testing.13,16Women whose evaluation suggests ovarian cancer (based on imaging or laboratory test results) should be referred to a gynecologic oncologist(Figure 1). A serum CA 125 level greater than 200 U per mL (200 kU per L) in a premenopausal woman or any elevation in a postmenopausal woman, nodular or fixed pelvic masses, evidence of metastasis, or unexplained ascites are definite indications for referral."
+        },
+        {
+            "parent": 10,
+            "text": "Referral to a gynecologic oncologist is also recommended for women with suspicious or complex adnexal masses on transvaginal ultrasonography that persist on short-interval (typically one to three months) follow-up imaging; premenopausal nonpregnant women with an ovarian volume greater than 20 mL; or women with ovarian volume greater than 10 mL after menopause.23"
+        },
+        {
+            "parent": 11,
+            "text": "Surgery is the primary treatment for ovarian cancer. It is used for staging and cytoreduction (debulking), but it is potentially curative in disease confined to the ovaries.23,25Fertility-sparing surgery involving unilateral salpingo-oophorectomy, preserving the uterus and contralateral ovary, is an option for women with early-stage invasive epithelial ovarian cancers, lesions with low potential for malignancy (e.g., lesions with histologically abnormal cells that are judged to have a low likelihood of developing into cancer), germ cell tumors, or sex cord–stromal tumors.23,25"
+        },
+        {
+            "parent": 11,
+            "text": "Postsurgical adjuvant chemotherapy is recommended for late-stage disease and stage II cases, but it is generally not indicated for disease confined to the ovaries.29Postsurgical combination intraperitoneal and intravenous chemotherapy, in particular, increases the median survival rate by 12 months compared with intravenous chemotherapy alone, and is the current standard of care for late-stage tumors. Neoadjuvant (presurgical) chemotherapy has no advantage over postsurgical initiation of chemotherapy.30Evidence does not support routine maintenance chemotherapy following the primary course.31"
+        },
+        {
+            "parent": 12,
+            "text": "Transvaginal ultrasonography and CA 125 testing are the two most studied ovarian cancer screening modalities.16,32,33A U.S. clinical trial found that using these tests to screen average-risk women did not decrease mortality risk and was associated with increased harms,32but a U.K. trial reported a benefit of screening with no substantially increased harms.33"
+        },
+        {
+            "parent": 12,
+            "text": "The Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial, a pragmatic trial, randomized women 55 to 74 years of age in 1993 to 2001 to annual CA 125 testing for six years plus transvaginal ultrasonography for four years (n = 39,105) or to a control group (n = 39,111). After an average follow-up of 12.4 years, there was a 21% higher rate of ovarian cancer detection and an 18% higher mortality rate in the women who were screened vs. those who were not.32The higher mortality rate in the screening group was likely due to false-positive results in 3,285 screened women; 1,080 of these women underwent surgical procedures, of whom 15% experienced serious infectious, cardiovascular, pulmonary, and other complications. False-positive results often represent ovarian lesions that have a low potential to become a lethal cancer. For instance, in one study, only about one in 22 patients with such lesions developed cancer over three years.34"
+        },
+        {
+            "parent": 12,
+            "text": "However, the recently published United Kingdom Collaborative Trial of Ovarian Cancer Screening reported potentially promising results on the effectiveness of screening. The study recruited 202,638 postmenopausal women 50 to 74 years of age in the United Kingdom between 2001 and 2005. They were randomized to receive annual multimodal screening, screening with annual transvaginal ultrasonography alone, or no screening. Multimodal screening involved use of an algorithm based on rising CA 125 levels from baseline to classify women as low, intermediate, or increased risk; transvaginal ultrasonography was performed within six weeks in women classified as increased risk. Women were followed for a maximum of 13.6 years. The primary outcome was death from ovarian cancer. There was a trend indicating benefit from screening, with the ovarian cancer mortality rate 15% lower with multimodal screening (95% confidence interval, −3 to 30;P= .10) and 11% lower with transvaginal ultrasonography alone (95% confidence interval, −7 to 27;P= .21) compared with the mortality rate in women who were not screened. However, this trend was not statistically significant and the confidence intervals were wide.33Furthermore, surgery was performed for what turned out to be false-positive results at rates of 14 and 50 per 10,000 in the multimodal screening and transvaginal ultrasonography groups, respectively.33"
+        },
+        {
+            "parent": 12,
+            "text": "Based on results of the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial and other studies, the U.S. Preventive Services Task Force (USPSTF) and the American Academy of Family Physicians recommend against routine screening for ovarian cancer in asymptomatic women,16,35but recommend that women with a high-risk family history be offered referral for genetic counseling and, if appropriate, genetic testing35,36(Table 311,13–16). An American College of Physicians practice guideline also recommends against screening, including annual pelvic examinations, in asymptomatic women.37The USPSTF is expected to update its ovarian cancer screening recommendations within the next one to two years to incorporate the results of the UK Collaborative Trial of Ovarian Cancer Screening."
+        },
+        {
+            "parent": 13,
+            "text": "Risk-reducing bilateral salpingo-oophorectomy is the most effective prophylactic treatment forBRCAcarriers. It reduces ovarian cancer risk by 69% to 100%,38but a small risk of developing peritoneal carcinomatosis remains. Risk-reducing salpingo-oophorectomy induces premature menopause with its attendant risks and limits reproductive capacity. It may also negatively affect a woman's body image and sexuality.38"
+        },
+        {
+            "parent": 13,
+            "text": "Other preventive measures are avoiding long-term (greater than five years) postmenopausal hormone therapy and maintaining a healthy lifestyle. Long-term hormonal contraceptive use is a promising chemopreventive approach, even forBRCA1carriers, and especially in women with early menarche, women who delay first pregnancy, or women who are infertile. However, this potential benefit should be balanced against adverse effects and a slight increase in the risk of breast cancer.11,17"
+        },
+        {
+            "parent": 14,
+            "text": "Posttreatment care involves providing emotional support, monitoring for and managing treatment complications and comorbid conditions, and promoting general well-being.39It also includes referral for genetic counseling, if not already made, and counseling about signs, symptoms, and surveillance for recurrence. Approximately 25% of patients diagnosed with early-stage disease and 75% to 80% of patients with advanced disease experience recurrence within five years.39However, evidence on the effectiveness of posttreatment surveillance for preventing or minimizing disease-related outcomes is limited."
+        },
+        {
+            "parent": 14,
+            "text": "According to expert opinion, posttreatment surveillance should be provided by a gynecologic oncologist for the first five years after diagnosis. After that, care may transition to an annual review of systems and physical examination in primary care.39The recommended surveillance testing for epithelial ovarian cancer is shown inTable 5,39but it varies according to the histologic type. Computed tomography, positron emission tomography, or both are recommended if recurrence is suspected.39Measurement of serum CA 125 and HE4 levels is recommended if they were elevated at the time of diagnosis. Measurement of inhibin A/B is used in postoperative follow-up for some sex cord–stromal tumors."
+        },
+        {
+            "parent": 15,
+            "text": "Palliative care and advance directives, including designation of a health care proxy, should be discussed at the time of initial decision making about treatment. This is particularly important for patients with stage II to IV disease, and is an area for primary care clinical involvement."
+        },
+        {
+            "parent": 15,
+            "text": "Palliative care planning should focus on maximizing quality of life through aggressive management of distressing symptoms such as pain, nausea and vomiting, respiratory symptoms, urinary tract infection, renal failure, edema, cancer-related fatigue and neuropathy, hypercalcemia, and anxiety or depression.40"
+        },
+        {
+            "parent": 15,
+            "text": "End-of-life care is the terminal phase in the care continuum. Validated tools, such as the Memorial Symptom Assessment Scale,41facilitate communication between the patient and care team. Psychological and social support for the patient and family, as well as spiritual and existential issues, become central if there is no realistic hope of cure. Comfort care is critical when death is imminent."
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key terms ovarian cancer, epidemiology, diagnosis, treatment, screening, surveillance, survival, and palliative care AND end-of-life care. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. We also searched the National Cancer Institute's Physician Data Query, Clinical Announcements, and Surveillance, Epidemiology, and End Results (SEER) Program databases; the Agency for Healthcare Research and Quality evidence reports; and Essential Evidence Plus. Search dates: March 9, 2015, and March 9, 2016."
+        },
+        {
+            "parent": 15,
+            "text": "The authors thank Alexis M. Zebrowski and Linda L. Pang for revisions and editorial assistance."
+        }
+    ],
+    "locked": false
+}

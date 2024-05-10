@@ -1,0 +1,190 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0101/p72.html#afp20060101p72-f1",
+    "title": "Medications for Migraine Prophylaxis | AAFP",
+    "author": "SEEMA MODI, M.D., AND DIONNE M. LOWDER, PHARM.D., B.C.P.S.",
+    "doi": "Am Fam Physician.2006;73(1):72-78",
+    "abstract": "Sufficient evidence and consensus exist to recommend propranolol, timolol, amitriptyline, divalproex, sodium valproate, and topiramate as first-line agents for migraine prevention. There is fair evidence of effectiveness with gabapentin and naproxen sodium. Botulinum toxin also has demonstrated fair effectiveness, but further studies are needed to define its role in migraine prevention. Limited evidence is available to support the use of candesartan, lisinopril, atenolol, metoprolol, nadolol, fluoxetine, magnesium, vitaminB2(riboflavin), coenzyme Q10, and hormone therapy in migraine prevention. Data and expert opinion are mixed regarding some agents, such as verapamil and feverfew; these can be considered in migraine prevention when other medications cannot be used. Evidence supports the use of timed-release dihydroergotamine mesylate, but patients should be monitored closely for adverse effects.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Preventive Medications",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "ANTIDEPRESSANTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ANTICONVULSANTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Valproic Acid and Derivatives",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Gabapentin",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Topiramate",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "NONSTEROIDAL ANTI-INFLAMMATORY DRUGS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ANGIOTENSIN BLOCKADE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "CALCIUM CHANNEL BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "OTHER AGENTS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Special Considerations",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "PREGNANCY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Recurrent migraines can be disabling: the cost of missed workdays and impaired performance associated with migraines in the United States totals around $13 billion each year.1,2Preventive therapy, which can reduce the frequency of migraines by 50 percent or more, is used by less than one half of persons with migraine headache.3"
+        },
+        {
+            "parent": -1,
+            "text": "Following appropriate management of acute migraine, patients should be evaluated for initiation of preventive therapy. Factors that should prompt consideration of preventive therapy include the occurrence of two or more migraines per month with disability lasting three or more days per month; failure of, contraindication for, or adverse events from acute treatments; use of abortive medication more than twice per week; and uncommon migraine conditions (e.g., hemiplegic migraine, migraine with prolonged aura, migrainous infarction). Patient preference and cost also should be considered.4"
+        },
+        {
+            "parent": -1,
+            "text": "The goal of preventive therapy is to improve patients’ quality of life by reducing migraine frequency, severity, and duration, and by increasing the responsiveness of acute migraines to treatment. Therapy should be initiated with medications that have the highest levels of effectiveness and the lowest potential for adverse reactions; these should be started at low dosages and titrated slowly. A full therapeutic trial may take two to six months.5After successful therapy (e.g., reduction of migraine frequency by approximately 50 percent or more) has been maintained for six to 12 months, discontinuation of preventive therapy can be considered.6,7An algorithm for pharmacologic migraine prophylaxis is provided inFigure 1, and several evidence-based guidelines for the management of migraine headache are available elsewhere.4,6–8"
+        },
+        {
+            "parent": 0,
+            "text": "Various types of medications have been evaluated for migraine prophylaxis, including beta blockers, antidepressants, anticonvulsants, nonsteroidal anti-inflammatory drugs (NSAIDs), angiotensin blockade agents, and calcium channel blockers. The evidence for each is summarized in this article, and agents considered to be first-line therapy are listed inTable 1."
+        },
+        {
+            "parent": 1,
+            "text": "Evidence consistently supports the use of the beta blocker propranolol (Inderal) in migraine prophylaxis.4,6Propranolol has been compared with placebo in about 60 trials; in data pooled from nine of these studies, the calculated responder ratio (comparable to relative risk) was 1.9 (95% confidence interval [CI], 1.60 to 2.35).9"
+        },
+        {
+            "parent": 1,
+            "text": "Timolol (Blocadren) has been compared with placebo in three trials; its effect size is comparable to propranolol.6The 2002 American Academy of Family Physicians and American College of Physicians–American Society of Internal Medicine guidelines for migraine prophylaxis4identifies both propranolol and timolol as first-line agents."
+        },
+        {
+            "parent": 1,
+            "text": "There is limited evidence to support the use of atenolol (Tenormin), the long-acting preparation of metoprolol (Toprol XL), or nadolol (Corgard) for migraine prevention. However, several other beta blockers, including acebutolol (Sectral) and pindolol (Visken), appear to be ineffective for this use.6,10"
+        },
+        {
+            "parent": 1,
+            "text": "Adverse effects associated with beta blockers include fatigue, reduced exercise tolerance, nausea, dizziness, insomnia, and depression. In trials, these side effects were well tolerated and rarely prompted discontinuation of therapy.4Contraindications for beta-blocker use include asthma, hypoglycemia associated with diabetes treatment, heart block, and hypotension.10Beta blockers may be especially useful in patients with concomitant cardiovascular disease.11"
+        },
+        {
+            "parent": 2,
+            "text": "Amitriptyline is a first-line agent for migraine prophylaxis4and is the only antidepressant with consistent evidence supporting its effectiveness for this use. One study involving 162 persons with migraines compared amitriptyline therapy (50 to 100 mg daily) with placebo over four weeks. Results showed an odds ratio (OR) of 2.4 (95% CI, 1.1 to 5.4) for the number of patients reporting a 50 percent improvement in migraine index, and a moderate effect size of 0.62 (95% CI, 0.15 to 1.10) on a migraine index that included frequency and duration.6Results of a study4comparing amitriptyline with propranolol suggest that propranolol is more effective in patients with a single migraine type, whereas amitriptyline is more beneficial for patients with mixed migraine and tension features. Amitriptyline also is useful in patients with comorbid insomnia or, when used at higher dosages, depression.11"
+        },
+        {
+            "parent": 2,
+            "text": "Adverse effects of amitriptyline include drowsiness, weight gain, and anticholinergic symptoms such as dry mouth.4Amitriptyline has poorer tolerability than some tricyclic antidepressants (e.g., nortriptyline [Pamelor], doxepin [Sinequan]), and most studies of painful conditions other than migraine have found other tricyclic antidepressants to be equianalgesic. Therefore, if a patient cannot tolerate the adverse effects of amitriptyline, a different tricyclic antidepressant might be considered, although there is some evidence that other tricyclic antidepressants are not effective for migraine prevention.6The results from one small trial (n = 18) support the use of fluoxetine (Prozac) 10 to 40 mg per day6; however, a larger trial (n = 57) showed no evidence to support the use of fluoxetine,6and evidence does not support the use of the numerous other tricyclic antidepressants and selective serotonin reuptake inhibitors for migraine prevention.4"
+        },
+        {
+            "parent": 4,
+            "text": "Divalproex (Depakote) and sodium valproate are well supported by evidence for use in migraine prevention.7,11For a migraine frequency reduction of 50 percent or more, authors of a Cochrane review12of anticonvulsants for migraine prophylaxis calculated a number needed to treat (NNT) of 3.1 (95% CI, 1.9 to 8.9) for sodium valproate and 4.8 (95% CI, 3.5 to 7.4) for divalproex. However, these medications have comparatively high adverse event rates. The Cochrane review12showed that anticonvulsants as a class have a low calculated number needed to harm (NNH). According to the Cochrane review,12the NNH for nausea is 6.6 (95% CI, 5.0 to 9.8); for fatigue, 12.3 (95% CI, 7.6 to 31.8); for tremor, 12.4 (95% CI, 8.9 to 20.1); for weight gain, 16.0 (95% CI, 8.5 to 154.4); and for dizziness, 16.3 (95% CI, 9.5 to 57.9). Drug levels must be monitored if toxicity or compliance are in question. Gastrointestinal side effects generally diminish with continued use. Because of their teratogenicity, valproic acid (Depakene) and derivatives should not be used in patients who are pregnant. They also should not be used in patients with a history of pancreatitis or hepatic disorder, such as cirrhosis or chronic hepatitis.10"
+        },
+        {
+            "parent": 5,
+            "text": "Two clinical trials have found gabapentin (Neurontin) to be effective at dosages of 1,200 to 2,400 mg per day.12,13At a dosage of 2,400 mg per day, the NNT to reduce headache frequency by 50 percent or more was 3.3 (95% CI, 2.1 to 8.4).12These studies12,13have methodologic limitations, however, and further evaluation is warranted. The most common adverse events associated with gabapentin are dizziness and somnolence.13"
+        },
+        {
+            "parent": 6,
+            "text": "Several open-label and controlled studies indicate that topiramate (Topamax) is effective in migraine prophylaxis, and it is considered a first-line agent for this use.7In two concurrent randomized, double-blind, placebo-controlled trials,14,15937 participants were randomized to receive topiramate 50, 100, or 200 mg per day or placebo for 26 weeks. In both trials, more patients had at least a 50 percent reduction in monthly migraine frequency with topiramate 50 to 200 mg per day (36 to 52 percent, respectively) than with placebo (23 percent).14,15The NNT for a dosage of 100 mg topiramate per day has been calculated as 3.5 (95% CI, 2.8 to 4.9).12In both trials,14,15participants reported improvement in migraine frequency within the first month of therapy. Adverse events included paresthesia, fatigue, nausea, and anorexia. More adverse effects occurred with the 200 mg per day dosage than with 100 mg per day.14,15Comparative studies with other prophylactic agents have not been conducted."
+        },
+        {
+            "parent": 7,
+            "text": "Evidence supports the use of naproxen sodium (Anaprox) and naproxen (Naprosyn) for migraine prevention.4,6Menstrual migraines may be prevented with a course of an NSAID beginning several days before menstruation and continuing during the first few days of the period.16"
+        },
+        {
+            "parent": 7,
+            "text": "NSAIDs can be especially helpful in patients with comorbid osteoarthritis.11However, chronic NSAID use must be undertaken cautiously because of the potential for adverse effects involving the gastrointestinal tract (3 to 45 percent in trials) and renal function.10"
+        },
+        {
+            "parent": 7,
+            "text": "There is insufficient evidence to support the use of high-dose aspirin.6,10"
+        },
+        {
+            "parent": 8,
+            "text": "The angiotensin-converting enzyme inhibitor lisinopril (Zestril) has demonstrated some effectiveness in the prevention of migraine. In a randomized, double-blind, crossover trial17with 55 patients, lisinopril 20 mg per day for 12 weeks reduced the mean number of days with headache and the mean number of days with migraine compared with placebo (20.7 versus 24.7 days, respectively, with headache; 14.6 versus 18.7 days, respectively, with migraine). Thirty percent of patients receiving lisinopril experienced a 50 percent or greater reduction in the number of days with migraine.17Lisinopril was well tolerated, although it was associated with a higher incidence of cough than placebo.17"
+        },
+        {
+            "parent": 8,
+            "text": "The angiotensin receptor blocker candesartan (Atacand) was evaluated in a prospective, randomized, double-blind, crossover study18with 60 patients. As with lisinopril, candesartan 16 mg per day was found to reduce the mean number of days with headache and with migraine compared with placebo (13.6 versus 18.5 days, respectively, with headache [P= .001]; 9.0 versus 12.6 days, respectively, with migraine [P< .001]). Candesartan also appeared to significantly decrease headache severity, level of disability, and days of sick leave due to headache. The rate of response to candesartan, based on a 50 percent or more reduction in the number of days with migraine, was 40.4 percent, compared with 3.5 percent for placebo (P< .001). Adverse effects with candesartan were similar to those with placebo.18"
+        },
+        {
+            "parent": 9,
+            "text": "Evidence does not support the use of diltiazem (Cardizem) in migraine prevention, and the evidence for several other calcium channel blockers, such as nifedipine (Procardia), is poor and suggests only modest effect.6"
+        },
+        {
+            "parent": 9,
+            "text": "There is weak evidence to support verapamil (Calan) as a first-line agent.6,8Of three small trials comparing verapamil 240 or 320 mg per day with placebo, two reported positive findings, with a moderate calculated summary effect size of 0.78 (95% CI, 0.09 to 1.50).6Two trials had high dropout rates because of adverse events.3"
+        },
+        {
+            "parent": 10,
+            "text": "Other agents that have been assessed for the prevention of migraine have limited evidence, have shown limited effectiveness, or have side-effect limitations."
+        },
+        {
+            "parent": 10,
+            "text": "Oral magnesium (trimagnesium dicitrate) may be useful at dosages of 600 mg per day, but this dosage may be associated with diarrhea.10VitaminB2(riboflavin) 400 mg per day showed benefit at three and four months after initiation of treatment compared with placebo, with an NNT of 2.3 for a 50 percent or greater reduction in the number of days with headache.3,19However, data for this agent are limited."
+        },
+        {
+            "parent": 10,
+            "text": "A small trial20of coenzyme Q10, 100 mg three times per day, versus placebo showed an NNT of 3.0 (CI not reported) for a 50 percent or greater reduction in migraine frequency. Feverfew 50 to 82 mg per day was found to be more effective than placebo in three of five trials, but variation among formulations makes dosage recommendation difficult, and study quality was mixed.3,4,21"
+        },
+        {
+            "parent": 10,
+            "text": "A study of high-dose estradiol in women with perimenstrual migraine, in which estradiol topical gel (Estrogel) 1.5 mg per day was initiated two days before anticipated migraine and continued for one week, showed a statistically significant reduction in migraine frequency during the perimenstrual period, with a moderate calculated effect size of 0.71 (95% CI, 0.26 to 1.20).6Timed-release dihydroergotamine mesylate (DHE-45) 10 mg per day was associated with lower headache frequency and other improvements in four placebo-controlled trials.6Its use may be limited by adverse effects, which are mainly gastrointestinal and include dyspepsia, epigastric pain, nausea, and vomiting.6"
+        },
+        {
+            "parent": 10,
+            "text": "Several clinical trials have demonstrated the potential usefulness of botulinum toxin type A (Botox) to prevent migraines.22–24In one double-blind study,22123 patients with chronic migraines were randomized to receive injections of botulinum toxin type A 25 U or 75 U or placebo into glabellar, frontalis, and temporalis muscles; at three months, only the 25-U group demonstrated a significant decrease in migraine frequency and severity. Botulinum toxin type A was generally well tolerated in clinical trials.22–24Studies are being undertaken to determine who would benefit most from botulinum toxin type A, which sites should be used for injection, the optimal dose and schedule, and the cost/benefit relation.24"
+        },
+        {
+            "parent": 12,
+            "text": "A Cochrane review25identified only one effective medication for migraine prophylaxis in children: propranolol. In one study, propranolol at a maximum dosage of 60 mg per day in three divided doses for children weighing less than 77 lb (35 kg), and 120 mg per day in three divided doses for children weighing 77 lb or more, produced a reduction in headache frequency of two thirds (NNT = 1.5; 95% CI, 1.15 to 2.10). All other studies of various medications showed no benefit, but may have been too small to conclude that these agents are ineffective.25,26"
+        },
+        {
+            "parent": 13,
+            "text": "Preventive therapy for chronic migraine in women who are pregnant should be approached cautiously and initiated only with the consent of the patient after informed evaluation of the risks.27If needed, category C drugs such as propranolol, amitriptyline, gabapentin, fluoxetine, or topiramate also may be considered.28[corrected] Labetalol (Normodyne), 150 mg twice per day, has shown success in migraine prevention during pregnancy.29Valproic acid and its derivatives and high doses of vitaminB2can be teratogenic and should be avoided.27Lisinopril and candesartan should not be used during pregnancy.28"
+        }
+    ],
+    "locked": false
+}

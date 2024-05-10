@@ -1,0 +1,219 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0501/p1723.html#afp20050501p1723-f1",
+    "title": "Hyperosmolar Hyperglycemic State | AAFP",
+    "author": "GREGG D. STONER, M.D.",
+    "doi": "Am Fam Physician.2005;71(9):1723-1730",
+    "abstract": "Hyperosmolar hyperglycemic state is a life-threatening emergency manifested by marked elevation of blood glucose, hyperosmolarity, and little or no ketosis. With the dramatic increase in the prevalence of type 2 diabetes and the aging population, this condition may be encountered more frequently by family physicians in the future. Although the precipitating causes are numerous, underlying infections are the most common. Other causes include certain medications, non-compliance, undiagnosed diabetes, substance abuse, and coexisting disease. Physical findings of hyperosmolar hyperglycemic state include those associated with profound dehydration and various neurologic symptoms such as coma. The first step of treatment involves careful monitoring of the patient and laboratory values. Vigorous correction of dehydration with the use of normal saline is critical, requiring an average of 9 L in 48 hours. After urine output has been established, potassium replacement should begin. Once fluid replacement has been initiated, insulin should be given as an initial bolus of 0.15 U per kg intravenously, followed by a drip of 0.1 U per kg per hour until the blood glucose level falls to between 250 and 300 mg per dL. Identification and treatment of the underlying and precipitating causes are necessary. It is important to monitor the patient for complications such as vascular occlusions (e.g., mesenteric artery occlusion, myocardial infarction, low-flow syndrome, and disseminated intravascular coagulopathy) and rhabdomyolysis. Finally, physicians should focus on preventing future episodes using patient education and instruction in self-monitoring.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Precipitating Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Evaluation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "FLUID REPLACEMENT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ELECTROLYTE MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "INSULIN THERAPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "IDENTIFY AND TREAT THE CAUSE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Complications of Treatment",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hyperosmolar hyperglycemic state is a relatively common, life-threatening endocrine emergency that is reported in all age groups,1but it most frequently affects older patients with type 2 diabetes.2The hallmark of hyperosmolar hyperglycemic state is profound dehydration, marked hyperglycemia, and often some degree of neurologic impairment with mild or no ketosis. Traditionally, hyperosmolar hyperglycemic state and diabetic ketoacidosis (the other result of severe diabetic decompensation; see the Trachtenbarg article3on p. 1705 of this issue) have been described as distinct entities; however, one third of patients exhibit findings of both conditions.2"
+        },
+        {
+            "parent": -1,
+            "text": "Hyperosmolar hyperglycemic state and diabetic ketoacidosis may represent opposite ends of the spectrum of decompensated diabetes that differ in the time of onset, the degree of dehydration, and the severity of ketosis.4Table 1compares the conditions associated with mild to severe diabetic ketoacidosis with those of hyperosmolar hyperglycemic state.5"
+        },
+        {
+            "parent": -1,
+            "text": "Over the past few decades, hyperosmolar hyperglycemic state has had many names and acronyms, including nonketotic hypertonicity, hyperosmolar nonketosis, and, most often, hyperosmolar hyperglycemic nonketotic coma. The latter designation is a misnomer, because a mild degree of ketosis often is present, and a true coma is uncommon."
+        },
+        {
+            "parent": -1,
+            "text": "The mortality rate of hyperosmolar hyperglycemic state ranges from 10 to 50 percent,2,6–10a considerably higher rate than that of diabetic ketoacidosis (1.2 to 9 percent).2,7,8However, true mortality data are difficult to interpret secondary to the high incidence of coexisting diseases. Age, degree of dehydration,2hemodynamic instability,9underlying precipitating causes, and degree of consciousness6all are powerful predictors of a fatal outcome."
+        },
+        {
+            "parent": 0,
+            "text": "The initiating event in hyperosmolar hyperglycemic state is glucosuric diuresis. Glucosuria impairs the concentrating capacity of the kidney, further exacerbating water loss. Under normal conditions, the kidneys act as a safety valve to eliminate glucose above a certain threshold and prevent further accumulation. However, decreased intravascular volume or underlying renal disease decreases the glomerular filtration rate, causing the glucose level to increase. The loss of more water than sodium leads to hyperosmolarity.10Insulin is present, but it is not adequate to reduce blood glucose levels, particularly in the presence of significant insulin resistance.11"
+        },
+        {
+            "parent": 1,
+            "text": "Precipitating factors may be divided into six categories: infections, medications, non-compliance, undiagnosed diabetes, substance abuse, and coexisting diseases(Table 2).11–17Infections are the leading cause of hyperosmolar hyperglycemic state (57.1 percent)6; the most common infection is pneumonia, often gram negative, followed by urinary tract infection and sepsis.13Poor compliance with diabetic medications also is thought to be a frequent cause (21 percent).6"
+        },
+        {
+            "parent": 1,
+            "text": "Undiagnosed diabetes often is associated with hyperosmolar hyperglycemic state because of failure to recognize early symptoms of the disease. Myocardial infarction,13,16cerebrovascular accident, pulmonary embolus, and mesenteric thrombosis have been identified as causes of hyperosmolar hyperglycemic state. In one study18of an urban population presenting with hyperosmolar hyperglycemic state, the three leading causes were poor compliance with medication, ethanol ingestion, and cocaine use. Long-term steroid use19and gastroenteritis20are common causes of hyperosmolar hyperglycemic state in children."
+        },
+        {
+            "parent": 2,
+            "text": "Typically, patients presenting with hyperosmolar hyperglycemic state are older and have undiagnosed diabetes or type 2 diabetes managed by diet and/or oral diabetic medication. They often take medications that aggravate the problem, such as a diuretic that causes mild dehydration. These patients often live alone or may be in a nursing home environment in which they are unable to communicate their needs secondary to restraints, sedation, or coma.21"
+        },
+        {
+            "parent": 2,
+            "text": "In addition to one or more of the precipitating factors listed inTable 2,11–17patients with hyperosmolar hyperglycemic state typically present with weakness, visual disturbance, or leg cramps.10,21Nausea and vomiting may occur, but are much less frequent than in patients with diabetic ketoacidosis. Eventually, patients develop neurologic symptoms of lethargy, confusion, hemiparesis (often misdiagnosed as cerebrovascular accident), seizures, or coma10,13,22that eventually lead to medical care."
+        },
+        {
+            "parent": 2,
+            "text": "Physical findings reveal profound dehydration that is manifested by poor tissue turgor10(which may be difficult to evaluate in older patients)23; dry buccal mucosa membranes; soft, sunken eyeballs; cool extremities; and a rapid, thready pulse.10A low-grade fever often is present. Abdominal distention may occur because of gastroparesis induced by hypertonicity,23but resolves quickly following adequate rehydration. Abdominal distention that persists after rehydration may be related to other underlying causes."
+        },
+        {
+            "parent": 2,
+            "text": "Various changes in mental status may manifest, ranging from complete lucidity to disorientation to lethargy to coma. The degree of neurologic impairment is related directly to the effective serum osmolarity,15with coma often occurring once the serum osmolarity is greater than 350 mOsm per kg (350 mmol per kg). Seizures are present in up to 25 percent of patients and may be generalized, focal, myoclonic jerking, or movement induced.23Hemiparesis may occur,13,23but it is reversible with correction of the fluid deficit."
+        },
+        {
+            "parent": 3,
+            "text": "Initial laboratory findings in patients with hyperosmolar hyperglycemic state include marked elevations in blood glucose (greater than 600 mg per dL [33.3 mmol per L]) and serum osmolarity (greater than 320 mOsm per kg of water [normal = 290 ± 5]), with a pH level greater than 7.30 and mild or absent ketonemia. One half of patients will demonstrate a mild anion-gap metabolic acidosis (i.e., 10 to 12). If the anion gap is severe (i.e., greater than 12), the differential diagnosis should include lactic acidosis or other entities not related to hyperosmolar hyperglycemic state. Vomiting and use of thiazide diuretics may cause a metabolic alkalosis that could mask the severity of acidosis.13Serum potassium levels may be elevated or normal.13Creatinine, blood urea nitrogen (BUN), and hematocrit levels are almost always elevated.24Hyperosmolar hyperglycemic state produces significant total body losses of many electrolytes(Table 3).10"
+        },
+        {
+            "parent": 3,
+            "text": "The reported sodium level should be corrected when the patient’s glucose level is markedly elevated. The types of fluids administered depend on the corrected serum sodium level,25which is calculated using the following formula13,26:"
+        },
+        {
+            "parent": 3,
+            "text": ""
+        },
+        {
+            "parent": 3,
+            "text": "For example, if the reported serum sodium level was 145 mEq per L (145 mmol per L) and the glucose level was 1,100 mg per dL (61.1 mmol per L):"
+        },
+        {
+            "parent": 3,
+            "text": ""
+        },
+        {
+            "parent": 3,
+            "text": "Although some formulas for calculating osmolarity include the BUN level, because it is in equal distribution in the intracellular and extracellular spaces, BUN does not contribute to the “effective” serum osmolarity, which is calculated using the following formula:"
+        },
+        {
+            "parent": 3,
+            "text": ""
+        },
+        {
+            "parent": 3,
+            "text": "Although potassium is included in some formulas, it is not included in the formula recommended by the American Diabetes Association (ADA)."
+        },
+        {
+            "parent": 3,
+            "text": "For example, if the sodium level was 150 mEq per L (150 mmol per L), and the glucose level was 1,100 mg per dL:"
+        },
+        {
+            "parent": 3,
+            "text": ""
+        },
+        {
+            "parent": 4,
+            "text": "The treatment of hyperosmolar hyperglycemic state involves a five-pronged approach: (1) vigorous intravenous rehydration, (2) electrolyte replacement, (3) administration of intravenous insulin, (4) diagnosis and management of precipitating and coexisting problems, and (5) prevention.24An evidence-based algorithm from the ADA that summarizes the management of adults with hyperosmolar hyperglycemic state is shown inFigure 1.5Patients should be managed in the intensive care environment if they have any cardiovascular instability, are unable to maintain an airway, have obtundation or acute abdominal symptoms, or if they cannot be monitored adequately on the general medical ward.27"
+        },
+        {
+            "parent": 4,
+            "text": "Management of children with hyperosmolar hyperglycemic state generally follows that of adults. While a detailed discussion of the management of hyperosmolar hyperglycemic state in children and adolescents is beyond the scope of this article, an algorithm from the ADA guideline is included in the Trachtenbarg3article on page 1705 of this issue. A chart for the management of patients with hyperosmolar hyperglycemic state is provided in the ADA guideline, and it is available online athttp://care.diabetesjournals.org/content/vol25/issue90001/images/large/dc1110012004.jpeg."
+        },
+        {
+            "parent": 5,
+            "text": "The first and most important step in the treatment of hyperosmolar hyperglycemic state is aggressive fluid replacement, which should begin with an estimate of the fluid deficit (usually 100 to 200 mL per kg, or an average total of 9 L).5,13The use of isotonic fluids may cause fluid overload and hypotonic fluids may correct deficits too rapidly with a potential for diffuse myelinolysis and death.13Therefore, 1 L of normal saline should be given per hour to start. If the patient is in hypervolemic shock, plasma expanders also may be needed. If the patient is in cardiogenic shock, hemodynamic monitoring is required. Details about the addition of potassium to the intravenous fluids are provided in the next section."
+        },
+        {
+            "parent": 5,
+            "text": "Once there is only mild hypotension, the corrected serum sodium level should be calculated. If the corrected serum sodium level is high (greater than 145 mEq per L) or normal (135 mEq per L [135 mmol per L] to 145 mEq per L), then 0.45 percent sodium chloride may be administered at a rate of 4 to 14 mL per kg per hour depending on the state of dehydration. If the corrected serum sodium level is low (less than 135 mEq per L), 0.9 percent sodium chloride is infused at the same rate. When the serum glucose level is less than 300 mg per dL (16.7 mmol per L), the fluid may be changed to 5 percent dextrose solution with 0.45 percent sodium chloride.13,25One half of the calculated deficit should be given in the first 18 to 24 hours and the remainder over the next 24 hours."
+        },
+        {
+            "parent": 5,
+            "text": "In adults, the risk of cerebral edema is low and the consequences of undertreatment include vascular occlusion and increased rate of mortality. Good clinical judgment should be employed, especially when the patient has comorbid conditions such as acute myocardial infarction, a history of congestive heart failure, or renal failure. In such cases, close hemodynamic monitoring is indicated."
+        },
+        {
+            "parent": 5,
+            "text": "Early in the course of treatment, the plasma glucose level will decrease, even before insulin is started, and this may serve as an index for the adequacy of fluid replacement.10If the plasma glucose level fails to decline by 75 to 100 mg per dL (4.2 to 5.6 mmol per L) per hour, this usually implies inadequate fluid volume or renal impairment.10"
+        },
+        {
+            "parent": 5,
+            "text": "Children are at greater risk of developing potentially fatal cerebral edema during treatment. For this reason, the rate at which serum tonicity is returned to normal should be somewhat slower than in adults.28"
+        },
+        {
+            "parent": 6,
+            "text": "Electrolyte replacement is critical. Total body potassium depletion often is unrecognized10because the level of potassium in the blood may be normal or high.13The serum potassium level may plummet when insulin is replaced because this forces potassium into the cell. Once urine output is established, potassium replacement should be initiated. Electrolytes should be followed closely (every one to two hours initially) and the patient’s cardiac rhythm should be monitored continuously."
+        },
+        {
+            "parent": 6,
+            "text": "If the patient’s serum potassium level is less than 3.3 mEq per L (3.3 mmol per L) initially, insulin should be held and potassium given as two thirds potassium chloride and one third potassium phosphate until the potassium level reaches at least 3.3 mEq per L. If the potassium level is greater than 5.0 mEq per L (5.0 mmol per L), potassium should be held until the level is less than 5.0 mEq per L, but the potassium level should be monitored every two hours. If the initial serum potassium level is between 3.3 and 5.0 mEq per L, 20 to 30 mEq of potassium should be given in each liter of intravenous fluid (two thirds as potassium chloride, one third as potassium phosphate) to maintain the serum potassium level between 4.0 mEq per L (4.0 mmol per L) and 5.0 mEq per L.25"
+        },
+        {
+            "parent": 6,
+            "text": "Despite a lack of evidence that treatment with phosphate, calcium, or magnesium alters outcomes,23these electrolytes must be considered. Most studies1,5,10that have examined the need for phosphate replacement involved patients with diabetic ketoacidosis that developed over hours to days. However, because hyperosmolar hyperglycemic state occurs slowly (over days to weeks), the patient is much more likely to be phosphate depleted."
+        },
+        {
+            "parent": 6,
+            "text": "Although phosphate replacement makes physiologic sense, no controlled data have demonstrated improved outcomes.10Phosphate replacement may be considered when the patient’s serum phosphate level is below 1.0 mEq per L (1.0 mmol per L) and muscle weakness is a concern, as in patients with respiratory impairment. Because phosphate replacement can cause severe hypocalcemia in this setting, serum calcium levels should be monitored closely.25"
+        },
+        {
+            "parent": 6,
+            "text": "Hypomagnesemia may manifest as arrhythmias, muscle weakness, convulsions, stupor, and agitation. Hypomagnesemia may be present in up to 90 percent of patients with uncontrolled diabetes.10Unless the patient is in renal failure, administration of magnesium is safe and physiologic."
+        },
+        {
+            "parent": 7,
+            "text": "The critical point regarding insulin management is to remember that adequate fluids must be given first. If insulin is administered before fluids, the water will move intracellularly, causing potential worsening of hypotension, vascular collapse, or death. Insulin should be given as an initial bolus of 0.15 U per kg intravenously, followed by a drip of 0.1 U per kg per hour until the blood glucose level falls to between 250 mg per dL (13.9 mmol per L) and 300 mg per dL. If the glucose level does not decrease by 50 to 70 mg per dL per hour, this rate of administration may be doubled. Once the serum glucose concentration is below 300 mg per dL, dextrose should be added to the intravenous fluid and insulin should be titrated by a low-dose sliding scale until the mental obtundation and hyperosmolarity are resolved. When the patient is able to eat, subcutaneous insulin or the previous treatment regimen may be initiated.1"
+        },
+        {
+            "parent": 8,
+            "text": "Although routine administration of antibiotics for all patients with suspected infection is not recommended, antibiotic therapy is warranted while awaiting culture results in older patients or in those with hypotension. According to a recent study,29elevated C-reactive protein and interleukin-6 levels are early indicators of sepsis in patients with hyperosmolar hyperglycemic state."
+        },
+        {
+            "parent": 8,
+            "text": "It also is important to review any medications that may have precipitated or aggravated the event, and discontinue or reduce the dosage of any suspected agent. Investigation of other causes may be performed as indicated after reviewing the list of precipitating factors listed inTable 2.11–17"
+        },
+        {
+            "parent": 9,
+            "text": "Complications from inadequate treatment include vascular occlusions (e.g., mesenteric artery occlusion, myocardial infarction, low-flow syndrome, and disseminated intravascular coagulopathy)10,27and rhabdomyolysis.11,24,30Overhydration may lead to adult respiratory distress syndrome and induced cerebral edema, which is rare but often fatal in children and young adults. Cerebral edema should be treated with intravenous mannitol (Osmitrol) in a dose of 1 to 2 g per kg over 30 minutes and intravenous dexamethasone (Decadron). Slowing the correction of hyperosmolarity in children may prevent cerebral edema.28"
+        },
+        {
+            "parent": 10,
+            "text": "The patient and another responsible party should be engaged in a significant educational effort that encourages adherence to blood glucose monitoring and compliance with prescribed medications. It is especially important that the patient have access to an adequate water supply. If the patient lives alone, a family member or friend should check in on the patient daily to watch for any changes in mental status and to notify the physician if this occurs. In the nursing home setting, the above recommendations should be followed and the nursing home staff should be educated regarding the signs and symptoms of hyperosmolar hyperglycemic state and the importance of adequate fluid intake and monitoring.10,23,24"
+        }
+    ],
+    "locked": false
+}

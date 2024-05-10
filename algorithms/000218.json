@@ -1,0 +1,188 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0901/p314.html#afp20170901p314-f1",
+    "title": "Aseptic and Bacterial Meningitis: Evaluation, Treatment, and Prevention | AAFP",
+    "author": "HILLARY R. MOUNT, MD, AND SEAN D. BOYLE, DO",
+    "doi": "Am Fam Physician.2017;96(5):314-322",
+    "abstract": "The etiologies of meningitis range in severity from benign and self-limited to life-threatening with potentially severe morbidity. Bacterial meningitis is a medical emergency that requires prompt recognition and treatment. Mortality remains high despite the introduction of vaccinations for common pathogens that have reduced the incidence of meningitis worldwide. Aseptic meningitis is the most common form of meningitis with an annual incidence of 7.6 per 100,000 adults. Most cases of aseptic meningitis are viral and require supportive care. Viral meningitis is generally self-limited with a good prognosis. Examination maneuvers such as Kernig sign or Brudzinski sign may not be useful to differentiate bacterial from aseptic meningitis because of variable sensitivity and specificity. Because clinical findings are also unreliable, the diagnosis relies on the examination of cerebrospinal fluid obtained from lumbar puncture. Delayed initiation of antibiotics can worsen mortality. Treatment should be started promptly in cases where transfer, imaging, or lumbar puncture may slow a definitive diagnosis. Empiric antibiotics should be directed toward the most likely pathogens and should be adjusted by patient age and risk factors. Dexamethasone should be administered to children and adults with suspected bacterial meningitis before or at the time of initiation of antibiotics. Vaccination against the most common pathogens that cause bacterial meningitis is recommended. Chemoprophylaxis of close contacts is helpful in preventing additional infections.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Presentation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "INITIAL MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ANTIMICROBIALS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CORTICOSTEROIDS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "REPEAT TESTING",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PROGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "VACCINATION",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "CHEMOPROPHYLAXIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Patients with meningitis present a particular challenge for physicians. Etiologies range in severity from benign and self-limited to life-threatening with potentially severe morbidity. To further complicate the diagnostic process, physical examination and testing are limited in sensitivity and specificity. Advanc`es in vaccination have reduced the incidence of bacterial meningitis; however, it remains a significant disease with high rates of morbidity and mortality, making its timely diagnosis and treatment an important concern.1"
+        },
+        {
+            "parent": -1,
+            "text": "In 2015, the Advisory Committee on Immunization Practices gave meningococcal serogroup B vaccines a category B recommendation (individual clinical decision making) for healthy patients 16 to 23 years of age (preferred age 16 to 18 years)."
+        },
+        {
+            "parent": 0,
+            "text": "Meningitis is an inflammatory process involving the meninges. The differential diagnosis is broad(Table 1). Aseptic meningitis is the most common form. The annual incidence is unknown because of underreporting, but European studies have shown 70 cases per 100,000 children younger than one year, 5.2 cases per 100,000 children one to 14 years of age, and 7.6 per 100,000 adults.2,3Aseptic is differentiated from bacterial meningitis if there is meningeal inflammation without signs of bacterial growth in cultures. These cases are often viral, and enterovirus is the most common pathogen in immunocompetent individuals.2,4The most common etiology in U.S. adults hospitalized for meningitis is enterovirus (50.9%), followed by unknown etiology (18.7%), bacterial (13.9%), herpes simplex virus (HSV; 8.3%), noninfectious (3.5%), fungal (2.7%), arboviruses (1.1%), and other viruses (0.8%).5Enterovirus and mosquito-borne viruses, such as St. Louis encephalitis and West Nile virus, often present in the summer and early fall.4,6HSV and varicella zoster virus can cause meningitis and encephalitis.2"
+        },
+        {
+            "parent": 0,
+            "text": "Causative bacteria in community-acquired bacterial meningitis vary depending on age, vaccination status, and recent trauma or instrumentation7,8(Table 29). Vaccination has nearly eliminated the risk ofHaemophilus influenzaeand substantially reduced the rates ofNeisseria meningitidisandStreptococcus pneumoniaeas causes of meningitis in the developed world.10Between 1998 and 2007, the overall annual incidence of bacterial meningitis in the United States decreased from 1 to 0.69 per 100,000 persons.1This decrease has been most dramatic in children two months to 10 years of age, shifting the burden of disease to an older population.1Annual incidence is still highest in neonates at 40 per 100,000, and has remained largely unchanged.1Older patients are at highest risk ofS. pneumoniaemeningitis, whereas children and young adults have a higher risk ofN. meningitidismeningitis.1,11Patients older than 60 years and patients who are immunocompromised are at higher risk ofListeria monocytogenesmeningitis, although rates remain low.11"
+        },
+        {
+            "parent": 1,
+            "text": "Presentation can be similar for aseptic and bacterial meningitis, but patients with bacterial meningitis are generally more ill-appearing. Fever, headache, neck stiffness, and altered mental status are classic symptoms of meningitis, and a combination of two of these occurs in 95% of adults presenting with bacterial meningitis.12However, less than one-half of patients present with all of these symptoms.12,13"
+        },
+        {
+            "parent": 1,
+            "text": "Presentation varies with age. Older patients are less likely to have headache and neck stiffness, and more likely to have altered mental status and focal neurologic deficits11,13(Table 311–13). Presentation also varies in young children, with vague symptoms such as irritability, lethargy, or poor feeding.14Arboviruses such as West Nile virus typically cause encephalitis but can present without altered mental status or focal neurologic findings.6Similarly, HSV can cause a spectrum of disease from meningitis to life-threatening encephalitis. HSV meningitis can present with or without cutaneous lesions and should be considered as an etiology in persons presenting with altered mental status, focal neurologic deficits, or seizure.15"
+        },
+        {
+            "parent": 1,
+            "text": "The time from symptom onset to presentation for medical care tends to be shorter in bacterial meningitis, with 47% of patients presenting after less than 24 hours of symptoms.16Patients with viral meningitis have a median presentation of two days after symptom onset.17"
+        },
+        {
+            "parent": 1,
+            "text": "Examination findings that may indicate meningeal irritation include a positive Kernig sign, positive Brudzinski sign, neck stiffness, and jolt accentuation of headache (i.e., worsening of headache by horizontal rotation of the head two to three times per second). Physical examination findings have shown wide variability in their sensitivity and specificity, and are not reliable to rule out bacterial meningitis.18–20Examples of Kernig and Brudzinski tests are available athttps://www.youtube.com/watch?v=Evx48zcKFDAandhttps://www.youtube.com/watch?v=rN-R7-hh5x4."
+        },
+        {
+            "parent": 2,
+            "text": "Because of the poor performance of clinical signs to rule out meningitis, all patients who present with symptoms concerning for meningitis should undergo prompt lumbar puncture (LP) and evaluation of cerebrospinal fluid (CSF) for definitive diagnosis. Because of the risk of increased intracranial pressure with brain inflammation, the Infectious Diseases Society of America recommends performing computed tomography of the head before LP in specific high-risk patients to reduce the possibility of cerebral herniation during the procedure(Table 4).7,21,22However, recent retrospective data have shown that removing the restriction on LP in patients with altered mental status reduced mortality from 11.7% to 6.9%, suggesting it may be safe to proceed with LP in these patients.22"
+        },
+        {
+            "parent": 2,
+            "text": "The CSF findings typical of aseptic meningitis are a relatively low and predominantly lymphocytic pleocytosis, normal glucose level, and a normal to slightly elevated protein level(Table 59). Bacterial meningitis classically has a very high and predominantly neutrophilic pleocytosis, low glucose level, and high protein level. This is not the case for all patients and can vary in older patients and those with partially treated bacterial meningitis, immunosuppression, or meningitis caused byL. monocytogenes.11It is important to use age-adjusted values for white blood cell counts when interpreting CSF results in neonates and young infants.23In up to 57% of children with aseptic meningitis, neutrophils predominate the CSF; therefore, cell type alone cannot be used to differentiate between aseptic and bacterial meningitis in children between 30 days and 18 years of age.24"
+        },
+        {
+            "parent": 2,
+            "text": "CSF results can be variable, and decisions about treatment with antibiotics while awaiting culture results can be challenging. There are a number of clinical decision tools that have been developed for use in children to help differentiate between aseptic and bacterial meningitis in the setting of pleocytosis. The Bacterial Meningitis Score has a sensitivity of 99% to 100% and a specificity of 52% to 62%, and appears to be the most specific tool available currently, although it is not widely used.25–27The score can be calculated online athttp://reference.medscape.com/calculator/bacterial-meningitis-score-child."
+        },
+        {
+            "parent": 2,
+            "text": "Serum procalcitonin, serum C-reactive protein, and CSF lactate levels can be useful in distinguishing between aseptic and bacterial meningitis.28–33C-reactive protein has a high negative predictive value but a much lower positive predictive value.28Procalcitonin is sensitive (96%) and specific (89% to 98%) for bacterial causes of meningitis.29,30CSF lactate also has a high sensitivity (93% to 97%) and specificity (92% to 96%).31–33CSF latex agglutination testing for common bacterial pathogens is rapid and, if positive, can be useful in patients with negative Gram stain if LP was performed after antibiotics were administered. This test cannot be used to rule out bacterial meningitis.7"
+        },
+        {
+            "parent": 2,
+            "text": "Because CSF enterovirus polymerase chain reaction testing is more rapid than bacterial cultures, a positive test result can prompt discontinuation of antibiotic treatment, thus reducing antibiotic exposure and cost in patients admitted for suspected meningitis.34Similarly, polymerase chain reaction testing can be used to detect West Nile virus when seasonally appropriate in areas of higher incidence. HSV and varicella zoster viral polymerase chain reaction testing should be used in the setting of meningoencephalitis."
+        },
+        {
+            "parent": 4,
+            "text": "Prompt recognition of a potential case of meningitis is essential so that empiric treatment may begin as soon as possible. The initial management strategy is outlined inFigure 1.7,9Stabilization of the patient's cardiopulmonary status takes priority. Intravenous fluids may be beneficial within the first 48 hours, but further study is needed to determine the appropriate intravenous fluid management.35A meta-analysis of studies with variable quality in children showed that fluids may decrease spasticity, seizures, and chronic severe neurologic sequelae.35The next urgent requirement is initiating empiric antibiotics as soon as possible after blood cultures are drawn and the LP is performed. Antibiotics should not be delayed if there is any lag time in performing the LP (e.g., transfer to clinical site that can perform the test, need for head computed tomography before LP).7,8Droplet isolation precautions should be instituted for the first 24 hours of treatment.23"
+        },
+        {
+            "parent": 5,
+            "text": "Before CSF results are available, patients with suspected bacterial meningitis should be treated with antibiotics as quickly as possible.8,22,36,37Acyclovir should be added if there is concern for HSV meningitis or encephalitis. Door-to-antibiotic time lapse of more than six hours has an adjusted odds ratio for mortality of 8.4.37If CSF results are more consistent with aseptic meningitis, antibiotics can be discontinued, depending on the severity of the presentation and overall clinical picture. Selection of the appropriate empiric antibiotic regimen is primarily based on age(Table 29). Specific pathogens are more prevalent in certain age groups, but empiric coverage should cover most possible culprits. Viral meningitis (non-HSV) management is focused on supportive care."
+        },
+        {
+            "parent": 5,
+            "text": "Treatment of tuberculous, cryptococcal, or other fungal meningitides is beyond the scope of this article, but should be considered if risk factors are present (e.g., travel to endemic areas, immunocompromised state, human immunodeficiency virus infection). These patients, as well as those coinfected with human immunodeficiency virus, should be managed in consultation with an infectious disease subspecialist when available."
+        },
+        {
+            "parent": 5,
+            "text": "Length of treatment varies based on the pathogen identified(Table 67). Intravenous antibiotics should be used to complete the full treatment course, but outpatient management can be considered in persons who are clinically improving after at least six days of therapy with reliable outpatient arrangements (i.e., intravenous access, home health care, reliable follow-up, and a safe home environment).7"
+        },
+        {
+            "parent": 6,
+            "text": "Corticosteroids are traditionally used as adjunctive treatment in meningitis to reduce the inflammatory response. The evidence for corticosteroids is heterogeneous and limited to specific bacterial pathogens,38–44but the organism is not usually known at the time of the initial presentation. A 2015 Cochrane review found a nonsignificant reduction in overall mortality (relative risk [RR] = 0.90), as well as a significant reduction in severe hearing loss (RR = 0.51), any hearing loss (RR = 0.58), and short-term neurologic sequelae (RR = 0.64) with the use of dexamethasone in high-income countries.41The number needed to treat to decrease mortality in theS. pneumoniaesubgroup was 18 and the number needed to treat to prevent hearing loss was 21.38,41There was a small increase in recurrent fever in patients given corticosteroids (number needed to harm = 16) with no worse outcome.38,41"
+        },
+        {
+            "parent": 6,
+            "text": "The best evidence supports the use of dexamethasone 10 to 20 minutes before or concomitantly with antibiotic administration in the following groups: infants and children withH. influenzaetype B, adults withS. pneumoniae, or patients withMycobacterium tuberculosiswithout concomitant human immunodeficiency virus infection.7,8,42,45Some evidence also shows a benefit with corticosteroids in children older than six weeks with pneumococcal meningitis.45"
+        },
+        {
+            "parent": 6,
+            "text": "Because the etiology is not known at presentation, dexamethasone should be given before or at the time of initial antibiotics while awaiting the final culture results in all patients older than six weeks with suspected bacterial meningitis. Dexamethasone can be discontinued after four days or earlier if the pathogen is notH. influenzaeorS. pneumoniae, or if CSF findings are more consistent with aseptic meningitis.46"
+        },
+        {
+            "parent": 7,
+            "text": "Repeat LP is generally not needed but should be considered to evaluate CSF parameters in persons who are not clinically improving after 48 hours of appropriate treatment. Repeating the LP can identify resistant pathogens, confirm the diagnosis if initial results were negative, and determine the length of treatment for neonates with a gram-negative bacterial pathogen until CSF sterilization is documented.7,47"
+        },
+        {
+            "parent": 8,
+            "text": "Prognosis varies by age and etiology of meningitis. In a large analysis of patients from 1998 to 2007, the overall mortality rate in those with bacterial meningitis was 14.8%.1Worse outcomes occurred in those with low Glasgow Coma Scale scores, systemic compromise (e.g., low CSF white blood cell count, tachycardia, positive blood cultures, abnormal neurologic examination, fever), alcoholism, and pneumococcal infection.11–13,16Mortality is generally higher in pneumococcal meningitis (30%) than other types, especially penicillin-resistant strains.12,48,49Viral meningitis outside the neonatal period has lower mortality and complication rates, but large studies or reviews are lacking. One large cohort study found a 4.5% mortality rate and a 30.9% rate of complications, such as developmental delay, seizure disorder, or hearing loss, for childhood encephalitis and meningitis combined.50Tuberculous meningitis also has a higher mortality rate (19.3%) with a higher risk of neurologic disease in survivors (53.9%).51A recent prospective cohort study also found that males had a higher risk of unfavorable outcomes (odds ratio = 1.34) and death (odds ratio = 1.47).52"
+        },
+        {
+            "parent": 8,
+            "text": "Complications from bacterial meningitis also vary by age(Table 71,11,12,46,53–56). Neurologic sequelae such as hearing loss occur in approximately 6% to 31% of children and can resolve within 48 hours, but may be permanent in 2% to 7% of children.53–56An audiology assessment should be considered in children before discharge.8Follow-up should assess for hearing loss (including referral for cochlear implants, if present), psychosocial problems, neurologic disease, or developmental delay.57Testing for complement deficiency should be considered if there is more than one episode of meningitis, one episode plus another serious infection, meningococcal disease other than serogroup B, or meningitis with a strong family history of the disease.57"
+        },
+        {
+            "parent": 10,
+            "text": "Vaccines that have decreased the incidence of meningitis includeH. influenzaetype B,S. pneumoniae, andN. meningitidis.58–60Administration of one of the meningococcal vaccines that covers serogroups A, C, W, and Y (MPSV4 [Menomune], Hib-MenCY [Menhibrix], MenACWY-D [Menactra], or MenACWY-CRM [Menveo]) is recommended for patients 11 to 12 years of age, with a booster at 16 years of age. However, the initial dose should be given earlier in the setting of a high-risk condition, such as functional asplenia or complement deficiencies, travel to endemic areas, or a community outbreak.60There are also two available vaccines for meningococcal type B strains (MenB-4C [Bexsero] and MenB-FHbp [Trumenba]) to be used in patients with complement disease or functional asplenia, or in healthy individuals at risk during a serogroup B outbreak as determined by the Centers for Disease Control and Prevention.60"
+        },
+        {
+            "parent": 10,
+            "text": "The Advisory Committee on Immunization Practices recently added a category B recommendation (individual clinical decision making) for consideration of vaccination with serogroup B vaccines in healthy patients 16 to 23 years of age (preferred age of 16 to 18 years).60,61The serogroup B vaccines are not interchangeable, so care should be taken to ensure completion of the series with the same brand that was used for the initial dose."
+        },
+        {
+            "parent": 11,
+            "text": "Treatment with chemoprophylactic antibiotics should be given to close contacts7,62,63(Table 89,14,64–68). Appropriate antibiotics should be given to identified contacts within 24 hours of the patient's diagnosis and should not be given if contact occurred more than 14 days before the patient's onset of symptoms.63Options for chemoprophylaxis are rifampin, ceftriaxone, and ciprofloxacin, although rifampin has been associated with resistant isolates.62,63"
+        },
+        {
+            "parent": 11,
+            "text": "This article updates a previous article on this topic byBamberger.9"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:The terms meningitis, bacterial meningitis, andNeisseria meningitidiswere searched in PubMed, Essential Evidence Plus, and the Cochrane database. In addition, the Infectious Diseases Society of America, the National Institute for Health and Care Excellence, and the American Academy of Pediatrics guidelines were reviewed. Search dates: October 1, 2016, and March 13, 2017."
+        },
+        {
+            "parent": 11,
+            "text": "The authors thank Thomas Lamarre, MD, for his input and expertise."
+        }
+    ],
+    "locked": false
+}

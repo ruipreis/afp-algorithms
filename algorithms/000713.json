@@ -1,0 +1,220 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0501/p1705.html#afp20050501p1705-f1",
+    "title": "Diabetic Ketoacidosis | AAFP",
+    "author": "DAVID E. TRACHTENBARG, M.D.",
+    "doi": "Am Fam Physician.2005;71(9):1705-1714",
+    "abstract": "A diagnosis of diabetic ketoacidosis requires the patient’s plasma glucose concentration to be above 250 mg per dL (although it usually is much higher), the pH level to be less than 7.30, and the bicarbonate level to be 18 mEq per L or less. Beta-hydroxybutyrate is a better measurement of the degree of ketosis than serum ketones. Intravenous insulin and fluid replacement are the mainstays of therapy, with careful monitoring of potassium levels. Phosphorous and magnesium also may need to be replaced. Bicarbonate therapy rarely is needed. Infection, insulin omission, and other problems that may have precipitated ketoacidosis should be treated. Myocardial infarction is a precipitating cause of diabetic ketoacidosis that is especially important to look for in older patients with diabetes. Cerebral edema is a major complication that occurs primarily in children. Education to prevent recurrence should be offered to all patients, including how to manage sick days and when to call a physician.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Initial Evaluation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "LABORATORY EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "INPATIENT VS. OUTPATIENT TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "FLUIDS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "INSULIN",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "POTASSIUM",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "BICARBONATE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "PHOSPHATE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MAGNESIUM",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "SODIUM",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Complications",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Special Situations—Young and Old Patients",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Transition to Standard Regimen and Prevention of Recurrence",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Many patients with diabetes die from diabetic ketoacidosis (DKA) every year. DKA is caused by reduced insulin levels, decreased glucose use, and increased gluconeogenesis from elevated counter regulatory hormones, including catecholamines, glucagon, and cortisol. DKA primarily affects patients with type 1 diabetes, but also may occur in patients with type 2 diabetes, and is most often caused by omission of treatment, infection, or alcohol abuse.1Use of a standard protocol provides consistent results in treating DKA.2An evidence-based guideline for the management of DKA from the American Diabetes Association (ADA) is the basis for much of this article.3"
+        },
+        {
+            "parent": 0,
+            "text": "Initial evaluation of patients with DKA includes diagnosis and treatment of precipitating factors(Table 14–18). The most common precipitating factor is infection, followed by noncompliance with insulin therapy.3While insulin pump therapy has been implicated as a risk factor for DKA in the past, most recent studies show that with proper education and practice using the pump, the frequency of DKA is the same for patients on pump and injection therapy.19"
+        },
+        {
+            "parent": 1,
+            "text": "Three key features of diabetic acidosis are hyperglycemia, ketosis, and acidosis. The conditions that cause these metabolic abnormalities overlap. The primary differential diagnosis for hyperglycemia is hyperosmolar hyperglycemic state(Table 23,20), which is discussed in the Stoner article21on page1723of this issue. Common problems that produce ketosis include alcoholism and starvation. Metabolic states in which acidosis is predominant include lactic acidosis and ingestion of drugs such as salicylates and methanol."
+        },
+        {
+            "parent": 1,
+            "text": "Abdominal pain may be a symptom of ketoacidosis or part of the inciting cause of DKA, such as appendicitis or cholecystitis. If surgery is necessary, the timing needs to be individualized for each patient with input from a surgical consultant."
+        },
+        {
+            "parent": 2,
+            "text": "DKA can develop in less than 24 hours.3Metabolic changes occur one and one half to two hours earlier in patients who are managed only with a short-acting insulin such as lispro (Humalog).22Patients with DKA usually present with polyuria, polydipsia, polyphagia, weakness, and Kussmaul’s respirations. Nausea and vomiting are present in 50 to 80 percent of patients, and abdominal pain is present in about 30 percent.23Coffee-ground emesis, usually from hemorrhagic gastritis, occurs in about 25 percent of vomiting patients.3Often, the patient’s breath will have a fruity odor."
+        },
+        {
+            "parent": 2,
+            "text": "Body temperature usually is normal or low, even with an infection. If the patient’s temperature is elevated, infection invariably is present.23Signs of dehydration, such as dry mucous membranes, tachycardia, and hypotension, often are found. Most patients are about 10 percent dehydrated. Consciousness ranges from alert to confused to a comatose state in less than 20 percent of patients.3"
+        },
+        {
+            "parent": 3,
+            "text": "A standard laboratory work-up is listed inTable 3.3The severity of DKA is determined primarily by the pH level, bicarbonate level, and mental status, and not by the blood glucose measurement(Table 23,20). Although the bicarbonate level typically is low, it may be normal or high in patients with vomiting, diuretic use, or alkali ingestion. If the serum osmolality is less than 320 mOsm per kg (320 mmol per kg), etiologies other than DKA should be considered.3Osmolality can be calculated using the formula for effective osmolality (mOsm per kg):"
+        },
+        {
+            "parent": 3,
+            "text": ""
+        },
+        {
+            "parent": 3,
+            "text": "In this equation, Na+is the serum sodium level. Although potassium is included in some formulas, it is not included in the formula recommended by the ADA.3Blood urea nitrogen is not included in this measurement because urea has less osmotic activity.23"
+        },
+        {
+            "parent": 3,
+            "text": "Beta-hydroxybutyrate accounts for about 75 percent of ketones24in ketoacidosis, and when available it is preferred for monitoring DKA25over the nitroprusside method, which only measures acetoacetate.3A value greater than 3 mg per dL is considered abnormal. The beta-hydroxybutyrate level may not normalize during the first one to two days of treatment. Although it is not monitored routinely during treatment, the beta-hydroxybutyrate level usually is less than 1.5 mg per dL after the first 12 to 24 hours of treatment.4"
+        },
+        {
+            "parent": 3,
+            "text": "Liver enzymes also are elevated frequently in patients with DKA because of unknown causes.26If pancreatitis is suspected, it must be diagnosed clinically. In one study10of ketoacidosis, amylase was elevated in 21 percent and lipase in 29 percent of patients. If pancreatitis is suspected, contrast-enhanced computed tomography (CT) may be useful for diagnosis in selected patients. If the patient has significant hypertriglyceridemia, it can falsely lower glucose and sodium measurements by dilution. Leukocytosis may be present in DKA without infection."
+        },
+        {
+            "parent": 4,
+            "text": "A priority of treatment should be to protect and maintain the airway, particularly in the obtunded patient, and to treat shock if present. Patients should be monitored closely and frequently. Blood glucose should be evaluated every one to two hours until the patient is stable, and the blood urea nitrogen, serum creatinine, sodium, potassium, and bicarbonate levels should be monitored every two to six hours depending on the severity of DKA.3Cardiac monitoring may be warranted for patients with significant electrolyte disturbances. Treatment also should be directed at the underlying cause of the DKA, including antibiotics for suspected or identified infection. Although it is important to monitor urinary output, urinary catheterization is not advised routinely."
+        },
+        {
+            "parent": 5,
+            "text": "Selected patients with mild DKA who are alert and taking fluids orally may be treated under observation and sent home without admission.3The ADA admission guidelines are a plasma glucose concentration greater than 250 mg per dL (13.9 mmol per L) with an arterial pH level below 7.30, a serum bicarbonate level of less than 15 mEq per L, and a moderate or greater level of ketones in the serum or urine.27Patients with severe DKA should be admitted to the intensive care unit."
+        },
+        {
+            "parent": 6,
+            "text": "Fluid deficits are typically 100 mL per kg of body weight.3Fluid replacement alone will lower blood glucose. Tracer studies have found that during the first four hours of therapy for DKA, up to 80 percent of the decline in glucose concentration may be caused by rehydration.28"
+        },
+        {
+            "parent": 6,
+            "text": "Fluid guidelines are summarized on the flowchart inFigure 1.3When giving fluids, the average rate of change in effective serum osmolality ideally should not be more than 3 mOsm per hour. Patients who are able to drink can take some or all of their fluid replacement orally. Fluid intake should be modified based on urinary output. Urinary output will decrease as the osmotic diuretic effect of hyperglycemia is reduced."
+        },
+        {
+            "parent": 6,
+            "text": "When the blood glucose level has dropped below 250 mg per dL, the patient may be given fluid with 5 percent dextrose, such as 0.45 normal saline. If dextrose is not given, further ketosis may occur."
+        },
+        {
+            "parent": 7,
+            "text": "An intravenous insulin drip is the current standard of care for diabetic ketoacidosis, primarily because of the more rapid onset of action. Studies29comparing intravenous insulin with subcutaneous or intramuscular insulin have found a quicker decrease in glucose and ketone levels, but no improvement in morbidity and mortality. Insulin may be mixed in a standard concentration of 1 U per 10 mL of normal saline. Common adult rates are 5 to 7 U per hour. A standard regimen is given inFigure 1.3When the blood glucose level is less than 250 mg per dL, the intravenous insulin rate usually is decreased, or the patient is switched to subcutaneous insulin to maintain plasma glucose in the range of 150 to 200 mg per dL (8.3 to 11.1 mmol per L) until metabolic control is achieved."
+        },
+        {
+            "parent": 7,
+            "text": "Regular insulin should be used intravenously. Lispro and aspart (NovoLog) insulin are more expensive and do not work faster than regular insulin when given intravenously. A newly published regimen is treatment of DKA with subcutaneous aspart or lispro insulin.29,30In one study,30patients who were medically stable after initial fluid resuscitation were treated with a loading dose of 0.3 U per kg of aspart insulin, followed by 0.1 U per kg every hour. There were no significant differences in outcomes between the aspart and intravenous insulin regimens. A similar study29comparing subcutaneous lispro insulin in a medical ward with an intravenous insulin drip in the intensive care unit showed similar outcomes, except for a 40 percent reduction in cost for patients treated in the medical ward. Long-acting insulin normally is stopped during treatment of DKA. If the patient is on an insulin pump, it should be stopped, and the patient should be switched to an intravenous infusion.31"
+        },
+        {
+            "parent": 7,
+            "text": "If an intravenous infusion pump is not available, insulin can be given intramuscularly. Insulin is absorbed more rapidly intramuscularly than if given subcutaneously.32A regimen for intramuscular insulin is given inFigure 1.3This regimen advises that an initial dose of insulin be given intravenously and intramuscularly. When intravenous access is unavailable, studies have found that giving the entire initial dose intramuscularly also is effective.33If intramuscular insulin is used, it is important to use a needle that is long enough to ensure that the insulin is not given subcutaneously."
+        },
+        {
+            "parent": 8,
+            "text": "Whole body potassium deficits typically are 3 to 5 mEq per L (3 to 5 mmol per L). Acidosis increases potassium levels and glucose administered with insulin lowers them. Before treatment of DKA, the level of potassium usually is normal or elevated. Potassium should be started as soon as adequate urine output is confirmed and the potassium level is less than 5 mEq per L.3Usually 20 to 30 mEq (20 to 30 mmol) of potassium is given for each liter of fluid replacement. If the potassium level is less than 3.3 mEq per L (3.3 mmol per L), potassium replacement should be given immediately and insulin should be started only after the potassium level is above 3.3 mEq per L.3"
+        },
+        {
+            "parent": 9,
+            "text": "Studies of patients with a pH level of 6.9 or higher have found no evidence that bicarbonate is beneficial,34and some studies have suggested bicarbonate therapy may be harmful for these patients.35–37The flowchart inFigure 13advises giving no bicarbonate if the pH level is greater than 6.9. Because there are no studies on patients with a pH level below 6.9, giving bicarbonate as an isotonic solution still is recommended. Bicarbonate therapy lowers potassium levels; therefore, potassium needs to be monitored carefully."
+        },
+        {
+            "parent": 10,
+            "text": "Although the phosphate level frequently is low in patients with DKA, good-quality studies have shown that routine phosphate replacement does not improve outcomes in DKA, and excessive replacement can lead to hypocalcemia.3,38–40If the patient’s serum phosphate level is below normal, consider giving one third to one half of the potassium may be given in the form of potassium phosphate, provided the level of serum calcium is monitored closely.3,41"
+        },
+        {
+            "parent": 11,
+            "text": "A serum deficit of 1 to 2 mEq per L (0.50 to 1 mmol per L) of magnesium usually exists. In addition to alterations in magnesium metabolism from DKA, many patients with diabetes have taken medications such as diuretics that also may lower magnesium levels. Symptoms of magnesium deficiency are difficult to recognize and overlap with symptoms caused by deficiencies of calcium, potassium, and sodium. Paresthesias, tremor, carpopedal spasm, agitation, seizures, and cardiac dysrhythmias all are reported symptoms. Checking magnesium levels and correcting low levels should be considered in patients with DKA. Patients usually are symptomatic at serum levels of 1.2 mg per dL (0.50 mmol per L) or lower.42If the level is below normal (i.e., less than 1.8 mg per dL [0.74 mmol per L]) and symptoms are present, administration of magnesium should be considered.42"
+        },
+        {
+            "parent": 12,
+            "text": "Whole body sodium deficits typically are 7 to 10 mEq per L (7 to 10 mmol per L). Serum sodium is falsely lowered by 1.6 mEq for every 100 mg per dL increase in blood glucose. Hyponatremia needs to be corrected only when the sodium level is still low after adjusting for this effect. For example, in a patient with a serum glucose concentration of 600 mg per dL (33.3 mmol per L) and a measured serum sodium level of 130, the true serum sodium level is 130 + (1.6 × 5) = 138. A high serum sodium level almost always indicates hypernatremic dehydration."
+        },
+        {
+            "parent": 13,
+            "text": "Common complications of DKA include hypoglycemia, hypokalemia, and recurrent hyperglycemia. These may be minimized by careful monitoring. Hyperchloremia is a common but transient finding that usually requires no special treatment."
+        },
+        {
+            "parent": 13,
+            "text": "Cerebral edema is a rare but important complication of DKA. Although it can affect adults, it is more common in young patients, occurring in 0.7 to 1.0 percent of children with DKA.3Early signs of cerebral edema include headache, confusion, and lethargy. Papilledema, hypertension, hyperpyrexia, and diabetes insipidus also may occur. Patients typically improve mentally with initial treatment of DKA, but then suddenly worsen. Dilated ventricles may be found on CT or magnetic resonance imaging. Treatment of suspected cerebral edema should not be delayed for these tests to be completed. In more severe cases, seizures, pupillary changes, and respiratory arrest with brain-stem herniation may occur. Once severe symptoms occur, the mortality rate is greater than 70 percent, and only about 10 percent of patients recover without sequelae.3"
+        },
+        {
+            "parent": 13,
+            "text": "Avoiding overhydration and limiting the rate at which the blood glucose level drops may reduce the chance of cerebral edema.3However, some patients may present with cerebral edema before treatment is started. About 10 percent of the patients initially diagnosed with cerebral edema have other intracranial pathology such as subarachnoid hemorrhage.43Mannitol (Osmitrol) therapy and hyperventilation have been recommended based on limited evidence.44,45"
+        },
+        {
+            "parent": 14,
+            "text": "The main differences in the management of children and adolescents compared with adults are the greater care in administering electrolytes, fluids, and insulin based on the weight of the patient and increased concern about high fluid rates inducing cerebral edema. A flowchart for the management of DKA in children and adolescents from the ADA guideline is shown inFigure 2.3A growing problem is the development of type 2 diabetes in obese children. Although DKA is less common in these patients than among those with type 1 diabetes, it does occur. C-peptide levels may be helpful for determining the type of diabetes and guiding subsequent treatment. Risk factors for adolescent type 2 diabetes are hypertension and acanthosis nigricans.6"
+        },
+        {
+            "parent": 14,
+            "text": "Older patients are less likely to be on insulin before developing DKA, less likely to have had a previous episode of DKA, typically require more insulin to treat the DKA, have a longer length of hospital stay, and have a higher mortality rate (22 percent for those 65 years and older versus 2 percent for those younger than 65 years).46Causes of death include infection, thromboembolism, and myocardial infarction.47Although concomitant diseases and high rates of morbidity need to be considered when caring for older patients with DKA, no specific treatment guidelines are available."
+        },
+        {
+            "parent": 15,
+            "text": "A blood glucose concentration of less than 200 mg per dL, a bicarbonate level of 18 mEq per L or greater, and a venous pH level of greater than 7.3 indicate that the DKA has resolved.3Typical duration of therapy is about 48 hours.3If the patient can eat when DKA has resolved, a standard subcutaneous insulin regimen by injection or insulin pump should be started."
+        },
+        {
+            "parent": 15,
+            "text": "Intravenous insulin should continue for one to two hours after initiation of subcutaneous insulin. For patients who are unable to eat, intravenous insulin may be continued to maintain the blood glucose in a target range (i.e., 80 to 140 mg per dL [4.4 to 7.8 mmol per L])."
+        },
+        {
+            "parent": 15,
+            "text": "Prevention of another episode should be part of the treatment of DKA. Most patients with DKA will need lifetime insulin therapy after discharge from the hospital. Education about diabetes is a cornerstone of prevention that also has been found to reduce length of stay.48Strategies for prevention are listed inTable 4.49–51"
+        }
+    ],
+    "locked": false
+}

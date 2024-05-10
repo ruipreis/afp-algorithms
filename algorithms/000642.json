@@ -1,0 +1,144 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0901/p767.html#afp20060901p767-f1",
+    "title": "Cirrhosis and Chronic Liver Failure: Part II. Complications and Treatment | AAFP",
+    "author": "JOEL J. HEIDELBAUGH, M.D., AND MARYANN SHERBONDY, M.D.",
+    "doi": "Am Fam Physician.2006;74(5):767-776",
+    "abstract": "Major complications of cirrhosis include ascites, spontaneous bacterial peritonitis, hepatic encephalopathy, portal hypertension, variceal bleeding, and hepatorenal syndrome. Diagnostic studies on ascitic fluid should include a differential leukocyte count, total protein level, a serum-ascites albumin gradient, and fluid cultures. Therapy consists of sodium restriction, diuretics, and complete abstention from alcohol. Patients with ascitic fluid polymorphonuclear leukocyte counts of 250 cells per mm3or greater should receive empiric prophylaxis against spontaneous bacterial peritonitis with cefotaxime and albumin. Patients who survive an episode of spontaneous bacterial peritonitis should receive long-term prophylaxis with norfloxacin or trimethoprim/sulfamethoxazole. Patients with gastrointestinal hemorrhage and cirrhosis should receive norfloxacin or trimethoprim/sulfamethoxazole twice daily for seven days. Treatment of hepatic encephalopathy is directed toward improving mental status levels with lactulose; protein restriction is no longer recommended. Patients with cirrhosis and evidence of gastrointestinal bleeding should undergo upper endoscopy to evaluate for varices. Endoscopic banding is the standard treatment, but sclerotherapy with vasoconstrictors (e.g., octreotide) also may be used. Prophylaxis with propranolol is recommended in patients with cirrhosis once varices have been identified. Transjugular intrahepatic portosystemic shunt has been effective in reducing portal hypertension and improving symptoms of hepatorenal syndrome, and can reduce gastrointestinal bleeding in patients with refractory variceal hemorrhage. When medical therapy for treatment of cirrhosis has failed, liver transplantation should be considered. Survival rates in transplant recipients have improved as a result of advances in immunosuppression and proper risk stratification using the Model for End-Stage Liver Disease and Child-Turcotte-Pugh scoring systems.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Ascites",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Spontaneous Bacterial Peritonitis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Hepatic Encephalopathy",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Portal Hypertension and Variceal Bleeding",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Hepatorenal Syndrome",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Liver Transplantation",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "INDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CONTRAINDICATIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Part I of this two-part series outlines the diagnosis and evaluation of cirrhosis and chronic liver failure.1This article, part II, discusses complications and treatment. Major complications of cirrhosis include ascites, spontaneous bacterial peritonitis, hepatic encephalopathy, portal hypertension, variceal bleeding, and hepatorenal syndrome."
+        },
+        {
+            "parent": 0,
+            "text": "Ascites is defined as the pathologic accumulation of fluid in the peritoneal cavity. Approximately 85 percent of patients with ascites have cirrhosis, and the remaining 15 percent have a nonhepatic cause of fluid retention.2,3The American Association for the Study of Liver Diseases recommends a diagnostic abdominal paracentesis be performed and ascitic fluid obtained from patients with clinically evident ascites.3Paracentesis with ascitic fluid culture in blood culture bottles should be performed before the initiation of antibiotics to determine a true infection."
+        },
+        {
+            "parent": 0,
+            "text": "The initial laboratory investigation of ascitic fluid should include a differential leukocyte count, a total protein level, and a serum-ascites albumin gradient (SAAG). The SAAG is a useful prognosticator of portal pressure; it is calculated by subtracting the ascitic albumin concentration from the serum albumin concentration obtained on the same day.4If the SAAG is 1.1 g per dL (11 g per L) or greater, there is a high likelihood of portal hypertension; if it is less than 1.1 g per dL, other causes of ascites should be explored, including peritoneal carcinomatosis, tuberculous peritonitis, and pancreatic ascites(Figure 12).2,5The ascitic fluid total protein level typically has been used in defining ascitic fluid as transudative (protein content less than 2.5 g per dL [25 g per L]) or exudative (protein content of 2.5 g per dL or greater) and to help identify patients at higher risk of developing spontaneous bacterial peritonitis. However, this method is flawed because many patients with spontaneous bacterial peritonitis, in which ascitic fluid is infected, have a low rather than high ascitic fluid total protein level, and many fluid samples from patients with portal hypertension secondary to heart failure have a high rather than the expected low ascitic fluid total protein level.6"
+        },
+        {
+            "parent": 0,
+            "text": "First-line treatment of patients with cirrhotic ascites consists of sodium restriction (i.e., no more than 2,000 mg per day) and diuretics (e.g., oral spironolactone [Aldactone], furosemide [Lasix]), as well as complete abstention from alcohol(Table 13,7–10).3Fluid restriction is unnecessary unless serum sodium is less than 120 to 125 mEq per L (120 to 125 mmol per L). Patients who are sensitive to diuretics should be treated with sodium restriction and oral diuretics rather than with serial paracenteses, unless the ascites is refractory to these therapies or infection is suspected.3Postparacentesis albumin infusion is unnecessary for a single paracentesis of less than 4 to 5 L, but for large-volume paracenteses, an albumin infusion of 8 to 10 g per liter of fluid removed can be considered.3Referral for liver transplantation should be expedited for patients with refractory ascites. Transjugular intrahepatic portosystemic shunt (TIPS) should be considered in patients with refractory ascites who may require a transplant, whereas a peritoneovenous shunt should be considered in patients with refractory ascites who are not candidates for paracenteses, transplant, or TIPS.3"
+        },
+        {
+            "parent": 1,
+            "text": "Patients with ascitic fluid polymorphonuclear leukocyte (PMNL) counts of 250 cells per mm3or greater should receive empiric antibiotic therapy (e.g., cefotaxime [Claforan] 2 g intravenously every eight hours) and albumin (1.5 g per kg body weight within six hours of detection and 1 g per kg on day 3) to prevent spontaneous bacterial peritonitis(Table 13,7–10).3Oral ofloxacin (Floxin; 400 mg twice daily) is an alternative to intravenous medications in patients without vomiting, shock, severe hepatic encephalopathy, or a creatinine level greater than 3 mg per dL (265 μmol per L).3Patients with ascitic fluid PMNL counts less than 250 cells per mm3and signs and symptoms of infection should receive empiric antibiotic therapy while awaiting culture results.3Patients who survive an episode of spontaneous bacterial peritonitis should receive long-term prophylaxis with norfloxacin (Noroxin) or trimethoprim/sulfamethoxazole (Bactrim, Septra). Patients with gastrointestinal hemorrhage and cirrhosis should receive norfloxacin or trimethoprim/sulfamethoxazole twice daily for seven days (the drug is then discontinued).3"
+        },
+        {
+            "parent": 2,
+            "text": "Hepatic (portosystemic) encephalopathy represents a potentially reversible decrease in neuropsychiatric function caused by acute and chronic liver disease, occurring predominantly in patients with portal hypertension. The onset often is insidious and is characterized by subtle and sometimes intermittent changes in memory, personality, concentration, and reaction times. Hepatic encephalopathy is a diagnosis of exclusion; therefore, all other etiologies of altered mental status must be effectively ruled out."
+        },
+        {
+            "parent": 2,
+            "text": "Treatment goals for hepatic encephalopathy include provision of supportive care, identification and removal of precipitating factors, reduction in the nitrogenous load from the gut, and optimization of long-term therapy(Table 2).7Therapy should be directed toward improving mental status via bowel cleansing with lactulose orally or with enemas(Table 13,7–10). One randomized trial demonstrated that diets with normal protein content can be followed safely during episodic hepatic encephalopathy caused by cirrhosis, and that protein restriction has no beneficial effect during such episodes.11In patients who are refractory to lactulose alone, neomycin can be added.8"
+        },
+        {
+            "parent": 2,
+            "text": "Increases in the ratio of plasma aromatic amino acids to branched-chain amino acids as a consequence of hepatic insufficiency also may contribute to encephalopathy. One meta-analysis suggested that mental recovery was consistently more rapid in patients whose treatment included a branched-chain amino acid infusion; three studies found lower mortality rates in patients who received this treatment, and two others suggested that the treatment increased mortality.12Another physiologic theory of hepatic encephalopathy is that endogenous benzodiazepines may bind to γ-aminobutyric acid receptors and exert neuroinhibitory effects. Use of the benzodiazepine receptor antagonist f lumazenil (Romazicon) may improve mental status transiently, whereas bromocriptine (Parlodel) may improve extrapyramidal symptoms.13No formal recommendation for the routine use of any of these agents has been suggested."
+        },
+        {
+            "parent": 3,
+            "text": "Regardless of the etiology of cirrhosis, the development of portal hypertension is nearly universal and results from an increased resistance to portal flow secondary to scarring, narrowing, and compression of the hepatic sinusoids. When the portal pressure exceeds a certain threshold, it results in the development of varices. Approximately 50 percent of patients with cirrhosis develop varices, most commonly in the distal 2 to 5 cm of the esophagus.14Variceal hemorrhage is defined as bleeding from an esophageal or gastric varix at the time of endoscopy, or the presence of large esophageal varices with blood in the stomach and no other recognizable source of bleeding.9The rate of variceal bleeding is approximately 10 to 30 percent per year.14"
+        },
+        {
+            "parent": 3,
+            "text": "The British Society of Gastroenterology guidelines for the management of variceal hemorrhage recommend that patients with cirrhosis who present with evidence of upper gastrointestinal bleeding undergo an urgent upper endoscopic evaluation(Figure 2).9If no varices are observed, these patients should have repeat endoscopy at three-year intervals. If small varices are diagnosed, patients should have repeat surveillance at one-year intervals. Primary prophylaxis of variceal bleeding is aimed at reducing the portal pressure gradient, azygous blood f low, and variceal pressure. These guidelines also suggest that the most effective pharmacotherapy is propranolol (Inderal) at a dosage of 40 mg twice daily, increasing to 80 mg twice daily if necessary(Table 13,7–10).9If propranolol is contraindicated or not tolerated, isosorbide mononitrate (Ismo) at a dosage of 20 mg twice daily is the treatment of choice.9Studies conducted since these guidelines have titrated the dosage of propranolol based on a reduction of the pulse rate by 25 percent.15,16"
+        },
+        {
+            "parent": 3,
+            "text": "The goals of treatment in acute variceal bleeding include hemodynamic resuscitation, treatment of active bleeding, and prevention of rebleeding. Band ligation is the standard for the control of variceal bleeding.9If banding is difficult because of continued variceal bleeding, endoscopic sclerotherapy with vasoconstrictors (e.g., octreotide [Sandostatin]) or a Sengstaken-Blakemore tube insertion (with adequate airway protection) may be used until TIPS or surgical treatment can be arranged.9"
+        },
+        {
+            "parent": 3,
+            "text": "TIPS has been shown to improve outcomes and is more cost-effective than endoscopic band ligation in reducing variceal bleeding, but it is associated with a higher risk of encephalopathy.9This treatment option should be performed in medical centers with particular expertise. TIPS has been shown to reduce portal hypertension and can be effective in converting patients with diuretic-resistant ascites to diuretic-sensitive ascites, as well as reducing gastrointestinal bleeding in patients with refractory variceal hemorrhage. Evidence regarding whether or not TIPS improves survival is conflicting.3Compared with large-volume paracentesis plus albumin, TIPS improves survival without liver transplantation in patients with refractory or recidivant ascites.17"
+        },
+        {
+            "parent": 3,
+            "text": "After the cessation of active variceal hemorrhage, the subsequent six weeks carry a high risk of recurrent hemorrhage. The greatest risk of rebleeding is within the first 48 to 72 hours, with more than 50 percent of episodes occurring within the first 10 days.18Risk factors for early rebleeding include age older than 60 years, renal failure, large varices, and severe initial bleeding (i.e., hemoglobin less than 8 g per dL [80 g per L] at admission).18A retrospective study showed that in-hospital mortality of patients with cirrhosis and variceal bleeding decreased from 43 percent in 1980 to 15 percent in 2000, in concurrence with an early and combined use of pharmacologic and endoscopic therapies and short-term antibiotic prophylaxis.19"
+        },
+        {
+            "parent": 4,
+            "text": "Hepatorenal syndrome is defined as functional renal failure in cirrhotic patients in the absence of intrinsic renal disease.20It is characterized by sodium and water retention in patients with renal vasoconstriction, resulting in decreased renal blood flow, glomerular filtration rate, and urinary output, which contribute to azotemia(Table 37).20One prospective study of 229 patients with cirrhosis and ascites who did not have azotemia found an incidence of hepatorenal syndrome of 18 percent after one year and 39 percent after five years.21The pathogenesis of hepatorenal syndrome is not completely understood, but it is likely the result of an extreme underfilling of the arterial circulation secondary to arterial vasodilation in the splanchnic circulation.22Although hepatorenal syndrome can occur with most forms of severe hepatic disease, patients with primary biliary cirrhosis appear to be relatively protected.23"
+        },
+        {
+            "parent": 4,
+            "text": "The International Ascites Club consensus conference on hepatorenal syndrome defined diagnostic criteria that distinguish between two types of hepatorenal syndrome.24Type 1 hepatorenal syndrome is defined as a rapid deterioration of renal function indicated by a twofold increase of serum creatinine to values above 2.5 mg per dL (221 μmol per L), or a decrease of creatinine clearance to values below 20 mL per minute (0.33 mL per second). This form of hepatorenal syndrome usually is precipitated by spontaneous bacterial peritonitis and occurs in approximately 25 percent of patients with spontaneous bacterial peritonitis, even with the clearance of infection. The median survival duration of these patients is less than two weeks without treatment, and almost all patients die within 10 weeks after the onset of renal failure.24Patients with type 2 hepatorenal syndrome exhibit moderately increased serum creatinine levels above 1.5 mg per dL (133 μmol per L) that remain stable over a longer period, and ascites that generally is resistant to diuretics. The median survival duration in these patients is three to six months.24"
+        },
+        {
+            "parent": 4,
+            "text": "Hemodialysis often is used to control azotemia in hepatorenal syndrome and to correct electrolyte imbalances. Nonsteroidal anti-inflammatory drugs and potentially nephrotoxic medications should be avoided. One controlled trial demonstrated a substantial improvement in renal plasma f low, glomerular filtration rate, and urinary sodium excretion in patients with type 1 hepatorenal syndrome after 20 days of treatment with oral midodrine (ProAmatine) and parenteral octreotide compared with the use of nonpressor dose dopamine(Table 13,7–10).10These therapies also appear to improve survival rates and may serve as a bridge to liver transplantation. In the future, endothelins, adenosine antagonists, long-acting vasoconstrictors, and antileukotriene antagonists may play a role in preventing and treating hepatorenal syndrome.25"
+        },
+        {
+            "parent": 5,
+            "text": "When standard medical and procedural therapy has failed to control the complications of cirrhosis, liver transplantation should be considered. Unnecessary surgical procedures should be avoided and risks versus benefits weighed before any surgical procedure is performed in patients with cirrhosis. Since the first successful liver transplant in 1967, there has been a growing disparity between the number of potential candidates and the number of donors. This disparity is attributed to a sixfold increase in patients on the transplant waiting list from 1991 to 2001 and a much slower rate of increase in the donor pool. A total of 6,169 liver transplants were performed in the United States in 2004; the current waiting list includes about 17,900 candidates.26Survival rates have improved markedly since the first transplant as a result of substantial improvements in immunosuppression and medical and surgical care experience. For liver transplants performed in the United States from 1996 to 2001, survival rates after one, three, and five years were 87.6, 79.9, and 74.5 percent, respectively.26"
+        },
+        {
+            "parent": 5,
+            "text": "The Clinical Practice Committee of the American Society of Transplantation suggests patients should be referred early to a transplant subspecialist to allow time for the patient, family, referring physician, and transplant center to meet and identify any potential problems.27Transplant care is best provided by a team of health care professionals including a hepatologist, a surgeon, a psychiatrist, and a social worker. In addition to a standard medical evaluation, the initial assessment of a possible transplant recipient should incorporate education highlighting the risks and benefits of organ transplantation, including the potential for poor outcomes (i.e., organ rejection), and standard post-transplant care.28"
+        },
+        {
+            "parent": 5,
+            "text": "The statistical model for end-stage liver disease (MELD) predicts survival in patients with cirrhosis and has been adopted for routine use in the timing and allocation of transplantation(Figure 3).29This system is an objective model based on the relationships among serum bilirubin, serum creatinine, and International Normalized Ratio values. The MELD score can be used as an accurate predictor of three-month mortality: a score of 40 out of 50 correlates to a three-month survival rate of less than 20 percent.28"
+        },
+        {
+            "parent": 6,
+            "text": "Potential candidates for liver transplantation include any patient with documented fulminant hepatic failure, decompensated cirrhosis (including hepatorenal syndrome), or a hepatocellular carcinoma with no single lesion greater than 5 cm or no more than three lesions with the largest being 3 cm or smaller.30,31Fulminant hepatic failure is a rare syndrome that arises from the loss of hepatic parenchymal function accompanied by encephalopathy and coma in patients who have had liver disease for less than eight weeks."
+        },
+        {
+            "parent": 6,
+            "text": "The Child-Turcotte-Pugh (CTP) scoring classification, originally devised to risk-stratify patients undergoing shunt surgery for portal decompression, is a useful system to assess liver disease severity in patients with established cirrhosis(Table 4).32In a retrospective study involving 92 patients with cirrhosis who underwent abdominal surgery, the mortality rate was 10 percent for patients with CTP grade A disease, 30 percent for those with grade B, and 82 percent for those with grade C.33The CTP classification also correlates with the frequency of postoperative complications including renal failure, hepatic encephalopathy, bleeding, infection, intractable ascites, and worsening liver failure.32"
+        },
+        {
+            "parent": 7,
+            "text": "Absolute contraindications to liver transplantation encompass clinical scenarios in which the expected outcome of transplantation is so poor that the procedure should not be considered. Examples include multisystem organ failure, extrahepatic or extrabiliary malignancy or infection, advanced cardiac or pulmonary disease, human immunodeficiency virus infection, and active alcohol or illicit substance abuse.34"
+        },
+        {
+            "parent": 7,
+            "text": "Relative contraindications include comorbidities that have a potential to reduce survival but that allow for the option of transplantation. Examples include renal insufficiency, a primary hepatobiliary malignancy greater than 5 cm, hemochromatosis, spontaneous bacterial peritonitis, age older than 65 years, poor social support, and the inability to comply with an immunosuppression protocol.34"
+        }
+    ],
+    "locked": false
+}

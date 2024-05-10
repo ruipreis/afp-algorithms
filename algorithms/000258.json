@@ -1,0 +1,227 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0315/p479.html#afp20160315p479-f1",
+    "title": "Diagnosis and Management of Nephrotic Syndrome in Adults | AAFP",
+    "author": "CHARLES KODNER, MD",
+    "doi": "Am Fam Physician.2016;93(6):479-485",
+    "abstract": "Nephrotic syndrome (NS) consists of peripheral edema, heavy proteinuria, and hypoalbuminemia, often with hyperlipidemia. Patients typically present with edema and fatigue, without evidence of heart failure or severe liver disease. The diagnosis of NS is based on typical clinical features with confirmation of heavy proteinuria and hypoalbuminemia. The patient history and selected diagnostic studies rule out important secondary causes, including diabetes mellitus, systemic lupus erythematosus, and medication adverse effects. Most cases of NS are considered idiopathic or primary; membranous nephropathy and focal segmental glomerulosclerosis are the most common histologic subtypes of primary NS in adults. Important complications of NS include venous thrombosis and hyperlipidemia; other potential complications include infection and acute kidney injury. Spontaneous acute kidney injury from NS is rare but can occur as a result of the underlying medical problem. Despite a lack of evidence-based guidelines, treatment consisting of sodium restriction, fluid restriction, loop diuretics, angiotensin-converting enzyme inhibitor or angiotensin receptor blocker therapy, and careful assessment for possible disease complications is appropriate for most patients. Renal biopsy is often recommended, although it may be most useful in patients with suspected underlying systemic lupus erythematosus or other renal disorders, in whom biopsy can guide management and prognosis. Immunosuppressive treatment, including corticosteroids, is often used for NS, although evidence is lacking. Routine prophylactic treatment to prevent infection or thrombosis is not recommended. A nephrologist should be consulted about use of anticoagulation and immunosuppressants, need for renal biopsy, and for other areas of uncertainty.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Causes",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Complications",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "VENOUS THROMBOSIS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "INFECTION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "RENAL FAILURE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "HYPERLIPIDEMIA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "GENERAL TREATMENT MEASURES",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "TREATING EDEMA",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ANTICOAGULATION FOR VENOUS THROMBOSIS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "TREATING AND PREVENTING INFECTION",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "TREATING DYSLIPIDEMIA",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "ANTIPROTEINURIC TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "IMMUNOSUPPRESSIVE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "Prognosis",
+            "level": 2
+        },
+        {
+            "id": 18,
+            "name": "Subspecialist Consultation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Nephrotic syndrome (NS) consists of peripheral edema, heavy proteinuria, and hypoalbuminemia, often with hyperlipidemia. Patients typically present with edema and fatigue, without heart failure or severe liver disease. Although there is limited evidence to guide management decisions, recent expert consensus guidelines and systematic reviews provide updated recommendations. This article focuses on diagnosis and management of NS in adults, which is different from that in children."
+        },
+        {
+            "parent": 0,
+            "text": "The annual incidence of NS in adults is three per 100,000 persons. Approximately 80% to 90% of NS cases in adults are idiopathic. Membranous nephropathy is the most common cause in whites, and focal segmental glomerulosclerosis is most common in blacks; each of these disorders accounts for approximately 30% to 35% of NS cases in adults. Minimal change disease and immunoglobulin A nephropathy each account for approximately 15% of cases. The remaining 10% of cases are secondary to an underlying medical condition.1"
+        },
+        {
+            "parent": 1,
+            "text": "Assessing the cause of NS is important in guiding management decisions. Many underlying systemic conditions can cause NS, although type 2 diabetes mellitus and systemic lupus erythematosus are most common. NS may not present as a primary diagnosis, but instead as one of multiple disease manifestations, particularly in systemic lupus erythematosus. A published case report of a 29-year-old pregnant woman with lupus nephritis, preeclampsia, NS, and hemolytic anemia illustrates this scenario.2Secondary causes of NS are listed inTable 1.1,3"
+        },
+        {
+            "parent": 2,
+            "text": "The mechanism of edema formation in NS is unclear. The primary defect seems to be increased glomerular permeability to albumin and other plasma proteins. Primary renal sodium retention and decreased oncotic pressure from hypoalbuminemia lead to increased extravasation of fluid from the intravascular space into the interstitial space, resulting in edema.4"
+        },
+        {
+            "parent": 2,
+            "text": "The pathophysiology of thrombogenesis in NS is also not completely understood but seems to be multifactorial, involving loss of coagulation regulatory proteins and a shift in the hemostatic balance toward a prothrombotic milieu.5Patients with NS and prothrombotic genetic mutations have a further increased risk of thrombosis."
+        },
+        {
+            "parent": 3,
+            "text": "New-onset edema, particularly in the lower extremities, is the most common presenting symptom of NS. Depending on disease severity, patients may have edema extending to the proximal lower extremities, lower abdomen, or genitalia. Ascites, periorbital edema, hypertension, and pleural effusion are also possible presenting features. Patients may report foamy urine, exertional dyspnea or fatigue, and significant fluid-associated weight gain.1,3"
+        },
+        {
+            "parent": 3,
+            "text": "The diagnostic criteria for NS are listed inTable 2.1Confirmation of proteinuria via 24-hour urine collection is cumbersome for patients, and the specimen can be collected incorrectly. The protein-to-creatinine ratio from a single urine sample is commonly used to diagnose nephrotic-range proteinuria. Although this spot test has limited accuracy in patients who exercise heavily, are gaining or losing muscle mass, or have similar factors, in general, it is sufficient for diagnosing heavy proteinuria.1"
+        },
+        {
+            "parent": 3,
+            "text": "Further diagnostic assessment of patients with NS has three goals: to assess for complications, identify underlying disease, and potentially determine the histologic type of idiopathic NS. The role of renal biopsy in patients with NS is controversial, and there are no evidence-based guidelines regarding indications for biopsy. Whether biopsy is performed often depends on the preferences of consulting nephrologists. In patients with NS from a known secondary cause and who are responding to treatment appropriately, biopsy will likely add little to treatment. Biopsy may be more useful for treatment and prognosis in patients with idiopathic NS of an unknown histologic disease type or with suspected underlying systemic lupus erythematosus or other renal disorders."
+        },
+        {
+            "parent": 4,
+            "text": "Various systemic complications are commonly associated with NS. These are thought to result from overproduction of hepatic proteins and loss of low-molecular-weight proteins in the urine, although the specific mechanisms have not been fully described.5It is generally not necessary to screen otherwise asymptomatic patients for these complications.Figure 1is an algorithm for the diagnosis and management of NS.1"
+        },
+        {
+            "parent": 5,
+            "text": "Venous thrombosis is one of the most important complications of NS, but the true incidence and risk are difficult to determine because of the heterogeneity of the clinical manifestations and causes of NS. The most common sites of venous thrombosis in adults are in the deep veins of the lower limbs, although thrombosis can also occur in the renal veins and can cause pulmonary embolism. Arterial thrombosis is rare in patients with NS.1"
+        },
+        {
+            "parent": 5,
+            "text": "In a historical case series of patients with NS, venous thrombosis of the lower limb occurred in 8% of patients, and renal venous thrombosis occurred in up to 25% of patients. However, more recent data suggest a much lower risk of venous thrombosis in patients with NS.6In a retrospective study, deep venous thrombosis occurred in 1.5% of adults with NS, and renal venous thrombosis occurred in 0.5% of adults with NS.6Venous thrombosis is much more common in adults than in children and is more common in adults with membranous nephropathy than other histologies,5with an incidence of up to 7%.7Unless the patient's history suggests a thromboembolic complication, screening otherwise asymptomatic patients for thromboembolic events is not indicated."
+        },
+        {
+            "parent": 6,
+            "text": "Bacterial infections, especially cellulitis, are a potential complication of NS. A Cochrane review found no relevant studies of infections in adults with NS.8There are no reliable data on the incidence of infection as a complication of NS and no current guidelines for the use of prophylactic antibiotics in adults with NS."
+        },
+        {
+            "parent": 7,
+            "text": "Acute kidney injury is considered a rare spontaneous complication of NS. It can coexist with NS when it is caused by the same factors that lead to edema and proteinuria, such as lupus nephritis and drug-induced interstitial nephritis.1,9Although acute kidney injury is uncommon in NS, tests for renal function, quantification of proteinuria, serum chemistry, and lipid profile are appropriate to assess renal function and determine the degree of hyperlipidemia.Table 3shows the differential diagnosis of acute kidney injury in patients with NS.3"
+        },
+        {
+            "parent": 8,
+            "text": "Elevated lipid levels (potentially markedly elevated) are a common feature of NS. Any subtype of lipoprotein concentrations can be elevated. There are no recent epidemiologic data to indicate how common or severe this complication is, and no recent data regarding the impact of treatment for dyslipidemia associated with NS. However, resolving proteinuria and any underlying disease process is believed to improve or resolve the dyslipidemia.1,10"
+        },
+        {
+            "parent": 9,
+            "text": "Management of NS is limited by a lack of clear evidence-based guidelines, although recent expert consensus guidelines provide useful recommendations.11In addition to correction of treatable causes, management includes general measures to treat symptoms such as edema and, in some cases, immunosuppressant treatment of the renal pathology."
+        },
+        {
+            "parent": 10,
+            "text": "Because of the possible pathophysiologic role of sodium retention, some experts recommend that routine treatment of patients with NS include restricting dietary sodium to less than 3 g per day and restricting fluid to less than 1,500 mL per day.1"
+        },
+        {
+            "parent": 11,
+            "text": "Patients with nephrosis are resistant to diuretics, even if the glomerular filtration rate is normal. Loop diuretics act in the renal tubule and must be protein-bound to be effective. Serum proteins are reduced in NS, limiting the effectiveness of loop diuretics, and patients may require higher-than-normal doses.3Other mechanisms for diuretic resistance are also possible. Oral loop diuretics with twice-daily administration are usually preferred because of the longer duration of action. However, with severe NS and edema, gastrointestinal absorption of the diuretic may be uncertain because of intestinal wall edema, and intravenous diuretics may be necessary. Diuresis should be relatively gradual and guided by daily weight assessment, with a target of 2 to 4 lb (1 to 2 kg) per day.3"
+        },
+        {
+            "parent": 11,
+            "text": "Furosemide (Lasix) at 40 mg orally twice daily or bumetanide at 1 mg twice daily is a reasonable starting dosage, with approximate doubling of the dose every one to three days if there is inadequate improvement in edema or other evidence of fluid overload.3An approximate upper limit for furosemide is 240 mg per dose or 600 mg total per day,12but there is no clear evidence or rationale for this limit. If there is still an inadequate clinical response, patients may be treated by changing to intravenous loop diuretics, adding oral thiazide diuretics, or giving an intravenous bolus of 20% human albumin prior to an intravenous diuretic bolus.3"
+        },
+        {
+            "parent": 12,
+            "text": "Despite the known risk of venous thrombosis in patients with NS, there are no randomized controlled trials to guide whether prophylactic anticoagulation should be used and for how long.1"
+        },
+        {
+            "parent": 12,
+            "text": "Adult patients with NS should be assessed individually for underlying disease. Additional considerations are the severity of NS (i.e., serum albumin less than 2.0 to 2.5 g per dL [20 to 25 g per L] may be more likely to prompt anticoagulation prophylaxis7), preexisting thrombophilic states, and the overall likelihood of serious bleeding events from the use of oral anticoagulation. The decision to treat with anticoagulants should be made individually.13Although the benefits of anticoagulation may outweigh the risks in selected patients at high risk of venous thrombosis (e.g., those with known prothrombotic tendency or a history of venous thrombosis), anticoagulation is not routinely used for primary prevention of thrombotic events in patients with NS.6"
+        },
+        {
+            "parent": 13,
+            "text": "Infection has been reported in up to 20% of adults with NS, although it is unclear if NS is causative or if the infection is a result of hospitalization, corticosteroid use, or other factors.1A Cochrane review found no strong evidence to recommend a specific intervention to prevent infection in adults with NS.8"
+        },
+        {
+            "parent": 14,
+            "text": "A recent Cochrane review found insufficient evidence to determine if lipid-lowering agents are helpful in managing dyslipidemia in adults with NS and no other indications for treatment based on previously obtained lipid levels.10"
+        },
+        {
+            "parent": 15,
+            "text": "Treatment with angiotensin-converting enzyme inhibitors or angiotensin receptor blockers appears to reduce the risk of venous thrombosis, although this has not been confirmed.14Treatment with angiotensin-converting enzyme inhibitors or angiotensin receptor blockers is often recommended for patients with NS because of their known antiproteinuric effects. However the degree of benefit for specific outcomes, such as renal failure or recovery, improvement in edema, or need for dialysis, is unproven, and the evidence supporting the routine use of these medications is conflicting."
+        },
+        {
+            "parent": 16,
+            "text": "Corticosteroids are often used in the treatment of NS despite an absence of supporting data. In recent years, corticosteroids and other immunosuppressive treatments have been investigated for use in NS(Table 4).15A Cochrane review showed that combining an alkylating agent with a corticosteroid has short- and long-term benefits for membranous nephropathy in adults with NS.15In general, immunosuppressive treatment has no proven benefit for most adults with idiopathic NS, and the potential risks may outweigh any benefits. The role of such treatment and specific treatment decisions, such as type and duration of therapy, depend on clinical factors and potentially on the histologic diagnosis identified on biopsy. If NS is steroid-resistant or does not improve, other immunosuppressive treatments should be considered in cooperation with a nephrologist. Immunosuppressive therapy for NS secondary to systemic lupus erythematosus is highly effective and supported by multiple studies, and may lead to partial or complete remission in patients with minimal change disease or primary focal segmental glomerulosclerosis."
+        },
+        {
+            "parent": 17,
+            "text": "The prognosis for NS is highly dependent on the underlying cause, the disease histology, and patient clinical factors. Although many patients improve with appropriate supportive care and do not require any specific therapy, others worsen despite aggressive, specific therapy and may require dialysis. In one study, routine treatment with an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker, plus selective use of corticosteroids or other immunosuppressants, led to a remission rate of 76%, with 12% of patients requiring hemodialysis.16"
+        },
+        {
+            "parent": 17,
+            "text": "Idiopathic membranous nephropathy is one of the most common forms of primary NS in adults, and has a generally favorable prognosis.15The prognosis for this illness roughly follows a “rule of thirds”: about one-third of patients have a benign course with a high rate of remission; one-third have ongoing evidence of proteinuria or edema but maintain normal renal function; and somewhat less than one-third of patients progress toward end-stage renal disease within 10 years.15"
+        },
+        {
+            "parent": 17,
+            "text": "Adults with primary focal segmental glomerulosclerosis, however, tend to have a poorer prognosis, and the degree of proteinuria is a significant prognostic factor. Although about one-half of patients with nephrotic-range proteinuria progress to end-stage renal disease over five to 10 years, patients with very heavy proteinuria (10 to 14 g per day) will develop end-stage renal disease on average within two to three years.17"
+        },
+        {
+            "parent": 18,
+            "text": "Consultation with nephrologists should guide decisions about use of anticoagulation and immunosuppressants, need for renal biopsy, and for other areas of uncertainty."
+        },
+        {
+            "parent": 18,
+            "text": "Data Sources: A Medline literature search was conducted using the key term nephrotic syndrome. The search was limited to English, human, core clinical journals (Abridged Index Medicus), and publication years between 2005 and 2015. Additional searches were conducted combining the baseline nephrotic syndrome search with other relevant key words, such as venous thrombosis, hyperlipidemia, infection, and acute kidney injury. Relevant original articles cited in reviews were used as the sources for cited data. Search dates: January 25, 2015, and December 10, 2015."
+        },
+        {
+            "parent": 18,
+            "text": "This review updates a previous article on this topic by the author.18"
+        }
+    ],
+    "locked": false
+}

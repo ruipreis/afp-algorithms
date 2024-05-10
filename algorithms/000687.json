@@ -1,0 +1,224 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/1101/p1739.html#afp20051101p1739-f1",
+    "title": "Management of Acute Renal Failure | AAFP",
+    "author": "EDDIE NEEDHAM, M.D.",
+    "doi": "Am Fam Physician.2005;72(9):1739-1746",
+    "abstract": "Acute renal failure is present in 1 to 5 percent of patients at hospital admission and affects up to 20 percent of patients in intensive care units. The condition has prerenal, intrarenal, and postrenal causes, with prerenal conditions accounting for 60 to 70 percent of cases. The cause of acute renal failure usually can be identified through an appropriate history, a physical examination, and selected laboratory tests. The initial laboratory evaluation should include urinalysis, a determination of the fractional excretion of sodium, a blood urea nitrogen to creatinine ratio, and a basic metabolic panel. Management includes correction of fluid and electrolyte levels; avoidance of nephrotoxins; and kidney replacement therapy, when appropriate. Several recent studies support the use of acetylcysteine for the prevention of acute renal failure in patients undergoing various procedures. The relative risk of serum creatinine elevation was 0.11 in patients undergoing radiocontrast-media procedures (absolute risk reduction: 19 percent) and 0.33 in patients undergoing coronary angiography (absolute risk reduction: 8 percent). In patients pretreated with sodium bicarbonate before radiocontrast-media procedures, the relative risk of serum creatinine elevation was 0.13 and the absolute risk reduction was 11.9 percent. Dopamine and diuretics have been shown to be ineffective in ameliorating the course of acute renal failure.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Causes of Acute Renal Failure",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "PRERENAL CAUSES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "INTRARENAL CAUSES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "POSTRENAL CAUSES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Identification of Probable Causes",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Future Directions",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "ACETYLCYSTEINE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "DOPAMINE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "OLIGURIC VS. NONOLIGURIC ACUTE RENAL FAILURE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "SODIUM BICARBONATE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute renal failure is an acute loss of kidney function that occurs over days to weeks and results in an inability to appropriately excrete nitrogenous wastes and creatinine. Electrolyte disturbances and loss of fluid homeostasis may occur. In spite of this rapid decline in kidney function, patients with acute renal failure often have few symptoms."
+        },
+        {
+            "parent": -1,
+            "text": "A strict definition of acute renal failure is lacking. Accepted diagnostic criteria include an increase in the serum creatinine level of 0.5 mg per dL (44.2 μmol per L) or a 50 percent increase in the creatinine level above the baseline value, a 50 percent decrease in the baseline-calculated glomerular filtration rate (GFR), or the need for acute kidney replacement therapy.1–3Oliguria is defined as a urine output of less than 400 mL in 24 hours, and anuria is defined as a urine output of less than 100 mL in 24 hours."
+        },
+        {
+            "parent": -1,
+            "text": "Acute renal failure is present in 1 to 5 percent of patients at hospital admission. The condition affects 15 to 20 percent of patients in intensive care units (ICUs); reported mortality rates range from 50 to 70 percent in these patients.1–3Infection and cardiorespiratory complications are the most common causes of death in patients with acute renal failure."
+        },
+        {
+            "parent": 0,
+            "text": "Creatinine is a metabolic waste product excreted by the kidneys. When the GFR is normal, creatinine is filtered through the glomerulus into the tubules and then excreted. Creatinine also is secreted by tubular cells."
+        },
+        {
+            "parent": 0,
+            "text": "Medications such as trimethoprim (Proloprim; with sulfamethoxazole [Bactrim, Septra]) and cimetidine (Tagamet) can inhibit tubular secretion and falsely elevate the serum creatinine level.2Formulas to estimate the GFR in patients with acute renal failure should not be used to adjust medication dosages because the serum creatinine level is not in a steady state and continues to fluctuate.3"
+        },
+        {
+            "parent": 1,
+            "text": "Traditionally, the causes of acute renal failure are classified as prerenal, intrarenal, or postrenal (Table 1).3"
+        },
+        {
+            "parent": 2,
+            "text": "Prerenal causes of acute renal failure are common, with intravascular volume depletion being the most common cause.4Fever, vomiting, and diarrhea can lead to decreased kidney perfusion. Dehydration from any cause, including diuretics, can precipitate acute renal failure."
+        },
+        {
+            "parent": 2,
+            "text": "Prerenal azotemia occurs in diseases that lead to a decrease in the effective arterial blood volume. These diseases include heart failure, liver failure, and nephrotic syndrome."
+        },
+        {
+            "parent": 2,
+            "text": "Nonsteroidal anti-inflammatory drugs (NSAIDs) and angiotensin-converting enzyme (ACE) inhibitors are known to cause prerenal azotemia. NSAIDs affect the kidney by blocking cyclo-oxygenase, leading to an increase in thromboxane A2, which is a potent vasoconstrictor of the preglomerular arterioles. Because these afferent vessels supply blood to the kidney, vasoconstriction causes decreased glomerular perfusion.5"
+        },
+        {
+            "parent": 2,
+            "text": "ACE inhibitors block the production of angiotensin II, causing vasodilation of the postglomerular efferent arterioles. The vasodilation results in a decrease in the glomerular pressure, which may cause azotemia.6"
+        },
+        {
+            "parent": 2,
+            "text": "Large-vessel diseases, such as thrombosis, embolus, and dissection, also can reduce renal perfusion."
+        },
+        {
+            "parent": 3,
+            "text": "Intrarenal causes of acute renal failure are classified as tubular, glomerular, interstitial, and vascular."
+        },
+        {
+            "parent": 3,
+            "text": "Injury to the tubules most often is caused by ischemia or nephrotoxins. If prerenal azotemia and poor perfusion continue without treatment, tubular cells begin to die. This condition is termed “acute tubular necrosis.” Acute tubular necrosis is not a separate entity; rather, it is a marker of a more severe ischemic insult to the kidneys. Therefore, prerenal azotemia and tubular ischemia represent stages in the continuum of tubular injury.1,7"
+        },
+        {
+            "parent": 3,
+            "text": "Acute tubular necrosis has three phases: initiation, maintenance, and recovery. After the initial insult to the kidneys, the maintenance phase typically lasts one to two weeks. During the recovery phase, there may be marked diuresis and a slow return of kidney function. To date, no therapy has been shown to hasten recovery from acute tubular necrosis."
+        },
+        {
+            "parent": 3,
+            "text": "Efforts should be made to prevent the development of acute tubular necrosis in high-risk patients. Conditions that place patients at risk for this condition include untreated prerenal azotemia and the use of nephrotoxic drugs or exposure to other nephrotoxins (Table 2)."
+        },
+        {
+            "parent": 3,
+            "text": "Glomerulonephritis, an uncommon cause of acute renal failure, has systemic manifestations such as fever, rash, and arthritis. Urine findings include red blood cell casts, hematuria, and proteinuria. It is important to evaluate all patients with glomerulonephritis for diseases such as systemic lupus erythematosus. Consultation with a nephrologist may be required; renal biopsy may be necessary."
+        },
+        {
+            "parent": 3,
+            "text": "Acute interstitial nephritis is an interstitial disturbance that leads to acute renal failure. (The diagnosis and management of this condition have been reviewed inAmerican Family Physician.8) Acute interstitial nephritis often results from an allergic reaction to a drug (Table 3). Symptoms include fever and rash. Serum and urine eosinophil counts may be elevated. Autoimmune diseases, infection, and infiltrative diseases also can lead to interstitial nephritis. If a drug is suspected as the causative agent, immediate withdrawal of the drug and supportive care are essential. Corticosteroids may be beneficial.9,10"
+        },
+        {
+            "parent": 3,
+            "text": "Vascular disease can occur on the microvascular and macrovascular levels. Depending on the location of the lesion(s), vascular causes can be prerenal or intrarenal. Microvascular processes commonly present as micro-angiopathic hemolytic anemia and acute renal failure secondary to small-vessel thrombosis or occlusion. Macrovascular causes of acute renal failure should be suspected in older patients. These causes include renal artery stenosis or thrombosis, atheroembolism secondary to atrial fibrillation, and aortic disease or acute dissection.11"
+        },
+        {
+            "parent": 4,
+            "text": "Postrenal causes of acute renal failure result in obstruction of the outflow tracts of the kidneys. Causes include prostatic hypertrophy, catheters, tumors, strictures, and crystals. Neurogenic bladder also can cause an obstruction."
+        },
+        {
+            "parent": 4,
+            "text": "Because postrenal causes are readily reversible, it is imperative to exclude them.12Recovery of renal function is directly proportional to the duration of the obstruction. Renal ultrasonography can be used to assess patients for hydronephrosis. Because no contrast dye is used, renal function is not further compromised."
+        },
+        {
+            "parent": 5,
+            "text": "Probable causes of acute renal failure, based on the findings of the history, are listed inTable 4.13Probable causes based on the physical findings are listed inTable 5.13"
+        },
+        {
+            "parent": 5,
+            "text": "Urine test values and serum creatinine levels in prerenal and intrarenal acute renal failure are compared inTable 6.2,3,7,13Selected diagnostic test results and their interpretations are given inTable 7.13Urine collected before the initiation of intravenous fluid or diuretic treatment can be used to calculate the fractional excretion of sodium (FENa). The first urine sample obtained from the patient in the emergency department is the most useful. In a patient with acute renal failure, a FENa below 1 percent reflects preservation of the kidneys’ ability to avidly reabsorb sodium and water. A FENa higher than 1 percent suggests the presence of acute tubular necrosis and loss of the kidneys’ ability to concentrate urine."
+        },
+        {
+            "parent": 6,
+            "text": "Acute renal failure often is preventable. Risk factors for this condition include diabetes mellitus, chronic renal insufficiency, heart failure, and advanced age."
+        },
+        {
+            "parent": 6,
+            "text": "Many medications can injure the kidneys. Dosing schedules can help prevent acute renal failure. For example, acute renal failure is less likely to develop with a once-daily dose of an aminoglycoside than with multiple daily doses.14When acute renal failure is diagnosed, the cause(s) must be identified and treated (Figure 1). Critical measures include maintaining adequate intravascular volume and mean arterial pressure, discontinuing all nephrotoxic drugs, and eliminating exposure to any other nephrotoxins (Table 2).13Electrolyte abnormalities must be corrected, and urine output should be monitored closely. Pigment or uric acid exposure can be treated with alkaline diuresis. Ethylene glycol or methanol poisoning should be treated with an alcohol drip or with fomepizole (Antizol).15,16"
+        },
+        {
+            "parent": 6,
+            "text": "Hyperkalemia is a common complication of acute renal failure.17Potassium levels below 6 mEq per L (6 mmol per L) usually can be managed with dietary restriction and resin binders. Caloric intake should come primarily from carbohydrates. Protein intake should be balanced to minimize nitrogenous waste production while limiting starvation ketosis and subsequent production of ketoacids. This balance is achieved best with a protein intake of 0.6 g per kg per day."
+        },
+        {
+            "parent": 6,
+            "text": "Sodium bicarbonate therapy should be reserved for the treatment of severe metabolic acidosis (i.e., pH below 7.2 or a bicarbonate level below 10 to 15 mEq per dL [10 to 15 mmol per L]) with or without associated hyperkalemia. It is important to note that sodium bicarbonate and sodium polystyrene sulfonate have a large sodium load and may worsen fluid status in patients with acute renal failure."
+        },
+        {
+            "parent": 6,
+            "text": "When hyperkalemia is severe and unresponsive to treatment, kidney replacement therapy may be indicated (Table 8).1–4,18The use of intermittent or continuous hemodialysis (multiple techniques) continues to be debated. Both approaches are effective, and studies have not demonstrated either approach to be superior to the other.18,19Intermittent hemodialysis requires less anticoagulation than does continuous hemodialysis; however continuous hemodialysis can be performed in patients with less hemodynamic stability."
+        },
+        {
+            "parent": 6,
+            "text": "Although renal biopsy rarely is performed, it may be indicated for patients with acute renal failure who do not respond to therapy or for assistance in the diagnosis of glomerulonephritis."
+        },
+        {
+            "parent": 8,
+            "text": "Evidence exists that the prophylactic use of acetylcysteine (Mucomyst) before radiocontrast-media procedures decreases the incidence of acute renal failure.20,21"
+        },
+        {
+            "parent": 8,
+            "text": "In one randomized trial20of 83 patients with chronic renal insufficiency, patients were assigned to receive 0.45 percent saline plus oral acetylcysteine (600 mg twice daily) or 0.45 percent saline alone before undergoing computed tomographic scanning. Within 48 hours after the imaging test, creatinine levels increased by 0.5 mg per dL or more in nine of the 42 patients in the saline-only group but increased in just one of the 41 patients in the acetylcysteine group (P= .01, relative risk = 0.11, absolute risk reduction = 19 %, number needed to treat = 5)."
+        },
+        {
+            "parent": 8,
+            "text": "A second randomized controlled trial21evaluated acetylcysteine pretreatment in patients scheduled to undergo coronary angiography and angioplasty. All patients had stable, moderate renal insufficiency and a GFR of less than 60 mL per minute. Patients randomly received acetylcysteine (600 mg twice daily) the day before the coronary procedure and the day of the procedure. All patients received an infusion of 0.9 percent normal saline. Within 48 hours of the procedure, serum creatinine levels increased by more than 25 percent in 12 of 98 patients in the saline-only group and in four of 102 patients in the acetylcysteine group (P= 0.03, relative risk = 0.33, absolute risk reduction = 8 %, number needed to treat = 12)."
+        },
+        {
+            "parent": 8,
+            "text": "A third study22showed that preprocedural acetylcysteine was neither helpful nor harmful."
+        },
+        {
+            "parent": 9,
+            "text": "Dopamine traditionally has been used to promote renal perfusion. However, systematic reviews23–25of dopamine treatment in critically ill patients and in patients with sepsis do not support the use of dopamine to prevent renal insufficiency, morbidity, or mortality."
+        },
+        {
+            "parent": 9,
+            "text": "A multicenter, randomized, double-blind, placebo-controlled trial23of low-dose dopamine therapy was conducted in patients with clinical evidence of early renal dysfunction who met two criteria for systemic inflammatory response syndrome (sepsis). In this study, 328 patients from 23 ICUs were assigned to receive dopamine (2 mcg per kg per minute) or placebo. The primary endpoint was elevation of the serum creatinine level during the infusion. No statistical differences were found between the two groups in elevation of creatinine levels, need for dialysis, duration of ICU stay, or length of hospital stay. There were 69 deaths in the dopamine group and 66 deaths in the placebo group. The study showed no benefit for dopamine."
+        },
+        {
+            "parent": 9,
+            "text": "A recent meta-analysis24was conducted on the use of dopamine to reduce the incidence or severity of acute renal failure, the need for dialysis, or mortality in critically ill patients. Of the 58 studies that were identified, 17 were randomized clinical trials. Dopamine did not prevent mortality, onset of acute renal failure, or need for dialysis. A literature review25reached a similar conclusion."
+        },
+        {
+            "parent": 10,
+            "text": "Historically, nonoliguric renal failure has been assumed to have a better outcome than oliguric renal failure. As a result, diuretics commonly have been given in an attempt to convert the oliguric state to a nonoliguric state. However, diuretics have not been shown to be beneficial, and they may worsen outcomes.26"
+        },
+        {
+            "parent": 10,
+            "text": "An observational study27of 552 patients with acute renal failure in four ICUs found that 326 of the patients were given diuretics at the time of nephrology consultation. The patients initially given diuretics were older; were more likely to have a lower serum blood urea nitrogen concentration; and were more likely to have a history of heart failure, nephrotoxic renal failure, or acute respiratory failure. The main outcome measures were all-cause hospital mortality, nonrecovery of renal function, or both. Diuretic use in these higher risk patients was associated with a significant risk of death or nonrecovery of renal function (odds ratio [OR] = 1.77; 95 % confidence interval [CI] = 1.14 to 2.76). In the patients who survived one week past the initial nephrology consultation, the risk of death and nonrecovery of renal function was significantly increased (OR = 3.12;95 % CI =1.73 to 5.62)."
+        },
+        {
+            "parent": 11,
+            "text": "A recent placebo-controlled trial28involving 119 patients found an absolute risk reduction of 11.9 percent and a relative risk of 0.13 for elevated serum creatinine levels (from contrast-induced nephropathy) in patients who were given a sodium bicarbonate infusion before a radiocontrast-media procedure compared with those who were given only saline. This single-center study was stopped early because of the degree of benefit demonstrated for sodium bicarbonate infusion."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,204 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/0315/p398.html#afp20180315p398-f1",
+    "title": "Evaluation of Suspected Dementia | AAFP",
+    "author": "NATHAN FALK, MD, ARIEL COLE, MD, AND T. JASON MEREDITH, MD",
+    "doi": "Am Fam Physician.2018;97(6):398-405",
+    "abstract": "Dementia is a significant and costly health condition that affects 5 million adults and is the fifth leading cause of death among Americans older than 65 years. The prevalence of dementia will likely increase in the future because the number of Americans older than 65 years is expected to double by 2060. Risk factors for dementia include age; family history of dementia; personal history of cardiovascular disease, cerebrovascular disease, diabetes mellitus, or midlife obesity; use of anticholinergic medications; apolipoprotein E4 genotype; and lower education level. The U.S. Preventive Services Task Force and the American Academy of Family Physicians have concluded that current evidence is insufficient to assess the benefits vs. harms of screening for cognitive impairment in older adults. If dementia is suspected, physicians can use brief screening tests such as Mini-Cog or General Practitioner Assessment of Cognition. If the results are abnormal, further evaluation is warranted using more in-depth screening tools such as the Montreal Cognitive Assessment, Saint Louis University Mental Status Examination, or Mini-Mental State Examination. Diagnostic testing and secondary evaluation, including screening for depression, appropriate laboratory studies for other conditions that cause cognitive impairment, and magnetic resonance imaging of the brain, should be performed when cognitive impairment is confirmed. Routine cerebrospinal fluid testing and genetic testing for the apolipoprotein E4 allele are not recommended.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology and Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnostic Criteria",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Initial History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Brief Initial Screening Tests for Cognitive Impairment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "MINI-COG",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "GENERAL PRACTITIONER ASSESSMENT OF COGNITION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ASCERTAIN DEMENTIA 8-ITEM INFORMANT QUESTIONNAIRE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Cognitive Tests for Patients Who Screen Positive on Initial Testing",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "MINI-MENTAL STATE EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MONTREAL COGNITIVE ASSESSMENT AND SAINT LOUIS UNIVERSITY MENTAL STATUS EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Diagnostic and Secondary Evaluation",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "GERIATRIC DEPRESSION SCALE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "LABORATORY EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "NEUROIMAGING",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "CSF TESTING",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "GENETIC TESTING",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Dementia is the fifth leading cause of death in Americans older than 65 years. The United States population is aging, with 46 million persons older than 65 years—a number that is expected to double by 2060.1Consequently, by 2050, the estimated number of Americans living with dementia will increase from 5 million to 14 million, and the estimated cost of dementia care will increase from $236 billion to $1 trillion.2Early recognition of cognitive impairment is integral to patient counseling, advance care planning, assessment of secondary or reversible causes of impairment, and consideration of medical therapy. The U.S. Preventive Services Task Force and the American Academy of Family Physicians have concluded that current evidence is insufficient to assess the benefits vs. harms of screening for cognitive impairment in older adults.3,4"
+        },
+        {
+            "parent": -1,
+            "text": "This article focuses on the evaluation of patients with suspected dementia, including diagnostic criteria, brief screening tests suitable for use during primary care office visits, and diagnostic testing(Figure 1)."
+        },
+        {
+            "parent": 0,
+            "text": "The overall prevalence of dementia is approximately 5%, increasing to 37% in persons older than 90 years.5The lifetime risk of dementia is approximately 17%, with the incidence doubling each decade after 60 years of age.6The median survival time after diagnosis of dementia is 4.5 years, but this varies based on age at diagnosis, ranging from 10.7 years for patients diagnosed in their 60s to 3.8 years for patients diagnosed in their 90s.7Alzheimer disease accounts for 60% to 80% of dementia cases. Vascular dementia in isolation accounts for 10% of cases, but it commonly presents as a mixed dementia with Alzheimer disease. Lewy body dementia, Parkinson-related dementia, normal-pressure hydrocephalus, and frontotemporal dementia represent most of the remaining cases. Frontotemporal dementia, while accounting for less than 10% of total dementia cases, represents 60% of dementia cases in patients 45 to 60 years of age.2"
+        },
+        {
+            "parent": 0,
+            "text": "Although the number of patients with dementia has risen with the aging population, longitudinal studies have demonstrated an overall decrease in prevalence since 2000, with a prevalence reduction ranging from 22% to 44% in recent studies.8–11This decrease mirrored a 25% reduction in deaths attributable to cardiovascular disease, a major risk factor for dementia, from 2004 to 2014.12The mechanisms of dementia are unclear, but increased education level and improved treatment of diabetes mellitus and cardiovascular disease are associated with lower dementia risk.8,10,11"
+        },
+        {
+            "parent": 0,
+            "text": "Older age remains the greatest risk factor for dementia.13Other strong risk factors include family history of dementia; personal history of cardiovascular disease, cerebrovascular disease, diabetes, or midlife obesity; use of anticholinergic medications; apolipoprotein E4 genotype; and lower education level.14–17Other potential risk factors with weaker supporting evidence include smoking; atrial fibrillation (independent of stroke risk); use of substances and medications such as alcohol, proton pump inhibitors, and benzodiazepines; and head trauma.18–22"
+        },
+        {
+            "parent": 1,
+            "text": "TheDiagnostic and Statistical Manual of Mental Disorders, 5th ed., updated the diagnostic criteria for dementia and mild cognitive impairment, introducing the terms major and minor neurocognitive disorders.23Major neurocognitive disorder requires demonstration of significant cognitive decline in at least one of the following cognitive domains: complex attention, executive function, language, learning and memory, perceptual-motor, or social cognition. This decline must be based on both subjective and objective findings, and interfere with instrumental activities of daily living. Minor neurocognitive disorder requires only modest cognitive decline that does not interfere with instrumental activities of daily living.23Table 1outlines the new diagnostic guidelines for neurocognitive disorders.23,24"
+        },
+        {
+            "parent": 2,
+            "text": "Concerns for early dementia may arise from the patient, the physician, or the patient's loved ones. Physicians can recognize signs of worsening cognitive function from aberrant patient behaviors, such as missed appointments or vague answers to questions. A history to evaluate for cognitive impairment should include the input of a reliable informant (e.g., family members, close friends, caregivers) because patients of ten have poor insight into their own functional status.25,26The history should include education level, timeline of symptom presentation, and speed of progression.25,26Table 2outlines diagnostic clues for each cognitive domain.23,24Early in the disease course, dementia often impairs instrumental activities of daily living, such as paying bills, balancing the checkbook, or remembering to take medications. Disease progression may further impair activities of daily living, including difficulty with eating, bathing, dressing, toileting, walking and transferring, and continence."
+        },
+        {
+            "parent": 2,
+            "text": "Physicians should review the patient's medications for those that may affect cognition using a resource such as the American Geriatric Society's Beers Criteria (available online with registration athttps://geriatricscareonline.org/ProductAbstract/american-geriatrics-society-updated-beers-criteria-for-potentially-inappropriate-medicationuse-in-older-adults/CL001).27Recent hospitalization should increase suspicion for delirium. Physicians should screen for depression in patients who have abnormal cognitive evaluation findings, and should consider evaluating for cardiometabolic risk factors given their association with cognitive impairment.24,26Rapid onset and progression of symptoms (weeks to months) increase the likelihood of uncommon causes of cognitive impairment and should prompt subspecialty referral. The VITAMINS mnemonic (vascular, infectious, toxic-metabolic, autoimmune, metastasis/neoplasms, iatrogenic, neurodegenerative, systemic/seizure/sarcoid) is helpful when identifying causes of rapidly progressing symptoms.28"
+        },
+        {
+            "parent": 2,
+            "text": "Although physical examination findings are usually normal in patients with dementia, they can assist in identifying potentially reversible causes of cognitive decline, including hypothyroidism, vitamin deficiencies, neurosyphilis, intracranial tumors, normal-pressure hydrocephalus, depression, and hypoperfusion from heart failure.26,29Table 3lists key findings suggestive of dementia etiologies.23–27,30–32"
+        },
+        {
+            "parent": 3,
+            "text": "Brief screening tests are useful to quickly assess the need for further evaluation. In 2013, the Alzheimer's Association recommended three screening tests that could be completed within the time frame of a Medicare wellness visit: Mini-Cog, Memory Impairment Screen, and General Practitioner Assessment of Cognition.33These tools require less than five minutes to complete, can be administered by nonphysician personnel, and are validated in the primary care office setting. Subsequently, a systematic review called into question the sensitivity of the Memory Impairment Screen within well-designed studies.34The Ascertain Dementia 8-Item Informant Questionnaire is also a quick, validated, and sensitive screening tool. Guidelines advocate combining the Mini-Cog with this questionnaire.29,35Ascertain Dementia 8-Item Informant Questionnaire is also a quick, validated, and sensitive screening tool. Guidelines advocate combining the Mini-Cog with this questionnaire.29,35"
+        },
+        {
+            "parent": 3,
+            "text": "This article briefly discusses the screening tests. A more detailed discussion was published previously inAmerican Family Physician.36Additional information can be found in the American Academy of Family Physicians National Research Network's Cognitive Care Kit athttp://www.aafp.org/patient-care/public-health/cognitive-care.html."
+        },
+        {
+            "parent": 4,
+            "text": "The Mini-Cog test (available for free athttp://mini-cog.com) takes approximately three minutes to administer and has minimal to no language or education bias.33,37The patient is instructed to repeat three unrelated words, perform a clock drawing test, and then recall the three words.29The Mini-Cog has a sensitivity of 76% to 100% and a specificity of 54% to 85% for detecting cognitive impairment.34"
+        },
+        {
+            "parent": 5,
+            "text": "The General Practitioner Assessment of Cognition (available for free athttp://gpcog.com.au) comprises a patient screen and, if necessary, an informant component. Advantages of this test include validation in the primary care setting, little to no education bias, and availability in multiple languages.34It has been studied only in Australian populations, however. The patient screen consists of recall, time orientation, clock drawing, and information components. The patient screen takes less than four minutes to complete, and the informant portion takes less than two minutes. The General Practitioner Assessment of Cognition has a sensitivity of 85% and specificity of 86%.34"
+        },
+        {
+            "parent": 6,
+            "text": "The Ascertain Dementia 8-Item Informant Questionnaire (available for free athttp://alzheimer.wustl.edu/cdr/AD8.htm) is an informant-based test developed to screen for major and minor neurocognitive disorders. It has also been validated for patient-administered screening, but it is less sensitive than informant-based screening.38The informant-based test takes less than two minutes to complete, and has a sensitivity of 85% and a specificity of 86%.34"
+        },
+        {
+            "parent": 7,
+            "text": "Patients who screen positive for cognitive impairment on brief screening tests should be evaluated further to quantify the degree of impairment.29A variety of tools are available for this purpose, but only some are practical for the office setting. The following brief cognitive tests have limited sensitivity and specificity, particularly in patients with high intelligence and education levels. Physicians should consider referral for neuropsychiatric evaluation if a patient has normal findings on brief cognitive tests but cognitive impairment is still strongly suspected."
+        },
+        {
+            "parent": 8,
+            "text": "The Mini-Mental State Examination (MMSE; available for purchase athttp://www.parinc.com/Products/Pkey/238) is the most commonly used cognitive evaluation tool.39The test has a sensitivity of 89% and specificity of 81% for detecting dementia.34A nomogram establishes cutoff scores depending on the patient's age and education."
+        },
+        {
+            "parent": 9,
+            "text": "The Montreal Cognitive Assessment and Saint Louis University Mental Status Examination (available for free athttp://www.mocatest.org/andhttp://aging.slu.edu/pdfsurveys/mentalstatus.pdf) are alternatives to the MMSE. Both are 30-point cognitive tests that take approximately 10 minutes to administer. The Montreal Cognitive Assessment is designed for persons scoring above 24 on the MMSE and has excellent sensitivity for detecting mild neurocognitive disorder; it is also accurate in patients with Parkinson disease.29"
+        },
+        {
+            "parent": 10,
+            "text": "Patients who have confirmed cognitive impairment should be screened for depression, should receive laboratory tests for other common disorders that can cause cognitive impairment, and should undergo imaging of the brain. Routine cerebrospinal fluid (CSF) analysis and genetic testing are not recommended, but these tests may be appropriate in some patients."
+        },
+        {
+            "parent": 11,
+            "text": "Depression is a common and treatable comorbidity in patients with dementia. Several tools are validated to screen for depression in older patients. The five-item Geriatric Depression Scale (available for free athttp://www.aafp.org/afp/2012/0115/p139.html#afp20120115p139-t5) is brief and sensitive. It is as effective as the 15-item Geriatric Depression Scale and does not require clinician administration.40In patients with depression and dementia, treatment for depression should be initiated first. Pseudodementia, or depression causing cognitive impairment, is diagnosed if the impairment resolves with treatment of the depression."
+        },
+        {
+            "parent": 12,
+            "text": "The standard laboratory evaluation for patients with cognitive impairment includes testing for anemia, hypothyroidism, vitamin B12deficiency, diabetes, and liver and kidney disease.29Testing for neurosyphilis and human immunodeficiency virus infection should be reserved for patients with risk factors. Other testing should be based on patient history or physical examination findings. For example, inflammatory markers may be appropriate in patients with symptoms of vasculitis."
+        },
+        {
+            "parent": 13,
+            "text": "Routine structural neuroimaging in patients with suspected dementia is recommended by the American Academy of Neurology and rated as usually appropriate by the American College of Radiology Appropriateness Criteria.41,42Magnetic resonance imaging without contrast media is the preferred imaging test to exclude other intracranial abnormalities, such as stroke, subdural hematoma, normal-pressure hydrocephalus, or a treatable mass.41,42Magnetic resonance imaging is more sensitive than computed tomography for distinguishing patterns of regional atrophy and therefore may be helpful in determining dementia subtype. Computed tomography is acceptable if magnetic resonance imaging is contraindicated."
+        },
+        {
+            "parent": 13,
+            "text": "Common age-related changes of white matter, small vessel ischemia, and generalized atrophy often result in ventricular enlargement, a finding also associated with normal-pressure hydrocephalus. This can complicate accurate diagnosis because the cardinal symptoms of normal-pressure hydrocephalus (urinary incontinence, gait disturbance, and cognitive impairment) commonly coexist in patients with dementia. The clinical utility of other imaging modalities such as amyloid positron emission tomography scanning has not been established.43"
+        },
+        {
+            "parent": 14,
+            "text": "In patients with rapidly progressive symptoms, CSF analysis should be considered for prion disease or other infectious processes. Testing for CSF 14-3-3 protein is useful when Creutzfeldt-Jakob disease is suspected.41The role of CSF biomarker testing for Alzheimer disease in clinical practice is not yet established."
+        },
+        {
+            "parent": 15,
+            "text": "Genetic testing for the apolipoprotein E4 allele is not recommended as part of the evaluation for cognitive impairment, although adult children of persons with Alzheimer disease may request testing for themselves.44Each person inherits a combination of apolipoprotein E alleles from his or her parents. In patients with Alzheimer dementia, the relative risk of having one or more copies of the apolipoprotein E4 allele is approximately 2.45,46However, multiple other genetic mutations are involved in the development of dementia. Referral for genetic testing should be considered in patients with multiple family members who were diagnosed with Alzheimer disease at a young age in an autosomal dominant pattern."
+        },
+        {
+            "parent": 15,
+            "text": "This article updates previous articles on this topic bySimmons, et al.,30Adelman and Daly,47andSantacruz and Swagerty.48"
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms dementia, Alzheimers, diagnosis, risk factors, cognitive assessment, medications, neuroimaging, and laboratory. Also searched were the Cochrane Database of Systematic Reviews and Essential Evidence Plus. Search dates: October and December 2016; and April, June, and October 2017."
+        },
+        {
+            "parent": 15,
+            "text": "Editor's Note:The Mini-Mental State Examination (MMSE) had been freely available and widely disseminated after first being released in 1975. However, starting in 2000, its authors (Dr. Folstein and others) began enforcing their copyright and in 2001 arranged for Psychological Assessment Resources (PAR) to manage worldwide rights. PAR insists that all users register with their site, complete a four-page permissions request form, and purchase MMSE forms ($74 for 50 forms) and a test manual ($86) [costs as of January 2018]. Seehttps://www.parinc.com/Resources/Permissions-and-licensing. Unfortunately, the creators of the Montreal Cognitive Assessment (MoCA) have followed suit by requiring training and certification to administer the test with restricted use starting in 2021. The training is one hour, and the cost is $125 for the initial two years of certification, which will then require renewal. Seehttps://www.mocatest.org/. This commercialization of a cognitive screening test seems antithetical to the advancement of science and the practice of medicine. As long as copyright holders of these tools restrict their use, clinicians should know that there are alternatives to the MMSE and MoCA, including the Saint Louis University Mental Status (SLUMS) examinationhttps://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/assessment-tools/mental-status-exam.php, which has been shown to be more sensitive than the MMSE.—Jay Siwek, MD, Editor Emeritus; Sumi Sexton, MD, Editor in Chief"
+        },
+        {
+            "parent": 15,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the U.S. Air Force Medical Department or the U.S. Air Force at large."
+        }
+    ],
+    "locked": false
+}

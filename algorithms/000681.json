@@ -1,0 +1,133 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/1215/p2474.html#afp20051215p2474-f1",
+    "title": "Management of Staphylococcus aureus Infections | AAFP",
+    "author": "DAVID M. BAMBERGER, M.D., AND SARAH E. BOYD, M.D.",
+    "doi": "Am Fam Physician.2005;72(12):2474-2481",
+    "abstract": "Because of high incidence, morbidity, and antimicrobial resistance,Staphylococcus aureusinfections are a growing concern for family physicians. Strains ofS. aureusthat are resistant to vancomycin are now recognized. Increasing incidence of unrecognized community-acquired methicillin-resistantS. aureusinfections pose a high risk for morbidity and mortality. Although the incidence of complexS. aureusinfections is rising, new antimicrobial agents, including daptomycin and linezolid, are available as treatment.S. aureusis a common pathogen in skin, soft-tissue, catheter-related, bone, joint, pulmonary, and central nervous system infections.S. aureusbacteremias are particularly problematic because of the high incidence of associated complicated infections, including infective endocarditis. Adherence to precautions recommended by the Centers for Disease Control and Prevention, especially handwashing, is suboptimal.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Antimicrobial Therapy",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Skin and Soft-Tissue Infections",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Bacteremia",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Catheter-Related Infections",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Osteomyelitis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Joint Infections",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Pulmonary Infections",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Central Nervous System Infections",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Approximately 20 percent of healthy persons are persistent carriers ofStaphylococcus aureus, and 60 percent are intermittent carriers. Colonization rates are increased in hemodialysis patients, illicit injection drug users, surgical patients, and patients with insulin-dependent or poorly controlled diabetes.1The National Nosocomial Infections Surveillance System2found that 60 percent of hospital-acquiredS. aureusisolates in 2003 were methicillin-resistantS. aureus(MRSA). Hospitalized patients withS. aureusinfection have five times the risk of in-hospital mortality compared with inpatients without this infection.3"
+        },
+        {
+            "parent": -1,
+            "text": "Community-acquired MRSA infections, which usually cause skin and soft-tissue infections, have become more common.4,5Occurrence of these infections has increased in athletes, military recruits, children, Pacific Islanders, Alaskan Natives, Native Americans, men who have sex with men, and prison inmates.6"
+        },
+        {
+            "parent": -1,
+            "text": "These isolates often are associated with the Panton-Valentine leukocidin and type IV staphylococcal cassette chromosome, which are not typical of hospital-acquired MRSA. Post-influenza pneumonias,7necrotizing fasciitis, pyomyositis,8and Waterhouse-Friderichsen syndrome9caused by community-acquired MRSA also have been observed."
+        },
+        {
+            "parent": 0,
+            "text": "Table 1lists the costs of antibiotic therapy forS. aureusinfections. Antimicrobial therapy should be guided by the susceptibility profile of the organism.6Beta-lactamase–producing strains of methicillin-susceptibleS. aureus(MSSA) preferably are treated with a semi-synthetic penicillin (e.g., intravenous nafcillin, oxacillin [Bactocill], oral dicloxacillin [Dynapen]) in patients not allergic to penicillin. First-generation cephalosporins (e.g., oral cephalexin [Keflex], intravenous cefazolin [Ancef]) are an alternative. Vancomycin (Vancocin) should only be used for the treatment of MSSA in patients allergic to penicillins because of overuse and development of resistant organisms, and because clearance of bacteremia may be slow.10"
+        },
+        {
+            "parent": 0,
+            "text": "Vancomycin is preferred for treatment in severe MRSA infections and is used only intravenously because the oral formulation is not readily absorbed from the gastrointestinal tract. Vancomycin-intermediate susceptible and vancomycin-resistant strains ofS. aureushave been reported. Even in patients with vancomycin-susceptible MRSA, there have been reports of treatment failure with vancomycin, which is thought to be because of heterogeneous subpopulations with varying susceptibility to vancomycin,11or associated with the presence of the regulatory gene agr group II polymorphism.12"
+        },
+        {
+            "parent": 0,
+            "text": "Linezolid (Zyvox) has bacteriostatic activity againstS. aureusand is approved for treatment of complicated skin and soft-tissue infections and pneumonia in adults and children. It is included in the oxazolidinone class of drugs and has parenteral and oral formulations, with good oral bioavailability. One retrospective analysis13of a database from a prospective randomized trial suggested enhanced effectiveness of linezolid compared with vancomycin in MRSA nosocomial pneumonia. The rationale may be related to enhanced concentrations of linezolid in lung epithelial lining fluid. The main adverse event associated with linezolid is bone marrow suppression, especially thrombocytopenia, which is increased with dosage and duration of therapy. Coadministration of selective serotonin reuptake inhibitors and adrenergic drugs should be avoided because of central nervous system toxicity."
+        },
+        {
+            "parent": 0,
+            "text": "Daptomycin (Cubicin), from a new class of cyclic lipopeptides, is an antibiotic with activity against MSSA and MRSA. It is rapidly bactericidal againstS. aureusin vitro; approved for adults with complicated skin and soft-tissue infections14; highly bound to serum proteins but has poor penetration in lung tissue; and inactivated by surfactant, so it should not be used for pulmonary infections. Creatinine kinase levels should be monitored during therapy because there have been reports of muscle toxicity. Daptomycin only is available for intravenous administration, and the recommended dosage is 4 mg per kg over 30 minutes by intravenous infusion in 0.9 percent sodium chloride once daily for one to two weeks."
+        },
+        {
+            "parent": 0,
+            "text": "Community-acquired MRSA isolates often are susceptible to fluoroquinolones, trimethoprim/sulfamethoxazole (Bactrim, Septra), tetracyclines, and clindamycin (Cleocin). If the infection site is superficial, it may be reasonable to treat it with one of these agents. On the basis of minimal inhibitory concentration testing, community-acquired MRSA may be reported by the laboratory as susceptible to clindamycin and resistant to erythromycin. In these cases, clindamycin may have inducible resistance that could emerge on therapy, so the laboratory can perform a double-disc diffusion test to check for inducible resistance and determine true susceptibility.15"
+        },
+        {
+            "parent": 1,
+            "text": "S. aureusis associated with various skin and soft-tissue infections including folliculitis, impetigo, furuncles, carbuncles, hidradenitis suppurativa, and cellulitis. Management depends on extent of involvement. Wound care and drainage may be all that is necessary in small localized lesions. Localized impetigo may be treated topically with mupirocin (Bactroban). Systemic antibiotics are used for cellulitis or in the presence of systemic symptoms. Short courses (i.e., five to 14 days) are recommended(Table 2). Larger carbuncles or localized abscesses require incision and drainage. Because of the increasing concern of community-acquired MRSA, purulent lesions that require systemic therapy should be cultured so that antimicrobial susceptibility testing can be performed, and initial empiric treatment should consider the local prevalence of community-acquired MRSA.8"
+        },
+        {
+            "parent": 1,
+            "text": "S. aureus, mediated by toxin production, also can cause toxic shock syndrome and staphylococcal scalded skin syndrome. Toxic shock syndrome manifests as fever, hypotension, a macular rash that later desquamates, and multiple organ dysfunction. Management includes removal of the focus ofS. aureus(e.g., abscess drainage or tampon removal) and use of a betalactamase–resistant antistaphylococcal antibiotic in combination with clindamycin, which has the potential of reducing toxin production. Management of staphylococcal scalded skin syndrome often requires intravenous antibiotics and potentially drainage of lesions, which are the basis of the infection with the toxin-producing strains."
+        },
+        {
+            "parent": 2,
+            "text": "S. aureusbacteremia may lead to several complications including infective endocarditis, sepsis, or metastatic foci of infection. About 12 percent of patients withS. aureusbacteremia have infective endocarditis.16Transesophageal echocardiography is superior to transthoracic echocardiography in diagnosis of perivalvular abscess, prosthetic valve involvement, and recognizing smaller vegetations. Transthoracic echocardiography helps secure the diagnosis of infective endocarditis and predict serious intracardiac complications.17A cost-effectiveness study18suggested that in clinically uncomplicated catheter-associatedS. aureusbacteremia, the use of transesophageal echocardiography was cost-effective compared with two or four weeks of empiric antimicrobial therapy, although this issue remains controversial. Consultation with an infectious diseases sub-specialist may be beneficial.19An algorithm for the management ofS. aureusbacteremia is provided inFigure 1."
+        },
+        {
+            "parent": 3,
+            "text": "Guidelines from the Infectious Diseases Society of America20recommend removal of non-tunneled central venous catheters associated withS. aureusbacteremia. A tunneled (i.e., Hickman catheter) or implantable device should be removed if there is purulence or erythema at the exit site or along the tunnel, evidence of pocket infection, or if it is associated with a complicated deep-seated infection. Transesophageal echocardiography is recommended in the evaluation of catheter-related bloodstream infections. In the absence of endocarditis, septic phlebitis, or deep-seated infection, 14 days of systemic antimicrobial therapy is recommended.20Attempting to salvage the catheter in patients with uncomplicated infections should include antibiotic lock therapy (i.e., filling the catheter lumen with high concentrations of antibiotics and leaving them there for hours to days) with two weeks of parenteral antimicrobial therapy.20The catheter should be removed if there is persistent bacteremia for 72 or more hours of therapy, clinical deterioration, or relapse of bacteremia. A beta-lactam (i.e., nafcillin) is the drug of choice for patients with MSSA not allergic to penicillin; vancomycin is preferred for MRSA catheter-associated infections.20"
+        },
+        {
+            "parent": 4,
+            "text": "S. aureusis the most commonly isolated micro-organism in osteomyelitis, and more than one third of these isolates may be MRSA.21Hematogenous spread ofS. aureuscan lead to vertebral osteomyelitis and potentially epidural abscess formation. Treatment forS. aureusosteomyelitis should include at least four to six weeks of antimicrobial therapy.22Patients with vertebral osteomyelitis, especially in the presence of neurologic symptoms, should be evaluated with magnetic resonance imaging for epidural abscess formation. In children, hematogenous spread often causes long bone osteomyelitis. Short courses (i.e., two weeks) of intravenous antibiotics followed by another two to four weeks of oral antibiotics may be used in children who respond promptly to initial antibiotics and have no complications.23In addition to prolonged antimicrobial therapy, surgical therapy usually is required in osteomyelitis secondary to a contiguous focus of infection, usually observed after orthopedic surgery or trauma. Infected hardware generally requires removal, which may be delayed with use of oral antimicrobials until stability is ensured if there is bone nonunion.24"
+        },
+        {
+            "parent": 5,
+            "text": "S. aureusis a major pathogen in joint infections. Although there is limited evidence regarding treatment, it usually is managed using drainage combined with a four-week course of antimicrobials. During the last two weeks, antimicrobials sometimes are given orally to patients without bacteremia. Prosthetic joint infections are difficult to eradicate with the foreign material in place and usually require removal of the prosthesis followed by antibiotics for four to six weeks to treat the infection. Limited data indicate that early-onset infected joint prostheses may be treated with early debridement and prolonged courses of a quinolone plus rifampin (Rifadin) without prosthesis removal.25"
+        },
+        {
+            "parent": 6,
+            "text": "S. aureuspneumonia may be caused by hematogenous spread or aspiration and is a common pathogen in nosocomial pneumonias.S. aureuscommunity-acquired pneumonia occurs more commonly after influenza infection, and community-acquired MRSA associated with the Panton-Valentine leukocidin has been described.7Results of chest radiographs can vary in presentation from localized consolidation to abscess to multilobe diffuse infiltrates. Empyema is caused by extension of local pneumonia. Therapy includes chest-tube drainage, and thorascopic or open drainage occasionally is required.26"
+        },
+        {
+            "parent": 7,
+            "text": "S. aureusis estimated to cause approximately 2 percent of all bacterial meningitis cases from a hematogenous or postoperative source. Eighty-four percent of patients with postoperativeS. aureusmeningitis had a catheter in place, typically a shunt or epidural catheter.27Such devices need to be removed and replaced after the infection has cleared."
+        },
+        {
+            "parent": 7,
+            "text": "S. aureuscauses about 10 to 15 percent of brain abscesses and 60 to 90 percent of epidural abscesses and septic venous thromboses. Surgical or radiographic drainage usually is required, but some small abscesses in patients without neurologic deficits have responded to medical therapy.28"
+        },
+        {
+            "parent": 8,
+            "text": "Contact precautions recommended by the Centers for Disease Control and Prevention for hospitalized patients with MRSA include use of a private room, wearing gloves on entering the room, wearing a gown if contact with the patient or items in the room is anticipated, and handwashing on removal of the gloves.29Despite these guidelines, nosocomial MRSA has been increasing in frequency.2It is not clear that these guidelines are effective in controlling MRSA,30,31and well-designed randomized controlled studies have not been performed. Adherence to the guidelines has been suboptimal, and hand-washing in particular is inadequate. About 5 percent of hospitalized patients are colonized with MRSA. Advocates have suggested that more active surveillance using preemptive isolation and screening of patients, with stricter adherence to contact precautions and handwashing, may be more successful.29"
+        },
+        {
+            "parent": 8,
+            "text": "Topical mupirocin is effective in reducing nasal colonization ofS. aureus,32but the use of topical mupirocin to reduce the risk of surgical or nonsurgical infections caused byS. aureushas not been reliably successful.33,34It also is not clear that topical mupirocin reduces MRSA colonization.35Attempts at combining topical mupirocin with antibacterial baths (e.g., in chlorhexidine or systemic agents) deserve further study."
+        }
+    ],
+    "locked": false
+}

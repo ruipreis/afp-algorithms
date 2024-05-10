@@ -1,0 +1,120 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/1201/p1277.html#afp20081201p1277-f1",
+    "title": "Pharmacologic Management of Hypertension in Patients with Diabetes | AAFP",
+    "author": "KAREN L. WHALEN, PharmD, AND ROBERT D. STEWART, PharmD",
+    "doi": "Am Fam Physician.2008;78(11):1277-1282",
+    "abstract": "Hypertension is a common comorbidity in patients with diabetes, and adequate control of blood pressure significantly reduces the risk of macrovascular and microvascular complications. Patients with diabetes should achieve a target blood pressure of less than 130/80 mm Hg. The use of angiotensin-converting enzyme inhibitors may slow progression to kidney failure and cardiovascular mortality; these agents are the preferred therapy for managing coexisting diabetes and hypertension. Angiotensin receptor blockers can prevent progression of diabetic kidney disease and are a first-line alternative for patients intolerant of angiotensin-converting enzyme inhibitors. Thiazide diuretics provide additional antihypertensive effects when combined with angiotensin-converting enzyme inhibitors or angiotensin receptor blockers. With lower doses of these drugs, the risk of clinically significant metabolic alterations is minimal. Beta blockers and calcium channel blockers also have beneficial effects in managing hypertension in patients with diabetes. Beta blockers reduce cardiovascular events and are useful in a multidrug regimen. Dihydropyridine calcium channel blockers should be reserved for patients intolerant of preferred agents or those who need additional therapy to achieve target blood pressure. Many patients with diabetes require combination therapy with multiple antihypertensive agents.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Guideline Recommendations",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pharmacologic Therapy",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "ACE INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ANGIOTENSIN RECEPTOR BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIURETICS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CALCIUM CHANNEL BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Approach to the Patient",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Approximately 23.6 million adults in the United States have diabetes.1Hypertension is a common comorbidity in these patients; it is 1.5 to three times more common in patients with diabetes than in those who do not have the disease.2,3Heart disease and stroke account for 65 percent of deaths in patients with diabetes,4and hypertension is a major risk factor for these macrovascular complications. In addition, hypertension markedly increases the risk of microvascular complications, such as nephropathy and retinopathy.2,3The U.K. Prospective Diabetes Study (UKPDS) 38 showed that tight control of blood pressure is associated with significant reductions in the risk of stroke, macrovascular complications, and diabetes-related mortality.5In the Hypertension Optimal Treatment trial, patients with diabetes whose diastolic blood pressure (DBP) was less than 80 mm Hg had a 50 percent reduction in major cardiovascular events compared with those whose DBP was less than 90 mm Hg.6Controlling hypertension is key to reducing cardiovascular risk in patients with diabetes. It is an integral component of a comprehensive care plan that should include optimal management of diabetes and hyperlipidemia, aspirin therapy, and lifestyle modifications."
+        },
+        {
+            "parent": 0,
+            "text": "Evidence supports aggressive blood pressure targets in patients with diabetes. Consensus guidelines from the Joint National Committee on the Prevention, Detection, Evaluation, and Treatment of High Blood Pressure7; the American Diabetes Association (ADA)8; and the National Kidney Foundation (NKF)9recommend a blood pressure goal of less than 130/80 mm Hg in patients with diabetes. The ADA also recommends that blood pressure be measured at each patient encounter.2,8Patients with diabetes whose systolic blood pressure is between 130 and 139 mm Hg or whose DBP is between 80 and 89 mm Hg are candidates for a three-month trial of lifestyle modifications (Table 12,7,10).7,8Patients who do not achieve a blood pressure of less than 130/80 mm Hg with lifestyle modifications, and those whose blood pressure is greater than 140/90 mm Hg, should be treated with pharmacologic therapy. Because of concerns that excessive lowering of DBP may be associated with an increase in cardiovascular events, blood pressure should be reduced gradually. Lowering DBP to less than 60 mm Hg is not recommended, particularly in patients with coexisting coronary artery disease (CAD).7,11"
+        },
+        {
+            "parent": 2,
+            "text": "Angiotensin-converting enzyme (ACE) inhibitors prevent or delay microvascular and macrovascular complications of diabetes and are recommended as first-line antihypertensive agents in patients with diabetes.2,8,9ACE inhibitors delay progression of diabetic kidney disease7–9and are more effective than other medications in delaying the onset of kidney failure (i.e., glomerular filtration rate [GFR] of less than 15 mL per min per 1.73 m2or need for dialysis) in patients who have hypertension and type 1 diabetes with macroalbuminuria.9The Heart Outcomes Prevention Evaluation trial randomized patients with diabetes and at least one other cardiovascular risk factor to 10 mg of ramipril (Altace) daily or placebo.12Patients in the treatment group had significantly lower all-cause mortality rates (10.8 versus 14.0 percent; number needed to treat [NNT] = 32) and a lower risk of death from the combined outcome of myocardial infarction (MI), stroke, or other cardiovascular events (15.3 versus 19.8 percent; NNT = 23). A systematic review of the use of ACE inhibitors in patients with diabetic kidney disease showed that treatment at maximum tolerable dosages was associated with a significant reduction in the risk of all-cause mortality.13Treatment with dosages of up to one half the maximum did not reduce all-cause mortality rates.13Because ACE inhibitors reduce complications of diabetes, patients with hypertension and diabetes should be treated with a regimen that includes an ACE inhibitor (or an angiotensin receptor blocker [ARB] if an ACE inhibitor is not tolerated).8"
+        },
+        {
+            "parent": 2,
+            "text": "The NKF recommends ACE inhibitors or ARBs as preferred agents for the treatment of hypertension in patients with diabetes and stage 1, 2, 3, or 4 chronic kidney disease.9However, initiation of an ACE inhibitor or ARB may cause a transient reduction in GFR and a resultant increase in serum creatinine levels.14Therefore, some physicians may be reluctant to continue these drugs, particularly in patients with underlying kidney disease. Transient elevations of less than 30 percent above baseline are associated with subsequent preservation of renal function and should not be considered grounds for cessation of therapy.14–16An acute increase in the serum creatinine level of greater than 30 percent or the development of hyperkalemia should prompt dosage reduction or discontinuation of the ACE inhibitor or ARB.14,15"
+        },
+        {
+            "parent": 3,
+            "text": "Like ACE inhibitors, ARBs reduce the complications of diabetes (e.g., progression of kidney disease), and they are preferred agents for managing hypertension in patients with diabetes.8In a randomized controlled trial (RCT) of patients with type 2 diabetes and early nephropathy, telmisartan (Micardis) demonstrated non-inferiority compared with enalapril (Vasotec) in preventing reductions in GFR.17No patient developed end-stage renal disease during the five-year study, and the number of cardiovascular events and overall deaths was similarly low in both groups."
+        },
+        {
+            "parent": 3,
+            "text": "ARBs are effective in delaying the onset of kidney failure in patients with type 2 diabetes, hypertension, and macroalbuminuria.8,9,18,19A large RCT found that use of losartan (Cozaar) significantly reduced progression to end-stage renal disease compared with placebo (19.6 versus 25.5 percent; NNT = 17).18Patients who received losartan had a lower incidence of heart failure requiring hospitalization; however, cardiovascular and all-cause mortality did not differ between the treatment and control groups.18Similarly, a systematic review of the use of ARBs in patients with diabetic kidney disease found no significant reduction in all-cause mortality compared with placebo.13Because of their higher cost and lack of proven benefit in reducing mortality rates in patients with diabetes and kidney disease, ARBs should be reserved for patients who cannot tolerate ACE inhibitors."
+        },
+        {
+            "parent": 3,
+            "text": "The renoprotective effects of ACE inhibitors and ARBs are independent of blood pressure–lowering properties. Therefore, the combination of an ACE inhibitor and an ARB is an option in carefully selected patients with persistent macroalbuminuria despite controlled blood pressure.9Although this drug combination has a greater antiproteinuric effect than either agent alone, there is no evidence that it improves patient-oriented outcomes more than either agent alone or other drug combinations.9"
+        },
+        {
+            "parent": 4,
+            "text": "Thiazide diuretics, either as monotherapy or as part of a combination regimen, are beneficial in the treatment of hypertension in patients with diabetes.7In the Systolic Hypertension in the Elderly Program, chlorthalidone (Thalitone) reduced cardiovascular and cerebrovascular events in patients with type 2 diabetes and isolated systolic hypertension.20The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT) showed no significant difference in rates of fatal coronary heart disease (CHD), nonfatal MI, or total mortality in patients with diabetes who were treated with a chlorthalidone-based regimen compared with those treated with lisinopril (Prinivil) or amlodipine (Norvasc).21In addition, patients treated with chlorthalidone had a lower incidence of heart failure. Thiazide diuretics are less effective in patients with diminished renal function3; patients with a GFR of less than 50 mL per min per 1.73 m2may require a loop diuretic.8Metabolic alterations are a potential concern with the use of thiazide diuretics. Higher dosages have been linked to elevations in cholesterol and triglyceride levels and loss of glycemic control; however, these dosages are not routinely used in clinical practice.3,22When used in low or moderate dosages (i.e., up to 25 mg of hydrochlorothiazide per day), the risk of clinically significant alterations in glucose metabolism is minimal. More importantly, these drugs reduce the risk of cardiovascular events and all-cause mortality.7,21,22"
+        },
+        {
+            "parent": 5,
+            "text": "Beta blockers are a useful adjunct when combination therapy is needed to achieve target blood pressure in patients with diabetes.7These agents have additional antihypertensive effects when combined with ACE inhibitors in patients with a baseline pulse rate greater than 84 beats per minute.16In the UKPDS 39 trial, atenolol (Tenormin) was comparable with an ACE inhibitor in reducing the incidence of microvascular complications, MI, diabetes-related deaths, and all-cause mortality.23In addition, beta blockers significantly decrease post-MI mortality rates and mortality associated with heart failure.2,3,11Beta blockers are an important component of antihypertensive regimens in patients who have diabetes, CAD, and stable angina.7,9,11"
+        },
+        {
+            "parent": 5,
+            "text": "In the past, physicians were hesitant to use beta blockers in patients with diabetes because of the concern that hypoglycemic symptoms could be masked or that recovery from hypoglycemia could be blunted. However, UKPDS 39 showed no difference in the rates of minor or major hypoglycemic episodes in patients treated with atenolol compared with those treated with captopril (Capoten).23Similarly, there have been concerns about the potential of beta blockers to worsen insulin sensitivity and glucose intolerance.7,24However, these changes are usually of little clinical significance and can be managed through adjustment of the diabetes therapy, if necessary. For most patients, the benefit of reduced cardiovascular morbidity and mortality outweighs the relatively minor risk of alterations in metabolic control.3,7"
+        },
+        {
+            "parent": 5,
+            "text": "Carvedilol (Coreg) is less likely than traditional beta blockers to worsen insulin sensitivity in patients with diabetes.24,25This has been attributed to vasodilating effects related to its alpha1-blocking properties. However, it is not known if the more neutral metabolic effects lead to reduced morbidity and mortality rates."
+        },
+        {
+            "parent": 6,
+            "text": "Dihydropyridine calcium channel blockers (CCBs) reduce cardiovascular events in patients with diabetes and hypertension; however, they may be inferior to other agents in some cardiovascular outcomes.7,26In the Systolic Hypertension in Europe trial, patients treated with nitrendipine (not available in the United States) had a significant reduction in cardiovascular events and mortality compared with the control group, but many patients also received ACE inhibitors or diuretics to attain target blood pressure.26The ALLHAT study found no significant difference in the incidence of nonfatal MI, fatal CHD, and all-cause mortality in patients treated with amlodipine compared with those treated with a diuretic; however, amlodipine was associated with a higher rate of heart failure (relative risk = 1.39; 95% confidence interval, 1.22 to 1.59).21Two large RCTs found a significantly greater risk of fatal and nonfatal MI in patients with type 2 diabetes who were treated with a dihydropyridine CCB compared with those treated with an ACE inhibitor.27,28Cardiovascular and all-cause mortality rates were not significantly different between the two antihypertensive treatments."
+        },
+        {
+            "parent": 6,
+            "text": "A large RCT showed that cardiovascular morbidity and mortality rates in patients treated with a nondihydropyridine CCB (verapamil [Calan, Isoptin]) were comparable with those in patients who received a beta blocker–based regimen.29A second trial found similar results when a verapamil-based regimen was compared with a beta blocker– or diuretic-based regimen.30"
+        },
+        {
+            "parent": 6,
+            "text": "Dihydropyridine and nondihydropyridine CCBs are less effective than ACE inhibitors and ARBs in slowing progression of diabetic kidney disease.9In one large RCT, amlodipine was less effective than irbesartan (Avapro) and no more effective than placebo in reducing progression to end-stage renal disease.19Because CCBs may be inferior in some patient-oriented outcomes in those with diabetes, they should be reserved for patients who cannot tolerate preferred agents or those who need additional agents to achieve target blood pressure.2,9"
+        },
+        {
+            "parent": 7,
+            "text": "Most patients with diabetes require combination therapy to attain a blood pressure of less than 130/80 mm Hg.2,7–9Antihypertensive medications with different mechanisms of action should be used. Many fixed-dose combinations are available and should be considered if more than one agent is needed to control blood pressure.3Figure 1provides a suggested approach to the management of hypertension in patients with diabetes.7–9"
+        },
+        {
+            "parent": 7,
+            "text": "When the target blood pressure is not achieved with lifestyle modifications, ACE inhibitors are recommended as first-line therapy.2,8,9ARBs may be used in patients who cannot tolerate ACE inhibitors. If adequate titration of the ACE inhibitor or ARB does not provide satisfactory blood pressure reduction, the addition of a thiazide diuretic is the next step.8,9In patients with significant renal insufficiency, a loop diuretic may be used instead; however, there is not sufficient data from clinical trials to support this recommendation. For most patients, beta blockers or CCBs are third-line agents.9"
+        },
+        {
+            "parent": 7,
+            "text": "If blood pressure is not controlled with the addition of a beta blocker, a CCB should be added (or vice versa). In general, the combination of a beta blocker and a non-dihydropyridine CCB should be avoided because of the risk of bradycardia and heart block. Alternative agents, such as alpha blockers and hydralazine, may be considered in patients with resistant hypertension. These patients should be evaluated for adherence, and referral to a subspecialist should be considered.2,8Secondary causes of hypertension should always be considered when assessing elevated blood pressure."
+        }
+    ],
+    "locked": false
+}

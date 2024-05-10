@@ -1,0 +1,152 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0701/p27.html#afp20150701p27-f1",
+    "title": "Management of Blood Glucose with Noninsulin Therapies in Type 2 Diabetes | AAFP",
+    "author": "CHRISTA M. GEORGE, PharmD, LUCY L. BRUIJN, MD, MPH, KAYLEY WILL, PharmD, AND AMANDA HOWARD-THOMPSON, PharmD",
+    "doi": "Am Fam Physician.2015;92(1):27-34",
+    "abstract": "A comprehensive, collaborative approach is necessary for optimal treatment of patients with type 2 diabetes mellitus. Treatment guidelines focus on nutrition, exercise, and pharmacologic therapies to prevent and manage complications. Patients with prediabetes or new-onset diabetes should receive individualized medical nutrition therapy, preferably from a registered dietitian, as needed to achieve treatment goals. Patients should be treated initially with metformin because it is the only medication shown in randomized controlled trials to reduce mortality and complications. Additional medications such as sulfonylureas, dipeptidyl-peptidase-4 inhibitors, thiazolidinediones, and glucagon-like peptide-1 receptor agonists should be added as needed in a patient-centered fashion. However, there is no evidence that any of these medications reduce the risk of diabetes-related complications, cardiovascular mortality, or all-cause mortality. There is insufficient evidence on which combination of hypoglycemic agents best improves health outcomes before escalating to insulin therapy. The American Diabetes Association recommends an A1C goal of less than 7% for many nonpregnant adults, with the option of a less stringent goal of less than 8% for patients with short life expectancy, cardiovascular risk factors, or long-standing diabetes. Randomized trials in middle-aged patients with cardiovascular risk factors have shown no mortality benefit and in some cases increased mortality with more stringent A1C targets.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Lifestyle Management",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Management of Blood Glucose Levels",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "BIGUANIDES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "SULFONYLUREAS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIPEPTIDYL-PEPTIDASE-4 INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "THIAZOLIDINEDIONES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "MISCELLANEOUS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Approach to the Patient",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "A1C GOALS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "INITIAL MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MONITORING GLUCOSE LEVELS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Treatment of type 2 diabetes mellitus begins with a comprehensive and collaborative approach. The American Diabetes Association (ADA) treatment guidelines focus on medical nutrition therapy, exercise, pharmacologic therapy, and the prevention and management of diabetes-related complications.1Selected major trials that form the basis for treatment recommendations are listed ineTable A. There is no evidence demonstrating the impact on complications or mortality for the newer agents described in this article."
+        },
+        {
+            "parent": 0,
+            "text": "Lifestyle and nutrition counseling is essential for patients with prediabetes or new-onset diabetes to slow the progression of type 2 diabetes.2–5Current ADA recommendations state that medical nutrition therapy should remain part of the treatment plan after pharmacotherapy is initiated.2In a large, randomized, multicenter trial, patients were assigned to an intensive lifestyle intervention group or to a diabetes support and education group. The intensive intervention consisted of baseline diabetes education; frequent individual and group counseling from dietitians, behavioral psychologists, and exercise specialists; caloric restriction; and regular exercise. Participants in the intensive intervention group achieved an average weight loss of 8.6% of their initial body weight (P< .001), which was associated with a statistically significant decrease in the number of diabetic and antihypertensive medications used at the end of the one-year follow-up period.3The intensive intervention group also achieved a statistically significant improvement in glycemic control, blood pressure, and high-density lipoprotein cholesterol and triglyceride levels compared with the control group."
+        },
+        {
+            "parent": 0,
+            "text": "A subsequent study analyzed the weight-loss strategies used by the patients in the intensive intervention group and found that weekly self-weighing, regular consumption of breakfast, and reduced intake of fast food were associated with a lower body mass index in overweight patients.4However, an analysis of this study showed that there was no difference in cardiovascular events between the intensive intervention group and the diabetes support and education group.6The ADA recommends that patients with prediabetes or diabetes receive individualized medical nutrition therapy, preferably from a registered dietitian, to achieve treatment goals.1,2This recommendation is based on studies showing that medical nutrition therapy decreases A1C level, weight, waist circumference, and triglyceride level, and increases health-related quality of life.5"
+        },
+        {
+            "parent": 1,
+            "text": "Medications for type 2 diabetes target multiple sites throughout the body to lower blood glucose levels(eTable B). The ADA recommends starting therapy with metformin, because it is the only medication shown to reduce mortality and complications in randomized controlled trials (RCTs).7Additional medications should be added in a patient-centered, individualized fashion, although there is no evidence from RCTs that any of these medications reduce the risk of diabetes-related complications, cardiovascular mortality, or all-cause mortality.1A 2011 comparative effectiveness review showed that metformin, second-generation sulfonylureas, thiazolidinediones, and repaglinide (Prandin) lowered A1C levels by about 1% when used as monotherapy and that combination therapies showed an additive effect on A1C levels.8Table 1lists common hypoglycemic agents for treating type 2 diabetes.1,9Table 2lists typical doses and costs of common hypoglycemic agents.10"
+        },
+        {
+            "parent": 2,
+            "text": "Metformin is the initial agent to reduce microvascular complications, assist in weight management, reduce the risk of cardiovascular events, and reduce the risk of mortality in patients with type 2 diabetes.1,7,11It may be considered in patients with diagnosed prediabetes, especially those with a body mass index greater than 35 kg per m2, those younger than 60 years, or women with a history of gestational diabetes. Metformin is either weight neutral or induces moderate weight loss, and it reduces mortality and cardiovascular events in patients with type 2 diabetes.11Even if patients advance to insulin therapy, metformin use should be continued for these reasons. To combat potential gastrointestinal adverse effects, physicians should prescribe a lower dose initially and titrate slowly or use the extended-release formulation to improve tolerance. Patients should be counseled to take metformin with a meal to lessen the likelihood of adverse effects.12"
+        },
+        {
+            "parent": 2,
+            "text": "According to prescribing information, metformin is contraindicated in men with a serum creatinine level of 1.5 mg per dL (133 μmol per L) or greater and in women with a serum creatinine level of 1.4 mg per dL (124 μmol per L) or greater. However, the 2012 Kidney Disease: Improving Global Outcomes guidelines state that metformin use should be continued in patients with an estimated glomerular filtration rate (GFR) of 45 mL per minute per 1.73 m2or greater; its use should be evaluated in patients with an estimated GFR of 30 to 44 mL per minute per 1.73 m2; and it should be discontinued in patients with an estimated GFR less than 30 mL per minute per 1.73 m2.13,14A Cochrane review pooling data from 347 trials revealed no cases of lactic acidosis in more than 70,000 patient-years of metformin use.15"
+        },
+        {
+            "parent": 3,
+            "text": "Glimepiride (Amaryl), glipizide (Glucotrol), and glyburide are insulin secretagogues with common adverse effects of hypoglycemia and weight gain.1,16These medications should be administered with meals. As a patient's disease progresses, the effectiveness and durability of these medications decrease as pancreatic β-cell function decreases.1,16One advantage to using sulfonylureas as add-on therapy to metformin is cost. All second-generation sulfonylureas are available as generic formulations and are relatively inexpensive.9Since the publication of the University Group Diabetes Program results,17controversy remains over whether sulfonylureas increase mortality in patients with diabetes.18Observational and randomized studies have shown conflicting results.18One review concluded that there is insufficient evidence from RCTs on the safety of sulfonylurea monotherapy.19"
+        },
+        {
+            "parent": 4,
+            "text": "Alogliptin (Nesina), linagliptin (Tradjenta), saxagliptin (Onglyza), and sitagliptin (Januvia) are members of a newer class of oral diabetes medications. When used as monotherapy or in conjunction with metformin, dipeptidyl-peptidase-4 inhibitors have a low risk of hypoglycemia.1,20When used in conjunction with sulfonylureas or insulin, it may be necessary to adjust the dosage of the existing therapy to prevent hypoglycemia. These medications are weight neutral and generally well tolerated. Although their use has been associated with pancreatitis, a cause and effect relationship has not been established. Physicians should monitor for signs and symptoms of pancreatitis, and discontinue therapy if pancreatitis occurs.20Dipeptidyl-peptidase-4 inhibitors are less potent in terms of lowering A1C (0.5% to 0.9%) and more expensive compared with other generically available agents.9"
+        },
+        {
+            "parent": 5,
+            "text": "Pioglitazone (Actos) and rosiglitazone (Avandia) are in the thiazolidinedione class of diabetes medications. Both medications are metabolized by cytochrome P450 enzymes in the liver, so precautions should be taken when given concomitantly with other cytochrome P450 inducers or inhibitors. These medications commonly cause weight gain and edema, which is especially troublesome in patients with congestive heart failure; therefore, these medications are contraindicated in patients with New York Heart Association class III or IV heart failure.9In November 2013, the U.S. Food and Drug Administration (FDA) removed the prescribing restrictions associated with rosiglitazone following the release of the RECORD study, which showed that patients taking rosiglitazone were not at higher risk of heart attack or death compared with patients treated with other medications (hazard ratio [HR] = 0.99; 95% confidence interval [CI], 0.85 to 1.16).21"
+        },
+        {
+            "parent": 5,
+            "text": "In 2011, the FDA warned against the use of pioglitazone in patients with active bladder cancer and cautioned against its use in patients with a history of bladder cancer.22These warnings came after data from two cohort studies showed an increased risk of bladder cancer in patients exposed to pioglitazone. The first study reported an increased risk of bladder cancer in patients who took pioglitazone for more than 24 months compared with patients who had never taken it (HR = 1.4; 95% CI, 1.03 to 2.0).23A second study reported bladder cancer incidence rates of 49.4 cases per 100,000 person-years for patients exposed to pioglitazone vs. 42.8 cases per 100,000 person-years for those with no exposure (adjusted HR = 1.22; 95% CI, 1.05 to 1.43).24"
+        },
+        {
+            "parent": 5,
+            "text": "Additionally, thiazolidinediones have a boxed warning for an increased risk of bone fractures in women, especially of the distal upper and lower limbs.25–28As a result, these medications should generally be avoided in women with concomitant osteoporosis or osteopenia."
+        },
+        {
+            "parent": 6,
+            "text": "Albiglutide (Tanzeum, once weekly), dulaglutide (Trulicity, once weekly), exenatide (Byetta, twice daily; Bydureon, once weekly), and liraglutide (Victoza, once daily) are injectable medications that affect fasting and postprandial glucose levels. They should be avoided in patients with gastroparesis and in those with severe renal impairment, defined as creatinine clearance less than 30 mL per minute per 1.73 m2(0.50 mL per second per m2).9There is a boxed warning for albiglutide, dulaglutide, extended-release exenatide, and liraglutide regarding the occurrence of medullary thyroid carcinoma in rats, although a causal relationship has not been established in humans. These medications are contraindicated in patients with active multiple endocrine neoplasia type 2 or with a personal or family history of medullary thyroid carcinoma. Additionally, this medication class may increase the risk of pancreatitis; proper monitoring is recommended and alternate therapy is required if pancreatitis is confirmed.9,29"
+        },
+        {
+            "parent": 7,
+            "text": "Other therapies have been approved for the treatment of type 2 diabetes, but are less widely used and are not included in the 2014 ADA treatment algorithm.1These medications include the alpha-glucosidase inhibitors acarbose (Precose) and miglitol (Glyset); the meglitinides nateglinide (Starlix) and repaglinide; the bile acid sequestrant colesevelam (Welchol); and the dopamine agonist bromocriptine (Cycloset). These medications are typically expensive, not well tolerated, and only minimally effective."
+        },
+        {
+            "parent": 7,
+            "text": "The amylin analogue pramlintide (Symlin) may be used to treat type 1 or type 2 diabetes. It has a boxed warning for the risk of severe hypoglycemia.30The newest class of medications, the sodium-glucose cotransporter 2 inhibitors canagliflozin (Invokana), dapagliflozin (Farxiga), and empagliflozin (Jardiance), increase urinary glucose excretion by interfering with the reabsorption of glucose in the proximal renal tubule. Despite adverse effects of increased urination, increased genital mycotic infections (in women more often than in men), and increased urinary tract infections, sodium-glucose cotransporter 2 inhibitors are associated with minimal hypoglycemia.31"
+        },
+        {
+            "parent": 8,
+            "text": "Guidelines from the ADA and the American Association of Clinical Endocrinologists recommend a comprehensive, patient-centered approach for achieving and maintaining glycemic control.Figure 1provides multiple pharmacotherapy options based on A1C levels, fasting or postprandial glucose control, weight loss, and adverse effects.1,12,32Although glycemic control is important, addressing other cardiovascular risk factors, such as hyperlipidemia and hypertension, is at least as important but is beyond the scope of this article."
+        },
+        {
+            "parent": 9,
+            "text": "The ADA recommends an A1C goal of less than 7% for many nonpregnant adults, but this recommendation does not apply to all persons with diabetes.1This recommendation is based on pathophysiologic reasoning, expert opinion, and the reduction in microvascular complications shown in the U.K. Prospective Diabetes Study (UKPDS).7,33,34Since that time, however, the study design, interpretation of results, and reporting of results from the UKPDS have been criticized, particularly because tight glycemic control did not result in fewer cardiovascular events or lower mortality in the primary analysis.35–37Secondary analyses have shown a possible benefit to tighter control, but this must be balanced against several large and more recent trials of tight control in the United States that showed either no benefit or adverse effects.38–41Furthermore, a systematic review and meta-analysis of 14 clinical trials showed that intensive glucose control had no significant effect on all-cause mortality in patients with type 2 diabetes compared with conventional control.42It also showed that intensive glucose control increased the relative risk of severe hypoglycemia by 30%."
+        },
+        {
+            "parent": 9,
+            "text": "The ADA states that an A1C goal of less than 6.5% may be reasonable for patients with a short duration of diabetes, a long life expectancy, and no significant cardiovascular disease.1This is based on the UKPDS and a subsequent epidemiologic analysis of the UKPDS, which has also been criticized.33,37,38However, intensive glucose-lowering therapy has no effect on cardiovascular outcomes and has been shown to increase the risk of mortality in patients with long-standing diabetes and risk factors for or established cardiovascular disease39–41(eTable A). Additionally, a retrospective cohort study showed that patients taking oral medications for type 2 diabetes with an A1C level in the lowest decile (median = 6.4%; interquartile range, 6.1% to 6.6%) or highest decile (median = 10.5%; interquartile range, 10.1% to 11.2%) had a significantly higher risk of all-cause mortality compared with patients who had a median A1C level of 7.5%.43Based on these studies, a higher A1C goal such as less than 7.5% to 8.0% is appropriate for patients with a short life expectancy, cardiovascular disease, two or more cardiovascular disease risk factors, or duration of disease of 10 years or more.39–41"
+        },
+        {
+            "parent": 10,
+            "text": "Metformin should be used as initial therapy if there are no contraindications(Figure 11,12,32). If A1C levels remain above goal after three months of therapy, a second agent should be added (e.g., sulfonylurea, thiazolidinedione, dipeptidyl-peptidase-4 inhibitor, glucagon-like peptide-1 receptor agonist, insulin). Dual therapy may be considered if the A1C level is 9% or greater at initial presentation. Progression to triple therapy is recommended if the A1C level is above goal after three months of dual therapy. If a patient presents with severe hyperglycemia or an A1C level of 10% or greater, the ADA recommends that insulin therapy be strongly considered as initial therapy.1,12These recommendations are largely based on expert opinion, because of a lack of comparative effectiveness data.1,12"
+        },
+        {
+            "parent": 11,
+            "text": "To help guide treatment decisions, physicians have traditionally recommended self-monitoring of blood glucose levels.1,44However, recent RCTs have called into question whether this has any effect on glycemic control. A meta-analysis of 12 RCTs found that patients who had diabetes for more than one year and who were randomized to self-monitoring of blood glucose had no additional A1C lowering at 12 months compared with control groups.44An individual patient-level meta-analysis had similar findings.45Although self-monitoring of blood glucose levels may be helpful in patients who are ill or symptomatic or in patients with newly diagnosed type 2 diabetes, it does not result in lower glycemic levels and should not be used on its own to guide treatment.1,44"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources: We searched PubMed using the following terms: type 2 diabetes treatment, prediabetes treatment, hypoglycemic agents, nutrition and diabetes, diabetes and cardiovascular disease. We also used an evidence summary from the online medical reference Essential Evidence Plus. Search dates: April and May 2014, and May 1, 2015."
+        }
+    ],
+    "locked": false
+}

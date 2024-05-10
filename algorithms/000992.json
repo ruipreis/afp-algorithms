@@ -1,0 +1,199 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/1015/p1313.html#afp19981015p1313-f2",
+    "title": "Lymphadenopathy: Differential Diagnosis and Evaluation | AAFP",
+    "author": "ROBERT FERRER, M.D., M.P.H.",
+    "doi": "Am Fam Physician.1998;58(6):1313-1320",
+    "abstract": "Although the finding of lymphadenopathy sometimes raises fears about serious illness, it is, in patients seen in primary care settings, usually a result of benign infectious causes. Most patients can be diagnosed on the basis of a careful history and physical examination. Localized adenopathy should prompt a search for an adjacent precipitating lesion and an examination of other nodal areas to rule out generalized lymphadenopathy. In general, lymph nodes greater than 1 cm in diameter are considered to be abnormal. Supraclavicular nodes are the most worrisome for malignancy. A three- to four-week period of observation is prudent in patients with localized nodes and a benign clinical picture. Generalized adenopathy should always prompt further clinical investigation. When a node biopsy is indicated, excisional biopsy of the most abnormal node will best enable the pathologist to determine a diagnosis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Approach to Lymphadenopathy",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "History",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Physical Examination",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Clinical Evaluation for Algorithm's ‘Suggestive’ Branch",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Mononucleosis-Type Syndromes",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Ulceroglandular Syndrome",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Oculoglandular Syndrome",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "HIV Infection",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Unexplained Lymphadenopathy",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Generalized Lymphadenopathy",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Localized Lymphadenopathy",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Initial Management",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The cause of lymphadenopathy is often obvious: for example, the child who presents with a sore throat, tender cervical nodes and a positive rapid strep test, or the patient who presents with an infection of the hand and axillary lymphadenopathy. In other cases, the diagnosis is less clear. Lymphadenopathy may be the only clinical finding or one of several nonspecific findings, and the discovery of swollen lymph nodes will often raise the specter of serious illness such as lymphoma, acquired immunodeficiency syndrome or metastatic cancer. The physician's task is to efficiently differentiate the few patients with serious illness from the many with self-limited disease. This article reviews the evaluation of patients with a central clinical finding of lymphadenopathy, emphasizing the identification of patients with serious illness."
+        },
+        {
+            "parent": 0,
+            "text": "The body has approximately 600 lymph nodes, but only those in the submandibular, axillary or inguinal regions may normally be palpable in healthy people.1Lymphadenopathy refers to nodes that are abnormal in either size, consistency or number. There are various classifications of lymphadenopathy, but a simple and clinically useful system is to classify lymphadenopathy as “generalized” if lymph nodes are enlarged in two or more noncontiguous areas or “localized” if only one area is involved. Distinguishing between localized and generalized lymphadenopathy is important in formulating a differential diagnosis. In primary care patients with unexplained lymphadenopathy, approximately three fourths of patients will present with localized lymphadenopathy and one fourth with generalized lymphadenopathy(Figure 1).2,3"
+        },
+        {
+            "parent": 1,
+            "text": "Our understanding of the epidemiology of lymphadenopathy in family practice is limited by the scarcity of relevant literature. Only one study4provides reliable population-based estimates. Findings from this Dutch study revealed a 0.6 percent annual incidence of unexplained lymphadenopathy in the general population. Of 2,556 patients in the study who presented with unexplained lymphadenopathy to their family physicians, 256 (10 percent) were referred to a subspecialist and 82 (3.2 percent) required a biopsy, but only 29 (1.1 percent) had a malignancy."
+        },
+        {
+            "parent": 1,
+            "text": "This low prevalence of malignancy is supported by the results of two case series2,3from family practice departments in the United States, in which none of 80 patients and three of 238 patients with unexplained lymphadenopathy were diagnosed with malignancy. In contrast, the prevalence of malignancy in lymph node biopsies performed in referral centers is 40 to 60 percent,5a statistic that has made its way into many textbooks (e.g., “In those more than 30 years of age, however, lymphadenopathy is due to a benign process only 40 percent of the time”6). Such assertions overestimate the probability of malignancy in patients with lymphadenopathy because they exclude the 97 percent of patients with lymphadenopathy who do not undergo a biopsy. In primary care settings, patients 40 years of age and older with unexplained lymphadenopathy have about a 4 percent risk of cancer versus a 0.4 percent risk in patients younger than age 40.4"
+        },
+        {
+            "parent": 2,
+            "text": "The algorithm inFigure 2provides a diagnostic framework for the evaluation of lymphadenopathy. The algorithm emphasizes that a careful history and physical examination are the core of the evaluation. In most cases, a careful history and physical examination will identify a readily diagnosable cause of the lymphadenopathy, such as upper respiratory tract infection, pharyngitis, periodontal disease, conjunctivitis, lymphadenitis, tinea, insect bites, recent immunization, cat-scratch disease or dermatitis, and no further assessment is necessary (see the “diagnostic” branch of the algorithm)."
+        },
+        {
+            "parent": 2,
+            "text": "In other cases, a definitive diagnosis cannot be made on the basis of the history and physical examination alone; however, the clinical evaluation may strongly suggest a particular cause. Confirmatory testing should be performed in order to correctly identify the patient's illness (see the “suggestive” branch of the algorithm)."
+        },
+        {
+            "parent": 2,
+            "text": "A subset of patients will either have unexplained lymphadenopathy after the initial clinical evaluation or have a presumptive diagnosis that is made in the “diagnostic” or “suggestive” branches of the algorithm and is not confirmed by test results or by the clinical course. In patients with unexplained localized lymphadenopathy and a reassuring clinical picture, a three- to four-week period of observation is appropriate before biopsy. Patients with localized lymphadenopathy and a worrisome clinical picture or patients with generalized lymphadenopathy will need further diagnostic evaluation that often includes biopsy (see the “unexplained” branch of the algorithm). Fine-needle aspiration is occasionally considered an alternative to excisional biopsy but often yields a high number of nondiagnostic results because of the small amount of tissue obtained and the inability to examine the architecture of the gland.7In addition, there may be some risk of sinus tract formation, depending on the underlying pathology.8"
+        },
+        {
+            "parent": 3,
+            "text": "The physician should consider four key points when compiling a patient's history.1First, are there localizing symptoms or signs to suggest infection or neoplasm in a specific site? Second, are there constitutional symptoms such as fever, weight loss, fatigue or night sweats to suggest disorders such as tuberculosis, lymphoma, collagen vascular diseases, unrecognized infection or malignancy? Third, are there epidemiologic clues(Table 1)such as occupational exposures, recent travel or high-risk behaviors that suggest specific disorders? Fourth, is the patient taking a medication that may cause lymphadenopathy? Some medications are known to specifically cause lymphadenopathy (e.g., phenytoin [Dilantin]), while others, such as cephalosporins, penicillins or sulfonamides, are more likely to cause a serum sickness-like syndrome with fever, arthralgias and rash in addition to lymphadenopathy(Table 2)."
+        },
+        {
+            "parent": 4,
+            "text": "When lymphadenopathy is localized, the clinician should examine the region drained by the nodes for evidence of infection, skin lesions or tumors(Table 3). Other nodal sites should also be carefully examined to exclude the possibility of generalized rather than localized lymphadenopathy. This is an important aspect of the examination, as a study of primary care physicians found that generalized lymphadenopathy was identified in only 17 percent of the patients in whom it was present.9Careful palpation of the submandibular, anterior and posterior cervical, supraclavicular, axillary and inguinal nodes can be accomplished in a short time and will identify patients with generalized lymphadenopathy."
+        },
+        {
+            "parent": 4,
+            "text": "If lymph nodes are detected, the following five characteristics should be noted and described:"
+        },
+        {
+            "parent": 4,
+            "text": "Size. Nodes are generally considered to be normal if they are up to 1 cm in diameter; however, some authors suggest that epitrochlear nodes larger than 0.5 cm or inguinal nodes larger than 1.5 cm should be considered abnormal.7,8Little information exists to suggest that a specific diagnosis can be based on node size. However, in one series10of 213 adults with unexplained lymphadenopathy, no patient with a lymph node smaller than 1 cm2(1 cm × 1 cm) had cancer, while cancer was present in 8 percent of those with nodes from 1 cm2to 2.25 cm2(1 cm × 1 cm to 1.5 cm × 1.5 cm) in size, and in 38 percent of those with nodes larger than 2.25 cm2(1.5 cm × 1.5 cm). In children, lymph nodes larger than 2 cm in diameter (along with an abnormal chest radiograph and the absence of ear, nose and throat symptoms) were predictive of granulomatous diseases (i.e., tuberculosis, cat-scratch disease or sarcoidosis) or cancer (predominantly lymphomas).11These studies were performed in referral centers, and conclusions may not apply in primary care settings."
+        },
+        {
+            "parent": 4,
+            "text": "Pain/Tenderness. When a lymph node rapidly increases in size, its capsule stretches and causes pain. Pain is usually the result of an inflammatory process or suppuration, but pain may also result from hemorrhage into the necrotic center of a malignant node. The presence or absence of tenderness does not reliably differentiate benign from malignant nodes.4"
+        },
+        {
+            "parent": 4,
+            "text": "Consistency. Stony-hard nodes are typically a sign of cancer, usually metastatic. Very firm, rubbery nodes suggest lymphoma. Softer nodes are the result of infections or inflammatory conditions. Suppurant nodes may be fluctuant. The term “shotty” refers to small nodes that feel like buckshot under the skin, as found in the cervical nodes of children with viral illnesses."
+        },
+        {
+            "parent": 4,
+            "text": "Matting. A group of nodes that feels connected and seems to move as a unit is said to be “matted.” Nodes that are matted can be either benign (e.g., tuberculosis, sarcoidosis or lymphogranuloma venereum) or malignant (e.g., metastatic carcinoma or lymphomas)."
+        },
+        {
+            "parent": 4,
+            "text": "Location. The anatomic location of localized adenopathy will sometimes be helpful in narrowing the differential diagnosis. For example, cat-scratch disease typically causes cervical or axillary adenopathy, infectious mononucleosis causes cervical adenopathy and a number of sexually transmitted diseases are associated with inguinal adenopathy(Table 4)."
+        },
+        {
+            "parent": 4,
+            "text": "Supraclavicular lymphadenopathy has the highest risk of malignancy, estimated as 90 percent in patients older than 40 years and 25 percent in those younger than age 40.4Having the patient perform a Valsalva's maneuver during palpation of the supraclavicular fossae increases the chance of detecting a node. Lymphadenopathy of the right supraclavicular node is associated with cancer in the mediastinum, lungs or esophagus. The left supraclavicular (Virchow's) node receives lymphatic flow from the thorax and abdomen, and may signal pathology in the testes, ovaries, kidneys, pancreas, prostate, stomach or gallbladder. Although rarely present, a paraumbilical (Sister Joseph's) node may be a sign of an abdominal or pelvic neoplasm.12"
+        },
+        {
+            "parent": 4,
+            "text": "In patients with generalized lymphadenopathy, the physical examination should focus on searching for signs of systemic illness. The most helpful findings are rash, mucous membrane lesions, hepatomegaly, splenomegaly or arthritis(Table 4). Splenomegaly and lymphadenopathy occur concurrently in many conditions, including mononucleosis-type syndromes, lymphocytic leukemia, lymphoma and sarcoidosis."
+        },
+        {
+            "parent": 5,
+            "text": "Laboratory tests that may be useful in confirming the cause of lymphadenopathy are listed inTable 4. The presence of certain characteristic clinical syndromes may help the physician determine a suspected cause of lymphadenopathy."
+        },
+        {
+            "parent": 6,
+            "text": "Patients with these syndromes present with lymphadenopathy, fatigue, malaise, fever and an increased atypical lymphocyte count. Mononucleosis is most commonly due to Epstein-Barr virus infection. The presence of the typical syndrome and positive results on a heterophilic antibody test (Monospot test) confirms the diagnosis. The most common cause of heterophil-negative mononucleosis is early Epstein-Barr virus infection. False-negative results on heterophilic antibody tests are especially common in patients younger than four years of age. Epstein-Barr virus infection may be confirmed by repeating the Monospot test in seven to 10 days. Rarely is it necessary to confirm the diagnosis with IgM viral capsid antigen or early antigen antibody titers."
+        },
+        {
+            "parent": 6,
+            "text": "If Epstein-Barr virus antibodies are absent, other causes of the mononucleosis syndrome should be considered. These include toxoplasmosis, cytomegalovirus infection, streptococcal pharyngitis, hepatitis B infection and acute human immunodeficiency virus (HIV) infection. Acute infections with cytomegalovirus and Toxoplasma may be identified with IgM serology for those organisms."
+        },
+        {
+            "parent": 7,
+            "text": "This syndrome is defined by the presence of a skin lesion with associated regional lymphadenopathy. The classic cause is tularemia, acquired by contact with an infected rabbit or tick; more common causes include streptococcal infection (e.g., impetigo), cat-scratch disease and Lyme disease."
+        },
+        {
+            "parent": 8,
+            "text": "This syndrome involves the combination of conjunctivitis and associated preauricular nodes. Common causes include viral kerato-conjunctivitis and cat-scratch disease resulting from an ocular lesion."
+        },
+        {
+            "parent": 9,
+            "text": "Enlargement of the lymph nodes that persists for at least three months in at least two extrainguinal sites is defined as persistent generalized lymphadenopathy and is common in patients in the early stages of HIV infection. Other causes of generalized lymphadenopathy in HIV-infected patients include Kaposi's sarcoma, cytomegalovirus infection, toxoplasmosis, tuberculosis, cryptococcosis, syphilis and lymphoma."
+        },
+        {
+            "parent": 10,
+            "text": "When, after the initial evaluation and after exploration of the “diagnostic” and “suggestive” branches of the algorithm (Figure 2), a cause for the lymphadenopathy remains unexplained, the physician must decide whether to pursue a specific diagnosis. The decision will depend primarily on the clinical setting as determined by the patient's age, the duration of the lymphadenopathy and the characteristics and location of the nodes."
+        },
+        {
+            "parent": 11,
+            "text": "Because generalized lymphadenopathy almost always indicates that a significant systemic disease is present, the clinician should consider the diseases listed inTable 4and proceed with specific testing as indicated. If a diagnosis cannot be made, the clinician should obtain a biopsy of the node. The diagnostic yield of the biopsy can be maximized by obtaining an excisional biopsy of the largest and most abnormal node (which is not necessarily the most accessible node). If possible, the physician should not select inguinal and axillary nodes for biopsy, since they frequently show only reactive hyperplasia."
+        },
+        {
+            "parent": 12,
+            "text": "If the lymphadenopathy is localized, the decision about when to biopsy is more difficult. Patients with a benign clinical history, an unremarkable physical examination and no constitutional symptoms should be reexamined in three to four weeks to see if the lymph nodes have regressed or disappeared. Patients with unexplained localized lymphadenopathy who have constitutional symptoms or signs, risk factors for malignancy or lymphadenopathy that persists for three to four weeks should undergo a biopsy. Biopsy should be avoided in patients with probable viral illness because lymph node pathology in these patients may sometimes simulate lymphoma and lead to a false-positive diagnosis of malignancy."
+        },
+        {
+            "parent": 13,
+            "text": "Many patients worry about the cause of their abnormal lymph nodes. To adequately address their fears, the physician should ask the patient about his or her concerns and respond to questions about specific diagnoses. When biopsy is deferred, the physician should explain to the patient the rationale for waiting. Patients should be cautioned to remain alert for the reappearance of the nodes because lymphomatous nodes have been known to temporarily regress."
+        },
+        {
+            "parent": 14,
+            "text": "In most patients, lymphadenopathy has a readily diagnosable infectious cause. A diagnosis of less obvious causes can often be made after considering the patient's age, the duration of the lymphadenopathy and whether localizing signs or symptoms, constitutional signs or epidemiologic clues are present. When the cause of the lymphadenopathy remains unexplained, a three- to four-week observation period is appropriate when the clinical setting indicates a high probability of benign disease."
+        }
+    ],
+    "locked": false
+}

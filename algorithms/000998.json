@@ -1,0 +1,209 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0801/p471.html#afp19980801p471-f1",
+    "title": "Drugs for Conversion of Atrial Fibrillation | AAFP",
+    "author": "JOSEPH T. DELL'ORFANO, M.D., JERRY C. LUCK, M.D., DEBORAH L. WOLBRETTE, M.D., HEMANTKUMAR PATEL, M.D., AND GERALD V. NACCARELLI, M.D.",
+    "doi": "Am Fam Physician.1998;58(2):471-480",
+    "abstract": "Atrial fibrillation is the most common arrhythmia in patients visiting a primary care practice. Although many patients with atrial fibrillation experience relief of symptoms with control of the heart rate, some patients require restoration of sinus rhythm. External direct current (DC) cardioversion is the most effective means of converting atrial fibrillation to sinus rhythm. Pharmacologic cardioversion, although less effective, offers an alternative to DC cardioversion. Several advances have been made in antiarrhythmic medications, including the development of ibutilide, a class III antiarrhythmic drug indicated for acute cardioversion of atrial fibrillation. Other methods of pharmacologic and nonpharmacologic cardioversion remain under development. Until the results of several large-scale randomized clinical trials are available, the decision to choose cardioversion or maintenance of sinus rhythm must be individualized, based on relief of symptoms and reduction of the morbidity and mortality associated with atrial fibrillation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment of Acute Atrial Fibrillation: Rate and Rhythm Control",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Prevention of Embolic Events During Cardioversion",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Pharmacologic Methods of Ventricular Rate Control",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Pharmacologic Methods of Acute Cardioversion",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Type IA Medications: Procainamide and Quinidine",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Class IC Medications: Flecainide and Propafenone",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Class III Medications: Amiodarone, Sotalol and Ibutilide",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Atrial fibrillation is the most common sustained arrhythmia encountered in primary care practice. According to the Framingham Heart Study,1atrial fibrillation has a prevalence of 4 percent in the adult population. As the patient population continues to age, the prevalence of this arrhythmia rises as well, from less than 0.05 percent in patients 25 to 35 years of age to more than 5 percent in patients over 69 years of age.2"
+        },
+        {
+            "parent": -1,
+            "text": "Atrial fibrillation is associated with significant morbidity, including an increased susceptibility to embolic stroke. It is estimated that the annual risk of stroke in patients with atrial fibrillation is as high as 4.5 percent.3Atrial fibrillation also can decrease exercise tolerance and has been associated with tachycardia-induced cardiomyopathy. Although many patients with atrial fibrillation are symptomatic, some patients remain asymptomatic. Thus, it is often difficult to estimate the onset, duration or severity of atrial fibrillation by the history alone. Furthermore, treatment strategies vary, depending on the patient's symptoms and clinical syndrome."
+        },
+        {
+            "parent": -1,
+            "text": "Major goals of therapy include prevention of stroke and cardiomyopathy, reduction of symptoms and overall improvement in survival. Management includes heart rate control, rhythm control, anticoagulation therapy, or a combination of these strategies."
+        },
+        {
+            "parent": -1,
+            "text": "Initial treatment also depends on the course of atrial fibrillation. Atrial fibrillation may be divided into acute and chronic forms. There are three types of chronic forms: paroxysmal, persistent and permanent. Paroxysmal atrial fibrillation is defined as recurrent episodes of spontaneously terminating atrial fibrillation. Persistent atrial fibrillation is defined by persistence of the arrhythmia until cardioversion is performed. Permanent atrial fibrillation is refractory to attempts at cardioversion. Thus, cardioversion is used only in cases of acute and chronic persistent atrial fibrillation and not in cases previously demonstrated to be refractory."
+        },
+        {
+            "parent": 0,
+            "text": "The electrophysiologic mechanism for atrial fibrillation appears to be multiple wavelets of reentry.4To allow multiple reentrant wavelets to propagate, a critical mass of excitable tissue must exist. Also, reentrant wavelets must never encounter refractory tissue left over by a previous wavelet, or the wavelets will extinguish and the arrhythmia will not be sustained. Thus, if the refractory period of the atrial myocardium is short (i.e., faster recovery) or if the conduction time is so slow that the tissue can recover before the wavelet arrives, atrial fibrillation can develop."
+        },
+        {
+            "parent": 0,
+            "text": "Several pathophysiologic factors favor the initiation and maintenance of atrial fibrillation(Table 1). Processes that increase atrial size, such as valvular heart disease, ischemic heart disease and dilated cardiomyopathy, provide a greater surface area for the development of multiple reentrant wavelets. Electrolyte abnormalities, ischemia, fibrosis or inflammation may decrease conduction velocity."
+        },
+        {
+            "parent": 0,
+            "text": "Increased sympathetic activity and increased vagal tone decrease the atrial refractory period, as does thyrotoxicosis. These factors may therefore predispose patients to develop atrial fibrillation. Likewise, atrial fibrillation may be terminated by increasing the conduction velocity or increasing the refractory period of the atrial tissue. Antiarrhythmic medications may be of benefit by prolonging the refractory period of atrial tissue, thus preventing propagation of multiple reentry wavelets in the atria. Unfortunately, antiarrhythmic medications also decrease conduction velocity, therefore favoring atrial fibrillation, which may account for the mixed efficacy of antiarrhythmic medications in maintaining sinus rhythm."
+        },
+        {
+            "parent": 0,
+            "text": "If the decision is made for a patient to undergo cardioversion, the procedure should be performed as close to the onset of arrhythmia as possible. Sustained atrial fibrillation causes “remodeling” of the atria, including fibrosis and a decrease of the atrial refractory period. These changes favor the initiation and maintenance of atrial fibrillation. To quote Allessie,4“Atrial fibrillation begets atrial fibrillation.”"
+        },
+        {
+            "parent": 1,
+            "text": "The goals of therapy in patients presenting with acute onset of atrial fibrillation are to improve hemodynamic instability, decrease the risk of cardioembolic events and improve symptoms. An algorithm for the acute management of atrial fibrillation is given inFigure 1. Patients who are unstable (i.e., a heart rate of 150 or more with low blood pressure, angina pectoris, shortness of breath, decreased level of consciousness, shock, pulmonary congestion, congestive heart failure or acute myocardial infarction) during atrial fibrillation require immediate cardioversion using a 200-joule synchronized shock (preferably with effective conscious sedation)."
+        },
+        {
+            "parent": 1,
+            "text": "In stable patients, control of the heart rate often provides relief of symptoms. However, some patients remain symptomatic despite a controlled heart rate. It is often desirable to restore sinus rhythm in these patients. Unfortunately, it is not known whether restoration of sinus rhythm improves survival, reduces morbidity or even decreases the risk of embolic events.5"
+        },
+        {
+            "parent": 1,
+            "text": "Restoration and maintenance of sinus rhythm often require the use of antiarrhythmic medications that carry a risk of proarrhythmia. These drugs may precipitate monomorphic ventricular tachycardia, polymorphic ventricular tachycardia (torsades de pointes) and conversion of atrial fibrillation to atrial flutter with a rapid ventricular response.6The risk of ventricular proarrhythmia is highest in patients with poor ventricular function.7"
+        },
+        {
+            "parent": 1,
+            "text": "Currently, three multicenter randomized trials are under way comparing the treatment of atrial fibrillation by ventricular rate control versus rhythm control (Pharmacologic Intervention in Atrial Fibrillation [PIAF], Rate Control versus Electrical Cardioversion [RACE] and Atrial Fibrillation Follow-up Investigation of Rhythm Management [AFFIRM]).8The results of these trials will determine the appropriate role of these two treatment strategies in patients with atrial fibrillation."
+        },
+        {
+            "parent": 1,
+            "text": "External direct current (DC) cardioversion is the most effective means of cardioverting atrial fibrillation to sinus rhythm. The risk of proarrhythmia during DC cardioversion is very low. Unfortunately, electric cardioversion is painful and requires the use of conscious sedation. [corrected] In patients with atrial fibrillation refractory to external direct current cardioversion, internal transvenous cardioversion is an alternative means of restoring sinus rhythm. Although this method is safe and effective, it requires the placement of transvenous shocking coils into the right ventricle and the right atrium. Pharmacologic cardioversion using intravenous or oral class I or class III antiarrhythmic agents may be used instead of DC cardioversion."
+        },
+        {
+            "parent": 2,
+            "text": "Both electric and pharmacologic cardioversion carry a risk of embolic events, including stroke. However, the risk is very small in patients who have been in atrial fibrillation for less than 48 hours. In a study of 357 patients who underwent cardioversion, only three patients (all older than 80 years) had thromboembolic events (0.8 percent).9Patients with persistent atrial fibrillation of unknown duration or more than 48 hours' duration should be treated with anticoagulants for three weeks before either pharmacologic or DC cardioversion is attempted. Anticoagulation should be continued for four weeks after cardioversion, since the atria require several weeks to recover normal contractile function in this situation.10The International Standardized Ratio (INR) should be maintained between 2.0 and 3.0.10,11"
+        },
+        {
+            "parent": 2,
+            "text": "Transesophageal echocardiography may be used to exclude the presence of thrombus in the atria of patients being considered for cardioversion.12Using a decision-analytic model, guided cardioversion with transesophageal echocardiography appeared to be a more cost-effective alternative to conventional therapy.13However, these results must be viewed with caution since embolic events have been reported despite a negative result on transesophageal echocardiography.14Therefore, a negative transesophageal echocardiogram does not obviate the need for at least a short course of warfarin (Coumadin) therapy after cardioversion."
+        },
+        {
+            "parent": 3,
+            "text": "When a patient is in atrial fibrillation, one of the first goals of therapy should be control of the ventricular rate. This can be accomplished using calcium channel blockers such as diltiazem (Cardizem) or verapamil (Calan, Isoptin), beta blockers such as metoprolol (Lopressor) or esmolol (Brevibloc), or digoxin (Lanoxin)."
+        },
+        {
+            "parent": 3,
+            "text": "Intravenous calcium channel blockers and beta blockers have the advantage of rapid onset of action(Table 2). Digoxin, which is perhaps the oldest form of therapy for atrial fibrillation, has an onset of action between 30 minutes and two hours, with peak effect in two to six hours. Its effects are primarily mediated through the autonomic nervous system.15At therapeutic doses, vagal tone is enhanced by actions on the central and peripheral parasympathetic nervous systems. Digoxin is therefore not as effective in ventricular rate control when catecholamines are increased. In addition, the effectiveness of digoxin varies with the individual patient's autonomic tone."
+        },
+        {
+            "parent": 3,
+            "text": "Digoxin is not effective in converting atrial fibrillation to sinus rhythm. In a placebo-controlled study in which 36 patients with recent onset of atrial fibrillation were randomized to receive either placebo or digoxin, no difference was apparent in conversion rates between the two groups.16Therefore, digoxin cannot be recommended for the acute conversion of atrial fibrillation and should be considered second-line therapy for rate control of atrial fibrillation, with the possible exception of use in patients with decreased left ventricular function.17"
+        },
+        {
+            "parent": 3,
+            "text": "When the heart rate is controlled acutely, oral calcium channel blockers, beta blockers and digoxin may be used alone or in combination(Table 2). In chronic rate control, digoxin controls the resting heart rate but often fails to control the ventricular rate during exercise.18"
+        },
+        {
+            "parent": 3,
+            "text": "Rate control is necessary in all patients. Rate control may be achieved through cardioversion alone, but in patients who are not candidates for cardioversion or in whom cardioversion is unsuccessful, rate control is indicated in order to avoid tachycardia-induced cardiomyopathy."
+        },
+        {
+            "parent": 4,
+            "text": "Several pharmacologic agents may be used for acute cardioversion in patients with atrial fibrillation, including oral and intravenous medications. These medications are compared inTable 3. It is important to note that all methods of pharmacologic cardioversion are associated with proarrhythmic risks. The incidence of polymorphic ventricular tachycardia may be as high as 2 percent, even with the use of oral agents. Therefore, we recommend that medical cardioversion be performed only in a monitored setting with an accessible defibrillator. After successful cardioversion, it is necessary to observe patients. We recommend continued observation until the QT interval normalizes, or for four to five half-lives."
+        },
+        {
+            "parent": 5,
+            "text": "Intravenous procainamide (Procainamide Hydrochloride Injection) is effective in cardioversion in up to 60 percent of patients in uncontrolled series. In one hour, the conversion rate to sinus rhythm is only 20 percent.19Procainamide's main side effects include hypotension and QRS and QT prolongation in patients with torsades de pointes."
+        },
+        {
+            "parent": 5,
+            "text": "Oral quinidine (Quinaglute) also may be used for the acute termination of atrial fibrillation. The conversion rate is reported to be up to 60 percent. Torsades de pointes is a major side effect in patients who undergo therapy with quinidine, as it is with procainamide therapy. It appears that episodes of torsades de pointes are most likely to occur after reversion to sinus rhythm.20"
+        },
+        {
+            "parent": 6,
+            "text": "Initial studies of oral flecainide (Tambocor) have demonstrated its efficacy and safety in the treatment of atrial tachycardia and atrial fibrillation.21A single high-bolus dose of oral flecainide (less than 400 mg within three hours) has a conversion rate of 60 to 70 percent at three hours after treatment and up to 91 percent at eight hours.22,23"
+        },
+        {
+            "parent": 6,
+            "text": "High-dose (600 mg) oral propafenone (Rythmol) has also been shown to be effective for cardioversion of atrial fibrillation, with conversion rates of up to 76 percent at eight hours after treatment.23,24"
+        },
+        {
+            "parent": 7,
+            "text": "Unlike the class I agents, amiodarone (Cordarone) does not appear to be more effective than placebo in converting recent-onset atrial fibrillation to sinus rhythm, although patients who are treated with amiodarone tend to have a more controlled heart rate.25–27It is believed that intravenous amiodarone has little effect in atrial tissue. Side effects of intravenous amiodarone include hypotension and bradyarrhythmias. On the other hand, oral amiodarone, which prolongs atrial refractoriness, may be effective in cardioversion, either alone or as an adjunct to DC cardioversion.28Unfortunately, it is not useful for acute cardioversion.29"
+        },
+        {
+            "parent": 7,
+            "text": "Sotalol (Betapace) also is not useful for the acute termination of atrial fibrillation, probably because it tends to prolong atrial refractoriness more at a slow rate than during tachycardia.30"
+        },
+        {
+            "parent": 7,
+            "text": "It should be noted that sotalol and amiodarone slow conduction and prolong refractoriness in the atrioventricular node and thus can control ventricular response to atrial fibrillation.31,32In cases requiring the use of these drugs for chronic maintenance therapy, another atrioventricular nodal blocking agent is generally not necessary."
+        },
+        {
+            "parent": 7,
+            "text": "Ibutilide (Corvert) is a new intravenous class III antiarrhythmic agent. Unlike amiodarone and sotalol, it is currently indicated for the acute termination of atrial fibrillation and flutter. Ibutilide prolongs repolarization of the atrial tissue by enhancing the slow inward depolarizing Na+current in the plateau phase of repolarization. Ibutilide has little to no effect on the conduction velocity of the atrial tissue.33The electrophysiologic actions of ibutilide make it difficult for the atrial tissue to support multiple wavelets of reentry. Furthermore, the electrophysiologic effects of ibutilide are maintained at fast heart rates."
+        },
+        {
+            "parent": 7,
+            "text": "The half-life of ibutilide is three to six hours. It undergoes hepatic metabolization to one slightly active compound and seven inactive compounds.33Its clinical effect, as measured by the QTc duration, is gone in two to six hours.33"
+        },
+        {
+            "parent": 7,
+            "text": "Ibutilide is administered in a dosage of 0.01 mg per kg intravenously over 10 minutes. Conversion rates are between 33 and 45 percent within the first 70 minutes. Up to 70 percent of all conversions occur within 20 minutes of infusion.34,35If the first dose is ineffective, a second may be administered before alternative strategies are considered."
+        },
+        {
+            "parent": 7,
+            "text": "Side effects include significant QT prolongation with sustained polymorphic ventricular tachycardia (torsades de pointes) in 1.7 percent of patients and nonsustained polymorphic ventricular tachycardia in 2.6 percent of patients.33,35A four-hour observation period is recommended in patients who have received ibutilide."
+        },
+        {
+            "parent": 7,
+            "text": "In summary, class IA and class IC agents are effective for acute termination of atrial fibrillation, with conversion rates of 60 to 80 percent at eight hours after treatment. Although class III agents are useful as adjuncts to electric cardioversion and are effective in maintaining sinus rhythm, only ibutilide is useful for acute cardioversion. Placebo conversion rates range from 18 to 78 percent,22–24with the highest conversion rate occurring at eight hours after treatment."
+        },
+        {
+            "parent": 8,
+            "text": "The acute management of atrial fibrillation depends on the patient and the clinical situation. Patients who are clinically unstable should undergo immediate cardioversion. In hemodynamically stable patients, pharmacologic measures to control the heart rate, which may include intravenous or oral agents (or both), may be used. In an outpatient clinic where intravenous administration of medications and electrocardiographic and blood pressure monitoring are available, the heart rate may be controlled initially with intravenous medications. Oral agents may be used in ambulatory patients, provided that symptoms do not warrant prompt rate control."
+        },
+        {
+            "parent": 8,
+            "text": "If atrial fibrillation has been present for less than 48 hours, it is not necessary for the patient to undergo anticoagulation before cardioversion. Because of atrial stunning, a short (three- to four-week) course of warfarin, maintaining the INR between 2.0 and 3.0, should be used after cardioversion (both DC and pharmacologic). If atrial fibrillation has been present for more than 48 hours or if the onset is unknown, an initial three- to six-week course of anticoagulation is recommended. Patients with chronic atrial fibrillation (including paroxysmal fibrillation) and at least one risk factor for thromboembolism should be considered for chronic anticoagulation."
+        },
+        {
+            "parent": 8,
+            "text": "Three large, prospective, randomized trials currently under way address the question of rate control versus rhythm control. Until the results of these trials are available, the decision for patients to undergo cardioversion for atrial fibrillation and to attempt to maintain sinus rhythm should be based on the patient's symptoms and risk for thromboembolism. Most patients benefit from at least one attempt at maintaining sinus rhythm. In patients with persistent atrial fibrillation, cardioversion should be considered as soon as possible (i.e., within 48 hours for an acute episode or within three to four weeks if the patient requires initial anticoagulation), since evidence indicates that the duration of arrhythmia is related to the likelihood of recurrence. Patients with paroxysmal atrial fibrillation do not require cardioversion by definition, although they may require medication to control heart rate and often require antiarrhythmic agents to maintain sinus rhythm."
+        },
+        {
+            "parent": 8,
+            "text": "In patients with persistent atrial fibrillation, several intravenous and oral pharmacologic alternatives to DC cardioversion are available. Care must be used in cardioversion, since all methods carry a significant risk of potentially lethal proarrhythmia. All cardioversions, whether pharmacologic or DC, must be performed in a monitored setting with an available external cardioverter/defibrillator and staff members who are certified in Advanced Cardiac Life Support."
+        },
+        {
+            "parent": 8,
+            "text": "Since torsades de pointes occurs in the period after cardioversion, patients must be monitored for up to 24 hours depending on the method of cardioversion used. There are no data to support outpatient cardioversion with high- or moderate-dose oral antiarrhythmics without the use of electrocardiographic monitoring and close observation. Torsades de pointes remains a significant risk, so the safety of this method has not been established."
+        }
+    ],
+    "locked": false
+}

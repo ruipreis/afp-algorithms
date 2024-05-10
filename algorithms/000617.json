@@ -1,0 +1,179 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0801/p439.html#afp20070801p439-f1",
+    "title": "Updated AAP Guidelines on Newborn Screening and Therapy for Congenital Hypothyroidism | AAFP",
+    "author": "LIZ SMITH",
+    "doi": "Am Fam Physician.2007;76(3):439-444",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Results and Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "LOW T4 AND ELEVATED TSH (PRIMARY HYPOTHYROIDISM)",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "NORMAL T4 AND ELEVATED TSH",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "LOW T4 AND NORMAL TSH",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "LOW T4 AND DELAYED TSH ELEVATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "TRANSIENT TSH ELEVATION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Follow-up",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "ASSESSMENT OF PERMANENCE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source: American Academy of Pediatrics"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?No"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?No"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Pediatrics, June 2006"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.pediatrics.org/cgi/doi/10.1542/peds.2006-0915"
+        },
+        {
+            "parent": -1,
+            "text": "Congenital hypothyroidism can cause mental retardation unless thyroid therapy is initiated within two weeks of birth. The condition typically is permanent, although transient hypothyroidism can result from transmission of maternal medications, maternal blocking antibodies, or iodine deficiency or excess. Most infants with congenital hypothyroidism appear unaffected at birth, probably because of placental transfer of thyroid hormone; infants whose mothers have hypothyroidism have significant impairment of neurointellectual development despite early treatment."
+        },
+        {
+            "parent": -1,
+            "text": "In the past 10 years, knowledge of the condition has advanced rapidly. Screening and treatment improvements, including regimens that more aggressively target early correction of thyroid-stimulating hormone (TSH) levels, have led to improved intellectual and neurologic prognoses."
+        },
+        {
+            "parent": 0,
+            "text": "There are three screening strategies for the detection of congenital hypothyroidism: (1) primary TSH measurement with backup thyroxine (T4) determination in infants with high TSH levels; (2) primary T4measurement with backup TSH assessment in infants with low T4levels; and (3) simultaneous measurement of T4and TSH levels(Figure 1). Physicians should be aware of the limitations of each method. Primary TSH measurement with backup T4assessment—used by most programs in the United States—misses delayed TSH elevation in infants with thyroxine-binding globulin (TBG) deficiency, central hypothyroidism, or hypothyroxinemia. In addition, the normal postnatal increase in TSH can be a problem when patients are discharged early. Primary T4measurement with backup TSH assessment detects primary hypothyroidism, TBG deficiency, central hypothyroidism, and, potentially, hyperthyroxinemia (however, this method misses hyperthyroxinemia in infants with delayed TSH increase and initial normal T4). Simultaneous measurement is the ideal approach, but it is not yet practical on a routine basis."
+        },
+        {
+            "parent": 0,
+            "text": "Screening of all infants should be performed between two and four days of birth. If this is not possible, testing should be performed before discharge or within seven days of birth. False-positive TSH elevations may be found in specimens collected at 24 to 48 hours after birth, and false-negative results may be found in critically ill newborns or post-transfusion infants. However, screening before discharge or transfusion is still preferable to missing the diagnosis. Particular care should be taken not to miss screening in infants receiving emergency care."
+        },
+        {
+            "parent": 1,
+            "text": "Abnormal test results should be communicated immediately to the responsible physician so that follow-up testing can be arranged. Because of the potential for errors in testing, serum free thyroxine (FT4) and TSH levels should be determined regardless of newborn screening results when clinical symptoms and signs suggest hypothyroidism."
+        },
+        {
+            "parent": 2,
+            "text": "All infants with a low T4concentration and a TSH concentration greater than 40 mU per L are considered to have congenital hypothyroidism and should have immediate confirmatory serum testing. Replacement levothyroxine (LT4) treatment should be initiated as soon as confirmatory samples have been taken, without waiting for the results (see Management and Treatment sections)."
+        },
+        {
+            "parent": 2,
+            "text": "If the TSH concentration is slightly elevated but less than 40 mU per L, a second screening test should be performed on a new sample. Results should be interpreted using age-appropriate normative values (the TSH reference range at two to six weeks of age, the most common period of retesting, typically is 1.7 to 9.1 mU per L). Approximately 10 percent of infants with confirmed congenital hypothyroidism have TSH values between 20 and 40 mU per L."
+        },
+        {
+            "parent": 3,
+            "text": "Hyperthyrotropinemia is characterized by high TSH concentrations in the neonatal period with normal concentrations of T4and FT4. It may be caused by a transient or permanent thyroid abnormality or delayed hypothalamic-pituitary axis maturation, and it is more common in infants with Down syndrome. The need for therapy is controversial."
+        },
+        {
+            "parent": 3,
+            "text": "Although TSH concentrations in the first few months of life typically are higher, persistent basal TSH concentrations of greater than 10 mU per L after two weeks of age generally are considered abnormal and should be treated. Infants who do not receive treatment should have repeat measurement of FT4and TSH at two and four weeks, with initiation of treatment if results remain abnormal."
+        },
+        {
+            "parent": 4,
+            "text": "Normal TSH levels with low T4values (i.e., two standard deviations below the mean; usually less than 10 mcg per dL [129 nmol per L] for newborns) occurs in about 3 to 5 percent of neonates and may indicate thyroid insufficiency. It is more common among preterm or ill infants. Possible causes are hypothalamic immaturity (especially in preterm infants), protein-binding disturbances such as TBG deficiency, central hypothyroidism, or primary hypothyroidism with delayed TSH elevation. Constant infusions of dopamine or high-dose glucocorticoids can inhibit TSH, causing low T4concentrations. Midline facial abnormalities, hypoglycemia, microphallus, or visual abnormalities should suggest hypothalamic-pituitary abnormality. Septooptic dysplasia should be suspected in infants with clinical symptoms of hypopituitarism and blindness or midline defects of the brain."
+        },
+        {
+            "parent": 4,
+            "text": "The optimal follow-up is unclear. Options include no further testing, follow-up filter-paper testing until T4levels are normal, and measurement of FT4and TSH concentrations on a second blood sample. However, FT4values and thyroid function test results usually are normal."
+        },
+        {
+            "parent": 4,
+            "text": "Treatment with LT4has no proven benefit except in infants with central hypothyroidism or delayed TSH elevation. When deciding whether to pursue further testing, physicians should weigh the benefits of detecting rare conditions against the cost and psychological impact on the family."
+        },
+        {
+            "parent": 5,
+            "text": "Delayed TSH elevation is more common in infants with low birth weight and those who are critically ill. Serum TSH levels in these infants increase in the first few weeks after birth to concentrations characteristic of primary hypothyroidism. Second screenings are not routine. However, serum FT4and TSH tests must be performed in infants with very low T4concentrations and those at risk of hypothyroidism (e.g., familial dyshormogenesis, signs suggestive of hypothyroidism). Monozygotic twins should have a second specimen drawn at two weeks of age to account for potential fetal blood mixing. Infants with persistent hyperthyrotropinemia after six weeks should receive thyroid hormone replacement therapy, with repeat testing after three years of age."
+        },
+        {
+            "parent": 6,
+            "text": "Rarely, abnormal screening results may be caused by transient hypothyroidism, and results of follow-up T4and TSH testing are normal. Causes of transient hypothyroidism include fetal exposure to maternal antithyroid drugs, prenatal or postnatal exposure to excess iodides, and iodine deficiency. Transplacental passage of maternal thyrotropin receptor-blocking antibodies (TRBAbs) is rare but should be suspected if there is a maternal history of autoimmune thyroid disease or previous affected children. Cord blood can be tested for thyroid abnormalities. Elevated T4and TSH levels resulting from maternal antithyroid drugs typically return to normal within one to three weeks without treatment."
+        },
+        {
+            "parent": 7,
+            "text": "All infants with low T4and high TSH levels should be considered to have congenital hypothyroidism until proved otherwise. Infants with congenital hypothyroidism should be seen by their physician immediately, and consultation with a pediatric endocrinologist is recommended. A complete history should be taken (including maternal drug history and family history), and a physical examination should be performed."
+        },
+        {
+            "parent": 7,
+            "text": "Serum should be tested for TSH and FT4and results compared with age-appropriate norms. TRBAb measurement may identify transient hypothyroidism in infants with a maternal history of thyroid disorder. Optional tests include thyroid ultrasonography, thyroid uptake, and scan to identify functioning thyroid tissue. Early thyroid scanning is controversial but may help identify the cause: for example, an ectopic gland indicates permanent congenital hypothyroidism; absence of thyroid gland uptake is associated with thyroid aplasia or hypoplasia; and normal scan findings or a goiter may indicate a genetic defect in T4synthesis. Scanning should not delay treatment initiation and can be performed within the first few days of therapy. A serum TSH measurement should be taken at the time of the scan."
+        },
+        {
+            "parent": 7,
+            "text": "Parents should be educated by trained personnel using booklets or visual aids, if possible. Education should focus on the etiology of congenital hypothyroidism, the lack of correlation between parental behavior during pregnancy and causes of the condition, the benefit of early diagnosis in preventing mental retardation, appropriate administration of therapy and which substances may interfere with absorption, the importance of treatment adherence, and the importance of follow-up care."
+        },
+        {
+            "parent": 8,
+            "text": "Infants with hypothyroidism should receive thyroid hormone therapy with the goal of achieving euthyroidism as soon as possible. Cognitive outcomes depend on the timing and adequacy of treatment. The preferred treatment is LT4; triiodothyronine should not be used. An initial dosage of 10 to 15 mcg per kg per day has been recommended, depending on the severity of the condition. Soy, fiber, and iron can impair T4bioavailability and should be avoided."
+        },
+        {
+            "parent": 8,
+            "text": "T4should increase to greater than 10 mcg per dL and FT4to greater than 2 ng per dL (26 pmol per L) within two weeks after starting therapy, and TSH should normalize within one month. Use of a higher initial dosage (i.e., 12 to 17 mcg per kg) normalizes serum T4in three days and puts TSH in the target range in two weeks, but evaluation of cognitive outcomes is important if the higher dosage is used. FT4measurement at one week can confirm appropriate serum concentration increase. The dosage of LT4should be adjusted based on serum FT4 and TSH concentrations and clinical response."
+        },
+        {
+            "parent": 8,
+            "text": "In the first three years, serum total T4and FT4values should be in the upper half of the reference range, and serum TSH levels should be between 0.5 and 2.0 mU per L. Relative pituitary resistance may delay normalization of serum TSH, resulting in a normal or increased serum T4concentration with an inappropriately high TSH level. In these cases, the dose should be titrated based on the T4value after first ruling out nonadherence to treatment."
+        },
+        {
+            "parent": 9,
+            "text": "Laboratory and clinical evaluations must be performed regularly in infants with congenital hypothyroidism during the first three years to ensure optimal dosing of and adherence to therapy. Serum T4and TSH should be measured at two and four weeks after treatment initiation, then every one to two months until six months of age, every three to four months from six months to three years of age, every six to 12 months until growth is completed, and four weeks after any dosage change. Measurements should be performed more frequently if non-compliance is suspected or abnormal results are found. Ongoing counseling of parents is important because of the serious consequences of poor compliance."
+        },
+        {
+            "parent": 9,
+            "text": "To ensure normal growth and development, serum T4concentrations should be maintained in the upper half of the reference range in the first year, and serum TSH measurements should be kept in the reference range. If serum FT4concentration does not increase to the upper half of the reference range by two weeks or if the TSH concentration does not fall below 20 mU per L within four weeks, physicians should evaluate compliance, dosage, and administration method. The adverse effects of excessive medication should always be taken into account, and physicians should be prepared to monitor blood FT4concentrations at close intervals."
+        },
+        {
+            "parent": 10,
+            "text": "An ectopic gland or absent thyroid tissue on thyroid scan or an increase in serum TSH to above 10 mU per L after one year of age indicates permanent congenital hypothyroidism. If no sign of permanence is found, therapy should be discontinued for 30 days after three years of age, and measurements of FT4and TSH should be obtained. A diagnosis of transient hypothyroidism can be made if results are in the reference range; otherwise, treatment should be resumed. (An alternative option is to first reduce the dosage by one half for 30 days, at which time a TSH level above 20 mU per L confirms permanent congenital hypothyroidism.) Physicians should carefully monitor the child, and thyroid function tests should be repeated at any suspicion of recurrence. Inconclusive results warrant careful follow-up and further testing."
+        }
+    ],
+    "locked": false
+}

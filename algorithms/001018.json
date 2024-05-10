@@ -1,0 +1,170 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0215/p755.html#afp19980215p755-f1",
+    "title": "An Algorithm for the Evaluation of Peripheral Neuropathy | AAFP",
+    "author": "ANN NOELLE PONCELET, M.D.",
+    "doi": "Am Fam Physician.1998;57(4):755-764",
+    "abstract": "The diagnosis of peripheral neuropathies can be frustrating, time consuming and costly. Careful clinical and electrodiagnostic assessment, with attention to the pattern of involvement and the types of nerve fibers most affected, narrows the differential diagnosis and helps to focus the laboratory evaluation. An algorithmic approach to the evaluation and differential diagnosis of a patient with peripheral neuropathy is presented, based on important elements of the clinical history and physical examination, the use of electromyography and nerve conduction studies, autonomic testing, cerebrospinal fluid analysis and nerve biopsy findings. The underlying cause of axonal neuropathies can frequently be treated; demyelinating neuropathies are generally managed with the assistance of a neurologist.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Anatomy",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Laboratory Evaluation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The incidence of peripheral neuropathy is not known, but it is a common feature of many systemic diseases. Diabetes and alcoholism are the most common etiologies of peripheral neuropathy in adults living in developed countries. The primary worldwide cause of treatable neuropathy is leprosy.1Neuropathies associated with human immunodeficiency virus (HIV) infection account for an increasing number of cases. Peripheral neuropathy has numerous other causes, including hereditary, toxic, metabolic, infectious, inflammatory, ischemic and paraneoplastic disorders. The number of peripheral neuropathies for which an etiology cannot be found despite extensive evaluation ranges from 13 to 22 percent.2,3Many undiagnosed patients (up to 42 percent) are found, after a careful family history and examination of kin, to have a familial neuropathy.2"
+        },
+        {
+            "parent": -1,
+            "text": "The evaluation of a peripheral neuropathy can be time-consuming and costly. A systematic approach based on a careful clinical and electrodiagnostic assessment can help narrow the possibilities and tailor the laboratory evaluation to a specific differential diagnosis."
+        },
+        {
+            "parent": 0,
+            "text": "The peripheral nerves include the cranial nerves (with the exception of the second), the spinal nerve roots, the dorsal root ganglia, the peripheral nerve trunks and their terminal branches, and the peripheral autonomic nervous system. By convention, the motor neurons and their diseases are considered separately."
+        },
+        {
+            "parent": 0,
+            "text": "Nerves are composed of different types of axons. Large, myelinated axons include motor axons and the sensory axons responsible for vibration sense, proprioception and light touch. Small myelinated axons are composed of autonomic fibers and sensory axons and are responsible for light touch, pain and temperature. Small, unmyelinated axons are also sensory and subserve pain and temperature. Neuropathies involving primarily the latter two fiber types are called small-fiber neuropathies."
+        },
+        {
+            "parent": 0,
+            "text": "Clinically, large-fiber neuropathies can be distinguished from small-fiber neuropathies during neurologic testing: large fibers carry sensation for vibration and proprioception, while small fibers carry sensation for pain and temperature. Sensation for light touch is carried by both large and small nerve fibers."
+        },
+        {
+            "parent": 1,
+            "text": "Although peripheral neuropathy has multiple etiologies, the nerve has a limited number of ways to respond to injury.4,5The damage can occur at the level of the axon (i.e., axonopathy). A disruption of the axons (e.g., trauma) results in degeneration of the axon and the myelin sheath distal to the site of the injury (i.e., Wallerian degeneration). In most toxic and metabolic injuries, the most distal portion of the axons degenerates, with concomitant breakdown of the myelin sheath (known as “dying-back,” or length-dependent, neuropathy)."
+        },
+        {
+            "parent": 1,
+            "text": "Neuronopathies occur at the level of the motor neuron or dorsal root ganglion, with subsequent degeneration of their peripheral and central processes. Because the injury is at the level of the cell body, recovery is often incomplete."
+        },
+        {
+            "parent": 1,
+            "text": "Myelinopathies occur at the level of the myelin sheath and can be inflammatory or hereditary. In acquired demyelinating neuropathies, the injury is often patchy or segmental. Because the axons are relatively spared, recovery is often rapid (weeks to months) and complete. Hereditary abnormalities of myelin are usually diffuse, with a slowly progressive course."
+        },
+        {
+            "parent": 2,
+            "text": "The differential diagnosis of peripheral neuropathy is significantly narrowed by a focused clinical assessment that addresses several key issues(Figure 1). The first issue is, does the patient actually have a neuropathy? Causes of generalized weakness include motor neuron disease, disorders of the neuromuscular junction and myopathy. Peripheral neuropathy can also be mimicked by myelopathy, syringomyelia or dorsal column disorders, such as tabes dorsalis. Hysterical symptoms can sometimes mimic a neuropathy."
+        },
+        {
+            "parent": 2,
+            "text": "It is useful to determine the pattern of involvement. Is the neuropathy focal, multifocal or symmetric? Focal neuropathies include common compressive neuropathies such as carpal tunnel syndrome, ulnar neuropathy at the elbow or peroneal neuropathy at the fibular head6,7(Table 1).8A multifocal neuropathy suggests a mononeuritis multiplex that may be caused, for example, by vasculitis or diabetes(Table 1).8"
+        },
+        {
+            "parent": 2,
+            "text": "If the neuropathy is symmetric, is it proximal or distal? Most toxic and metabolic neuropathies present as a distal symmetric or dying-back process(Table 2).9Proximal sensory neuropathies are rare and include porphyria.6Predominantly motor neuropathies are often proximal and include acquired inflammatory neuropathies such as Guillain-Barré syndrome8,9(Table 3).8An exception is lead neuropathy, which initially affects motor fibers in radial and peroneal distributions."
+        },
+        {
+            "parent": 2,
+            "text": "A limited number of neuropathies involve the cranial nerves(Table 4).8Guillain-Barré syndrome frequently involves the facial nerves. Another uncommon pattern is greater involvement of the arms than the legs(Table 4).8Leprosy tends to involve cutaneous nerves in cooler areas of the body, such as the tip of the nose, the pinna of the ear and the volar surfaces of the arms."
+        },
+        {
+            "parent": 2,
+            "text": "Neuropathies can be categorized according to the fiber type that is primarily involved. Most toxic and metabolic neuropathies are initially sensory and later may involve the motor fibers(Table 2).9Pure sensory neuropathies or neuronopathies can result from drug toxicity (e.g., thalidomide, cisplatin [Platinol]), paraneoplastic syndromes or nutritional deficiencies(Table 5).8,9Primarily motor neuropathies include Guillain-Barré syndrome8,9(Table 38). Alcoholism and diabetes can both cause small-fiber, painful neuropathies(Table 5).8,9Autonomic involvement occurs in many small-fiber neuropathies but can also occur in Guillain-Barré syndrome and is sometimes life-threatening(Table 5).8,9It is important to distinguish whether the neuropathy is axonal, demyelinating, or both. This differentiation is best achieved using nerve conduction studies (NCS) and electromyography (EMG)."
+        },
+        {
+            "parent": 2,
+            "text": "Diabetes, HIV infection and alcoholism can cause several patterns of neuropathy. They most commonly cause a distal, symmetric axonal sensorimotor neuropathy. The second most common presentation in these conditions is a small-fiber, painful neuropathy. Involvement of autonomic fibers is common in diabetes but less common in acquired immunodeficiency syndrome (AIDS) or alcoholism. These three patterns of neuropathy occur only in the AIDS stage of HIV infection. Medications used to treat HIV infection, such as didanosine (ddI; Videx) and zalcitamine (ddC; Hivid) also cause a distal symmetric axonal sensorimotor neuropathy."
+        },
+        {
+            "parent": 2,
+            "text": "Diabetes infrequently causes multifocal neuropathies including the cranial nerves, an asymmetric proximal motor neuropathy (diabetic amyotrophy) or a symmetric proximal motor neuropathy. HIV seroconversion rarely can be associated with an acute or chronic demyelinating neuropathy. In AIDS, polyradiculopathy or mononeuritis multiplex associated with cytomegalovirus infection can also occur."
+        },
+        {
+            "parent": 3,
+            "text": "The temporal course of a neuropathy varies, based on the etiology(Tables 6and7).8,9With trauma or ischemic infarction, the onset will be acute, with the most severe symptoms at onset. Inflammatory and some metabolic neuropathies have a subacute course extending over days to weeks. A chronic course over weeks to months is the hallmark of most toxic and metabolic neuropathies. A chronic, slowly progressive neuropathy over many years occurs with most hereditary neuropathies or with chronic inflammatory demyelinating polyradiculoneuropathy (CIDP). Neuropathies with a relapsing and remitting course include Guillain-Barré syndrome."
+        },
+        {
+            "parent": 3,
+            "text": "The symptoms and signs of neuropathy not only suggest the presence of neuropathy but may also indicate the type of axons involved. Ischemic neuropathies often have pain as a prominent feature. Small-fiber neuropathies often present with burning pain, lightning-like or lancinating pain, aching, or uncomfortable paresthesias (dysesthesias). Patients may complain of pain with innocuous stimuli such as sheets rubbing over their feet (allodynia). They may also describe a tight, band-like sensation around the ankles or wrists. Sensory symptoms include tingling or paresthesias, increased sensation in affected areas (hypesthesia), and numbness or reduced sensation. Dying-back (distal symmetric axonal) neuropathies initially involve the tips of the toes and progress proximally in a stocking-glove distribution. Multifocal neuropathies, such as mononeuritis multiplex caused by polyarteritis nodosa, may result in sensory abnormalities in specific nerve or root distributions."
+        },
+        {
+            "parent": 3,
+            "text": "Motor symptoms such as weakness and wasting also commence distally in a dying-back neuropathy. Common complaints are tripping on the toes and loss of grip strength. The patient may have cramps or fasciculations. Peripheral neuropathy can present as restless leg syndrome. Proximal involvement may result in difficulty climbing stairs, getting out of a chair, lifting and swallowing, and in dysarthria."
+        },
+        {
+            "parent": 3,
+            "text": "The clinical assessment should include a careful past medical history, looking for systemic diseases that can be associated with neuropathy, such as diabetes or hypothyroidism. Many medications can cause a peripheral neuropathy(Table 8),10typically a distal symmetric axonal sensorimotor neuropathy. Detailed enquiries about drug and alcohol use, as well as exposure to heavy metals and solvents, should be pursued. All patients should be questioned regarding HIV risk factors, foreign travel (leprosy), diet (nutrition), vitamin use (especially B6) and the possibility of a tick bite (Lyme disease). A detailed family history should include inquiries as to the presence of hammer toes, high arches, weak ankles, gait abnormalities or “muscular dystrophy,” that would suggest a longstanding or hereditary neuropathy. The review of systems may provide clues regarding other organ involvement and the presence of an underlying malignancy."
+        },
+        {
+            "parent": 4,
+            "text": "A cranial nerve examination can provide evidence of mononeuropathies or proximal involvement. In addition, a funduscopic examination may show abnormalities such as optic pallor, which can be present in leukodystrophies and vitamin B12deficiency. Direct strength testing of muscles enervated by cranial nerves V, VII, IX/X, XI and XII is important, as mild bilateral weakness can be missed by observation only. The motor examination includes a search for fasciculations or cramps, or loss of muscle bulk. Tone is normal or reduced. The pattern of weakness helps narrow the diagnosis: symmetric or asymmetric, distal or proximal, and confined to a particular nerve, plexus or root level, as indicated inTables 1through3."
+        },
+        {
+            "parent": 4,
+            "text": "In a patient with a distal symmetric sensorimotor neuropathy, the sensory examination shows reduced sensitivity to light touch, pin-prick and temperature in a stocking-and-glove distribution. Vibration and position sense are reduced in the distal legs prior to involvement of the arms. In patients with severe loss of position sense, there may be athetoid movement of the fingers or arms when the eyes are closed (pseudoathetosis) or a Romberg sign. Patients with mononeuritis multiplex may have sensory loss in specific nerve distributions."
+        },
+        {
+            "parent": 4,
+            "text": "Deep tendon reflexes are reduced or absent. A bilateral foot drop may result in a steppage gait in which the patient must lift the knees very high in order to clear the toes. Proximal weakness results in an inability to squat or to rise unassisted from a chair."
+        },
+        {
+            "parent": 4,
+            "text": "Severe, longstanding neuropathy can result in trophic changes including pes cavus, kyphoscoliosis, loss of hair in affected areas or ulceration. Radiographic examination of limbs may show loss of bone density, thinning of phalanges, pathologic fractures or neuropathic arthropathy. Trophic changes are most prominent in diabetes, amyloid neuropathy, leprosy, hereditary motor sensory neuropathy (HMSN) with prominent sensory involvement, and hereditary sensory neuropathy. Nerve thickening can be palpated in leprosy, HMSN type 1 and amyloid neuropathy."
+        },
+        {
+            "parent": 4,
+            "text": "The general physical examination can provide evidence of orthostatic hypotension without a compensatory rise in heart rate when autonomic fibers are involved. Respiratory rate and vital capacity should be evaluated in Guillain-Barré syndrome to assess for respiratory compromise. The presence of lymphadenopathy, hepatomegaly or splenomegaly, and skin lesions may provide evidence of systemic disease. Pale transverse bands in the nail beds, parallel to the lunula (Mees' lines), suggest arsenic poisoning."
+        },
+        {
+            "parent": 5,
+            "text": "EMG and nerve conduction studies (NCS) are often the most useful initial laboratory studies in the evaluation of a patient with peripheral neuropathy.4,5,9,11,12They can confirm the presence of a neuropathy and provide information as to the type of fibers involved (motor, sensory, or both), the pathophysiology (axonal loss versus demyelination) and a symmetric versus asymmetric or multifocal pattern of involvement. Sensory axonal neuropathy and sensory neuronopathy have similar electrodiagnostic features and are considered together. The differential diagnosis of different types of peripheral neuropathy can be divided using electrophysiologic criteria.7"
+        },
+        {
+            "parent": 5,
+            "text": "Axon loss results in loss of amplitude of nerve action potentials, and evidence of denervation is found on needle examination of affected muscles. Myelin loss results in slowed conduction velocities, prolonged distal latencies, conduction block, temporal dispersion and prolonged minimum F-wave latencies. The limitations of EMG/NCS should be taken into account when interpreting the findings. We have no reliable means of studying proximal sensory nerves. NCS results can be normal in patients with small-fiber neuropathies, and lower extremity sensory responses can be absent in normal elderly patients. EMG/NCS are not substitutes for a good clinical examination."
+        },
+        {
+            "parent": 5,
+            "text": "Subsequent studies should be tailored to the most likely diagnostic possibilities, and to the acuteness and severity of the neuropathy. With an acute progressive neuropathy, a neurologic consultation early in the course of the evaluation is essential. Further evaluation of these patients includes EMG/NCS, lumbar puncture, chest radiograph, electrocardiogram and determination of forced vital capacity. More indolent neuropathies can be evaluated in a cost-efficient manner by the family physician."
+        },
+        {
+            "parent": 5,
+            "text": "The most common presentation is that of a distal symmetric sensorimotor neuropathy. Initial evaluation should include fasting serum glucose, glycosylated hemoglobin, blood urea nitrogen, creatinine, complete blood cell count, erythrocyte sedimentation rate, urinalysis, vitamin B12and thyrotropin stimulating hormone levels. Neurologic assessment may be warranted if the initial evaluation does not produce a diagnosis."
+        },
+        {
+            "parent": 5,
+            "text": "Autonomic studies include determination of heart rate variation with respiration, heart rate response to standing/tilting, blood pressure response to sustained hand grip and a measure of sympathetic skin response. The results of these tests can provide objective evidence of autonomic insufficiency and a measure of small-fiber function."
+        },
+        {
+            "parent": 5,
+            "text": "The cerebrospinal fluid is useful in evaluation of myelinopathies and polyradiculopathies. An elevated total protein level with less than 5 white blood cells (albuminocytologic dissociation) is present in acquired inflammatory neuropathy (e.g., Guillain-Barré syndrome, CIDP). Other studies useful in specific clinical contexts are cytology (lymphoma) and special studies such as Lyme polymerase chain reaction and cytomegalovirus branched chain DNA (polyradiculopathy or mononeuritis multiplex in AIDS)."
+        },
+        {
+            "parent": 5,
+            "text": "Nerve biopsy is only helpful in very specific cases to diagnose vasculitis, leprosy, amyloid neuropathy, leukodystrophies, sarcoidosis and, occasionally, CIDP. The sural nerve is the one most commonly selected for biopsy. Complications include infection, poor wound healing and painful dysesthesias. The biopsy should be performed and evaluated by an experienced surgeon and neuropathologist."
+        },
+        {
+            "parent": 5,
+            "text": "It can be difficult to document a small-fiber neuropathy because the only abnormalities on neurologic examination may be loss of pin-prick and temperature sensation in a distal distribution. EMG/NCS may be normal. Autonomic studies are only helpful if the autonomic fibers are involved. As a result, small-fiber neuropathy remains a primarily clinical diagnosis. The evaluation should include the most likely causes (i.e., diabetes, alcoholism, AIDS). If these studies are normal, a neurologic consultation is recommended."
+        }
+    ],
+    "locked": false
+}

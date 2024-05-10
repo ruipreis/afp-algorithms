@@ -1,0 +1,82 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0315/p445.html#afp20130315p445-f1",
+    "title": "IDSA Releases Guidelines for Management of Acute Bacterial Rhinosinusitis | AAFP",
+    "author": "MARA LAMBERT, Senior Associate Editor",
+    "doi": "Am Fam Physician.2013;87(6):445-449",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Initial Treatment",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Patients with Nonresponsive Symptoms",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:Infectious Diseases Society of America"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Guideline developed by participants without relevant financial ties to industry?No"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Clinical Infectious Diseases, April 15, 2012"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://cid.oxfordjournals.org/content/54/8/1041.full"
+        },
+        {
+            "parent": -1,
+            "text": "The Infectious Diseases Society of America (IDSA) has released a guideline for the management of acute bacterial rhinosinusitis in children and adults in the community or emergency department settings. Each recommendation includes a quality of evidence grade (i.e., strong or weak) and a strength-of-recommendation weighting (i.e., high, moderate, low, or very low)."
+        },
+        {
+            "parent": 0,
+            "text": "To identify patients with acute bacterial versus viral rhinosinusitis, any one of the following clinical presentations should be noted: persistent symptoms or signs of acute rhinosinusitis lasting 10 days or more without clinical improvement; severe symptoms or signs of high fever (102°F [39°C] or higher) and purulent nasal discharge or facial pain for three days or more at the beginning of illness; or worsening symptoms or signs (i.e., fever, headache, or increase in nasal discharge) that lasted five to six days and were initially improving (double-sickening)[strong, low-moderate]."
+        },
+        {
+            "parent": 0,
+            "text": "Empiric antimicrobial therapy should be initiated in patients with signs and symptoms of acute bacterial rhinosinusitis at the time of diagnosis[strong, moderate]. Amoxicillin/clavulanate (Augmentin) is preferred over amoxicillin alone for empiric therapy in children[strong, moderate]and adults[weak, low]. High-dose amoxicillin/clavulanate is recommended in children and adults with acute bacterial rhinosinusitis who live in regions with an endemic rate of 10 percent or more of invasive penicillin-nonsusceptibleStreptococcus pneumoniae; those with severe infection; children who attend day care; persons younger than two years or older than 65 years; those recently hospitalized; those who have used antibiotics within the previous month; and those who are immunocompromised[weak, moderate]. A beta-lactam agent, such as amoxicillin/clavulanate, is preferred for initial empiric therapy over a respiratory fluoroquinolone[weak, moderate]."
+        },
+        {
+            "parent": 0,
+            "text": "Because of high rates of resistance, macrolides (i.e., clarithromycin [Biaxin] and azithromycin [Zithromax]) and trimethoprim/sulfamethoxazole (Bactrim, Septra) are not recommended for empiric therapy[strong, moderate]. However, doxycycline is an acceptable alternative to amoxicillin/clavulanate for adults because it is highly active against respiratory pathogens and has excellent pharmacokinetic/pharmacodynamic properties[weak, low]. Although second- and third-generation oral cephalosporins are not recommended for empiric mono-therapy, third-generation agents (i.e., cefixime [Suprax] or cefpodoxime) plus clindamycin may be considered for second-line therapy in children with non–type I penicillin allergy or from regions with high endemic rates of penicillin-nonsusceptibleS. pneumoniae [weak, moderate]."
+        },
+        {
+            "parent": 0,
+            "text": "In adults with penicillin allergies, doxycycline or a respiratory fluoroquinolone (i.e., levofloxacin [Levaquin] or moxifloxacin [Avelox]) may be used as an alternative agent for empiric therapy[strong, moderate]. In children with a history of type I hypersensitivity to penicillin, levofloxacin is recommended; for those with a history of non–type I hypersensitivity, combination therapy with clindamycin plus a third-generation oral cephalosporin (i.e., cefixime or cefpodoxime) is recommended[weak, low]. Routine coverage forStaphylococcus aureusand methicillinresistantS. aureusis not recommended during initial empiric therapy of acute bacterial rhinosinusitis[strong, moderate]. Empiric therapy for adults should continue for five to seven days, and 10 to 14 days is recommended for children[weak, low-moderate]."
+        },
+        {
+            "parent": 0,
+            "text": "Saline nasal irrigation with physiologic or hypertonic saline is recommended as an adjunctive treatment in adults[weak, low-moderate]. Additionally, intranasal corticosteroids are recommended as an adjunct to antibiotics, primarily in persons with a history of allergic rhinitis[weak, moderate]. Oral and topical decongestants or antihistamines are not recommended as adjunctive treatments[strong, low-moderate]."
+        },
+        {
+            "parent": 1,
+            "text": "If patients' symptoms worsen after 48 to 72 hours of initial empiric treatment or do not improve after three to five days of treatment, an alternative management strategy should be implemented[strong, moderate].Figure 1presents an algorithm for the management of acute bacterial rhinosinusitis, including symptoms that do not respond to initial empiric antimicrobial therapy. Patients whose symptoms worsen after 72 hours of treatment or do not improve after three to five days of treatment with a first-line agent should be evaluated for resistant pathogens, a noninfectious etiology, structural abnormality, or other causes of treatment failure[strong, low]."
+        },
+        {
+            "parent": 1,
+            "text": "When managing patients with acute bacterial rhinosinusitis that has not responded to first- or second-line agents, physicians should obtain cultures to establish whether persistent bacterial infection and resistant pathogens are present. Direct sinus aspiration is the preferred method for obtaining cultures instead of nasopharyngeal swab[strong, moderate]. Endoscopically guided cultures of the middle meatus may be used as an alternative method in adults; however, they should not be used in children because their reliability has not been determined[weak, moderate]. Nasopharyngeal cultures are not recommended because of their unreliability in the microbiologic diagnosis of acute bacterial rhinosinusitis[strong, high]."
+        },
+        {
+            "parent": 1,
+            "text": "When imaging is required to guide treatment, such as in patients with suppurative complications (e.g., orbital or intracranial extension of infection), axial and coronal views of contrast-enhanced computed tomography are recommended over magnetic resonance imaging[weak, low]. Referral to a specialist is warranted in patients who have serious illness and are immunocompromised; those whose condition is worsening despite treatment; and those who have recurrent bouts of acute rhinosinusitis with clearing between episodes. Guidelines for referral are considered good clinical practice rather than recommendations, and therefore are not graded."
+        }
+    ],
+    "locked": false
+}

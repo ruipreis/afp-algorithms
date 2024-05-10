@@ -1,0 +1,186 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0201/p211.html#afp20160201p211-f1",
+    "title": "Primary Brain Tumors in Adults: Diagnosis and Treatment | AAFP",
+    "author": "ALLEN PERKINS, MD, MPH, AND GERALD LIU, MD",
+    "doi": "Am Fam Physician.2016;93(3):211-217B",
+    "abstract": "Primary intracranial tumors of the brain structures, including meninges, are rare with an overall five-year survival rate of 33.4%; they are collectively called primary brain tumors. Proven risk factors for these tumors include certain genetic syndromes and exposure to high-dose ionizing radiation. Primary brain tumors are classified by histopathologic criteria and immunohistochemical data. The most common symptoms of these tumors are headache and seizures. Diagnosis of a suspected brain tumor is dependent on appropriate brain imaging and histopathology. The imaging modality of choice is gadolinium-enhanced magnetic resonance imaging. There is no specific pathognomonic feature on imaging that differentiates between primary brain tumors and metastatic or nonneoplastic disease. In cases of suspected or pathologically proven metastatic disease, chest and abdomen computed tomography may be helpful, although determining the site of the primary tumor is often difficult, especially if there are no clinical clues from the history and physical examination. Using fluorodeoxyglucose positron emission tomography to search for a primary lesion is not recommended because of low specificity for differentiating a neoplasm from benign or inflammatory lesions. Treatment decisions are individualized by a multidisciplinary team based on tumor type and location, malignancy potential, and the patient's age and physical condition. Treatment often includes a combination of surgery, radiotherapy, and chemotherapy. After craniotomy, patients should be followed closely for complications, including deep venous thrombosis, pulmonary embolism, intracranial bleeding, wound infection, systemic infection, seizure, depression, worsening neurologic status, and adverse drug reaction. Hospice and palliative care should be offered when appropriate throughout treatment.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Classification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIAGNOSTIC IMAGING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "STAGING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "RADIOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CHEMOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "PERI- AND POSTOPERATIVE TREATMENTS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Prognosis",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Further Information",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Primary intracranial tumors arising from the meninges, neuroepithelial tissues, pituitary and related structures, cranial nerves, germ cells, blood-forming organs, or a distant subclinical primary tumor are known collectively as primary brain tumors. These tumors in adults are rare with an estimated 23,380 new cases diagnosed in 2014, leading to 14,320 deaths; these accounted for 1.4% of all new cases of cancer and 2.4% of all cancer deaths. The incidence of a new brain tumor is 6.4 per 100,000 persons per year with an overall five-year survival rate of 33.4%. The peak prevalence is between 55 and 64 years of age, with a slightly higher incidence in men than in women. There is an approximate 0.6% lifetime risk of being diagnosed with brain or other nervous system cancer.1"
+        },
+        {
+            "parent": 0,
+            "text": "There are many hypotheses about the pathogenesis of primary brain tumors; genetics clearly play a role in their development.2–4Exposure to high-dose ionizing radiation is the only proven environmental risk factor for primary brain tumors. Other investigated toxins and exposures have not been shown to increase the risk.5Table 1includes risk factors for primary brain tumors.2–5"
+        },
+        {
+            "parent": 1,
+            "text": "The World Health Organization classifies primary brain tumors based on histopathologic criteria and immunohistochemical data; a malignancy grade is also assigned to tumors, defined by a combination of morphological features, growth patterns, and molecular profile(Table 2).6,7Nonmalignant tumors of the meninges (meningiomas) and tumors of the pituitary gland are often included. When they are included, they account for 50% of primary brain tumors. Glioblastomas, associated with higher malignancy grade and poor prognosis, account for only 15% of primary brain tumors when these nonmalignant tumors are included.6"
+        },
+        {
+            "parent": 2,
+            "text": "Figure 1is an algorithm for the diagnosis of primary brain tumors in adults."
+        },
+        {
+            "parent": 3,
+            "text": "Clinical signs and symptoms of primary brain tumors may be general or focal. General symptoms, such as headache and seizures, are due to increased intracranial pressure.8Focal symptoms, such as unilateral weakness or personality changes, are due to tissue destruction or compression of specialized regions(Table 3).9Initial symptoms of low-grade tumors or initial stages of disease are often focal, progressing to generalized symptoms as the tumor increases in size and spreads.10,11"
+        },
+        {
+            "parent": 3,
+            "text": "The following have been reported by patients as the first symptom of a primary brain tumor: headache (23.5% of patients); generalized seizures (21.3%); unilateral weakness (7.1%); unsteadiness (6.1%); expressive language disorder (5.8%); visual problems (3.2%); confusion (4.5%); unilateral numbness (2.3%); personality problems (1.6%); diplopia (0.3%); and other symptoms (24.2%), such as anosmia, apraxia, cognitive delay, drowsiness, dysphagia, hallucinations, memory loss, nausea and vomiting, pain, and stiff neck.8"
+        },
+        {
+            "parent": 3,
+            "text": "The headache associated with a tumor is classically thought of as severe, worse in the morning, and occurring with nausea and vomiting. However, patients with a brain tumor more often report a bifrontal, tension-type headache.12In addition, a chronic, persistent headache with nausea, vomiting, seizures, changes in headache pattern, neurologic symptoms, or positional worsening should prompt an evaluation for brain tumor.13Cognitive dysfunction (e.g., language, attention, executive functioning) is common in persons with brain tumors and may be caused by the tumor, tumor-related epilepsy, treatment, psychological distress, or a combination of these factors. General neurologic symptoms may progress to encephalopathy and dementia, which may be the presenting symptoms.14When a tumor is suspected, funduscopy and a focused neurologic examination should be performed in addition to the history and physical examination. This examination should include an assessment of mental status; cranial nerves; and motor, sensory, and cerebellar function."
+        },
+        {
+            "parent": 4,
+            "text": "Diagnosis of a suspected brain tumor is dependent on appropriate brain imaging and histopathology(eFigures AandB). Gadolinium-enhanced magnetic resonance imaging (MRI) is the preferred modality because of its resolution and enhancement with contrast agents.15,16If MRI cannot be performed (e.g., in patients with metallic implants, embedded devices, or claustrophobia), head and spine computed tomography (CT) is acceptable, although the resolution is not as high as MRI and it cannot adequately assess lesions in the posterior fossa and spine.15Additional imaging such as magnetic resonance perfusion, magnetic resonance spectroscopy, or fluorodeoxyglucose positron emission tomography may be necessary for diagnosis and staging, and should be ordered only under the direction of the treating physician.16,17Emergent imaging should be performed in patients with red flag symptoms(Table 4).18"
+        },
+        {
+            "parent": 5,
+            "text": "Although imaging significantly narrows the differential diagnosis of primary brain tumors, there is no specific pathognomonic feature on imaging that differentiates between primary brain tumors and metastatic or nonneoplastic disease. In cases of suspected or pathologically proven metastatic disease, chest and abdomen CT may be helpful, although determining the site of the primary tumor is often difficult, especially if there are no clinical clues from the history and physical examination. Using fluorodeoxyglucose positron emission tomography is not recommended initially to search for a primary lesion when a metastatic brain tumor is suspected, unless suggested by history or physical examination findings, because of its low specificity for differentiating neoplasms from benign or inflammatory lesions.19"
+        },
+        {
+            "parent": 5,
+            "text": "Even with the extensive range of imaging available, nonneoplastic diseases often present similarly to brain tumors. Once a neoplastic process has been excluded, a directed investigation based on history and physical examination findings should be pursued(Table 5).20"
+        },
+        {
+            "parent": 6,
+            "text": "Brain cancers do not conform to a standard staging system. Although they may spread to other parts of the brain or spinal cord, they rarely spread beyond that.21"
+        },
+        {
+            "parent": 7,
+            "text": "Treatment decisions are individualized by an experienced multidisciplinary team consisting of medical oncology, radiation oncology, and neurosurgery. Treatment decisions are based on tumor type and location, malignancy potential, and the patient's age and physical condition. Treatment may require only surveillance but commonly includes surgery, radiotherapy, chemotherapy, or a combination, and enrollment in clinical trials should be offered as an option for some high-grade tumors.22This article provides a brief treatment overview; detailed treatment algorithms are available from the National Comprehensive Cancer Network (http://www.nccn.org, membership required)."
+        },
+        {
+            "parent": 8,
+            "text": "The preferred treatment for primary brain tumors is the maximal safe surgical removal of the tumor followed by radiotherapy and chemotherapy. Although extent of resection is a prognostic variable, the extent of safe tumor resection is dependent on tumor location, patient performance status, and, most importantly, patient age.23Benefits of maximal resection include relief of mass effect, decreased tumor burden, improved diagnosis, and a trend toward prolonged survival.24–27"
+        },
+        {
+            "parent": 9,
+            "text": "Radiotherapy can be used as primary treatment or adjunctively following surgical resection. Standard fractionated external beam radiotherapy is the most common approach, although other options include brachytherapy, fractionated stereotactic radiotherapy, and stereotactic radiosurgery. Hypofractionation of radiotherapy may be considered for older or immunocompromised patients.28,29Radiotherapy can improve progression-free survival and overall survival in patients with high-risk low-grade gliomas, defined as patients younger than 40 years with subtotal resection or biopsy, or patients older than 40 years with any degree of resection.30"
+        },
+        {
+            "parent": 10,
+            "text": "Chemotherapy given in combination with radiation has been shown to improve survival in selected cases.31For example, carmustine wafers (Gliadel), or temozolomide (Temodar) in younger patients, placed during surgery have improved survival in patients with high-grade gliomas.32,33Patients with the O6-methylguanine-DNA methyltransferase (MGMT) gene promoter and glioblastomas benefit from temozolomide.34Treatment of anaplastic oligodendrogliomas and anaplastic oligoastrocytomas with the combination of procarbazine (Matulane), lomustine (Gleostine), and vincristine delays progression, especially in patients with1p/19qdeletions, but does not prolong survival.35"
+        },
+        {
+            "parent": 11,
+            "text": "After craniotomy, patients should be followed closely for complications in the perioperative period (the first 21 postoperative days). Common complications include deep venous thrombosis, pulmonary embolism, intracranial bleeding, wound infection, systemic infection, seizure, depression, worsening neurologic status, and adverse drug reaction.36To help with prognosis and treatment planning, a repeat brain MRI with or without contrast media should be performed within three days of the surgery to determine the extent of resection.26,37"
+        },
+        {
+            "parent": 11,
+            "text": "Glucocorticoids, which are the mainstay of postoperative management, help decrease tumor-associated vasogenic edema and prevent postoperative and radiation-associated edema. Because long-term use is often necessary, patients should be monitored for potential adverse effects of glucocorticoids (e.g., hyperglycemia, weight gain, immunosuppression, gastritis and bowel perforation, insomnia, psychological disturbances). Glucocorticoids should be tapered after one week if possible to minimize adverse effects, although an increase in neurologic symptoms may occur with an early taper, requiring a slower taper.38"
+        },
+        {
+            "parent": 11,
+            "text": "Despite perioperative anticoagulation with heparin, thromboembolic disease is common, with an incidence as high as 60% within six weeks after surgery in patients with malignant gliomas.39The American Society of Clinical Oncology recommends against routine thromboprophylaxis in the outpatient setting and against the use of novel oral anticoagulants. Patients undergoing surgery should receive prophylaxis before surgery and continuing for at least seven to 10 days.40"
+        },
+        {
+            "parent": 11,
+            "text": "Although approximately 30% of patients with resection of brain tumors will develop seizures,41prophylactic use of anticonvulsants is not recommended beyond the initial postoperative period. Anticonvulsants may be tapered and discontinued after the initial week in patients who are medically stable and experiencing anticonvulsant-related adverse effects.42,43"
+        },
+        {
+            "parent": 11,
+            "text": "Cognitive deficits are problematic and common post-treatment. Function may be improved with a multifaceted cognitive rehabilitation program, which includes computer-based attention retraining and compensatory skills training of attention, memory, and executive functioning. Mood problems, including depression, may be improved with psychosocial and supportive care.44,45"
+        },
+        {
+            "parent": 11,
+            "text": "Hospice and palliative care should be made available when appropriate throughout treatment. Hospice should be offered if life expectancy is less than six months, and in patients who have poor or worsening performance status, who are not candidates for surgery or chemotherapy, who have deteriorating neurologic deficits despite therapy, or who have tumor recurrence.13,46"
+        },
+        {
+            "parent": 12,
+            "text": "The five-year survival rate for primary brain tumors is 33.4%,1although this rate varies widely among the specific types of tumors: 100% for pilocytic astrocytoma, 58% for low-grade astrocytoma, 11% for anaplastic astrocytoma, and 1.2% for glioblastoma.47"
+        },
+        {
+            "parent": 12,
+            "text": "Prognostic factors associated with better outcomes in low-grade gliomas include age younger than 40 years, a tumor that is less than 6 cm at its largest diameter, a tumor that does not cross the midline of the brain, histology subtype (oligodendroglioma or mixed types have better outcomes than astrocytomas), and no neurologic deficits before surgery.48Prognostic factors associated with better outcomes in high-grade gliomas include lower tumor grade, younger age, better functional status, greater extent of resection, and hypermethylation of theMGMTgene promoter.46,49,50"
+        },
+        {
+            "parent": 13,
+            "text": "More information on primary brain tumors is available from the National Cancer Institute (http://www.cancer.gov/types/brain/hp) and the National Brain Tumor Society (http://braintumor.org/brain-tumor-information)."
+        },
+        {
+            "parent": 13,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key terms primary, brain, and tumor. The search included meta-analyses, randomized controlled trials, and reviews. Also searched were Agency for Healthcare Research and Quality clinical guidelines, Cochrane Database of Systematic Reviews, Google Scholar, National Guideline Clearinghouse database, and Essential Evidence Plus. A scoping review of pertinent articles was used to expand the search of relevant articles. Search dates: November 1, 2014, and November 22, 2015."
+        },
+        {
+            "parent": 13,
+            "text": "note: This review updates aprevious articleon this topic by Chandana and colleagues.13"
+        }
+    ],
+    "locked": false
+}

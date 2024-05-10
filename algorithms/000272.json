@@ -1,0 +1,157 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/1215/p1084.html#afp20151215p1084-f3",
+    "title": "Evaluation of the Solitary Pulmonary Nodule | AAFP",
+    "author": "GEORGE E. KIKANO, MD, ANDRE FABIEN, MD, AND ROBERT SCHILZ, DO, PhD",
+    "doi": "Am Fam Physician.2015;92(12):1084-1091",
+    "abstract": "A solitary pulmonary nodule is a common radiologic finding that is often discovered incidentally and may require significant workup to establish a definitive diagnosis. A solitary pulmonary nodule is a well-circumscribed round lesion measuring up to 3 cm in diameter and surrounded by aerated lung. Once a nodule is discovered, clinical and radiologic features and quantitative models can be used to determine the likelihood of malignancy. Evaluation is guided by nodule size and assessment of probability of malignancy. Surgical resection or nonsurgical biopsy should be performed in patients with solid or subsolid solitary pulmonary nodules that show clear growth on serial imaging. Solid solitary pulmonary nodules that have been stable for at least two years typically do not need further evaluation. The workup for patients with solid solitary pulmonary nodules measuring 8 mm or greater in diameter, nodules measuring less than 8 mm in diameter, and subsolid nodules should be guided by the probability of malignancy, imaging results, and the risks and benefits of different management strategies. Management should be individualized according to patient values and preferences. Medicare now covers lung cancer screening with low-dose computed tomography for high-risk patients 55 to 77 years of age at institutions that can provide a comprehensive approach to the management of solitary pulmonary nodules.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definitions",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "CHARACTERIZATION OF NODULES",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Initial Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "RISK ASSESSMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Follow-up Evaluations",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Solitary Pulmonary Nodules Discovered During Lung Cancer Screening",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Indications for Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The identification of solitary pulmonary nodules has become more common in the United States because of the increased use of computed tomography (CT). The incidence of cancer in patients with solitary pulmonary nodules ranges from 10% to 70%.1Recent U.S. Preventive Services Task Force recommendations for lung cancer screening with CT will likely further increase the detection of solitary pulmonary nodules.2Therefore, it is important that clinicians become familiar with evaluating and managing these nodules."
+        },
+        {
+            "parent": -1,
+            "text": "In 2014, the American College of Radiology Lung Imaging Reporting and Data System (Lung-RADS) was released to standardize lung cancer screening computed tomography reporting and management recommendations."
+        },
+        {
+            "parent": -1,
+            "text": "Lung cancer screening should preferably be performed at institutions that can provide a comprehensive approach to the management of solitary pulmonary nodules."
+        },
+        {
+            "parent": 0,
+            "text": "A solitary pulmonary nodule is defined as a single, well-circumscribed, radiologic opacity that measures up to 3 cm in diameter and is surrounded completely by aerated lung.1,3Focal pulmonary lesions that are greater than 3 cm in diameter are called lung masses and should be considered malignant until proven otherwise. In cancer screening trials of smokers at increased risk of malignancy, the prevalence of solitary pulmonary nodules ranged from 8% to 51%.4,5"
+        },
+        {
+            "parent": 0,
+            "text": "The increased use of CT can also lead to the discovery of multiple or diffuse nodules. This is arbitrarily defined in the 2013 American College of Chest Physicians (ACCP) guidelines as patients with more than 10 nodules.6Although diffuse nodules are more likely to cause symptoms, they rarely represent a primary lung malignancy."
+        },
+        {
+            "parent": 1,
+            "text": "The risk of malignancy rises with increasing nodule size (maximum diameter). Approximately 80% of nodules greater than 20 mm are malignant, whereas only 1% of nodules between 2 and 5 mm are malignant.7,8Malignant solid nodules typically have a doubling time within 400 days; therefore, experts agree that solid solitary pulmonary nodules that remain the same size over a two-year period are likely to be benign.6,9–11Longer duration follow-up is advisable for ground-glass nodules, which generally have a longer doubling time."
+        },
+        {
+            "parent": 1,
+            "text": "The risk of malignancy is also higher in spiculated lesions, in lesions with asymmetric calcification, and in lesions located in an upper lobe.8In contrast, nodules with smooth borders and a central or concentric pattern of calcification are more likely to be benign(Figure 1). Nodules can be classified as solid or subsolid. Solid nodules are more common, but subsolid nodules have a higher likelihood of malignancy.12Subsolid nodules can be further characterized into pure ground-glass or part-solid in nature. Part-solid nodules include a combination of ground-glass and solid components, the latter obscuring lung architecture.13"
+        },
+        {
+            "parent": 2,
+            "text": "Causes of solitary pulmonary nodules can be categorized as benign or malignant(Table 11,6). The estimated prevalence of each etiology varies among different populations. Even among screening studies of smokers who are at increased risk of malignancy, the number of malignant nodules is small. Among 12,029 nodules found in a large Canadian study, only 144 (1%) were malignant.8"
+        },
+        {
+            "parent": 3,
+            "text": "The 2013 ACCP guidelines for the evaluation of the solitary pulmonary nodule recommend basing the assessment on nodule size and probability of malignancy.6The guidelines also address risk stratification, choice of imaging modality, and frequency of imaging follow-up. Guidelines from the American College of Radiology address imaging modalities but not frequency of follow-up.14This review focuses primarily on the ACCP guidelines."
+        },
+        {
+            "parent": 4,
+            "text": "The probability of malignancy can be assessed clinically or by quantitative predictive models as falling into one of three risk categories: very low probability (less than 5%), low/moderate probability (5% to 65%), or high probability (greater than 65%). Many experienced physicians use clinical judgment to estimate the probability of malignancy. Studies report modest to excellent agreement between quantitative prediction models and clinical judgment.15,16"
+        },
+        {
+            "parent": 4,
+            "text": "Quantitative predictive models combine clinical and radiologic features to estimate malignancy potential. The most commonly used model from the Mayo Clinic(eTable A)estimates the probability of malignancy using six independent predictors: smoking history, older age, history of extrathoracic cancer more than five years before nodule detection, nodule diameter, spiculation presence, and upper lobe location.17An online calculator is available athttp://reference.medscape.com/calculator/solitary-pulmonary-nodule-risk. Newer models validated for use in high-risk populations are based on data from the Pan-Canadian Early Detection of Lung Cancer screening study and the Veterans Affairs Cooperative study.8,18Odds ratios for malignancy of solitary pulmonary nodules based on risk factors from the Mayo Clinic and Veterans Affairs models are provided inTable 2.17,18"
+        },
+        {
+            "parent": 5,
+            "text": "Most solitary pulmonary nodules are incidental findings on imaging studies of the chest, abdomen, and upper extremities. One study found that solitary pulmonary nodules were noted in 0.09% to 0.2% of radiographs.19In a study on whole-body CT screening, solitary pulmonary nodules were found in almost 15% of asymptomatic participants.20Occasionally, nodules as small as 5 to 6 mm can be visualized on chest radiography. Solitary pulmonary nodules can be followed with chest radiography, CT, or fluorodeoxyglucose positron emission tomography (FDG-PET). When a nodule is identified on imaging, it is important to secure old films for comparison to evaluate whether a nodule is new, old, stable, or growing over time."
+        },
+        {
+            "parent": 5,
+            "text": "The imaging tools used to evaluate solitary pulmonary nodules include chest CT and functional imaging (usually FDG-PET). Chest CT, preferably with thin sections, should be obtained in all patients with unclearly characterized solitary pulmonary nodules visible on chest radiography.6Chest CT has a higher specificity and sensitivity than chest radiography and can provide specific information about location, size, and attenuation characteristics of nodules.6Contrast enhancement is not typically required when imaging a solitary nodule. Chest CT is the imaging modality of choice for reevaluation of pulmonary nodules visible on chest radiography and for continued surveillance of nodules for change in size.6Radiologic features such as size, border, density, calcification, and growth can be used to predict malignancy(Table 3).5,6"
+        },
+        {
+            "parent": 5,
+            "text": "Functional imaging with FDG-PET can further distinguish between benign and malignant nodules because of the increased metabolic activity typically found in cancers. FDG avidity is measured by the standardized uptake value. The optimal cutoff for malignant nodules under all circumstances is unknown. In most studies, a standardized uptake value greater than 2.5 is used to identify nodules that have a high probability of malignancy.21"
+        },
+        {
+            "parent": 5,
+            "text": "FDG-PET is most cost-effective when the clinical pretest probability of malignancy and the results of the CT are discordant (e.g., low pretest probability with chest CT characteristics that are clearly not benign).22The 2013 ACCP guidelines recommend FDG-PET in persons with solid indeterminate nodules 8 mm or greater in diameter, and a low to intermediate pretest probability of malignancy.6"
+        },
+        {
+            "parent": 6,
+            "text": "Management approaches to solitary pulmonary nodules vary and are often inconsistent with guidelines.23Options include surgical diagnosis, nonsurgical biopsy (e.g., transthoracic or endoscopic needle biopsy), and surveillance with serial CT. Treatment should be tailored to the patient and take into account the probability of malignancy and nodule characteristics. Nodules in patients with adequate prior imaging should be assessed for growth or stability. A solid or subsolid nodule that has shown clear growth on serial imaging has a high likelihood of malignancy and should be further evaluated with resection or biopsy unless there are specific contraindications, such as severe pulmonary dysfunction or other risks for surgery or general anesthesia.6"
+        },
+        {
+            "parent": 6,
+            "text": "Figure 2illustrates a suggested approach for patients with a solid nodule 8 mm or greater in diameter in whom previous imaging is insufficient to document growth or stability.6Very-low-probability nodules (less than 5%) can be followed by serial CT. Low/moderate-probability nodules (5% to 65%) should be evaluated with FDG-PET scans. Nodules that demonstrate moderate or intense uptake on FDG-PET should be biopsied or resected."
+        },
+        {
+            "parent": 6,
+            "text": "The optimal management of solid nodules measuring less than 8 mm remains uncertain. Small nodules are difficult to biopsy and not reliably characterized on FDG-PET scan. Given the relatively low prevalence of malignancy, the risks of surgical diagnosis usually outweigh the benefits; therefore, solid nodules that are less than 8 mm are usually followed with serial CT at intervals determined by expert consensus24(Figure 36)."
+        },
+        {
+            "parent": 6,
+            "text": "Figure 4illustrates suggested management strategies for pure ground-glass, part-solid, and multiple nodules.6,13In general, a purely subsolid nodule greater than 5 mm should be reevaluated with a single CT scan at three months, and further management should be determined by size or emergence of a solid component if the nodule persists at three months. Subsolid nodules have a greater likelihood of being malignant, and management should be based on size of the nodule.13"
+        },
+        {
+            "parent": 6,
+            "text": "It is important to align the intensity of diagnostic and therapeutic interventions for pulmonary nodules with the patient's elicited values and preferences. For example, the preferences of a 75-year-old patient with life-limiting chronic obstructive pulmonary disease would likely be different from those of an otherwise healthy 35-year-old patient with a nodule."
+        },
+        {
+            "parent": 6,
+            "text": "The choice of sampling procedure varies according to the size and location of the nodule, the availability of the procedure, and local expertise. Endoscopic techniques are generally preferred for large, centrally located lesions, and transthoracic biopsy techniques are preferred for more peripheral lesions. Surgical resection is the diagnostic standard for malignant solitary pulmonary nodules and the preferred procedure for nodules at high risk of malignancy (greater than 65% probability).6"
+        },
+        {
+            "parent": 7,
+            "text": "Based on the results of the National Lung Screening Trial,25the U.S. Preventive Services Task Force currently recommends—and Medicare reimburses for—a shared decision-making visit and annual screening for lung cancer with low-dose CT in adults 55 to 77 years of age who have at least a 30-pack-year smoking history and currently smoke or have quit within the past 15 years.2,26It is recommended that lung cancer screening be performed at institutions that can provide a comprehensive approach to the management of solitary pulmonary nodules.26"
+        },
+        {
+            "parent": 7,
+            "text": "In 2014, the American College of Radiology Lung Imaging Reporting and Data System was released to standardize lung cancer screening CT reporting and management recommendations(Figure 5).27Although the requirements for lung cancer screening differ slightly from previous recommendations on management of solitary pulmonary nodules, it is likely that the evaluation and follow-up recommendations will become the same."
+        },
+        {
+            "parent": 8,
+            "text": "Patients may be referred to a pulmonologist if they have lesions that may be biopsied by bronchoscopy or if the best management approach is unclear. Interventional radiologists and surgeons can biopsy lesions by fine-needle aspiration or video-assisted thoracoscopic surgery, among other techniques, depending on nodule characteristics, patient preferences, and patient comorbidities."
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key terms solitary pulmonary nodule, diagnosis, and management. The search included randomized controlled trials, clinical trials, reviews, and clinical guidelines. Other sources included Essential Evidence Plus, U.S. Preventive Services Task Force, UpToDate, Centers for Medicare and Medicaid Services, and the American College of Radiology. Search dates: November 16, 2014, and May 2015."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,336 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/0101/p79.html#afp19990101p79-f1",
+    "title": "Hepatitis C: Part I. Routine Serologic Testing and Diagnosis | AAFP",
+    "author": "LINDA A. MOYER, R.N., ERIC E. MAST, M.D., M.P.H., AND MIRIAM J. ALTER, PH.D.",
+    "doi": "Am Fam Physician.1999;59(1):79-",
+    "abstract": "Hepatitis C, which is caused by the hepatitis C virus (HCV), is a major public health problem in the United States. HCV is most efficiently transmitted through large or repeated percutaneous exposures to blood. Most patients with acute HCV infection develop persistent infection, and 70 percent of patients develop chronic hepatitis. HCV–associated chronic liver disease results in 8,000 to 10,000 deaths per year, and the annual costs of acute and chronic hepatitis C exceed $600 million. An estimated 3.9 million Americans are currently infected with HCV, but most of these persons are asymptomatic and do not know they are infected. To identify them, primary health care professionals should obtain a history of high-risk practices associated with the transmission of HCV and other bloodborne pathogens from all patients. Routine testing is currently recommended only in patients who are most likely to be infected with HCV.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Features and Natural History",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "ACUTE HCV INFECTION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "CHRONIC HCV INFECTION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Disease Burden",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Risk Factors and Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Diagnostic Tests",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "SEROLOGIC ASSAYS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "NUCLEIC ACID DETECTION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Routine Serologic Testing",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "ROUTINE TESTING OF PERSONS WITH HIGH-RISK PRACTICES",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "SEROLOGIC TESTING OF ASYMPTOMATIC PATIENTS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The hepatitis C virus (HCV), identified in 1988 through molecular biological techniques, is an enveloped virus that is classified as a separate genus in the Flaviviridae family.1The HCV genome is a single-stranded, positive-sense RNA molecule approximately 9.5 kilobases (kb) in length. Like other RNA viruses, the HCV genome exhibits substantial heterogeneity, which is the result of mutations that occur during viral replication. Within an infected person, HCV exists as a population of closely related yet heterogeneous variants, called quasi-species, that result from the rapid development of mutations in the viral genome."
+        },
+        {
+            "parent": -1,
+            "text": "Worldwide, six genetically distinct groups of HCV isolates, called genotypes, and a number of more closely related subtypes have developed as a result of accumulated mutations. The known genotypes have been numbered from 1 through 6, and the subtypes have been labeled a, b and c, in order of discovery. U.S. studies of patients with chronic HCV infection have shown that genotype 1 is the most common (about 70 percent), with subtype 1a accounting for a slightly higher proportion than 1b. All genotypes are pathogenic, and there appears to be no correlation between genotype and source of infection. However, patients with HCV genotype 1a or 1b have lower rates of response to therapy than patients with other genotypes."
+        },
+        {
+            "parent": -1,
+            "text": "Why do most patients remain persistently infected?"
+        },
+        {
+            "parent": -1,
+            "text": "Patients infected with HCV mount an immune response to sites on the virus (epitopes) to which specific antibodies can bind. However, sequential changes in the viral genome result in variants that are not recognized by preexisting antibodies that would normally neutralize or prevent infection. The generation of these neutralization escape mutants appears to be the mechanism by which the virus establishes and maintains persistent infection. The lack of an effective neutralizing antibody response also means that natural infection does not protect against reinfection with the same or different genotypes of the virus. For the same reason, there is no effective pre-or postexposure prophylaxis.2,3"
+        },
+        {
+            "parent": 1,
+            "text": "The incubation period for newly acquired (acute) HCV infection ranges from two weeks to six months, with an average incubation period of six to seven weeks.4–6However, viral replication can be detected as early as one week after exposure. Of patients with acute HCV infection, 60 to 70 percent have no discernible symptoms; 20 to 30 percent have jaundice; and 10 to 20 percent have nonspecific symptoms such as loss of appetite, fatigue and abdominal pain.7–9"
+        },
+        {
+            "parent": 1,
+            "text": "Most patients (about 80 percent) who seek medical care for symptoms related to acute hepatitis C have bilirubin levels of at least 3.0 mg per dL (51 μmol per L); average: 4.1 mg per dL (70 μmol per L) and alanine aminotransferase (ALT) levels greater than 600 U per L (10,000 nkat per L); average: 1,410 U per L (23,500 nkat per L). Only 15 percent of patients require hospitalization, and fulminant disease is rare.10,11"
+        },
+        {
+            "parent": 1,
+            "text": "The course of acute hepatitis C is variable, although its most characteristic feature is fluctuating, polyphasic ALT patterns. Some patients have variations of several hundreds of U per L from week to week, and such variations are sometimes recurrent, with the magnitude of the ALT elevations diminishing over time. Normalization of ALT levels, which may occur, suggests full recovery but is frequently followed by ALT elevations, indicating chronic liver disease.12This facet of hepatitis C necessitates prolonged follow-up to assure appropriate diagnosis and management."
+        },
+        {
+            "parent": 2,
+            "text": "Most patients (85 percent or more) with acute HCV infection develop persistent infection12–14; chronic hepatitis develops in an average of 70 percent of infected patients.4,7,12,15–18No clinical features of the acute disease or risk factors for infection, including a history of percutaneous exposures, have been found to be predictive of chronicity."
+        },
+        {
+            "parent": 2,
+            "text": "In the United States, about 40 to 60 percent of cases of chronic liver disease are associated with HCV infection.15The progression of chronic liver disease is usually insidious: it is slow and without symptoms or physical signs in most patients during the first two decades after infection. Frequently, chronic hepatitis is not recognized until symptoms appear with the development of advanced liver disease."
+        },
+        {
+            "parent": 2,
+            "text": "What is the risk that a person with chronic hepatitis C will develop severe hepatic sequelae?"
+        },
+        {
+            "parent": 2,
+            "text": "The risk for severe hepatic sequelae is difficult to assess because the number of prospective studies is small, the definitions of clinical disease differ among studies and histopathologic data are not always available. Follow-up studies have shown that chronic active hepatitis developed in 26 percent to more than 50 percent of HCV–infected patients, and cirrhosis in 8 to 42 percent, an average of three years after the onset of acute disease. Longer follow-up studies indicate that cirrhosis develops in 10 to 20 percent of persons during the first 20 years of HCV infection.19"
+        },
+        {
+            "parent": 2,
+            "text": "HCV also appears to be a contributing cause of primary hepatocellular carcinoma. Once cirrhosis is established, the rate of development of primary hepatocellular carcinoma may be as high as 1 to 4 percent per year.20"
+        },
+        {
+            "parent": 2,
+            "text": "What is the risk of death from HCV–associated chronic liver disease?"
+        },
+        {
+            "parent": 2,
+            "text": "Twenty-year follow-up studies of patients with HCV infection have shown that mortality caused by liver disease was infrequent (range: 1.6 percent to 6 percent).19"
+        },
+        {
+            "parent": 2,
+            "text": "What factors influence the severity of chronic liver disease in patients with chronic HCV infection?"
+        },
+        {
+            "parent": 2,
+            "text": "Epidemiologic, clinical and virologic factors predicting the severity of liver disease have not been well defined. Among the factors that have been considered are modality of infection, patient age, duration of disease, genotype, serum viral load, degree of variation of HCV, host immunity and co-factors (hepatitis B and alcohol use). The most convincing data show that age above 40 years, male gender and ingestion of 50 g (or more) of alcohol per day are factors that increase the severity of liver disease.19"
+        },
+        {
+            "parent": 2,
+            "text": "Can a patient have normal ALT levels and still have chronic hepatitis C?"
+        },
+        {
+            "parent": 2,
+            "text": "Yes. One of the hallmarks of chronic hepatitis C is a fluctuating ALT pattern, and some patients may have prolonged periods (12 months or more) of normal ALT activity, although they have histologically confirmed chronic hepatitis. For anti-HCV–positive patients with a normal ALT value, the presence of ongoing liver inflammation should be assessed by monitoring serum ALT values several times over six to 12 months, because abnormalities may be present only intermittently in patients with chronic hepatitis C.12"
+        },
+        {
+            "parent": 2,
+            "text": "What are the most common extrahepatic manifestations that may occur in a patient with chronic hepatitis C?"
+        },
+        {
+            "parent": 2,
+            "text": "Type II cryoglobulinemia, membranoproliferative glomerulonephritis and porphyria cutanea tarda are the most common extra-hepatic manifestations. In several studies, 80 to 95 percent of patients with type II cryoglobulinemia (essential mixed cryoglobulinemia) were found to have evidence of HCV infection. Other extrahepatic conditions, including Sjögren's syndrome, autoimmune thyroiditis, lichen planus, Mooren's corneal ulcers and idiopathic pulmonary fibrosis, have been reported in patients with HCV infection, but definitive associations of these conditions with HCV infection have not been established.21,22"
+        },
+        {
+            "parent": 3,
+            "text": "In the United States, the estimated annual number of newly acquired (acute) HCV infections has declined from an average of 230,000 during the 1980s to about 36,000 in 1996.23The prevalence of HCV antibody (anti-HCV) in the general population of the United States is 1.8 percent, corresponding to an estimated 3.9 million Americans infected with HCV.24An estimated 8,000 to 10,000 annual deaths result from HCV–associated chronic liver disease. The costs of acute and chronic hepatitis C are considerable. In 1992, the estimated total annual cost of acute and chronic hepatitis C was more than $600 million.25"
+        },
+        {
+            "parent": 4,
+            "text": "HCV is a bloodborne virus that is most efficiently transmitted through large or repeated percutaneous exposures to blood, such as transfusions or transplants from infected donors, inadvertent contamination of supplies shared among patients undergoing chronic hemodialysis or sharing of equipment among injection drug users. Transmission of HCV may also occur through high-risk sex (defined by a history of sexually transmitted disease and unprotected sex with multiple partners) or through perinatal exposure, percutaneous exposures in the health care setting or exposure to an infected household contact.15"
+        },
+        {
+            "parent": 4,
+            "text": "What is the risk of HCV transmission through injection and other illegal drug use?"
+        },
+        {
+            "parent": 4,
+            "text": "Injection drug users quickly acquire HCV infection after they start to inject drugs. One study reported that 50 to 80 percent of users were anti-HCV positive within 12 months of initiating drug injection.26Even persons who may have experimented only a few times many years ago are at risk of being infected with HCV. HCV infection has also been associated with a history of intranasal cocaine use.27It is not known whether this type of noninjection illegal drug use is an independent mode of transmission (perhaps through sharing blood-contaminated straws) or an indication that the patient practices both injection and non-injection illegal drug use."
+        },
+        {
+            "parent": 4,
+            "text": "What is the risk for HCV infection from a needle-stick exposure?"
+        },
+        {
+            "parent": 4,
+            "text": "The average incidence of anti-HCV seroconversion among health-care workers after unintentional needle sticks or sharps exposures is 1.8 percent (range: zero to 7 percent).28,29"
+        },
+        {
+            "parent": 4,
+            "text": "Is there a risk for nosocomial transmission of HCV?"
+        },
+        {
+            "parent": 4,
+            "text": "Nosocomial transmission of HCV is possible in health care settings if breaks in technique occur or if disinfection procedures are inadequate and contaminated equipment is shared between patients. Sharing of contaminated supplies may contribute to the higher rates of HCV infection that are observed among chronic hemodialysis patients.30Case control studies have not found an association between standard medical care procedures and transmission of HCV in the United States.31,32"
+        },
+        {
+            "parent": 4,
+            "text": "What is the current risk for HCV infection from transfused blood or blood products?"
+        },
+        {
+            "parent": 4,
+            "text": "The current rate of risk is one per 100,000 per transfused unit.33,34"
+        },
+        {
+            "parent": 4,
+            "text": "Is HCV transmitted sexually?"
+        },
+        {
+            "parent": 4,
+            "text": "The risk of HCV transmission through sexual activity is controversial. The available data indicate that transmission does occur, although with a very low frequency.31,32,35,36In the United States, 10 to 15 percent of persons reported to have acute hepatitis C have reported a history of high-risk sexual behaviors that include an STD and unprotected sex with multiple partners in the absence of percutaneous risk factors. Two-thirds of these persons had an anti-HCV–positive partner.35"
+        },
+        {
+            "parent": 4,
+            "text": "Can HCV be transmitted by oral sex?"
+        },
+        {
+            "parent": 4,
+            "text": "There are no data to support this mode of transmission."
+        },
+        {
+            "parent": 4,
+            "text": "Is HCV transmitted through household contact?"
+        },
+        {
+            "parent": 4,
+            "text": "Transmission of HCV between nonsexual household contacts is rare but theoretically possible if percutaneous or permucosal exposure to infectious blood occurs.31,32,36,37Anti-HCV–positive persons should be counseled to protect others from exposure to their blood by not sharing personal articles such as toothbrushes or razors."
+        },
+        {
+            "parent": 4,
+            "text": "What is the risk of HCV transmission from mother to infant?"
+        },
+        {
+            "parent": 4,
+            "text": "Among infants born to women who were positive for anti-HCV and negative for anti-bodies to human immunodeficiency virus (HIV), evidence of HCV infection has been found in an average of 5 percent (range: zero to 25 percent) based on detection of anti-HCV, and in a similar proportion (6 percent) based on detection of HCV RNA. The average transmission rate for infants born to women co-infected with HCV and HIV was higher; 14 percent (range: 5 to 36 percent) based on detection of anti-HCV, and 17 percent based on detection of HCV RNA. The transmission of HCV infection through breast milk has not been documented. In the five studies that have evaluated infants born to HCV–infected women, the average rate of infection was 4 percent in both breast-fed and bottle-fed infants.37"
+        },
+        {
+            "parent": 4,
+            "text": "What is the risk for HCV transmission from tattooing or body piercing?"
+        },
+        {
+            "parent": 4,
+            "text": "Although there have been no reports of an association between HCV infection and these types of exposures in the United States, HCV infection has been associated with tattooing and body piercing in other countries.23"
+        },
+        {
+            "parent": 6,
+            "text": "The diagnosis of HCV infection can be made by detecting either anti-HCV or HCV RNA. Detection of anti-HCV is recommended for routine testing of asymptomatic persons and should include use of both enzyme immunoassay (EIA) and supplemental or confirmatory testing with an additional, more specific assay(Figure 1). Use of supplemental antibody testing (i.e., RIBA) for all positive anti-HCV results of EIA is preferred, particularly in settings where clinical services are not provided directly."
+        },
+        {
+            "parent": 6,
+            "text": "Supplemental anti-HCV testing confirms the presence of anti-HCV (i.e., eliminates false-positive antibody results), which indicates past or current infection, and can be performed on the same serum sample collected for the EIA (i.e., routine serology). Confirmation or exclusion of HCV infection in a person with indeterminate anti-HCV supplemental test results should be made on the basis of further laboratory testing, which might include repeating the anti-HCV test in two or more months or testing for HCV RNA and determining the ALT level23,38–41(Table 1)."
+        },
+        {
+            "parent": 7,
+            "text": "The diagnosis of HCV infection can also be made through detection of HCV RNA using reverse transcriptase polymerase chain reaction (RT-PCR) techniques(Figure 1). HCV RNA can be detected within one to two weeks after exposure to the virus, weeks before the onset of ALT elevations or the appearance of anti-HCV.42In some patients, the detection of HCV RNA may be the only evidence of HCV infection."
+        },
+        {
+            "parent": 7,
+            "text": "Although polymerase chain reaction (PCR) assays for HCV RNA are available from several commercial laboratories on a research-use basis, the results may vary considerably between laboratories. Both false-positive and false-negative results can result from improper collection, handling and storage of test samples. In addition, HCV RNA may be detected intermittently during the course of infection, so a single negative PCR result is not conclusive. Because of assay variability, rigorous proficiency testing is recommended for clinical laboratories performing this assay, and results of PCR testing should be interpreted cautiously.23,43"
+        },
+        {
+            "parent": 7,
+            "text": "Quantitative assays for measuring the titer of HCV RNA have been developed, including a branched chain DNA assay and a quantitative PCR. Several different nucleic acid detection methods also have been developed to group isolates of HCV based on genotypes(Table 1)."
+        },
+        {
+            "parent": 7,
+            "text": "Is there a test to differentiate acute from chronic hepatitis C?"
+        },
+        {
+            "parent": 7,
+            "text": "None of the available tests to detect antibody or virus can differentiate acute, chronic and resolved infections."
+        },
+        {
+            "parent": 7,
+            "text": "What may cause a false-positive anti-HCV test result?"
+        },
+        {
+            "parent": 7,
+            "text": "As with any screening test, the proportion of repeatedly reactive results that are falsely positive varies, depending on the prevalence of infection in the population tested. In high-prevalence populations, such as injection drug users, the positive predictive value is very high. In low-prevalence populations, such as blood donors, the positive predictive value is much lower.43A repeatedly reactive anti-HCV EIA result should be verified with a supplemental assay such as the RIBA.40,41"
+        },
+        {
+            "parent": 7,
+            "text": "Is quantitative viral testing useful in managing patients with hepatitis C?"
+        },
+        {
+            "parent": 7,
+            "text": "Quantitative assays are less sensitive than standard PCR assays; thus, they should not be used as a primary test to confirm or exclude the diagnosis of HCV infection or to monitor the end point of treatment. To date, sequential measurement of HCV RNA levels has not proved useful in the management of patients with hepatitis C.21"
+        },
+        {
+            "parent": 7,
+            "text": "Is it necessary to do genotyping when managing a patient with chronic hepatitis C?"
+        },
+        {
+            "parent": 7,
+            "text": "Although patients with some genotypes respond less often to therapy, the genotype should not be a deciding factor on whether therapy is instituted or not.21"
+        },
+        {
+            "parent": 8,
+            "text": "Relatively few patients seek medical care for acute hepatitis C, since most patients are asymptomatic or have only mild, flu-like symptoms. Of those who do present with acute hepatitis C, 70 to 80 percent have detectable anti-HCV at clinical presentation, and 90 percent have detectable anti-HCV by 12 weeks after onset.44Therefore, anti-HCV testing should be repeated if acute hepatitis C is suspected and the initial test result is negative. Most patients with acute hepatitis C remain chronically infected, and approximately two thirds or more of patients with chronic infection have abnormal ALT activity. Based on serial serum samples with normal values for ALT and negative results for HCV RNA, it is estimated that in 15 percent of HCV–infected patients, the infection resolves, and the patients recover from hepatitis C.21"
+        },
+        {
+            "parent": 8,
+            "text": "In most instances, evidence of chronic HCV infection is discovered by chance through screening tests at the time of blood donation or a routine physical examination. Most persons who are found to be positive for anti-HCV in these situations are chronically infected. No tests are available to differentiate acute, chronic and resolved infections, and the diagnosis of chronic hepatitis C is usually based on the presence of elevated ALT values in patients who are positive for anti-HCV. For anti-HCV–positive patients with a normal ALT value, the presence of ongoing liver inflammation should be assessed by monitoring serum ALT values several times over six to 12 months, because abnormalities may be present only intermittently in patients with chronic hepatitis C."
+        },
+        {
+            "parent": 8,
+            "text": "When does a patient seroconvert from anti-HCV negative to anti-HCV positive in the course of acute HCV infection?"
+        },
+        {
+            "parent": 8,
+            "text": "Anti-HCV becomes detectable during the course of illness in at least 97 percent of HCV–infected persons. Anti-HCV can be detected in about 70 to 80 percent of patients at the onset of symptoms and in approximately 90 percent of patients within three months after onset.44"
+        },
+        {
+            "parent": 8,
+            "text": "When should infants born to HCV–infected mothers be checked for HCV infection?"
+        },
+        {
+            "parent": 8,
+            "text": "Diagnostic criteria for perinatal HCV infection have not been established. A variety of anti-HCV patterns have been observed in both infected and uninfected infants of anti-HCV–positive mothers. Because passively acquired maternal antibody may persist for some months but probably not for longer than 12 months, testing for anti-HCV should not be done until the infant is at least 12 months of age. If earlier diagnosis is desired, PCR testing might be performed at or after an infant's well-child visit at one to two months of age. Cord blood should never be used for the diagnosis of perinatal HCV infection, because it can be contaminated by maternal blood.45"
+        },
+        {
+            "parent": 10,
+            "text": "As part of a complete medical history for all patients, it is important to obtain a history of high-risk practices associated with the transmission of HCV and other bloodborne pathogens. Routine anti-HCV testing is currently recommended for use only in persons who are most likely to be infected with HCV or for purposes of exposure management(Table 2). The confidentiality of patient test results should be protected."
+        },
+        {
+            "parent": 11,
+            "text": "Testing asymptomatic patients for HCV infection potentially benefits them in several ways, including evaluation for chronic liver disease and possible treatment; advice about avoiding potential hepatotoxins, such as alcohol, that may increase the severity of their disease; and counseling on ways to reduce their risk of transmitting HCV to others. An algorithm for the testing of asymptomatic patients for HCV infection is presented inFigure 1."
+        },
+        {
+            "parent": 11,
+            "text": "A number of issues should be considered when selecting persons for testing. Patients may not change their high-risk practices or alcohol use based on knowledge of their test results, and it is not known if treating asymptomatic HCV–infected patients results in lower morbidity or longer survival. In addition, testing for HCV infection may cause considerable anxiety, because disclosure of test results to others can result in disrupted personal relationships and possible discriminatory actions such as loss of employment, insurance and educational opportunities. To minimize possible adverse consequences of testing, comprehensive information about hepatitis C should be provided before testing. This may not be practical when testing is part of a clinical work-up or when anti-HCV testing is required. In these cases, persons should be informed that testing for HCV infection will be performed, results will be confidential, and appropriate counseling and referral will be offered if results are positive."
+        },
+        {
+            "parent": 11,
+            "text": "Who should be routinely tested for evidence of HCV infection?"
+        },
+        {
+            "parent": 11,
+            "text": "Routine anti-HCV testing is currently recommended only for persons who are most likely to be infected with HCV. These persons are listed inTable 2."
+        },
+        {
+            "parent": 11,
+            "text": "Should pregnant women be routinely tested for anti-HCV?"
+        },
+        {
+            "parent": 11,
+            "text": "Routine testing of pregnant women for anti-HCV is not currently recommended, because the number of pregnant women who would be positive is expected to be low. In addition, no measures are available to prevent perinatal transmission of HCV, and no licensed therapy or guidelines for the treatment of HCV-infected infants or children exist.36,37,45"
+        }
+    ],
+    "locked": false
+}

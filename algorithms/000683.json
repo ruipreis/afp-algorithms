@@ -1,0 +1,188 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/1201/p2225.html#afp20051201p2225-f1",
+    "title": "Management of Active Tuberculosis | AAFP",
+    "author": "BETH POTTER, M.D., KIRSTEN RINDFLEISCH, M.D., AND CONNIE K. KRAUS, PHARM.D., B.C.P.S.",
+    "doi": "Am Fam Physician.2005;72(11):2225-2232",
+    "abstract": "Although the overall incidence of tuberculosis has been declining in the United States, it remains an important public health concern, particularly among immigrants, homeless persons, and persons infected with human immunodeficiency virus. Patients who present with symptoms of active tuberculosis (e.g., cough, weight loss, or malaise with known exposure to the disease) should be evaluated. Three induced sputum samples for acid-fast bacillus smear and culture should be obtained from patients with findings of tuberculosis or suspicion for active disease. If the patient has manifestations of extrapulmonary tuberculosis, smears and cultures should be obtained from these sites. Most patients with active tuberculosis should be treated initially with isoniazid, rifampin, pyrazinamide, and ethambutol for eight weeks, followed by 18 weeks of treatment with isoniazid and rifampin if needed. Repeat cultures should be performed after the initial eight-week treatment.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening and Primary Prevention",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY AND CLINICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "INITIATION OF TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DURATION OF TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ADHERENCE TO THERAPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PREVENTION OF COMPLICATIONS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "SPECIAL CIRCUMSTANCES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "ADJUVANT THERAPY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MANAGEMENT OF RELAPSE, TREATMENT FAILURE, AND RESISTANCE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Nearly one third of the world’s population is infected withMycobacterium tuberculosis.1More than one half of all infections occur in China, Southeast Asia, and the Indian subcontinent; the highest per capita incidence occurs in sub-Saharan Africa.2In the United States, the incidence of active tuberculosis has decreased steadily since 1992.3However, the rate of decline has slowed in the past two years.4Some states and urban centers still report increases in infections, and disparities in incidence and morbidity persist among certain high-risk groups."
+        },
+        {
+            "parent": 0,
+            "text": "The U.S. Preventive Services Task Force5recommends routine screening for tuberculosis in high-risk populations(Table 15). The goal of this recommendation is to identify persons at significant risk for progressing to active disease. A validated risk-assessment questionnaire may be used to identify children who are likely to benefit from screening(Table 26)."
+        },
+        {
+            "parent": 0,
+            "text": "Primary prevention efforts have focused on the bacille Calmette-Guérin (BCG) vaccine, a live vaccine derived from an attenuated strain ofMycobacterium bovis. Although BCG vaccine is used commonly in many parts of the world, few data support its effectiveness in reducing tuberculosis-related morbidity and mortality in the general population. However, vaccination does reduce the occurrence of severe (e.g., meningeal) and disseminated forms of tuberculosis in young children. In the United States, vaccination may be considered for children with continuous and unavoidable exposure to adults with inadequately treated or multi-drug-resistant active disease.7The decision to vaccinate should be made in consultation with local tuberculosis control programs."
+        },
+        {
+            "parent": 1,
+            "text": "The diagnosis of active tuberculosis begins with a high index of suspicion for disease. A positive acid-fast bacillus (AFB) smear or positive culture forM. tuberculosisconfirms active disease. However, if the suspicion for active disease is high enough, treatment should begin without waiting for a final diagnosis."
+        },
+        {
+            "parent": 2,
+            "text": "Most patients with active tuberculosis have non-specific findings on clinical examination, such as fever, wasting, and ill appearance.8Patients also may present with headaches, back pain, or abdominal pain. Patients with active pulmonary tuberculosis may have nonspecific findings on clinical examination, ranging from normal lung sounds to rales. Patients with extrapulmonary tuberculosis may present with altered sensorium, cranial nerve palsy, seizures, monoarticular joint swelling, and painless lymphadenopathy."
+        },
+        {
+            "parent": 3,
+            "text": "A sample of tissue or fluid should be obtained from the suspected site of infection, and AFB smears, nucleic amplification (if necessary), and culture should be performed. Chest radiographs should be obtained in patients with cough or other evidence of pulmonary disease. Pleuropulmonary tuberculosis may present in a variety of ways on chest radiographs, including unilateral pleural effusion, cavitary lesions, hilar lymphadenopathy, and infiltrates in the lower lobes. If pulmonary tuberculosis is suspected, three induced sputum samples, obtained on three separate days, should be obtained for AFB smears and cultures. In children who are unable to produce sputum specimens, gastric aspirate may be used for AFB smears and cultures.9"
+        },
+        {
+            "parent": 3,
+            "text": "If extrapulmonary TB is suspected, fluid or tissue from the suspected site of infection (e.g., gastric aspirates, urine, cerebrospinal fluid, pleural fluid, exudates from abscesses, bone marrow) should be evaluated. To detect AFB, a smear must contain between 5,000 and 10,000 bacilli per mL.9Many specimens do not have a large concentration of bacilli, and further testing must be performed. An “enhanced” nucleic acid amplification test may be used to help confirm the diagnosis; however, the role for nucleic amplification is still unclear.10After evaluating for AFB, all specimens should be cultured. Mycobacterial cultures are more sensitive than AFB smears and can detect as few as 10 bacilli per mL. The culture may be used to test drug susceptibility and genotype organisms for epidemiologic links.9"
+        },
+        {
+            "parent": 4,
+            "text": "Ten drugs have been approved for treatment of patients with tuberculosis. In addition, several others that have not been approved are used commonly, including certain fluoroquinolones, rifabutin (Mycobutin), amikacin (Amikin), and kanamycin (Kantrex). Isoniazid (INH), rifampin (Rifadin), ethambutol (Myambutol), and pyrazinamide are first-line therapies.11A summary of treatment guidelines for handheld computers is available from the Centers for Disease Control and Prevention Web site athttp://www.cdc.gov/nchstp/tb/pubs/PDA_TBGuidelines/PDA_treatment_guidelines.htm."
+        },
+        {
+            "parent": 5,
+            "text": "The decision to initiate treatment is based on clinical suspicion of disease; physicians should not necessarily await the results of cultures or smears before beginning treatment(Table 3).11Patients in whom there is high clinical suspicion for active tuberculosis should begin treatment with a four-drug regimen. Treatment of patients with negative sputum smears depends on the degree of clinical suspicion and is summarized inFigure 1.11Patients with low clinical suspicion, negative cultures, and stable radiographic findings are candidates for treatment of latent tuberculosis.11"
+        },
+        {
+            "parent": 6,
+            "text": "Four regimens are recommended for patients without drug-resistant tuberculosis(Table 3).11Recommended dosages for first-line medications are given inTables 411and5.11"
+        },
+        {
+            "parent": 6,
+            "text": "The initial eight-week phase of each regimen includes four agents to cover drug-resistant strains ofM. tuberculosisuntil culture results are available.11The preferred regimen for the initiation phase of treatment consists of isoniazid, rifampin, pyrazinamide, and ethambutol. Most patients require an 18-week continuation phase after initiation. The preferred regimens for the continuation phase include daily or twice-weekly doses of isoniazid and rifampin. Five-times-per-week dosing also may be effective when given by direct observation therapy, although this regimen is not based on data from clinical trials.11"
+        },
+        {
+            "parent": 6,
+            "text": "Three groups of patients should receive 31 weeks of continuation therapy: those with drug-susceptible cavitary pulmonary tuberculosis and positive sputum cultures at the completion of the initial phase; those whose initiation phase did not include pyrazinamide; and those who received once-weekly isoniazid and rifapentine during the initiation phase of treatment and had a positive sputum culture at the end of the initiation phase."
+        },
+        {
+            "parent": 7,
+            "text": "Drug resistance is more likely in patients whose therapy is interrupted early in the course of treatment or who spend a significant amount of time off the medication.11An evidence-based guideline11recommends that the responsibility for treatment success belongs to the physician or public health system, not the patient. It also recommends patient-centered case management, including use of direct observation therapy, to improve adherence."
+        },
+        {
+            "parent": 8,
+            "text": "Several potential drug interactions are associated with the medications used for treatment of tuberculosis, most notably, the rifamycin drugs.11Physicians should be alert for potential interactions with other medications."
+        },
+        {
+            "parent": 8,
+            "text": "Medications for tuberculosis treatment should be administered together.11If upset stomach occurs, they should be taken with food rather than splitting doses or changing to second-line agents."
+        },
+        {
+            "parent": 8,
+            "text": "Isoniazid, rifampin, and pyrazinamide may cause drug-induced hepatitis, defined as five times the upper limit of normal serum aspartate transaminase (AST) in asymptomatic patients or three times the upper limit of normal in symptomatic patients. When AST levels exceed these limits, medications likely to cause hepatitis should be discontinued. In patients with elevated AST levels, capreomycin (Capastat), a fluoroquinolone, or two or more drugs unlikely to cause hepatitis (e.g., ethambutol, streptomycin, amikacin, kanamycin) may be used until liver enzymes normalize. At that point, first-line agents may be resumed with careful monitoring."
+        },
+        {
+            "parent": 8,
+            "text": "The risk for treatment failure (i.e., positive cultures after 18 weeks of treatment) or relapse (i.e., recurrence after completion of apparently curative therapy) is greatest in patients who present with cavitation on initial chest radiographs and have positive sputum cultures after the initial treatment phase. These patients should receive a minimum of 31 weeks of therapy after the initial eight-week initiation phase."
+        },
+        {
+            "parent": 9,
+            "text": "In general, patients with tuberculosis and human immunodeficiency virus (HIV) infection or acquired immunodeficiency syndrome should receive the same medications as patients without HIV infection.11However, the once-weekly continuation phase of isoniazid and rifapentine is not recommended in these patients because of a high rate of relapse with rifamycin-resistant organisms. Patients with low CD4+cell counts (i.e., less than 100 cells per mm3[0.1 × 109cells per L]) should receive daily or three-times-per-week regimens to prevent acquired rifampin resistance. Because the dosage of tuberculosis drugs must be adjusted based on the patient’s antiretroviral regimen, physicians should consult an infectious diseases subspecialist when treating patients with HIV and tuberculosis.12"
+        },
+        {
+            "parent": 9,
+            "text": "Children with tuberculosis have a high risk of disseminated disease, so treatment should be started promptly if the diagnosis is suspected. Because the risk of developing acquired drug resistance is lower in children, therapy generally begins with isoniazid, pyrazinamide, and rifampin. Ethambutol is not used routinely in children because of the risk for diminished visual acuity. However, in children and adolescents with upper lobe infiltration, cavitation, or sputum production, four agents should be used in the initial treatment phase."
+        },
+        {
+            "parent": 9,
+            "text": "Pregnant women with a moderate to high probability of tuberculosis should be treated with isoniazid, rifampin, and ethambutol because of the potential risk of disease transmission to the fetus and the apparent lack of teratogenic effects associated with these agents. Although there are fewer data on the teratogenicity of pyrazinamide compared with other antituberculosis agents, this drug is considered acceptable for use during pregnancy. If pyrazinamide is not included in the initiation phase of treatment, a minimum of nine months of treatment is recommended.11Streptomycin has been associated with congenital deafness and should be avoided in pregnant women."
+        },
+        {
+            "parent": 9,
+            "text": "Breastfeeding is not contraindicated during treatment for tuberculosis. The amount of tuberculosis drugs secreted in breast milk is unlikely to cause toxicity in infants. However, the amount secreted is not sufficient to treat latent tuberculosis in infants. Pyridoxine at a dosage of 25 mg daily should be given to prevent neuropathy in pregnant and lactating women taking isoniazid."
+        },
+        {
+            "parent": 9,
+            "text": "Patients with unstable or advanced liver disease are at increased risk for drug-induced hepatitis, which in this population can be serious or possibly life threatening. It may be more difficult to monitor liver toxicity from treatment because of disease-induced changes in biochemical markers of liver function. Regimens that do not include isoniazid or pyrazinamide may be considered in these patients. For patients with advanced liver disease, a regimen including a single, potentially hepatotoxic agent may be considered; rifampin usually is the agent retained."
+        },
+        {
+            "parent": 9,
+            "text": "In patients with radiographic and clinical evidence of tuberculosis but negative sputum cultures, active tuberculosis cannot be ruled out(Figure 1).11In patients suspected of having pulmonary tuberculosis, three sputum samples should be obtained. If necessary, sputum production may be induced with hypertonic saline. Bronchoscopy with bronchoalveolar lavage and biopsy also may be considered before a presumptive diagnosis of culture-negative tuberculosis is made. Treatment with isoniazid, rifampin, pyrazinamide, and ethambutol should be initiated in patients thought to have pulmonary tuberculosis on the basis of careful clinical evaluation and radiographic findings, even if the initial sputum smears are negative.11"
+        },
+        {
+            "parent": 9,
+            "text": "Patients with a positive tuberculin test who have radiographic evidence of prior tuberculosis and did not receive adequate therapy may receive preventive treatment for latent tuberculosis if sputum cultures are negative and current radiographs demonstrate stability.11"
+        },
+        {
+            "parent": 10,
+            "text": "Although current guidelines do not mention use of corticosteroids as adjuvant therapy, a systematic review13of 11 clinical trials compared the outcomes of 1,814 patients with moderate to severe active tuberculosis who used corticosteroids in conjunction with other therapy. Although corticosteroids did not improve the rate of sputum sterilization, they did provide clinical benefits such as earlier improvement in symptoms, increased weight gain, and more rapid resolution of lung infiltrates. These benefits also were noted in patients with cavitary disease.13"
+        },
+        {
+            "parent": 11,
+            "text": "Most relapses in patients who have become culture-negative during therapy occur in the first six to 12 months after completion of therapy.11Patients who received rifamycin agents and had observed therapy are likely to have organisms that are sensitive to standard treatment. Reasons to suspect resistant organisms include self-administered therapy, a non-rifamycin regimen, and lack of initial susceptibility testing in a patient who received standard therapy with direct observation."
+        },
+        {
+            "parent": 11,
+            "text": "For patients with relapse who had sputum culture–confirmed drug sensitivity and were treated with standard therapy by direct observation, standard four-drug therapy may be initiated pending new culture results. If drug resistance is suspected, therapy with isoniazid, rifampin, and pyrazinamide should be expanded to include two or three additional agents."
+        },
+        {
+            "parent": 11,
+            "text": "Treatment failure (i.e., continued or recurrently positive cultures during therapy) may result from nonadherence, drug resistance, poor drug absorption, laboratory error, or biologic variation in response. Early consultation with subspecialist care is advised in these patients."
+        },
+        {
+            "parent": 11,
+            "text": "Multidrug-resistant tuberculosis refers to disease that is resistant to isoniazid and rifampin. This should be suspected in patients who had previous treatment or contact with a person with known resistant tuberculosis or who are from an area with known multidrug-resistant tuberculosis. These patients should be referred for specialized treatment.11"
+        }
+    ],
+    "locked": false
+}

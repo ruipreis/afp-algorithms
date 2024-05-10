@@ -1,0 +1,156 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/0315/p1455.html#afp19990315p1455-f1",
+    "title": "Primary Prevention of CHD: Nine Ways to Reduce Risk | AAFP",
+    "author": "EDWARD P. HAVRANEK, M.D.",
+    "doi": "Am Fam Physician.1999;59(6):1455-1463",
+    "abstract": "Lowering cholesterol can reduce the incidence of coronary heart disease. Treating hypertension reduces overall mortality and is most effective in reducing the risk of coronary heart disease in older patients. Smoking cessation reduces the level of risk to that of nonsmokers within about three years of cessation. Aspirin is likely to be an effective means of primary prevention, but a group in whom treatment is appropriate has yet to be defined. Evidence that supplementation with vitamin A or C reduces the risk of coronary heart disease is inadequate; the data for use of vitamin E are inconclusive. Epidemiologic evidence is sufficient to recommend that most persons increase their levels of physical activity. Lowering homocysteine levels through increased folate intake is a promising but unproven primary prevention strategy. Hormone replacement therapy was associated with reduced incidence of coronary heart disease in epidemiologic studies but was not effective in a secondary prevention trial.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Cholesterol Reduction: Drugs and Diet",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Smoking Cessation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Control of Hypertension",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Aspirin",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Antioxidant Vitamins",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Exercise",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "B Vitamins and Homocysteine",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Hormone Replacement Therapy",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Interest in preventing the consequences of coronary heart disease (CHD) before the onset of symptoms is intense, because the disease frequently presents suddenly, and its prevalence is extraordinarily high. An estimated 13.9 million Americans have CHD. More than 481,000 Americans died of the disease in 1995, making it this country's leading cause of death.1Mortality rates have been falling, in part because of reduced prevalence of risk factors.2As more risk factors are identified, the question of which should be attacked and with what vigor remains open. This article will focus on nine prevention strategies for which reasonable epidemiologic or clinical data are available."
+        },
+        {
+            "parent": 0,
+            "text": "Cholesterol lowering reduces the rate of mortality in high-risk patients without established CHD. Guidelines for the selection of patients for treatment remain controversial. The most familiar scheme is that of the National Cholesterol Education Program (NCEP),3summarized inTable 1. Other proposed approaches are based on the principle that the benefit derived from cholesterol reduction is proportionate to the overall risk of developing CHD: the lower the risk, the smaller the benefit. This principle is exemplified in the work of Avins and Browner4and the Task Force of the European Society of Cardiology, European Atherosclerosis Society and European Society of Hypertension.5"
+        },
+        {
+            "parent": 0,
+            "text": "The most rational scheme combines this risk-based approach with the results of the West of Scotland Coronary Prevention Study (WOSCOPS),6a randomized study that demonstrated an association between reduced mortality and lowered cholesterol levels. In this study, men received either pravastatin, in a dosage of 40 mg per day, or placebo. Mortality was significantly lower in treated patients than in those given placebo (3.2 percent compared with 4.1 percent), and the combined end point of death plus myocardial infarction was reached less often in patients treated with pravastatin (5.5 percent versus 7.9 percent)."
+        },
+        {
+            "parent": 0,
+            "text": "Figure 1presents an algorithm in which primary intervention targets those whose five-year risk of CHD is 8 percent or more, approximately the same as the rate in the placebo group in WOSCOPS. Men between 35 and 75 years of age and women between 45 and 75 years of age are screened once with measurements of total and high-density lipoprotein (HDL) cholesterol levels. This recommendation comes from the American College of Physicians.7These guidelines are based on the principle that only those with a reasonable likelihood of benefit from treatment should be screened.8"
+        },
+        {
+            "parent": 0,
+            "text": "In the next steps in the algorithm, CHD risk is determined using data from the Framingham study9(Figure 2). For example, a 50-year-old woman with an HDL cholesterol level of 48 mg per dL (1.25 mmol per L), a total cholesterol level of 260 mg per dL (6.70 mmol per L) and no hypertension, smoking or diabetes would garner 9 points and suggest a 2 percent probability of manifesting CHD after five years. Further intervention is not indicated in this patient."
+        },
+        {
+            "parent": 0,
+            "text": "A 50-year-old man with the same cholesterol levels, who was a smoker and had a systolic blood pressure of 150 mm Hg without evidence for left ventricular hypertrophy would garner 21 points; his five-year likelihood of developing CHD is 9 percent. This patient should be screened with a fasting lipid panel to determine his low-density lipoprotein (LDL) cholesterol level and should receive treatment if this level is greater than 155 mg per dL (4.00 mmol per L). This threshold is based on the entry criteria for WOSCOPS and is consistent with the National Cholesterol Education Program guidelines."
+        },
+        {
+            "parent": 0,
+            "text": "Some words of caution regarding this algorithm are in order. First, the American College of Physicians' screening guidelines are conservative; readers should be aware that more liberal guidelines exist, albeit with less explicit foundations in clinical science. Secondly, the Framingham estimated risk has not been used as an entry criterion in a randomized trial."
+        },
+        {
+            "parent": 0,
+            "text": "Furthermore, this treatment algorithm does not address cost-effectiveness. Goldman and colleagues10reported that for primary prevention with lovastatin, the cost per year of life saved was $25,000 for men 55 to 64 years of age with cholesterol levels greater than 300 and two other risk factors, but $49,000 when no additional risk factors were present. Patients in the Air Force/Texas Coronary Atherosclerosis Prevention Study11who were treated with lovastatin had significant reductions in the combined end point of unstable angina, myocardial infarction and sudden cardiac death, and had mean baseline cholesterol levels of 221 mg per dL (5.70 mmol per L); cost-effectiveness ratios for such patients are likely to be even less favorable."
+        },
+        {
+            "parent": 0,
+            "text": "Several primary prevention studies have addressed diet modification. Dayton and colleagues12studied men in a long-term care facility where diet could be well controlled. Patients were randomized to one of two diets; in the control group, fat was saturated, while in the experimental group, it was unsaturated. Total cholesterol levels were, on average, 12 percent lower in the experimental group. After eight years, significantly fewer cardiovascular deaths had occurred in the experimental group. The Oslo Study13randomized men to diet and smoking cessation instruction or to usual care. The intervention group had lower total cholesterol levels—263 mg per dL (6.80 mmol per L) versus 341 mg per dL (8.80 mmol per L)—and 45 percent lower tobacco consumption at the end of the study. At five years this resulted in a statistically significant reduction in the combined end point of death and myocardial infarction. The Multiple Risk Factor Intervention Trial (MRFIT)14randomized men with a high risk of CHD to undergo either intensive intervention or usual care. The intervention group received dietary and smoking cessation advice and control of hypertension. After seven years of follow-up, no differences in total or CHD mortality were apparent between groups. A study with a similar design conducted in Göteborg, Sweden, also showed no benefit.15"
+        },
+        {
+            "parent": 0,
+            "text": "The discordance between the results of these studies has been explained by the higher initial risk factor levels in the Oslo study and the unexpectedly large reductions in risk level in the control group in the MRFIT and the Göteborg studies. Thus, dietary modification likely reduces CHD risk. Other diet modifications, including increased folate and vitamin E intake, are discussed below."
+        },
+        {
+            "parent": 0,
+            "text": "A summary of recommendations for primary prevention of CHD is given inTable 2."
+        },
+        {
+            "parent": 1,
+            "text": "The magnitude of the effect of smoking cessation must be estimated from epidemiologic data since no randomized studies have been performed.Figure 3shows the results of case-control studies in men16and women.17In men, the relative risk associated with current smoking was 2.9, and the relative risk in those who had quit between two and three years before was equal to those who had never smoked. In women, the relative risk associated with current smoking was 3.6, which fell to the same level as that of nonsmokers about three years after cessation."
+        },
+        {
+            "parent": 2,
+            "text": "In a pooled analysis,18hypertension treatment reduced overall mortality by about 15 percent in middle-aged patients, but the impact on incidence of CHD was not significant. In patients over 60 years of age, treatment reduces the incidence of CHD by about 19 percent.19The reduction in CHD seems to be greater in the elderly than in middle-aged patients because the CHD risk attributable to hypertension in the elderly is greater than that in middle-aged patients. From the standpoint of reducing CHD incidence, then, hypertension (defined as systolic blood pressure greater than 140 mm Hg and diastolic pressure greater than 90 mm Hg) should be treated despite advancing age. The choice of agent remains controversial. The consensus statement of the most recent Joint National Committee on Prevention, Detection, Evaluation and Treatment of High Blood Pressure (JNC-VI)20recommends “starting pharmacologic therapy with diuretics and beta blockers for patients with uncomplicated hypertension” and also states that “it is appropriate to choose other classes of antihypertensive agents in certain clinical situations.”"
+        },
+        {
+            "parent": 3,
+            "text": "Two randomized studies investigated the role of aspirin in the primary prevention of myocardial infarction. In the British Doctor's Trial,215,139 physicians were randomized to undergo treatment with aspirin in a dosage of 500 mg once daily, or no aspirin. There were no statistically significant differences in rates of mortality or incidence of stroke or nonfatal myocardial infarction between the groups. In the much larger Physician's Health Study,2222,071 U.S. physicians were treated with aspirin, in a dosage of 325 mg once daily, beta carotene, in a dosage of 50 mg every other day, both agents or neither. No difference in mortality was apparent between the patients treated with aspirin and those who were not so treated. The risk of myocardial infarction was reduced by 44 percent in subjects treated with aspirin, which was a statistically significant reduction. A meta-analysis combining the results of these two studies had the same results as were found in the Physician's Health Study.23"
+        },
+        {
+            "parent": 3,
+            "text": "The studies are best interpreted as showing a decrease in the risk of myocardial infarction with aspirin therapy at the expense of a slight increase in the risk of hemorrhagic stroke, with no overall impact on mortality because the study populations were at relatively low overall risk of CHD. It is likely that aspirin is an effective agent for the primary prevention of CHD in high-risk populations; however, defining this high-risk population is not possible with currently available data."
+        },
+        {
+            "parent": 4,
+            "text": "Oxidized LDL cholesterol is more atherogenic than native (nonoxidized) LDL cholesterol.24This observation led to the hypothesis that vitamins with antioxidant properties (A, C and E) might reduce the incidence of CHD. Epidemiologic studies established a link between high levels of vitamin E intake and a reduced incidence of CHD; no association between CHD incidence and dietary intake of vitamins A and C could be established with certainty.25Based on these observations, several randomized trials were performed."
+        },
+        {
+            "parent": 4,
+            "text": "The Alpha Tocopherol–Beta Carotene (ATBC) trial26randomized male smokers between 50 and 69 years of age to undergo treatment with 20 mg per day of beta carotene, 50 mg per day of vitamin E, both vitamins or placebo. The primary end point of the study was the subsequent incidence of lung cancer, but the study design included a parallel analysis of the impact of treatment on CHD incidence. No differences in CHD events were apparent between groups over approximately five years of follow-up, but there were significant differences in total mortality. The group treated with beta carotene experienced a trend toward higher rates of mortality. Mortality in the groups treated with vitamin E was intermediate between the placebo and beta carotene groups. Results from two other studies27,28tended to confirm the impression that beta carotene in the dosage tested does not decrease—and may increase—overall mortality."
+        },
+        {
+            "parent": 4,
+            "text": "The possibility that vitamin E is a useful agent cannot yet be discarded. The strongest evidence to date comes from the Cambridge Heart Antioxidant Study (CHAOS),29a secondary prevention trial. In this study, patients with coronary artery disease proved by angiography were randomized to receive either placebo or vitamin E at 400 mg or 800 mg per day. After median follow-up of 1.4 years, significantly fewer patients who had been treated with vitamin E had a cardiac event, defined as either a myocardial infarction or death from CHD. There were no differences in total mortality. The study was not designed to compare the effects of the two vitamin dosages but, retrospectively, a trend was noted toward a lower event rate in the group taking 400 mg per day (2.7 percent, versus 5.1 percent in those taking 800 mg per day). Although this difference is most likely due to chance, physicians recommending vitamin E supplementation to patients would be prudent to suggest the lower dosage."
+        },
+        {
+            "parent": 4,
+            "text": "Based on available data, supplementation with vitamin A or vitamin C cannot be recommended for the primary prevention of CHD. In the absence of known harmful effects, both use of vitamin E supplements and waiting for more data are reasonable courses of action."
+        },
+        {
+            "parent": 5,
+            "text": "Despite the absence of randomized controlled trials, there is consensus that regular exercise reduces the risk of developing CHD30and that health professionals should recommend fitness activities to all patients."
+        },
+        {
+            "parent": 5,
+            "text": "Exercise is a useful therapy for the treatment of other risk factors for CHD, including hypertension, hyperlipidemia and glucose intolerance. Physical inactivity is an independent risk factor for the development of CHD.31There is a graded relationship between intensity of activity and risk reduction.32Beginning an exercise program has been associated with a significant decline in CHD risk.33"
+        },
+        {
+            "parent": 5,
+            "text": "No firm guidelines address the need for formal exercise testing before starting an exercise program. Overall, the risk of myocardial infarction or sudden cardiac death in adults during exercise is thought to be less than two events per 100,000 hours of activity30; starting an exercise program at a low intensity level therefore carries a low risk. There is no indication for exercise testing in subjects under 40 who have no risk factors for CHD. Exercise testing may be appropriate when sedentary patients over age 40 wish to engage initially in high-intensity activity programs, particularly when risk factors are present. Those with cardiorespiratory symptoms should be tested."
+        },
+        {
+            "parent": 5,
+            "text": "Debate is ongoing about whether a minimum activity level is necessary for risk reduction. Given the graded nature of risk reduction with increasing fitness levels, it seems prudent to encourage sedentary patients to begin low-intensity activity, defined as activity at approximately 50 percent of maximum capacity. Examples include walking and yard work. The activity should be sustained for at least 30 minutes and should be undertaken at least three times per week. Those already engaged in moderate levels of activity might be encouraged to move up to fitness-building activities. Fitness-building activities typically involve a level of aerobic activity associated with sweating and a sensation of breathing hard (approximately 60 to 70 percent of maximum). The duration and frequency of this activity should be at least 30 minutes and at least three times per week."
+        },
+        {
+            "parent": 6,
+            "text": "Elevated levels of homocysteine were first hypothesized to be a causative factor in atherosclerosis nearly 30 years ago. Epidemiologic evidence has accumulated during the past decade that establishes an elevated homocysteine level as a risk factor for CHD; this topic has been recently reviewed.34Elevated homocysteine levels may be reduced by supplementation with well-tolerated and readily available agents: the B vitamins, particularly folate, but also pyridoxine and vitamin B12. Randomized controlled trials of these agents as primary prevention have not yet been completed. It is thus premature to recommend widespread screening for hyperhomocysteinemia or to advocate treatment based on serial measurement of homocysteine levels. Based on current knowledge, it is prudent to recommend that all patients maintain folate intake through diet or supplements at 400 μg per day. This is especially true for women of childbearing age, in whom supplementation has been shown to reduce the risk of fetal neural tube defects. Laboratory testing for serum homocysteine levels adds cost without proven benefit."
+        },
+        {
+            "parent": 7,
+            "text": "A complete discussion of the health effects of estrogen replacement therapy in post-menopausal women is beyond the scope of this discussion, but placing such treatment in the context of other strategies for CHD prevention is appropriate."
+        },
+        {
+            "parent": 7,
+            "text": "No randomized trials of estrogen or estrogen-progesterone treatment have been conducted in postmenopausal women that adequately assess the treatments' risk-benefit ratio as primary prevention. A recent study of estrogen and progesterone therapy for secondary CHD prevention in women with already established CHD35did not show benefit, raising the likelihood that hormone replacement is unlikely to be an effective primary prevention strategy."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,131 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/1101/p1697.html#afp20041101p1697-f1",
+    "title": "Acute Bacterial Rhinosinusitis in Adults: Part II. Treatment | AAFP",
+    "author": "DEWEY C. SCHEID, M.D., M.P.H., AND ROBERT. M. HAMM, PH.D.",
+    "doi": "Am Fam Physician.2004;70(9):1697-1704",
+    "abstract": "Although most cases of acute rhinosinusitis are caused by viruses, acute bacterial rhinosinusitis is a fairly common complication. Even though most patients with acute rhinosinusitis recover promptly without it, antibiotic therapy should be considered in patients with prolonged or more severe symptoms. To avoid the emergence and spread of antibiotic-resistant bacteria, narrow-spectrum antibiotics such as amoxicillin should be used for 10 to 14 days. In patients with mild disease who have beta-lactam allergy, trimethoprim/sulfamethoxazole or doxycycline are options. Second-line antibiotics should be considered if the patient has moderate disease, recent antibiotic use (past six weeks), or no response to treatment within 72 hours. Amoxicillin-clavulanate potassium and fluoroquinolones have the best coverage for Haemophilus influenzae and Streptococcus pneumoniae. In patients with beta-lactam hypersensitivity who have moderate disease, a fluoroquinolone should be prescribed. The evidence supporting the use of ancillary treatments is limited. Decongestants often are recommended, and there is some evidence to support their use, although topical decongestants should not be used for more than three days to avoid rebound congestion. Topical ipratropium and the sedating antihistamines have anticholinergic effects that may be beneficial, but there are no clinical studies supporting this possibility. Nasal irrigation with hypertonic and normal saline has been beneficial in chronic sinusitis and has no serious adverse effects. Nasal corticosteroids also may be beneficial in treating chronic sinusitis. Mist, zinc salt lozenges, echinacea extract, and vitamin C have no proven benefit in the treatment of acute bacterial rhinosinusitis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Antibiotics",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "RESULTS OF CLINICAL TRIALS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "SELECTING AN ANTIBIOTIC",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DURATION OF TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "TREATMENT FAILURE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Ancillary Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Complications and Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "In this article, the evidence supporting different treatments for acute bacterial rhinosinusitis (ABRS) is reviewed. In part one1of this two-part article, clinical criteria for evaluating ABRS are described."
+        },
+        {
+            "parent": 0,
+            "text": "About two thirds of patients with ABRS improve without antibiotic treatment, and most patients with viral upper respiratory infection (URI) improve within seven days.2Antibiotic therapy should be reserved for patients who have had symptoms for more than seven days and who present with two or more clinical criteria for ABRS (purulent nasal discharge, maxillary tooth or facial pain [especially unilateral], unilateral maxillary sinus tenderness, or worsening symptoms after initial improvement), or for those with severe symptoms3(Figure 1)."
+        },
+        {
+            "parent": 1,
+            "text": "There have been no randomized controlled trials (RCTs) of antibiotic treatment for ABRS using sinus aspirate cultures before and after treatment, although nonrandomized trials have demonstrated bacteriologic cures. Five RCTs and two meta-analyses have compared antibiotics, usually amoxicillin and trimethoprim-sulfamethoxazole (TMP-SMX; Bactrim, Septra), with placebo, with clinical improvement as the outcome, which is the more clinically relevant patient-oriented outcome.4,5About 47 percent of patients treated with antibiotics and 32 percent of the control group were cured at 10 to 14 days. Eighty-one percent of patients treated with antibiotics and 66 percent of the control group were cured or improved, meaning one patient benefited for every seven treated with antibiotics. The treatment effect in these trials may have been underestimated because the lack of specificity of diagnosis diluted the effect of treatment."
+        },
+        {
+            "parent": 1,
+            "text": "Amoxicillin-clavulanate potassium (Augmentin), cephalosporins (cefuroxime [Ceftin] and cefixime [Suprax]), and macrolides (azithromycin [Zithromax] and clarithromycin [Biaxin]), have been studied extensively.6,7All have demonstrated similar clinical success rates—generally above 85 percent. The use of fluoroquinolones for ABRS is relatively new. Ciprofloxacin (Cipro) and cefuroxime had 90 percent resolution rates when administered to patients in a primary care setting.8In an open-label RCT, levofloxacin (Levaquin) and clarithromycin had 96 and 93 percent clinical success rates, respectively.9"
+        },
+        {
+            "parent": 1,
+            "text": "Four meta-analyses published within the past seven years concluded that newer broad-spectrum antibiotics are no more effective than narrow-spectrum antibiotics.4,5,10,11In most of these studies, amoxicillin was compared with a cephalosporin, a fluoroquinolone, or a macrolide. The rapid emergence of antibiotic-resistant organisms associated with ABRS has made choosing an antibiotic more difficult. Surveillance studies have shown an increasing prevalence of antibiotic-resistantStreptococcus pneumoniae.12,13Up to 25 percent of these bacteria are penicillin resistant, and 15 percent are penicillin intermediate. Resistance to macrolides, doxycycline (Vibramycin), and TMP-SMX is common.12The prevalence of beta-lactamase–producingHaemophilus influenzaeis about 30 percent, and resistance to TMP-SMX is common.12Nearly allMycobacterium catarrhalisisolates produce beta-lactamase."
+        },
+        {
+            "parent": 2,
+            "text": "To integrate current antibiotic resistance surveillance data into antibiotic recommendations, the Sinus and Allergy Health Partnership (SAHP) used the Poole Therapeutic Outcomes Model, a mathematical model that predicts clinical efficacy for each of the antibiotics commonly prescribed for ABRS(Table 1).13–16The model incorporates assumptions about the probability of bacterial infection, pathogen distribution, spontaneous resolution rates, and in vitro activity of antibiotics.15"
+        },
+        {
+            "parent": 2,
+            "text": "When choosing antibiotic therapy for ABRS, physicians should consider recent antibiotic use, efficacy, and cost. The SAHP guidelines classify patients with ABRS into two groups to determine initial treatment: (1) those with mild symptoms who have not received antibiotics within six weeks and (2) those who have moderately severe disease or have received antibiotics within six weeks.16Patients with moderate disease are considered less likely to have spontaneous resolution and thus have a higher rate of treatment failure. The guidelines offer no criteria for severity. The categorization of moderate or mild severity is left to the physician’s clinical judgment, but an example was offered with earlier recommendations that emphasized the inflammatory signs of fever and tenderness.17"
+        },
+        {
+            "parent": 2,
+            "text": "Although lacking completeH. influenzaecoverage, amoxicillin is still a good choice for a first-line antibiotic in community-acquired ABRS because many infections with resistant organisms improve anyway,18and because it is well tolerated and inexpensive(Table 1).13–16Higher daily doses of amoxicillin (3 to 4 g per day) may be necessary in areas with a high prevalence of penicillin-resistantS. pneumoniae. TMP-SMX and doxycycline are alternatives for use in patients who are allergic to beta lactams, but they have limited coverage forH. influenzaeandS. pneumoniae, and failure rates of up to 25 percent are possible.16Erythromycin, second-generation cephalosporins with less activity againstH. influenzae(e.g., cefaclor [Ceclor], cefprozil [Cefzil], loracarbef [Lorabid]), and tetracycline should not be used to treat ABRS.19"
+        },
+        {
+            "parent": 2,
+            "text": "Although the cephalosporins (cefpodoxime [Vantin], cefuroxime, cefdinir [Omnicef], ceftriaxone [Rocephin]) and amoxicillin/clavulanate potassium also have been recommended for initial treatment,16any benefit of these agents as initial therapy must be balanced against their much higher cost and concerns about increasing antibiotic resistance in the community. A retrospective cohort study of a pharmaceutical database of 29,000 adults with ABRS showed equivalent success rates with the use of older, inexpensive antibiotics at one half the cost.20A cost-effectiveness analysis showed that even if more expensive agents were 23 percent more effective than amoxicillin, using them empirically would be cost effective only if the prevalence of true bacterial sinusitis in treated patients was greater than 80 percent.21"
+        },
+        {
+            "parent": 2,
+            "text": "Second-line antibiotics should be considered when the patient has moderate disease, has used antibiotics in the past six weeks, or has no response to treatment within 72 hours. Amoxicillin-clavulanate potassium and fluoroquinolones (gatifloxacin [Tequin], levofloxacin, and moxifloxacin [Avelox]) currently have the best coverage forH. influenzaeandS. pneumoniae. Other choices include intramuscular ceftriaxone or combination therapies including high-dose amoxicillin; clindamycin (Cleocin) plus cefixime; or high-dose amoxicillin or clindamycin plus rifampin (Rifadin).16In patients with a history of beta-lactam allergies, the use of fluoroquinolones or combination therapy with clindamycin and rifampin has been recommended.16"
+        },
+        {
+            "parent": 3,
+            "text": "Most clinical trials have used 10- to 14-day courses of antibiotic therapy. Sinus puncture studies have shown eradicated pathogens in at least 95 percent of patients after a 10-day course of antibiotics.22Results of one study showed no differences in clinical or radiographic improvement between patients receiving three- or 10-day courses of TMP-SMX.23However, this study was conducted before 1995, and microbial resistance patterns have changed since then. More recently, five-day treatment courses with azithromycin and telithromycin (Ketek) were found to be effective.24,25"
+        },
+        {
+            "parent": 4,
+            "text": "When a patient fails to respond to therapy, additional history, physical examination, cultures, or imaging may be necessary. If a change in antibiotic therapy is made, the limitations in coverage of the initial antibiotic should be considered. A switch to a fluoroquinolone is recommended after failure of amoxicillin or doxycycline.16Combination therapy may be advantageous, particularly in patients previously treated with cefdinir or macrolides."
+        },
+        {
+            "parent": 5,
+            "text": "The evidence supporting the use of ancillary treatment for ABRS is relatively weak(Table 2).26–48Some studies show improvement in symptoms, but no treatments have been shown to affect the duration of illness.26–28Oral decongestants can be used until symptoms resolve. In patients with stable hypertension, decongestants have not been shown to seriously increase blood pressure.29Decongestants should be used with caution in patients with ischemic heart disease, glaucoma, or prostatic hypertrophy."
+        },
+        {
+            "parent": 5,
+            "text": "Although topical decongestants have been advocated in the past, their use is more controversial. Symptoms are improved in some patients, but reduced mucosal blood flow may increase inflammation.30Topical decongestants should not be used longer than three days to avoid rebound vasodilation."
+        },
+        {
+            "parent": 5,
+            "text": "No clinical studies support the use of antihistamines for treatment of patients with ABRS. Even though histamine does not play a role in this infectious condition except, possibly, in patients who also have a predisposing allergic rhinitis, these drugs have some anti-inflammatory effects that may be beneficial.31However, the anticholinergic effects of first-generation antihistamines could impair clearance by thickening mucus.31Newer second-generation antihistamines have little or no anticholinergic effect and may have a role in treatment of patients with allergy and chronic sinusitis, but are not recommended for ABRS.48"
+        },
+        {
+            "parent": 5,
+            "text": "The topical anticholinergic agent ipratropium bromide (Atrovent) has been used to decrease rhinorrhea in patients with the common cold,32but there are no studies in patients with ABRS. Theoretically, ipratropium may increase the viscosity of mucus and impair its clearance, but this effect appears to be less prominent with ipratropium than with antihistamines.31"
+        },
+        {
+            "parent": 5,
+            "text": "Most studies of intranasal steroids in patients with ABRS have not shown an effect on clinical outcomes. These studies often were underpowered and included patients who had chronic sinusitis and nasal polyposis, as well as ABRS.33–36A recent RCT,37limited to patients with a history of previous recurrent or chronic sinusitis, compared fluticasone (Flovent) with placebo in the treatment of patients with ABRS. Both groups received cefuroxime and topical xylometazoline (Otrivin) for three days. Patients who received fluticasone showed more rapid improvement (6.0 versus 9.5 days) than patients who received placebo."
+        },
+        {
+            "parent": 5,
+            "text": "Nasal saline spray, nasal irrigation, and misthumidificationhavebeenrecommended in the past to promote mucociliary clearance by decreasing congestion, moistening the nasal cavity, and removing crusty mucus.31Most trials have been small, many were not controlled, and methods varied, so evidence supporting their use is only fair.27,28,38Saline irrigation is safe, and there are no documented serious adverse effects.38Hypertonic saline irrigation improved symptoms and decreased medication use in patients with chronic sinusitis.39,40Saline sprays have been shown to reduce symptoms of rhinitis,41but there are no studies in patients with ABRS. Controlled studies of mist use in URI have not shown a benefit.42,43"
+        },
+        {
+            "parent": 5,
+            "text": "Guaifenesin (Hytuss), a mucolytic agent, should improve mucus clearance by thinning secretions, but there is no evidence of clinical benefit. An RCT showed no effect on mucociliary clearance in healthy subjects.44However, guaifenesin did reduce nasal congestion in an RCT of patients infected with human immunodeficiency virus who had acute or chronic rhinosinusitis.45"
+        },
+        {
+            "parent": 5,
+            "text": "There is insufficient evidence to recommend the use of vitamin C, zinc salt lozenges, or echinacea in patients with ABRS. Using the outcome of cold symptoms after seven days, a meta-analysis of eight clinical trials of zinc salt–lozenge treatment for the common cold did not find a significant benefit (odds ratio, 0.50; 95 percent confidence interval, 0.19 to 1.29).46Several trials of echinacea extract in the treatment of the common cold reported a mild benefit, but each trial had serious methodologic flaws. A recent RCT of echinacea in college students with common colds showed no benefit.47"
+        },
+        {
+            "parent": 6,
+            "text": "Patients with complications or treatment failure after extended antibiotic therapy should be referred to an otolaryngologist(Table 3).6,48Patients who are referred to otolaryngologists usually are evaluated with nasal endoscopy and a sinus computed tomographic scan. Patients with frequent recurrences of ABRS and inadequately controlled allergic rhinitis should be referred to an allergist for consideration of immunotherapy."
+        }
+    ],
+    "locked": false
+}

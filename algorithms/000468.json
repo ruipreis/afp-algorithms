@@ -1,0 +1,128 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0501/p1106.html#afp20110501p1106-f1",
+    "title": "CDC Updates Guidelines for the Prevention of Perinatal GBS Disease | AAFP",
+    "author": "LIZ HORSLEY",
+    "doi": "Am Fam Physician.2011;83(9):1106-1110",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Intrapartum Antibiotic Prophylaxis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Threatened Preterm Delivery",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Secondary Prevention in Newborns",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:Centers for Disease Control and Prevention"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Morbidity and Mortality Weekly Report, November 19, 2010."
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5910a1.htm"
+        },
+        {
+            "parent": -1,
+            "text": "Endorsed with reservation by the AAFP, April 2010.https://www.aafp.org/patient-care/clinical-recommendations/all/endorsed.html. Reservations are: 1. An evidence report was not conducted, and the literature search and evidence ratings were not described; 2. No conflict of interest policy was described."
+        },
+        {
+            "parent": -1,
+            "text": "EDITOR'S NOTE: Although the CDC guideline has a methodology section that describes the literature search and evidence-labeling scheme, it does not meet the criteria required for endorsement by the AAFP."
+        },
+        {
+            "parent": -1,
+            "text": "The Centers for Disease Control and Prevention (CDC) published guidelines for the prevention of perinatal group B streptococcus (GBS) disease in 1996; the guidelines were updated in 2002 and again in 2010. The most recent guidelines elaborate on laboratory methods and thresholds for GBS identification, discuss a change to the recommended dose of penicillin G for antibiotic prophylaxis, and provide updates on prophylactic regimens for patients who are allergic to penicillin. The guidelines also include updated algorithms for screening and intrapartum prophylaxis in patients with threatened preterm delivery, as well as a revised algorithm for the secondary prevention of early-onset GBS disease in newborns. Recommendations were based on available evidence or on expert opinion if available evidence was insufficient."
+        },
+        {
+            "parent": 0,
+            "text": "Based on the updated CDC guidelines, women who have previously given birth to an infant with invasive GBS disease should receive intrapartum antibiotic prophylaxis. Universal culture-based screening is recommended for all other pregnant women to identify candidates for intrapartum prophylaxis. Women with unknown GBS colonization status at the time of delivery should be treated based on the presence of intrapartum risk factors. Candidates for intrapartum antibiotic prophylaxis can be identified using the indications and nonindications provided inTable 1."
+        },
+        {
+            "parent": 0,
+            "text": "Timing of specimen collection is important for culture-based screening. GBS colonization status can change over the course of a pregnancy, and colonization early in pregnancy is not predictive of early-onset GBS disease. Therefore, pregnant women should be screened at 35 to 37 weeks' gestation for vaginal-rectal GBS colonization. However, patients who at any time during their current pregnancy have had a GBS-related urinary tract infection (symptomatic or not) or GBS bacteria isolated from the urine should receive intrapartum antibiotic prophylaxis and do not need third-trimester screening for GBS colonization. The use of antimicrobial agents should be avoided before the intrapartum period unless GBS urinary tract infection occurs during the pregnancy."
+        },
+        {
+            "parent": 0,
+            "text": "Pregnant women who test positive for GBS colonization should be given intrapartum antibiotic prophylaxis at the time of labor or rupture of membranes, with the exception of patients undergoing cesarean delivery before onset of labor with intact amniotic membranes (in whom intrapartum antibiotic prophylaxis is not recommended, regardless of GBS colonization status or gestational age). GBS status should not affect the use of perioperative antibiotics for preventing infectious complications of cesarean delivery."
+        },
+        {
+            "parent": 0,
+            "text": "If nucleic acid amplification testing (NAAT) for GBS is available, intrapartum NAAT using vaginal-rectal samples is an option for patients delivering at term with unknown GBS colonization status and no intrapartum risk factors at the time of testing. Patients who subsequently develop an intrapartum risk factor should be given antibiotic prophylaxis regardless of intrapartum NAAT results."
+        },
+        {
+            "parent": 0,
+            "text": "For antenatal GBS testing, accurate results are more important than rapid turnaround time. Physicians need to specify with the laboratory that the submitted urine specimen is from a pregnant woman to ensure accurate testing. The updated guidelines have expanded GBS identification options to include a positive identification from chromogenic media and identification directly from enriched broth culture. NAAT can also be used after enrichment in laboratories properly equipped for its use. Direct plating can be added to enriched culture, but it has a lower sensitivity than enriched culture and its results should not be used alone to identify GBS."
+        },
+        {
+            "parent": 0,
+            "text": "Patients who are allergic to penicillin and at high risk for anaphylaxis (i.e., those with a history of anaphylaxis, angioedema, respiratory distress, or urticaria following administration of a penicillin or a cephalosporin) should receive antimicrobial susceptibility testing on antenatal GBS isolates that are susceptible to clindamycin (Cleocin) and resistant to erythromycin."
+        },
+        {
+            "parent": 1,
+            "text": "Figure 1provides an algorithm for intrapartum antibiotic prophylaxis to prevent early-onset GBS disease. The recommended antibiotic for intrapartum GBS prophylaxis is penicillin, although ampicillin is an acceptable alternative. The dosing regimen for penicillin G should be 5 million units intravenously, followed by 2.5 to 3.0 million units intravenously every four hours. The guidelines recommend a dosing range of 2.5 to 3.0 million units to reach antibiotic levels in the fetal circulation and amniotic fluid high enough for adequate prophylaxis but low enough to avoid neurotoxicity. The choice of dose within that range should be based on which penicillin G formulations are readily available."
+        },
+        {
+            "parent": 1,
+            "text": "Cefazolin is indicated in patients who are allergic to penicillin but who are not at high risk for anaphylaxis. Clindamycin is recommended for penicillin-allergic patients at high risk for anaphylaxis whose results of antimicrobial susceptibility testing show the GBS isolate to be susceptible to clindamycin and erythromycin. If the GBS isolate is sensitive to clindamycin but resistant to erythromycin, clindamycin may be used if inducible clindamycin resistance testing is negative. Vancomycin is recommend for penicillin-allergic patients at high risk for anaphylaxis whose susceptibility to both agents is unknown or whose antimicrobial susceptibility testing results show the GBS isolate to be intrinsically resistant to clindamycin or positive for inducible clindamycin resistance. Erythromycin is no longer an acceptable alternative for intrapartum GBS prophylaxis in penicillin-allergic patients at high risk for anaphylaxis."
+        },
+        {
+            "parent": 2,
+            "text": "Preterm delivery (i.e., less than 37 weeks and 0 days' gestation) is an important risk factor for early-onset GBS disease. Management of intrapartum antibiotic prophylaxis for patients with threatened preterm delivery is challenging because it can be difficult to determine if preterm premature rupture of membranes (PPROM) or signs and symptoms of preterm labor will actually result in preterm delivery, and GBS colonization status often is unknown before 35 to 37 weeks' gestation."
+        },
+        {
+            "parent": 2,
+            "text": "GBS prophylaxis should be given at hospital admission in patients with threatened preterm delivery if their colonization status is unknown or if they had a positive screen within the preceding five weeks. Women who have not had vaginal-rectal GBS screening within the preceding five weeks should be screened for colonization at hospital admission. If admission screening results are negative for GBS or if, at any point, it is determined that a patient admitted with preterm labor is not in true labor, antibiotics given for GBS prophylaxis should be discontinued immediately. The administration of antibiotics for other indications should not be affected by negative GBS culture results."
+        },
+        {
+            "parent": 2,
+            "text": "In patients who had a positive GBS admission screen from a threatened preterm delivery that did not result in true labor at the time, prophylaxis is indicated when true labor begins. Patients who had a negative GBS admission screen from a threatened preterm delivery that did not result in true labor should have repeat screening at 35 to 37 weeks' gestation. Screening also should be repeated in such patients if they are readmitted with threatened preterm delivery more than five weeks after their previous GBS screen."
+        },
+        {
+            "parent": 2,
+            "text": "Antibiotics may be given to patients with PPROM to prolong latency; this dosage (i.e., 2 g of intravenous ampicillin, followed by 1 g every six hours for 48 hours) should also cover GBS prophylaxis if delivery occurs while the patient is receiving that antibiotic regimen. Oral antibiotics alone will not adequately cover GBS prophylaxis. GBS testing results should not affect the duration of antibiotics given to such patients who are not in labor. Unless a screen performed within the preceding five weeks was negative, GBS prophylaxis should be given for 48 hours in patients with PPROM who are not in labor and are not receiving antibiotics to prolong latency. Prophylaxis should be discontinued if negative results from admission screening become available during that 48-hour period."
+        },
+        {
+            "parent": 3,
+            "text": "A full diagnostic evaluation should be performed on any newborn with signs of sepsis. Treatment should include antimicrobial agents that are active against GBS and other organisms that might cause neonatal sepsis.Figure 2provides an algorithm for detecting and managing potential cases of sepsis in newborns."
+        },
+        {
+            "parent": 3,
+            "text": "To determine appropriate neonatal management, it is important to consult an obstetric provider to assess whether chorioamnionitis was suspected in the mother. Well-appearing newborns whose mothers had suspected chorioamnionitis should have a limited evaluation and may require antibiotic therapy, pending culture results. Well-appearing newborns whose mothers did not have chorioamnionitis or any indications for GBS prophylaxis should be treated according to routine clinical care."
+        },
+        {
+            "parent": 3,
+            "text": "Observation for at least 48 hours is recommended for well-appearing newborns of any gestational age whose mothers received adequate intrapartum GBS prophylaxis; routine diagnostic testing is not recommended. These newborns can be discharged as soon as 24 hours after delivery as long as they have met other discharge criteria and have ready access to medical care, and if there is someone present who will be able to fully comply with instructions for home observation."
+        },
+        {
+            "parent": 3,
+            "text": "At least 48 hours of observation are also recommended for well-appearing newborns of at least 37 weeks and 0 days' gestation whose mothers had an indication for GBS prophylaxis but received no or inadequate prophylaxis and whose duration of membrane rupture before delivery was less than 18 hours; routine diagnostic testing is not recommended. Limited evaluation and observation for at least 48 hours are recommended if the newborn's gestational age is less than 37 weeks and 0 days or if the duration of membrane rupture before delivery was 18 hours or more."
+        }
+    ],
+    "locked": false
+}

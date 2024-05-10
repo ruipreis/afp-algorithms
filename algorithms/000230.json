@@ -1,0 +1,179 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0301/p303.html#afp20170301p303-f1",
+    "title": "Syncope: Evaluation and Differential Diagnosis | AAFP",
+    "author": "LLOYD A. RUNSER, MD, MPH, ROBERT L. GAUER, MD, AND ALEX HOUSER, DO",
+    "doi": "Am Fam Physician.2017;95(5):303-312B",
+    "abstract": "Syncope is an abrupt and transient loss of consciousness caused by cerebral hypoperfusion. It accounts for 1% to 1.5% of emergency department visits, resulting in high hospital admission rates and significant medical costs. Syncope is classified as neurally mediated, cardiac, and orthostatic hypotension. Neurally mediated syncope is the most common type and has a benign course, whereas cardiac syncope is associated with increased morbidity and mortality. Patients with presyncope have similar prognoses to those with syncope and should undergo a similar evaluation. A standardized approach to syncope evaluation reduces hospital admissions and medical costs, and increases diagnostic accuracy. The initial assessment for all patients presenting with syncope includes a detailed history, physical examination, and electrocardiography. The initial evaluation may diagnose up to 50% of patients and allows immediate short-term risk stratification. Laboratory testing and neuroimaging have a low diagnostic yield and should be ordered only if clinically indicated. Several comparable clinical decision rules can be used to assess the short-term risk of death and the need for hospital admission. Low-risk patients with a single episode of syncope can often be reassured with no further investigation. High-risk patients with cardiovascular or structural heart disease, history concerning for arrhythmia, abnormal electrocardiographic findings, or severe comorbidities should be admitted to the hospital for further evaluation. In cases of unexplained syncope, provocative testing and prolonged electrocardiographic monitoring strategies can be diagnostic. The treatment of neurally mediated and orthostatic hypotension syncope is largely supportive, although severe cases may require pharmacotherapy. Cardiac syncope may require cardiac device placement or ablation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Classification and Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "PRESYNCOPE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Risk Stratification",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "NEURALLY MEDIATED SYNCOPE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ORTHOSTATIC HYPOTENSION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CARDIAC SYNCOPE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Syncope is a sudden, brief, and transient loss of consciousness caused by cerebral hypoperfusion.1Other nontraumatic loss of consciousness syndromes include seizures, cataplexy, metabolic disorders, acute intoxications, vertebrobasilar insufficiency, transient ischemic attack, cerebrovascular accident, and psychogenic pseudosyncope.2,3"
+        },
+        {
+            "parent": -1,
+            "text": "Syncope accounts for 1% to 1.5% of all emergency department visits, 250,000 annual hospital admissions, and a median hospital cost of $8,500.4,5Approximately 40% of the U.S. population will experience a syncopal episode in their lifetimes, and 30% to 50% will be admitted to the hospital for further evaluation.6,7The etiology is unexplained in up to one-third of cases.8"
+        },
+        {
+            "parent": -1,
+            "text": "Although syncope is associated with serious risks, short-term mortality is low (i.e., 0.7% at 10 days and 1.6% at 30 days). At one year, the mortality rate is 8.4%; one-third of these are attributed to cardiovascular causes. Approximately 25% of patients with syncope will experience another event within two years.8,9Historically, neurally mediated and orthostatic hypotension syncope have not conferred an increased risk of death10; however, in a recent study, healthy adults with a diagnosis of syncope had higher rates of all-cause mortality, recurrent syncope, cardiovascular events, and pacemaker or implantable cardioverter-defibrillator placement compared with matched controls. Patients 44 to 75 years of age had the highest risk.11,12"
+        },
+        {
+            "parent": -1,
+            "text": "Management of syncope remains a challenge, particularly in identifying patients with potentially life-threatening etiologies. Lack of physician knowledge, a desire to reassure the patient or clinician, and the fear of medicolegal ramifications result in overuse of diagnostic tests.13A standardized approach for evaluating patients with syncope reduces admissions, hospital costs, and number of tests performed, and increases accuracy of diagnosis.14Only 10% to 15% of patients will remain undiagnosed after a comprehensive evaluation using current guidelines.15,16"
+        },
+        {
+            "parent": 0,
+            "text": "Syncope is classified as cardiac, neurally mediated (reflex), and orthostatic hypotension(Table 1).1,17The differential diagnosis should include nontraumatic causes of transient loss of consciousness. Rare causes include subclavian steal syndrome, pulmonary embolism, acute myocardial infarction, acute aortic dissection, leaking aortic aneurysm, subarachnoid hemorrhage, and cardiac tamponade.2,3"
+        },
+        {
+            "parent": 0,
+            "text": "Neurally mediated syncope is the most common type, comprising approximately 45% of cases.6,10,18It can be vasovagal, situational, or secondary to carotid sinus hypersensitivity. The pathophysiology is complex, consisting of an interaction between autonomic systems paradoxically favoring parasympathetic or vagal tone, which causes bradycardia and hypotension."
+        },
+        {
+            "parent": 0,
+            "text": "Cardiac syncope occurs in approximately 20% of syncope presentations. It is most often caused by an arrhythmia, and less often by a structural cardiac abnormality. In a prospective cohort study, patients with cardiac syncope had a twofold increase in mortality over 17 years.10The presence of cardiovascular disease predicts a cardiac etiology of syncope with 85% to 94% sensitivity and 64% to 83% specificity.16"
+        },
+        {
+            "parent": 0,
+            "text": "Orthostatic hypotension syncope has an incidence of approximately 10% and is typically characterized by posturally induced hypotension, most often related to impaired increase in systemic vascular resistance. Associated factors include medication effects, volume depletion, acute hemorrhage, and autonomic dysfunction. Postural tachycardia syndrome is the most prevalent form of orthostatic intolerance, affecting approximately 500,000 persons in the United States. Younger adults, predominantly women who report symptoms of postural presyncope, are more likely to have this condition.19"
+        },
+        {
+            "parent": 1,
+            "text": "Presyncope is poorly studied, and the true incidence is unknown. A study of 881 patients presenting to the emergency department with presyncope showed a 30-day risk of serious outcomes of 5% and a mortality rate of 0.3%.20Emergency physicians had difficulty stratifying patients at increased risk of adverse outcomes, regardless of presumed etiology. A prospective observational study (n = 244) compared adverse outcomes and hospitalizations in patients who presented with presyncope and syncope.21Adverse outcomes occurred in 49 of 244 patients (20%) with presyncope compared with 68 of 293 patients (23%) with syncope. Admission rates were 49% and 69%, respectively. Because rates of adverse outcomes are similar in patients with presyncope and syncope, both groups should receive a similar evaluation."
+        },
+        {
+            "parent": 2,
+            "text": "The decision to perform an expedited and monitored evaluation of patients presenting with syncope is based on the likelihood of short-term adverse outcomes. Unnecessary admissions for patients meeting low-risk criteria result in high medical costs without improvements in morbidity and mortality, patient safety, or quality of life.22"
+        },
+        {
+            "parent": 2,
+            "text": "Several clinical decision rules have been developed to risk stratify patients presenting to the emergency department with syncope. Each has differing variables, and no single rule has proved significantly superior23,24(eTable A). The San Francisco Syncope Rule, Evaluation of Guidelines in Syncope Study, and Osservatorio Epidemiologico sulla Sincope nel Lazio are the only rules that have been externally validated. High-risk patients should be admitted for further evaluation(Table 2).1,25"
+        },
+        {
+            "parent": 3,
+            "text": "Guidelines from the Canadian Cardiovascular Society, European Society of Cardiology, and the American College of Emergency Physicians recommend obtaining a detailed history and performing a physical examination, standard 12-lead electrocardiography (ECG), and orthostatic blood pressure measurement in patients presenting with syncope.1,25–28Additional testing should be individualized.Figure 1provides a general framework, emphasizing classification and risk stratification to standardize the evaluation of syncope.2High-risk patients should be admitted for monitoring and further workup. Low-risk patients with a first episode of syncope may be reassured without further workup.1,25,27,29"
+        },
+        {
+            "parent": 4,
+            "text": "A detailed history will suggest a diagnosis in up to 50% of patients and is the most important diagnostic tool in the evaluation of syncope.1The history should focus on three key elements: (1) Is the loss of consciousness attributable to syncope? (2) Is there a history of cardiovascular disease? (3) Are there clinical features to suggest a specific cause of syncope?30Pertinent historical elements are listed inTable 3.18,30–33Medication reconciliation is relevant because medications are contributory in 5% to 15% of syncope cases, typically causing orthostatic hypotension, sedation, symptomatic bradycardia, or QT interval prolongation.34The history should also assist in classifying patients as low or high risk."
+        },
+        {
+            "parent": 5,
+            "text": "Most patients with syncope will have normal physical examination findings, with the exception of any trauma incurred from the syncopal event. The examination should focus on initial vital signs; orthostatic blood pressure measurements35; and vascular (pulses and carotid bruits), cardiac, pulmonary (evidence of congestive heart failure), abdominal, rectal, and skin/nail (anemia) signs. Any new focal neurologic findings suggest a primary central nervous system lesion."
+        },
+        {
+            "parent": 6,
+            "text": "Carotid sinus massage can be considered in patients older than 40 years to confirm the diagnosis of carotid sinus hypersensitivity. The maneuver is positive when it produces an asystolic or ventricular pause longer than three seconds or a decrease in systolic blood pressure of at least 50 mm Hg. The test is performed while the patient is supine, with five to 10 seconds of massage consecutively to each carotid sinus. It should be performed initially on the right because the maneuver is more often positive on this side. If results are negative, it should be repeated with the patient upright at approximately 60 to 70 degrees.36This maneuver should be avoided in patients who have had a stroke or transient ischemic attack in the past three months and in patients with carotid bruits. If a positive carotid hypersensitivity test is associated with patient symptoms, then the patient has carotid sinus syndrome."
+        },
+        {
+            "parent": 6,
+            "text": "Routine laboratory studies have low diagnostic yield and should be ordered only if clinically indicated. Laboratory tests can distinguish syncope from other suspected nontraumatic etiologies of loss of consciousness. Elevated troponin and brain natriuretic peptide levels have been shown to predict a higher likelihood of adverse outcomes but should be used only if cardiovascular disease is clinically suspected.26,37,38"
+        },
+        {
+            "parent": 6,
+            "text": "ECG generally has a low diagnostic yield (approximately 3% to 5%) but is recommended for all patients with syncope.39,40Although arrhythmias are unlikely to be detected on a single ECG, ischemic, structural, or conduction abnormalities may be identified. Any ECG abnormality or change from baseline increases the risk of arrhythmia or death within one year of the syncopal event.41"
+        },
+        {
+            "parent": 6,
+            "text": "Echocardiography is essential to evaluate suspected structural abnormalities, but it generally has low diagnostic yield. Two studies (n = more than 310) found echocardiography to be clinically useful in patients with syncope if there is a history of cardiac disease, abnormal ECG findings, or suspected significant valvular disease.42,43"
+        },
+        {
+            "parent": 6,
+            "text": "Continuous cardiac monitoring is the diagnostic standard to establish a correlation between symptoms and ECG findings. Devices include Holter monitors (generally up to 72 hours), external loop recorders (typically four to six weeks), and implantable loop recorders (up to three years). The diagnostic yield improves with prolonged monitoring. Up to 50% of patients who present with syncope in the absence of heart disease will have an arrhythmia when an implantable loop recorder is placed.44These devices may increase diagnostic yield, decrease time to diagnosis, and improve cost-effectiveness. Some guidelines recommend them early in the diagnostic workup of unexplained syncope.45–48Patients most likely to benefit from these devices are those with cardiovascular disease, abnormal baseline ECG findings, cardiac symptoms surrounding the syncopal event, and a family history of sudden cardiac death.39"
+        },
+        {
+            "parent": 6,
+            "text": "Provocative testing strategies include head-up tilt testing, exercise testing, and electrophysiologic studies. The head-up tilt test is a safe procedure designed to precipitate hypotension and bradycardia and is used to confirm the diagnosis of neurally mediated syncope in patients with an intermediate pretest probability.11Persons in high-risk settings with unexplained syncope should also be considered for testing. Protocols using isoproterenol or nitroglycerin have an overall sensitivity of 92% to 94%; however, specificity is low.1,49Exercise testing is useful in exertional syncope, ischemia, and arrhythmia evaluation. Less than 2% of patients referred to cardiologists for evaluation of unexplained syncope undergo electrophysiologic studies.1These studies have poor sensitivity and specificity except in the setting of structural heart disease; they have been replaced by noninvasive tools such as prolonged ECG monitoring.1,7Patients who have an indication for implantable cardioverter-defibrillator placement do not require electrophysiologic studies."
+        },
+        {
+            "parent": 6,
+            "text": "Cranial or cardiac imaging, carotid ultrasonography, electroencephalography, and cardiac enzyme testing are rarely helpful in determining the cause of syncope and should not be ordered routinely. These tests affect diagnosis and management in less than 2% of older patients presenting to the emergency department.40For most patients with tests results that were significant and affected management, the patient's history indicated the diagnosis.50,51Table 4provides an overview of the available testing modalities.1,11"
+        },
+        {
+            "parent": 7,
+            "text": "The treatment of syncope is directed at the underlying cause. Morbidity and mortality are generally low except in cardiac syncope; therefore, patient reassurance is an important part of treatment."
+        },
+        {
+            "parent": 8,
+            "text": "Treatment of neurally mediated syncope includes reassurance, education, and physical therapy.1In situational syncope, it is important to avoid potential triggers. Physical counterpressure maneuvers such as leg crossing, squatting, and tensing the lower extremities are effective at the onset of prodromal symptoms.7One randomized trial showed that these maneuvers reduce syncope by 39%.52Tilt training involves standing for prolonged periods, and compliance is generally poor.7"
+        },
+        {
+            "parent": 8,
+            "text": "Pharmacologic therapy with beta blockers, alpha agonists, and fludrocortisone has shown no effectiveness or conflicting results in reducing vasovagal syncope.1In one small randomized trial of patients with a history of recurrent vasovagal syncope, paroxetine (Paxil) prevented additional episodes in 82.4% compared with 47.1% in the placebo group over two years (P< .001), although guidelines recommend its use only in patients with concurrent psychiatric disease.53In patients with severe asystole from neurally mediated syncope, a double-blind, randomized, placebo-controlled trial showed that the use of permanent dual chamber pacing reduced the risk of recurrent syncope.54"
+        },
+        {
+            "parent": 9,
+            "text": "Treatment of orthostatic hypotension includes education and lifestyle modifications, such as slowly transitioning from a supine or sitting position to standing and increasing fluid and sodium intake.1Contributing medications should be discontinued or decreased, if possible. Other treatment modalities include elevating the head of the bed by 10 degrees, compression stockings/abdominal binders, and counterpressure maneuvers.1If these do not mitigate symptoms, midodrine and fludrocortisone are effective treatments.55"
+        },
+        {
+            "parent": 10,
+            "text": "Management of cardiac syncope is directed at the underlying etiology. Options include antiarrhythmic drugs, cardiac pacing, catheter-directed ablation, and, rarely, implantable cardioverter-defibrillator placement.1"
+        },
+        {
+            "parent": 10,
+            "text": "This article updates previous articles on this topic byGauer,56and byMiller and Kruse.57Data Sources:We searched OvidSP, Essential Evidence Plus, the National Guideline Clearinghouse, Cochrane Library, and UpToDate using combinations of the following key words: syncope, transient loss of consciousness, presyncope, clinical decision rules, risk stratification, mortality, morbidity, etiology, incidence, electrocardiographic monitoring, electrophysiologic studies, diagnostic evaluation, hospitalization, brain natriuretic peptide, troponin, cardiac enzymes, implantable loop recorders, cost, quality of life, carotid sinus massage, head-up tilt table, implantable cardioverter defibrillator, guidelines, orthostatic hypotension, diagnostic evaluation, medical cost, postural tachycardia syndrome. Search dates: June 22 to August 6, 2015, and October 15, 2016."
+        },
+        {
+            "parent": 10,
+            "text": "The opinions or assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the Department of Defense."
+        }
+    ],
+    "locked": false
+}

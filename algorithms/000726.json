@@ -1,0 +1,162 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0101/p105.html#afp20050101p105-f3",
+    "title": "Understanding and Interpreting Serum Protein Electrophoresis | AAFP",
+    "author": "THEODORE X. O’CONNELL, M.D., TIMOTHY J. HORITA, M.D., AND BARSAM KASRAVI, M.D.",
+    "doi": "Am Fam Physician.2005;71(1):105-112",
+    "abstract": "Serum protein electrophoresis is used to identify patients with multiple myeloma and other serum protein disorders. Electrophoresis separates proteins based on their physical properties, and the subsets of these proteins are used in interpreting the results. Plasma protein levels display reasonably predictable changes in response to acute inflammation, malignancy, trauma, necrosis, infarction, burns, and chemical injury. A homogeneous spike-like peak in a focal region of the gamma-globulin zone indicates a monoclonal gammopathy. Monoclonal gammopathies are associated with a clonal process that is malignant or potentially malignant, including multiple myeloma, Waldenström’s macroglobulinemia, solitary plasmacytoma, smoldering multiple myeloma, monoclonal gammopathy of undetermined significance, plasma cell leukemia, heavy chain disease, and amyloidosis. The quantity of M protein, the results of bone marrow biopsy, and other characteristics can help differentiate multiple myeloma from the other causes of monoclonal gammopathy. In contrast, polyclonal gammopathies may be caused by any reactive or inflammatory process.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definitions",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Components of Serum Protein Electrophoresis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "ALBUMIN",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ALPHA FRACTION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "BETA FRACTION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "GAMMA FRACTION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Indications",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Interpretation of Results",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Monoclonal Versus Polyclonal Gammopathies",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Evaluation of an Abnormal Serum Protein Electrophoresis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Serum protein electrophoresis is a laboratory examination that commonly is used to identify patients with multiple myeloma and other disorders of serum protein. Many subspecialists include serum protein electrophoresis screening in the initial evaluation for numerous clinical conditions. Sometimes, however, the results of this examination can be confusing or difficult to interpret."
+        },
+        {
+            "parent": -1,
+            "text": "This article provides a comprehensive review of serum protein electrophoresis, including a discussion of how the examination is performed, what it measures, and when it is indicated. The article also provides a simple guide to result interpretation and suggestions on follow-up of abnormal results."
+        },
+        {
+            "parent": 0,
+            "text": "Electrophoresis is a method of separating proteins based on their physical properties. Serum is placed on a specific medium, and a charge is applied. The net charge (positive or negative) and the size and shape of the protein commonly are used in differentiating various serum proteins.1"
+        },
+        {
+            "parent": 0,
+            "text": "Several subsets of serum protein electrophoresis are available. The names of these subsets are based on the method that is used to separate and differentiate the various serum components. In zone electrophoresis, for example, different protein subtypes are placed in separate physical locations on a gel made from agar, cellulose, or other plant material.2,3The proteins are stained, and their densities are calculated electronically to provide graphical data on the absolute and relative amounts of the various proteins. Further separation of protein subtypes is achieved by staining with an immunologically active agent, which results in immunofluorescence and immunofixation."
+        },
+        {
+            "parent": 1,
+            "text": "The pattern of serum protein electrophoresis results depends on the fractions of two major types of protein: albumin and globulins. Albumin, the major protein component of serum, is produced by the liver under normal physiologic conditions. Globulins comprise a much smaller fraction of the total serum protein content. The subsets of these proteins and their relative quantity are the primary focus of the interpretation of serum protein electrophoresis.1,3"
+        },
+        {
+            "parent": 1,
+            "text": "Albumin, the largest peak, lies closest to the positive electrode. The next five components (globulins) are labeled alpha1, alpha2, beta1, beta2, and gamma. The peaks for these components lie toward the negative electrode, with the gamma peak being closest to that electrode.Figure 1shows a typical normal pattern for the distribution of proteins as determined by serum protein electrophoresis."
+        },
+        {
+            "parent": 2,
+            "text": "The albumin band represents the largest protein component of human serum. The albumin level is decreased under circumstances in which there is less production of the protein by the liver or in which there is increased loss or degradation of this protein. Malnutrition, significant liver disease, renal loss (e.g., in nephrotic syndrome), hormone therapy, and pregnancy may account for a low albumin level. Burns also may result in a low albumin level. Levels of albumin are increased in patients with a relative reduction in serum water (e.g., dehydration)."
+        },
+        {
+            "parent": 3,
+            "text": "Moving toward the negative portion of the gel (i.e., the negative electrode), the next peaks involve the alpha1and alpha2components. The alpha1-protein fraction is comprised of alpha1-antitrypsin, thyroid-binding globulin, and transcortin. Malignancy and acute inflammation (resulting from acute-phase reactants) can increase the alpha1-protein band. A decreased alpha1-protein band may occur because of alpha1-antitrypsin deficiency or decreased production of the globulin as a result of liver disease. Ceruloplasmin, alpha2-macroglobulin, and haptoglobin contribute to the alpha2-protein band. The alpha2component is increased as an acute-phase reactant."
+        },
+        {
+            "parent": 4,
+            "text": "The beta fraction has two peaks labeled beta1and beta2. Beta1is composed mostly of transferrin, and beta2contains beta-lipoprotein. IgA, IgM, and sometimes IgG, along with complement proteins, also can be identified in the beta fraction."
+        },
+        {
+            "parent": 5,
+            "text": "Much of the clinical interest is focused on the gamma region of the serum protein spectrum because immunoglobulins migrate to this region. It should be noted that immunoglobulins often can be found throughout the electrophoretic spectrum. C-reactive protein (CRP) is located in the area between the beta and gamma components.1"
+        },
+        {
+            "parent": 6,
+            "text": "Serum protein electrophoresis commonly is performed when multiple myeloma is suspected. The examination also should be considered in other “red flag” situations(Table 1).2–4"
+        },
+        {
+            "parent": 6,
+            "text": "If the examination is normal but multiple myeloma, Waldenström’s macroglobulinemia, primary amyloidosis, or a related disorder still is suspected, immunofixation also should be performed because this technique may be more sensitive in identifying a small monoclonal (M) protein.5"
+        },
+        {
+            "parent": 7,
+            "text": "Plasma protein levels display reasonably predictable changes in response to acute inflammation, malignancy, trauma, necrosis, infarction, burns, and chemical injury. This so-called “acute-reaction protein pattern” involves increases in fibrinogen, alpha1-antitrypsin, haptoglobin, ceruloplasmin, CRP, the C3 portion of complement, and alpha1acid glycoprotein. Often, there are associated decreases in the albumin and transferrin levels.6Table 26lists characteristic patterns of acute-reaction proteins found on serum protein electrophoresis, along with associated conditions or disorders."
+        },
+        {
+            "parent": 7,
+            "text": "In the interpretation of serum protein electrophoresis, most attention focuses on the gamma region, which is composed predominantly of antibodies of the IgG type. The gamma-globulin zone is decreased in hypogammaglobulinemia and agammaglobulinemia. Diseases that produce an increase in the gamma-globulin level include Hodgkin’s disease, malignant lymphoma, chronic lymphocytic leukemia, granulomatous diseases, connective tissue diseases, liver diseases, multiple myeloma, Waldenström’s macroglobulinemia, and amyloidosis.3,7"
+        },
+        {
+            "parent": 7,
+            "text": "Although many conditions can cause an increase in the gamma region, several disease states cause a homogeneous spike-like peak in a focal region of the gamma-globulin zone(Figure 2). These so-called “monoclonal gammopathies” constitute a group of disorders that are characterized by proliferation of a single clone of plasma cells that produce a homogeneous M protein.6"
+        },
+        {
+            "parent": 8,
+            "text": "It is extremely important to differentiate monoclonal from polyclonal gammopathies. Monoclonal gammopathies are associated with a clonal process that is malignant or potentially malignant. In contrast, polyclonal gammopathies may be caused by any reactive or inflammatory process, and they usually are associated with nonmalignant conditions. The most common conditions in the differential diagnosis of polyclonal gammopathy are listed inTable 3.8,9"
+        },
+        {
+            "parent": 8,
+            "text": "An M protein is characterized by the presence of a sharp, well-defined band with a single heavy chain and a similar band with a kappa or lambda light chain. A polyclonal gammopathy is characterized by a broad diffuse band with one or more heavy chains and kappa and lambda light chains.7"
+        },
+        {
+            "parent": 8,
+            "text": "Once a monoclonal gammopathy is identified by serum protein electrophoresis, multiple myeloma must be differentiated from other causes of this type of gammopathy. Among these other causes are Waldenström’s macroglobulinemia, solitary plasmacytoma, smoldering multiple myeloma, monoclonal gammopathy of undetermined significance, plasma cell leukemia, heavy chain disease, and amyloidosis.4,7"
+        },
+        {
+            "parent": 8,
+            "text": "The quantity of M protein can help differentiate multiple myeloma from monoclonal gammopathy of undetermined significance. Definitive diagnosis of multiple myeloma requires 10 to 15 percent plasma cell involvement as determined by bone marrow biopsy. Characteristic differentiating features of the monoclonal gammopathies are listed inTable 4.7"
+        },
+        {
+            "parent": 8,
+            "text": "In some patients with a plasma cell dyscrasia, serum protein electrophoresis may be normal because the complete monoclonal immunoglobulin is absent or is present at a very low level.7In one series,6serum protein electrophoresis showed a spike or localized band in only 82 percent of patients with multiple myeloma. The remainder had hypogammaglobulinemia or a normal-appearing pattern. Consequently, urine protein electrophoresis is recommended in all patients suspected of having a plasma cell dyscrasia.10"
+        },
+        {
+            "parent": 8,
+            "text": "An additional point to consider is the size of the M-protein spike. Although this spike is usually greater than 3 g per dL in patients with multiple myeloma, up to one fifth of patients with this tumor may have an M-protein spike of less than 1 g per dL.10Hypogammaglobulinemia on serum protein electrophoresis occurs in about 10 percent of patients with multiple myeloma who do not have a serum M-protein spike.11Most of these patients have a large amount of Bence Jones protein (monoclonal free kappa or lambda chain) in their urine.11Thus, the size of the M-protein spike is not helpful in excluding multiple myeloma."
+        },
+        {
+            "parent": 8,
+            "text": "If multiple myeloma still is considered clinically in a patient who does not have an M-protein spike on serum protein electrophoresis, urine protein electrophoresis should be performed."
+        },
+        {
+            "parent": 9,
+            "text": "Monoclonal gammopathy is present in up to 8 percent of healthy geriatric patients.12All patients with monoclonal gammopathy require further evaluation to determine the cause of the abnormality. Patients with monoclonal gammopathy of undetermined significance require close follow-up because about 1 percent per year develop multiple myeloma or another malignant monoclonal gammopathy.13[Evidence level B, prospective cohort study] An algorithm for the follow-up of patients with a monoclonal gammopathy is provided inFigure 3.6"
+        },
+        {
+            "parent": 9,
+            "text": "If the serum M-protein spike is 1.5 to 2.5 g per dL, it is important to perform nephelometry to quantify the immunoglobulins present and to obtain a 24-hour urine collection for electrophoresis and immunofixation. If these examinations are normal, serum protein electrophoresis should be repeated in three to six months; if that examination is normal, serum protein electrophoresis should be repeated annually. If the repeat examination is abnormal or future patterns are abnormal, the next step is to refer the patient to a hematologist-oncologist."
+        },
+        {
+            "parent": 9,
+            "text": "An M-protein spike of greater than 2.5 g per dL should be assessed with a metastatic bone survey that includes a single view of the humeri and femurs. In addition, a beta2microglobulin test, a CRP test, and a 24-hour urine collection for electrophoresis and immunofixation should be performed. If Waldenström’s macroglobulinemia or other lymphoproliferative process is suspected, an abdominal computed tomographic scan and bone marrow aspiration and biopsy should be performed. Abnormalities in any of these tests should result in a referral to a hematologist-oncologist. If all tests are normal, the pattern of follow-up inFigure 36can be undertaken. If serum protein electrophoresis is abnormal at any time during the follow-up, a referral should be made"
+        }
+    ],
+    "locked": false
+}

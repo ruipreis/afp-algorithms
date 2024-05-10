@@ -1,0 +1,125 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0415/p1391.html#afp20060415p1391-f4",
+    "title": "Arrhythmogenic Right Ventricular Dysplasia | AAFP",
+    "author": "ERIC L. ANDERSON, LT, (FS), MC, USNR",
+    "doi": "Am Fam Physician.2006;73(8):1391-1398",
+    "abstract": "Arrhythmogenic right ventricular dysplasia (ARVD) is a disorder in which normal myocardium is replaced by fibrofatty tissue. This disorder usually involves the right ventricle, but the left ventricle and septum also may be affected. Although the exact prevalence of ARVD is unknown, it is thought to occur in six per 10,000 persons in certain populations. After hypertrophic heart disease, it is the number one cause of sudden cardiac death in young persons, especially athletes. Patients with ARVD are usually men younger than 35 years who complain of chest pain or rapid heart rate. In some cases, sudden cardiac death is the first presentation. The initial diagnosis of ARVD is based on the presence of major and minor criteria established in 1994. Further confirmation of the diagnosis includes noninvasive studies, such as echocardiography and magnetic resonance imaging of the heart, and invasive studies such as ventricular angiography and endomyocardial biopsy. Patients with ARVD are treated initially with antiarrhythmic agents with serious consideration for automatic implantable cardioverter-defibrillator placement. In patients with persistent symptomatic arrhythmias, radiofrequency ablation, ventriculotomy, or even cardiac transplant may be necessary.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Illustrative Case",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Findings and Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Prognosis and Course",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Arrhythmogenic right ventricular dysplasia (ARVD), which was first described in 1977, is a poorly understood yet potentially lethal cause of cardiac disease.1,2Once thought to be rare, ARVD has been shown to have an incidence of six per 10,000 persons in certain populations.3In certain Mediterranean and southern U.S. populations, the incidence is as high as 44 per 10,000 persons.3ARVD accounts for 3 to 4 percent of deaths in sports and 5 percent of sudden cardiac deaths in persons younger than 65 years.4–7Given the relative frequency of this disorder and its potential for disastrous outcomes, it is important for primary care physicians to be familiar with its presentation, diagnosis, and management."
+        },
+        {
+            "parent": 0,
+            "text": "A 32-year-old man presented with severe chest pain following exertion. He experienced dizziness, dyspnea, and a tingling sensation in his left arm with the chest pain. He waited for the symptoms to subside but went to the emergency department when the pain had not resolved after 60 minutes. Multiple medical regimens, including lidocaine (Xylocaine) and verapamil (Calan), failed to control his heart rate, and at one point, he required cardioversion because of unstable ventricular tachycardia (VT). His rhythm was finally stabilized using propranolol (Inderal). His event electrocardiography demonstrated no ST-segment changes, but multiple upright premature ventricular contractions were noted in leads II and III and the aVF. Also of note on electrocardiography were negative premature ventricular contractions in leads V1 through V3."
+        },
+        {
+            "parent": 0,
+            "text": "A preliminary diagnosis of right ventricular outflow tract VT was made, and the patient was transferred for cardiac catheterization, cardiac electrophysiologic studies, and magnetic resonance imaging (MRI) of the heart. Results of those studies demonstrated right ventricular dysplasia with a small right lateral wall ventricular aneurysm and inducible sustained monomorphic VT. The diagnosis of ARVD was made, and the patient agreed to receive an automatic implantable cardioverter-defibrillator (AICD) to control future tachycardic events. After AICD implantation, he was discharged on sotalol (Betapace)."
+        },
+        {
+            "parent": 0,
+            "text": "Less than a month later, he experienced multiple episodes of sustained VT that were terminated promptly by the AICD. He was readmitted for heart rate control using a combination of intravenous lidocaine and amiodarone (Cordarone) and oral propranolol. Subsequent radiofrequency mapping and ablation, with more than eight arrhythmogenic sites identified and treated in the right ventricle, was successful, and he was discharged on sotalol with no further symptomatic tachycardic events noted."
+        },
+        {
+            "parent": 1,
+            "text": "ARVD is characterized by progressive replacement of the right ventricular myocardium by fibrofatty tissue(Figure 1).8,9The most common location for this tissue transformation is between the anterior infundibulum, right ventricular apex, and inferior or diaphragmatic aspect of the right ventricle, the so-called “triangle of dysplasia”(Figure 2).2Dysplasia in this region usually leads to dilatations or aneurysms having paradoxical systolic motion (expansion with systole instead of contraction). On the cellular level, there is transmural loss of myocardium in the right ventricular free wall. The left ventricle and septum usually are spared from the fibrofatty transformation, although they may be involved in more extensive cases.10In addition, the specialized conduction system of the heart usually is spared. The presence of arrhythmias and characteristic findings on electrocardiography (see Clinical Findings and Diagnosis) can be explained by the dispersal of electrically conducting myocytes that can incite tachycardic events as the dysplastic event progresses.11,12"
+        },
+        {
+            "parent": 1,
+            "text": "ARVD appears to have a strong familial association, with more than 30 percent of patients reporting a family history of the disorder. Most of these cases demonstrate an autosomal dominant pattern.3,13Mutations in genes at three loci have been linked to the presence of ARVD.3,5,14To date, no specific genetic testing for ARVD is available."
+        },
+        {
+            "parent": 2,
+            "text": "Patients with ARVD may present at any age but are usually young or middle-aged (33 ± 14 years); the majority of patients are men (3:1 ratio).10,15Because of the progressive nature of the disorder, patients may present with any number of symptoms. Palpitations, fatigue, and syncope appear to be the most common symptoms, but patients may have other nonspecific complaints such as abdominal pain and mental confusion(Table 1). In some cases, cardiac arrest following physical exertion such as participation in sports may be the initial presenting problem.8,16"
+        },
+        {
+            "parent": 2,
+            "text": "Screening for ARVD begins with a thorough personal and family history, ideally of first- and second-degree relatives. A personal history of palpitations, especially in a young person, or a family history of sudden cardiac death or death at an early age should raise the index of suspicion for ARVD."
+        },
+        {
+            "parent": 2,
+            "text": "The physical examination is normal in at least 50 percent of patients with ARVD. One important diagnostic clue, if present, is a widely split S2.15An S3 or S4 heart sound may be noted. Rarely, a murmur may be appreciated. If the right ventricle is greatly dilated, asymmetry of the chest wall may be seen."
+        },
+        {
+            "parent": 2,
+            "text": "The diagnosis of ARVD often is made following a work-up for tachycardia in an otherwise healthy adult. Fifty to 90 percent of persons with ARVD will have characteristic findings on a resting electrocardiogram.8,15,17These findings include T-wave inversion in the anterior precordial leads (V1 through V6), epsilon waves, or VT with a left bundle branch block pattern, although polymorphic and right bundle branch block patterns also have been reported.9,15,18Epsilon waves are small deflections just beyond the QRS complex(Figure 3); they are best visualized on a signal averaged electrocardiogram in leads V1 through V3. Any potential in leads V1 through V3 that exceeds the QRS duration in lead V6 by more than 25 milliseconds should be considered an epsilon wave.11"
+        },
+        {
+            "parent": 2,
+            "text": "In 1994, a scoring system based on major and minor criteria was implemented to help establish the diagnosis of ARVD(Table 2).4,19,20Although these criteria are specific, they lack sensitivity and have never been validated, in part because there is no single definitive means of making the diagnosis.3,20,21The preferred method for making the diagnosis is based on histologic evidence of fibrofatty myocardium. Unfortunately, biopsy lacks sufficient sensitivity because of the segmental nature of the disease process. Once ARVD is suspected, early consultation with a cardiologist is recommended so that further testing may be performed to exclude other diagnoses(Table 3).22,23These tests involve invasive and noninvasive modalities. Noninvasive testing includes Holter monitoring, exercise stress testing, chest radiography, and MRI of the heart. Invasive testing includes right ventricular angiography, contrast echocardiography, electrophysiologic studies, and endomyocardial biopsy."
+        },
+        {
+            "parent": 2,
+            "text": "Results of Holter monitoring and exercise stress testing usually are normal. In more advanced cases of ARVD, stress testing may induce VT.15Chest radiographs usually are normal unless extensive ventricular enlargement is present."
+        },
+        {
+            "parent": 2,
+            "text": "It is debatable which imaging modality is the best for diagnosing ARVD.24Contrast echocardiography and right ventricular angiography are able to identify ventricular aneurysms and areas of dyskinesis in the triangle of dysplasia but require invasive techniques.25,26Heart MRI is able to provide noninvasive localization of structural changes and regional dysfunction, although identification of intramyocardial fibrofatty change is difficult.27–30"
+        },
+        {
+            "parent": 2,
+            "text": "Electrophysiologic studies are used to detect delayed potentials that can lead to tachycardic events. With these studies, it is possible to determine the number of arrhythmic morphologies, the ease of tachycardia induction, tolerance to tachycardic events, and the capacity for the tachycardia to develop into lethal arrhythmias. Electrophysiologic studies also can be used to distinguish between idiopathic right ventricular arrhythmias, which tend to have a relatively benign course, and ARVD.17,31,32"
+        },
+        {
+            "parent": 2,
+            "text": "Endomyocardial biopsy has been considered the preferred method for diagnosis of ARVD. It has a specificity of 92 percent. However, its sensitivity is low (less than 20 percent) because tissue sampling is taken from the septum, where the risk of perforation is low and the likelihood of active disease is minimal.31"
+        },
+        {
+            "parent": 3,
+            "text": "One of the major goals when treating ARVD is to prevent sudden cardiac death. Treatment decisions should be made in conjunction with a cardiologist or cardiac electrophysiologist. Although there is no way to cure ARVD, the arrhythmias can be managed. Available therapies include lifestyle modifications, antiarrhythmic medications, radiofrequency ablation, defibrillator implantation, and other surgery(Figure 4)."
+        },
+        {
+            "parent": 3,
+            "text": "The first step in management is to educate patients about the disease. Although no definitive evidence exists regarding lifestyle modifications, patients should avoid activities that may trigger a tachycardic event, such as excessive physical exertion. Once effective control of arrhythmias is achieved, physical activities may be increased under close medical supervision."
+        },
+        {
+            "parent": 3,
+            "text": "Antiarrhythmic medications are the initial and most commonly used therapy in ARVD.33No single drug has been shown to be completely effective in controlling or abolishing the arrhythmias, although intravenous amiodarone reportedly has been effective in terminating acute VT in patients with ARVD.8,10Sotalol and amiodarone are class III drugs. Other drug regimens include class II antiarrhythmics (beta blockers such as propranolol), alone or in combination with class Ia drugs (procainamide [Pronestyl]) or class Ic drugs (flecainide [Tambocor], propafenone [Rythmol]), class Ic drugs alone, and amiodarone with class Ic or class II drugs. For chronic management of ARVD, treatment with sotalol, beta blockers, propafenone, and amiodarone alone or in combination is used most often with variable success.34,35"
+        },
+        {
+            "parent": 3,
+            "text": "Radiofrequency ablation is used in cases of drug refractory or incessant VT, frequent tachycardia following internal defibrillator placement, and localized arrhythmia sites.10,11The goal of radiofrequency ablation is to eliminate conduction pathways that are critical to the perpetuation of arrhythmias. Because radiofrequency ablation is completely successful in only 30 to 65 percent of cases, many patients will require more than one ablation session. These so-called relapses are often the result of disease progression that creates a new reentrant circuit."
+        },
+        {
+            "parent": 3,
+            "text": "The AICD works by providing antitachycardia pacing and defibrillation shocks as needed when arrhythmias occur. As with optimal antiarrhythmic treatment, the timing of AICD placement is debatable because no reliable risk stratification exists for patients with ARVD.36In general, placement of an AICD should be considered strongly in patients with drug-refractory arrhythmias.10,37Other indications for an AICD include younger age at onset, cardiac arrest, and left ventricular involvement(Table 4).37–39The most significant relative contraindication to AICD placement is incessant VT.37Other contraindications are listed inTable 4.37–39Complications of AICD placement are rare but include lead perforation, lead failure, infection, and perioperative mortality.38"
+        },
+        {
+            "parent": 3,
+            "text": "If the above treatments fail, ventriculotomy and transplantation are options for management. Right ventriculotomy is performed by disconnecting the right ventricle from the rest of the heart. Heart transplantation remains a final option for patients with bilateral ventricular involvement and uncontrollable hemodynamic compromise.40"
+        },
+        {
+            "parent": 4,
+            "text": "ARVD is a progressive disease. The fact that it may be found as the cause of sudden cardiac death in young athletes, or as an incidental finding at autopsy in older adults, illustrates the unpredictable course of this disease. Although multiple studies have demonstrated a favorable long-term prognosis in properly treated patients, few long-term prospective studies have been performed to determine if the course of ARVD can be modified.41Therefore, lifelong monitoring of patients with ARVD by the primary care physician-cardiologist team is recommended."
+        }
+    ],
+    "locked": false
+}

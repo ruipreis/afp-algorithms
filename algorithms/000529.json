@@ -1,0 +1,201 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/1201/p1261.html#afp20091201p1261-f2",
+    "title": "Diagnosis and Management of Von Willebrand Disease: Guidelines for Primary Care | AAFP",
+    "author": "BARBARA P. YAWN, MD, MSC, WILLIAM L. NICHOLS, MD, AND MARGARET E. RICK, MD",
+    "doi": "Am Fam Physician.2009;80(11):1261-1268",
+    "abstract": "Von Willebrand disease is an inherited condition characterized by deficiency of von Willebrand factor, which is essential in hemostasis. The National Heart, Lung, and Blood Institute has released new evidence-based guidelines for the diagnosis and management of the disease. There are three major subtypes of von Willebrand disease, classified as partial quantitative deficiency (low levels) of von Willebrand factor (type 1), qualitative deficiency (type 2), or virtually complete deficiency (type 3). Diagnosis is usually made by reviewing the patient's personal and family history of bleeding and by clinical evaluation for more common reasons for bleeding, supplemented with laboratory tests. Assessment may be used to determine bleeding risk before surgery and other invasive procedures, and to diagnose reasons for unexplained hemorrhaging. Von Willebrand factor levels of 30 IU per dL or lower are required for the definite diagnosis of inherited von Willebrand disease. Persons with levels of 30 to 50 IU per dL may not have the disease, but may need agents to increase von Willebrand factor levels during invasive procedures or childbirth. Treatment is tailored to the subtype of the disease: increasing plasma concentration of von Willebrand factor by releasing endogenous stores with desmopressin or replacing nonexistent or ineffective von Willebrand factor by using human plasma–derived, viral-inactivated concentrates; treatment is often combined with hemostatic agents that have mechanisms other than increasing von Willebrand factor. Regular prophylaxis is seldom required, and treatment is initiated before planned invasive procedures or in response to bleeding.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Classification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "TYPE 1",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "TYPE 2",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "TYPE 3",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ACQUIRED VON WILLEBRAND SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "CLINICAL HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "DIAGNOSING SUBTYPES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "DESMOPRESSIN",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "FACTOR REPLACEMENT THERAPY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "ANTIFIBRINOLYTICS AND TOPICAL AGENTS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Women with VWD",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "MENORRHAGIA",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "PREGNANCY AND CHILDBIRTH",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Von Willebrand disease (VWD) encompasses a group of inherited bleeding disorders related to qualitative or quantitative defects of von Willebrand factor (VWF), which is essential in hemostasis. The disease leads to bleeding from impaired platelet adhesion and aggregation, and may be accompanied by a reduced concentration of factor VIII. Undiagnosed VWD likely accounts for many women with menorrhagia and patients with mild to moderate hemorrhage during or after invasive procedures. In screening assessments of large asymptomatic populations, the prevalence of VWD has been reported to be as high as 1.3 percent. However, only about 0.01 percent of the population had clinically recognized symptoms associated with abnormal VWD test results.1Of note, average VWF levels are 25 percent lower in persons with type O blood compared with others in the ABO blood group, and many inflammatory conditions and pregnancy increase VWF levels, confounding the diagnosis.2It is important for family physicians to know when to suspect VWD, to know how to evaluate for the disease, and to understand the principles of management. This article summarizes recent evidence-based guidelines on the diagnosis and management of VWD from the National Heart, Lung, and Blood Institute (NHLBI).3-5"
+        },
+        {
+            "parent": 0,
+            "text": "Synthesis of VWF occurs in the vascular endothelium and megakaryocytes. It is released from platelets and endothelial cells when they are activated and binds to factor VIII in the circulation, prolonging its half-life6; VWF has a half-life of approximately 12 hours. With vascular injury, VWF bridges between exposed collagen and platelets. Factor VIII is also released from the VWF and facilitates the formation of thrombin and a fibrin clot.6"
+        },
+        {
+            "parent": 1,
+            "text": "There are three major subtypes of VWD (Table 17): partial quantitative VWF deficiency (type 1, 75 percent of patients with VWD), qualitative VWF deficiency (type 2, 25 percent of patients with VWD), and virtually complete VWF deficiency (type 3, rare).8Type 2 disease is further divided into four variants (2A, 2B, 2M, 2N) on the basis of the phenotype. Although it can be difficult to distinguish the subtypes and separate true VWD from mildly low VWF levels, these distinctions are important in treatment decisions and prognosis.7,9"
+        },
+        {
+            "parent": 2,
+            "text": "In type 1 VWD, the level of plasma VWF is low, but the existing VWF functions normally. Levels of blood clotting factor VIII usually parallel those of VWF and, therefore, may also be reduced. However, a normal factor VIII level does not rule out VWD."
+        },
+        {
+            "parent": 2,
+            "text": "In the general population, the mean level of plasma VWF is 100 IU per dL, with a normal reference range between 50 and 200 IU per dL. The 5 percent of persons with VWF levels of less than 50 IU per dL include those with VWD and those with slightly low, but nondiagnostic, levels. Self-reported, mild bleeding symptoms (e.g., menorrhagia, prolonged nosebleeds) are common in healthy persons, and the association between bleeding symptoms and mildly to moderately low VWF levels may be coincidental.7This makes diagnosing type 1 VWD difficult."
+        },
+        {
+            "parent": 3,
+            "text": "Bleeding symptoms in patients with type 2 VWD are often more severe than in patients with type 1. However, like in type 1, symptoms depend on the severity and extent of the bleeding trigger (often trauma or surgery). Because of the multiple variants of type 2 VWD, collaboration with a hematologist who has expertise in hemostasis is helpful for diagnosis and management."
+        },
+        {
+            "parent": 4,
+            "text": "Type 3 VWD is characterized by undetectable VWF protein and activity. Factor VIII levels usually are very low (1 to 9 IU per dL)."
+        },
+        {
+            "parent": 5,
+            "text": "Acquired von Willebrand syndrome (AVWS) is less common than congenital VWD, occurring in fewer than one in 100,000 adults,10and is typically associated with one of several mechanisms or medical conditions (Table 23,10,11). Laboratory findings in patients with AVWS are similar to those in patients with congenital VWD.10,11When clinical and laboratory assessments identify VWD in the absence of a personal or family history of congenital VWD, AVWS should be considered and evaluation for contributing disorders should be initiated. Conversely, AVWS should be considered when bleeding occurs in association with one of its causative conditions, and initial VWD testing performed (evaluation for AVWS and congenital VWD is the same)."
+        },
+        {
+            "parent": 6,
+            "text": "Evaluation for VWD (or other bleeding disorders) should be considered for the following patients: (1) currently asymptomatic patients undergoing a surgical or interventional procedure if personal or family history of bleeding is a concern; (2) patients with current symptoms or a history of increased bleeding, abnormal laboratory study results, or a family history of a bleeding disorder; and (3) patients with a previous VWD diagnosis, but no supporting laboratory documentation.1,3The initial step in the evaluation should focus on key aspects of the patient and family history. History and examination findings determine the need for further laboratory testing(Figure 1).3"
+        },
+        {
+            "parent": 7,
+            "text": "The history should focus on episodes of excessive bleeding, including spontaneity, severity, cause, sites, and duration of bleeding; type of associated injury; and ease with which bleeding was stopped. A family history of an established bleeding disorder is useful in identifying persons at risk of VWD, but often is not present. Other causes of bleeding (e.g., medications, such as clopidogrel [Plavix], heparin, nonsteroidal anti-inflammatory drugs [NSAIDs], and warfarin [Coumadin]; liver, kidney, blood, or bone marrow diseases) should be considered before the evaluation of VWD continues.1,3,12-15"
+        },
+        {
+            "parent": 7,
+            "text": "In patients with VWD, the most common sites of hemorrhage include mucous membranes (usually nosebleeds), skin (bruising), and the uterus in women (menorrhagia, postpartum hemorrhage). Bleeding during or after surgical procedures is possible, and muscle and joint bleeding occur with more severe disease. Most bleeding is mild to moderate and does not require transfusion or prompt a physician visit, making it difficult to separate normal bleeding from that associated with mild VWD.12Although menorrhagia is common in women, those with VWD are more likely to have more marked menorrhagia with blood clots greater than 1 inch in diameter, bleeding that requires a pad or tampon change more than hourly, and low serum ferritin levels.13"
+        },
+        {
+            "parent": 7,
+            "text": "The physical examination should be directed at detecting signs of bleeding, including size, location, and distribution of ecchymoses, hematomas, and petechiae; signs of anemia; and other causes of bleeding, including liver disease, splenomegaly, and gynecologic lesions."
+        },
+        {
+            "parent": 8,
+            "text": "No simple, single laboratory test is available to screen for VWD, and the diagnosis is made using several specific laboratory tests. If the history or physical examination suggests a possible bleeding disorder, laboratory testing(Figure 23)is appropriate, beginning with evaluation for any hemostasis problem. The initial hemostasis evaluation should include complete blood and platelet counts, partial thromboplastin time, prothrombin time, and possibly fibrinogen level or thrombin time.5,6,8These tests can exclude other bleeding problems, such as isolated low platelet counts from thrombocytopenic disorders, isolated prolongation of prothrombin time from warfarin use, and low fibrinogen levels from diffuse intravascular coagulation or sepsis. These coagulation factor abnormalities are unlikely to be caused by VWD and require other hematologic assessment. Bleeding time testing is no longer recommended to screen for bleeding disorders.3"
+        },
+        {
+            "parent": 8,
+            "text": "An isolated prolonged partial thromboplastin time or a normal partial thromboplastin time, prothrombin time, platelet count, and fibrinogen level in the presence of signs or symptoms of bleeding suggest the need for VWD-specific testing1,3,7,16(Figure 23andTable 33). It is important to note that the initial hemostasis panel will not detect many VWD cases, and patients with a significant personal or family history of bleeding require thorough evaluation even if initial hemostasis findings are normal. In such cases, it may be helpful to consult a coagulation subspecialist. Consultation with a coagulation subspecialist is also appropriate if any of the hemostasis findings are abnormal, to assist in further testing and referral decisions."
+        },
+        {
+            "parent": 9,
+            "text": "Classification of subtypes is based on initial VWD testing and other specialized VWD tests, combined with the clinical history. Separation into types 2 and 3 is usually done in consultation with a coagulation subspecialist."
+        },
+        {
+            "parent": 9,
+            "text": "Diagnosing type 1 VWD and distinguishing it from a low VWF level without VWD can be challenging, especially when VWF levels are only mildly decreased (30 to 50 IU per dL). Therefore, it is important to correlate severity and cause of bleeding with results of laboratory testing."
+        },
+        {
+            "parent": 9,
+            "text": "Testing may need to be repeated because some conditions can alter baseline VWF and factor VIII levels. Stress, such as in a struggling child or anxious adult; very recent exercise; acute or chronic illness; pregnancy; and the use of estrogen or oral contraceptives may falsely elevate VWF and factor VIII levels. Careful processing of blood samples is also important (Table 43)."
+        },
+        {
+            "parent": 10,
+            "text": "There are three main approaches to the treatment of VWD, used individually or in combination. These approaches include increasing plasma concentration of VWF by releasing endogenous VWF stores through stimulation of endothelial cells with desmopressin (DDAVP); replacing VWF by using human plasma–derived, viral-inactivated concentrates; and promoting hemostasis using hemostatic agents with mechanisms other than increasing VWF. Regular prophylaxis is seldom required, and treatment is initiated before planned invasive procedures or in response to bleeding."
+        },
+        {
+            "parent": 11,
+            "text": "Desmopressin is a synthetic derivative of the antidiuretic hormone. It is used in type 1 VWD and in some patients with type 2 VWD. Desmopressin is generally administered for short periods (48 to 72 hours), and no more often than at 24- to 48-hour intervals because of tachyphylaxis and adverse effects. However, if a longer duration or shorter intervals are required, the patient should be monitored for fluid and electrolyte problems because desmopressin may lead to symptomatic hyponatremia.8"
+        },
+        {
+            "parent": 12,
+            "text": "Humate-P and Alphanate are currently the only plasma-derived VWF concentrates approved by the U.S. Food and Drug Administration for the treatment of VWD. These products also contain factor VIII, but differ in ratios of VWF to factor VIII and in content of high-molecular-weight multimers of VWF. Cryoprecipitate is no longer recommended for VWF or factor VIII replacement. Treatment duration varies by procedure (Table 53)."
+        },
+        {
+            "parent": 13,
+            "text": "The oral antifibrinolytic agents epsilon-aminocaproic acid (Amicar) and tranexamic acid (oral formulation no longer available in the United States) are very useful for mucous membrane bleeding, such as with dental procedures.17Topical agents, such as bovine or human thrombin and fibrin sealants, may be used for accessible minor bleeding.17,18"
+        },
+        {
+            "parent": 15,
+            "text": "Menorrhagia may be the first sign of VWD in women,19although other causes of menorrhagia must be ruled out first.14If menorrhagia is caused by VWD and the patient is not trying to get pregnant, combined oral contraceptives are the treatment of choice. The levonorgestrel-releasing intrauterine device (Mirena) is an alternative in appropriate patients.20,21Desmopressin, antifibrinolytics, or VWF concentrates have been used to manage menorrhagia in women desiring pregnancy; referral to a hemophilia center should be considered in these patients."
+        },
+        {
+            "parent": 15,
+            "text": "Dilation and curettage is not effective in controlling heavy menstrual bleeding.15One study showed that endometrial ablation reduced menstrual blood loss in six out of seven women studied.22However, some women will require hysterectomy."
+        },
+        {
+            "parent": 16,
+            "text": "Before or during pregnancy, women with VWD should be referred to a genetic counselor to discuss the inheritance of the disease,23and to a pediatric hematologist for evaluation of the infant after delivery. Pregnant women with VWD who have factor VIII or VWF ristocetin cofactor (VWF:RCo) levels of less than 50 IU per dL, or a history of severe bleeding should be referred to a perinatal center that has a hemophilia treatment center or a hematologist with expertise in hemostasis. Before invasive procedures or regional anesthesia during labor and delivery, women who have VWD should receive factor VIII and VWF:RCo assays to determine the need for and amount of appropriate prophylaxis.23,24"
+        },
+        {
+            "parent": 16,
+            "text": "Desmopressin therapy initiated during labor may cause significant fluid retention, which is aggravated by use of oxytocin (Pitocin), with risk of hyponatremia and seizures. Therefore, women with VWD and factor VIII levels or VWF:RCo of less than 50 IU per dL should receive VWF replacement with VWF concentrates as opposed to desmopressin. After delivery, NSAIDs may decrease platelet function, aggravating bleeding or increasing the risk of postpartum hemorrhage.25The elevated VWF levels caused by pregnancy return to baseline within seven to 21 days after delivery,26,27predisposing women with VWD to delayed postpartum hemorrhage at 21 to 28 days."
+        },
+        {
+            "parent": 16,
+            "text": "editor's note: The authors of this article are members of the NHLBI Von Willebrand Disease Expert Panel."
+        }
+    ],
+    "locked": false
+}

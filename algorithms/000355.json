@@ -1,0 +1,138 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0115/p99.html#afp20140115p99-f1",
+    "title": "Celiac Disease: Diagnosis and Management | AAFP",
+    "author": "TIMOTHY D. PELKOWSKI, MD, MS, AND ANTHONY J. VIERA, MD, MPH",
+    "doi": "Am Fam Physician.2014;89(2):99-105",
+    "abstract": "Celiac disease is an autoimmune disorder of the gastrointestinal tract. It is triggered by exposure to dietary gluten in genetically susceptible individuals. Gluten is a storage protein in wheat, rye, and barley, which are staples in many American diets. Celiac disease is characterized by chronic inflammation of the small intestinal mucosa, which leads to atrophy of the small intestinal villi and subsequent malabsorption. The condition may develop at any age. Intestinal manifestations include diarrhea and weight loss. Common extraintestinal manifestations include iron deficiency anemia, decreased bone mineral density, and neuropathy. Most cases of celiac disease are diagnosed in persons with extraintestinal manifestations. The presence of dermatitis herpetiformis is pathognomonic for celiac disease. Diagnosis is supported by a positive tissue transglutaminase serologic test but, in general, should be confirmed by a small bowel biopsy showing the characteristic histology associated with celiac disease. The presence of human leukocyte antigen alleles DQ2, DQ8, or both is essential for the development of celiac disease, and can be a useful genetic test in select instances. Treatment of celiac disease is a gluten-free diet. Dietary education should focus on identifying hidden sources of gluten, planning balanced meals, reading labels, food shopping, dining out, and dining during travel. About 5% of patients with celiac disease are refractory to a gluten-free diet. These patients should be referred to a gastroenterologist for reconsideration of the diagnosis or for aggressive treatment of refractory celiac disease, which may involve corticosteroids and immunomodulators.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology and Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "TYPICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "CLINICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DIAGNOSTIC CRITERIA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "GENETIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Celiac disease is an autoimmune disorder of the gastrointestinal tract caused by exposure to dietary gluten, which is a storage protein in wheat, rye, and barley.1,2It is characterized by chronic inflammation of the small intestinal mucosa, which leads to atrophy of the intestinal villi and subsequent malabsorption. Celiac disease can produce a variety of manifestations, and it may develop at any age. It is also known as celiac sprue, nontropical sprue, gluten-induced enteropathy, or gluten-sensitive enteropathy."
+        },
+        {
+            "parent": -1,
+            "text": "Celiac disease occurs in persons of European ancestry and in those of Middle Eastern, Indian, South American, and North African descent.3,4It is rare in persons of Asian descent. Celiac disease affects roughly 1% of the U.S. population.1,2Given the lack of symptoms or vague symptoms associated with some forms of celiac disease, the condition often goes undiagnosed or is not diagnosed until later in life. Additionally, it is likely that many individuals with celiac disease have a subclinical or low-grade form. As with many autoimmune diseases, celiac disease is about two to three times more common in women.5There are also a number of specific populations with an increased risk of celiac disease(Table 1).2,6–8Although screening of the general population is not recommended, a heightened suspicion should be maintained in these high-risk groups."
+        },
+        {
+            "parent": 0,
+            "text": "The pathophysiology of celiac disease is immune based. Gliadin, the alcohol-soluble portion of gluten, cannot be fully broken down by the intestine, and generally remains in the intestinal lumen of all individuals. In persons with celiac disease, it can occasionally pass through the epithelial layer of the intestine and stimulate an immune response in those with genetic susceptibility. In these individuals, this poorly digested gliadin protein will bind to the human leukocyte antigen class II DQ2 or DQ8 molecules, which then activates CD4 T cells in the intestinal mucosa. This autoimmune activation produces chronic inflammation of the proximal small bowel intestinal mucosa, leading to malabsorption. The severity of the clinical manifestations depends in part on the extent of the intestinal damage that occurs."
+        },
+        {
+            "parent": 1,
+            "text": "No clear risk factors for celiac disease have been identified for adults, but there are some possible risk factors for children. Breastfeeding during the introduction of gluten in an infant's diet may decrease the risk of celiac disease (odds ratio = 0.48; 95% confidence interval [CI], 0.40 to 0.59).9Furthermore, a longer duration of breastfeeding also seems to decrease the risk of developing celiac disease during the first year of life (odds ratio = 0.66; 95% CI, 0.48 to 0.89).9,10There also appear to be two windows of exposure to gluten in infancy that heighten the risk of celiac disease. Introducing gluten in an infant's diet before three months of age or after seven months of age seems to increase the risk (hazard ratio = 3.98; 95% CI, 1.18 to 13.46).11The mechanism by which risk is increased during these age ranges is unknown. It is uncertain whether introducing gluten in an infant's diet between three and seven months of age would permanently prevent celiac disease or only delay its development. Finally, it has been suggested that cesarean delivery and rotavirus infection may be risk factors for celiac disease in children.12–14"
+        },
+        {
+            "parent": 3,
+            "text": "The clinical manifestations of celiac disease vary and involve multiple organ systems; many patients are asymptomatic or only minimally symptomatic. Broadly speaking, manifestations can be categorized as intestinal or extraintestinal(Table 2).15–39Most cases of celiac disease are diagnosed in persons with extraintestinal manifestations.16The most common intestinal manifestations are diarrhea and flatulence(Table 3), but individual signs and symptoms lack specificity.40Many of the extraintestinal symptoms are consequences of malabsorption (e.g., iron deficiency leading to anemia). However, it appears that the autoimmune process itself is responsible for at least some of these extraintestinal manifestations. The clinical presentations strongly associated with celiac disease (i.e., at least 10% of patients in these groups have celiac disease) include chronic gastrointestinal symptoms with a family history of celiac disease or a personal history of autoimmune disease or immunoglobulin A (IgA) deficiency, biopsy-proven dermatitis herpetiformis, chronic diarrhea, failure to thrive in children, and iron deficiency anemia refractory to oral supplementation.41"
+        },
+        {
+            "parent": 3,
+            "text": "Dermatitis herpetiformis is an extraintestinal manifestation that is pathognomonic for celiac disease. Because the rash is an immunologic response to gluten, it is sometimes referred to as celiac disease of the skin. This papulovesicular rash is extremely pruritic and found on extensor surfaces, such as the elbows, knees, buttocks, and scalp. It occurs in about 25% of patients with celiac disease and is more common in men than women.21,22About 80% of those with dermatitis herpetiformis show histopathologic changes of celiac disease on small intestinal biopsy, but only 20% of these patients initially have symptoms of celiac disease.23,24Skin contact with gluten does not produce this rash; only ingested gluten does so. Dapsone may help manage the rash, but it will not prevent intestinal injury.25,26"
+        },
+        {
+            "parent": 3,
+            "text": "Children with celiac disease may present with gastrointestinal symptoms, such as diarrhea, abdominal pain, vomiting, constipation, abdominal distention, and failure to thrive.8These symptoms and signs classically occur between six and 24 months of age, and occur after the introduction of gluten in the diet. Several extraintestinal symptoms appear to be unique to childhood, and include short stature and delayed puberty.8"
+        },
+        {
+            "parent": 4,
+            "text": "Most patients with celiac disease have a silent form of the illness, lacking examination findings. However, patients occasionally have profound malabsorption with a number of associated clinical findings, such as weight loss and muscle wasting, pallor, stomatitis, or easy bruising. As previously mentioned, the examination finding most suggestive of celiac disease is dermatitis herpetiformis."
+        },
+        {
+            "parent": 5,
+            "text": "The diagnosis of celiac disease is made using a combination of serologic tests, small bowel biopsy, and response to a gluten-free diet(Figure 1).1,2,6,42,43Several serologic antibody tests can be used as initial tests in patients with clinically suspected celiac disease(Table 4).42,44,45Because of their low sensitivity and specificity, antigliadin antibodies are no longer recommended for initial testing. The test for endomysial antibodies has higher sensitivity and specificity, but is also more expensive. Tissue transglutaminase (tTG) testing is of similarly high sensitivity and specificity, but is not as costly. Thus, IgA tTG is currently the test of choice for serologic diagnosis and monitoring of celiac disease.42–45"
+        },
+        {
+            "parent": 5,
+            "text": "Deaminated gliadin peptide is a newer test for patients who also have IgA deficiency, which is 10 to 15 times more common in patients with celiac disease than in the general population.6,45Therefore, it is recommended that a total IgA level be checked with the initial IgA tTG.7Deaminated gliadin peptide IgG testing can be performed in persons with IgA deficiencies. Many individuals have detectable but low levels of IgA, and for these persons, the accuracy of IgA-based serologies is thought not to be affected in celiac disease.42Note that serologic testing may not be accurate in children younger than five years and is less accurate in those younger than two years.42"
+        },
+        {
+            "parent": 5,
+            "text": "Serologic tests alone are typically not sufficient to diagnose celiac disease. A small bowel biopsy is required, and persons with a positive serologic test result should be referred for esophagogastroduodenoscopy, as should those with initially negative results in whom there is high suspicion.2,6,8,43To confirm the diagnosis, the biopsy must show the histopathologic findings (various degrees of villous atrophy) associated with small intestinal malabsorption.2An exception to the confirmatory intestinal biopsy requirement is persons who have a skin biopsy with the typical histopathology of dermatitis herpetiformis, because 80% of these patients have an abnormal biopsy.23,26In addition, recent guidelines from the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition have noted that infants or children with signs and symptoms of celiac disease and IgA tTG levels greater than 10 times the upper limit of normal can receive a diagnosis of celiac disease without small bowel biopsy.46"
+        },
+        {
+            "parent": 5,
+            "text": "Because of the possibility of false-negative results, these tests need to be performed before the initiation of dietary gluten restriction. Many patients initiate a gluten-free diet on their own before a conclusive diagnosis of celiac disease is reached. In severe celiac disease, the effect on serologies and biopsy findings is likely minimal if testing is performed within two months of initiating a gluten-free diet.15However, the effect depends on the duration of the diet and how strictly the patient follows it. Persons with positive serology results who have a diagnosis of celiac disease on intestinal biopsy typically have normal results six to 12 months after the introduction of a gluten-free diet. Testing results can also be masked when individuals are taking immunosuppressants.6"
+        },
+        {
+            "parent": 6,
+            "text": "More than 99% of patients with celiac disease have human leukocyte antigen DQ2, DQ8, or both.5Celiac disease is unlikely if neither of these haplotypes are present, with a negative predictive value approaching 100%.47Genetic testing is used rarely, but occasionally may be useful in excluding disease when other testing results are unclear. The human leukocyte antigen DQ2 and DQ8 alleles are present in 25% to 30% of the general population without celiac disease, but only about 4% of these persons develop celiac disease.48,49Therefore, this testing should not be used to randomly assess genetic susceptibility to the disease.18"
+        },
+        {
+            "parent": 7,
+            "text": "The finding of villous atrophy on biopsy is not specific for celiac disease. Therefore, if a patient is not responding to a gluten-free diet, the diagnosis of celiac disease needs to be reconsidered.Table 5lists some possible alternative diagnoses.3A referral to a gastroenterologist may be warranted in such cases."
+        },
+        {
+            "parent": 8,
+            "text": "Removing the antigenic substance responsible for the abnormal immune reaction typically reverses the manifestations of celiac disease. Therefore, treatment is a lifelong gluten-free diet1,2,6,8,43(Table 63). A gluten-free diet improves the quality of life in those with symptomatic celiac disease.50,51Because dietary glutens are found in wheat, rye, and barley—which make up the cornerstone of many American diets—the diet is complex and can be difficult to follow. The dietary threshold to promote healing of intestinal inflammation in celiac disease has been found to be less than 50 mg of gluten per day.52"
+        },
+        {
+            "parent": 8,
+            "text": "Dietary education should focus on identifying hidden sources of gluten, planning balanced meals, reading labels, grocery shopping, dining out, and dining during travel. In addition, appropriate vitamin and mineral replacement may need to be incorporated into the diet. There can be an increased cost associated with this regimen. The Internet has provided easier access to companies selling gluten-free foods, and many grocery stores are focusing on gluten-free substitutes. Meats, dairy products, fruits, and vegetables are gluten free. Oats were once thought to be a trigger for celiac disease; however, investigation has shown that moderate amounts of oats can be safely tolerated, and their introduction can be beneficial in the dietary management of celiac disease.53–55The National Institutes of Health Consensus Development Conference on Celiac Disease has outlined a mnemonic from the word celiac for managing the disease.1It includes consultation with a skilled dietitian, education, lifelong adherence to a gluten-free diet, identification and treatment of nutritional deficiencies, access to an advocacy group, and continuous long-term follow-up. Not all patients will need each component (e.g., dietitian, advocacy group), but these resources can be helpful, particularly to those struggling with adherence to the diet."
+        },
+        {
+            "parent": 8,
+            "text": "An empiric trial of a gluten-free diet without a biopsy is not recommended because symptoms of other disorders (e.g., irritable bowel syndrome, reflux, functional dyspepsia) can improve in patients following this diet. One study noted that the positive predictive value of a beneficial response from eliminating gluten in the diet was only 36%.56Although home blood self-testing kits based on serum tTG antibodies are available, clinicians and patients should be cautioned against diagnosing celiac disease using these results alone without a confirmatory small bowel biopsy.57"
+        },
+        {
+            "parent": 9,
+            "text": "Although histologic improvement may take months to years, approximately 95% of patients who follow a gluten-free diet show clinical improvement within days to weeks.3However, patient compliance with dietary treatment is poor.58Failure of IgA tTG titers to decrease in about six months suggests continued ingestion of gluten.59Patients and families may need frequent dietary education and assessment of compliance. Support groups could be helpful with diet maintenance. Repeat endoscopies are not routinely needed, but antibodies can be followed every three to six months until normalization.6If antibody levels are elevated after six to 12 months of adequate dietary treatment, repeat biopsies should be considered.6There are multiple guidelines outlining the recommended monitoring of individuals with celiac disease.1,6,8Depression is a common comorbidity with this chronic disease, and patients should be routinely monitored for symptoms and treated appropriately.60About 5% of patients with celiac disease are refractory to a gluten-free diet.3,15Those patients should be referred to a gastroenterologist to reconsider the diagnosis or for aggressive treatment of refractory celiac disease, which may require corticosteroids and immunomodulators, such as azathioprine (Imuran), 6-mercaptopurine, and cyclosporine (Sandimmune).61,62"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key term celiac disease. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Agency for Healthcare Research and Quality Guidelines and Evidence Reports, Essential Evidence Plus, MD Consult, the National Guideline Clearinghouse, and UpToDate. Search date: July 25, 2013."
+        }
+    ],
+    "locked": false
+}

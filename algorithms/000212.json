@@ -1,0 +1,125 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/1101/p575.html#afp20171101p575-f1",
+    "title": "Chronic Cough: Evaluation and Management | AAFP",
+    "author": "CHARLIE MICHAUDET, MD, AND JOHN MALATY, MD",
+    "doi": "Am Fam Physician.2017;96(9):575-580",
+    "abstract": "Although chronic cough in adults (cough lasting longer than eight weeks) can be caused by many etiologies, four conditions account for most cases: upper airway cough syndrome, gastroesophageal reflux disease/laryngopharyngeal reflux disease, asthma, and nonasthmatic eosinophilic bronchitis. Patients should be evaluated clinically (with spirometry, if indicated), and empiric treatment should be initiated. Other potential causes include angiotensin-converting enzyme inhibitor use, environmental triggers, tobacco use, chronic obstructive pulmonary disease, and obstructive sleep apnea. Chest radiography can rule out concerning infectious, inflammatory, and malignant thoracic conditions. Patients with refractory chronic cough may warrant referral to a pulmonologist or otolaryngologist in addition to a trial of gabapentin, pregabalin, and/or speech therapy. In children, cough is considered chronic if present for more than four weeks. In children six to 14 years of age, it is most commonly caused by asthma, protracted bacterial bronchitis, and upper airway cough syndrome. Evaluation should focus initially on these etiologies, with targeted treatment and monitoring for resolution.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Assessment of Chronic Cough",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Common Causes of Chronic Cough",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "UPPER AIRWAY COUGH SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ASTHMA AND COPD",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "NONASTHMATIC EOSINOPHILIC BRONCHITIS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "GASTROESOPHAGEAL/LARYNGOPHARYNGEAL REFLUX DISEASE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ACE Inhibitor–Related Cough",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Options for Refractory Cough",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Chronic Cough in Children",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Cough caused by the common cold typically lasts one to three weeks and is self-limited. However, persistent chronic cough can be the first sign of a more serious disease process. According to the Centers for Disease Control and Prevention, cough of undifferentiated duration is the most common presenting symptom in patients of all ages in the primary care ambulatory setting.1In adults, chronic cough is defined as symptoms lasting longer than eight weeks, whereas acute cough lasts less than three weeks and subacute cough from three to eight weeks.2When persistent and excessive, cough can seriously impair quality of life and lead to vomiting, muscle pain, rib fractures, urinary incontinence, tiredness, syncope, and depression. It also has psychosocial effects, such as embarrassment and negative impact on social interactions.3This article presents a systematic approach to the evaluation of chronic cough, derived from the results of prospective studies and an evidence-based practice guideline.4,5"
+        },
+        {
+            "parent": 0,
+            "text": "The initial evaluation should focus on identifying potential triggers, such as the use of an angiotensin-converting enzyme (ACE) inhibitor, environmental exposures, smoking status, and chronic obstructive pulmonary disease (COPD). It should also rule out red flags (e.g., fever, weight loss, hemoptysis, hoarseness, excessive dyspnea or sputum production, recurrent pneumonia, smoking history of 20 pack-years, or smoker older than 45 years) that suggest a serious underlying cause of cough.6The patient's description of the cough (character, timing, presence or absence of sputum production) should not determine the clinical approach; sequential or concomitant treatment of common causes is still recommended.4Unless a likely cause is identified, chest radiography should be obtained to rule out most infectious, inflammatory, and malignant thoracic conditions. When physical examination findings are normal and no red flags are present, routine computed tomography of the chest and sinuses is not necessary, nor is initial bronchoscopy.2"
+        },
+        {
+            "parent": 0,
+            "text": "The diagnostic approach should focus on detection and treatment of the four most common causes of chronic cough in adults: upper airway cough syndrome (UACS), asthma, nonasthmatic eosinophilic bronchitis, and gastroesophageal reflux disease (GERD)/laryngopharyngeal reflux disease.4,5After evaluation and empiric management of these etiologies, less common causes should be considered(Table 17andTable 28). A suggested primary care approach to the evaluation of chronic cough for immunocompetent adults is shown inFigure 1.9"
+        },
+        {
+            "parent": 2,
+            "text": "The term UACS, previously referred to as postnasal drip syndrome, was coined in the 2006 American College of Chest Physicians guideline4in recognition of the fact that multiple etiologies, including chronic rhinosinusitis, allergic rhinitis, and nonallergic rhinitis, were difficult to differentiate solely by clinical presentation. UACS is the most common cause of chronic cough.10Rhinorrhea, nasal stuffiness, sneezing, itching, and postnasal drainage suggest the diagnosis, but their absence does not rule out UACS.11Physical findings may include swollen turbinates and direct visualization of postnasal drainage and cobblestoning of the posterior pharynx. If a specific cause is identified, therapy should be started; otherwise, initial treatment includes a decongestant combined with a first-generation antihistamine. Intranasal corticosteroids, saline nasal rinses, nasal anticholinergics, and antihistamines are also reasonable options.10Clinical improvement should occur within days to weeks, and up to two months. If chronic rhinosinusitis is suspected, sinus computed tomography or flexible nasolaryngoscopy should be performed. Sinus radiography is not recommended because of limited sensitivity.12"
+        },
+        {
+            "parent": 3,
+            "text": "The prevalence of asthma in patients with chronic cough ranges from 24% to 29%.13It should be suspected in patients with shortness of breath, wheezing, and chest tightness, but cough can be the only manifestation in cough variant asthma. If the physical examination and spirometry findings are nondiagnostic, bronchial challenge testing (methacholine inhalation test) should be considered.14Resolution of the cough after asthma treatment is also diagnostic. After counseling the patient about potential triggers, treatment usually includes an inhaled bronchodilator and high-dose inhaled corticosteroid. A leukotriene receptor antagonist (e.g., montelukast [Singulair]) can also be useful. Symptoms should resolve within one to two weeks after starting treatment.15–17For severe or refractory cough, a five- to 10-day course of prednisone, 40 to 60 mg, or equivalent oral corticosteroid can be considered if asthma is strongly suspected.4,13"
+        },
+        {
+            "parent": 3,
+            "text": "COPD commonly causes chronic cough, but most patients presenting with chronic cough do not have undiagnosed COPD. Signs and symptoms suggestive of asthma also occur in persons with COPD. Spirometry is diagnostic, and purulent sputum production may also be present. Treatment includes an inhaled bronchodilator, inhaled anticholinergic, inhaled corticosteroid, and a one- to two-week course of oral corticosteroids (with or without antibiotics).18"
+        },
+        {
+            "parent": 4,
+            "text": "Nonasthmatic eosinophilic bronchitis is characterized by chronic cough in patients with no symptoms or objective evidence of variable airflow obstruction, normal airway responsiveness on a methacholine inhalation test, and sputum eosinophilia.19Sputum evaluation is not typically performed in the primary care setting, but it can be induced by saline nebulization or obtained by bron-choalveolar lavage in a subspecialist's office. The prevalence is unclear, but studies assessing airway inflammation in patients with chronic cough showed that this condition accounts for 10% to 30% of cases referred for subspecialist investigation.14,20It does not respond to inhaled bronchodilators, but should respond to inhaled corticosteroids. Avoidance strategies should be recommended when the inflammation is due to occupational exposure or inhaled allergens. Oral corticosteroids are rarely needed but can be considered if high-dose inhaled corticosteroids are ineffective.14"
+        },
+        {
+            "parent": 5,
+            "text": "The prevalence of GERD and laryngopharyngeal reflux disease as causative factors in chronic cough varies from 0% to 73%.21Studies have shown an association between GERD and chronic cough, but the pathophysiology is complex and treatment is controversial.2,22,23Associated manifestations such as heartburn, regurgitation, sour taste, hoarseness, and globus sensation are clinical clues. Although several uncontrolled studies have shown improvement of chronic cough with antacid treatment, more recent randomized controlled trials have shown no differences between proton pump inhibitors and placebo.24–29Although there is poor evidence that proton pump inhibitors are universally beneficial for GERD-induced chronic cough,30consensus guidelines recommend empiric therapy for at least eight weeks in conjunction with lifestyle changes such as dietary changes and weight loss.4,31The addition of a histamine H2receptor antagonist and/or baclofen (Lioresal, 20 mg per day) may be helpful.32,33"
+        },
+        {
+            "parent": 5,
+            "text": "A link between obstructive sleep apnea and chronic cough has been investigated. Treatment with continuous positive airway pressure may improve chronic cough by decreasing GERD; therefore, evaluation for obstructive sleep apnea should be considered.34Surgery can be considered in patients with GERD-associated chronic cough who have abnormal esophageal acid exposure (as proven by pH testing) if normal peristalsis is confirmed on manometry.31"
+        },
+        {
+            "parent": 6,
+            "text": "ACE inhibitor–related cough has been reported in 5% to 35% of patients and is more common in women.35It may start within hours to months of the first dose. When the medication is discontinued, resolution of the cough should occur within one week to three months; this is the only way to determine if the ACE inhibitor is causing the cough."
+        },
+        {
+            "parent": 6,
+            "text": "Angiotensin receptor blockers are a good alternative to ACE inhibitors. However, if the patient has a strong indication, restarting the ACE inhibitor may be attempted; in some patients, the cough will not recur.35When considering ACE inhibitors as the cause of chronic cough, other common causes should also be investigated."
+        },
+        {
+            "parent": 7,
+            "text": "Patients with unexplained chronic cough after evaluation and treatment of common causes should be referred to a pulmonologist or otolaryngologist.4,5Neuromodulators have shown some benefit in randomized trials based on the hypothesis that refractory chronic cough may be due to hypersensitivity of the cough reflex caused by peripheral (afferent limb of the cough reflex) and central mechanisms (central sensitization).36–38Therapies included gabapentin (Neurontin, 1,800 mg per day), which improved symptoms within four weeks; pregabalin (Lyrica, 300 mg per day) in conjunction with speech therapy, which showed greater improvement vs. placebo with speech therapy; and speech and language therapy alone.39–41"
+        },
+        {
+            "parent": 8,
+            "text": "Chronic cough in children younger than 15 years is defined as cough lasting more than four weeks.8Chest radiography and spirometry should be considered initially in age-appropriate patients.8A watch-wait-review approach consisting of parental reassurance and observation for one to two weeks may be used in patients with a nonspecific cough.8,42"
+        },
+        {
+            "parent": 8,
+            "text": "The most common causes of chronic cough in children six to 14 years of age are asthma, protracted bacterial bronchitis, and UACS.4,6,42Protracted bacterial bronchitis is characterized by isolated chronic cough, wet/moist cough, resolution of cough with antibiotic treatment, and absence of findings suggestive of an alternative cause. Treatment consists of a two-week course of an appropriate antibiotic, such as amoxicillin/clavulanate (Augmentin).43,44"
+        },
+        {
+            "parent": 8,
+            "text": "UACS is rare in children younger than six years, and antihistamines and decongestants are not recommended.44GERD does not seem to be as common in children, and empiric proton pump inhibitors are not recommended in the absence of a specific diagnosis.8Exposure to tobacco smoke, pets, and environmental irritants should be minimized. Pertussis can be considered but is usually associated with other symptoms, such as a “whoop” sound, apnea, low-grade fever, or vomiting. Less common causes, such as foreign body aspiration, congenital conditions, cystic fibrosis, and immune disorders, should also be considered."
+        },
+        {
+            "parent": 8,
+            "text": "This article updates previous articles on this topic byBenich and Carek,7Holmes and Fadden,45andLawler.46"
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources: A PubMed search was conducted combining the key term cough with chronic, adults, children, causes, etiologies, evaluation, treatment, asthma, reflux, upper airway cough syndrome, postnasal drip, and non-asthmatic eosinophilic bronchitis. In addition, searches were conducted using these terms on the Agency for Healthcare Research and Quality website, the National Guideline Clearinghouse database, Essential Evidence Plus, Clinical Evidence, and the Cochrane Database of Systematic Reviews. Search dates: August 5, 2016, to March 6, 2017."
+        }
+    ],
+    "locked": false
+}

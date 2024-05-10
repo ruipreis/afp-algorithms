@@ -1,0 +1,63 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0715/p175.html#afp20090715p175-f1",
+    "title": "Risk-Assessment Tools for Detecting Undiagnosed Diabetes | AAFP",
+    "author": "EUGENE MOCHAN, PhD, DO, Philadelphia College of Osteopathic Medicine, Philadelphia, Pennsylvania",
+    "doi": "Am Fam Physician.2009;80(2):175-178",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Question",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evidence Summary",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Applying the Evidence",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "What is the probability that an adult has undiagnosed diabetes?"
+        },
+        {
+            "parent": 1,
+            "text": "Early intervention with lifestyle modifications or pharmacotherapy has been shown to effectively delay or prevent type 2 diabetes in adults.1,2It is estimated that between 1999 and 2002 in the United States, 5.8 million cases of diabetes were undiagnosed and 41 million persons had prediabetes (impaired fasting glucose or impaired glucose tolerance).3Several screening tools to detect undiagnosed diabetes have been developed."
+        },
+        {
+            "parent": 1,
+            "text": "The American Diabetes Association (ADA) recommends that physicians consider screening patients for type 2 diabetes every three years beginning at 45 years of age, particularly in persons with a body mass index (BMI) of greater than 25 kg per m2.4The U.S. Preventive Services Task Force (USPSTF) recommends screening only persons with a blood pressure greater than 135/80 mm Hg.5The ADA approach lacks specificity because it recommends screening all adults older than 45 years, whereas the USPSTF lacks sensitivity because it would only screen patients who are hypertensive. The use of simple, inexpensive risk-assessment tools is an alternative, with the potential to be more specific while missing relatively few patients with undiagnosed diabetes. Most studies involving such tools examined non-U.S. populations, no tool was designed to simultaneously identify undiagnosed diabetes and prediabetes, and many required data that are not readily available to patients."
+        },
+        {
+            "parent": 1,
+            "text": "Table 1compares the performances of various risk-assessment tools for diabetes.6–15Predictive performance was evaluated by the area under the receiver operating characteristic curve with values ranging from 0.69 to 0.85 (good to excellent discriminatory power). Positive predictive values ranged from 5.7 to 14 percent for non–high-risk patients (no cardiovascular risk factors) and was 23 percent for high-risk patients (one or more cardiovascular risk factors). Negative predictive values ranged from 98 to 99 percent. The prevalence of diabetes in the study populations ranged from 4 to 5 percent."
+        },
+        {
+            "parent": 1,
+            "text": "Two tools were designed to calculate the risk of developing diabetes rather than current diagnosis,9,12whereas other tools were developed and validated only in patients with risk factors for cardiovascular disease.9,11Some tools were developed in homogenous populations that may not apply to the United States.7,10"
+        },
+        {
+            "parent": 1,
+            "text": "Most recently, a simple, convenient tool that requires no calculations was developed for identifying persons in the United States who are at high risk of having undiagnosed diabetes or undiagnosed prediabetes.13The tool was developed and validated using U.S. population data from the National Health and Nutrition Examination Survey (NHANES) III, 1988 to 1994. The analysis involved 7,092 persons older than 20 years whose fasting plasma glucose levels were available. Eighteen practical independent variables were collected, and only those that were valuable predictors of undiagnosed diabetes or prediabetes were used. To help ensure that the best possible tool was developed, two models were created using different methods (logistic regression and classification tree analysis). Based on its accuracy and greater ease of use, the classification tree model was selected and formatted into a screening tool called the Diabetes Risk Calculator (Figure 1).13"
+        },
+        {
+            "parent": 1,
+            "text": "The Diabetes Risk Calculator includes questions about patient age, waist circumference, history of gestational diabetes, height, race/ethnicity, hypertension, family history, and exercise. After navigating through the tool, a person's current risk of undiagnosed type 2 diabetes or pre-diabetes is determined. The tool was externally validated using independent data from NHANES, 1999 to 2004.13"
+        },
+        {
+            "parent": 2,
+            "text": "A 45-year-old woman presents to her primary care physician for routine follow-up for hypertension. Her hypertension, which was diagnosed five years ago, is well controlled with medication. The patient's older sister is healthy, but both of her parents have hypertension. She continues to lead a sedentary lifestyle with no regular exercise program. At this visit, the patient is 5 ft, 7 in (170 cm) tall and weighs 168 lb (76.2 kg). She has a waist circumference of 38.6 in (98 cm), a BMI of 27 kg per m2, and a blood pressure of 125/80 mm Hg. What is this patient's risk of diabetes?"
+        },
+        {
+            "parent": 2,
+            "text": "Answer: Using the Diabetes Risk Calculator (Figure 113), you note that the patient's risk of undiagnosed diabetes is 15.6 percent and her risk of undiagnosed prediabetes is 47.8 percent. You tell the patient that she has a one in six chance of having diabetes and a one in two chance of having prediabetes. You recommend a fasting blood glucose test, and she agrees. Two fasting blood glucose levels were 128 and 130 mg per dL (7.10 and 7.20 mmol per L); therefore, you diagnose diabetes."
+        }
+    ],
+    "locked": false
+}

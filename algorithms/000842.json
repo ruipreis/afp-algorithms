@@ -1,0 +1,157 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/0301/p853.html#afp20020301p853-f2",
+    "title": "Recognition and Management of Hereditary Hemochromatosis | AAFP",
+    "author": "DAVID J. BRANDHAGEN, M.D., VIRGIL F. FAIRBANKS, M.D., AND WILLIAM BALDUS, M.D.",
+    "doi": "Am Fam Physician.2002;65(5):853-861",
+    "abstract": "Hereditary hemochromatosis is the most common inherited single-gene disorder in people of northern European descent. It is characterized by increased intestinal absorption of iron, with deposition of the iron in multiple organs. Previously, the classic description was combined diabetes mellitus, cutaneous hyperpigmentation and cirrhosis. Increasingly, however, hereditary hemochromatosis is being diagnosed at an earlier, less symptomatic stage. The diagnosis is based on a combination of clinical, laboratory and pathologic findings, including elevated serum transferrin saturation. Life expectancy is usually normal if phlebotomy is initiated before the development of cirrhosis or diabetes mellitus. Hereditary hemochromatosis is associated with mutations in theHFEgene. Between 60 and 93 percent of patients with the disorder are homozygous for a mutation designated C282Y. TheHFEgene test is useful in confirming the diagnosis of hereditary hemochromatosis, screening adult family members of patients withHFEmutations and resolving ambiguities concerning iron overload.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Features",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Genetic Testing",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Screening",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hereditary hemochromatosis is an autosomal recessive disorder associated with increased intestinal absorption of iron and deposition of excessive amounts of iron in the liver, pancreas, and other organs. It is the most common single-gene disorder in the U.S. white population. Approximately one in 250 to 300 white persons is homozygous for the hemochromatosis gene mutation, and at least one in 10 persons is a carrier for the mutation.1,2"
+        },
+        {
+            "parent": -1,
+            "text": "Most physicians diagnose only a few cases of hereditary hemochromatosis in their practice because they do not routinely test for iron overload and because many patients with the disorder have no manifestations. It is estimated that the typical primary care physician encounters one patient with hereditary hemochromatosis every two weeks."
+        },
+        {
+            "parent": -1,
+            "text": "Iron overload caused by hereditary hemochromatosis should be distinguished from overload secondary to other entities. Secondary iron overload should be suspected in patients with chronic anemia, multiple transfusions, prolonged iron supplementation, or chronic liver disease. In secondary iron overload, iron often accumulates in Kupffer cells rather than hepatocytes, as typically occurs in hereditary hemochromatosis. However, severe iron overload from hereditary hemochromatosis or secondary causes may be indistinguishable. Disorders associated with iron overload are listed inTable 1."
+        },
+        {
+            "parent": 0,
+            "text": "Persons with hereditary hemochromatosis absorb only a few milligrams of iron each day in excess of need. Therefore, clinical manifestations often occur only after 40 years of age, when body iron stores have reached 15 to 40 g (normally, the body stores approximately 4 g of iron). The relationship between total body iron stores and clinical manifestations over time is summarized inFigure 1.3"
+        },
+        {
+            "parent": 0,
+            "text": "Disease expression may occur earlier in some persons and not at all in others. Clinical manifestation is influenced by age, sex, dietary iron, alcohol, blood loss in menstruation and pregnancy, and unknown factors. Although women are homozygous for the hemochromatosis mutation as often as men, they manifest the disease less frequently. Factors such as alcohol abuse and hepatitis C may accelerate disease expression."
+        },
+        {
+            "parent": 0,
+            "text": "In the past, hereditary hemochromatosis was usually diagnosed at an advanced stage. The classic description was cutaneous hyperpigmentation and diabetes mellitus in a patient with cirrhosis. Currently, most patients with newly diagnosed hereditary hemochromatosis are asymptomatic. The shift toward earlier diagnosis is probably the result of increased physician awareness and the inclusion of serum iron studies in many multichannel chemistry panels. Fatigue, arthralgias, and impotence are the most common symptoms of the disorder.4"
+        },
+        {
+            "parent": 0,
+            "text": "Data on clinical features of hereditary hemochromatosis in patients diagnosed before and after 1990 are summarized inTable 2.5–9If hereditary hemochromatosis is diagnosed early and treated appropriately, most (if not all) clinical manifestations are preventable. Once disease manifestations occur, however, many are irreversible(Table 3)."
+        },
+        {
+            "parent": 1,
+            "text": "The diagnosis of hereditary hemochromatosis is based on a combination of clinical, laboratory and pathologic criteria, including an elevated serum transferrin saturation and an elevated serum ferritin concentration. Serum transferrin saturation is calculated as follows:"
+        },
+        {
+            "parent": 1,
+            "text": "Typical findings of iron studies in patients with hereditary hemochromatosis, along with normal reference ranges, are provided inTable 4.3Because serum iron concentrations vary throughout the day and measurements may be affected by the ingestion of food, a test showing an elevated serum transferrin saturation should be repeated as a fasting early-morning determination. An elevated serum transferrin saturation is the earliest phenotypic abnormality in hereditary hemochromatosis."
+        },
+        {
+            "parent": 1,
+            "text": "Although the serum transferrin saturation is the best initial screening value, results may be normal early in the course of hereditary hemochromatosis. Furthermore, the serum ferritin concentration and serum transferrin saturation may be elevated in 30 to 50 percent of patients with acute or chronic viral hepatitis or alcoholic liver disease."
+        },
+        {
+            "parent": 1,
+            "text": "The serum ferritin concentration is a sensitive measure of iron overload, but it is also an acute-phase reactant and is therefore elevated in a variety of infectious and inflammatory conditions in the absence of iron overload. Consequently, it should not be used as the initial screening test to detect hereditary hemochromatosis."
+        },
+        {
+            "parent": 2,
+            "text": "Treatment of hereditary hemochromatosis is usually reserved for patients with evidence of iron overload based on an elevated serum ferritin concentration. Phlebotomy is the preferred treatment because it is simple, effective and relatively inexpensive."
+        },
+        {
+            "parent": 2,
+            "text": "Phlebotomy entails removing 500 mL of blood on a weekly basis until the hemoglobin concentration, which is checked before each procedure, is lower than the reference range (approximately 12 to 13 g per dL [120 to 130 g per L]). Iron depletion is confirmed if the serum ferritin concentration is no higher than 50 ng per mL (50 mcg per L) and the serum transferrin saturation is less than 50 percent. Once iron depletion is accomplished, most patients require four to eight phlebotomies per year to keep the serum ferritin concentration lower than 50 ng per mL."
+        },
+        {
+            "parent": 2,
+            "text": "Patients with hereditary hemochromatosis should refrain from using iron supplements, including multivitamins that contain iron. A “low-iron diet” is not necessary, but red meat should be consumed in moderation. Patients with the disorder should avoid consuming (or even handling) raw seafood because of an associated increased risk ofVibrio vulnificusinfection.10They should also avoid or minimize alcohol use, because iron and alcohol are synergistic hepatotoxins.11"
+        },
+        {
+            "parent": 3,
+            "text": "The gene associated with hereditary hemochromatosis is located on the short arm of chromosome 6. It was initially named HLA-H but has been renamedHFE.12Two point mutations have been designated C282Y and H63D. More recently, other mutations have been described, but these are rare and are not likely to be of major clinical importance.13–17"
+        },
+        {
+            "parent": 3,
+            "text": "In the initial study,12as well as several other studies in the United States, Australia, and Europe, between 60 and 93 percent of patients with iron overload were found to be homozygous for the C282Y mutation.12,18The wide range in prevalence of C282Y homozygotes may be due in part to different diagnostic criteria for hereditary hemochromatosis, as well as geographic differences in the prevalence ofHFEmutations.19"
+        },
+        {
+            "parent": 3,
+            "text": "The risk for iron overload is greatest in persons who are homozygous for the C282Y mutation. Iron overload also occurs in a minority of persons with otherHFEmutations (especially compound heterozygotes, who have one copy of C282Y and one copy of H63D), but it is usually of lesser severity."
+        },
+        {
+            "parent": 3,
+            "text": "HFEgene testing may eliminate the need for liver biopsy in many patients. Traditionally, liver biopsy has been performed in patients with iron overload to confirm a diagnosis of hereditary hemochromatosis and to exclude cirrhosis. However, in patients with iron overload who are homozygous for the C282Y mutation, liver biopsy may be unnecessary to confirm the diagnosis of hereditary hemochromatosis."
+        },
+        {
+            "parent": 3,
+            "text": "Liver biopsy remains the “gold standard”for assessing the degree of fibrosis. Definitive exclusion of cirrhosis is important, because the risk of hepatocellular carcinoma is 200 times higher in patients with hemochromatosis and cirrhosis.8The risk of cancer persists in these patients even after excess iron stores have been depleted. It may be appropriate to screen patients with cirrhosis every six months with an ultrasound examination and alphafetoprotein test."
+        },
+        {
+            "parent": 3,
+            "text": "Some patients with hereditary hemochromatosis have a minimal risk of developing cirrhosis and therefore may not require liver biopsy. A recent study20confirmed that certain noninvasive predictors were accurate in excluding cirrhosis in patients who were homozygous for the C282Y mutation. In this study, no cases of cirrhosis occurred in 96 patients with the mutation who had serum ferritin concentrations lower than 1,000 ng per mL (1,000 mcg per L), normal aspartate aminotransferase values and no hepatomegaly."
+        },
+        {
+            "parent": 3,
+            "text": "The role ofHFEmutation analysis in the diagnosis of iron overload disorders is summarized inFigure 2.21TheHFEgene test is most useful for screening adult family members of an identified proband. Screening family members is critical because 25 percent of the siblings and 5 percent of the children of a proband have hereditary hemochromatosis.HFEgene testing should replace the more cumbersome and expensive HLA typing previously used to screen siblings. In many instances,HFEgene testing is helpful for resolving ambiguous situations, such as iron overload associated with hepatitis C, alcoholic liver disease, and other causes of end-stage liver disease."
+        },
+        {
+            "parent": 3,
+            "text": "Before anHFEgene test is performed, a qualified professional should provide counseling about the benefits and risks of genetic testing, as well as the alternatives to such testing. The possibility of insurance, employment, or other discrimination based onHFEtest results is a concern. For this reason,HFEgene testing is usually not recommended for anyone younger than 18 years of age. This recommendation is consistent with the position of the National Institutes of Health Task Force on Genetic Testing.22"
+        },
+        {
+            "parent": 3,
+            "text": "TheHFEgene test is a polymerase chain reaction–based test that is usually performed on a whole-blood sample. The test is widely available at an average charge of approximately $200."
+        },
+        {
+            "parent": 4,
+            "text": "The issue of population screening for hemochromatosis was addressed at a 1999 international conference on hemochromatosis.23At this conference, experts from various disciplines were unable to reach a consensus on whether to recommend population screening for hereditary hemochromatosis."
+        },
+        {
+            "parent": 4,
+            "text": "Hereditary hemochromatosis fulfills many criteria for a condition amenable to population screening. The disorder is common and has a long presymptomatic phase(Figure 1).3Furthermore, a simple, noninvasive, inexpensive screening test exists, a simple, effective treatment is available, and treatment improves survival24(Figure 3).8"
+        },
+        {
+            "parent": 4,
+            "text": "The World Health Organization (WHO) has established criteria to evaluate population screening for a medical condition.25Recently, one investigator25applied the WHO criteria to hereditary hemochromatosis and concluded that the disorder is appropriate for population screening. Using reasonable estimates of the number of patients who will develop life-threatening disease, investigators in several other studies26–28concluded that population screening for hemochromatosis would be cost effective."
+        },
+        {
+            "parent": 4,
+            "text": "Although hereditary hemochromatosis fulfills many of the criteria for population screening, the U.S. Preventive Services Task Force and other organizations have not recommended screening for this disorder. Some public health experts29,30cite lack of information about disease burden and expression as reasons for not endorsing population screening."
+        },
+        {
+            "parent": 4,
+            "text": "The natural history of hereditary hemochromatosis in an asymptomatic patient identified by population screening is unknown and may never be known because it would be unethical to withhold treatment once a patient develops iron overload. Another area of uncertainty is the proportion of persons homozygous for the C282Y mutation who will develop clinically significant problems with iron overload. Without this information, it will be difficult to obtain estimates on the cost-effectiveness of screening for hereditary hemochromatosis in the general population."
+        },
+        {
+            "parent": 4,
+            "text": "Five studies1,2,31–33have comparedHFEgenotypes with serum transferrin saturation and serum ferritin concentration in the general population. In these studies, 19 to 75 percent of the subjects who were homozygous for the C282Y mutation had an elevated serum ferritin concentration, and 64 to 100 percent had an elevated serum transferrin saturation. The results of these studies are summarized inTable 5.1,2,31–34"
+        },
+        {
+            "parent": 4,
+            "text": "Large population screening studies are currently in progress in more than 15 countries. A population screening study of 100,000 people in the United States and Canada was scheduled to begin in February 2001. It is hoped that these studies will provide more information about disease expression in hereditary hemochromatosis and help to determine whether screening should be considered in the general population. With the information currently available, it is reasonable to screen for hereditary hemochromatosis in patients who have chronic liver disease, signs or symptoms associated with hereditary hemochromatosis, or a family history of iron overload."
+        }
+    ],
+    "locked": false
+}

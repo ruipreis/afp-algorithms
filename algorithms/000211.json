@@ -1,0 +1,166 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/1115/p648.html#afp20171115p648-f1",
+    "title": "Glucose Management in Hospitalized Patients | AAFP",
+    "author": "CHARLES KODNER, MD, LAURIE ANDERSON, MD, AND KATHERINE POHLGEERS, MD",
+    "doi": "Am Fam Physician.2017;96(10):648-654",
+    "abstract": "Glucose management in hospitalized patients poses challenges to physicians, including identifying blood glucose targets, judicious use of oral diabetes mellitus medications, and implementing appropriate insulin regimens. Uncontrolled blood glucose levels can lead to deleterious effects on wound healing, increased risk of infection, and delays in surgical procedures or discharge from the hospital. Previously recommended strict blood glucose targets for hospitalized patients result in more cases of hypoglycemia without improvement in patient outcomes. The current target is 140 to 180 mg per dL. Use of oral diabetes medications, particularly metformin, in hospitalized patients is controversial. Multiple guidelines recommend stopping these medications at admission because of inpatient factors that can increase the risk of renal or hepatic failure. However, oral diabetes medications have important nonglycemic benefits and reduce the risk of widely fluctuating blood glucose levels. There is no proven risk of lactic acidosis from metformin in patients with normal kidney function, and it can be used safely in many hospitalized patients with diabetes. Insulin dosing depends on the patient's previous experience with insulin, baseline diabetes control, and renal function. Other considerations include the patient's current oral intake, comorbidities, and other medications. Many patients can be managed using only a basal insulin dose, whereas others benefit from additional short-acting premeal doses. Historically, sliding scale insulin regimens have been used, but they have no proven benefit, increase the risk of hypoglycemia and large fluctuations in blood glucose levels, and are not recommended. Discharge planning is an important opportunity to address diabetes control, medication adherence, and outpatient follow-up.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Harms of Uncontrolled Blood Glucose",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Glycemic Targets",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Barriers to Achieving Glycemic Control",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Oral Diabetes Medications",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "METFORMIN",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "OTHER ORAL DIABETES MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Insulin Therapy for Hospitalized Patients",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "RECOMMENDED INPATIENT INSULIN REGIMENS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MONITORING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Hospital Discharge Planning",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Patients with type 2 diabetes mellitus who are hospitalized experience changes in diet, medications, glucose metabolism, and schedule that can adversely affect blood glucose control. Patients may have hypoglycemia (defined as a blood glucose level less than 70 mg per dL [3.9 mmol per L]) because of missed meals (including “nothing by mouth” status) or hyperglycemia from medication effects or acute illness, or both may occur with widely fluctuating glucose levels. Hyperglycemia in hospitalized patients has a complex physiology and is partly due to relative insulin deficiency arising from the metabolic stress of acute illness that in turn triggers immune dysfunction, oxidative stress, and impaired wound healing.1Historically, hospitalized patients with diabetes have been managed using a sliding scale insulin regimen; however, an increasing body of literature shows that this has more harms than benefits."
+        },
+        {
+            "parent": -1,
+            "text": "This article focuses on glucose control in hospitalized adults with type 2 diabetes. The management of type 1 diabetes; diabetes in children; hyperglycemia in the intensive care setting, including continuous intravenous insulin; and diabetic ketoacidosis are not covered in this review."
+        },
+        {
+            "parent": 0,
+            "text": "Uncontrolled blood glucose levels in hospitalized patients with diabetes are associated with potential harms such as deleterious effects on wound healing, increased risk of infection, and delays in surgical procedures or discharge from the hospital(Table 11–3). Some of these harms are thought to be a direct result of hyperglycemia, whereas others, such as longer hospitalization, represent adverse health process outcomes that are associated with hyperglycemia but may not be directly caused by it."
+        },
+        {
+            "parent": 1,
+            "text": "Over the past two decades, the desired targets for inpatient glucose management have changed.4With hyperglycemia defined as blood glucose levels greater than 140 mg per dL (7.8 mmol per L), target inpatient blood glucose goals of 80 to 110 mg per dL (4.4 to 6.1 mmol per L) were previously thought to reduce complications, improve wound healing and infectious disease recovery, and decrease length of hospitalization. However, the reductions in morbidity and mortality were largely observed with the use of continuous intravenous insulin in critically ill surgical patients,5who do not represent the larger population of hospitalized patients with diabetes. More recent meta-analyses have shown that such tight blood glucose control leads to an increased risk of hypoglycemia with no overall mortality benefit among critically ill patients in an intensive-care setting.6,7Current guidelines recommend a more moderate glycemic target, while emphasizing that glycemic control remains an important aspect of the management of hospitalized patients with diabetes.4"
+        },
+        {
+            "parent": 1,
+            "text": "In the absence of randomized trials to provide specific blood glucose targets for non–critically ill hospitalized patients, the American Diabetes Association recommends a blood glucose target of 140 to 180 mg per dL (7.8 to 10.0 mmol per L) for most hospitalized patients with type 2 diabetes. These guidelines apply primarily to noncritically ill patients but are also appropriate for critically ill patients who have not had recent cardiac surgery, cardiac ischemia, or stroke; patients with type 2 diabetes and one of these conditions may derive greater benefit from tight glycemic control.4"
+        },
+        {
+            "parent": 2,
+            "text": "Although the benefits of adequate glycemic control in hospitalized patients with diabetes are well established, a number of barriers can prevent achievement of blood glucose goals. Examples of these barriers are listed inTable 2.1,8"
+        },
+        {
+            "parent": 2,
+            "text": "Despite barriers, glycemic targets can be achieved in hospitalized patients through conscientious practice in accordance with straightforward management principles for oral diabetes medications and injected insulin."
+        },
+        {
+            "parent": 3,
+            "text": "Some experts and guidelines recommend stopping oral diabetes medications while patients are hospitalized.9–12In particular, these guidelines recommend stopping metformin at the time of admission because of inpatient factors that can increase the risk of renal or hepatic failure. However, oral diabetes medications may have important nonglycemic benefits and may reduce the risk of widely fluctuating blood glucose levels. In general, diabetes medications taken at home should be reviewed carefully for possible contraindications and continued if possible; they should be held during hospitalization only if necessary.4,12,13"
+        },
+        {
+            "parent": 4,
+            "text": "The use of metformin in hospitalized patients with diabetes is an evolving topic with uncertain risks and benefits, and published guidelines do not always reflect the most current evidence. Uncertainties related to metformin use in the hospital setting pertain to the risk of lactic acidosis, particularly in patients who need imaging studies that use contrast media. Although metformin has a theoretical risk of inducing lactic acidosis, a Cochrane review found no cases of fatal or nonfatal lactic acidosis in 59,321 patient-years of metformin use.14Metformin has important nonglycemic benefits and does not cause hypoglycemia. In clinically stable patients, there is no good evidence to support routinely stopping metformin at admission. However, because the risk of lactic acidosis increases with declining renal function, metformin dosage reduction is recommended if the estimated glomerular filtration rate is 30 to 45 mL per minute per 1.73 m2, and metformin should be discontinued if it is less than 30 mL per minute per 1.73 m2.15–17"
+        },
+        {
+            "parent": 4,
+            "text": "Because contrast media–induced nephropathy can decrease renal function and theoretically cause lactic acidosis in patients receiving metformin, the medication is typically stopped before imaging procedures using contrast media and restarted 48 hours after the procedure if renal function remains stable. Some current guidelines indicate that metformin can be used in selected stable patients in the hospital,12whereas others still recommend holding this medication around the time of procedures using contrast media.18However, the evidence supporting these recommendations is poor and inconsistent. In the absence of clear evidence, physicians should carefully assess the risks and benefits in individual patients.18"
+        },
+        {
+            "parent": 4,
+            "text": "There are many other factors that increase the risk of lactic acidosis in hospitalized patients, such as dehydration, severe heart failure, renal failure, other causes of metabolic acidosis, and severe hepatic impairment.19–21These factors appear to be stronger predictors of the development of acidosis than metformin use, and the benefits of metformin appear to significantly outweigh its rare risks. If metformin is stopped when patients are hospitalized, it is important that the medication be resumed at the time of discharge, assuming there are no contraindications such as worsened renal function since admission."
+        },
+        {
+            "parent": 5,
+            "text": "At least one episode of hypoglycemia will occur in 19% of hospitalized patients taking sulfonylureas, with the highest incidence in those taking glyburide.22Because of the substantial risk of hypoglycemia and the unpredictability of nutritional intake in hospitalized patients, sulfonylureas should be used in these patients only if doses are held on days when nutritional intake is decreased."
+        },
+        {
+            "parent": 5,
+            "text": "Thiazolidinediones may contribute to fluid overload or severe heart failure. Because a short interruption of therapy has a minimal effect on glucose levels, these agents can be held for a few days if there are concerns about heart failure."
+        },
+        {
+            "parent": 5,
+            "text": "Evidence and experience with the incretin-based therapies in the inpatient setting is evolving. Glucagon-like peptide 1 receptor agonists may result in nausea and therefore are not ideal in acutely ill patients and should be avoided when nutritional intake is reduced. Regarding the dipeptidyl peptidase-4 (DPP-4) inhibtor class of drugs, a small pilot study including 90 patients taking sitagliptin (Januvia) alone, sitagliptin plus basal insulin, or basal insulin plus corrective insulin at mealtimes found no differences in blood glucose control or hypoglycemia among groups. However, the study was underpowered and requires verification by larger studies in other populations.23[updated]"
+        },
+        {
+            "parent": 6,
+            "text": "When blood glucose targets are not achieved with oral agents alone, inpatient insulin regimens are often initiated. A basal-bolus correctional approach (long-acting insulin plus adjusted premeal short-acting insulin) is the preferred strategy24; however, many patients can be managed effectively using a basal insulin dose alone. Although sliding scale insulin regimens (a small amount of short-acting insulin is administered as needed based on the patient's current glucose readings) are still used by some physicians, they are not recommended.24Sliding scale regimens do not control glucose levels because they are a reactive treatment for hyperglycemia that has already occurred and do not treat a patient's basal insulin requirements.24,25This leads to wide fluctuation in blood glucose levels, largely because of timing issues—roughly two to four hours may pass between the measurement of hyperglycemia and the peak onset of short-acting insulin, by which time the patient's blood glucose level may have decreased on its own as a result of physiologic compensatory mechanisms. A meta-analysis of eight randomized controlled trials concluded that use of a sliding scale regimen did not improve blood glucose control and was associated with an increased incidence of hyperglycemic events.25In addition, a study of family medicine inpatients taking routine medications or routine medications plus sliding scale insulin found no difference in outcomes between groups.26"
+        },
+        {
+            "parent": 6,
+            "text": "Complications of a sliding scale regimen compared with a basal-bolus approach include a higher mean daily glucose concentration27; increased rate of wound infection, pneumonia, bacteremia, respiratory failure, and acute renal failure (composite outcome of 24.3% in the sliding scale group compared with 8.6% in the basal-bolus group)28; and increased postsurgical intensive care unit admissions with a longer length of stay.28"
+        },
+        {
+            "parent": 6,
+            "text": "Frequent glycemic reassessment and dose adjustments are important components of an inpatient insulin regimen because of the variable physiologic stresses associated with acute illness.29A possible advantage of a basal-bolus approach over a sliding scale regimen may be the ability to more carefully assess and refine a patient's insulin dosing, which may improve short- and long-term glycemic control and discharge planning.29"
+        },
+        {
+            "parent": 7,
+            "text": "The selection of an insulin regimen depends on whether the patient is insulin naïve, has good or poor baseline diabetes control, or has renal impairment. Dosage considerations include the patient's current oral intake, comorbidities, other medications, and experience with and adherence to prior outpatient insulin therapy.20,24"
+        },
+        {
+            "parent": 7,
+            "text": "The first step in prescribing inpatient insulin is to determine the total daily dose(Table 37,30). Lower doses are appropriate when initiating therapy in insulin-naïve patients. In hospitalized patients who have type 2 diabetes and renal impairment (estimated glomerular filtration rate less than 45 mL per minute per 1.73 m2) that does not require hemodialysis, initiation of insulin therapy using a lower dose of 0.25 units per kg per day compared with 0.5 units per kg per day has been shown to provide a similar glucose-lowering effect while reducing the incidence of hypoglycemia from 30% to 15.8%.9,22,30"
+        },
+        {
+            "parent": 7,
+            "text": "In general, half of a patient's total daily dose should be given as basal or long-acting insulin (typically glargine [Lantus], isophane [NPH; Humulin], or detemir [Levemir]), and the other half as bolus or pre-meal doses of a short- or intermediate-acting insulin (also called nutritional insulin doses). Bolus insulin doses are adjusted based on preprandial blood glucose measurements. These adjustments, or correctional doses, resemble sliding scale regimens but are in fact just fine-tuning adjustments to the bolus doses. Correctional insulin is given only before meals and is intended to correct unpredictable hyperglycemia by augmenting the nutritional insulin doses.24For patients taking less than 50% of their recommended oral diet, basal and bolus doses of insulin should be reduced by one-half.9–11"
+        },
+        {
+            "parent": 7,
+            "text": "Correctional insulin can be given using a low-, intermediate-, or high-dose correction scale. A low-dose scale is appropriate if a patient's total daily dose is 20 to 42 units, whereas a moderate-dose scale is used for 43 to 84 units, and a high-dose scale is used for 85 to 126 units.9–11"
+        },
+        {
+            "parent": 7,
+            "text": "Table 49,17,20,24,31andFigure 14show an overall approach to inpatient insulin regimens."
+        },
+        {
+            "parent": 8,
+            "text": "Once an insulin regimen has been initiated, the blood glucose response should be monitored and the dosage adjusted accordingly. A typical monitoring strategy includes testing blood glucose before meals and at bedtime for patients who are eating. For patients who are fasting, blood glucose testing is recommended every four to six hours. Premeal blood glucose testing should be done within 30 minutes of the start of a meal, with premeal, rapid-acting insulin administered within 10 minutes before or after the start of the meal.22,31"
+        },
+        {
+            "parent": 9,
+            "text": "Diabetes planning at discharge(Table 54,32)is an integral part of diabetes management and an important opportunity to address diabetes control, especially in newly diagnosed patients and those whose antihyperglycemic regimen was altered during admission.20,33Uncontrolled diabetes may contribute to high readmission rates, reinforcing the importance of discharge planning. Effective communication about the outpatient diabetes regimen and medication reconciliation for the inpatient-to-outpatient transition are critical.20,33The patient's A1C level at the time of admission is an important guide to the outpatient regimen plan at discharge.32"
+        },
+        {
+            "parent": 9,
+            "text": "This article updates previous articles on this topic byNau, et al.,2byLilley and Levine,34and bySawin and Shaughnessy.35"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources: Medline was searched using various combinations of terms, including inpatient, glucose, diabetes type 2, insulin, and sliding scale insulin. The search was limited to articles in English, pertaining to humans, in the years 2005 to 2017, and from the Core Clinical Journal subset. Search dates: October 13, 2016, and May 14, 2017."
+        }
+    ],
+    "locked": false
+}

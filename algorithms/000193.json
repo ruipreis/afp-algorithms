@@ -1,0 +1,155 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/0701/p25.html#afp20180701p25-f3",
+    "title": "Acute Appendicitis: Efficient Diagnosis and Management | AAFP",
+    "author": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, AND STEPHEN CAGLE, MD",
+    "doi": "Am Fam Physician.2018;98(1):25-33",
+    "abstract": "Appendicitis is one of the most common causes of acute abdominal pain in adults and children, with a lifetime risk of 8.6% in males and 6.7% in females. It is the most common nonobstetric surgical emergency during pregnancy. Findings from the history, physical examination, and laboratory studies aid in the diagnosis of acute appendicitis. Right lower quadrant pain, abdominal rigidity, and periumbilical pain radiating to the right lower quadrant are the best signs for ruling in acute appendicitis in adults. Absent or decreased bowel sounds, a positive psoas sign, a positive obturator sign, and a positive Rovsing sign are most reliable for ruling in acute appendicitis in children. The Alvarado score, Pediatric Appendicitis Score, and Appendicitis Inflammatory Response score incorporate common clinical and laboratory findings to stratify patients as low, moderate, or high risk and can help in making a timely diagnosis. Recommended first-line imaging consists of point-of-care or formal ultrasonography. Appendectomy via open laparotomy or laparoscopy is the standard treatment for acute appendicitis. However, intravenous antibiotics may be considered first-line therapy in selected patients. Pain control with opioids, nonsteroidal anti-inflammatory drugs, and acetaminophen should be a priority and does not result in delayed or unnecessary intervention. Perforation can lead to sepsis and occurs in 17% to 32% of patients with acute appendicitis. Prolonged duration of symptoms before surgical intervention raises the risk. In moderate- to high-risk patients, surgical consultation should be accomplished quickly to reduce morbidity and mortality resulting from perforation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Evaluation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "CLINICAL DECISION RULES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Laboratory and Radiologic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "PAIN MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ANTIBIOTIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "COMPLICATIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Appendicitis is one of the most common causes of acute abdominal pain, with a lifetime risk of 8.6% in males and 6.7% in females.1It is the most common nonobstetric surgical emergency during pregnancy, with an incidence of 6.3 per 10,000 pregnancies during the antepartum period (compared with 9.6 per 10,000 in nonpregnant persons) and increasing to 9.9 per 10,000 postpartum.2More than 300,000 appendectomies are performed each year in the United States, and less than 10% result in the removal of a normal appendix.2–5Appendicitis is thought to be caused by luminal obstruction from various etiologies, leading to increased mucus production and bacterial overgrowth, resulting in wall tension and, eventually, necrosis and potential perforation.6"
+        },
+        {
+            "parent": -1,
+            "text": "A meta-analysis of five randomized controlled trials found that antibiotic treatment for adults with appendicitis resulted in decreased complications, less sick leave or disability, and less need for pain medication compared with initial appendectomy. However, 40% of patients who received antibiotic therapy required appendectomy within one year."
+        },
+        {
+            "parent": -1,
+            "text": "In a study of 375 children, risk factors for appendiceal perforation included fever, vomiting, longer duration of symptoms, elevated C-reactive protein level or white blood cell count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more."
+        },
+        {
+            "parent": 1,
+            "text": "Diagnosing acute appendicitis accurately and efficiently can reduce morbidity and mortality from perforation and other complications. Individual signs and symptoms are more helpful at ruling in the diagnosis than they are at ruling it out when absent. The variable location of the appendix causes variations in the clinical presentation, making diagnosis challenging, especially in pregnant women."
+        },
+        {
+            "parent": 1,
+            "text": "Table 1presents likelihood ratios of various signs and symptoms in adults and children.7,8The signs and symptoms that best rule in acute appendicitis in adults are right lower quadrant pain (positive likelihood ratio [LR+] = 7.3 to 8.5), abdominal rigidity (LR+ = 3.8), and radiation of periumbilical pain to the right lower quadrant (LR+ = 3.2).7In children, however, absent or decreased bowel sounds (LR+ = 3.1), a positive psoas sign (LR+ = 3.2), a positive obturator sign (LR+ = 3.5), and a positive Rovsing sign (LR+ = 3.5) are most reliable for ruling in acute appendicitis.8"
+        },
+        {
+            "parent": 1,
+            "text": "Physical examination findings specific for acute appendicitis include the psoas sign, the obturator sign, and the Rovsing sign (increased right lower quadrant pain occurring with left lower quadrant palpation).Figure 1andFigure 2illustrate how to test for the psoas and obturator signs, which significantly increase the likelihood of appendicitis when present in children.9"
+        },
+        {
+            "parent": 2,
+            "text": "Several clinical decision rules that incorporate findings from the patient's history, physical examination, and laboratory tests have been developed and validated in a range of populations(Table 2).10–12These tools typically stratify patients into low-, moderate-, and high-risk categories, and are incorporated into recommended management strategies."
+        },
+        {
+            "parent": 2,
+            "text": "The Alvarado score (https://www.mdcalc.com/alvarado-score-acute-appendicitis) is an eight-item, 10-point tool that is the best studied clinical decision rule in adults and children. The Pediatric Appendicitis Score (https://www.mdcalc.com/pediatric-appendicitis-score-pas) includes similar clinical findings in addition to a sign more relevant in children: right lower quadrant pain with coughing, hopping, or percussion. Several studies comparing the Pediatric Appendicitis Score with the Alvarado score have validated its use in children.10,12,13Likelihood ratios for cutoffs on these scores are listed inTable 3.10"
+        },
+        {
+            "parent": 2,
+            "text": "A newer tool, the Appendicitis Inflammatory Response score (https://www.mdcalc.com/appendicitis-inflammatory-response-air-score), includes fewer symptoms than the Alvarado score and Pediatric Appendicitis Score, but adds an inflammatory biomarker (C-reactive protein [CRP]) and allows for different severity levels of rebound pain, leukocytosis, CRP, and polymorphonucleocytes. When the Appendicitis Inflammatory Response score was evaluated in both adults and children, the overall likelihood ratios for high-risk, moderate-risk, and low-risk groups were 13, 1.7, and 0.10, respectively.11The prevalence of appendicitis in this study was 37%, and the likelihood of appendicitis in high-risk, moderate-risk, and low-risk groups was 88%, 50%, and 5%, respectively. This tool has been compared with the Alvarado score and validated as an accurate clinical decision rule.11,14"
+        },
+        {
+            "parent": 4,
+            "text": "Individually, the white blood cell (WBC) count and inflammatory biomarkers lack accuracy for the diagnosis of acute appendicitis. However, laboratory tests are helpful when combined with signs and symptoms in clinical decision rules, or in combination with imaging studies as part of a structured evaluation. For instance, a study of 845 persons (median age = 11; prevalence of acute appendicitis = 46.5%) found that even when the WBC count was less than 10,000 per μL (10.0 × 109per L), 20% of patients still had acute appendicitis.15However, in patients with equivocal ultrasound findings, a WBC count less than 9,000 per μL (9.0 × 109per L) and less than 65% polymorphonucleocytes increased the negative predictive value from 41.9% to 95.8% (i.e., only 4.2% had appendicitis)."
+        },
+        {
+            "parent": 4,
+            "text": "The accuracy of tests such as procalcitonin, calprotectin, CRP, and the APPY1 biomarker panel (which combines values for WBC count, CRP level, and myeloid reactive protein level) in children and adults is shown inTable 4.5,16,17In children, the APPY1 has a sensitivity of 98% when used alone and 99% when combined with ultrasonography; thus, a normal test result misses only 1% to 2% of patients with appendicitis.5,16Specificity for the APPY1 panel varies from 35% to 44%, with increasing specificity as time from symptom onset increases.5"
+        },
+        {
+            "parent": 5,
+            "text": "Ultrasonography, computed tomography (CT), and magnetic resonance imaging are options for the evaluation of patients with suspected acute appendicitis. When selecting an imaging modality, physicians should consider the availability of experienced sonographers, potential radiation exposure, cost, length of stay in the emergency department, and diagnostic accuracy(Table 5).3,18–23Although CT is the most commonly used imaging study in the evaluation of suspected appendicitis (approximately 75% of cases), the National Cancer Institute, the American Academy of Pediatrics, the American College of Radiology, and other organizations recommend ultrasonography as the initial modality, especially in children and pregnant women.18,19,24,25Overweight or obese patients are more likely to undergo CT initially because ultrasonography is more likely to be nondiagnostic in these groups.24,26"
+        },
+        {
+            "parent": 5,
+            "text": "The use of clinical decision rules in conjunction with ultrasonography reduces the use of CT in the evaluation of suspected appendicitis. A prospective cohort study of 840 children with clinically suspected appendicitis (267 of whom eventually had a confirmed diagnosis) evaluated an algorithm based on the Pediatric Appendicitis Score and ultrasonography.27This strategy resulted in a large decrease in CT use (75.4% to 24.2%) and a reduction in the length of emergency department stay (6.2 to 5.8 hours). Given the slightly lower sensitivity of ultrasonography for detecting acute appendicitis, there is concern for higher rates of complications or missed cases. However, a prospective observational study of 150 children (50 of whom were diagnosed with acute appendicitis via point-of-care ultrasonography) resulted in no missed cases during the three-week follow-up period among the 100 patients who did not undergo surgery.20"
+        },
+        {
+            "parent": 7,
+            "text": "A meta-analysis of nine randomized controlled trials showed that the use of opioids did not significantly increase the risk of delayed or unnecessary surgery in 862 adults and children with acute abdominal pain.28Acetaminophen and nonsteroidal anti-inflammatory drugs should also be considered for pain management in patients with suspected acute appendicitis, especially in those with contraindications to opioids. A study that randomized 107 patients with acute appendicitis to narcotics plus acetaminophen vs. placebo found that pain control does not significantly increase the risk of delayed or unnecessary intervention, and does not change the Alvarado score.29"
+        },
+        {
+            "parent": 8,
+            "text": "Appendectomy, via open laparotomy through a limited right lower quadrant incision or via laparoscopy, is the standard treatment for acute appendicitis.1A recent meta-analysis evaluated various outcomes for open and laparoscopic appendectomies in children and adults30(eTable A). Compared with open laparotomy, laparoscopic appendectomy resulted in a lower incidence of wound infection, fewer postoperative complications, shorter length of stay, and a faster return to activity, but a longer operation time."
+        },
+        {
+            "parent": 9,
+            "text": "Emerging evidence suggests that antibiotic therapy may be considered a first-line and possibly sole therapy in selected patients with uncomplicated appendicitis. A meta-analysis of five randomized controlled trials compared various antibiotic treatments with appendectomy in 980 adults who had uncomplicated appendicitis.31Antibiotic treatment resulted in a decreased rate of complications (odds ratio = 0.54; 95% confidence interval [CI], 0.37 to 0.78), less sick leave or disability (standard mean difference = −0.19; 95% CI, −0.33 to −0.06), and less need for pain medication (standard mean difference = −1.55; 95% CI, −1.96 to −1.14). However, 40% of patients in the antibiotic group required appendectomy in the following year, compared with 8.5% of those in the appendectomy group who required a second surgery."
+        },
+        {
+            "parent": 9,
+            "text": "More recently, an open-label multicenter randomized controlled trial with 530 adults 18 to 60 years of age who had uncomplicated appendicitis reported a 73% resolution rate with ertapenem (Invanz), 1 g per day intravenously for three days, followed by a seven-day course of levofloxacin (Levaquin), 500 mg per day, plus metronidazole (Flagyl), 500 mg three times per day.4A meta-analysis identified five studies (N = 404) comparing antibiotics with surgery in children with appendicitis.32Although there were generally similar results in the studies of adults, only one of the studies of children was a randomized controlled trial. Given the risks associated with open and laparoscopic appendectomies and the high resolution rate with intravenous antibiotics, antibiotic therapy should be considered an effective treatment option for adults and children. Patient management should always be done in consultation with the surgical team in accordance with local hospital protocols and shared decision making.Figure 3presents an algorithm for the evaluation of patients with suspected appendicitis presenting in the primary care setting.33"
+        },
+        {
+            "parent": 10,
+            "text": "Perforation is the most concerning complication of acute appendicitis and may lead to abscesses, peritonitis, bowel obstruction, fertility issues, and sepsis.6,34Perforation rates among adults range from 17% to 32%,6even with increased use of imaging, and may lead to an increased length of hospital stay, extended antibiotic administration, and more severe postoperative complications. A prospective observational study showed that four of 64 children (6%) with perforated appendices were treated with antibiotics for suspected sepsis, even after surgery.35Patient-related risk factors for perforation include older age, three or more comorbid conditions, and male sex. Time from symptom onset to diagnosis and surgery is directly associated with perforation risk."
+        },
+        {
+            "parent": 10,
+            "text": "In an observational study of 230 children with appendicitis, a delay of more than 48 hours from symptom onset to diagnosis and surgery was associated with an increase in the perforation rate compared with those in whom diagnosis and surgery occurred within 24 hours (adjusted odds ratio = 4.9 [95% CI, 1.9 to 12] vs. 3.6 [95% CI, 1.4 to 9.2]), as well as a 56% mean increase in the length of hospital stay.6Based on a study of 375 children (26% of whom had perforation), risk factors for perforation included fever, vomiting, longer duration of symptoms, elevated CRP level or WBC count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more.34Surgical consultation is recommended in these patients to determine whether they are candidates for nonsurgical treatment with intravenous antibiotics."
+        },
+        {
+            "parent": 10,
+            "text": "This article updates previous articles on this topic byOld, et al.,36and byHardin.9"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources:The primary literature search was completed with Essential Evidence Plus and included searches of the Cochrane database, PubMed, and National Guideline Clearinghouse using the term acute appendicitis. In addition, a PubMed search was completed using the terms acute appendicitis, treatment, pediatric, adults, antibiotics, perforation, ultrasound, and CT. Search dates: January 16, 2017, to April 15, 2018."
+        },
+        {
+            "parent": 10,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of Saint Louis University, the U.S. Air Force Medical Department, or the U.S. Air Force at large."
+        }
+    ],
+    "locked": false
+}

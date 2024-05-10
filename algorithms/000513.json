@@ -1,0 +1,183 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0615/p1440.html#afp20100615p1440-f1",
+    "title": "Treatment of Allergic Rhinitis | AAFP",
+    "author": "DENISE K. SUR, MD, AND STEPHANIE SCANDALE, MD",
+    "doi": "Am Fam Physician.2010;81(12):1440-1446",
+    "abstract": "Allergic rhinitis is a common chronic respiratory illness that affects quality of life, productivity, and other comorbid conditions, including asthma. Treatment should be based on the patient's age and severity of symptoms. Patients should be advised to avoid known allergens and be educated about their condition. Intranasal corticosteroids are the most effective treatment and should be first-line therapy for mild to moderate disease. Moderate to severe disease not responsive to intranasal corticosteroids should be treated with second-line therapies, including antihistamines, decongestants, cromolyn, leukotriene receptor antagonists, and nonpharmacologic therapies (e.g., nasal irrigation). With the exception of cetirizine, second-generation antihistamines are less likely to cause sedation and impair performance. Immunotherapy should be considered in patients with a less than adequate response to usual treatments. Evidence does not support the use of mite-proof impermeable covers, air filtration systems, or delayed exposure to solid foods in infancy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pharmacotherapy",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "INTRANASAL CORTICOSTEROIDS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "ORAL ANTIHISTAMINES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "INTRANASAL ANTIHISTAMINES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DECONGESTANTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "INTRANASAL CROMOLYN",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "INTRANASAL ANTICHOLINERGICS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "LEUKOTRIENE RECEPTOR ANTAGONISTS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "COMBINATION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Immunotherapy",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Nonpharmacologic Therapies",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "ACUPUNCTURE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "PROBIOTICS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "HERBAL PREPARATIONS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "OTHER",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Allergic rhinitis is an immunoglobulin E–mediated disease, thought to occur after exposure to indoor and outdoor allergens such as dust mites, insects, animal danders, molds, and pollens. Symptoms include rhinorrhea, nasal congestion, obstruction, and pruritus.1Optimal treatment includes allergen avoidance, targeted symptom control, immunotherapy, and asthma evaluation, when appropriate.2In 2001, Allergic Rhinitis and Its Impact on Asthma guidelines were published in cooperation with the World Health Organization, suggesting that the treatment of allergic rhinitis make use of a combination of patient education, allergen avoidance, pharmacotherapy, and immunotherapy.3In contrast with previous guidelines, these recommendations are based on symptom severity and age, rather than the type or frequency of seasonal, perennial, or occupational exposures.Table 1lists recommended treatments based on symptoms."
+        },
+        {
+            "parent": 0,
+            "text": "Pharmacologic options for the treatment of allergic rhinitis include intranasal corticosteroids, oral and topical antihistamines, decongestants, intranasal cromolyn (Nasalcrom), intranasal anticholinergics, and leukotriene receptor antagonists.4,5The International Primary Care Respiratory Group, British Society for Allergy and Clinical Immunology, and American Academy of Allergy Asthma and Immunology recommend initiating therapy with an intranasal corticosteroid alone for mild to moderate disease and using second-line therapies for moderate to severe disease.4–7Patients with moderate to severe disease not responding to oral or topical treatments should be referred for consideration of immunotherapy.3,8Table 2gives a summary of pharmacologic treatments for allergic rhinitis."
+        },
+        {
+            "parent": 1,
+            "text": "Intranasal corticosteroids are the mainstay of treatment of allergic rhinitis. They act by decreasing the influx of inflammatory cells and inhibiting the release of cytokines, thereby reducing inflammation of the nasal mucosa.3Their onset of action is 30 minutes, although peak effect may take several hours to days, with maximum effectiveness usually noted after two to four weeks of use.9"
+        },
+        {
+            "parent": 1,
+            "text": "Many studies have demonstrated that nasal corticosteroids are more effective than oral and intranasal antihistamines in the treatment of allergic rhinitis.4,5,10–12One randomized controlled trial (RCT) looking at quality-of-life measures compared the antihistamine loratadine (Claritin) with the nasal corticosteroid fluticasone (Flonase) in 88 adults over a four-week period.13The study's results showed that symptom scores were comparable, but quality-of-life scores were superior in the nasal corticosteroid group."
+        },
+        {
+            "parent": 1,
+            "text": "Although there is no evidence that one intranasal corticosteroid is superior to another, many of the available products have different age indications from the U.S. Food and Drug Administration (FDA). Only budesonide (Rhinocort) carries the FDA pregnancy category B safety rating, and only mometasone (Nasonex) has a delivery device that received recognition from the National Arthritis Foundation for ease of use.14"
+        },
+        {
+            "parent": 1,
+            "text": "The adverse effects most commonly experienced with the use of intranasal corticosteroids are headache, throat irritation, epistaxis, stinging, burning, and nasal dryness.3,15Although the use of intranasal corticosteroids has raised concern for potential systemic adverse effects, including the suppression of the hypothalamic-pituitary axis, the products currently available have not been shown to have such effects.16There are a few studies that looked specifically at the effects of intranasal corticosteroids on skeletal growth and adrenal activity. One RCT found the rate of skeletal growth unaffected in children using mometasone for one year.17Similarly, a well-designed prospective study did not show any difference in growth in children using nasal corticosteroids for at least three years.18However, one randomized trial of 90 children (six to nine years of age) who were treated with beclomethasone (Beconase) or placebo for one year showed suppressed growth rates in the group taking beclomethasone compared with the placebo group.19Although nasal fluticasone has been shown to reduce endogenous cortisol excretion in one study, its impact on growth is unknown.20Despite the data, all intranasal corticosteroids carry a warning that long-term use may restrict growth in children."
+        },
+        {
+            "parent": 2,
+            "text": "Histamine is the most studied mediator in early allergic response. It causes smooth muscle constriction, mucus secretion, vascular permeability, and sensory nerve stimulation, resulting in the symptoms of allergic rhinitis.21The first-generation antihistamines include brompheniramine, chlorpheniramine, clemastine, and diphenhydramine (Benadryl). They may cause substantial adverse effects, including sedation, fatigue, and impaired mental status. These adverse effects occur because the older antihistamines are more lipid soluble and more readily cross the blood-brain barrier than second-generation antihistamines. The use of first-generation antihistamines has been associated with poor school performance, impaired driving, and an increase in automobile collisions and work injuries.22–25Although one RCT of 63 children eight to 10 years of age did not show that the short-term use of first- or second-generation antihistamines caused drowsiness or impaired school performance, the children in this study were only treated for three days, and the sample size was small.26"
+        },
+        {
+            "parent": 2,
+            "text": "Compared with first-generation antihistamines, second-generation antihistamines have a better adverse-effect profile and cause less sedation, with the exception of cetirizine (Zyrtec).21,22The second-generation oral antihistamines include desloratadine (Clarinex), levocetirizine (Xyzal), fexofenadine (Allegra), and loratadine. Second-generation antihistamines have more complex chemical structures that decrease their movement across the blood-brain barrier, reducing central nervous system adverse effects such as sedation. Although cetirizine is a second-generation antihistamine and a more potent histamine antagonist, it does not have the benefit of decreased sedation. As a group, the second-generation oral antihistamines are thought to stabilize and control some of the nasal and ocular symptoms, but have little effect on nasal congestion.21"
+        },
+        {
+            "parent": 2,
+            "text": "In general, first- and second-generation antihistamines have been shown to be effective at relieving the histamine-mediated symptoms associated with allergic rhinitis (e.g., sneezing, pruritus, rhinorrhea, ocular symptoms), but are less effective than intranasal corticosteroids at treating nasal congestion. Because their onset of action is typically within 15 to 30 minutes and they are considered safe for children older than six months, antihistamines are useful for many patients with mild symptoms requiring “as needed” treatment.27"
+        },
+        {
+            "parent": 3,
+            "text": "Compared with oral antihistamines, intranasal antihistamines offer the advantage of delivering a higher concentration of medication to a specific targeted area, resulting in fewer adverse effects.3Currently, azelastine (Astelin; approved for ages five years and older) and olopatadine (Patanase; approved for ages six years and older) are the two FDA-approved intranasal antihistamine preparations for the treatment of allergic rhinitis. As a class, their onset of action occurs within 15 minutes and lasts up to four hours. Adverse effects include a bitter aftertaste, headache, nasal irritation, epistaxis, and sedation. Although intranasal antihistamines are an option in patients whose symptoms did not improve with second-generation oral antihistamines, their use as first- or second-line therapy is limited by their adverse effects and cost compared with second-generation oral antihistamines, and by their decreased effectiveness compared with intranasal corticosteroids.28,29"
+        },
+        {
+            "parent": 4,
+            "text": "Oral and topical decongestants improve the nasal congestion associated with allergic rhinitis by acting on adrenergic receptors, which causes vasoconstriction in the nasal mucosa, resulting in decreased inflammation.3–5Although the most commonly available decongestants are phenylephrine, oxymetazoline (Afrin), and pseudoephedrine, the abuse potential for pseudoephedrine should be weighed against its benefits."
+        },
+        {
+            "parent": 4,
+            "text": "Common adverse effects that occur with the use of intranasal decongestants are sneezing and nasal dryness. Duration of use for more than three to five days is usually not recommended, because patients may develop rhinitis medicamentosa or have rebound or recurring congestion.3However, a study of 35 patients found no rebound when oxymetazoline was used for 10 days.30Because oral decongestants may cause headache, elevated blood pressure, tremor, urinary retention, dizziness, tachycardia, and insomnia, patients with underlying cardiovascular conditions, glaucoma, or hyperthyroidism should only use these medications with close monitoring.3–5A study of 25 patients with controlled hypertension provides some reassurance about the use of oral decongestants; compared with placebo, this randomized crossover study found minimal effect on blood pressure with pseudoephedrine use.31"
+        },
+        {
+            "parent": 5,
+            "text": "Intranasal cromolyn is available over the counter and is thought to act by inhibiting the degranulation of mast cells.1Although safe for general use, it is not considered first-line therapy for allergic rhinitis because of its decreased effectiveness at relieving symptoms compared with antihistamines or intranasal corticosteroids, and its inconvenient dosing schedule of three or four times daily.1,3"
+        },
+        {
+            "parent": 6,
+            "text": "Ipratropium (Atrovent) has been shown to provide relief only for excessive rhinorrhea. Advantages include that it does not cross the blood-brain barrier and is not systemically absorbed.1Adverse effects include dryness of the nasal mucosa, epistaxis, and headache. Compliance is also an issue because it needs to be administered two or three times daily.1"
+        },
+        {
+            "parent": 7,
+            "text": "Although the leukotriene LTD4receptor antagonist montelukast (Singulair) is FDA approved for the treatment of allergic rhinitis, a systematic review of 20 trials involving adults treated with montelukast for allergic rhinitis showed only minimal improvement (which was not clinically relevant) in the symptom of nasal congestion.32Another RCT involving 58 adults comparing montelukast with pseudoephedrine for two weeks showed no difference between the two therapies.33In addition, two large, independent meta-analyses concluded that although montelukast is better than placebo, it is not as effective as intranasal corticosteroids or antihistamines and should only be considered as second- or third-line therapy.32,34"
+        },
+        {
+            "parent": 8,
+            "text": "Although many studies have looked at the combination of an intranasal corticosteroid with an antihistamine or leukotriene receptor antagonist, most have concluded that combination therapy is no more effective than monotherapy with intranasal corticosteroids.11,35–37However, one study looking at the combination of fluticasone and azelastine found this treatment combination to be superior to either treatment alone in patients with moderate to severe allergic rhinitis.38Therefore, although patients should not have therapy initiated with more than one agent, combination therapy is an option for patients with severe or persistent symptoms."
+        },
+        {
+            "parent": 9,
+            "text": "Immunotherapy should be considered for patients with moderate or severe persistent allergic rhinitis that is not responsive to usual treatments.8Targeted immunotherapy is the only treatment that changes the natural course of allergic rhinitis, preventing exacerbation.39It consists of a small amount of allergen extract given sublingually or subcutaneously over the course of a few years, with maintenance periods typically lasting between three to five years. The greatest risk associated with immunotherapy is anaphylaxis. Although the usefulness of sublingual immunotherapy in adults with allergic rhinitis has been supported by several large trials, studies in children have met with mixed results, and the FDA has yet to approve a commercial product for sublingual use.8,40–42"
+        },
+        {
+            "parent": 9,
+            "text": "Recombinant DNA technology has also played a role in immunotherapy, allowing for the development of allergen-specific vaccines. In a multicenter RCT involving 134 adults receiving a recombinant birch pollen vaccine for 12 consecutive weeks followed by monthly injections for 15 months, patients noted statistically significant improvements in rhinosinusitis symptoms, medication use, and skin sensitivities when compared with placebo.43"
+        },
+        {
+            "parent": 9,
+            "text": "Omalizumab (Xolair), an anti-immunoglobulin E antibody, has been shown to be effective in reducing nasal symptoms and improving quality-of-life scores in patients with allergic rhinitis.44The main limitations of its current use are its high cost (average wholesale price is $679 to $3,395 per month45) and lack of FDA approval for home use."
+        },
+        {
+            "parent": 11,
+            "text": "Although the precise mechanism by which acupuncture works is unclear, proponents suggest that it releases neurochemicals such as beta-endorphins, enkephalins, and serotonin, which in turn mediate the inflammatory pathways involved in allergic rhinitis. Based on RCTs looking at acupuncture as a treatment for allergic rhinitis in adults and children, there is insufficient evidence to support or refute its use.46–49"
+        },
+        {
+            "parent": 12,
+            "text": "Based on the limited data to date, probiotics cannot be endorsed as a useful alternative therapy for allergic rhinitis. Studies of probiotics gave mixed results and included 12 RCTs and one study looking at prenatal treatment.50,51"
+        },
+        {
+            "parent": 13,
+            "text": "Many herb and plant-extract compounds have been studied with respect to allergic rhinitis treatment, but the effectiveness and safety of these compounds have not been established.52"
+        },
+        {
+            "parent": 14,
+            "text": "Patients with allergic rhinitis should avoid exposure to cigarette smoke, pets, and allergens to which they have a known sensitivity. Nasal irrigation is beneficial in the treatment of chronic rhinorrhea and may be used alone or as adjuvant therapy.53Irrigation using a neti pot is superior to saline sprays; it may also be done with a low-pressure squeeze bottle.53"
+        },
+        {
+            "parent": 14,
+            "text": "Prevention has been a large focus in the study of allergic rhinitis, but few interventions have proven effective. Although dust mite allergies are common, studies have not found any benefit to using mite-proof impermeable mattress and pillow covers.54–56Other examples of proposed interventions without documented effectiveness include breastfeeding, delayed exposure to solid foods in infancy, and use of air filtration systems.57–61Figure 1provides an algorithm for the treatment of allergic rhinitis with pharmacologic and nonpharmacologic therapies."
+        }
+    ],
+    "locked": false
+}

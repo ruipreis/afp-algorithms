@@ -1,0 +1,78 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2001/1001/p1281.html#afp20011001p1281-uf1",
+    "title": "Confronted by an Unexpected Laboratory Result | AAFP",
+    "author": "LARRY DICKEY, M.D., M.P.H., Department of Family and Community Medicine, University of California, San Francisco",
+    "doi": "Am Fam Physician.2001;64(7):1281-1284",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Case Scenario",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Commentary",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "A 68-year-old woman with hypertension, hyperlipidemia and osteoarthritis presented for a routine visit. I intended to order a hepatic panel to monitor for side effects of pravastatin."
+        },
+        {
+            "parent": 0,
+            "text": "In the process of ordering the test, I inadvertently selected the hepatitis panel instead of the hepatic panel. I was, of course, extremely surprised when the test results showed antibody to hepatitis C virus (HCV). The patient had not been sexually active for more than 20 years, and had never received a blood transfusion or used intravenous drugs. Her daughter died of acquired immunodeficiency syndrome (AIDS) approximately five years earlier, and the patient apparently didn't know if her daughter had been co-infected with HCV."
+        },
+        {
+            "parent": 0,
+            "text": "I telephoned the patient and informed her of the test result, although I didn't tell her it was an accidental finding. We discussed the usual transmission modes of HCV. I reassured the patient that the test indicated an exposure to HCV and did not necessarily indicate active disease. I requested that she come in for follow-up care."
+        },
+        {
+            "parent": 0,
+            "text": "Reverse transcriptase polymerase chain reaction (RT-PCR) amplification of HCV RNA came back with the finding “undetectable hepatitis C RNA.”"
+        },
+        {
+            "parent": 0,
+            "text": "What do I do now?"
+        },
+        {
+            "parent": 1,
+            "text": "From a medical standpoint, some questions about this case remain to be answered. Did the patient's anti-HCV testing include both the enzyme immunoassay (EIA) and the more specific recombinant immunoblot assay (RIBA)? The Centers for Disease Control and Prevention's (CDC) HCV infection-testing algorithm(seethe accompanying figure)for asymptomatic patients recommends RIBA for anti-HCV (even if a negative test result has been obtained for HCV RNA) in follow-up to a positive EIA.1If the RIBA result is indeterminate or positive, further evaluation is needed. Further evaluation would, in this case, include determination of the alanine aminotransferase (ALT) level, which the physician would have sought at the outset had he not inadvertently ordered the wrong test panel."
+        },
+        {
+            "parent": 1,
+            "text": "A normal ALT level in the context of a positive or indeterminate RIBA and negative HCV RNA would provide reassurance that the patient truly has a resolved infection and not an active infection with intermittent viremia missed by HCV RNA testing. An elevated ALT level would indicate the need for further medical evaluation, possibly including a liver biopsy."
+        },
+        {
+            "parent": 1,
+            "text": "As we can see, an inadvertent laboratory test result may lead to a cascade of further tests—possibly resulting in unnecessary morbidity or even (rarely) mortality. Each year, millions of screening tests are ordered in violation of recommended guidelines—because of simple clerical error (as in this case) or unfamiliarity with the recommended guidelines."
+        },
+        {
+            "parent": 1,
+            "text": "The HCV screening guidelines issued by the CDC are based on detailed knowledge of each test's sensitivity and specificity as well as the prevalence of HCV disease in specific populations. Unnecessarily ordering screening tests for patients in low-risk populations (and this patient was at low risk for HCV infection despite her daughter's death from AIDS) can result in large numbers of false-positive results, clinically irrelevant results, patient anxiety, increased medical costs and, in some cases, medical harm. The use of a highly specific test, such as RIBA, can mitigate against some of these effects."
+        },
+        {
+            "parent": 1,
+            "text": "In the case of screening tests, such as prostate-specific antigen (PSA), that have relatively low specificity and involve possibly high morbidity from follow-up tests, many authorities now recommend obtaining informed consent from patients before ordering the test.2And, if patients are in some way harmed during follow-up testing as a result of inadvertently or improperly ordered screening tests, is the physician not potentially at some legal risk?"
+        },
+        {
+            "parent": 1,
+            "text": "A simple clerical error in ordering a laboratory test, while far from being medical malpractice, is a medical error. As pointed out in a recent Institute of Medicine (IOM) report,3medical errors caused by the slip of a pen can result in many serious adverse events and may contribute to the estimated 98,000 annual deaths related to medical error. This awareness has led some physicians to enroll in remedial handwriting classes and hospital pharmacies to install computerized prescription systems. It is important to keep in mind that not only medication errors but also errors in laboratory test ordering may negatively affect a patient's health and financial well-being."
+        },
+        {
+            "parent": 1,
+            "text": "Given this patient's age, Medicare probably absorbed the cost of most of the inadvertent screening and follow-up testing. What if the patient had been uninsured—who should pay then? It is, undoubtedly, rare for a physician to step forward and pay for the screening. Yet, we would demand no less from an automobile repair shop that performed unnecessary work on our car, even if our insurance company would be willing to pay for it."
+        },
+        {
+            "parent": 1,
+            "text": "In addition, in this case, the patient was not told of the inadvertent nature of the HCV testing. The IOM report recommends that patients be informed of all medical mistakes leading to serious adverse events. How far down the scale of severity should this new openness extend? Some consumer advocates would say all the way down—that patients have a right to know everything about their care, including relatively minor mistakes."
+        },
+        {
+            "parent": 1,
+            "text": "Undoubtedly, many patients would not want to be troubled with so much knowledge. Should it be up to the physician to work out the limits of openness with each patient? The answer to this question is certainly not clear. However, it is clear that regardless of how honest we are with our patients, we must be brutally honest with ourselves about our limitations and the need to seek assistance from staff and use the power of technology to ensure that mere slips of the pen in the midst of a busy practice do not undo the great good that our education and training have empowered us to provide."
+        }
+    ],
+    "locked": false
+}

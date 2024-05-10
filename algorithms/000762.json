@@ -1,0 +1,170 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0301/p1133.html#afp20040301p1133-f1",
+    "title": "Gastric Cancer: Diagnosis and Treatment Options | AAFP",
+    "author": "JOHN C. LAYKE, D.O., AND PETER P. LOPEZ, M.D.",
+    "doi": "Am Fam Physician.2004;69(5):1133-1141",
+    "abstract": "Although the overall incidence of gastric cancer has steadily declined in the United States, it is estimated that more than 12,000 persons died from gastric cancer in 2003. The incidence of distal stomach tumors has greatly declined, but reported cases of proximal gastric carcinomas, including tumors at the gastroesophageal junction, have increased. Early diagnosis of gastric cancer is difficult because most patients are asymptomatic in the early stage. Weight loss and abdominal pain often are late signs of tumor progression. Chronic atrophic gastritis,Helicobacter pyloriinfection, smoking, heavy alcohol use, and several dietary factors have been linked to increased risks for gastric cancer. Esophagogastroduodenoscopy is the preferred diagnostic modality for evaluation of patients in whom stomach cancer is suspected. Accurate staging of gastric wall invasion and lymph node involvement is important for determining prognosis and appropriate treatment. Endoscopic ultrasonography, in combination with computed tomographic scanning and operative lymph node dissection, may be involved in staging the tumor. Treatment with surgery alone offers a high rate of failure. Chemotherapy and radiotherapy have not improved survival rates when used as single modalities, but combined therapy has shown some promise. Primary prevention, by control of modifiable risk factors and increased surveillance of persons at increased risk, is important in decreasing morbidity and mortality.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Tumor Staging",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Primary Prevention",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "RADIOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CHEMOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "COMBINATION APPROACH",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Palliation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The overall incidence of gastric cancer in the United States has rapidly declined over the past 50 years. Gastric cancer is now 13th most common cause of cancer mortality in the United States, with an estimated 12,100 deaths in 2003.1However, in developing countries, the incidence of gastric cancer is much higher and is second only to lung cancer in rates of mortality."
+        },
+        {
+            "parent": -1,
+            "text": "The typical patient with gastric cancer is male (male-to-female ratio, 1.7:1) and between 40 and 70 years of age (mean age, 65 years). Native Americans, Hispanic Americans, and blacks are twice as likely as whites to have gastric carcinoma."
+        },
+        {
+            "parent": -1,
+            "text": "Ninety-five percent of all malignant gastric tumors are adenocarcinomas; the remaining 5 percent include lymphomas, stromal tumors, and other rare tumors.2The overall declining incidence of gastric carcinoma is related to distal stomach tumors caused byHelicobacter pyloriinfection. Proximal stomach tumors of the cardiac region have actually increased in incidence in recent years.3This trend has been attributed to the increased incidence of Barrett’s esophagus and its direct correlation with the development of esophageal adenocarci-noma.4This review discusses diagnosis, treatment, and survival outcomes in patients with gastric adenocarcinoma."
+        },
+        {
+            "parent": 0,
+            "text": "Many risk factors have been associated with the development of gastric cancer, and the pathogenesis is most likely multifactorial(Table 1).2,5,6Although significant, genetic abnormalities (such as DNA aneuploidy, oncogene amplification or mutation, and allelic loss of tumor suppressor genes) are not understood well enough to allow formulation of a sequence of progression to the development of gastric carcinoma. One postulation on the development of this disease involves a succession of histologic changes that commence with atrophic gastritis, advance to mucosal metaplasia, and eventually result in a malignancy.2"
+        },
+        {
+            "parent": 0,
+            "text": "Certain genetic or familial syndromes, gastric colonization byH. pylori, and conditions resulting in gastric dysplasia have been reported as definite risk factors for the development of stomach cancer. The use of tobacco, dietary risk factors (i.e., high intake of salted, smoked, or pickled foods, and low intake of fruits and vegetables), and excess alcohol consumption also have been implicated as causal elements.2,5–7A high intake of vitamin C may have a protective effect.8[Evidence level B, case-control study]"
+        },
+        {
+            "parent": 1,
+            "text": "The initial diagnosis of gastric carcinoma often is delayed because up to 80 percent of patients are asymptomatic during the early stages of stomach cancer.9In Japan, a higher incidence of adenocarcinoma and rigorous screening processes have led to a greater number of cases of gastric cancer being detected in an early stage (i.e., when limited to the mucosa and submucosa, with or without lymph node involvement). Unfortunately, in the United States, most cases of gastric cancer are discovered only after local invasion has advanced."
+        },
+        {
+            "parent": 1,
+            "text": "Weight loss, abdominal pain, nausea and vomiting, early satiety, and peptic ulcer symptoms may accompany late-stage gastric cancer. Signs may include a palpably enlarged stomach, a primary mass (rare), an enlarged liver, Virchow’s node (i.e., left supraclavicular), Sister Mary Joseph’s nodule (periumbilical), or Blumer’s shelf (metastatic tumor felt on rectal examination, with growth in the rectouterine/rectovesical space)."
+        },
+        {
+            "parent": 1,
+            "text": "Patients presenting with the aforementioned symptoms and those with multiple risk factors for gastric carcinoma require further work-up. Esophagogastroduodenoscopy (EGD) is the diagnostic imaging procedure of choice in the work-up of gastric carcinoma.10However, a double-contrast barium swallow, a cost-conscious, noninvasive, and readily available study, may be the initial step11(Figure 1). This radiographic study provides preliminary information that may help the physician determine if a gastric lesion is present and whether the lesion has benign or malignant features. Gastric ulcers without any malignant characteristics seen on barium swallow have a specificity of more than 95 percent in ruling out gastric cancer. However, when indeterminate results are reported or when both benign and malignant signs are present, further diagnostic evaluation is necessary."
+        },
+        {
+            "parent": 1,
+            "text": "EGD is a highly sensitive and specific diagnostic test, especially when combined with endoscopic biopsy. Multiple biopsy specimens should be obtained from any visually suspicious areas; this step involves repeated sampling at the same tissue site, so that each subsequent biopsy reaches deeper into the gastric wall."
+        },
+        {
+            "parent": 1,
+            "text": "After the initial diagnosis of gastric cancer is established, further evaluation for metastases is necessary to determine treatment options. Computed tomographic (CT) scanning is a useful method of detecting liver metastases greater than 5 mm in diameter, perigastric involvement, peritoneal seeding, and involvement of other peritoneal structures (e.g., ovaries, rectal shelf). However, CT scanning is unable to allow assessment of tumor spread to adjacent lymph nodes unless they are enlarged. In addition, it has not been shown to be effective in allowing determination of the depth of tumor invasion and cannot reliably support detection of solitary liver or lung metastases smaller than 5 mm in diameter.12"
+        },
+        {
+            "parent": 1,
+            "text": "Endoscopic ultrasonography (EUS) is a modality that allows for more accurate staging. In EUS, the transducer is placed directly next to the gastric wall, and high-frequency soundwaves are used to determine the depth of tumor invasion and detect local lymph node involvement, which may be assessed by operative biopsy."
+        },
+        {
+            "parent": 1,
+            "text": "Random biopsies beyond lesion areas also are important in achieving a correct tissue diagnosis. The updated Sydney system13recommends that at least five biopsy specimens be taken (two from the antrum within 2 to 3 cm of the pylorus, two from the corpus about 8 cm from the cardia, and one from the incisura angularis)."
+        },
+        {
+            "parent": 1,
+            "text": "Because tumor depth and lymph node involvement influence survival, EUS is an important tool for increasing preoperative staging accuracy. However, EUS cannot permit assessment of tissue beyond a depth of about 5 cm and, therefore, cannot be used to assess distant lymph node involvement or to screen for lung or liver metastases. Recent literature14supports the combination of CT scanning and EUS for preoperative staging of gastric cancer to best determine the number and location of involved lymph nodes."
+        },
+        {
+            "parent": 2,
+            "text": "As with all types of cancer, the most important indicator of resectability and prognosis for gastric cancer is the clinicopathologic stage. There are several similar staging classifications, but in the United States, the most commonly used system is the American Joint Committee on Cancer TNM (tumor, node, metastasis) staging system(Table 2).15The two most important factors influencing survival in patients with resectable gastric cancer are the depth of cancer invasion through the gastric wall and the number of lymph nodes involved.16,17Unfortunately, these factors may not always be accurately assessed by the pre-operative staging work-up before resection."
+        },
+        {
+            "parent": 3,
+            "text": "In the United States, approximately two thirds of patients with gastric carcinomas present in advanced stages (III or IV).9Because it is not possible to detect early stomach cancer on physical examination, diagnostic imaging is the only effective method for screening. Patients with risk factors for gastric cancer and problems with epigastric pain, unintentional weight loss, or other suspicious symptoms should undergo further diagnostic work-up. Endoscopy with biopsy mapping of the gastric mucosa should be considered to look for multifocal gastric metaplasia in patients who are asymptomatic but at high risk of developing gastric carcinoma because of a positive family history, racial or ethnic origin, or emigration from an area endemic for gastric cancer (e.g., Hawaii, Japan)."
+        },
+        {
+            "parent": 3,
+            "text": "If multifocal atrophic gastritis is found, repeat surveillance every one to three years should be considered. If a dysplastic lesion is located on endoscopy, resection of the lesion is recommended, and annual or biannual endoscopic surveillance is reasonable. Because patients who have undergone subtotal gastrectomy have an increased risk of gastric cancer after 15 to 20 years, any upper gastrointestinal symptoms 15 years after such surgery justify an EGD with multiple biopsies. Even in asymptomatic postgastrectomy patients, endoscopy should be considered at 20 years, along with multiple biopsies, particularly at the anastomotic site.18"
+        },
+        {
+            "parent": 3,
+            "text": "Given the low five-year survival rate in patients with gastric cancer, physicians should emphasize preventive measures in patients who are at risk. These patients should be encouraged to avoid the use of tobacco, to eat a well-balanced diet, and to be treated for “premalignant” conditions such as Barrett’s esophagus, atrophic gastritis, orH. pyloricolonization."
+        },
+        {
+            "parent": 5,
+            "text": "Although smaller studies have shown some clinical response to radiotherapy (local-regional control) in patients with gastric cancer, only a modest survival advantage has been shown. A usual dosing regimen of radiation therapy is 45 to 50 Gy in 20 to 30 fractions. The adverse effects caused by radiation therapy include gastrointestinal toxicity from dose-limiting structures surrounding the stomach (intestines, liver, kidneys, spinal cord, and heart)."
+        },
+        {
+            "parent": 6,
+            "text": "After several trials, significant survival advantage deriving from the use of chemotherapy as a definitive treatment for gastric cancer has not been reported. It is important to note, however, that one study19revealed recurrence rates of up to 80 percent in patients undergoing surgical resection alone, suggesting a need to continue investigation of adjuvant chemotherapy and radiotherapy."
+        },
+        {
+            "parent": 7,
+            "text": "According to the recommendations of the International Union Against Cancer and the Japanese Research Society for Gastric Cancer, gastric cancer is classified according to its location in the proximal, middle, or distal stomach.20Although the borders between these thirds are not precisely defined, this definition has proved to be useful for determining the extent of resection. The selection of the surgical procedure in patients with gastric cancer should be primarily adjusted to the location of the tumor, the growth pattern seen on biopsy specimens, and the expected location of lymph node metastases."
+        },
+        {
+            "parent": 7,
+            "text": "In patients with proximal-third gastric cancer, an extended gastrectomy, including the distal esophagus, is necessary.21For distal-third gastric cancer, patients may be able to undergo subtotal gastrectomy if biopsy reveals “intestinal-type” adenocarcinoma. Total gastrectomy is recommended if the biopsy shows “diffuse-type” carcinoma. Middle-third gastric cancer always requires total gastrectomy. Current operative mortality rates are reported to be as low as 1 to 3 percent."
+        },
+        {
+            "parent": 7,
+            "text": "The most common postoperative complication is tumor recurrence. Five-year survival rates for postresection early gastric cancer have been reported to be as high as 90 percent. However, survival rates significantly decrease according to tumor penetration and lymph node invasion(Table 322,23).24"
+        },
+        {
+            "parent": 7,
+            "text": "Because of the extensive lymphatic network of the stomach and the propensity for microscopic extension, the traditional surgical approach attempts to maintain a 5-cm margin proximally and distally to the primary lesion. Many studies22–25report that nodal involvement indicates a poor prognosis, requiring the use of more aggressive surgical approaches to attempt to remove involved lymph nodes. However, the extent of lymph node resection remains a matter of controversy. Retrospective studies21from Japan showed promising results of increased survival without increased operative morbidity and mortality when extended lymphadenectomy was performed.25However, prospective follow-up studies26did not confirm these findings. In addition, some studies27,28have shown increased morbidity and mortality related to this extensive procedure."
+        },
+        {
+            "parent": 8,
+            "text": "Although numerous randomized clinical trials have failed to show consistent survival benefits from adjuvant radiation therapy or chemotherapy alone in the treatment of gastric cancer, some studies29have shown that patients receiving combined chemoradiation therapy have demonstrated improved disease-free survival and improved overall survival rates. In one series,29patients were randomized to receive postoperative radiotherapy and 5-fluorouracil chemotherapy or surgery alone. Results of this study demonstrated improved survival in the patients receiving adjuvant therapy compared with those who received surgery alone (52 percent three-year survival versus 41 percent, respectively)."
+        },
+        {
+            "parent": 8,
+            "text": "Preoperative chemotherapy also may be useful in patients with locally advanced gastric cancer, offering a chance for surgery with curative intention in patients with an otherwise fatal long-term prognosis.30[Evidence level B, uncontrolled study] Newer studies31suggest that intraoperative radiotherapy, which allows for a narrowed therapeutic target while avoiding critical surrounding structures, also may have a role in treatment."
+        },
+        {
+            "parent": 9,
+            "text": "Many patients present with distant metastases or direct invasion of organs, obviating the possibility of complete resection. In the palliative setting, radiotherapy may provide relief from bleeding, obstruction, and pain in patients with advanced disease, although the duration of palliation is short (mean, six to 18 months).32Surgical procedures such as wide local excision, partial gastrectomy, total gastrectomy, or gastrointestinal bypass also are performed with palliative intent, to allow oral intake of food and alleviate pain."
+        },
+        {
+            "parent": 9,
+            "text": "Current research is focusing on the role of combined chemoradiation therapy followed by surgical resection for palliation of late gastric carcinoma. Chemotherapy can function as a radiation-sensitizer and, when used in conjunction with radiotherapy, achieves better local-regional control and tumor debulking than when used separately. Studies33,34using this combination approach followed by surgical resection have reported positive results on overall survival rates. Other palliative procedures such as endoscopic laser treatments, endoluminal stenting, and placement of a feeding jejunostomy also may be performed."
+        }
+    ],
+    "locked": false
+}

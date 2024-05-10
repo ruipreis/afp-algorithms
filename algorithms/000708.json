@@ -1,0 +1,137 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0601/p2095.html#afp20050601p2095-f1",
+    "title": "Traveler’s Diarrhea | AAFP",
+    "author": "JOHNNIE YATES, M.D.",
+    "doi": "Am Fam Physician.2005;71(11):2095-2100",
+    "abstract": "Acute diarrhea affects millions of persons who travel to developing countries each year. Food and water contaminated with fecal matter are the main sources of infection. Bacteria such as enterotoxigenicEscherichia coli, enteroaggregativeE. coli, Campylobacter, Salmonella, and Shigella are common causes of traveler’s diarrhea. Parasites and viruses are less common etiologies. Travel destination is the most significant risk factor for traveler’s diarrhea. The efficacy of pretravel counseling and dietary precautions in reducing the incidence of diarrhea is unproven. Empiric treatment of traveler’s diarrhea with antibiotics and loperamide is effective and often limits symptoms to one day. Rifaximin, a recently approved antibiotic, can be used for the treatment of traveler’s diarrhea in regions where noninvasiveE. coliis the predominant pathogen. In areas where invasive organisms such as Campylobacter and Shigella are common, fluoroquinolones remain the drug of choice. Azithromycin is recommended in areas with quinolone-resistant Campylobacter and for the treatment of children and pregnant women.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "DRUG PROPHYLAXIS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Empiric Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Traveler’s Diarrhea in Infants, Children, and Pregnant Women",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Complications",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute diarrhea is the most common illness among travelers. Up to 55 percent of persons who travel from developed countries to developing countries are affected.1,2A study3of Americans visiting developing countries found that 46 percent acquired diarrhea. The classic definition of traveler’s diarrhea is three or more unformed stools in 24 hours with at least one of the following symptoms: fever, nausea, vomiting, abdominal cramps, tenesmus, or bloody stools. Milder forms can present with fewer than three stools (e.g., an abrupt bout of watery diarrhea with abdominal cramps). Most cases occur within the first two weeks of travel and last about four days without treatment.1,3Although traveler’s diarrhea rarely is life threatening, it can result in significant morbidity; one in five travelers with diarrhea is bedridden for a day and more than one third have to alter their activities.1,3"
+        },
+        {
+            "parent": -1,
+            "text": "Destination is the most significant risk factor for developing traveler’s diarrhea.1–4Regions with the highest risk are Africa, South Asia, Latin America, and the Middle East. Travelers who are immunocompromised and those with lowered gastric acidity (e.g., patients taking histamineH2blockers or proton pump inhibitors) are more susceptible to traveler’s diarrhea. Recently, a genetic susceptibility has been demonstrated.5Younger age and adventurous travel increase the risk of developing traveler’s diarrhea,3,6but persons staying at luxury resorts or on cruise ships also are at risk.7,8"
+        },
+        {
+            "parent": -1,
+            "text": "Food and water contaminated with fecal matter are the main reservoirs for the pathogens that cause traveler’s diarrhea. Unsafe foods and beverages include salads, unpeeled fruits, raw or poorly cooked meats and seafood, unpasteurized dairy products, and tap water. Eating in restaurants increases the probability of contracting traveler’s diarrhea6and food from street vendors is particularly risky.9,10Cold sauces, salsas, and foods that are cooked and then reheated also are risky.6,11"
+        },
+        {
+            "parent": -1,
+            "text": "In contrast to the largely viral etiology of gastroenteritis in the United States, diarrhea acquired in developing countries is caused mainly by bacteria1,4,6,12(Table 1). EnterotoxigenicEscherichia coliis the pathogen most frequently isolated, but other types ofE. colisuch as enteroaggregativeE. colihave been recognized as common causes of traveler’s diarrhea.13Invasive pathogens such as Campylobacter, Shigella, and non-typhoid Salmonella are relatively common depending on the region, while Aeromonas and non-cholera Vibrio species are encountered less frequently."
+        },
+        {
+            "parent": -1,
+            "text": "Protozoal parasites such asGiardia lamblia,Entamoeba histolytica, andCyclospora cayetanensisare uncommon causes of traveler’s diarrhea, but increase in importance when diarrhea lasts for more than two weeks.14Parasites are diagnosed more frequently in returning travelers because of longer incubation periods (often one to two weeks) and because bacterial pathogens may have been treated with antibiotics. Rotavirus and noroviruses are infrequent causes of traveler’s diarrhea, although noroviruses have been responsible for outbreaks on cruise ships."
+        },
+        {
+            "parent": -1,
+            "text": "The prevalence of specific organisms varies with travel destination.1,4,12,13,15Available data suggest thatE. coliis the predominant cause of traveler’s diarrhea in Latin America, the Caribbean, and Africa, while invasive pathogens are relatively uncommon. EnterotoxigenicE. coliand enteroaggregativeE. colimay be responsible for up to 71 percent of cases of traveler’s diarrhea in Mexico.13In contrast, Campylobacter is a leading cause of traveler’s diarrhea in Thailand15–17and also is common in Nepal.6Regional variation also exists with parasitic causes of traveler’s diarrhea(Table 2).12,13For example, Cyclospora is endemic in Nepal, Peru, and Haiti."
+        },
+        {
+            "parent": -1,
+            "text": "Food poisoning is part of the differential diagnosis of traveler’s diarrhea. Gastroenteritis from preformed toxins (e.g.,Staphylococcus aureus,Bacillus cereus) is characterized by a short incubation period (one to six hours), and symptoms typically resolve within 24 hours.18Seafood ingestion syndromes such as diarrhetic shellfish poisoning, ciguatera poisoning, and scombroid poisoning also can cause diarrhea in travelers. These syndromes can be distinguished from traveler’s diarrhea by symptoms such as perioral numbness and reversal of temperature sensation (ciguatera poisoning) or flushing and warmth (scombroid poisoning).19"
+        },
+        {
+            "parent": 0,
+            "text": "Although travelers often are advised to “Boil it, cook it, peel it, or forget it,” data on the effectiveness of dietary precautions in preventing traveler’s diarrhea are inconclusive.3,6,20Many travelers find it difficult to adhere to dietary recommendations.21In a study3of American travelers, nearly one half developed diarrhea despite pretravel advice on avoidance measures; even persons who strictly followed dietary recommendations developed diarrhea. Avoiding high-risk foods and adventuresome eating behaviors may reduce the inoculum of ingested pathogens or prevent the development of other enteric diseases such as typhoid and hepatitis A and E."
+        },
+        {
+            "parent": 0,
+            "text": "Boiling is the best way to purify water. Iodination or chlorination is acceptable but does not kill Cryptosporidium or Cyclospora, and increased contact time is required to kill Giardia in cold or turbid water.22Filters with iodine resins generally are effective in purifying water, although it is uncertain whether the contact time with the resin is sufficient to kill viruses. Bottled water generally is safe if the cap and seal are intact."
+        },
+        {
+            "parent": 1,
+            "text": "Antibiotic prophylaxis is not recommended by the Centers for Disease Control and Prevention (CDC) even for high-risk travelers because it can lead to drug-resistant organisms and may give travelers a false sense of security. Although antibiotic prophylaxis does not prevent viral or parasitic infection, some health care professionals believe that it may be an option for travelers who are at high risk of developing traveler’s diarrhea and related complications (e.g., immunocompromised persons). Prophylaxis with fluoroquinolones is up to 90 percent effective.23Rifaximin (Xifaxan) may prove to be the preferred antibiotic because it is not absorbed and is well tolerated, although data on its effectiveness for prophylaxis have not yet been published."
+        },
+        {
+            "parent": 1,
+            "text": "Bismuth subsalicylate (Pepto-Bismol) provides a rate of protection of about 60 percent against traveler’s diarrhea.24However, it is not recommended for persons taking anticoagulants or other salicylates. Because bismuth subsalicylate interferes with the absorption of doxycycline (Vibramycin), it should not be taken by travelers using doxycycline for malaria prophylaxis. Travelers should be warned about possible reversible side effects of bismuth subsalicylate, such as a black tongue, dark stools, and tinnitus."
+        },
+        {
+            "parent": 1,
+            "text": "Probiotics are a more natural approach to prophylaxis of traveler’s diarrhea. Probiotics colonize the gastrointestinal tract and theoretically prevent pathogenic organisms from infecting the gut. Studies25,26of Lactobacillus GG (Culturelle) have suggested protection rates of up to 47 percent. More studies are needed to confirm the efficacy of probiotic prophylaxis. Agents for the prophylaxis of traveler’s diarrhea are summarized inTable 3."
+        },
+        {
+            "parent": 2,
+            "text": "Counseling travelers about food precautions does not eliminate the risk of traveler’s diarrhea, and nonantibiotic prophylaxis requires frequent dosing to achieve only a modest reduction in risk. In addition, the traveler with diarrhea may have difficulty accessing medical care, the quality of care may be poor, and the quality of medications purchased abroad may be substandard.27However, because antibiotics reduce the duration and severity of traveler’s diarrhea and generally are well tolerated,28providing the traveler with the means for empiric self-treatment can effectively reduce morbidity from traveler’s diarrhea."
+        },
+        {
+            "parent": 2,
+            "text": "Waiting 24 hours to confirm the diagnosis of traveler’s diarrhea results in unnecessary discomfort and time away from activities. Therapy can be initiated after the first episode of “distressing” diarrhea (i.e., diarrhea that is uncomfortable or interferes with activities).29,30If symptoms resolve within 24 hours, no further treatment is necessary.31,32If diarrhea persists after one day, treatment should be continued for one or two more days. An algorithm for the treatment of traveler’s diarrhea is presented inFigure 1.33,34"
+        },
+        {
+            "parent": 2,
+            "text": "Antibiotic selection is based on the likelihood that an invasive organism is present and on antibiotic resistance patterns. These factors are determined largely by travel destination. Although blood in the stool suggests invasive disease, fever is not a sensitive indicator of dysentery. Fluoroquinolones have been the drug of choice for traveler’s diarrhea in most parts of the world because of their efficacy against most enteropathogens. Rifaximin recently became available for the treatment of noninvasive diarrhea caused byE. coli. For persons traveling to destinations where noninvasiveE. coliis the predominant pathogen (e.g., Mexico), rifaximin is a good choice.35,36"
+        },
+        {
+            "parent": 2,
+            "text": "In regions where invasive pathogens are responsible for a significant proportion of traveler’s diarrhea, quinolones should be used. Azithromycin (Zithromax) is recommended in places where quinoloneresistant Campylobacter is prevalent (e.g., Thailand).15,16Antibiotics used for the treatment of traveler’s diarrhea are listed inTable 4.16,32,37Trimethoprim-sulfamethoxazole (Bactrim, Septra) and doxycycline are no longer recommended because of the development of widespread resistance.12"
+        },
+        {
+            "parent": 2,
+            "text": "Therapy that involves an antibiotic with loperamide (Imodium) often limits symptoms to one day.38,39Loperamide has antimotility and antisecretory effects and is taken as two 2–mg tablets after the first loose stool, followed by one tablet after each subsequent loose stool (maximum of 8 mg in 24 hours for two days). The use of loperamide in dysentery has been controversial because of concerns about prolonging illness, but it is now considered safe when combined with an antibiotic.29,34,38A conservative approach would be to use loperamide for dysentery only if combined with an antibiotic and if the traveler has a long trip or will have no toilet access."
+        },
+        {
+            "parent": 2,
+            "text": "Oral rehydration solutions generally are unnecessary in adults younger than 65 years.40However, all travelers with diarrhea should be encouraged to drink plenty of fluids and to replace lost electrolytes using foods such as salt crackers or broth."
+        },
+        {
+            "parent": 3,
+            "text": "Traveler’s diarrhea is more common in young children than in adults, and they have a higher risk of dehydration and severe illness.41Parents should seek immediate medical attention if their child shows signs of moderate to severe dehydration, bloody diarrhea, a temperature higher than 39°C (102°F), or persistent vomiting. Few data exist on the treatment of diarrhea in children. The use of oral rehydration solutions is essential, and parents should include prepackaged packets (to be mixed with safe water) in their travel kits. These packets are available in camping stores in the United States or in pharmacies in other countries."
+        },
+        {
+            "parent": 3,
+            "text": "Because infants and toddlers normally can have three or more loose stools, an alternate definition of diarrhea in this age group is a twofold increase in the frequency of unformed stool.37Nursing infants should continue to breastfeed on demand, and infants and older children should be offered their usual food."
+        },
+        {
+            "parent": 3,
+            "text": "Fluoroquinolones are not approved by the U.S. Food and Drug Administration (FDA) for use in children, and rifaximin is approved only for children 12 years and older. Therefore, azithromycin is the drug of choice for most children with traveler’s diarrhea.37Another option is nalidixic acid (Neggram) in a dosage of 55 mg per kg per day divided into four doses, not to exceed 1 g in 24 hours.37Loperamide is approved for children older than two years, but should not be used in children with dysentery. Bismuth subsalicylate should be avoided for prophylaxis in children because of the possible risk of Reye’s syndrome."
+        },
+        {
+            "parent": 3,
+            "text": "Pregnant women may be at higher risk of traveler’s diarrhea than nonpregnant women because of lowered gastric acidity and increased gastrointestinal transit time.42Quinolones (FDA pregnancy category C) generally are not advised during pregnancy, but azithromycin (FDA pregnancy category B) is safe. Oral rehydration should be emphasized. Although rifaximin is not absorbed, the safety of this medication in pregnant women has not been established. Loperamide (FDA pregnancy category B) may be used, but bismuth subsalicylate (FDA pregnancy category D) should be avoided. Being careful with food and water is particularly important during pregnancy because infections such as listeriosis can cause miscarriage, and hepatitis E can result in maternal mortality."
+        },
+        {
+            "parent": 4,
+            "text": "Dehydration is the main complication of traveler’s diarrhea, especially in children and older adults. BecauseE. coliO157:H7 is a rare cause of traveler’s diarrhea, there is little risk of hemolyticuremic syndrome. Other complications include Guillain-Barré syndrome after Campylobacter enteritis, Reiter’s syndrome (especially in persons who are HLA-B27 positive),Clostridium difficilecolitis after antibiotic use, and postinfectious irritable bowel. These conditions may appear after the traveler has returned home."
+        },
+        {
+            "parent": 4,
+            "text": "If diarrhea persists despite antibiotic treatment, medical attention should be sought. Parasitic causes should be suspected in travelers who return with prolonged diarrhea or who do not respond to antibiotics. For those traveling to remote areas for extended periods, it is reasonable to discuss empiric treatment of protozoal infections (e.g., metronidazole [Flagyl] 250 mg three times a day for five days or tinidazole [Fasigyn] in a single 2–g dose for Giardia).43"
+        },
+        {
+            "parent": 4,
+            "text": "Resources such as the Travelers’ Health section of the CDC Web site (http://www.cdc.gov/travel/diarrhea.htm) or commercial sites such as Travel Health Online (http://www.tripprep.com) can keep physicians up to date on the epidemiology and resistance patterns of traveler’s diarrhea. Better preventive and prophylactic strategies will be needed until newer antibiotics become available and the sanitation and hygiene in developing countries improve."
+        }
+    ],
+    "locked": false
+}

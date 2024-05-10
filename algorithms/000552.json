@@ -1,0 +1,89 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0615/p1080.html#afp20090615p1080-f1",
+    "title": "ACC/AHA Guideline Update for the Management of ST-Segment Elevation Myocardial Infarction | AAFP",
+    "author": "DENISE L. CAMPBELL-SCHERER, MD, PhD, AND LEE A. GREEN, MD, MPH",
+    "doi": "Am Fam Physician.2009;79(12):1080-1086",
+    "abstract": "The American College of Cardiology and American Heart Association, in collaboration with the Canadian Cardiovascular Society, have issued an update of the 2004 guideline for the management of patients with ST-segment elevation myocardial infarction. The American Academy of Family Physicians endorses and accepts this guideline as its policy. Early recognition and prompt initiation of reperfusion therapy remains the cornerstone of management of ST-segment elevation myocardial infarction. Aspirin should be given to symptomatic patients. Beta blockers should be used cautiously in the acute setting because they may increase the risk of cardiogenic shock and death. The combination of clopidogrel and aspirin is indicated in patients who have had ST-segment elevation myocardial infarction. A stepped care approach to analgesia for musculoskeletal pain in patients with coronary heart disease is provided. Cyclooxygenase inhibitors and nonsteroidal anti-inflammatory drugs increase mortality risk and should be avoided. Primary prevention is important to reduce the burden of heart disease. Secondary prevention interventions are critically important to prevent recurrent events in patients who survive.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Primary Prevention",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Prehospital Care of Patients with Suspected STEMI",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Acute Management",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Changes in Post-STEMI Management",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Secondary Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The American College of Cardiology (ACC) and American Heart Association (AHA) have updated their 2004 guideline1for the management of patients with ST-segment elevation myocardial infarction (STEMI). The updated guideline was developed in collaboration with the Canadian Cardiovascular Society and published in 2008.2The American Academy of Family Physicians endorses and accepts this guideline as its policy. This review summarizes the key recommendations as they apply to the prevention of coronary heart disease (CHD), acute management of STEMI, and secondary prevention of recurrent events. As always, the values and preferences of patients, and sound clinical judgment are of paramount importance in applying guideline recommendations."
+        },
+        {
+            "parent": 0,
+            "text": "The ACC/AHA guideline stresses the importance of primary prevention. The consensus opinion is that a risk factor assessment for CHD should be performed every three to five years in all patients. Risk factors include smoking, diabetes, hypercholesterolemia, hypertension, family history, age, and sex. In patients with two or more major risk factors, calculation of a 10-year coronary artery disease risk score is recommended to assess the need for primary prevention.3The risk score can also be an effective tool to start a dialogue with patients about lifestyle change."
+        },
+        {
+            "parent": 1,
+            "text": "Time is of the essence in the acute management of STEMI. It is important that family physicians educate patients about the symptoms of myocardial infarction (MI) and instruct them to seek help immediately if these symptoms occur. Patients who have been prescribed nitroglycerin should take one dose sublingually at the onset of symptoms; if they do not improve or if they worsen within five minutes, they should seek medical attention. Once symptoms are recognized, patients should chew aspirin (162 to 325 mg) unless there is an absolute contraindication. At the community level, clear protocols must exist to minimize the time to transport the patient to the appropriate facility. Emergency medical service (EMS) providers should be trained and equipped to provide early defibrillation. In the prehospital setting, advanced cardiac life support-trained health care professionals should obtain 12-lead electrocardiography. Pre-hospital fibrinolysis protocols are reasonable if the EMS system is appropriately trained and staffed."
+        },
+        {
+            "parent": 2,
+            "text": "STEMI is defined as ST-segment elevation of greater than 0.1 mV in at least two contiguous precordial or adjacent limb leads, a new left bundle branch block, or a true posterior MI. The most important point in managing STEMI is minimizing the time from the onset of symptoms until the initiation of reperfusion therapy (fibrinolysis or percutaneous coronary intervention [PCI]). The goal is for fibrinolysis to begin less than 30 minutes from the time of the patient's first contact with the health care system, or for balloon inflation for PCI to begin in less than 90 minutes."
+        },
+        {
+            "parent": 2,
+            "text": "Figure 1summarizes the recommended approach to a patient with STEMI, and it reviews conditions in which PCI or fibrinolysis is preferred or contraindicated.1Patients with STEMI who present within 12 hours of symptom onset and do not have contraindications should receive reperfusion therapy. Patients with MI with ST-segment depression should not be treated with fibrinolysis unless they have a true posterior MI. Primary PCI is preferred to fibrinolysis only in high–PCI-volume hospitals (i.e., those with more than 36 procedures per year). If patients cannot reach such a facility within the required 90 minutes, they should receive fibrinolysis unless contraindicated."
+        },
+        {
+            "parent": 2,
+            "text": "If patients with STEMI have cardiogenic shock, they should be transported to a facility capable of cardiac catheterization and rapid revascularization (PCI and coronary artery bypass graft surgery). Patients with contraindications to fibrinolysis should be immediately transported to such a facility, or transferred within 30 minutes. It is also reasonable to consider an invasive strategy in patients with severe congestive heart failure (CHF)."
+        },
+        {
+            "parent": 2,
+            "text": "The strategy for facilitated PCI that was proposed in the 2004 guideline, in which higher-risk patients with low bleeding risk receive full-dose fibrinolysis and subsequent PCI, may be harmful and is no longer recommended. More study is required before clear recommendations can be made on other facilitated strategies (i.e., half-dose fibrinolysis, a glycoprotein IIb/IIIa inhibitor, or both). These strategies may be considered when patients are at high risk and PCI is not available within 90 minutes, provided bleeding risk is low (i.e., in younger patients and those with normal body weight, and in the absence of poorly controlled hypertension). Rescue PCI after failed thrombolysis is still appropriate and should be performed in patients who fail fibrinolysis, as evidenced by shock, severe CHF or pulmonary edema (Killip class III or greater), or hemodynamically compromising ventricular arrhythmias. Rescue PCI is reasonable in patients who have less than 50 percent resolution of ST-segment elevation 90 minutes after initiation of fibrinolytic therapy and a moderately large area of myocardium at risk."
+        },
+        {
+            "parent": 2,
+            "text": "The routine use of intravenous beta blocker therapy in the acute phase of STEMI is not recommended because of the increased risk of cardiogenic shock, based on findings from the COMMIT/CCS-2 study (Clopidogrel and Metoprolol in Myocardial Infarction Trial/Second Chinese Cardiac Study).4However, it is reasonable to use intravenous beta blocker therapy in the acute setting to manage hypertension in patients with STEMI who have none of the contraindications listed inTable 1.5Daily oral beta blocker therapy should be initiated within 24 hours to hemodynamically stable patients who have no contraindications; these agents are also important in secondary prevention."
+        },
+        {
+            "parent": 2,
+            "text": "Concerns have been raised about the safety of non-steroidal anti-inflammatory drugs (NSAIDs) in patients with acute or previous STEMI. The update contains new recommendations that do not pertain to aspirin, which has a clear benefit in these patients. Patients who routinely took NSAIDs (nonselective and cyclooxygenase-2 [COX-2] selective agents) before STEMI should discontinue those agents because of the increased risk of mortality, reinfarction, hypertension, heart failure, and myocardial rupture associated with their use. These drugs should not be administered during hospitalization for STEMI."
+        },
+        {
+            "parent": 3,
+            "text": "Patients who receive pharmacologic reperfusion therapy should receive subsequent anticoagulation therapy for a minimum of 48 hours. There is no evidence of benefit for unfractionated heparin beyond 48 hours unless there are ongoing indications for anticoagulation. Low-molecular-weight heparin may be used instead for the duration of the hospitalization, up to eight days, if the patient has no significant renal dysfunction. The update lists effective anticoagulation regimens.1"
+        },
+        {
+            "parent": 3,
+            "text": "The 2004 guideline contained no specific recommendation for dual antiplatelet therapy with clopidogrel (Plavix) plus low-dose aspirin in patients at high risk of atherothrombotic events. The update recommends that 75 mg of oral clopidogrel be added to daily aspirin, whether or not the patient underwent reperfusion; this change is summarized inTable 2.1Treatment with clopidogrel should continue for at least 14 days. Long-term maintenance therapy (e.g., one year) may be useful in these patients. It is reasonable to start clopidogrel therapy with a 300-mg oral loading dose in patients younger than 75 years; no data are available for older patients. In patients with baremetal stents, clopidogrel should be continued for at least one month; it should be continued for several months in patients with drug-eluting stents (at least three months for sirolimus [Rapamune], six months for paclitaxel [Taxol]) and 12 months in patients who are not at high risk of bleeding. The guideline update does not address whether longer-term clopidogrel therapy is needed in patients with drug-eluting stents."
+        },
+        {
+            "parent": 3,
+            "text": "The update highlights changes in the management of musculoskeletal pain, recommending a stepped-care approach. Acetaminophen or aspirin (used with caution), tramadol (Ultram), short-term narcotic analgesics, or nonacetylated salicylates should be used first; if these agents are ineffective, non–COX-2 selective NSAIDs (e.g., naproxen [Naprosyn]) are reasonable. In patients with intolerable persistent discomfort, NSAIDs with increasing degrees of relative COX-2 selectivity may be considered. These agents should be used at the lowest effective dosage for the shortest possible time."
+        },
+        {
+            "parent": 4,
+            "text": "Secondary prevention has a key role in the management of STEMI. Patients with CHD or a CHD equivalent (e.g., diabetes, peripheral vascular disease, chronic kidney disease, risk factor calculation of more than 20 percent) should receive intensive secondary prevention interventions. These interventions confer large absolute risk reductions for subsequent events and mortality.Tables 2and3summarize recommendations for secondary prevention in patients with coronary and other vascular diseases, and rate the evidence for each recommendation.1"
+        }
+    ],
+    "locked": false
+}

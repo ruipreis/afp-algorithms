@@ -1,0 +1,151 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0301/p299.html#afp20150301p299-f3",
+    "title": "Diagnosis and Management of Sodium Disorders: Hyponatremia and Hypernatremia | AAFP",
+    "author": "MICHAEL M. BRAUN, DO, CRAIG H. BARSTOW, MD, AND NATASHA J. PYZOCHA, DO",
+    "doi": "Am Fam Physician.2015;91(5):299-307",
+    "abstract": "Hyponatremia and hypernatremia are common findings in the inpatient and outpatient settings. Sodium disorders are associated with an increased risk of morbidity and mortality. Plasma osmolality plays a critical role in the pathophysiology and treatment of sodium disorders. Hyponatremia and hypernatremia are classified based on volume status (hypovolemia, euvolemia, and hypervolemia). Sodium disorders are diagnosed by findings from the history, physical examination, laboratory studies, and evaluation of volume status. Treatment is based on symptoms and underlying causes. In general, hyponatremia is treated with fluid restriction (in the setting of euvolemia), isotonic saline (in hypovolemia), and diuresis (in hypervolemia). A combination of these therapies may be needed based on the presentation. Hypertonic saline is used to treat severe symptomatic hyponatremia. Medications such as vaptans may have a role in the treatment of euvolemic and hypervolemic hyponatremia. The treatment of hypernatremia involves correcting the underlying cause and correcting the free water deficit.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology and Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnostic Approach to Hyponatremia",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pseudohyponatremia",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Hypovolemic Hyponatremia",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Euvolemic Hyponatremia",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Hypervolemic Hyponatremia",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Severe Symptomatic Hyponatremia",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Vaptans",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Hypernatremia",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "DIAGNOSTIC APPROACH",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "TREATMENT",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hyponatremia is a common electrolyte disorder defined as a serum sodium level of less than 135 mEq per L.1–3A Dutch systematic review of 53 studies showed that the prevalence of mild hyponatremia was 22.2% in geriatric hospital wards, 6.0% in nongeriatric wards, and 17.2% in the intensive care unit.2The prevalence of severe hyponatremia (serum sodium level less than 125 mEq per L) was 4.5%, 0.8%, and 10.3%, respectively. It is estimated that hyponatremia occurs in 4% to 7% of the ambulatory population, with rates of 18.8% in nursing homes.2–4"
+        },
+        {
+            "parent": -1,
+            "text": "Hyponatremia is associated with increased morbidity and mortality.1–6In patients with heart failure who undergo cardiac surgery, hyponatremia increases rates of postoperative complications, length of hospital stay, and mortality.5,6Mild hyponatremia in the ambulatory setting is associated with increased mortality (hazard ratio = 1.94) compared with normal sodium levels.3Patients who develop hyponatremia during hospitalization have increased mortality rates compared with those who have hyponatremia on admission.7,8It is unclear if hyponatremia is a marker for poor prognostic outcomes or merely a reflection of disease severity. Its presence suggests a worse prognosis in patients with liver cirrhosis, pulmonary hypertension, myocardial infarction, chronic kidney disease, hip fractures, and pulmonary embolism.1,8–10"
+        },
+        {
+            "parent": 0,
+            "text": "The most common classification system for hyponatremia is based on volume status: hypovolemic (decreased total body water with greater decrease in sodium level), euvolemic (increased total body water with normal sodium level), and hypervolemic (increased total body water compared with sodium).11"
+        },
+        {
+            "parent": 0,
+            "text": "Plasma osmolality has a role in the pathophysiology of hyponatremia. Osmolality refers to the total concentration of solutes in water. Effective osmolality is the osmotic gradient created by solutes that do not cross the cell membrane. Effective osmolality determines the osmotic pressure and the flow of water.11Plasma osmolality is maintained by strict regulation of the arginine vasopressin (also called antidiuretic hormone [ADH]) system and thirst. If plasma osmolality increases, ADH is secreted and water is retained by the kidneys, thus decreasing serum osmolality. If plasma osmolality decreases, ADH also decreases, resulting in diuresis of free water and a return to homeostasis.12,13"
+        },
+        {
+            "parent": 1,
+            "text": "Symptoms of hyponatremia depend on its severity and on the rate of sodium decline. Gradual decreases in sodium usually result in minimal symptoms, whereas rapid decreases can result in severe symptoms. Polydipsia, muscle cramps, headaches, falls, confusion, altered mental status, obtundation, coma, and status epilepticus may indicate the need for acute intervention. Most patients with hyponatremia are asymptomatic, and hyponatremia is noted incidentally. Volume status should be assessed to help determine the underlying cause11,13(Figure 111–16[corrected])."
+        },
+        {
+            "parent": 1,
+            "text": "The diagnostic workup should include a history and physical examination with specific attention to cardiac, cancer, pulmonary, surgical, endocrine, gastrointestinal, neurologic, and renal histories(Table 1).11–13Diuretics, carbamazepine (Tegretol), and selective serotonin reuptake inhibitors can cause hypovolemia; therefore, medications should be reviewed. Alcohol and illicit drug use (especially beer and 3,4-methylenedioxymethamphetamine [“Ecstasy”]) can cause hyponatremia.11–13Athletes should be asked about training regimens because high endurance activities can lead to hyponatremia."
+        },
+        {
+            "parent": 1,
+            "text": "Laboratory tests include a complete metabolic panel and urinary sodium and creatinine levels.11,13Serum osmolality and fractional excretion of sodium should be calculated(eTable A). Measurement of thyroid-stimulating hormone, urinary uric acid, adrenocorticotropic hormone, plasma cortisol, and brain natriuretic peptide may be considered in select patients to rule out other causes.13The diagnosis of reset osmostat (a variation of syndrome of inappropriate antidiuretic hormone secretion [SIADH] in which ADH secretion occurs despite low plasma osmolality) may be aided using fractional excretion of urate (uric acid) in nonedematous patients who have hyponatremia that does not respond to usual treatment.17"
+        },
+        {
+            "parent": 2,
+            "text": "Pseudohyponatremia occurs when seemingly low sodium levels are actually normal. Causes include hyperglycemia, hyperproteinemia, mannitol use, or laboratory errors. Osmolality remains unchanged, and patients are usually euvolemic.12,13A corrected sodium calculation is needed in the setting of hyperglycemia(eTable A)."
+        },
+        {
+            "parent": 3,
+            "text": "There are numerous causes of hypovolemic hyponatremia(Table 1).11–13Patients typically have signs and symptoms associated with volume depletion (e.g., vomiting, diarrhea, tachycardia, elevated blood urea nitrogen–to-creatinine ratio). Urinary sodium levels are typically less than 20 mEq per L unless the kidney is the site of sodium loss. Fractional excretion of sodium is often inaccurately elevated in patients receiving diuretics because of diuretic-induced natriuresis; fractional excretion of urea can be utilized in these patients instead. Fractional excretion of urea less than 35% is more sensitive and specific for diagnosing prerenal azotemia in this setting.18Treatment generally consists of volume repletion with isotonic (0.9%) saline, occasional use of salt tablets, and treatment of the underlying condition.13,14Monitoring of urine output is recommended because output of more than 100 mL per hour can be a warning sign of overcorrection.14"
+        },
+        {
+            "parent": 4,
+            "text": "Euvolemic hyponatremia is most commonly caused by SIADH, but can also be caused by hypothyroidism and glucocorticoid deficiency. Euvolemia is diagnosed by findings from the history and physical examination, low serum uric acid levels, a normal blood urea nitrogen–to-creatinine ratio, and spot urinary sodium greater than 20 mEq per L. Diuretic therapy can artificially elevate urinary sodium, whereas a low-salt diet can artificially lower urinary sodium, thus clouding the diagnosis of hypovolemia vs. euvolemia. Treatment generally consists of fluid restriction and correcting the underlying cause. Fluid restriction should be limited to 500 mL less than the daily urinary volume.13Salt and protein intake should not be restricted. Predictors of failure with fluid restriction include urinary osmolality greater than 500 mOsm per kg, 24-hour urinary volume less than 1.5 L, an increase in the serum sodium level of less than 2 mEq per L within 24 to 48 hours, and a serum sodium level less than the sum of the urinary sodium and potassium levels.13Volume status can be difficult to determine; therefore, a trial of intravenous fluids may be warranted.11Sodium levels in patients with SIADH will decrease further with intravenous fluid administration. The use of demeclocycline (Declomycin) and lithium is not recommended because of an increased risk of harm.14"
+        },
+        {
+            "parent": 5,
+            "text": "Hypervolemic hyponatremia occurs when the kidneys cannot excrete water efficiently. In volume overload states, the effective arterial blood volume is decreased compared with venous volume, resulting in excess ADH secretion. The most common causes of hypervolemic hyponatremia are heart failure, cirrhosis, and kidney injury. Treatment consists of correcting the underlying cause, sodium and fluid restriction, and diuretic therapy to increase excretion of solute-free water.13,14A randomized controlled trial of 46 patients with heart failure showed that restricting fluid intake to 1 L per day improved quality of life 60 days after discharge.19"
+        },
+        {
+            "parent": 6,
+            "text": "Severe symptomatic hyponatremia occurs when sodium levels decrease over less than 24 hours. Severe symptoms (e.g., coma, seizures) typically occur when the sodium level falls below 120 mEq per L, but can occur at less than 125 mEq per L. Severe symptomatic hyponatremia must be corrected promptly because it can lead to cerebral edema, irreversible neurologic damage, respiratory arrest, brainstem herniation, and death. Treatment includes the use of hypertonic 3% saline infused at a rate of 0.5 to 2 mL per kg per hour until symptoms resolve. At this time, vaptans have no role in the treatment of symptomatic hyponatremia because of the potential for overcorrection of sodium and variable sodium fluctuations.13Loop diuretics may be needed in patients with concurrent symptomatic hyponatremia and volume overload. The rate of sodium correction should be 6 to 12 mEq per L in the first 24 hours and 18 mEq per L or less in 48 hours.12–14An increase of 4 to 6 mEq per L is usually sufficient to reduce symptoms of acute hyponatremia.20Rapid correction of sodium can result in osmotic demyelination (previously called central pontine myelinolysis). Overcorrection is common and is typically caused by rapid diuresis secondary to decreasing ADH levels. Every attempt should be made not to overcorrect sodium levels. One study of 25 patients with severe symptoms and sodium levels less than 120 mEq per L showed that concurrent treatment with a weight-based dose of 3% saline and 1 to 2 mcg of desmopressin every six to eight hours resulted in a rate of correction of 3 to 7 mEq per L per hour without causing overcorrection.21Another study used a 100-mL bolus of 3% saline infused over 10 minutes in marathon runners; symptoms improved without over-correcting. This method increased sodium levels by 1.5 to 2.0 mEq per L per hour.13,22,23Guidelines from the European Society of Endocrinology recommend infusing one dose of 150 mL of 3% saline over 20 minutes, with sodium monitoring every 20 minutes until symptoms resolve.14This regimen may be repeated if the patient remains symptomatic or until the goal sodium target of 5 mEq per L is achieved(Figure 213,14,20–23[corrected])."
+        },
+        {
+            "parent": 7,
+            "text": "Vaptans (conivaptan [Vaprisol] and tolvaptan [Samsca]) are vasopressin-receptor antagonists approved for the treatment of hospitalized patients with severe hypervolemic and euvolemic hyponatremia(eTable B). However, their use in the management of hyponatremia is controversial. Several trials have demonstrated that vaptans increase sodium levels in patients with cirrhosis and heart failure.24In the Efficacy of Vasopressin Antagonism in Heart Failure Outcome Study with Tolvaptan, patients with hyponatremia and heart failure who received tolvaptan had an associated reduction in cardiovascular morbidity and mortality, although there were several confounding variables, and further study is needed.25The Study of Ascending Levels of Tolvaptan in Hyponatremia (SALT) trials demonstrated increased sodium levels with tolvaptan in patients with SIADH, cirrhosis, and heart failure.26An extension of these studies, the SALTWATER trial, showed that long-term use of tolvaptan is safe and effective in increasing sodium levels, although this study did not specify subgroups.27,28Regardless of their effectiveness in increasing sodium levels, vaptans—specifically tolvaptan—should not be used in patients with hepatic impairment because they may worsen liver function.29,30The European Society of Endocrinology recommends against the routine use of vaptans, citing a lack of reduction in overall mortality rates and increased risk of rapid overcorrection.14Further study is needed to clarifiy the role of vaptans."
+        },
+        {
+            "parent": 8,
+            "text": "Hypernatremia is defined as a serum sodium level greater than 145 mEq per L. It is associated with increased morbidity and mortality in the inpatient setting.31,32Hypernatremia is caused by net water loss (increased loss or decreased intake) or, rarely, sodium gain. Patients at increased risk include those with an impaired thirst mechanism or restricted access to water (e.g., those with altered mental status, intubated patients, infants, older adults)."
+        },
+        {
+            "parent": 8,
+            "text": "Symptoms of hypernatremia in infants can include tachypnea, muscle weakness, restlessness, a high-pitched cry, insomnia, lethargy, and coma. Seizures usually occur only in cases of inadvertent sodium loading or rapid rehydration. In adults, symptoms tend to be mild and may include anorexia, muscle weakness, restlessness, nausea, and vomiting. Severe symptoms are likely to occur with acute increases in plasma sodium levels or at concentrations greater than 160 mEq per L. Hypernatremia can cause brain shrinkage, resulting in vascular rupture and intracranial bleeding.33"
+        },
+        {
+            "parent": 9,
+            "text": "The cause of hypernatremia is usually evident from the history and physical examination, and is typically water loss (e.g., gastrointestinal loss, restricted access to water) or sodium gain(Table 2).3,12,33,34Patients are often asymptomatic but can present with irritability, nausea, weakness, altered mental status, or coma. Water loss can be pure water loss (e.g., in diabetes insipidus) or hypotonic fluid loss (e.g., renal, gastrointestinal, or cutaneous losses). Sodium gain is usually iatrogenic from the infusion of hypertonic solutions. Laboratory studies are not necessary if the cause is apparent from the history, but frequent electrolyte checks are recommended during correction. When the cause is not clear, laboratory studies should be guided by the history12(Figure 335)."
+        },
+        {
+            "parent": 9,
+            "text": "Diabetes insipidus is caused by a defect in ADH, either at the level of the central nervous system (central diabetes insipidus) or kidneys (nephrogenic diabetes insipidus). Inappropriately dilute urine (osmolality less than 300 mOsm per kg) in the setting of hypernatremia suggests diabetes insipidus. Hyperaldosteronism can cause mild hypernatremia but is rarely clinically relevant. Hyperglycemia can also cause hypernatremia, even after correction of glucose levels.36"
+        },
+        {
+            "parent": 10,
+            "text": "The treatment of hypernatremia involves treating the underlying cause and correcting the water deficit. Determining volume status and calculating the total body water deficit are important(eTable A). When correcting the total body water deficit, oral or enteral free water should be used whenever possible. When intravenous fluids are required, hypotonic solutions should be used. Rapid over-correction can result in cerebral edema; therefore, the least amount of fluid possible should be used.33eTable Clists the sodium content of various intravenous fluids."
+        },
+        {
+            "parent": 10,
+            "text": "In patients with rapid development of hypernatremia, sodium can be corrected quickly with isotonic saline or water without increasing the risk of cerebral edema. A correction rate of 1 mEq per L per hour is considered safe in these patients.12,36In patients with hypernatremia that developed over a longer period, the sodium level should be corrected at a rate of 0.5 mEq per L per hour, with no more than an 8 to 10 mEq per L decrease over 24 hours.33,36,37The target sodium level should be 145 mEq per L.33"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources: We searched the Cochrane database, Dynamed, PubMed, PEPID, Clinical Evidence, the National Guideline Clearinghouse, UpToDate, and OVID using the key terms hyponatremia, hypernatremia, vaptans, diagnosis, and treatment. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Search dates: November 15, 2013; March 1, 2014; and October 5, 2014."
+        },
+        {
+            "parent": 10,
+            "text": "The views expressed are those of the authors and do not reflect the official policy of the Department of the Army, the Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

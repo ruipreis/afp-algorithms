@@ -1,0 +1,273 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0815/p623.html#afp20050815p623-f2",
+    "title": "Hyperthyroidism: Diagnosis and Treatment | AAFP",
+    "author": "JERI R. REID, M.D., AND STEPHEN F. WHEELER, M.D.",
+    "doi": "Am Fam Physician.2005;72(4):623-630",
+    "abstract": "The proper treatment of hyperthyroidism depends on recognition of the signs and symptoms of the disease and determination of the etiology. The most common cause of hyperthyroidism is Graves’ disease. Other common causes include thyroiditis, toxic multinodular goiter, toxic adenomas, and side effects of certain medications. The diagnostic workup begins with a thyroid-stimulating hormone level test. When test results are uncertain, measuring radionuclide uptake helps distinguish among possible causes. When thyroiditis is the cause, symptomatic treatment usually is sufficient because the associated hyperthyroidism is transient. Graves’ disease, toxic multinodular goiter, and toxic adenoma can be treated with radioactive iodine, antithyroid drugs, or surgery, but in the United States, radioactive iodine is the treatment of choice in patients without contraindications. Thyroidectomy is an option when other treatments fail or are contraindicated, or when a goiter is causing compressive symptoms. Some new therapies are under investigation. Special treatment consideration must be given to patients who are pregnant or breastfeeding, as well as those with Graves’ ophthalmopathy or amiodarone-induced hyperthyroidism. Patients’ desires must be considered when deciding on appropriate therapy, and close monitoring is essential.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "GRAVES’ DISEASE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "TOXIC MULTINODULAR GOITER",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "TOXIC ADENOMA",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "THYROIDITIS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Subacute",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Lymphocytic and Postpartum",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "TREATMENT-INDUCED HYPERTHYRIODISM",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Iodine-induced",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Amiodarone-induced",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Thyroid hormone-induced",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "TUMORS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Diagnostic Workup",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "IODIDES",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "ANTITHYROID DRUGS",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "Methimazole",
+            "level": 3
+        },
+        {
+            "id": 19,
+            "name": "Propylthiouracil",
+            "level": 3
+        },
+        {
+            "id": 20,
+            "name": "Complications",
+            "level": 3
+        },
+        {
+            "id": 21,
+            "name": "RADIOACTIVE IODINE",
+            "level": 3
+        },
+        {
+            "id": 22,
+            "name": "Dosage",
+            "level": 3
+        },
+        {
+            "id": 23,
+            "name": "Graves’ Disease",
+            "level": 3
+        },
+        {
+            "id": 24,
+            "name": "Use with OtherTreatments",
+            "level": 3
+        },
+        {
+            "id": 25,
+            "name": "Safety Precautions",
+            "level": 3
+        },
+        {
+            "id": 26,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 27,
+            "name": "NEW POSSIBILITIES",
+            "level": 3
+        },
+        {
+            "id": 28,
+            "name": "Prognosis and Follow-up",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Clinical hyperthyroidism, also called thyrotoxicosis, is caused by the effects of excess thyroid hormone and can be triggered by different disorders. Etiologic diagnosis influences prognosis and therapy. The prevalence of hyperthyroidism in community-based studies has been estimated at 2 percent for women and 0.2 percent for men.1As many as 15 percent of cases of hyperthyroidism occur in patients older than 60 years.2"
+        },
+        {
+            "parent": 0,
+            "text": "Hyperthyroidism presents with multiple symptoms that vary according to the age of the patient, duration of illness, magnitude of hormone excess, and presence of comorbid conditions. Symptoms are related to the thyroid hormone’s stimulation of catabolic enzymopathic activity and catabolism, and enhancement of sensitivity to catecholamines. Common symptoms and signs are listed inTable 1,3with attention to the differences in clinical presentation between younger and older patients. Older patients often present with a paucity of classic signs and symptoms, which can make the diagnosis more difficult.4Thyroid storm is a rare presentation of hyperthyroidism that may occur after a stressful illness in a patient with untreated or undertreated hyperthyroidism and is characterized by delirium, severe tachycardia, fever, vomiting, diarrhea, and dehydration.5"
+        },
+        {
+            "parent": 1,
+            "text": "The causes of hyperthyroidism, and key clinical features that differentiate each condition, are outlined inTable 2.6,7"
+        },
+        {
+            "parent": 2,
+            "text": "Graves’ disease is the most common cause of hyperthyroidism, accounting for 60 to 80 percent of all cases.8It is an autoimmune disease caused by an antibody, active against the thyroid-stimulating hormone (TSH) receptor, which stimulates the gland to synthesize and secrete excess thyroid hormone. It can be familial and associated with other autoimmune diseases. An infiltrative ophthalmopathy accompanies Graves’ disease in about 50 percent of patients.9"
+        },
+        {
+            "parent": 3,
+            "text": "Toxic multinodular goiter causes 5 percent of the cases of hyperthyroidism in the United States and can be 10 times more common in iodine-deficient areas. It typically occurs in patients older than 40 years with a long-standing goiter, and has a more insidious onset than Graves’ disease.10"
+        },
+        {
+            "parent": 4,
+            "text": "Toxic adenomas are autonomously functioning nodules that are found most commonly in younger patients and in iodine-deficient areas.10"
+        },
+        {
+            "parent": 6,
+            "text": "Subacute thyroiditis produces an abrupt onset of thyrotoxic symptoms as hormone leaks from an inflamed gland. It often follows a viral illness. Symptoms usually resolve within eight months. This condition can be recurrent in some patients.11"
+        },
+        {
+            "parent": 7,
+            "text": "Lymphocytic thyroiditis and postpartum (subacute lymphocytic) thyroiditis are transient inflammatory causes of hyperthyroidism that, in the acute stage, may be clinically indistinguishable from Graves’ disease. Postpartum thyroiditis can occur in up to 5 to 10 percent of women in the first three to six months after delivery. A transient hypothyroidism often occurs before resolution (Figure 112).11"
+        },
+        {
+            "parent": 9,
+            "text": "Iodine-induced hyperthyroidism can occur after intake of excess iodine in the diet, exposure to radiographic contrast media, or medications. Excess iodine increases the synthesis and release of thyroid hormone in iodine-deficient patients and in older patients with preexisting multinodular goiters.5"
+        },
+        {
+            "parent": 10,
+            "text": "Amiodarone- (Cordarone-) induced hyperthyroidism can be found in up to 12 percent of treated patients, especially those in iodine-deficient areas, and occurs by two mechanisms. Because amiodarone contains 37 percent iodine, type I is an iodine-induced hyperthyroidism (see above). Amiodarone is the most common source of iodine excess in the United States. Type II is a thyroiditis that occurs in patients with normal thyroid glands. Medications such as interferon and interleukin-2 (aldesleukin) also can cause type II.5"
+        },
+        {
+            "parent": 11,
+            "text": "Factitial hyperthyroidism is caused by the intentional or accidental ingestion of excess amounts of thyroid hormone. Some patients may take thyroid preparations to achieve weight loss."
+        },
+        {
+            "parent": 12,
+            "text": "Rare causes of hyperthyroidism include metastatic thyroid cancer, ovarian tumors that produce thyroid hormone (struma ovarii), trophoblastic tumors that produce human chorionic gonadotrophin and activate highly sensitive TSH receptors, and TSH-secreting pituitary tumors.5"
+        },
+        {
+            "parent": 13,
+            "text": "A diagnostic approach to patients who present with signs and symptoms of hyperthyroidism is summarized inFigure 2.5,13Measurement of the TSH level is the only initial test necessary in a patient with a possible diagnosis of hyperthyroidism without evidence of pituitary disease. Further testing is warranted if the TSH level is abnormal. An undetectable TSH level is diagnostic of hyperthyroidism. Antithyroid antibodies are elevated in Graves’ disease and lymphocytic thyroiditis but usually are not necessary to make the diagnosis.14Thyroid-stimulating antibody levels can be used to monitor the effects of treatment with antithyroid drugs in patients with Graves’ disease.15Radionuclide uptake and scan easily distinguishes the high uptake of Graves’ disease from the low uptake of thyroiditis and provides other useful anatomic information. Nonspecific laboratory findings can occur in hyperthyroidism, including anemia, granulocytosis, lymphocytosis, hypercalcemia, transaminase elevations, and alkaline phosphatase elevation.5"
+        },
+        {
+            "parent": 14,
+            "text": "The treatment of hyperthyroidism depends on the cause and severity of the disease, as well as on the patient’s age, goiter size, comorbid conditions, and treatment desires. The goal of therapy is to correct the hypermetabolic state with the fewest side effects and the lowest incidence of hypothyroidism. Beta blockers and iodides are used as treatment adjuncts. Antithyroid drugs, radioactive iodine, and surgery are the main treatment options for persistent hyperthyroidism (Table 3).5,8,9,14–24Each therapy can produce satisfactory outcomes if properly used.16"
+        },
+        {
+            "parent": 15,
+            "text": "Beta blockers offer prompt relief of the adrenergic symptoms of hyperthyroidism such as tremor, palpitations, heat intolerance, and nervousness. Propranolol (Inderal) has been used most widely, but other beta blockers can be used. Nonselective beta blockers such as propranolol, are preferred because they have a more direct effect on hypermetabolism.25Therapy with propranolol should be initiated at 10 to 20 mg every six hours. The dose should be increased progressively until symptoms are controlled. In most cases, a dosage of 80 to 320 mg per day is sufficient.5Calcium channel blockers such as diltiazem (Cardizem) can be used to reduce heart rate in patients who cannot tolerate beta blockers.17"
+        },
+        {
+            "parent": 16,
+            "text": "Iodides block the peripheral conversion of thyroxine (T4) to triiodothyronine (T3) and inhibit hormone release. Iodides also are used as adjunctive therapy before emergency nonthyroid surgery, if beta blockers are unable to control the hyperthyroidism, and to reduce gland vascularity before surgery for Graves’ disease.9 Iodides are not used in the routine treatment of hyperthyroidism because of paradoxical increases in hormone release that can occur with prolonged use. Organic iodide radiographic contrast agents (e.g., iopanoic acid or ipodate sodium) are used more commonly than the inorganic iodides (e.g., potassium iodide). The dosage of either agent is 1 g per day for up to 12 weeks.26"
+        },
+        {
+            "parent": 17,
+            "text": "Antithyroid drugs act principally by interfering with the organification of iodine, thereby suppressing thyroid hormone levels. Methimazole (Tapazole) and propylthiouracil (PTU) are the two agents available in the United States. Remission rates vary with the length of treatment, but rates of 60 percent have been reported when therapy is continued for two years.15Relapse can occur in up to 50 percent of patients who respond initially, regardless of the regimen used. A recent randomized trial27indicated that relapse was more likely in patients who smoked, had large goiters, or had elevated thyroid-stimulating antibody levels at the end of therapy."
+        },
+        {
+            "parent": 18,
+            "text": "Methimazole usually is the drug of choice in nonpregnant patients because of its lower cost, longer half-life, and lower incidence of hematologic side effects. The starting dosage is 15 to 30 mg per day, and it can be given in conjunction with a beta blocker.28The beta blockade can be tapered after four to eight weeks and the methimazole adjusted, according to clinical status and monthly free T4or free T3levels, toward an eventual euthyroid (i.e., normal T3and T4levels) maintenance dosage of 5 to 10 mg per day.9,17TSH levels may remain undetectable for months after the patient becomes euthyroid and should not be used to monitor the effects of therapy. At one year, if the patient is clinically and biochemically euthyroid and a thyroid-stimulating antibody level is not detectable, therapy can be discontinued. If the thyroid-stimulating antibody level is elevated, continuation of therapy for another year should be considered. Once antithyroid drug therapy is discontinued, the patient should be monitored every three months for the first year, because relapse is more likely to occur during this time, and then annually, because relapse can occur years later. If relapse occurs, radioactive iodine or surgery generally is recommended, although antithyroid drug therapy can be restarted.9"
+        },
+        {
+            "parent": 19,
+            "text": "PTU is preferred for pregnant women because methimazole has been associated with rare congenital abnormalities. The starting dosage of PTU is 100 mg three times per day with a maintenance dosage of 100 to 200 mg daily.28The goal is to keep the freeT4level at the upper level of normal.9"
+        },
+        {
+            "parent": 20,
+            "text": "Agranulocytosis is the most serious complication of antithyroid drug therapy and is estimated to occur in 0.1 to 0.5 percent of patients treated with these drugs.28The risk is higher in the first several months of therapy and may be higher with PTU than methimazole.5,9,15It is extremely rare in patients taking less than 30 mg per day of methimazole.9The onset of agranulocytosis is sometimes abrupt, so patients should be warned to stop taking the drug immediately if they develop a sudden fever or sore throat. Routine monitoring of white cell counts remains controversial, but results of one study29showed that close monitoring of white cell counts allowed for earlier detection of agranulocytosis. In this study, patients had white cell counts every two weeks for the first two months, then monthly. In most cases, agranulocytosis is reversible with supportive treatment.15,25Minor side effects (e.g., rash, fever, gastrointestinal symptoms) sometimes can be treated symptomatically without discontinuation of the antithyroid drug; however, if symptoms of arthralgia occur, antithyroid drugs should be discontinued because arthralgia can be a precursor of a more serious polyarthritis syndrome.28"
+        },
+        {
+            "parent": 21,
+            "text": "In the United States, radioactive iodine is the treatment of choice for most patients with Graves’ disease and toxic nodular goiter. It is inexpensive, highly effective, easy to administer, and safe. There has been reluctance to use radioactive iodine in women of childbearing years because of the theoretical risk of cancer of the thyroid, leukemia, or genetic damage in future offspring. Long-term follow-up of patients has not validated these concerns.14,15The treatment of hyperthyroidism in children remains controversial, but radioactive iodine is becoming more acceptable in this group.30"
+        },
+        {
+            "parent": 22,
+            "text": "The treatment dosage of radioactive iodine has been a topic of much debate. A gland-specific dosage based on the estimated weight of the gland and the 24-hour uptake may allow a lower dosage and result in a lower incidence of hypothyroidism but may have a higher recurrence rate.15Higher-dose ablative therapy increases the chance of successful treatment and allows the early hypothyroidism that results from this regimen to be diagnosed and treated while the patient is undergoing close monitoring. Some studies8,18have shown that the eventual incidence of hypothyroidism is similar regardless of the radioactive iodine dosage. The high-dose regimen is clearly favored in older patients, those with cardiac disease, and other groups who need prompt control of hyperthyroidism to avoid complications. Patients with toxic nodular goiter or toxic adenomas are more radio resistant and generally need high-dose therapy to achieve remission. They have a lower incidence of eventual hypothyroidism because the rest of the gland has been suppressed by the toxic nodules and protected from the effects of radioactive iodine.18,30"
+        },
+        {
+            "parent": 23,
+            "text": "In 15 percent of patients, Graves’ ophthalmopathy can develop or be worsened by the use of radioactive iodine.17,19The use of prednisone, 40 to 80 mg per day tapered over at least three months, can prevent or improve severe eye disease in two thirds of patients.19Lower-dose radioactive iodine sometimes is used in patients with ophthalmopathy because posttreatment hypothyroidism may be associated with exacerbation of eye disease. Cigarette smoking is a risk factor for the development and progression of Graves’ ophthalmopathy.14,19"
+        },
+        {
+            "parent": 24,
+            "text": "Using antithyroid drugs to achieve a euthyroid state before treatment with radioactive iodine is not recommended for most patients, but it may improve safety for patients with severe or complicated hyperthyroidism. Limited evidence supports this approach.8,14,17It is unclear whether antithyroid drugs increase radioactive iodine failure rates.20,31,32If used, they should be withdrawn at least three days before radioactive iodine and can be restarted two to three days later. The antithyroid drug is continued for three months after radioactive iodine, then tapered. Beta blockers are used to control symptoms before radioactive iodine and can be continued throughout treatment if needed. Iodine-containing medications need to be discontinued several weeks before therapy.21"
+        },
+        {
+            "parent": 25,
+            "text": "Most of the radioactive iodine is eliminated from the body in urine, saliva, and feces within 48 hours; however, double flushing of the toilet and frequent hand washing are recommended for several weeks. Close contact with others, especially children and pregnant women, should be avoided for 24 to 72 hours.21Additional treatments with radioactive iodine can be initiated as early as three months, if indicated.33"
+        },
+        {
+            "parent": 26,
+            "text": "Gradually, radioactive iodine has replaced surgery for the treatment of hyperthyroidism, but it still may be indicated in some patients and is considered underused by some researchers. A subtotal thyroidectomy is performed most commonly. This surgery preserves some of the thyroid tissue and reduces the incidence of hypothyroidism to 25 percent, but persistent or recurrent hyperthyroidism occurs in 8 percent of patients.22Total thyroidectomy is reserved for patients with severe disease or large goiters in whom recurrences would be highly problematic, but carries an increased risk of hyperparathyroidism and laryngeal nerve damage.22,23"
+        },
+        {
+            "parent": 27,
+            "text": "Newer treatment options under investigation include endoscopic subtotal thyroidectomy,34embolization of the thyroid arteries,35plasmapheresis,36and percutaneous ethanol injection of toxic thyroid nodules.37Autotransplantation of cryopreserved thyroid tissue may become a treatment option for postoperative hypothyroidism.38Nutritional supplementation with L-carnitine39has been shown to have a beneficial effect on the symptoms of hyperthyroidism, andl-carnitine may help prevent bone demineralization caused by the disease."
+        },
+        {
+            "parent": 28,
+            "text": "The prognosis for a patient with hyperthyroidism is good with appropriate treatment. Indications for referral and admission are listed inTable 4.6Even with aggressive treatment, some manifestations of the disease may be irreversible, including ocular, cardiac, and psychologic complications. Patients treated for hyperthyroidism have an increased all-cause mortality risk, as well as increased risk of mortality from thyroid, cardiovascular and cerebrovascular diseases, and hip fractures.5,15,40Morbidity can be attributed to the same causes, and patients should be screened and treated for osteoporosis and atherosclerotic risk factors. Patients who have been treated previously for hyperthyroidism have an increased incidence of obesity41and insulin resistance.42The effect of hyperthyroidism on endothelial function may be an independent risk factor for thromboembolism.43"
+        },
+        {
+            "parent": 28,
+            "text": "Patients should be monitored closely after any treatment for hyperthyroidism, especially during the first three months. After the first year, patients should be monitored annually even if they are asymptomatic. Patient education concerning the risk of relapse and possible late-onset hypothyroidism is imperative."
+        }
+    ],
+    "locked": false
+}

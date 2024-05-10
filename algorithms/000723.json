@@ -1,0 +1,138 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0215/p733.html#afp20050215p733-f1",
+    "title": "Treatment of Panic Disorder | AAFP",
+    "author": "PETER HAM, M.D., DAVID B. WATERS, PH.D., AND M. NORMAN OLIVER, M.D.",
+    "doi": "Am Fam Physician.2005;71(4):733-739",
+    "abstract": "Panic disorder with or without agoraphobia occurs commonly in patients in primary care settings. This article assesses multiple evidence-based reviews of effective treatments for panic disorder. Antidepressant medications successfully reduce the severity of panic symptoms and eliminate panic attacks. Selective serotonin reuptake inhibitors and tricyclic antidepressants are equally effective in the treatment of panic disorder. The choice of medication is based on side effect profiles and patient preferences. Strong evidence supports the effectiveness of cognitive behavior therapy in treating panic disorder. Family physicians who are not trained in cognitive behavior therapy may refer patients with panic disorder to therapists with such training. Cognitive behavior therapy can be used alone or in combination with antidepressants to treat patients with panic disorder. Benzodiazepines are effective in treating panic disorder symptoms, but they are less effective than antidepressants and cognitive behavior therapy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Development of Panic Disorder",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "ANTIDEPRESSANTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "COGNITIVE BEHAVIOR THERAPY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Self-Directed CBT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Alcohol Use and CBT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ANTIDEPRESSANTS PLUS CBT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "BENZODIAZEPINES",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Approach to the Patient",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Literature Search Methodology",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Panic disorder is a disabling condition that is common in patients in primary care settings. Diagnosis may be difficult because symptoms such as chest pain and shortness of breath also are associated with potentially serious conditions. However, proper diagnosis and treatment with medications and/or skilled therapy may restore a better quality of life."
+        },
+        {
+            "parent": -1,
+            "text": "Patients with panic disorder typically have panic attacks, with rapid onset of the symptoms listed inTable 11and a persistent concern about having an attack. Attacks occur suddenly and typically last more than 10 minutes (although the length of attacks is variable). They can occur one to several times per week, usually unpredictably, and may interfere with the patient’s normal activities and work.2Although panic disorder often is chronic, the frequency of attacks and associated symptoms (e.g., depression, avoidant behavior) may wax and wane."
+        },
+        {
+            "parent": -1,
+            "text": "Panic disorder, as defined by theDiagnostic and Statistical Manual of Mental Disorders, 4th ed. (DSM-IV), affects 1 to 3 percent of the general population at some point in their lives.3These patients, however, use health care resources to a disproportionately high extent. Psychiatric case-finding studies4,5of patients presenting to emergency departments with chest pain found that 17 to 25 percent of these patients also met the criteria for panic disorder. In a large multi-center study6of primary care practices, the prevalence of panic disorder ranged from 1 to 6 percent across study sites."
+        },
+        {
+            "parent": -1,
+            "text": "Panic disorder often occurs in patients with agoraphobia (26 percent) or social phobia (33 percent), which includes widespread anxiety about social interaction and performance.2Approximately one in three patients with panic disorder is depressed, and one in five attempts suicide.7Although patients with panic disorder may self-medicate with alcohol, the lifetime prevalence of alcohol and substance abuse is not significantly different in this group than in the general population.8With their array of somatic and affective problems, patients with panic disorder may be some of the most complicated and time-consuming patients in a primary care setting."
+        },
+        {
+            "parent": 0,
+            "text": "How do panic symptoms develop? A phobia of internal sensations is thought to drive the patient’s avoidance behavior. In addition to neurochemical and genetic models for the disorder, some researchers have proposed a cognitive model, in which patients learn to misinterpret thoughts and emotions as physical symptoms. For example, a woman who is afraid of being left alone when her husband leaves for work may experience that fear physiologically (e.g., shortness of breath, sweating), which in turn makes her feel more anxious (“What is wrong with me?”), deepening the spiral and leading to more symptoms. Another theory is that patients escalate otherwise benign body sensations into panic attacks (the behavioral model). For example, a man whose heart rate accelerates when he becomes angry may escalate that sensation and the resulting anxiety into the chest pain of a “heart attack.” Both examples demonstrate the patient’s phobia of internal sensations."
+        },
+        {
+            "parent": 1,
+            "text": "Patients with panic disorder have several treatment options. Determining which treatment is best for a given patient is done through a shared decision-making process between the patient and physician. A suggested approach to treatment is outlined inFigure 1."
+        },
+        {
+            "parent": 2,
+            "text": "Antidepressant medications have been shown to reduce panic severity, eliminate attacks, and improve overall quality-of-life measures in patients with panic disorder.3Two recent meta-analyses9,10found that selective serotonin reuptake inhibitors (SSRIs) and tricyclic antidepressants (TCAs) are equally effective in reducing panic severity and the number of attacks. In these studies, 61 percent of patients were panic-free after six to 12 weeks of treatment, compared with 41 percent of control patients. These studies differ on whether SSRIs are better tolerated than TCAs. An earlier meta-analysis11found SSRIs to be superior to TCAs. However, the benefits of SSRIs may have been overstated in the latter study because of its failure to account for publication bias (i.e., the greater likelihood that small studies finding no difference between treatments will not be published)."
+        },
+        {
+            "parent": 2,
+            "text": "Table 212lists dosing and cost information for the antidepressants that have been proved in randomized controlled trials (RCTs) to be effective in the treatment of panic disorder. The choice of antidepressant should be based on side effect profiles and patient preferences. Monoamine oxidase inhibitors also are effective in the treatment of panic disorder, but their use is limited by safety concerns."
+        },
+        {
+            "parent": 3,
+            "text": "Cognitive behavior therapy (CBT) includes many techniques, such as applied relaxation, exposure in vivo, exposure through imagery, panic management, breathing retraining, and cognitive restructuring. Meta-analyses13–15support the efficacy of CBT in improving panic symptoms and overall disability. Most of the RCTs included in these meta-analyses included eight to 15 sessions of CBT, although a few studies have reported similar efficacy with only four sessions.13Meta-analyses have found that specialized cognitive therapy, behavior therapy, and combined CBTs are superior to general emotionally supportive psychotherapy in patients with panic disorder.16"
+        },
+        {
+            "parent": 3,
+            "text": "In the CBT trials, an average of 73 percent of treated patients were panic-free at three to four months, compared with 27 percent of control patients (number needed to treat, 2),13and 46 percent of treated patients remained panic-free at two years.14Although these statistics are impressive, they represent studies in selected populations that may not reflect typical general practice patients. CBT appears to be effective over the long term (trials ranged from six months to nine years).13,14,17However, these results should be interpreted with caution; the loss of patients to follow-up, unknown role of other therapies in maintaining remission, and lack of intention-to-treat analyses in many studies limit the reliability of CBT when used alone."
+        },
+        {
+            "parent": 3,
+            "text": "It is unclear which component of CBT is more important: cognitive therapy (e.g., identifying misinterpreted feelings, educating patients about panic attacks) or behavior therapy (e.g., breathing exercises, relaxation, exposure). However, the efficacy of exposure techniques alone, in which the patient repeatedly confronts the anxiety-provoking stimulus through imagery or in vivo, is well established in patients with panic disorder, particularly in patients with agoraphobia.13–15When possible, referral to a therapist experienced in exposure techniques is preferred."
+        },
+        {
+            "parent": 4,
+            "text": "If referral for formal CBT isnotanoption, self-directed CBT videotapes and books have been proved effective in controlled studies,18although less so than standard CBT.19At least minimal contact with a therapist is necessary to reduce panic symptoms.20Clum’s21Coping with Panic: A Drug-Free Approach to Dealing with Anxiety Attacksis a widely available self-help book that has been studied in RCTs."
+        },
+        {
+            "parent": 5,
+            "text": "Some patients with panic disorder, particularly men, tend to self-medicate with alcohol, which interferes with therapy. A single study22of alcoholic patients with panic disorder found that the addition of CBT to an alcohol-treatment program was no more effective than alcohol treatment alone in reducing panic symptoms."
+        },
+        {
+            "parent": 6,
+            "text": "Although the evidence indicates that anti-depressants and CBT alone are effective in treating panic disorder, it remains unclear whether one treatment modality is superior to the other. Several meta-analyses14,15suggest that antidepressants are less effective than CBT in reducing panic symptoms; however, these studies have serious methodologic flaws.23Studies conflict on whether combining antidepressants with CBT improves outcomes. Overall, a combination of antidepressant plus some form of CBT produces the greatest benefit in meta-analyses of short-term studies.24,25The results of a more recent study26indicated that CBT plus antidepressants initially was slightly more effective during therapy, but after all therapies were discontinued, patients who used CBT alone or CBT plus placebo had better outcomes than patients using combined CBT and antidepressants."
+        },
+        {
+            "parent": 6,
+            "text": "Studies also are conflicting about how long to continue antidepressant therapy (with or without CBT). Studies have shown a relatively low relapse rate after six months of antidepressant therapy.27Moreover, continued antidepressant therapy beyond six months does not decrease relapse rates.28A recent study29that controlled for post-treatment therapy after CBT found no difference in relapse rates after continuing or discontinuing antidepressants. However, this study was too small to detect potentially important differences in outcomes."
+        },
+        {
+            "parent": 7,
+            "text": "Benzodiazepines are as effective as anti-depressants in reducing panic symptoms and frequency of attacks, are well tolerated, and have a short onset of action.14,30However, benzodiazepines may cause depression25and are associated with adverse effects during use and after discontinuation of therapy.3They also fare less well than anti-depressants in other outcome measures such as global functioning.15Patients with panic disorder and preexisting comorbid depression who are treated with benzodiazepines have poorer outcomes than patients taking antidepressants.31One good-quality RCT32found that the addition of 0.5 mg of clonazepam three times daily to 100 mg of sertraline per day resulted in less severe symptoms and fewer panic episodes at one week (41 versus 4 percent with sertraline alone) but not at four weeks. In patients who already are taking benzodiazepines for panic disorder, the addition of CBT can help maintain a low severity of panic symptoms when the benzodiazepine is discontinued.33"
+        },
+        {
+            "parent": 8,
+            "text": "Until research better determines which subset of patients will spontaneously remit, physicians should treat all patients who meet the DSM-IV criteria for panic disorder, particularly those whose quality of life is affected by social avoidance or agoraphobia. Antidepressants alone are highly effective in reducing attacks and improving function, with SSRIs and TCAs showing equal efficacy. Each class of antidepressant has side effects, and patients’ adherence to therapy varies based on their tolerance of those effects. Antidepressant therapy should continue for at least six months after the patient is symptom-free. When the antidepressant is discontinued, the patient should be followed closely to detect recurrence of anxiety symptoms before they become debilitating.27"
+        },
+        {
+            "parent": 8,
+            "text": "Family physicians may wish to refer patients with panic disorder to a cognitive behavior therapist for four to 15 sessions of CBT, ideally with exposure techniques. Although long-term data are lacking, it is likely that combining antidepressant therapy and CBT benefits the patient more than either treatment alone and provides the option of discontinuing the antidepressant. Benzodiazepines are effective for short-term stabilization and long-term management of panic symptoms. However, they are inferior to CBT and anti-depressants in terms of patient disability and should be used as a bridge to other therapies. CBT can facilitate discontinuation of drug therapy in patients already taking benzodiazepines. Self-help videotapes or reading materials are effective when combined with at least minimal cognitive therapy. Alcoholic patients should be referred for usual alcohol treatment."
+        },
+        {
+            "parent": 9,
+            "text": "The authors and a reference librarian familiar with medical literature searched the Cochrane Database of Systematic Reviews, BMJ’s Clinical Evidence, the Database of Abstracts of Reviews of Effects, Evidence-Based Medicine Reviews, MEDLINE (1966 to 2003), Web of Science, and Psych-Lit for meta-analyses and RCTs, using the search terms “panic disorder” and “panic attack.” The validity of all meta-analyses and systematic reviews was determined using criteria developed at McMaster University for assessing the usefulness of review articles. When a good-quality review provided strong evidence for a particular therapy, only more recent RCTs of those therapies were read. When no valid meta-analysis existed, the authors reviewed individual RCTs. Only RCTs that assessed outcomes potentially important to patients (e.g., panic frequency, severity, depression, anxiety scores, global functioning) were included in the analysis. No effort was made to find unpublished data."
+        }
+    ],
+    "locked": false
+}

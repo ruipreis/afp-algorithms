@@ -1,0 +1,151 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/0201/p179.html#afp20190201p179-f1",
+    "title": "Renal Cell Carcinoma: Diagnosis and Management | AAFP",
+    "author": "RICHARD E. GRAY, DO, AND GABRIEL T. HARRIS, MD",
+    "doi": "Am Fam Physician.2019;99(3):179-184",
+    "abstract": "Kidney cancer is one of the 10 most common cancers in the United States with 90% being attributed to renal cell carcinoma. Men, especially black men, are more likely to be affected than women. Renal masses, either cystic or solid, are best detected with contrast-enhanced, triple-phase computed tomography. Renal tumors are often detected incidentally during a computed tomography scan of the abdomen or chest that was ordered for unrelated symptoms. Hematuria serves as a warning sign that necessitates further evaluation and imaging leading to a diagnosis and treatment plan. Treatment options include active surveillance, ablation, nephron-sparing tumor excision, nephrectomy, and systemic treatment. Predictors of a poor prognosis include poor functional status and metastasis. In recent years new therapies have improved the prognosis for patients with metastatic disease. The family physician should be aware of risk factors (e.g., hypertension, tobacco use, exposure to trichloroethylene, familial syndromes) and lifestyle and dietary modifications that may reduce risk.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening and Prevention",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "CLINICAL EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "LABORATORY EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "INDICATIONS FOR REFERRAL",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "INTERVENTION STRATEGIES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Kidney cancer is one of the 10 most common cancers in the United States.1Renal cell carcinoma accounts for 90% of all kidney cancers.2Death attributed to renal cell carcinoma accounted for 2% of all cancer deaths or approximately 14,000 persons in 2016.1,2Men are diagnosed with renal cell carcinoma at almost twice the rate of women, and there is a greater prevalence in black men.3Most cases are diagnosed between 60 and 70 years of age.1,2"
+        },
+        {
+            "parent": -1,
+            "text": "Renal cell carcinoma is classified in three major histological subtypes: clear cell (75%), papillary (15% to 20%), and chromophobe (5%).4Disease-specific survival is worst with clear cell renal cell carcinoma as it tends to be discovered at a more advanced stage.5"
+        },
+        {
+            "parent": 0,
+            "text": "Risk factors for renal cell carcinoma include hypertension, tobacco use, obesity, and acquired cystic kidney disease in the setting of end-stage renal disease.1,3,6Occupational exposure to trichloroethylene can lead to the development of renal cell carcinoma and increased mortality from renal cell carcinoma.5,7–9The International Agency for Research on Cancer labels trichloroethylene as carcinogenic to humans and specifically associates it with renal cancer.10Occupational exposure to trichloroethylene is most commonly encountered by mechanics, dry cleaners, oil processors, polyvinyl chloride manufacturers, and low-nicotine tobacco producers.8"
+        },
+        {
+            "parent": 0,
+            "text": "There are 10 familial syndromes that confer greater risk of developing renal cell carcinoma.11The most common of these is von Hippel-Lindau disease which leads to the development of clear cell renal cell carcinoma through the activation of vascular endothelial growth factor (VEGF).11Approximately 60% of sporadic clear cell renal cell carcinomas follow the same pathogenesis. This discovery has led to the development of new therapies that inhibit VEGF receptors and are being used to treat heritable and sporadic cases of clear cell renal cell carcinoma.11,12"
+        },
+        {
+            "parent": 1,
+            "text": "Screening for renal cell carcinoma is not recommended, except in the setting of a known heritable syndrome associated with the development of renal cell carcinoma.1The management of hypertension and obesity, and the avoidance of tobacco use are the only established methods of primary prevention.8Evidence from prospective and observational studies suggest that consuming fatty fish (relative risk [RR] = 0.56; 95% confidence interval [CI], 0.35 to 0.91), three or more servings of fruits and vegetables (RR = 0.68; 95% CI, 0.54 to 0.87), and one alcoholic beverage daily (RR = 0.76; 95% CI, 0.68 to 0.85) may reduce the risk of developing renal cell carcinoma.5,13–15"
+        },
+        {
+            "parent": 2,
+            "text": "More than 50% of patients with renal cell carcinoma are asymptomatic and diagnosed incidentally during thoracoabdominal imaging ordered for unrelated issues.5,16The history and physical examination triad of gross hematuria, flank pain, and palpable abdominal mass is now an uncommon presentation, and is associated with advanced disease.6,12,16Nonreducing or isolated right-sided varicocele and bilateral lower extremity edema can also be symptoms of advanced disease through occlusion of the right testicular venous system that drains directly to the inferior vena cava [corrected]. Similarly, bilateral lower extremity edema can occur from tumor occlusion of the inferior vena cava. Approximately 20% of patients present with paraneoplastic disease, manifested by hypertension, hypercalcemia, and polycythemia.5Fever, weight loss, cough, adenopathy, and bone pain may indicate metastatic disease."
+        },
+        {
+            "parent": 4,
+            "text": "An isolated right-sided varicocele and nonreducing bilateral varicocele should be evaluated with abdominal imaging. Gross hematuria requires computed tomography (CT), urography, and urology consultation for cystoscopy.17Signs of paraneoplastic or metastatic disease require evaluation for malignancy, including chest and abdominal imaging."
+        },
+        {
+            "parent": 5,
+            "text": "Hematuria should be diagnosed by microscopic examination that shows three or more red blood cells per high-powered field, not by urine dipstick alone. The urine should be without pyuria or red blood cell casts, which indicates infection or glomerulonephritis, respectively. If asymptomatic microscopic hematuria is detected, management is recommended per American Urological Association guidelines(Figure 1).17,18Benign causes should be ruled out, including infection, recent vigorous exercise, menstruation, and instrumentation. Identified causes should be treated and a repeat urinalysis should be obtained. Further laboratory evaluation includes assessment of urinary sediment, creatinine, C-reactive protein, hemoglobin, erythrocyte sedimentation rate, alkaline phosphatase, and serum calcium.7Routine urine cytology is not recommended for the initial evaluation of asymptomatic microscopic hematuria.17Patients 35 years or older who have asymptomatic microhematuria should have cystoscopy and imaging with multi-phasic CT urography performed.17"
+        },
+        {
+            "parent": 6,
+            "text": "A contrast-enhanced, triple-phase helical CT scan that images the urinary tract before, during, and after contrast load is the preferred imaging study for evaluating renal masses or persistent microscopic hematuria.19,20CT detects 90% of renal masses, identifies benign and pathologic features, and evaluates surrounding anatomy to detect lymphadenopathy or an associated thrombus. A contrast-enhanced CT scan will also identify benign masses that do not require further testing."
+        },
+        {
+            "parent": 6,
+            "text": "The Hounsfield unit scale measures a tissue's density or attenuation. Fat has very low attenuation (i.e., −100 to −10 HU), and masses containing fat are almost always benign angiomyolipomas. Homogeneous masses with low attenuation (−10 to +20 HU) can be identified as benign, fluid-filled, simple cysts. Masses with attenuation greater than 20 HU, heterogeneous appearance, septations, or calcifications, may be malignant and require further evaluation21(Figure 2). The differential diagnosis of renal masses is included inTable 1.22"
+        },
+        {
+            "parent": 6,
+            "text": "For incompletely characterized masses or contraindications to CT, magnetic resonance imaging with and without intravenous contrast is recommended.21"
+        },
+        {
+            "parent": 7,
+            "text": "The management of cystic lesions should be guided by the Bosniak classification system(Table 2).21Shared decision-making between the urologist, the family physician, and the patient is recommended when deciding on a course of treatment. The tumor's stage and characteristics as well as the patient's baseline health and patient preferences should be considered(Table 323,24)."
+        },
+        {
+            "parent": 7,
+            "text": "Solid tumors are managed according to size. Masses measuring less than 1 cm are observed, and masses greater than 1 cm are usually excised or biopsied. There is an increasing role for renal mass biopsy, instead of partial or radical nephrectomy, because active surveillance is a treatment option for renal cell carcinoma. However, a biopsy has an increased risk of false-negative results. The risk of metastatic spread of cancer cells related to a biopsy is rare and should not preclude the use of biopsy to help clarify a diagnosis and guide treatment. Twenty percent of large (greater than 3 cm) solid masses discovered incidentally will be benign.5Metastatic potential increases significantly when the mass is 4 cm or greater. If there is concern for metastatic disease, radiography or CT scan may be necessary based on other risk factors.5,23"
+        },
+        {
+            "parent": 8,
+            "text": "A urology consultation for further evaluation is indicated for microscopic or gross hematuria without urinary tract infection or other benign causes.17,18,25Patients should also be referred for any Bosniak III or IV cystic lesions, and for selected, low-risk patients with a Bosniak IIF lesion, or any solid mass greater than 1 cm that does not contain fat.21"
+        },
+        {
+            "parent": 9,
+            "text": "The preferred treatment for any nonmetastatic, solid, or Bosniak III or IV complex cystic kidney mass is surgical excision, preferably using a minimally invasive approach.23In select patients, nephron-sparing partial nephrectomy is recommended with a priority of achieving negative surgical margins while preserving nephron mass. Radical nephrectomy is indicated in patients with an increased oncologic risk based on clinical indicators (solid masses greater than 3 cm, complex cystic masses, no preexisting chronic kidney disease, normal contralateral kidney and if partial nephrectomy would be challenging) and in patients who plan to undergo targeted pharmaceutical treatment.12,23Lymph node dissection should be performed for staging purposes in patients with clinically concerning regional lymphadenopathy. Adrenalectomy should be performed in patients where imaging and/or intraoperative indications of adrenal invasion are evident.23"
+        },
+        {
+            "parent": 9,
+            "text": "Other options for treatment of renal masses less than 3 cm include thermal ablation, cryoablation, and radiofrequency ablation. All patients undergoing these treatment options should have a renal mass biopsy (preferably multiple core biopsies) performed to allow histologic diagnosis and guide subsequent surveillance. The patient must also understand the increased risk of local recurrence or persistence of the tumor with these treatment options.12,23"
+        },
+        {
+            "parent": 9,
+            "text": "Active surveillance is an acceptable option in some patients when the renal mass measures less than 2 cm (grade C). A plan of active surveillance with repeat imaging every three to six months is acceptable when it is preferred by the patient or when risk of an intervention outweighs the benefits because of complicated comorbidities that decrease life expectancy or increase the risk of death. Renal mass biopsy (preferably performed using a percutaneous approach) should be considered for further risk stratification for patients considering active surveillance.12,23If expected benefits of the intervention outweigh the benefits of active surveillance, then active treatment is preferred, and patients must clearly understand the risks of surveillance.23"
+        },
+        {
+            "parent": 9,
+            "text": "Approximately 30% of all patients with renal cell carcinoma have metastatic disease at diagnosis.6Treatment of metastatic renal cell carcinoma is more complicated and challenging because of the cancer cells' resistance to treatment.12Available interventions include various VEGF receptor inhibitors, tyrosine kinase inhibitors, and immunotherapies. First-line treatment for patients with good to intermediate prognosis, who have not been treated previously, includes antiangiogenic VEGF/tyrosine kinase inhibitors (sunitinib [Sutent], pazopanib [Votrient], or bevacizumab [Avastin] with interferon-alpha). Second-line treatment includes another VEGF receptor/tyrosine kinase inhibitor, immunotherapy with nivolumab [Opdivo], and the immunosuppressant everolimus for patients who experience disease progression despite first-line treatment.26–28Although these interventions may improve overall survival, complete remission is rare in that advanced renal cell carcinoma is a deadly disease.28"
+        },
+        {
+            "parent": 10,
+            "text": "The most significant indicator of prognosis for renal cell carcinoma is based on pathological staging. Patients with stage I or II cancer at the time of diagnosis have a five-year survival rate of 80% to 90%.23Poor prognostic indicators include: low functional status scores using the Karnofsky performance scale or Eastern Cooperative Oncology Group Performance Status scale, high levels of serum lactate dehydrogenase, low hemoglobin, high serum corrected calcium levels, and comorbid diabetes mellitus.12,29"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources:Searches were conducted in Essential Evidence Plus, PubMed, Cochrane Database of Systematic Reviews, and the U.S. Preventive Services Task Force using the key terms renal cancer diagnosis and treatment and renal cell carcinoma diagnosis and treatment. The searches included meta-analyses, randomized controlled trials, clinical trials, guidelines, and reviews. Search dates: July to August 2017, and October 2018."
+        },
+        {
+            "parent": 10,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the U.S. Army Medical Department or the U.S. Air Force at large."
+        }
+    ],
+    "locked": false
+}

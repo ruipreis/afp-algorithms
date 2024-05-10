@@ -1,0 +1,153 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0801/p244.html#afp20120801p244-f1",
+    "title": "Hypothyroidism: An Update | AAFP",
+    "author": "DAVID Y. GAITONDE, MD, KEVIN D. ROWLEY, DO, AND LORI B. SWEENEY, MD",
+    "doi": "Am Fam Physician.2012;86(3):244-251",
+    "abstract": "Hypothyroidism is a clinical disorder commonly encountered by the primary care physician. Untreated hypothyroidism can contribute to hypertension, dyslipidemia, infertility, cognitive impairment, and neuromuscular dysfunction. Data derived from the National Health and Nutrition Examination Survey suggest that about one in 300 persons in the United States has hypothyroidism. The prevalence increases with age, and is higher in females than in males. Hypothyroidism may occur as a result of primary gland failure or insufficient thyroid gland stimulation by the hypothalamus or pituitary gland. Autoimmune thyroid disease is the most common etiology of hypothyroidism in the United States. Clinical symptoms of hypothyroidism are nonspecific and may be subtle, especially in older persons. The best laboratory assessment of thyroid function is a serum thyroid-stimulating hormone test. There is no evidence that screening asymptomatic adults improves outcomes. In the majority of patients, alleviation of symptoms can be accomplished through oral administration of synthetic levothyroxine, and most patients will require lifelong therapy. Combination triiodothyronine/thyroxine therapy has no advantages over thyroxine monotherapy and is not recommended. Among patients with subclinical hypothyroidism, those at greater risk of progressing to clinical disease, and who may be considered for therapy, include patients with thyroid-stimulating hormone levels greater than 10 mIU per L and those who have elevated thyroid peroxidase antibody titers.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening and Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Special Populations",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "OLDER PATIENTS AND PATIENTS WITH ISCHEMIC HEART DISEASE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PREGNANCY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PATIENTS WITH PERSISTENT SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "SUBCLINICAL HYPOTHYROIDISM",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MYXEDEMA COMA",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hypothyroidism is defined as failure of the thyroid gland to produce sufficient thyroid hormone to meet the metabolic demands of the body. Untreated hypothyroidism can contribute to hypertension, dyslipidemia, infertility, cognitive impairment, and neuromuscular dysfunction. Data derived from the National Health and Nutrition Examination Survey (NHANES III) suggest that about one in 300 persons in the United States has hypothyroidism.1The prevalence increases with age, and is higher in females than in males.2It is estimated that nearly 13 million Americans have undiagnosed hypothyroidism.3"
+        },
+        {
+            "parent": -1,
+            "text": "Hypothyroidism may occur as a result of primary gland failure or insufficient thyroid gland stimulation by the hypothalamus or pituitary gland. Primary gland failure can result from congenital abnormalities, autoimmune destruction (Hashimoto disease), iodine deficiency, and infiltrative diseases. Autoimmune thyroid disease is the most common etiology of hypothyroidism in the United States.4Iatrogenic forms of hypothyroidism occur after thyroid surgery, radioiodine therapy, and neck irradiation.5Disorders generally associated with transient hypothyroidism include postpartum thyroiditis, subacute thyroiditis, silent thyroiditis, and thyroiditis associated with thyroid-stimulating hormone (TSH) receptor-blocking antibodies.5"
+        },
+        {
+            "parent": -1,
+            "text": "Central causes of hypothyroidism typically present with other manifestations of hypothalamic or pituitary dysfunction, and are characterized by inappropriately normal or low levels of TSH relative to insufficient thyroid hormone. Drugs classically associated with thyroid dysfunction include lithium, amiodarone, interferon alfa, interleukin-2, and tyrosine kinase inhibitors.6,7"
+        },
+        {
+            "parent": 0,
+            "text": "Thyroid hormone receptors regulate many key physiologic processes. Consequently, hypothyroidism may result in a myriad of clinical signs and symptoms. The severity of these manifestations generally reflects the degree of thyroid dysfunction and the time course of development of hypothyroidism. Symptoms commonly associated with hypothyroidism are often nonspecific(Table 1). These include weight gain, fatigue, poor concentration, depression, diffuse muscle pain, and menstrual irregularities. Symptoms with high specificity for hypothyroidism include constipation, cold intolerance, dry skin, proximal muscle weakness, and hair thinning or loss.8"
+        },
+        {
+            "parent": 0,
+            "text": "Symptoms of hypothyroidism may vary with age and sex. Infants and children may present more often with lethargy and failure to thrive. Women who have hypothyroidism may present with menstrual irregularities and infertility. In older patients, cognitive decline may be the sole manifestation. Examination findings associated with hypothyroidism include but are not limited to goiter, delayed relaxation phase of deep tendon reflexes, thin or brittle hair, dry skin, and peripheral edema(Table 2). Common electrocardiography findings include bradycardia, flattened T waves, and low voltage. Patients with severe hypothyroidism may present with pericardial effusion, pleural effusion, megacolon, hemodynamic instability, and coma. The clinical presentation is often confused with septic shock. Myxedema coma, which represents severe physiologic decompensation resulting from hypothyroidism, occurs rarely, with an annual incidence of 0.22 per million.9Laboratory findings in hypothyroidism may include hyponatremia, hypercapnia, hypoxia, normocytic anemia, elevated creatine kinase, hyperprolactinemia, and hyperlipidemia.10"
+        },
+        {
+            "parent": 1,
+            "text": "Family physicians should evaluate for thyroid dysfunction in all patients with symptoms of hypothyroidism. The American Academy of Family Physicians does not recommend screening for hypothyroidism in asymptomatic adults,11and the U.S. Preventive Services Task Force found insufficient evidence for routine screening in this population.3Screening of asymptomatic patients may be considered in those with risk factors for hypothyroidism, such as a history of autoimmune disease, history of head or neck irradiation, previous radioactive iodine therapy, presence of a goiter, family history of thyroid disease, or treatment with drugs known to influence thyroid function."
+        },
+        {
+            "parent": 1,
+            "text": "The best laboratory assessment of thyroid function, and the preferred test for diagnosing primary hypothyroidism, is a serum TSH test.12If the serum TSH level is elevated, testing should be repeated with a serum free thyroxine (T4) measurement(Figure 113–15). Overt primary hypothyroidism is indicated with an elevated serum TSH level and a low serum free T4level. An elevated serum TSH level with a normal range serum free T4level is consistent with subclinical hypothyroidism. A low serum free T4level with a low, or inappropriately normal, serum TSH level is consistent with secondary hypothyroidism and will usually be associated with further evidence of hypothalamic-pituitary insufficiency."
+        },
+        {
+            "parent": 1,
+            "text": "It is important to interpret these measurements within the context of the laboratory-specific normative range for each test. Diurnal variations exist in TSH secretion such that the lowest level will generally be obtained with a morning laboratory draw.16Free T4is usually measured by automated analog immunoassays. In most instances, this assay will yield accurate results. However, abnormal types or quantities of binding proteins may be present in some patients and may interfere with the accurate measurement of free T4by analog immunoassays. These problems can be overcome by measuring free T4via equilibrium dialysis.17"
+        },
+        {
+            "parent": 1,
+            "text": "Family physicians will most commonly encounter patients with primary hypothyroidism. Secondary hypothyroidism is present in only 5 percent of cases.18"
+        },
+        {
+            "parent": 2,
+            "text": "Most patients with hypothyroidism will require lifelong thyroid hormone therapy(Figure 213,19–24). The normal thyroid gland makes two thyroid hormones: T4and triiodothyronine (T3). Although T4is produced in greater amounts, T3is the biologically active form. Approximately 80 percent of T3is derived from the peripheral conversion of T4by deiodinase enzymes. However, because T3preparations have short biologic half-lives, hypothyroidism is treated almost exclusively with once-daily synthetic thyroxine preparations. Once absorbed, synthetic thyroxine, like endogenous thyroxine, undergoes deiodination to the more biologically active T3."
+        },
+        {
+            "parent": 2,
+            "text": "Synthetic thyroxine preparations are available as brand-name and generic products. In 2004, the U.S. Food and Drug Administration (FDA) approved the substitution of generic levothyroxine for brand-name levothyroxine. However, the American Association of Clinical Endocrinologists, the Endocrine Society, and the American Thyroid Association disagreed with the FDA's conclusion that generic preparations were bioequivalent to brand-name levothyroxine.25They concluded that potentially flawed pharmacokinetic methods, combined with the lack of TSH measurements to establish bioequivalence, could lead to significant under- and overestimations of generic equivalency compared with brand-name levothyroxine products.25Therefore, they recommend that patients be started and maintained on either brand-name or generic levothyroxine preparations, and not switched back and forth between the two. Patients who do switch products should undergo repeat TSH and free T4testing in six weeks to ensure normal range levels."
+        },
+        {
+            "parent": 2,
+            "text": "The starting dosage of levothyroxine in young, healthy adults for complete replacement is 1.6 mcg per kg per day(Table 319–21,26). Thyroid hormone is generally taken in the Thyroid hormone is generally taken in the morning, 30 minutes before eating. Calcium and iron supplements should not be taken within four hours of taking levothyroxine, because these supplements may decrease thyroid hormone absorption. Poor adherence to levothyroxine therapy is the most common cause of persistently elevated TSH levels in patients on adequate doses of thyroid hormone. Levothyroxine dosing for infants and children is also weight-based and varies by age.24Dosing guidelines for hypothyroidism in children are available athttp://www.rxabbott.com/pdf/Synthroid.pdf. Dosage should be adjusted based on clinical response and laboratory parameters."
+        },
+        {
+            "parent": 2,
+            "text": "Patients who have difficulty with morning levothyroxine dosing may find bedtime dosing an effective alternative. In a well-designed study conducted in the Netherlands, bedtime dosing of levothyroxine resulted in lower TSH and higher free T4levels, but no difference in quality of life.27Alternatively, patients with marked difficulty in adhering to a once-daily levothyroxine regimen can safely take their entire week's dosage of levothyroxine once weekly.28"
+        },
+        {
+            "parent": 3,
+            "text": "Six populations deserve special consideration: (1) older patients; (2) patients with known or suspected ischemic heart disease; (3) pregnant women; (4) patients with persistent symptoms of hypothyroidism despite taking adequate doses of levothyroxine; (5) patients with subclinical hypothyroidism; and (6) patients suspected of having myxedema coma."
+        },
+        {
+            "parent": 4,
+            "text": "In older patients and in patients with coronary artery disease, the initial dosage is generally 25 mcg or 50 mcg daily, with the dosage increased by 25 mcg every three to four weeks until the estimated full replacement dose is reached.19,20Thyroid hormone increases heart rate and contractility, and therefore increases myocardial oxygen demand.22Consequently, starting at higher doses may precipitate acute coronary syndrome or an arrhythmia. However, there are no high-quality studies that show that lower starting doses and slow titration result in fewer adverse effects than full-dose levothyroxine replacement in older patients and patients with ischemic heart disease.23"
+        },
+        {
+            "parent": 5,
+            "text": "Thyroid hormone requirements increase during pregnancy. In one prospective study, 85 percent of pregnant patients required a median increase of 47 percent in their thyroid hormone requirements.21These increases in levothyroxine dosing were required as early as the fifth week of pregnancy in some patients, which is before the first scheduled prenatal care visit. It is recommended that women on fixed doses of levothyroxine take nine doses each week (one extra dose on two days of the week), instead of the usual seven, as soon as pregnancy is confirmed.21Repeat thyroid function tests should be obtained five weeks after the increase in dosage. The increase in thyroid hormone requirement lasts throughout pregnancy."
+        },
+        {
+            "parent": 6,
+            "text": "A small number of patients with hypothyroidism, mostly women, treated with an adequate dose of levothyroxine will report persistent symptoms such as fatigue, depressed mood, and weight gain despite having a TSH level in the lower half of the normal range. Some patients may have an alternative cause for their symptoms; in these patients, a limited laboratory and clinical investigation is reasonable(Table 4). Combination T3/T4therapy, in the form of desiccated thyroid hormone preparations (e.g., thyroid USP, Armour thyroid) or levothyroxine plus liothyronine (Cytomel), is sometimes prescribed for patients with persistent symptoms of hypothyroidism."
+        },
+        {
+            "parent": 6,
+            "text": "Desiccated thyroid hormone preparations are not recommended by the American Association of Clinical Endocrinologists for the treatment of hypothyroidism, and a meta-analysis of 11 randomized controlled trials of combination T3/T4therapy versus T4monotherapy showed no improvements in bodily pain, depression, or quality of life.29A subsequent study showed that a small subset of patients who have a specific type 2 deiodinase polymorphism may benefit from combination therapy.30However, there is insufficient evidence to recommend the use of combination T3/T4therapy in the treatment of primary hypothyroidism. Furthermore, genetic testing for a type 2 deiodinase polymorphism is not practical."
+        },
+        {
+            "parent": 6,
+            "text": "Numerous medications can affect thyroid hormone levels in patients taking levothyroxine(Table 525,31). Patients on a stable dose of levothyroxine who are then started on a selective serotonin reuptake inhibitor, in particular sertraline (Zoloft), may show a rise in their TSH level and require an increase in their thyroid hormone dose.31"
+        },
+        {
+            "parent": 7,
+            "text": "Subclinical hypothyroidism is a biochemical diagnosis defined by a normal-range free T4level and an elevated TSH level. Patients may or may not have symptoms attributable to hypothyroidism. On repeat testing, TSH levels may spontaneously normalize in many patients. However, in a prospective study of 107 patients older than 55 years, an initial TSH level greater than 10 to 15 mIU per L was the variable most strongly associated with progression to overt hypothyroidism.32Elevated thyroid peroxidase antibody titers also increase the risk of progressing to frank thyroid gland failure, even when the TSH level is less than 10 mIU per L. Treatment with levothyroxine should be considered for patients with initial TSH levels greater than 10 mIU per L, patients with elevated thyroid peroxidase antibody titers, patients with symptoms suggestive of hypothyroidism and TSH levels between 5 and 10 mIU per L, and for patients who are pregnant or are attempting to conceive.15"
+        },
+        {
+            "parent": 8,
+            "text": "Myxedema coma is a rare but extremely severe manifestation of hypothyroidism that most commonly occurs in older women who have a history of primary hypothyroidism. Mental status changes including lethargy, cognitive dysfunction, and even psychosis, and hypothermia are the hallmark features of myxedema coma.33Hyponatremia, hypoventilation, and bradycardia can also occur."
+        },
+        {
+            "parent": 8,
+            "text": "Because myxedema coma is a medical emergency with a high mortality rate, even with appropriate treatment, patients should be managed in the intensive care unit where proper ventilatory, electrolyte, and hemodynamic support can be given. Corticosteroids may also be needed. A search for precipitating causes such as infection, cardiac disease, metabolic disturbances, or drug use is critical.33"
+        },
+        {
+            "parent": 8,
+            "text": "Endocrinology referral is recommended for all patients with suspected myxedema coma and other indications listed inTable 6.14"
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources:We searched the following sources: American Thyroid Association, American Association of Clinical Endocrinologists, PubMed, U.S. Preventive Services Task Force, UpToDate, and The Endocrine Society. Search terms included hypothyroidism, thyroid dysfunction, subclinical hypothyroidism, screening, symptoms, prevalence and symptoms, clinical presentation, manifestations, levothyroxine, triiodothyronine, epidemiology, thyroid and pregnancy, clinical guidelines, treatment, deiodinase, and clinical presentation. Search dates: June 6, 2011, through February 3, 2012."
+        }
+    ],
+    "locked": false
+}

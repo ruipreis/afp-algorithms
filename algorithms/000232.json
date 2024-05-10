@@ -1,0 +1,118 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0215/p232.html#afp20170215p232-f1",
+    "title": "Acute Coronary Syndrome: Current Treatment | AAFP",
+    "author": "TIMOTHY L. SWITAJ, MD, SCOTT R. CHRISTENSEN, MD, AND DEAN M. BREWER, DO",
+    "doi": "Am Fam Physician.2017;95(4):232-240",
+    "abstract": "Acute coronary syndrome continues to be a significant cause of morbidity and mortality in the United States. Family physicians need to identify and mitigate risk factors early, as well as recognize and respond to acute coronary syndrome events quickly in any clinical setting. Diagnosis can be made based on patient history, symptoms, electrocardiography findings, and cardiac biomarkers, which delineate between ST elevation myocardial infarction and non–ST elevation acute coronary syndrome. Rapid reperfusion with primary percutaneous coronary intervention is the goal with either clinical presentation. Coupled with appropriate medical management, percutaneous coronary intervention can improve short- and long-term outcomes following myocardial infarction. If percutaneous coronary intervention cannot be performed rapidly, patients with ST elevation myocardial infarction can be treated with fibrinolytic therapy. Fibrinolysis is not recommended in patients with non–ST elevation acute coronary syndrome; therefore, these patients should be treated with medical management if they are at low risk of coronary events or if percutaneous coronary intervention cannot be performed. Post–myocardial infarction care should be closely coordinated with the patient's cardiologist and based on a comprehensive secondary prevention strategy to prevent recurrence, morbidity, and mortality.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Primary Prevention",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Initial Management",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Medical Management",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Reperfusion Therapy",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "NSTE-ACS VS. STEMI",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Prognosis and Secondary Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Every 34 seconds, one American has a coronary event.1It is important for primary care physicians to be able to diagnose and manage acute coronary syndrome (ACS), which comprises two clinical presentations: ST elevation myocardial infarction (STEMI) and non–ST elevation acute coronary syndrome (NSTE-ACS). The term non–ST elevation acute myocardial infarction (NSTEMI) is no longer used in the American College of Cardiology/American Heart Association (ACC/AHA) guidelines as a broad category with separate treatment guidelines. In lieu of this, ACS presentations not resulting in ST elevation are grouped together as NSTE-ACS, including NSTEMI and unstable angina."
+        },
+        {
+            "parent": -1,
+            "text": "As of 2010, more than 625,000 patients were discharged from U.S. hospitals each year with an ACS diagnosis.2The GRACE study found that approximately 30% of patients with ACS had STEMI, whereas 70% had a type of NSTE-ACS.3The average age at first myocardial infarction (MI) is 65 years in men and 72 years in women.2Although evidence shows decreased rates of hospitalization and mortality in patients receiving appropriate treatment, ACS continues to be the most common cause of death in the United States.1This article focuses on the treatment of ACS based on the 2013 American College of Cardiology Foundation (ACCF) /AHA guideline for the management of STEMI4and the 2014 ACC/AHA guideline for the management of NSTE-ACS.5"
+        },
+        {
+            "parent": 0,
+            "text": "The ACC/AHA guidelines continue to emphasize the importance of primary prevention of ACS by decreasing coronary artery disease risk factors, including hypertension, hypercholesterolemia, diabetes mellitus, and smoking.1Family history of coronary artery disease is also a risk factor. There are several risk calculators available, most notably the Framingham risk score and, more recently, Pooled Cohort Equations for atherosclerotic cardiovascular disease.6The atherosclerotic cardiovascular disease risk estimator is available online and in mobile app format athttp://my.americanheart.org/cvriskcalculator and athttp://www.cardiosource.org/en/Science-And-Quality/Practice-Guidelines-and-Quality-Standards/2013-Prevention-Guideline-Tools.aspx. However, this calculator has been criticized for overestimating the risk of cardiovascular disease in adults without diabetes.7"
+        },
+        {
+            "parent": 0,
+            "text": "Family physicians should continue to educate patients about the risk factors, clinical presentation, and symptoms of ACS. Older persons, persons with diabetes, women, and postoperative patients should be aware that they may have atypical symptoms and presentation for ACS. At-risk patients should be regularly advised to seek medical care immediately if any atypical symptoms occur.1"
+        },
+        {
+            "parent": 1,
+            "text": "At the individual level, patients should be advised to chew a nonenteric coated aspirin (162 to 325 mg) at first recognition of ACS symptoms, unless they have a history of severe aspirin sensitivity.4At the community level, local areas should create and maintain emergency medical service systems that support STEMI care. Initial care should include a full assessment of clinical symptoms and coronary artery disease risk factors, as well as 12-lead electrocardiography. Electrocardiographic findings that may reflect myocardial ischemia include changes in the PR segment, QRS complex, and the ST segment.1Part of the initial assessment also involves obtaining cardiac biomarkers that include troponin (I or T). Primary percutaneous coronary intervention (PCI) is the recommended reperfusion method; therefore, all efforts should be made to transfer a patient with suspected STEMI to a PCI-capable hospital. If none is available within a 30-minute travel time, medical management should occur in the nearest emergency department. The goal of medical management is to administer fibrinolytic therapy within 30 minutes of first medical contact.4"
+        },
+        {
+            "parent": 2,
+            "text": "Table 1summarizes the medications used to manage ACS.4,5Dual antiplatelet therapy is highly recommended in the treatment of STEMI to support primary PCI and fibrinolytic treatment strategies. With either strategy, aspirin therapy (162 to 325 mg per day) should be started as soon as possible and continued indefinitely.4For patients undergoing primary PCI for STEMI, a P2Y12receptor antagonist, such as clopidogrel (Plavix; 600 mg), should be administered as early as possible or at the time of PCI, and a maintenance dosage of 75 mg per day should be continued for one year in patients who receive a stent. Patients undergoing fibrinolysis for STEMI should receive a loading dose of clopidogrel (300 mg in persons younger than 75 years, or 75 mg in persons 75 years and older) before treatment. Clopidogrel, 75 mg per day, should be continued in patients receiving fibrinolytic treatment for at least 14 days and up to one year. Glycoprotein IIb/IIIa inhibitors (such as tirofiban [Aggrastat], eptifibatide [Integrilin], and abciximab [Reopro]) have shown benefit when used during PCI in persons with STEMI and as an adjunct to PCI in persons with NSTE-ACS; however, triple antiplatelet therapy has been associated with an increased risk of bleeding.1"
+        },
+        {
+            "parent": 2,
+            "text": "Anticoagulation therapy should also be initiated with either PCI or fibrinolytic therapy for the treatment of STEMI. For patients undergoing PCI, unfractionated heparin should be administered to maintain a therapeutic activated clotting time level. Bivalirudin (Angiomax) is an option, even with previous use of unfractionated heparin. Fondaparinux (Arixtra) should not be used as sole anticoagulation therapy in patients undergoing PCI because of the risk of catheter thrombosis.4For patients receiving fibrinolytic therapy for STEMI, unfractionated heparin, enoxaparin (Lovenox), or fondaparinux can be used. Treatment should be given for a minimum of 48 hours and up to eight days."
+        },
+        {
+            "parent": 2,
+            "text": "Additional acute treatment options include supplemental oxygen, nitroglycerin, intravenous morphine, beta blockers, angiotensin-converting enzyme inhibitors or angiotensin receptor blockers, and statins. These medications may be used for STEMI or NSTE-ACS, but with a few slight differences as outlined inTable 1.4,5There are limited data to support or refute the routine use of supplemental oxygen in the acute phase of management.4Oxygen supplementation may increase coronary vascular resistance, although it may be appropriate in patients with oxygen saturation less than 90%. Morphine continues to be the medication of choice for pain relief in patients with STEMI; however, it should be used in patients with NSTE-ACS only if anti-ischemic therapy has been maximized and chest pain persists. Beta blockers should be started within 24 hours in patients with STEMI or NSTE-ACS who do not have signs of heart failure, evidence of low output state, increased risk of cardiogenic shock, or other contraindications. Angiotensin-converting enzyme inhibitors should be administered within the first 24 hours to all patients with heart failure, STEMI with anterior location, or ejection fraction less than 40%, in the absence of contraindications to therapy. Continuing or initiating high-intensity statin therapy is recommended, even in patients with baseline low-density lipoprotein cholesterol levels less than 70 mg per dL (1.81 mmol per L)."
+        },
+        {
+            "parent": 3,
+            "text": "After STEMI has been identified, the most appropriate strategy for reperfusion should be determined quickly. Reperfusion therapy should be administered to eligible patients with STEMI and symptom onset within the previous 12 hours.4Figure 1summarizes the elements involved in developing a treatment strategy for patients with STEMI.4Prompt restoration of flow in an occluded artery is the most important factor in defining short- and long-term outcome, regardless of the method.4Primary PCI leads to improved outcomes compared with fibrinolysis when performed in high-volume medical facilities without treatment delays. However, this comparative benefit is lost if treatment is delayed, which may occur if a patient's first medical contact is at a non–PCI-capable facility. Thus, emphasis should be placed on rapid reperfusion, regardless of strategy. In patients with STEMI who undergo PCI, the recommended goals for first medical contact to device time are 90 minutes for persons presenting to a PCI-capable hospital and 120 minutes for those presenting to a non–PCI-capable facility.4"
+        },
+        {
+            "parent": 3,
+            "text": "PCI is considered the primary method of reperfusion, unless the patient has an absolute contraindication. If the first medical contact is at a non–PCI-capable hospital, selecting a reperfusion strategy requires consideration of multiple factors, including the time required for transfer, the time since symptom onset, the risk of complications from STEMI, the risk of bleeding with fibrinolysis, and the presence of shock or heart failure.4Special consideration should be given to women with STEMI, because they have shown an improved response with PCI compared with fibrinolysis.8"
+        },
+        {
+            "parent": 3,
+            "text": "Fibrinolytic therapy is the next best option. In the absence of contraindications, it should be administered to patients with STEMI at non–PCI-capable hospitals if the anticipated first medical contact to device time at a PCI-capable hospital exceeds 120 minutes.4Table 2lists absolute and relative contraindications for fibrinolytic therapy.4The ACCF/AHA guideline recommends using a fibrin-specific fibrinolytic agent.Table 3lists fibrinolytic agents currently available; those agents available in the United States are all considered fibrin-specific.4"
+        },
+        {
+            "parent": 3,
+            "text": "Transfer to a PCI-capable hospital for angiography is recommended for all patients with STEMI after fibrinolysis, although the urgency of transfer depends on the patient's clinical status. Immediate transfer is recommended for patients who develop cardiogenic shock or acute severe heart failure after fibrinolysis.4Even in the absence of shock or heart failure in patients with evidence of failed reperfusion or reocclusion, urgent transfer for angiography is recommended. Evidence of failed reperfusion includes lack of resolution of ST elevation and persistent or recurrent chest pain. Routine transfer to a PCI-capable hospital for angiography after successful fibrinolysis has been shown to improve outcomes in multiple trials and is recommended, ideally within 24 hours of fibrinolysis.4,9–12"
+        },
+        {
+            "parent": 4,
+            "text": "Treatment of NSTE-ACS is similar to that of STEMI(Figure 2).5Patients can be categorized by risk factors and clinical stability into early invasive or ischemia-guided strategies. An early invasive strategy—diagnostic angiography followed by revascularization (primarily with PCI), as appropriate—is indicated for stabilized patients who are at high risk of coronary events, whereas an ischemia-guided approach is indicated for stabilized patients with lower risk scores and is based on patient and physician preferences. Current guidelines recommend against the use of fibrinolytic agents in patients with NSTE-ACS because of an increased risk of reinfarction and other complications.5Table 4lists factors to help select a treatment strategy.5"
+        },
+        {
+            "parent": 4,
+            "text": "Patients with NSTE-ACS tend to be older and have more comorbidities than patients with STEMI, thus a more conservative approach is often appropriate.13It is recommended that most patients with NSTE-ACS receive dual antiplatelet therapy with aspirin and a P2Y12inhibitor, such as clopidogrel, regardless of whether they are undergoing an early invasive or ischemia-guided approach.5Parenteral anticoagulation therapy is also recommended regardless of treatment strategy. The same agents and dosing regimens described for the treatment of STEMI apply to the treatment of NSTE-ACS, although bivalirudin is not recommended in ischemia-guided treatment. If an ischemia-guided strategy is selected, the patient should be monitored closely for responsiveness to therapy. Transition to invasive management, which includes angiography with PCI or coronary artery bypass graft, may be necessary in patients who do not respond to therapy."
+        },
+        {
+            "parent": 5,
+            "text": "Patients who survive a first MI are at an increased risk of future cardiovascular events. Studies have shown that up to one-half of patients do not receive one or more recommended treatments during an ACS event.14In general, the short-term mortality rate at 30 days after an ACS event is between 2% and 3%; the mortality rate is lower after an NSTE-ACS event than after STEMI.15Rehospitalization within 30 days ranges between 17% and 25% for all types of ACS.16The risk of sudden cardiac death increases after an ACS, and is correlated with low ejection fraction (35% or less). Mortality rates at one year begin to equalize between patients with STEMI and NSTE-ACS at approximately 8% to 10%, with long-term mortality rates higher in patients with NSTE-ACS.17,18This is believed to be secondary to the older age and increased comorbidities in patients with NSTE-ACS.19"
+        },
+        {
+            "parent": 5,
+            "text": "The key to reducing the risk of morbidity and mortality is a secondary prevention plan, which should be closely coordinated with the patient's cardiologist.20Specific recommendations for posthospitalization care include a cardiac rehabilitation program, an evidence-based plan of care that includes medication management and timely follow-up, and strategies to control risk factors, such as cholesterol levels, hypertension, and smoking.4"
+        },
+        {
+            "parent": 5,
+            "text": "This article updates a previous article on this topic by Campbell-Scherer and Green.21"
+        },
+        {
+            "parent": 5,
+            "text": "Data Sources: Essential Evidence Plus, provided byAFP, was used in writing this manuscript. Databases searched include PubMed, Ovid, SP, Google Scholar, and Cochrane database. Keywords used include (with combinations using Booleans OR and AND): myocardial infarction, STEMI, NSTEMI, prognosis, fibrinolysis, percutaneous coronary intervention, acute coronary syndrome guidelines, and heart disease. Search dates: July 15, August 2, and September 18, 2015, and February 3, 2016."
+        },
+        {
+            "parent": 5,
+            "text": "The views expressed in this article are those of the authors and do not necessarily reflect the official policy of the Department of Defense, the Department of the Army, the U.S. Army Medical Department, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

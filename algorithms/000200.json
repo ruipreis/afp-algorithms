@@ -1,0 +1,184 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/0315/p376.html#afp20180315p376-f1",
+    "title": "Stable Coronary Artery Disease: Treatment | AAFP",
+    "author": "MICHAEL M. BRAUN, DO, WILLIAM A. STEVENS, MD, AND CRAIG H. BARSTOW, MD",
+    "doi": "Am Fam Physician.2018;97(6):376-384",
+    "abstract": "Stable coronary artery disease refers to a reversible supply/demand mismatch related to ischemia, a history of myocardial infarction, or the presence of plaque documented by catheterization or computed tomography angiography. Patients are considered stable if they are asymptomatic or their symptoms are controlled by medications or revascularization. Treatment involves risk factor management, antiplatelet therapy, and antianginal medications. Tobacco cessation, exercise, and weight loss are the most important lifestyle modifications. Treatment of comorbidities such as diabetes mellitus, hyperlipidemia, and hypertension should be optimized to reduce cardiovascular risk. All patients should be started on a statin unless contraindicated. No data support the routine use of monotherapy with nonstatin drugs such as bile acid sequestrants, niacin, ezetimibe, or fibrates. Studies of niacin and fibrates as adjunctive therapy found no improvement in patient outcomes. Aspirin is the mainstay of antiplatelet therapy; clopidogrel is an alternative. Antianginal medications should be added in a stepwise approach beginning with a beta blocker. Calcium channel blockers, nitrates, and ranolazine are used as adjunctive or second-line therapy when beta blockers are ineffective or contraindicated. Select patients may benefit from coronary revascularization with percutaneous coronary intervention or coronary artery bypass grafting.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Management of Risk Factors and Comorbidities",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "LIFESTYLE MODIFICATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "CHOLESTEROL MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "BP CONTROL",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIABETES MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Antiplatelet Therapy",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Antianginal Therapy",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CALCIUM CHANNEL BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "NITRATES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "RANOLAZINE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "REVASCULARIZATION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Stable coronary artery disease (CAD) refers to a reversible supply/demand mismatch related to ischemia, a history of myocardial infarction (MI), or the presence of plaque documented by catheterization or computed tomography angiography. Patients are considered stable if they are asymptomatic or if their symptoms are controlled by medications or revascularization.1,2In the United States, approximately 25% of men and 16% of women 60 to 79 years of age have diagnosed or undiagnosed CAD, or a cardiovascular disease (CVD) equivalent such as stroke or peripheral arterial disease.3CAD is one of the leading causes of mortality in the United States, accounting for 31% of all deaths in 2013.3However, the CVD mortality rate has declined 28% since 2003 because of advances in treatment, risk factor reduction, and prevention.3Treatment of stable CAD involves lifestyle changes, risk factor modification, and antiplatelet and antianginal therapy."
+        },
+        {
+            "parent": -1,
+            "text": "Stable Coronary Artery Disease"
+        },
+        {
+            "parent": -1,
+            "text": "An RCT of 200 patients with severe single-vessel coronary stenosis (≥ 70%) found no differences between groups in exercise time or anginal relief six weeks after percutaneous coronary intervention or a sham procedure."
+        },
+        {
+            "parent": -1,
+            "text": "In a large RCT, older adults with no diabetes mellitus who had cardiovascular disease or at least a 15% 10-year risk of cardiovascular events were randomized to a systolic blood pressure target of 120 or 140 mm Hg. After three years, the group with the lower blood pressure target had less all-cause mortality (NNT = 83) and heart failure (NNT = 125), but more hypotension, acute kidney injury, and electrolyte abnormalities."
+        },
+        {
+            "parent": -1,
+            "text": "In three large randomized trials of high-risk patients with coronary artery disease and diabetes, liraglutide (Victoza), semaglutide (Ozempic), and empagliflozin (Jardiance) decreased cardiovascular deaths (NNT = 43 to 71 over two to three years)."
+        },
+        {
+            "parent": -1,
+            "text": "NNT = number needed to treat; RCT = randomized controlled trial."
+        },
+        {
+            "parent": 0,
+            "text": "Risk reduction to prevent cardiovascular events includes blood pressure (BP) control and management of cholesterol and glucose levels. Lifestyle modifications (e.g., smoking cessation, increased physical activity, weight control, healthy diet) and management of comorbid conditions such as hypertension and diabetes mellitus can reduce overall and CVD-related mortality.3,4"
+        },
+        {
+            "parent": 1,
+            "text": "Engaging in 30 to 60 minutes of moderate-intensity aerobic activity (e.g., brisk walking) five to seven days per week and increasing daily lifestyle activities have been shown to reduce cardiovascular mortality (risk ratio = 0.74; 95% confidence interval, 0.64 to 0.86) and possibly all-cause mortality in patients with stable CAD, although they do not seem to reduce the risk of MI or revascularization.1,5,6Exercise is safe in patients with stable CAD. Exercise testing is not needed before starting low- to intermediate-intensity programs, although patients at high risk should be enrolled in a medically supervised program for eight to 12 weeks.7Smoking cessation is recommended for all patients with or at risk of CVD because cessation decreases morbidity and mortality rates to those of nonsmokers roughly 10 years after quitting.1,3Physicians should offer pharmacotherapy or referral to smoking cessation programs if necessary.1,2All patients with stable CAD should receive annual influenza vaccination to decrease the risk of cardiovascular events.8"
+        },
+        {
+            "parent": 2,
+            "text": "Statins. A prospective meta-analysis of 14 randomized controlled trials (RCTs) showed that statin therapy reduces the risk of major cardiovascular events, revascularization, and stroke by 20%.9Based on a 20% 10-year risk of a cardiovascular event (typical in patients with stable CAD), this corresponds to a number needed to treat (NNT) of 25 to prevent one event over 10 years. In their 2013 cholesterol treatment guideline, the American College of Cardiology/American Heart Association (ACC/AHA) transitioned away from low-density lipoprotein (LDL) cholesterol targets to recommend that all patients with stable CAD who are younger than 75 years receive high-intensity statin therapy(Table 110), which reduces all-cause mortality compared with less intense therapy.1,2,9–12Patients 75 years and older and those who cannot tolerate high-intensity statin therapy should receive moderate-intensity statin therapy for secondary prevention10; this treatment should be individualized for each patient."
+        },
+        {
+            "parent": 2,
+            "text": "Nonstatin Medications. No data support the routine use of nonstatin drugs such as bile acid sequestrants, niacin, ezetimibe (Zetia), and fibrates as monotherapy.13–15These medications lower LDL cholesterol levels but do not reduce cardiovascular morbidity or mortality.2,16A large RCT comparing statins with a combination of statin and fenofibrate (Tricor) found no difference in any outcome over 4.7 years.16Another large RCT found no benefit to adding niacin to statin therapy in patients with CAD.17A nonstatin medication or a proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor can be considered for high-risk patients who cannot tolerate or do not respond to statins.2,11,18A manufacturer-sponsored trial showed that ezetimibe plus simvastatin (Zocor) slightly reduced the risk of nonfatal MI after acute coronary syndrome (34.7% vs. 32.7%;P= .016; absolute risk reduction = 2%; NNT = 50 over six years).19This combination can be considered in patients who cannot tolerate high-intensity statin therapy."
+        },
+        {
+            "parent": 2,
+            "text": "PCSK9 Inhibitors. PCSK9 inhibitors (evolocumab [Repatha] and alirocumab [Praluent]) are injectable monoclonal antibodies that significantly lower LDL cholesterol levels.20,21A 2017 trial evaluated the effectiveness of evolocumab in 27,564 patients with CAD and a median LDL cholesterol level of 92 mg per dL (2.38 mmol per L) who were taking a statin.22After a median follow-up of 2.2 years, there was no difference in cardiovascular or all-cause mortality between those who received evolocumab and the control group. There were small reductions in the risks of MI (3.4% vs. 4.6%;P< .001; NNT = 83) and revascularization (5.5% vs. 7.0%;P< .001; NNT = 67). These data are promising, but further studies are needed to identify patients for whom these drugs are cost-effective."
+        },
+        {
+            "parent": 3,
+            "text": "The Eighth Joint National Committee guidelines recommend a target BP of 150/90 mm Hg in patients 60 years and older, and 140/90 mm Hg in adults younger than 60 years.23However, they do not address targets for adults with stable CAD. The 2012 ACC/AHA/European Society of Cardiology practice guideline for the management of stable CAD recommends treating hypertension to a target BP of less than 140/80 mm Hg.1,2Although not endorsed by the American Academy of Family Physicians, the 2017 guideline on high BP from the ACC/AHA recommends a BP goal of less than 130/80 mm Hg for persons with CAD.24In a large 2015 RCT, older adults with CVD and no diabetes or with at least a 15% 10-year risk of cardiovascular events were randomized to a systolic BP target of 120 or 140 mm Hg.25After 3.3 years, all-cause mortality was lower in the aggressive therapy group (3.3% vs. 4.5%;P= .03; NNT = 83), as was heart failure risk (1.3% vs. 2.1%;P= .002; NNT = 125). However, hypotension, acute kidney injury, and electrolyte abnormalities were significantly more common in those with the lower BP target, and patients in the aggressive therapy group had to take an average of one additional medication. Therefore, the decision to attempt a lower BP target should be individualized. An angiotensin-converting enzyme (ACE) inhibitor, calcium channel blocker (CCB), thiazide diuretic, or angiotensin receptor blocker (ARB) is recommended for initial therapy.23The specific choice depends on race (with CCBs preferred over ACE inhibitors and ARBs in black patients) and the presence of diabetes (ACE inhibitors or ARBs are preferred23;Table 21,2,26–36)."
+        },
+        {
+            "parent": 4,
+            "text": "Glycemic control is an important risk factor in stable CAD. The ACC/AHA guideline currently recommends an A1C level less than 7% in most patients.1,2However, intensive glucose control is controversial, especially in patients older than 65 years. A 2008 RCT showed that treating patients with stable CAD to an A1C level less than 6% increased cardiovascular mortality at 3.5 years compared with a target of 7% to 7.9% (1.41% vs. 1.14%;P= .04; number needed to harm [NNH] = 95).37These results were confirmed by a post hoc analysis at nine years in patients with stable CAD.38Three additional trials evaluated intensive vs. standard glucose control in patients with stable CAD and found an overall reduction in cardiovascular events with intensive control, but not in mortality.39–41A meta-analysis of these four trials showed a 9% overall reduction in cardiovascular events with intensive glucose control, but no change in mortality.42In patients older than 65 years who have comorbid conditions, the risks and benefits of intensive glucose control should be weighed, and a target A1C of 7% to 8% should be considered.1,2"
+        },
+        {
+            "parent": 4,
+            "text": "Metformin is recommended for patients with type 2 diabetes because it is associated with a significant reduction in all-cause mortality (NNT = 12 over 10 years).39,43Three large RCTs evaluating the use of liraglutide (Victoza), semaglutide (Ozempic), and empagliflozin (Jardiance) in patients with diabetes and CAD showed a decrease in cardiovascular-related deaths (NNT = 43 to 71 over two to three years).44–46"
+        },
+        {
+            "parent": 5,
+            "text": "A meta-analysis of patients with CVD found that daily aspirin therapy significantly reduced serious vascular events (36 fewer events per 1,000 persons over two years).47,48Dosages of 75 to 162 mg per day are as effective as 325 mg per day for secondary prevention and decrease the risk of gastrointestinal bleeding47; a dosage of 81 mg per day is recommended for most patients (Table 3).1,2,4,48–50Clopidogrel (Plavix) is a thienopyridine derivative that irreversibly inhibits platelet aggregation. A 1996 RCT found that clopidogrel reduced the risk of cardiovascular events compared with aspirin (5.3% vs. 5.8%;P= .043; NNT = 200 over 1.9 years).51However, aspirin is the preferred antiplatelet agent because of its low cost and known benefit. Clopidogrel is an alternative in patients with contraindications to aspirin1(Figure 11,2,49,52)."
+        },
+        {
+            "parent": 5,
+            "text": "A 2006 RCT found no benefit of aspirin plus clopidogrel over aspirin alone with regard to MI, stroke, or mortality (6.8% vs. 7.3%;P= .22).53A meta-analysis of five RCTs in patients with stable CAD, history of MI, stroke, or symptomatic peripheral arterial disease found that all-cause mortality was slightly lower with dual antiplatelet therapy compared with aspirin alone (6.3% vs. 6.7%;P= .026; NNT = 257 over eight months).54However, dual antiplatelet therapy significantly increased the risk of bleeding (1.6% vs. 1.3%;P< .0001; NNH = 322 over eight months)."
+        },
+        {
+            "parent": 5,
+            "text": "In patients with stable CAD who have undergone elective percutaneous coronary intervention (PCI), dual antiplatelet therapy is recommended for six to 12 months after placement of a drug-eluting stent and for at least one month after placement of a bare-metal stent.1,2Longer durations should be discussed with the patient after weighing the benefits and risks.49Studies of prolonged dual antiplatelet therapy after stent placement or acute MI have generally found a reduction in cardiovascular events, but an increase in major bleeding.52Ticagrelor (Brilinta) and prasugrel (Effient) are more potent P2Y12receptor antagonists than clopidogrel, but they are indicated only in patients with acute coronary syndrome who have undergone PCI.55,56"
+        },
+        {
+            "parent": 5,
+            "text": "Vorapaxar (Zontivity), a protease-activated receptor-1 blocker, reduces rates of cardiovascular mortality, recurrent MI, and stroke after an MI (NNT = 83).50However, it also increases the risk of intra-cerebral hemorrhage (NNH = 200); therefore, its use is limited.50Oral anticoagulation is ineffective and has no role for prevention in patients with stable CAD.57"
+        },
+        {
+            "parent": 6,
+            "text": "The treatment of anginal symptoms begins with pharmacotherapy. Medications can be added until symptoms are controlled. Sublingual nitroglycerin should be used for immediate symptom relief, whereas beta blockers are initial therapy for long-term relief. A CCB or long-acting nitrate should be added if beta blockers do not control symptoms. CCBs can be used as first-line therapy in patients who cannot tolerate or who have a contraindication to beta blockers. Ranolazine (Ranexa) can be added to beta-blocker or CCB therapy if monotherapy is ineffective or not tolerated1,2(Table 21,2,26–36andFigure 21,2,26–36,58–62)."
+        },
+        {
+            "parent": 7,
+            "text": "Beta blockers improve survival and reduce MI recurrence in patients with a recent MI and in those with abnormal left ventricular function. In these patients, beta-blocker therapy is recommended for up to three years.1,2,27,28However, beta blockers are not associated with reduced rates of cardiovascular events in patients without MI, and may increase the risk of stroke.27Beta blockers are effective antianginals and are recommended as initial therapy in patients with stable CAD if they can be tolerated.1,2Agents that are cardioselective for blocking β1receptors (i.e., metoprolol, atenolol, bisoprolol) are preferred to minimize the risk of adverse effects. Metoprolol succinate (Toprol XL) or carvedilol (Coreg) should be used in patients who have heart failure with reduced ejection fraction."
+        },
+        {
+            "parent": 8,
+            "text": "Dihydropyridine CCBs (e.g., amlodipine [Norvasc], nifedipine) and nondihydropyridine CCBs (e.g., verapamil, diltiazem) are effective antianginal agents. However, short-acting CCBs may cause reflex tachycardia, potentially exacerbating ischemia and increasing the risk of harm, and are not recommended.29–32Long-acting formulations such as amlodipine or extended-release nifedipine should be used instead. A meta-analysis of 100 RCTs found that unlike beta blockers, long-acting CCBs have no effect on all-cause or cardiovascular mortality, but reduce episodes of angina pectoris by 18%.33CCBs should not be used in patients with abnormal left ventricular function because of lack of survival benefit and potential harm.26CCBs are an alternative or adjunctive treatment for patients who cannot tolerate beta blockers or whose anginal symptoms are not controlled with beta-blocker monotherapy.1,2"
+        },
+        {
+            "parent": 9,
+            "text": "Their quick onset of action has made short-acting nitrates the preferred agent for immediate relief from anginal symptoms. Long-acting formulations are also available but have not been shown to reduce the number of episodes, improve exercise tolerance, or decrease the need for short-acting nitroglycerin compared with beta blockers or CCBs.29Long-acting nitrates are used primarily as an alternative or adjunctive treatment when beta blockers and/or CCBs do not adequately relieve symptoms.29"
+        },
+        {
+            "parent": 10,
+            "text": "Ranolazine inhibits the late inward sodium current, indirectly reducing the calcium current, which decreases ventricular diastolic tension and myocardial oxygen demand. These sodium channels typically remain active in cardiac disease states, causing a substantial increase in calcium concentration and a corollary increase in ventricular diastolic tension.34Ranolazine has no effect on BP or heart rate and can be considered an alternative to beta blockers or CCBs in patients with anginal symptoms and bradycardia or low BP. Ranolazine can be used as adjunctive therapy in patients for whom beta blockers or CCBs do not adequately control symptoms.1,2,35Ranolazine is superior to placebo in reducing angina frequency (3.3% vs. 4.3%) and the need for nitroglycerin (2.7% vs. 3.6%;P< .02),34but it does not reduce the risk of MI or death.36Ranolazine can cause prolongation of the QT interval, especially in patients who are receiving other QT-prolonging medications. It is contraindicated in patients with hepatic impairment and in those who are receiving medications metabolized by cytochrome P450 3A4.1"
+        },
+        {
+            "parent": 11,
+            "text": "Select patients with stable CAD may benefit from coronary revascularization with PCI or coronary artery bypass grafting (CABG).59–62These procedures may be considered if an adequate trial of medical therapy fails to manage anginal symptoms. Shared decision making between the patient and physician should take into account the symptom burden, lifestyle limitations, and personal preferences, as well as risks and benefits."
+        },
+        {
+            "parent": 11,
+            "text": "It is important to note that PCI does not improve mortality in patients with stable CAD, but it may improve symptoms.1,2,58,59A 2007 RCT analyzed optimal medical therapy vs. PCI and found no difference in all-cause mortality and nonfatal MI.60The AHA recommends revascularization (preferably CABG) to prevent MI and death in patients with 50% stenosis or greater of the left main coronary artery.1,61CABG is also the preferred treatment for patients with complex multivessel disease and diabetes; a meta-analysis of six RCTs comparing CABG with PCI in patients with multivessel disease found significant reductions in all-cause mortality (NNT = 37 over four years) and MI (NNT = 26 over four years) for those in the CABG group62(Table 459–62). However, the most recent and best-designed study to date on the effect of PCI on symptoms comes from a study of 200 patients with 70% or greater single-vessel stenosis and ischemic symptoms who were randomized to PCI or a sham procedure.63Six weeks after the procedures, there was no difference between groups in symptomatic outcomes such as angina frequency score, quality-of-life scores, or exercise treadmill time."
+        },
+        {
+            "parent": 11,
+            "text": "This article updates previous articles on this topic byPflieger, et al.64;Hall and Lorenc65;Hanna and Wenger66; andZanger, et al.67"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:We searched the Cochrane database, Dynamed, PubMed, PEPID, Essential Evidence Plus, Clinical Evidence, National Guideline Clearinghouse, UpToDate, and OVID using the key terms stable, ischemic heart disease, stable angina, cardiovascular disease, hypertension, comorbidities, risk factors, unstable angina, and treatment. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Search dates: July 7, 2016, to November 2, 2017."
+        },
+        {
+            "parent": 11,
+            "text": "The views expressed are those of the authors and do not reflect the official policy of the Department of the Army, the Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

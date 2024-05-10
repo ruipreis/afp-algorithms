@@ -1,0 +1,183 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/0401/p1357.html#afp20020401p1357-f4",
+    "title": "Radiologic Bone Assessment in the Evaluation of Osteoporosis | AAFP",
+    "author": "RICHARD BRUNADER, M.D., AND DAVID K SHELTON, M.D.",
+    "doi": "Am Fam Physician.2002;65(7):1357-1365",
+    "abstract": "Osteoporosis affects nearly 28 million elderly Americans. Its major clinical manifestation is fragility fractures of the spine, hip, and distal radius. Low bone mass is the most important risk factor for a fragility fracture. In 1994, the World Health Organization defined osteoporosis on the basis of a bone mineral density that is 2.5 standard deviations below that in peak young normal persons. Three common imaging modalities used to assess bone strength are dual-energy x-ray absorptiometry, quantitative computed tomography, and calcaneal ultrasonography. The first two modalities measure bone mineral density in both the lumbar spine and peripheral sites. It is thought that calcaneal ultrasonography measures bone architecture and density. Unlike the other studies, ultrasonography currently cannot be used for monitoring skeletal changes over time or evaluating response to therapy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "THE T SCORE",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "THE Z SCORE",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Bone Mass Assessment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Indications for BMD Measurement",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Imaging Modalities",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "DUAL-ENERGY X-RAY ABSORPTIOMETRY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "QUANTITATIVE COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Selection of an Imaging Modality",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Determinants of Serial Bone Mass Measurement",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Intervention Thresholds",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Osteoporosis has been defined as “a disease characterized by low bone mass and microarchitectural deterioration of bone tissue, leading to enhanced bone fragility and a consequent increase in fracture risk.”1This disease affects a large number of the elderly and is a source of significant expense. In the United States, it is estimated that nearly 28 million persons have low bone mass.2Osteoporotic fractures cost the U.S. health care system $14 billion in 1997, with a projected annual cost of $50 billion by 2040, which is more than the projected annual cost of stroke, breast cancer, diabetes, or chronic lung disease.3"
+        },
+        {
+            "parent": -1,
+            "text": "Common osteoporotic fracture sites include the vertebrae, the hip, the distal radius of the forearm, and the proximal humerus. A 50-year-old white woman has lifetime risks of fracture of the spine, hip, and distal radius of 32 percent, 16 percent, and 15 percent, respectively. These risks exceed her risk of developing endometrial or breast cancer.4"
+        },
+        {
+            "parent": -1,
+            "text": "Patients with hip fractures have an average one-year mortality rate of 20 to 25 percent. In addition to mortality, serious morbidities are associated with hip fracture, including loss of independence. Fifteen to 25 percent of previously independent patients require nursing home placement for at least one year, and less than 30 percent of patients regain their pre-fracture level of function.2,5,6"
+        },
+        {
+            "parent": -1,
+            "text": "Osteoporosis is known to affect more women than men.2In 1990, approximately 250,000 hip and 500,000 vertebral osteoporotic fractures were reported in American women,5most of which were related to underlying osteoporosis.2These numbers represent three times the number of similar fractures found in men.5The increased incidence of osteoporosis among women can be traced to two main factors: (1) women generally achieve a lower maximal peak bone mass (usually reached by age 30 in both men and women), and (2) women have greater bone loss after the hormonal changes associated with menopause.2,7"
+        },
+        {
+            "parent": -1,
+            "text": "Because osteoporosis affects a large number of patients with potentially significant morbidity and mortality, it is important to identify patients at risk so that physicians can effectively intervene. Low bone mass has been shown to be the biggest risk factor for fragility fracture8(pp5–11); thus, the World Health Organization (WHO) defined osteoporosis by bone mineral density (BMD) measurement. Before this definition was applied in 1994, making a diagnosis of osteoporosis required the occurrence of a fragility fracture.5The redefinition allows for the prospective diagnosis of osteoporosis in asymptomatic patients before fragility fracture occurs.7"
+        },
+        {
+            "parent": 0,
+            "text": "The WHO chose the T score as its standard for defining BMD. It is the statistical measure of BMD that best correlates with fracture risk and is based on values derived from dual-energy x-ray absorptiometry (DXA). The T score compares one patient's BMD (X) in standard deviations with the average peak BMD in healthy young persons of the same gender (Xy).9The value is then expressed in terms of the number of standard deviations (“young adult standard deviation”) departure from Xy, as in the following formula:"
+        },
+        {
+            "parent": 0,
+            "text": "In the WHO report, patients are divided into four categories on the basis of their T scores(Table 1).7Osteoporosis is defined as 2.5 or more standard deviations below the adult mean value (T 2.5)."
+        },
+        {
+            "parent": 0,
+            "text": "Fracture risk is increased two to three times for each T score or standard deviation below peak young adult mean bone mass.3,10In fact, the BMD and T scores correlate better with fracture risk than cholesterol levels correlate with heart attack risk or blood pressure correlates with stroke risk.11,12However, bone mass is a continuous measure of fracture risk; there is no threshold level at which a fracture will definitely occur.8(pp42–44),10"
+        },
+        {
+            "parent": 1,
+            "text": "The Z score compares one patient's BMD (X), in standard deviations, with the mean BMD for persons of the same age and gender (Xa) rather than with the young adult normal group used in the T score. The variation from that mean is then expressed in terms of the number of “population standard deviations” from that mean, as demonstrated by the following formula9:"
+        },
+        {
+            "parent": 1,
+            "text": "While the T score best correlates with fracture risk, the Z score puts a patient's BMD in perspective. It is particularly useful in elderly patients who may be osteoporotic by the T score but are average for their age by the Z score.13Thus, the Z score measures fracture risk in relation to remaining life span. The risk of fracture is doubled for each unit of Z score or standard deviation below the age-matched and gender-matched mean.9"
+        },
+        {
+            "parent": 2,
+            "text": "Bone densitometry is the single best predictor of osteoporotic fracture risk12,14and is used to follow therapeutic interventions.12,13"
+        },
+        {
+            "parent": 2,
+            "text": "Both peripheral (extremities) and central (spine and hip) bone sites can be measured to assess BMD. Because osteoporosis is a systemic disease, the risk of spine or hip fracture can be estimated from measurements obtained at peripheral measurement sites.2,15However, bone mass may be discordant at various skeletal sites within an individual patient.16Thus, the skeletal area of most interest for fracture risk is the most accurate measurement site.2,11,14"
+        },
+        {
+            "parent": 3,
+            "text": "Deciding which patients to consider for BMD measurement usually involves weighing various risk factors on an individual basis. Although the risk factors for osteoporosis are different from the risk factors for fragility fracture, both should be considered when examining a patient. Major risk factors for osteoporosis and fragility fractures are listed inTable 2.238(pp5–11,42–44),17–20"
+        },
+        {
+            "parent": 3,
+            "text": "The National Institutes of Health (NIH) currently recommends using the individualized approach when deciding which patients should have BMD testing. Its Health Consensus Development Conference on Osteoporosis determined that there are insufficient data available for establishing screening guidelines on asymptomatic patients. The NIH does not recommend universal screening, in part because the number of women who would need to be evaluated to prevent one fracture would be very high.2"
+        },
+        {
+            "parent": 3,
+            "text": "The National Osteoporosis Foundation has recommended specific guidelines for selective screening. Some of these include loss of height in an elderly woman, long-term glucocorticoid therapy, and assessing the need for treatment in patients with estrogen deficiency(Table 3).3,5,8(pp42–44)"
+        },
+        {
+            "parent": 3,
+            "text": "There are no guidelines for BMD testing in men.11BMD measurement should be considered in men who sustain low-trauma fractures, have radiologic criteria consistent with low bone mass, have diseases that would place them at risk for low BMD, or are receiving chronic glucocorticoid therapy.5"
+        },
+        {
+            "parent": 4,
+            "text": "Osteopenia is not detected on conventional radiographs until 20 to 40 percent of bone mass has been lost.11,21As shown inTable 4,10–12,14,15,21several techniques are available for quantitative measurement of BMD. Gamma radiation was the original method of absorptiometry. Outside of research settings, it has been largely replaced by radiographic methodology. Unfortunately, different techniques produce different results, even at the same site.22Because bone mass maybe discordant at various skeletal sites in an individual patient16and because different techniques give different results even at the same site, T scores cannot be used interchangeably with different techniques or at different sites.2,22"
+        },
+        {
+            "parent": 4,
+            "text": "Three major imaging modalities are commonly used in the clinical setting: DXA, quantitative computed tomography (QCT), and calcaneal ultrasonography(Table 5).2,7,8(pp12–22),11,12,15,23,24"
+        },
+        {
+            "parent": 5,
+            "text": "DXA is the most widely used technique for measuring BMD.12The WHO criteria were established largely with DXA in mind.22Measurements can be obtained from any site in the body, but the standard sites are the lumbar spine, the proximal femur, and the distal forearm. The high level of precision of this technique allows not only for diagnosis, but also for monitoring response to therapy.12"
+        },
+        {
+            "parent": 5,
+            "text": "Because of the increased prevalence of degenerative spinal changes11,15,23,25–27and because of aortic calcification,8(pp12–22),25falsely elevated BMD values can be obtained when posteroanterior (PA) spine scans are obtained in the elderly. In these patients, hip23,26or lateral DXA spine scans(Figures 1and2)may be more reliable and more sensitive.28,29"
+        },
+        {
+            "parent": 6,
+            "text": "QCT measures the lumbar spine as well as peripheral sites(Figure 3). The results are less likely to be affected by degenerative spinal changes than PA spine DXA scanning. Also, unlike DXA, QCT allows for selective assessment of both cortical and trabecular bone. Trabecular bone, because of its higher rate of turnover compared with cortical bone, would be expected to show metabolic changes earlier. Its ability to enable prediction of spinal fracture, however, is equal to that of DXA scanning; the cost and level of radiation exposure are higher.12"
+        },
+        {
+            "parent": 7,
+            "text": "Determination of BMD alone explains only about 60 to 80 percent of the variation in bone strength and provides no information on bone architecture. In addition to BMD, the skeletal characteristics that contribute to bone fragility include accumulated fatigue and changes in trabecular or cortical architecture.24It is thought that bone ultrasonography measures these properties.30"
+        },
+        {
+            "parent": 7,
+            "text": "Ultrasound examination measures the speed of sound as well as broadband ultrasonic attenuation of the site being measured.17Ultrasonic attenuation is thought to be related to bone architecture and ultrasound speed to material bone properties such as density, although these theories are not universally accepted.30"
+        },
+        {
+            "parent": 7,
+            "text": "The calcaneus is the primary site of measurement.24Fracture risk discrimination by ultrasound examination is equivalent to that of DXA,12especially for hip fracture.17,30As yet there is no universally accepted ultrasound cut-off value for the diagnosis of osteoporosis.24,30Ultrasonography, unlike DXA or QCT, currently cannot be used for monitoring skeletal changes over time or evaluating response to therapy.12,15,24,30Interestingly, using a combination of ultrasonography and BMD measurement does not seem to improve the physician's ability to predict fracture.17"
+        },
+        {
+            "parent": 8,
+            "text": "Deciding which bone imaging modality to use is not always easy. As shown inFigure 4, vertebral fractures are of much greater concern than hip fractures in women who are younger than 65 years of age or within 15 years of menopause. Any of the imaging modalities may be appropriate, especially those that include imaging of the spine.22,31In women older than 65 years, hip fractures become more of a concern, and degenerative spinal changes11,15,23,25–27and aortic calcification8(pp12–22),25are more prevalent. Thus, in this population, hip imaging, lateral spine DXA and peripheral imaging (e.g., calcaneal ultrasonography) may be suitable alternatives. PA spinal DXA should be avoided.22,29,31"
+        },
+        {
+            "parent": 9,
+            "text": "The precision error of a given modality of BMD measurement determines the duration of time between readings before a difference can be detected. Generally, determining significant increases or decreases in bone mass takes one to two years.3,12,32Only central imaging modalities have enough precision to allow for serial measurements.8(pp42–44),12"
+        },
+        {
+            "parent": 10,
+            "text": "Because of the continuous distribution of BMD, there is no absolute “fracture threshold” to indicate a threshold for intervention. The choice of a fracture threshold is therefore somewhat arbitrary.7Also, as mentioned earlier, skeletal architecture plays a role in bone stability.24"
+        },
+        {
+            "parent": 10,
+            "text": "A combination of factors should be considered when deciding on intervention. An analogy would be the management of hyperlipidemia, in which management thresholds depend on other risk factors as well as lipid levels.33"
+        },
+        {
+            "parent": 10,
+            "text": "Currently, the prospective studies needed to construct a validated algorithm for the treatment of osteoporosis that includes risk factors for fracture in addition to BMD assessment are lacking.2Calcaneal ultrasound examination should be considered as a screening modality when osteoporotic risk is unknown or thought to be minimal. In a patient with multiple osteoporotic risk fractures, the physician should consider obtaining a DXA scan (or QCT) of the skeletal area of most interest for fracture risk assessment. Thus, current management has to be individualized. Treatment options, which are not reviewed in this article, include calcium, vitamin D, estrogen, selective estrogen receptor modulators, bisphosphonates, and calcitonin. Early diagnosis of osteoporosis is of great importance because institution of therapy can reduce the morbidity and mortality of osteoporotic fractures."
+        }
+    ],
+    "locked": false
+}

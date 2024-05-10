@@ -1,0 +1,240 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/0215/p599.html#afp20020215p599-f1",
+    "title": "Hyperbilirubinemia in the Term Newborn | AAFP",
+    "author": "MEREDITH L. PORTER, CPT, MC, USA, AND BETH L. DENNIS, MAJ, MC, USA",
+    "doi": "Am Fam Physician.2002;65(4):599-607",
+    "abstract": "Hyperbilirubinemia is one of the most common problems encountered in term newborns. Historically, management guidelines were derived from studies on bilirubin toxicity in infants with hemolytic disease. More recent recommendations support the use of less intensive therapy in healthy term newborns with jaundice. Phototherapy should be instituted when the total serum bilirubin level is at or above 15 mg per dL (257 mol per L) in infants 25 to 48 hours old, 18 mg per dL (308 mol per L) in infants 49 to 72 hours old, and 20 mg per dL (342 mol per L) in infants older than 72 hours. Few term newborns with hyperbilirubinemia have serious underlying pathology. Jaundice is considered pathologic if it presents within the first 24 hours after birth, the total serum bilirubin level rises by more than 5 mg per dL (86 mol per L) per day or is higher than 17 mg per dL (290 mol per L), or an infant has signs and symptoms suggestive of serious illness. The management goals are to exclude pathologic causes of hyperbilirubinemia and initiate treatment to prevent bilirubin neurotoxicity.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors for Hyperbilirubinemia",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Bilirubin Production and Newborns",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Bilirubin Toxicity",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Classification of Neonatal Hyperbilirubinemia",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "PHYSIOLOGIC JAUNDICE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "JAUNDICE AND BREASTFEEDING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Early-Onset Breastfeeding Jaundice",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Late-Onset Breast Milk Jaundice",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PATHOLOGIC JAUNDICE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "LABORATORY EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "PHOTOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "EXCHANGE TRANSFUSION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Neonatal hyperbilirubinemia, defined as a total serum bilirubin level above 5 mg per dL (86 μmol per L), is a frequently encountered problem. Although up to 60 percent of term newborns have clinical jaundice in the first week of life, few have significant underlying disease.1,2However, hyperbilirubinemia in the newborn period can be associated with severe illnesses such as hemolytic disease, metabolic and endocrine disorders, anatomic abnormalities of the liver, and infections."
+        },
+        {
+            "parent": -1,
+            "text": "Jaundice typically results from the deposition of unconjugated bilirubin pigment in the skin and mucus membranes. Depending on the underlying etiology, this condition may present throughout the neonatal period. Unconjugated hyperbilirubinemia, the primary focus of this article, is the most common form of jaundice encountered by family physicians. The separate topic of conjugated hyperbilirubinemia is beyond the scope of this article."
+        },
+        {
+            "parent": 0,
+            "text": "Infants without identified risk factors rarely have total serum bilirubin levels above 12 mg per dL (205 μ mol per L). As the number of risk factors increases, the potential to develop markedly elevated bilirubin levels also increases.2"
+        },
+        {
+            "parent": 0,
+            "text": "Common risk factors for hyperbilirubinemia include fetal-maternal blood group incompatibility, prematurity, and a previously affected sibling(Table 1).2–4Cephalohematomas, bruising, and trauma from instrumented delivery may increase the risk for serum bilirubin elevation. Delayed meconium passage also increases the risk. Infants with risk factors should be monitored closely during the first days to weeks of life."
+        },
+        {
+            "parent": 1,
+            "text": "Bilirubin is the final product of heme degradation. At physiologic pH, bilirubin is insoluble in plasma and requires protein binding with albumin. After conjugation in the liver, it is excreted in bile.3,5–7"
+        },
+        {
+            "parent": 1,
+            "text": "Newborns produce bilirubin at a rate of approximately 6 to 8 mg per kg per day. This is more than twice the production rate in adults, primarily because of relative polycythemia and increased red blood cell turnover in neonates.7Bilirubin production typically declines to the adult level within 10 to 14 days after birth.2"
+        },
+        {
+            "parent": 2,
+            "text": "“Kernicterus” refers to the neurologic consequences of the deposition of unconjugated bilirubin in brain tissue. Subsequent damage and scarring of the basal ganglia and brainstem nuclei may occur.5"
+        },
+        {
+            "parent": 2,
+            "text": "The precise role of bilirubin in the development of kernicterus is not completely understood. If the serum unconjugated bilirubin level exceeds the binding capacity of albumin, unbound lipid-soluble bilirubin crosses the blood-brain barrier. Albumin-bound bilirubin may also cross the blood-brain barrier if damage has occurred because of asphyxia, acidosis, hypoxia, hypoperfusion, hyperosmolality, or sepsis in the newborn.3,8"
+        },
+        {
+            "parent": 2,
+            "text": "The exact bilirubin concentration associated with kernicterus in the healthy term infant is unpredictable.1Toxicity levels may vary among ethnic groups, with maturation of an infant, and in the presence of hemolytic disease. Although the risk of bilirubin toxicity is probably negligible in a healthy term newborn without hemolysis,9the physician should become concerned if the bilirubin level is above 25 mg per dL (428 μ mol per L).1,3,10In the term newborn with hemolysis, a bilirubin level above 20 mg per dL (342 μ mol per L) is a concern.1,3"
+        },
+        {
+            "parent": 2,
+            "text": "The effects of bilirubin toxicity are often devastating and irreversible(Table 2).3,9Early signs of kernicterus are subtle and nonspecific, typically appearing three to four days after birth. However, hyperbilirubinemia may lead to kernicterus at any time during the neonatal period.2After the first week of life, the affected newborn begins to demonstrate late effects of bilirubin toxicity. If the infant survives the initial severe neurologic insult, chronic bilirubin encephalopathy (evident by three years of age) leads to developmental and motor delays, sensorineural deafness, and mild mental retardation."
+        },
+        {
+            "parent": 3,
+            "text": "The causes of neonatal hyperbilirubinemia can be classified into three groups based on mechanism of accumulation: bilirubin overproduction, decreased bilirubin conjugation, and impaired bilirubin excretion(Table 3).11"
+        },
+        {
+            "parent": 4,
+            "text": "Physiologic jaundice in healthy term newborns follows a typical pattern. The average total serum bilirubin level usually peaks at 5 to 6 mg per dL (86 to 103 μ mol per L) on the third to fourth day of life and then declines over the first week after birth.2Bilirubin elevations of up to 12 mg per dL, with less than 2 mg per dL (34 μ mol per L) of the conjugated form, can sometimes occur. Infants with multiple risk factors may develop an exaggerated form of physiologic jaundice in which the total serum bilirubin level may rise as high as 17 mg per dL (291 μ mol per L).3"
+        },
+        {
+            "parent": 4,
+            "text": "Factors that contribute to the development of physiologic hyperbilirubinemia in the neonate include an increased bilirubin load because of relative polycythemia, a shortened erythrocyte life span (80 days compared with the adult 120 days), immature hepatic uptake and conjugation processes, and increased enterohepatic circulation.7"
+        },
+        {
+            "parent": 6,
+            "text": "Breast-fed newborns may be at increased risk for early-onset exaggerated physiologic jaundice because of relative caloric deprivation in the first few days of life.12Decreased volume and frequency of feedings may result in mild dehydration and the delayed passage of meconium. Compared with formula-fed newborns, breastfed infants are three to six times more likely to experience moderate jaundice (total serum bilirubin level above 12 mg per dL) or severe jaundice (total serum bilirubin level above 15 mg per dL [257 μ mol per L]).12,13"
+        },
+        {
+            "parent": 6,
+            "text": "In a breastfed newborn with early-onset hyperbilirubinemia, the frequency of feedings needs to be increased to more than 10 per day. If the infant has a decline in weight gain, delayed stooling, and continued poor caloric intake, formula supplementation may be necessary, but breastfeeding should be continued to maintain breast milk production. Supplemental water or dextrose-water administration should be avoided, as it decreases breast milk production and places the newborn at risk for iatrogenic hyponatremia.3,5,11"
+        },
+        {
+            "parent": 7,
+            "text": "Breast milk jaundice occurs later in the newborn period, with the bilirubin level usually peaking in the sixth to 14th days of life. This late-onset jaundice may develop in up to one third of healthy breastfed infants.1Total serum bilirubin levels vary from 12 to 20 mg per dL (340 μ mol per L) and are nonpathologic."
+        },
+        {
+            "parent": 7,
+            "text": "The underlying cause of breast milk jaundice is not entirely understood. Substances in maternal milk, such asβ-glucuronidases, and nonesterified fatty acids, may inhibit normal bilirubin metabolism.5,7,14,15The bilirubin level usually falls continually after the infant is two weeks old, but it may remain persistently elevated for one to three months."
+        },
+        {
+            "parent": 7,
+            "text": "If the diagnosis of breast milk jaundice is in doubt or the total serum bilirubin level becomes markedly elevated, breastfeeding may be temporarily interrupted, although the mother should continue to express breast milk to maintain production. With formula substitution, the total serum bilirubin level should decline rapidly over 48 hours (at a rate of 3 mg per dL [51 μ mol per L] per day),1confirming the diagnosis. Breastfeeding may then be resumed."
+        },
+        {
+            "parent": 8,
+            "text": "All etiologies of jaundice beyond physiologic and breastfeeding or breast milk jaundice are considered pathologic. Features of pathologic jaundice include the appearance of jaundice within 24 hours after birth, a rapidly rising total serum bilirubin concentration (increase of more than 5 mg per dL per day), and a total serum bilirubin level higher than 17 mg per dL in a full-term newborn.3,5Other features of concern include prolonged jaundice, evidence of underlying illness, and elevation of the serum conjugated bilirubin level to greater than 2 mg per dL or more than 20 percent of the total serum bilirubin concentration. Pathologic causes include disorders such as sepsis, rubella, toxoplasmosis, occult hemorrhage, and erythroblastosis fetalis."
+        },
+        {
+            "parent": 10,
+            "text": "The presence of jaundice can be determined by examining the infant in a well-lit room and blanching the skin with digital pressure to reveal the color of the skin and subcutaneous tissue. Neonatal dermal icterus is not noticeable at total serum bilirubin levels below 4 mg per dL (68 μmol per L).16"
+        },
+        {
+            "parent": 10,
+            "text": "Increasing total serum bilirubin levels are accompanied by the cephalocaudal progression of dermal icterus, predictably from the face to the trunk and extremities, and finally to the palms and soles.16,17The total serum bilirubin level can be estimated clinically by the degree of caudal extension: face, 5 mg per dL; upper chest, 10 mg per dL (171 μmol per L); abdomen, 12 mg per dL; palms and soles, greater than 15 mg per dL."
+        },
+        {
+            "parent": 10,
+            "text": "The only consistently reliable estimation of total serum bilirubin occurs when dermal icterus is confined to above the nipple line. In this situation, the bilirubin level is invariably below 12 mg per dL. As jaundice extends below the middle of the chest, the correlation between physical signs and measured bilirubin levels becomes increasingly unreliable. Differences in skin color among races, delays in dermal deposition with rapidly rising bilirubin levels, interobserver variability, and other factors contribute to the difficulty of accurately predicting the total serum bilirubin concentration based on caudal progression alone.18"
+        },
+        {
+            "parent": 10,
+            "text": "The physical examination should focus on identifying one of the known causes of pathologic jaundice. The infant should be assessed for pallor, petechiae, extravasated blood, excessive bruising, hepatosplenomegaly, weight loss, and evidence of dehydration."
+        },
+        {
+            "parent": 11,
+            "text": "The initial evaluation of jaundice depends on the age of the newborn(Figure 1).2If the serum conjugated bilirubin level is above 2 mg per dL, the infant should be evaluated for possible hepatocellular disease or biliary obstruction."
+        },
+        {
+            "parent": 12,
+            "text": "Studies on the toxic effects of hyperbilirubinemia historically involved infants with hemolytic disease. An increased incidence of kernicterus was found to be associated with total serum bilirubin levels above 20 mg per dL in the presence of hemolysis.19,20This observation was the basis for aggressive guidelines recommending the use of exchange transfusion in all infants with significant hyperbilirubinemia. More recently, term infants without hemolysis have been found to tolerate higher total serum bilirubin levels,21and management guidelines now focus primarily on phototherapy as initial treatment.1"
+        },
+        {
+            "parent": 12,
+            "text": "Recommendations for the management of hyperbilirubinemia in healthy term newborns have been outlined by the American Academy of Pediatrics(Table 4).1Jaundice in a term newborn fewer than 24 hours old is always pathologic: it should be investigated thoroughly and treated appropriately. Depending on the rate at which the bilirubin level rises, a newborn's risk of developing significant hyperbilirubinemia can be classified as low, intermediate, or high(Figure 2).22With the assumption that the bilirubin level will continue to rise at the same rate, the physician can predict the potential further progression of the rise and calculate the number of days that the infant may be at risk for bilirubin toxicity."
+        },
+        {
+            "parent": 12,
+            "text": "Conjugated hyperbilirubinemia is never physiologic, and it may indicate the presence of a potentially serious underlying disorder. However, elevated conjugated bilirubin levels are not directly toxic to brain cells in the neonate.2"
+        },
+        {
+            "parent": 12,
+            "text": "If jaundice persists for more than two weeks in a formula-fed infant and more than three weeks in a breastfed infant, further evaluation is warranted.1,7Laboratory studies should include a fractionated bilirubin level, thyroid studies, evaluations for metabolic disorders or hemolytic disease, and an assessment for intestinal obstruction."
+        },
+        {
+            "parent": 13,
+            "text": "Before treatment is initiated, the minimum evaluation should include the infant's age and postnatal course, a maternal and gestational history, physical examination of the infant, and determination of the total serum bilirubin level and the rate at which it is rising(Figure 2).22"
+        },
+        {
+            "parent": 14,
+            "text": "Phototherapy employs blue wavelengths of light to alter unconjugated bilirubin in the skin. The bilirubin is converted to less toxic water-soluble photoisomers that are excreted in the bile and urine without conjugation. The decision to initiate phototherapy is based on the newborn's age and total serum bilirubin level(Table 4).1"
+        },
+        {
+            "parent": 14,
+            "text": "The efficacy of phototherapy depends on several important factors. The ideal configuration is four special blue bulbs (F20T12/BB) placed centrally, with two daylight fluorescent tubes on either side. The power output of the lights (irradiance) is directly related to the distance between the lights and the newborn.23Ideally, all lights should be 15 to 20 cm from the infant.2To expose the greatest surface area, the newborn should be naked except for eye shields. For double phototherapy, a fiber-optic pad can be placed under the newborn. This method is twice as effective as standard phototherapy.5"
+        },
+        {
+            "parent": 14,
+            "text": "The only contraindication to the use of phototherapy is conjugated hyperbilirubinemia, as occurs in patients with cholestasis and hepatic disease. In this setting, phototherapy may cause a dark grayish-brown discoloration of the skin (bronze baby syndrome).2Potential problems that may occur with phototherapy include burns, retinal damage, thermoregulatory instability, loose stools, dehydration, skin rash, and tanning of the skin. Because phototherapy is continuous, treatment also involves significant separation of the infant and parents."
+        },
+        {
+            "parent": 14,
+            "text": "With intensive phototherapy, the total serum bilirubin level should decline by 1 to 2 mg per dL (17 to 34 μ mol per L) within four to six hours.1,5The bilirubin level may decline more slowly in breastfed infants (rate of 2 to 3 mg per dL per day) than in formula-fed infants.3Phototherapy usually can be discontinued when the total serum bilirubin level is below 15 mg per dL.1The average rebound bilirubin level after phototherapy is below 1 mg per dL. Therefore, hospital discharge of most infants does not have to be delayed to monitor for rebound elevation.24,25"
+        },
+        {
+            "parent": 14,
+            "text": "If the total serum bilirubin level remains elevated after intensive phototherapy or if the initial bilirubin level is meets defined critical levels based on the infant's age(Table 4),1preparations should be made for exchange transfusion."
+        },
+        {
+            "parent": 15,
+            "text": "Exchange transfusion is the most rapid method for lowering serum bilirubin concentrations. This treatment is rarely needed when intensive phototherapy is effective.1,26,27The procedure removes partially hemolyzed and antibody-coated erythrocytes and replaces them with uncoated donor red blood cells that lack the sensitizing antigen."
+        },
+        {
+            "parent": 15,
+            "text": "In the presence of hemolytic disease, severe anemia, or a rapid rise in the total serum bilirubin level (greater than 1 mg per dL per hour in less than six hours), exchange transfusion is the recommended treatment. Exchange transfusion should be considered in a newborn with nonhemolytic jaundice if intensive phototherapy fails to lower the bilirubin level.1"
+        },
+        {
+            "parent": 15,
+            "text": "Complications of exchange transfusion can include air embolism, vasospasm, infarction, infection, and even death. Because of the potential seriousness of these complications, intensive phototherapy efforts should be exhausted before exchange transfusion is initiated.26"
+        }
+    ],
+    "locked": false
+}

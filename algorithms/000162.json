@@ -1,0 +1,130 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0115/p84.html#afp20200115p84-f1",
+    "title": "Functional Dyspepsia: Evaluation and Management | AAFP",
+    "author": "ANNE MOUNSEY, MD, AMIR BARZIN, DO, MS, AND ASHLEY RIETZ, MD",
+    "doi": "Am Fam Physician.2020;101(2):84-88",
+    "abstract": "Functional dyspepsia is defined as at least one month of epigastric discomfort without evidence of organic disease found during an upper endoscopy, and it accounts for 70% of dyspepsia. Symptoms of functional dyspepsia include postprandial fullness, early satiety, and epigastric pain or burning. Functional dyspepsia is a diagnosis of exclusion; therefore, evaluation for a more serious disease such as an upper gastrointestinal malignancy is warranted. Individual alarm symptoms do not correlate with malignancy for patients younger than 60 years, and endoscopy is not necessarily warranted but should be considered for patients with severe or multiple alarm symptoms. For patients younger than 60 years, a test and treat strategy forHelicobacter pyloriis recommended before acid suppression therapy. For patients 60 years or older, upper endoscopy should be performed. All patients should be advised to limit foods associated with increased symptoms of dyspepsia; a diet low in FODMAPs (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) is suggested. Eight weeks of acid suppression therapy is recommended for patients who test negative forH. pylori, or who continue to have symptoms afterH. pylorieradication. If acid suppression does not alleviate symptoms, patients should be treated with tricyclic antidepressants followed by prokinetics and psychological therapy. The routine use of complementary and alternative medicine therapies has not shown evidence of effectiveness and is not recommended.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "DIETARY MODIFICATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "H. PYLORI ERADICATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ACID SUPPRESSION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PSYCHOTROPIC MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PROKINETICS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "NONPHARMACOLOGIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "COMPLEMENTARY AND ALTERNATIVE MEDICINE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Dyspepsia affects up to 30% of the general population in the United States, Canada, and the United Kingdom, with 70% of these patients having functional dyspepsia.1The American College of Gastroenterology (ACG) and the Canadian Association of Gastroenterology (CAG) broadly define functional dyspepsia as at least one month of epigastric discomfort without evidence of organic disease on endoscopy.2The more detailed Rome IV diagnostic criteria define functional dyspepsia as one to three days per week of symptoms of postprandial fullness, early satiety, epigastric pain, or epigastric burning without evidence of structural disease(Table 1).3A calculator using the Rome IV criteria is available to aid with diagnosis athttps://www.mdcalc.com/rome-iv-diagnostic-criteria-dyspepsia. Historically, Rome criteria have been used primarily for research, but the update to Rome IV attempts to increase its usefulness in clinical practice.4The superseded Rome III criteria specifically excluded patients with heartburn and gastroesophageal reflux disease, but the definition of functional dyspepsia has now been broadened to include these patients. A cross-sectional study using the Rome IV criteria estimated the prevalence of functional dyspepsia to be 12% in the United States and was the most common cause of dyspepsia.1"
+        },
+        {
+            "parent": -1,
+            "text": "Functional Dyspepsia"
+        },
+        {
+            "parent": -1,
+            "text": "A cross-sectional study using the Rome IV diagnostic criteria for functional dyspepsia estimated the prevalence to be 12% in the United States, making it the most common cause of dyspepsia."
+        },
+        {
+            "parent": -1,
+            "text": "A systematic review of 15 observational studies and one randomized controlled trial found that foods high in fat, wheat, FODMAPs (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols), and naturally occurring food chemicals, such as caffeine, were associated with symptoms of functional dyspepsia."
+        },
+        {
+            "parent": 0,
+            "text": "The causes of functional dyspepsia are multifactorial.5Helicobacter pyloriinfection and acid secretion may play a role becauseH. pylorieradication and acid suppression improve symptoms of dyspepsia.2Abnormal gastric or duodenal motility and impaired gastric myoelectrical activity are present in 70% to 80% of patients with functional dyspepsia accompanied by postprandial pain or discomfort.6Other studies implicate immune activation, with increased T cells, eosinophilia, and mast cells found in the bowel wall of patients with functional dyspepsia and irritable bowel syndrome.7,8There is also an association with mental health disorders, because rates of anxiety and depression are higher for patients with functional dyspepsia than for patients with dyspepsia from an organic cause or for healthy individuals.9There is overlap in functional dyspepsia with gastroesophageal reflux disease and irritable bowel syndrome, with some studies estimating that 50% of patients with functional dyspepsia have gastroesophageal reflux disease and 35% have irritable bowel syndrome.10"
+        },
+        {
+            "parent": 1,
+            "text": "Functional dyspepsia has been categorized as a diagnosis of exclusion in the past. The more specific Rome IV criteria allow for a definitive diagnosis of functional dyspepsia to be made for patients who have normal upper endoscopy findings.3For patients who have not had an endoscopy, the diagnosis is only likely based on the exclusion of other causes. Family physicians should complete a history and physical examination to determine other possible etiologies of the dyspeptic symptoms(Table 22,11,12). Medication history should be taken to assess for any drugs that are associated with dyspepsia(Table 311). Functional dyspepsia is the most common cause of dyspepsia, and many organic dyspepsia etiologies are rare; therefore, history is not useful in differentiating between functional and organic dyspepsia, and management does not depend on this differentiation.1,11,12Figure 1is an algorithm for the evaluation and management of dyspepsia.2,11"
+        },
+        {
+            "parent": 1,
+            "text": "The 2017 ACG/CAG guidelines recommend upper endoscopy be performed for all patients 60 years or older who present with at least one month of dyspepsia symptoms.The age threshold may be lowered in patients with a higher risk of upper gastrointestinal malignancy (e.g., patients of southeast Asian descent).Endoscopy should not be performed routinely for patients younger than 60 years.This recommendation is based on the low prevalence of malignancy in younger patients and cost-effective economic modeling.2The presence of one alarm feature such as weight loss, anemia, or dysphagia should not be used to recommend endoscopy because each has a positive predictive value of less than 1% for malignancy.2,13The predictive values of severe (e.g., profound weight loss, quickly progressing dysphagia) or multiple alarm symptoms have not been studied; therefore, the judgment of the physician should determine the need for endoscopy.2A test and treat strategy forH. pylorifor all patients younger than 60 years is a safe and effective option before treatment with acid suppression.2,14Endoscopy does not reassure patients with functional dyspepsia or improve quality of life assessments.15"
+        },
+        {
+            "parent": 3,
+            "text": "A low-risk intervention for patients is to encourage dietary modifications to limit foods associated with functional dyspepsia. A systematic review of 15 observational studies and one randomized controlled trial (RCT) found that foods high in fat, wheat, FODMAPs (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols), and naturally occurring food chemicals such as caffeine were associated with symptoms of functional dyspepsia.16A list of FODMAP common foods can be found athttps://www.ibsdiets.org/wp-content/uploads/2016/03/IBSDiets-FODMAP-chart.pdf. The association of alcohol consumption with the symptoms of functional dyspepsia is not as clear and may depend on the type of alcohol.16"
+        },
+        {
+            "parent": 4,
+            "text": "H. pyloritest and treat strategies, when compared with endoscopy, are safe, effective, and cost-effective for managing patients with dyspepsia.2Noninvasive testing forH. pyloriincludes a urea breath test and anH. pyloristool antigen test. In a meta-analysis of 23 studies,H. pylorieradication therapy demonstrated no difference in symptoms of functional dyspepsia at six months but did show improvement at one year.17An RCT comparingH. pylorieradication with placebo found a 50% reduction in functional dyspepsia symptoms (number needed to treat [NNT] = 8).18Another guideline strongly recommended thatH. pyloriinfection was the cause of dyspepsia in a subset of patients and recommended eradication.19Patients who test negative forH. pylorior continue to have symptoms after treatment should be started on a proton pump inhibitor (PPI).2"
+        },
+        {
+            "parent": 5,
+            "text": "The mainstay of acid suppression includes two classes of medications: PPIs and histamine H2receptor antagonists.A meta-analysis found standard daily dosages of PPIs taken over two to eight weeks to be superior to placebo for the reduction of functional dyspepsia symptoms (NNT = 14).20The treatment benefit presented only in patients with burning epigastric pain and reflux-like pain and not for patients with dysmotility-related issues.21Observational studies have found that long-term use of PPIs, typically longer than 12 months, is associated with chronic kidney disease, bone fracture,Clostridioides difficile(formerlyClostridium difficile) infection, and community-acquired pneumonia. The benefits likely outweigh the harms with an estimated number needed to harm of greater than 1,000.2,22PPIs should be prescribed for eight weeks with standard per-day dosing. There is not an advantage to doubling the dosing.2"
+        },
+        {
+            "parent": 5,
+            "text": "H2antagonists are also an option for functional dyspepsia treatment. Twelve RCTs compared H2antagonists with placebo and showed a relative risk reduction of 23% in symptoms of dyspepsia (NNT = 7).12In a systematic review of seven heterogeneous RCTs comparing H2antagonists with PPIs, there was no statistically significant difference in the two approaches in providing symptom relief. Four of the seven studies found PPIs to be superior, leading the ACG to recommend PPIs as first-line treatment.2Antacids and sucralfate (Carafate) are not effective for the treatment of functional dyspepsia.23Although bismuth has shown a small benefit, it is not recommended because of the risk of long-term toxicity.23"
+        },
+        {
+            "parent": 6,
+            "text": "A systematic review of psychotropic medications compared with placebo for the treatment of functional dyspepsia included three trials of tricyclic antidepressants (TCAs) and found a reduction in dyspepsia symptoms (NNT = 6; 95% CI, 4 to 16).24The dosages for these trials were 25 mg of amitriptyline per day and 50 mg of imipramine per day. Two trials compared selective serotonin reuptake inhibitors with placebo and found no significant effect for dyspepsia symptoms. Given these findings, guidelines recommend the use of TCAs, before using prokinetics, for functional dyspepsia that is not improving with treatment forH. pylorior PPI use.2A small placebo-controlled study found buspirone (Buspar) reduced fullness and bloating.25"
+        },
+        {
+            "parent": 7,
+            "text": "For patients who have functional dyspepsia with postprandial distress syndrome, which is characterized by meal-related symptoms, prokinetic agents can reduce symptoms. A review of 29 trials comparing prokinetics (predominantly cisapride) to placebo found a significant reduction in global symptoms of functional dyspepsia (NNT = 7).26Domperidone is not available in the United States, and cisapride was withdrawn from the market because of cardiac adverse effects. Neither of the prokinetic agents available in the United States, metoclopramide (Reglan) or prucolamide (Motegrity), have been evaluated for the treatment of functional dyspepsia. Guidelines from the ACG recommend metoclopramide as a treatment option.2[revised]"
+        },
+        {
+            "parent": 8,
+            "text": "A review of 12 RCTs of patients with functional dyspepsia found a statistically significant benefit of psychological therapy (i.e., cognitive behavior therapy and other forms of psychotherapy) over the control group.2Psychotherapy should not be used as a first-line treatment for functional dyspepsia because of the low quality of the data, the high risk of bias attributed to the lack of blinded psychological interventions, and subjective symptom scoring. It is reasonable to consider psychological therapy if drug therapy has been ineffective."
+        },
+        {
+            "parent": 9,
+            "text": "The ACG does not recommend the routine use of complementary and alternative medicines for the treatment of functional dyspepsia but states that these alternatives can be considered for patients who are motivated. Iberogast, an herbal preparation containing extracts of bitter candytuft, matricaria flower, peppermint leaves, caraway, licorice root, and lemon balm, was statistically superior, but only marginally clinically superior, to placebo in one randomized trial.27A Cochrane review of seven low-quality studies of patients with functional dyspepsia evaluated acupuncture compared with medications or sham acupuncture and found no clear evidence of effectiveness.28A systematic review of 27 RCTs evaluated Si-Mo-Tang liquid, a Chinese herbal medicine, and found some symptomatic improvement but the studies were low quality with significant heterogeneity.29"
+        },
+        {
+            "parent": 9,
+            "text": "This article updates previous articles on this topic byLoyd and McClellan,11andDickerson and King.30"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:A PubMed search was completed using the key words functional dyspepsia, nonulcer dyspepsia treatment forH. pylori, and treatment for functional dyspepsia with prokinetics, PPI, and complementary and alternative medicine. Additional searches included the Cochrane database of systematic reviews, the Cochrane database of RCTs, Essential Evidence, Agency for Healthcare Research and Quality, Trip database, and the U.S. Preventive Services Task Force. The ACG functional dyspepsia guidelines were also reviewed. Search dates: February to April 2019, and October 2019."
+        }
+    ],
+    "locked": false
+}

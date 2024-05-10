@@ -1,0 +1,134 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0501/p731.html#afp20140501p731-f1",
+    "title": "Leukemia: An Overview for Primary Care | AAFP",
+    "author": "AMANDA S. DAVIS, MD, ANTHONY J. VIERA, MD, MPH, AND MONICA D. MEAD, MD",
+    "doi": "Am Fam Physician.2014;89(9):731-738",
+    "abstract": "Leukemia is a clonal proliferation of hematopoietic stem cells in the bone marrow. The four broad subtypes most likely to be encountered by primary care physicians are acute lymphoblastic, acute myelogenous, chronic lymphocytic, and chronic myelogenous. Acute lymphoblastic leukemia occurs more often in children, whereas the other subtypes are more common in adults. Risk factors include a genetic predisposition as well as environmental factors, such as exposure to ionizing radiation. Symptoms are nonspecific and include fever, fatigue, weight loss, bone pain, bruising, or bleeding. A complete blood count usually reveals leukocytosis and other abnormally elevated or depressed cell lines. Patients with suspected leukemia should be referred promptly to a hematologist-oncologist. The diagnosis is confirmed by further examination of the bone marrow or peripheral blood. Treatment may include chemotherapy, radiation, monoclonal antibodies, or hematopoietic stem cell transplantation. Complications of treatment include tumor lysis syndrome and serious infections from immunosuppression. Leukemia survivors should be monitored closely for secondary malignancies, cardiac complications, and endocrine disturbances such as metabolic syndrome, hypothyroidism, and hypogonadism. Five-year survival rates are highest in younger patients and in patients with chronic myelogenous leukemia or chronic lymphocytic leukemia.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "ACUTE LEUKEMIA",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "CHRONIC LEUKEMIA",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Laboratory Findings and Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ACUTE LEUKEMIA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CHRONIC LEUKEMIA",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Treatment Complications",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Prognosis and Long-Term Sequelae",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Leukemia is a common malignancy in children and adults that occurs when alterations in normal cell regulatory processes cause uncontrolled proliferation of hematopoietic stem cells in the bone marrow. The age-adjusted incidence rate of leukemia in the United States is 12.8 per 100,000 persons each year.1The prevalence of leukemia is generally higher in whites and in males, and increases with age.1Approximately one in 70 persons develops leukemia in his or her lifetime.1The four subtypes of leukemia most often encountered by primary care physicians are acute lymphoblastic, acute myelogenous, chronic lymphocytic, and chronic myelogenous. Family physicians should be able to recognize the common presentations of leukemia, perform the initial diagnostic evaluation, and understand how to care for leukemia survivors."
+        },
+        {
+            "parent": 0,
+            "text": "Several genetic syndromes, including Down syndrome and neurofibromatosis, are associated with an increased risk of childhood acute lymphoblastic leukemia and acute myelogenous leukemia.2Persons exposed to ionizing radiation, such as atomic bomb survivors, medical radiation workers before 1950, and patients with cancer who are receiving radiation treatment, have an increased risk of developing acute lymphoblastic leukemia, acute myelogenous leukemia, and chronic myelogenous leukemia.2,3Evidence from epidemiologic studies suggests that the amount of radiation from two or three computed tomography scans is associated with a statistically significant increase in the risk of cancer, including leukemia, with a greater risk in younger persons.4"
+        },
+        {
+            "parent": 0,
+            "text": "Occupational and environmental exposure to benzene (a chemical used in the manufacturing of paints and plastics, and released with the combustion of petroleum and coal) is an established risk factor for leukemia in adults, particularly acute myelogenous leukemia.5,6Household pesticide exposure in utero and in the first three years of life has been associated with an increased risk of childhood acute lymphoblastic leukemia.6Obesity may also increase the risk. Aggregate data from a meta-analysis of cohort studies suggest that an increase of 5 kg per m2in body mass index is associated with a 13% relative increase in the risk of leukemia.7A history of hematologic malignancy is also a risk factor for developing a different subtype of leukemia later in life.8"
+        },
+        {
+            "parent": 2,
+            "text": "Children. According to three retrospective case reviews of childhood leukemia (in which 75% to 100% of the cases were acute lymphoblastic leukemia), common presenting signs and symptoms include fever (17% to 77%), lethargy (12% to 39%), and bleeding (10% to 45%).9–11About one-third of children had musculoskeletal symptoms, particularly in the spine and long bones,9–1175% had an enlarged liver or spleen, and nearly 60% had lymphadenopathy.9,10Central nervous system involvement is present in approximately 7% of children at diagnosis.10"
+        },
+        {
+            "parent": 2,
+            "text": "Adults. Acute myelogenous leukemia accounts for 80% of acute leukemia in adults.12Adults also present with constitutional symptoms such as fever, fatigue, and weight loss. They may have anemia-related symptoms, such as shortness of breath or chest pain, or symptoms related to thrombocytopenia, such as excessive bruising, nosebleeds, or heavy menstrual periods in women. Adults are less likely to present with bone pain. Hepatosplenomegaly and lymphadenopathy are rare in adults with acute myelogenous leukemia, but are present in about 50% of adults with acute lymphoblastic leukemia.12Central nervous system involvement occurs in approximately 5% to 8% of adults with acute lymphoblastic leukemia.12"
+        },
+        {
+            "parent": 3,
+            "text": "The chronic leukemia subtypes occur almost exclusively in adults. Patients with chronic leukemia may be asymptomatic at the time of diagnosis. Approximately 50% of patients with chronic lymphocytic leukemia and 20% of patients with chronic myelogenous leukemia receive the diagnosis incidentally when marked leukocytosis is found on a complete blood count obtained for an unrelated reason.13,14Constitutional symptoms are less common, occurring in 15% of patients with chronic lymphocytic leukemia and in approximately one-third of patients with chronic myelogenous leukemia.13,14Hepatosplenomegaly and lymphadenopathy are common physical examination findings in persons with chronic lymphocytic leukemia.14Splenomegaly is common in those with chronic myelogenous leukemia; in one large, retrospective review, 75% of patients had a palpable spleen.13Bleeding and bruising are less common presenting features in the chronic leukemia subtypes. Characteristics of the major subtypes of leukemia are listed inTable 1.1,9–18"
+        },
+        {
+            "parent": 4,
+            "text": "If leukemia is suspected, a complete blood count should be obtained. Marked leukocytosis, often greater than 100,000 white blood cells per μL (100.0 × 109per L), is the hallmark laboratory finding in chronic myelogenous leukemia and chronic lymphocytic leukemia. More than 96% of patients with chronic myelogenous leukemia have white blood cell counts greater than 20,000 per μL (20.0 × 109per L), compared with only 34% to 38% of patients with acute myelogenous leukemia or acute lymphoblastic leukemia.9,10,13Acute leukemia can also present with leukopenia, combined with anemia or thrombocytopenia. Other helpful initial laboratory tests include measurement of serum electrolyte and creatinine levels, liver function tests, and coagulation studies. If the patient appears ill or is febrile, the physician should evaluate for infection with urinalysis, urine culture, blood cultures, and chest radiography."
+        },
+        {
+            "parent": 4,
+            "text": "The next step in diagnosis involves a peripheral blood smear and usually a bone marrow specimen (an aspirate or core biopsy).Figure 1details the initial steps in the evaluation of possible leukemia.15–17"
+        },
+        {
+            "parent": 5,
+            "text": "Acute leukemia should be suspected when a peripheral blood smear or bone marrow specimen is overpopulated with blast cells (the earliest form of hematopoietic precursor cells). Classically, acute myelogenous leukemia is characterized by the presence of Auer rods on a peripheral smear. However, because Auer rods are not commonly detected, immunophenotyping by flow cytometry and cytogenetic testing are required to distinguish between acute leukemia subtypes such as acute myelogenous leukemia or acute lymphoblastic leukemia.15,16Table 2describes the current approaches to the laboratory diagnosis of the leukemia subtype."
+        },
+        {
+            "parent": 6,
+            "text": "The diagnosis of chronic lymphocytic leukemia is based on a clonal expansion of at least 5,000 B lymphocytes per μL (5.0 × 109per L) in the peripheral blood, confirmed by immunophenotyping. A bone marrow specimen is not required for diagnosis of chronic lymphocytic leukemia, but can be obtained to determine the extent of marrow involvement for prognosis.17The diagnosis of chronic myelogenous leukemia requires cytogenetic or molecular testing of the bone marrow or peripheral blood for a specific abnormality called the Philadelphia chromosome, or theBCR-ABL1fusion gene.16In chronic myelogenous leukemia, a reciprocal translocation between chromosomes 9 and 22 results in the formation of theBCR-ABL1fusion gene that disrupts the normal cell regulatory processes in the bone marrow. The shortened chromosome 22 (Philadelphia chromosome) is found in 95% of patients with chronic myelogenous leukemia.19The remaining 5% of patients have a different chromosomal rearrangement, but still form the abnormalBCR-ABL1fusion gene."
+        },
+        {
+            "parent": 7,
+            "text": "A patient with suspected leukemia should be referred to a hematologist-oncologist to confirm the diagnosis and initiate treatment. Treatment for acute leukemia may include chemotherapy, radiation, monoclonal antibodies, or hematopoietic stem cell transplantation. The type of treatment depends on the leukemia subtype, cytogenetic and molecular findings, patient age, and comorbid conditions."
+        },
+        {
+            "parent": 7,
+            "text": "Early-stage chronic lymphocytic leukemia (i.e., no anemia or thrombocytopenia and less than three areas of nodal involvement) can be monitored without treatment. Active-stage disease is defined as worsening thrombocytosis, thrombocytopenia, or anemia; progressive lymphadenopathy or splenomegaly; or the presence of constitutional symptoms.17"
+        },
+        {
+            "parent": 7,
+            "text": "The discovery of tyrosine kinase inhibitors revolutionized the treatment of chronic myelogenous leukemia. The abnormal fusion gene created by the translocation of chromosomes 9 and 22 codes for tyrosine kinase, an enzyme that activates signal transduction cascades that cause uncontrolled cellular proliferation. This targeted approach of inhibiting the tyrosine kinase enzyme is not curative but can maintain long-term control of the disease without the adverse effects of chemotherapy. Curative treatment consists of hematopoietic stem cell transplantation, which is usually reserved for younger patients or when the disease does not respond to tyrosine kinase inhibitors.20"
+        },
+        {
+            "parent": 8,
+            "text": "Tumor lysis syndrome occurs as a result of chemotherapy (or rarely, spontaneously) when widespread cellular destruction releases intracellular contents into the bloodstream. The result is high potassium, phosphorus, uric acid, and blood urea nitrogen levels. Treatment is aimed at preventing renal failure, and includes aggressive intravenous fluid administration plus allopurinol (Zyloprim) or rasburicase (Elitek), a recombinant urate oxidase that breaks down uric acid.21"
+        },
+        {
+            "parent": 8,
+            "text": "Immunosuppression from chemotherapy, hematopoietic stem cell transplantation, or the leukemia itself may increase the risk of serious infections. In patients with leukemia, fever with neutropenia (fewer than 500 neutrophils per μL [0.5 × 109per L]) should prompt an evaluation for infection source and the initiation of empiric broad-spectrum antibiotic therapy, such as imipenem/cilastatin (Primaxin), meropenem (Merrem), piperacillin/tazobactam (Zosyn), or cefepime.22"
+        },
+        {
+            "parent": 9,
+            "text": "Prognosis depends on factors such as age, comorbid disease, leukemia subtype, and cytogenetic and molecular characteristics(Table 11,9–18). Survivors of leukemia have an increased risk of subsequent cancers, likely because of the cellular damage caused by chemotherapy or radiation. In the Childhood Cancer Survivor Study (a cohort of more than 17,000 childhood cancer survivors in North America treated between 1970 and 1986), the 30-year cumulative incidence of neoplasm after leukemia was 5.6%, and the median time to occurrence of the subsequent cancer was nine years.23The most common second neoplasms in childhood leukemia survivors are different subtypes of leukemia, or lymphoma. Other second neoplasms include bone, soft tissue, or central nervous system tumors. Guidelines recommend age- and sex-specific cancer screening, routine complete blood count to monitor for relapse or occurrence of a subsequent hematologic malignancy, and a low threshold for brain imaging for neurologic symptoms in patients who have received cranial or craniospinal irradiation.8,24,25"
+        },
+        {
+            "parent": 9,
+            "text": "Childhood survivors of leukemia are at increased risk of osteonecrosis of joints such as the hip, shoulder, and knee. Adolescent survivors of acute lymphoblastic leukemia are at highest risk, with a 20-year cumulative incidence of 2.8%.26Guidelines recommend bone density testing one year after hematopoietic stem cell transplantation.27Treatment with certain chemotherapeutic agents or radiation can affect cardiac function, including ejection fraction and electrical conduction of the heart. For example, 20 to 30 years after treatment with anthracyclines (e.g., daunorubicin, doxorubicin [Adriamycin]), 5% to 10% of patients develop congestive heart failure.8Guidelines recommend periodic cardiac evaluation in leukemia survivors.28,29Endocrine abnormalities are also common after leukemia treatment, including metabolic syndrome, thyroid function abnormalities, and gonadal failure. Monitoring and treatment for these and other complications are summarized inTable 3.24,25,27–30"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources: We searched PubMed using the key word leukemia. We also performed a search in Essential Evidence Plus. We accessed the National Cancer Institute's Surveillance Epidemiology and End Results Program online database of cancer statistics, and the National Comprehensive Cancer Network database. Search dates: September and December 2011, January 2012, and January 2014."
+        }
+    ],
+    "locked": false
+}

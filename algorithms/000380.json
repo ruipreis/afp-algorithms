@@ -1,0 +1,201 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0415/p543.html#afp20130415p543-f1",
+    "title": "Diagnosis of Urinary Incontinence | AAFP",
+    "author": "CHRISTINE KHANDELWAL, DO, AND CHRISTINE KISTLER, MD, MASc",
+    "doi": "Am Fam Physician.2013;87(8):543-550",
+    "abstract": "Urinary incontinence is common, increases in prevalence with age, and affects quality of life for men and women. The initial evaluation occurs in the family physician's office and generally does not require urologic or gynecologic evaluation. The basic workup is aimed at identifying possible reversible causes. If no reversible cause is identified, then the incontinence is considered chronic. The next step is to determine the type of incontinence (urge, stress, overflow, mixed, or functional) and the urgency with which it should be treated. These determinations are made using a patient questionnaire, such as the 3 Incontinence Questions, an assessment of other medical problems that may contribute to incontinence, a discussion of the effect of symptoms on the patient's quality of life, a review of the patient's completed voiding diary, a physical examination, and, if stress incontinence is suspected, a cough stress test. Other components of the evaluation include laboratory tests and measurement of postvoid residual urine volume. If the type of urinary incontinence is still not clear, or if red flags such as hematuria, obstructive symptoms, or recurrent urinary tract infections are present, referral to a urologist or urogynecologist should be considered.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Classification",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Transient Urinary Incontinence",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Chronic Urinary Incontinence",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "PATIENT QUESTIONNAIRES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ASSESSMENT OF MEDICAL PROBLEMS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ASSESSMENT OF QUALITY OF LIFE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "VOIDING DIARY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "COUGH STRESS TEST",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "POSTVOID RESIDUAL URINE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Referral for Further Evaluation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Urinary incontinence affects millions of persons, and the prevalence increases with age. Roughly 20 million American women and 6 million American men experience urinary incontinence at some time in their lives.1"
+        },
+        {
+            "parent": -1,
+            "text": "Although women report incontinence more often than men,2,3after 80 years of age, both sexes are affected equally.3Women commonly experience stress or urge incontinence (i.e., overactive bladder), or a combination of the two, with approximately equal frequency.4In men, prostate problems, which lead to overflow incontinence, and their treatments, which lead to stress incontinence, are the most common causes.5"
+        },
+        {
+            "parent": -1,
+            "text": "Despite what many patients believe, urinary incontinence is not a normal result of aging. It is a pathologic condition that affects quality of life. Patients who have incontinence are more likely to have depression, limited social and sexual function, and dependence on caregivers.3,6,7Guidelines for diagnosis and treatment of urinary incontinence were published in 2012 by the American Urological Association.8This article reviews the diagnosis; a separate article in an upcoming issue ofAFPreviews management options in women."
+        },
+        {
+            "parent": 0,
+            "text": "Incontinence can be classified as transient or chronic.5,9Transient incontinence is urinary leaking that spontaneously reverses after the underlying cause is resolved.10Chronic urinary incontinence does not typically resolve spontaneously, and is classified into five types: stress, urge, mixed, overflow, or functional.2,11Characteristics of each type are shown inTable 1.9,12–14"
+        },
+        {
+            "parent": 0,
+            "text": "Stress incontinence is caused by sphincter weakness, which leads to ineffective function. It is the most common cause of urinary incontinence in younger women and the second most common cause in older women.15It also occurs in men after prostate surgery. Urge incontinence is a result of detrusor overactivity, and can be further divided into two subtypes: sensory (a result of local irritation, inflammation, or infection within the bladder) or neurologic (most often caused by loss of cerebral inhibition of detrusor contractions).12Aging increases the prevalence of urge and stress incontinence, and the two often coexist, leading to mixed incontinence. This occurs in about one-third of adults who have incontinence.9,15"
+        },
+        {
+            "parent": 0,
+            "text": "Overflow incontinence is caused by impaired detrusor contractility, bladder outlet obstruction, or both, resulting in overdistension of the bladder.2,5Chronic overflow incontinence is common in men because of prostatic hyperplasia, but it is uncommon in women.15Functional incontinence is caused by cognitive, functional, or mobility difficulties that impair patients' ability to use the toilet, but without a failure of bladder function or neurologic control of urination.2,16This type of incontinence is also referred to as toileting difficulty.16"
+        },
+        {
+            "parent": 1,
+            "text": "Patients can be evaluated for urinary incontinence in a family physician's office. Although most incontinence research excludes men and children, a standardized approach is recommended for guiding the initial evaluation.17An algorithm for the diagnosis of urinary incontinence is shown inFigure 1."
+        },
+        {
+            "parent": 1,
+            "text": "The patient history is often the most important factor in identifying the type, severity, and burden of incontinence for patients.6Generally, more than one office visit is required to perform the physical examination and necessary tests.11"
+        },
+        {
+            "parent": 2,
+            "text": "The first step in the evaluation is to identify transient or reversible causes of urinary incontinence.10,11,13Reversible incontinence usually has a sudden onset and has been present for less than six weeks at the time of evaluation.18The mnemonic DIAPPERS is useful for recalling the common reversible causes of urinary incontinence(Table 2).19"
+        },
+        {
+            "parent": 2,
+            "text": "Physicians should take note of patients' medications, especially those started recently. Medication-induced incontinence often can be reversed by stopping the medication.Table 3lists the most important medications to consider.6,13Certain drugs (e.g., diuretics, alcohol) have no pharmacologic action on the lower urinary tract, but may contribute to incontinence by increasing urine production or impairing nervous system function.9,11"
+        },
+        {
+            "parent": 2,
+            "text": "If the incontinence is determined to be related to an acute condition, correcting the transient causes may resolve the symptoms.10,13However, if symptoms persist, further evaluation is needed."
+        },
+        {
+            "parent": 4,
+            "text": "Several questionnaires are available to determine which type of chronic urinary incontinence is present.2The 3 Incontinence Questions is a reliable questionnaire available free of charge(Figure 2).20It asks three multiple choice questions about if, when, and how often patients experience urine leakage. This questionnaire has been validated in studies that show it to be reasonably accurate in categorizing urinary incontinence in middle-aged to older women.20It has a sensitivity of 0.86 and 0.75, and a specificity of 0.60 and 0.77, for classifying stress and urge incontinence, respectively.20"
+        },
+        {
+            "parent": 5,
+            "text": "The patient history should include an assessment of other medical conditions and symptoms, with their temporal relationship to urinary incontinence.15For example, a history of bowel, back, gynecologic, or bladder surgery could affect the anatomy and innervation of the lower urinary tract, leading to incontinence.6,15Gynecologic history can assess estrogen status; estrogen deficiency may result in atrophic vaginitis or atrophic urethritis, a potentially reversible cause of urinary incontinence.6"
+        },
+        {
+            "parent": 5,
+            "text": "Physicians should also inquire about other comorbidities, such as chronic obstructive pulmonary disease (chronic cough can result in stress incontinence); cardiovascular disease (volume status or diuretic therapy can increase urine flow and cause incontinence in patients with an overactive bladder); neurologic conditions (central nervous system dysfunction can impair inhibition of detrusor contractions, or lead to denervation of the detrusor muscle with resultant retention and overflow incontinence); and musculoskeletal conditions (impaired mobility can cause functional incontinence). Treating these conditions may not eliminate incontinence, but it may lessen the severity.2,9,15"
+        },
+        {
+            "parent": 6,
+            "text": "The severity of symptoms and their effect on quality of life determines the aggressiveness of treatment.6,15Patients should be asked about the effects of incontinence on work, activities of daily living, sleep, sexual activity, social interactions, interpersonal relationships, and general perception of health and quality of life.6,15"
+        },
+        {
+            "parent": 6,
+            "text": "Identifying the most bothersome symptom will help direct management. For example, one patient may be most concerned about managing nocturia (often caused by urge incontinence), whereas another patient may be most concerned about incontinence that occurs during exercise (typically caused by stress incontinence)."
+        },
+        {
+            "parent": 7,
+            "text": "Because many patients provide an unclear voiding history, a voiding diary can be helpful(eFigure A). The simplest voiding diaries ask patients to record the frequency of incontinence episodes, but diaries also can be used to assess the situations in which incontinence occurs, which can help clarify the type of incontinence. For example, the diary may reveal leakage during times of increased abdominal pressure, suggestive of stress incontinence, or dribbling that is indicative of overflow incontinence.21Patients with stress incontinence usually wake once or not at all at night to void; patients with urge incontinence usually wake more than twice and as often as every hour.21,22"
+        },
+        {
+            "parent": 7,
+            "text": "A voiding diary can also serve as a baseline for comparing the severity of incontinence after treatment, thereby assessing the effectiveness of management.23,24A three-day diary is as informative as a longer-term assessment, has good reliability, and may be more feasible than longer diaries in routine clinical settings.25–27"
+        },
+        {
+            "parent": 7,
+            "text": "More sophisticated diaries, such as a frequency-volume voiding diary for assessing bladder activity, can also be used.10,24A frequency-volume voiding diary requires recording the amount of fluid intake, the volume of urine voided (in mL) of each continent episode (using a measuring cup or plastic hat placed below the toilet seat), and an estimation of the volume of each incontinent episode.28This approach can reliably discriminate between urge and stress incontinence. Urge incontinence typically involves a large volume of urine loss, whereas stress incontinence is often a smaller volume and is associated with increased abdominal pressure.29,30A frequency-voiding diary can reveal whether the patient is experiencing frequent large volume voids, which are typically associated with conditions causing polyuria (e.g., excess fluid intake, diabetes mellitus)."
+        },
+        {
+            "parent": 8,
+            "text": "The physical examination can identify anatomic abnormalities or transient causes that may not have been considered after applying the DIAPPERS mnemonic. Findings associated with incontinence are listed inTable 4.6,11,16In particular, the cardiovascular examination should look for evidence of volume overload (e.g., rales, pedal edema) that might result in increased urine flow, which aggravates urge incontinence. The abdomen should be palpated for masses and tenderness, and the bladder percussed for distention that would indicate overflow.11,17The extremities should be examined for joint mobility and function (impairment of which might indicate functional incontinence), and peripheral edema that might indicate volume overload."
+        },
+        {
+            "parent": 8,
+            "text": "In men, a prostate examination should be included to identify prostate enlargement, which may contribute to an outlet obstruction.14,15In women, an external gynecologic examination can assess for atrophic vaginitis or other vulvar signs of irritation caused by incontinence.14,31Estrogen deficiency may predispose women to urinary frequency, urgency, or both, and can cause or exaggerate sensory urge incontinence.6,31Pelvic organ prolapse (with cystocele, urethral polyps, or rectocele) may not lead to incontinence, but it often accompanies atrophic vaginitis.6,14,17,31A rectal examination is important to assess for fecal impaction, which can exert pressure on the urethra, impair bladder emptying, and precipitate overflow incontinence caused by retention.10,11In select patients, primarily older adults, a cognitive and functional assessment should be included to evaluate for functional incontinence.3,11,16"
+        },
+        {
+            "parent": 9,
+            "text": "If stress incontinence is suspected, the cough stress test is the most reliable clinical assessment for confirming the diagnosis.2,28,32When compared with more sophisticated multichannel urodynamic studies, the cough stress test demonstrates good sensitivity and specificity for stress incontinence,32–34although it requires further confirmatory urodynamic evaluation if the results are inconclusive.35"
+        },
+        {
+            "parent": 9,
+            "text": "With a full bladder (although not to the point of abrupt urination), the patient should be in the lithotomy position. Women should separate the labia.13,35The patient should relax the pelvic muscles and forcibly cough once.13If the test is initially performed supine and no leakage is observed, the test should be repeated in the standing position. The patient stands while wearing a pad or with his or her legs shoulder-width apart over a cloth or paper sheet on the floor to see the leakage. If urine leaks with the onset of the cough and terminates with its cessation, the test is positive for stress incontinence.35"
+        },
+        {
+            "parent": 9,
+            "text": "A negative test shows no leak or a delayed leak by five to 15 seconds, and rules out most cases of stress incontinence.36False-negative results may occur if a patient's bladder is empty, if the cough is not forceful enough, if the pelvic floor muscles contract to override urethral sphincter incompetence, or if severe prolapse masks the leakage.35,36Furthermore, a delayed leak may suggest a bladder spasm triggered by the cough, and not a weakness of the sphincter. This indicates possible urge incontinence13"
+        },
+        {
+            "parent": 10,
+            "text": "Laboratory tests should include a serum creatinine level, which may be elevated if there is urinary retention (overflow bladder) caused by bladder outlet obstruction or denervation of the detrusor. If not already performed to exclude acute urinary tract infection as a cause of reversible incontinence, a urinalysis should be obtained to rule out hematuria, proteinuria, and glycosuria, any of which require a diagnostic workup.6"
+        },
+        {
+            "parent": 11,
+            "text": "A measurement of postvoid residual (PVR) urine is recommended to diagnose overflow incontinence.10Although overflow incontinence is present in only a minority of patients with incontinence, it is important to exclude this diagnosis because chronic failure of bladder emptying can lead to hydronephrosis and irreversibly impaired renal function. Overflow is more common in older persons, but it can also occur in young adults as a manifestation of neurologic disorders, such as multiple sclerosis. Expert opinion recommends that PVR urine always be measured in patients who may have overflow incontinence, and some experts recommend measuring PVR urine when another cause is not obvious.5,15"
+        },
+        {
+            "parent": 11,
+            "text": "To measure PVR urine, the patient empties the bladder, and then the amount of urine remaining in the bladder is measured. This can be performed with a handheld ultrasound unit, which is the preferred method if available. The alternative is in-and-out urethral catheterization.28In-and-out catheterization requires training to decrease the risk of infection and urethral trauma, which is important in men with significant prostate enlargement.11If PVR urine cannot be measured in the office setting and if overflow incontinence is strongly suspected, further urodynamic evaluation is warranted.10,12"
+        },
+        {
+            "parent": 11,
+            "text": "A PVR urine measurement less than 50 mL is negative for overflow; 100 to 200 mL is considered indeterminate (and the measurement should be repeated on another occasion); and greater than 200 mL is suggestive of over-flow as a main contributing factor of incontinence.6"
+        },
+        {
+            "parent": 12,
+            "text": "If the cause of urinary incontinence is unclear after the assessment, referral to a urologist or urogynecologist is recommended(Table 518,36). Patients with typical stress or urge incontinence usually do not have any of the red flags of hematuria, obstructive symptoms (straining to void or sensation of incomplete bladder emptying), or recurrent urinary tract infections. If any of these are present, further evaluation is recommended.36"
+        },
+        {
+            "parent": 12,
+            "text": "Routine referral for urodynamic testing is not recommended, even if a patient is a candidate for surgical treatment of stress incontinence. Studies show that routine preoperative urodynamic testing in patients who have uncomplicated stress incontinence does not result in better surgical outcomes.37"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:A literature search for scientific evidence supporting evaluation of urinary incontinence was performed in PubMed Clinical Queries using the key terms diagnosis, physical examination, urinary incontinence, and causes. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. We also searched the Agency for Healthcare Research and Quality evidence reports, Clinical Evidence, the Cochrane database, Essential Evidence Plus, and the National Guideline Clearinghouse database. Search date: June 6, 2012."
+        }
+    ],
+    "locked": false
+}

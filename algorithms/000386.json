@@ -1,0 +1,178 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0215/p254.html#afp20130215p254-f1",
+    "title": "Evaluation of Fever in Infants and Young Children | AAFP",
+    "author": "JENNIFER L. HAMILTON, MD, PhD, FAAFP, AND SONY P. JOHN, MD",
+    "doi": "Am Fam Physician.2013;87(4):254-260",
+    "abstract": "Febrile illness in children younger than 36 months is common and has potentially serious consequences. With the widespread use of immunizations againstStreptococcus pneumoniaeandHaemophilus influenzaetype b, the epidemiology of bacterial infections causing fever has changed. Although an extensive diagnostic evaluation is still recommended for neonates, lumbar puncture and chest radiography are no longer recommended for older children with fever but no other indications. With an increase in the incidence of urinary tract infections in children, urine testing is important in those with unexplained fever. Signs of a serious bacterial infection include cyanosis, poor peripheral circulation, petechial rash, and inconsolability. Parental and physician concern have also been validated as indications of serious illness. Rapid testing for influenza and other viruses may help reduce the need for more invasive studies. Hospitalization and antibiotics are encouraged for infants and young children who are thought to have a serious bacterial infection. Suggested empiric antibiotics include ampicillin and gentamicin for neonates; ceftriaxone and cefotaxime for young infants; and cefixime, amoxicillin, or azithromycin for older infants.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinically Significant Fever",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Age Stratification",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Laboratory Testing and Imaging",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "URINALYSIS AND URINE CULTURE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "BLOOD CELL COUNTS AND BLOOD CULTURE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "STOOL TESTING",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "INFLAMMATORY MARKERS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "LUMBAR PUNCTURE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "HERPES SIMPLEX VIRAL TESTING",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "RAPID VIRAL TESTING",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Management Strategies",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The evaluation of febrile children younger than 36 months has long presented the challenge for physicians of ensuring that children with serious bacterial infection are appropriately identified and treated, while minimizing the risks associated with invasive testing, hospitalization, and antibiotic treatment. The epidemiology of febrile illness in children has changed dramatically with the introduction of several vaccines targeted at this age group, and with the use of antibiotic prophylaxis during childbirth. Because of this, earlier guidelines have been questioned.1–3This article focuses on previously healthy febrile children younger than 36 months. Those with significant preexisting conditions (e.g., prematurity, immune compromise) should be evaluated on a case-by-case basis."
+        },
+        {
+            "parent": 0,
+            "text": "Studies of infants and young children presenting with fever have documented a dramatic reduction in the incidence ofStreptococcus pneumoniaeandHaemophilus influenzaetype b (Hib) infections following the widespread use of immunizations against these organisms. Rates of invasive Hib infection, including meningitis, in children five years and younger have fallen by more than 99 percent since the 1990s.4Invasive pneumococcal infection in children declined by 77 percent from 1998 to 2005,5and is expected to decline further with the use of the pneumococcal 13-valent conjugate vaccine (Prevnar 13).5Rates of invasive Hib andS. pneumoniaeinfections have also decreased in non- or partially vaccinated children,6perhaps because of herd immunity."
+        },
+        {
+            "parent": 0,
+            "text": "Urinary tract infections (UTIs) are the most common source of serious bacterial infection in children younger than three months, commonly fromEscherichia coliorKlebsiellaspecies.7–11A case series found that pneumonia is the most common serious bacterial infection in children three to 36 months of age, followed by UTI.12A large study found that the rate of hospitalization for UTI, including pyelonephritis and urosepsis, in children younger than 12 months has notably increased.13This increase coincides with an increase inE. coliand other infections that are resistant to penicillin and ampicillin.9,14The cause for this shift in infection and resistance patterns is not clear."
+        },
+        {
+            "parent": 1,
+            "text": "A clinically significant fever in children younger than 36 months is a rectal temperature of at least 100.4°F (38°C). Axillary, tympanic, and temporal artery measurements have been shown to be unreliable.15–18Neonates whose parents report a clinically significant fever may have a serious bacterial infection, even if they do not have a fever at the time of their initial medical evaluation.19"
+        },
+        {
+            "parent": 2,
+            "text": "Traditionally, guidelines for the management of fever in children have been based on age groups: neonates (younger than 30 days2or 28 days7,20); young infants (up to two months21–23or three months11,20,24–26); and older infants and young children (up to 36 months). The precise boundaries delineating these groups are under review.27Evidence supporting the use of particular age ranges, especially in children not vaccinated according to the recommended schedule, is limited."
+        },
+        {
+            "parent": 3,
+            "text": "Initial history and physical examination in infants and young children with fever is directed at recognition of serious illness. Children known to be immunocompromised (e.g., those with cancer, asplenia, or human immunodeficiency virus infection) need more extensive evaluation and treatment. Conversely, findings that suggest a benign cause for fever, such as vaccination in the past 24 hours, are reassuring.10Teething is rarely associated with a fever of more than 100.4°F28; therefore, teething should not prevent a thorough examination in a young child with a fever."
+        },
+        {
+            "parent": 3,
+            "text": "A meta-analysis of febrile children older than one month has identified red flags associated with a high likelihood of serious infection(Table 1).29The study identified no findings with a negative likelihood ratio of less than 0.1, which would help distinguish children at low risk of serious infection."
+        },
+        {
+            "parent": 4,
+            "text": "History and physical examination cannot identify all children with serious bacterial infections; therefore, judicious use of imaging and laboratory testing is valuable."
+        },
+        {
+            "parent": 5,
+            "text": "Because UTI is a common cause of serious bacterial infection, urinalysis is a key factor in the evaluation of fever in infancy and early childhood. Although this test is often omitted because of the difficulty with obtaining a specimen, a clinically valid urine sample should be obtained for all children younger than 24 months with unexplained fever.30The sample may be obtained by catheterization or suprapubic aspiration. In children with voluntary urine control, a clean catch method (urination into a specimen container after cleaning the area around the urethra) may be used. Cultures of specimens collected in a urine bag may have an 85 percent false-positive rate,30and urine dipstick testing has a 12 percent false-negative rate.31All specimens should be sent for formal urinalysis and culture. UTI rates vary with patient sex and age. In the first three months of life, UTIs are more common in boys than in girls, and much more common in uncircumcised boys. After three months of age, UTIs are more common in girls.32"
+        },
+        {
+            "parent": 6,
+            "text": "White blood cell (WBC) counts and absolute neutrophil counts have been used to identify serious bacterial infection, including occult bacteremia. However, recent studies question their utility after early infancy.6,12,33,34Although various suggested cutoff values for these tests have high sensitivity and reasonably high specificity, the rarity of bacteremia in this population leads to a low positive predictive value (PPV). For example, the presence of an absolute neutrophil count of 15,000 per mm3(15 × 109per L) has a PPV of only 11 percent.6Blood cell counts have higher utility in neonates than in older children.8,22In a study of neonates up to 28 days of age, a WBC count lower than 5,000 per mm3(5 × 109per L) or more than 15,000 per mm3(15 × 109per L) had a PPV of 44 percent for serious bacterial infection, and an absolute neutrophil count of more than 10,000 per mm3(10 × 109per L) had a PPV of 71 percent.8"
+        },
+        {
+            "parent": 6,
+            "text": "Current guidelines recommend a complete blood count with differential and blood culture for infants three months or younger with fever.35,36However, some experts recommend a more selective approach in infants older than 28 days, limiting laboratory testing to those with clinical signs of serious infection.1,2"
+        },
+        {
+            "parent": 7,
+            "text": "In neonates and young infants, diarrhea with fever suggests a systemic illness, and therefore stool culture and fecal WBC counts are recommended.27,36,37There are few studies that suggest the need for stool testing in the absence of a localizing sign, such as diarrhea."
+        },
+        {
+            "parent": 8,
+            "text": "The clinical utility of C-reactive protein levels in recognizing serious infection in neonates, infants, and young children is being explored.7,8,11,38Initial studies indicate that a C-reactive protein level of 2 mg per dL (19 nmol per L) or greater has better sensitivity, specificity, and predictive value than a WBC count of greater than 15,000 per mm3or less than 5,000 per mm3.11A C-reactive protein cutoff value as high as 50 mg per dL (476.2 nmol per L) is also being investigated.39"
+        },
+        {
+            "parent": 8,
+            "text": "Elevated levels of procalcitonin, another marker of inflammation and bacterial infection, also appear to have better sensitivity, specificity, and predictive value than WBC counts.40The theoretical advantages of procalcitonin testing must be balanced against its higher cost, reduced availability, and delay in the availability of results.1Moreover, it is unclear whether procalcitonin test results affect clinical decisions to administer antibiotics or hospitalize febrile children.41"
+        },
+        {
+            "parent": 9,
+            "text": "The success of infant vaccination forS. pneumoniaeand Hib has greatly reduced the incidence of meningitis,4,5limiting the indications for lumbar puncture. The test is recommended for all febrile neonates,7,42and for infants and young children with clinical signs of meningitis, such as nuchal rigidity, petechiae, or abnormal neurologic findings.2,42"
+        },
+        {
+            "parent": 9,
+            "text": "Lumbar puncture is not recommended for children older than three months unless neurologic signs are present.2,42The indications for lumbar puncture in young infants (one to three months of age) are under examination. Research suggests that the test is not needed for all febrile infants in this age group,12,42but there is no consensus on appropriate indications.2,36,43Two guidelines suggest that a lumbar puncture may be omitted for well-appearing, previously healthy young infants with no focal signs of infection, a WBC count between 5,000 and 15,000 per mm3, and no pyuria or bacteriuria on urinalysis.35,43"
+        },
+        {
+            "parent": 9,
+            "text": "Although low peripheral WBC counts (less than 5,000 per mm3) are more often associated with meningitis than with bacteremia,44WBC counts should not be used alone to determine which infants need lumbar puncture. Use of a threshold WBC count of less than 5,000 per mm3would miss 2.1 cases of meningitis for each one detected, and a WBC count of more than 15,000 per mm3would miss 2.7 cases for each one detected.45"
+        },
+        {
+            "parent": 10,
+            "text": "Chest radiography may be performed in all neonates with unexplained fever, although supporting evidence is limited.46,47Chest radiography is also recommended for young children older than one month demonstrating respiratory symptoms,36and for those with a fever of more than 102.2°F (39°C) and a WBC count of more than 20,000 per mm3(20 × 109per L).47"
+        },
+        {
+            "parent": 11,
+            "text": "Although herpes simplex virus infection in neonates is uncommon (25 to 50 cases per 100,000 live births in the United States48,49), the prevalence of the infection in febrile neonates is similar to that of bacterial meningitis.48Risk factors include invasive monitoring during delivery,49seizures, cerebrospinal fluid pleocytosis, and the presence of lesions.27Birth by cesarean delivery is somewhat protective against transmission of herpes simplex virus.49Detection of herpes simplex virus DNA in cerebrospinal fluid via polymerase chain reaction is diagnostic.50Use of high-dose intravenous acyclovir, 60 mg per kg per day in three divided doses, has been shown to improve outcomes.51"
+        },
+        {
+            "parent": 12,
+            "text": "Rapid testing for influenza and other viruses is becoming increasingly available. Children who test positive for influenza are unlikely to have a coexistent serious bacterial infection,52,53although those who test positive for respiratory syncytial virus may still have a significant risk of UTI.3,54Initial studies evaluating the use of rapid viral testing for influenza during epidemics have suggested that patients who test positive for influenza do not need other, more invasive testing. In one case series, 40 percent of children younger than 36 months who presented to an emergency department with fever during times of generalized influenza epidemics (100 cases per 100,000 persons) were positive for influenza using rapid testing.52However, a Cochrane review concludes that not enough evidence exists to uniformly recommend rapid viral testing as part of an algorithmic approach to fever in children younger than 36 months.55"
+        },
+        {
+            "parent": 13,
+            "text": "Figure 1is an algorithm for the management of unexplained fever in children younger than 36 months.1,7–9,11,12,22,34,35,38,42,43,45,47,52,56In those receiving inpatient evaluation, empiric antibiotics are recommended after culture specimens have been obtained. The choice of antibiotic is dependent on local resistance patterns. The most common infectious organisms in neonates include group B streptococcus,E. coli,Listeria, andEnterococcus. Intravenous ampicillin and gentamicin are recommended for these infections in neonates.36,57Concerns aboutE. coliresistance to ampicillin have led some to also recommend a third-generation cephalosporin, such as cefotaxime (Claforan).9,14,36"
+        },
+        {
+            "parent": 13,
+            "text": "For most serious bacterial infections in young infants, parenteral ceftriaxone (Rocephin) is effective, although ampicillin may be added ifListeriaorEnterococcusis suspected.36In infants one month and older, cefixime (Suprax) or cefotaxime is recommended for UTI29; amoxicillin or azithromycin (Zithromax) may be used for pneumonia.36Table 2summarizes empiric antibiotic therapy for febrile patients younger than 36 months.27,30,36,57"
+        },
+        {
+            "parent": 13,
+            "text": "If close follow-up is available and there are no signs of serious illness, outpatient management with oral antibiotics may be considered in infants. In infants older than 28 days of age without signs of serious illness or localizing findings on physical examination or laboratory evaluation, outpatient monitoring with close follow-up may be considered in place of initial empiric treatment.26,27"
+        },
+        {
+            "parent": 13,
+            "text": "Data Sources:A literature search was conducted using Medline/Ovid, Cochrane, Essential Evidence Plus, and Web of Knowledge. Search terms included neonatal fever, childhood fever, bacterial illness children, bacterial infection children, axillary thermometer, temporal thermometer, and thermometer accuracy. We also identified articles in which the pre-Hib, pre-pneumococcal vaccine recommendations were originally published, as well as recent studies and reviews that cite these articles. Search dates: July 2011 and September 2011."
+        }
+    ],
+    "locked": false
+}

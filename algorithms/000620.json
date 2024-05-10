@@ -1,0 +1,262 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0615/p1873.html#afp20070615p1873-f1",
+    "title": "Cardiovascular Risk Reduction in Children | AAFP",
+    "author": "CARRIE ARMSTRONG",
+    "doi": "Am Fam Physician.2007;75(12):1873-1882",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Familial Hypercholesterolemia",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Homozygous FH",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Heterozygous FH",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Diabetes",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Chronic Kidney Disease",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Heart Transplant Recipients",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Kawasaki Disease",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "PATIENTS WITH ANEURYSMS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "PATIENTS WITH REGRESSED ANEURYSMS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "PATIENTS WITHOUT DETECTABLE ANEURYSMS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Chronic inflammatory disease",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "DYSLIPIDEMIA",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "HYPERTENSION",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "OBESITY",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "ELEVATED HOMOCYSTEINE LEVELS",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "Congenital Heart Disease",
+            "level": 2
+        },
+        {
+            "id": 18,
+            "name": "COARCTATION OF THE AORTA",
+            "level": 3
+        },
+        {
+            "id": 19,
+            "name": "AORTIC STENOSIS",
+            "level": 3
+        },
+        {
+            "id": 20,
+            "name": "HYPERTROPHIC CARDIOMYOPATHY",
+            "level": 3
+        },
+        {
+            "id": 21,
+            "name": "Cancer Survivors",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source: American Heart Association"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described? No"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used? No"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Circulation, December 12, 2006"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://circ.ahajournals.org/content/vol114/issue24/#AHA_SCIENTIFIC_STATEMENTS"
+        },
+        {
+            "parent": -1,
+            "text": "Although the atherosclerotic process begins in childhood, the disease is subclinical in most children, with progression mediated by identified risk factors. The degree of vascular involvement is usually minor, the rate of progression is slow, and the appropriate therapeutic approach is preventive, with an emphasis on healthy lifestyle choices and behavior modification. However, significantly accelerated atherosclerosis occurs in some childhood disease states, with clinical coronary events occurring in childhood and early adulthood. Data from studies examining the future risk of cardiovascular disease in children are limited; no randomized trials have documented the effects of risk reduction on clinical outcomes. However, a growing body of literature points to the significance of premature cardiovascular disease in certain childhood diagnoses and emphasizes the importance of risk reduction by disease stratification(Table 1)."
+        },
+        {
+            "parent": 0,
+            "text": "Familial hypercholesterolemia (FH) is an autosomal-dominant condition and is the most common monogenetic disorder in North America. Elevated levels of low- density lipoprotein (LDL) cholesterol contribute to accelerated atherosclerosis, with manifest cardiovascular disease within the first two decades of life for homozygotes and beginning in early to mid-adulthood for heterozygotes. Children with homozygous FH have more severe and earlier functional and structural vascular abnormalities, including coronary artery disease (CAD), aortic valve disease, and aortic disease. Because FH has important cardiovascular consequences beginning in childhood, diagnosis and management of this condition in children are essential."
+        },
+        {
+            "parent": 1,
+            "text": "Children with homozygous FH usually present within the first decade of life, most commonly after investigation of physical findings related to cholesterol deposition or with clinical manifestations of atherosclerotic cardio-vascular disease. Children and adolescents with heterozygous FH are asymptomatic, with no findings on physical examination related to their hypercholesterolemia. They often present with elevated LDL levels noted on blood screening or after investigation prompted by a family history of premature cardiovascular disease or hyperlipidemia. Homozygous FH can be clinically distinguished from heterozygous FH by the much more extreme elevations in LDL levels; the diagnosis can be confirmed by genetic characterization of the LDL receptor mutations (from leukocytes) or by quantification of LDL receptor activity (from skin fibroblasts)."
+        },
+        {
+            "parent": 3,
+            "text": "Complete cardiovascular assessment is necessary at diagnosis because subclinical cardiovascular disease may already be present. Homozygous FH requires that intensive LDL-lowering therapy be initiated as soon as possible. The cornerstone of therapy in most patients is weekly or biweekly plasmapheresis, preferably LDL apheresis. The use of high-dose statins in combination with a cholesterol absorption inhibitor is also recommended, and low-dose anticoagulation may be indicated. Continuous monitoring for cardiovascular disease is essential."
+        },
+        {
+            "parent": 4,
+            "text": "Routine cardiovascular assessment is not generally indicated in children with heterozygous FH. Therapy is aimed at reducing LDL levels. Although lifestyle interventions to reduce associated risk factors are an important adjunct to therapy, such interventions alone do not adequately reduce LDL levels. Lipid-lowering therapy should be considered in children with elevated LDL levels, but other factors such as sex, a family history of premature disease, additional risk factors, and the wishes of the family should be taken into account. If the decision is made to begin drug treatment, initial therapy with a statin is recommended in boys 10 years and older and in girls after the onset of menses. Statins may be initiated at a younger age in selected patients with extremely high LDL levels, associated lipid abnormalities or other risk factors, or a particularly worrisome family history. Bile acid–binding resins and cholesterol absorption inhibitors should be considered as adjunctive therapy."
+        },
+        {
+            "parent": 5,
+            "text": "Adolescents with type 1 diabetes have increased levels of subclinical atherosclerosis; hyperglycemia is the primary mediator. Microalbuminuria is a predictor of increased risk of vascular complications. Hyperglycemia and insulin resistance are implicated in endothelial dysfunction, to a greater degree in type 2 diabetes than in type 1. Patients with type 2 diabetes often have other risk factors for cardiovascular disease. The factors that predispose some persons to progress to type 2 diabetes are not well understood. Parental history is important in risk assessment, and in the future, genetic markers may help identify children of diabetic parents who are at greatest risk of diabetes. Children with type 2 diabetes are usually diagnosed after 10 years of age and are almost always obese, with an average body mass index (BMI) of up to 38 kg per m2."
+        },
+        {
+            "parent": 5,
+            "text": "The differences between type 1 and type 2 diabetes are significant: age at presentation for type 1 diabetes is younger, the degree of hyperglycemia in type 1 diabetes typically is severe, and patients are symptomatic. By contrast, type 2 diabetes diagnosed in childhood usually presents asymptomatically, with mild to moderate hyperglycemia in adolescence in combination with obesity, signs of insulin resistance, and other components of the metabolic syndrome. When type 2 diabetes begins in childhood, the risk of accelerated atherosclerosis is increased beyond that seen in those who develop type 2 diabetes as adults. Based on the recommendations given inFigure 1, patients with type 2 diabetes will almost always be managed as high risk because of associated comorbidities. Aggressive management of related risk factors improves outcomes and is recommended."
+        },
+        {
+            "parent": 6,
+            "text": "The mechanisms that lead to cardiovascular disease in patients with chronic kidney disease (CKD) originate primarily with vascular or myocardial injury, and perhaps from uremia itself. In children with CKD, subclinical manifestations of vascular disease have been reported, and subclinical evidence of atherosclerosis with intimal plaque may be present in children with end-stage renal disease."
+        },
+        {
+            "parent": 6,
+            "text": "Most risk factors for the development of cardiovascular disease are highly prevalent in patients with CKD. Hypertension is present in nearly one half of children with CKD and in more than one half of patients undergoing dialysis. Hypertension is even more common in renal transplant recipients. Up to 87 percent of children receiving peritoneal dialysis have elevated cholesterol levels, and in children with end-stage renal disease, triglyceride levels are consistently elevated (average triglyceride level greater than 150 mg per dL [1.70 mmol per L]), and high-density lipoprotein (HDL) cholesterol levels are reduced. Homocysteine levels also increase with worsening renal function, and C-reactive protein levels are elevated."
+        },
+        {
+            "parent": 6,
+            "text": "Recommendations are directed toward children with stage 5 CKD, children undergoing dialysis, and renal transplant recipients. The risk of cardiovascular disease can be reduced by modifying traditional cardiovascular risk factors and monitoring for end-organ injury. Chronic cardiovascular risk factor reduction, initiated early in the course of CKD, is an essential part of clinical management."
+        },
+        {
+            "parent": 7,
+            "text": "The histopathology of transplant CAD differs markedly from the typical atherosclerotic process. Some degree of coronary intimal thickening is present in almost every heart transplant recipient, beginning in the first year after the procedure. Angiographically, affected coronary vessels demonstrate diffuse concentric narrowing. With intravascular ultrasonography, the pathologic process is characterized by concentric intimal thickening. When stenosis is diagnosed in a patient with transplant CAD, surgical and catheter revascularization techniques may be initially successful; however, the restenosis rate is high, and the long-term outcome is poor. The only other option is retransplantation."
+        },
+        {
+            "parent": 7,
+            "text": "Although the disease process appears to be primarily mediated by chronic rejection, modification of traditional risk factors—particularly reduction in LDL cholesterol levels—has significantly affected the disease process in children and adults. Risk-factor identification and intensive modification are indicated soon after transplantation. Usual care includes initiation of lipid- lowering therapy with statins in the early posttransplantation period. Optimization of immunosuppression, improved compliance, and preemptive treatment of cytomegalovirus are critical factors in reducing transplant CAD. Specific screening with angiography for evidence of transplant CAD is recommended every six to 12 months, with optional intravascular coronary ultrasonography. Patients who develop any evidence of graft dysfunction should be screened for transplant CAD."
+        },
+        {
+            "parent": 8,
+            "text": "Kawasaki disease has surpassed acute rheumatic fever as the leading cause of acquired heart disease in children. Coronary artery aneurysms or ectasia develops in up to one out of four children with untreated disease; these conditions may lead to myocardial infarction, sudden death, or ischemic heart disease. Therapy in the acute phase is aimed at reducing inflammation in the coronary artery wall and preventing coronary thrombosis. Long-term management is guided by stratification of patients according to the severity of their CAD and the risk of myocardial ischemia."
+        },
+        {
+            "parent": 8,
+            "text": "Cardiovascular risk assessment and treatment in children with Kawasaki disease are based on the status of the coronary arteries: patients with persistent aneurysms are at high risk; patients with regressed aneurysms are at moderate risk; and patients with-out detected abnormalities are at risk. All patients should be encouraged to exercise as much as their coronary artery status allows. Prospective counseling and annual assessment of risk factors for atherosclerotic CAD are recommended."
+        },
+        {
+            "parent": 9,
+            "text": "The incidence of coronary stenosis secondary to myointimal proliferation increases with time since the onset of illness. The likelihood of progression to coronary artery stenosis is related to aneurysm size and is especially high among arterial segments with giant aneurysms (i.e., 8 mm or larger). Patients with persistent aneurysms have systemic inflammation years after the onset of disease."
+        },
+        {
+            "parent": 10,
+            "text": "Angiographic regression of aneurysms to normal lumen diameter occurs in approximately one half of vessels by two years after illness onset. The likelihood of resolution of an aneurysm is inversely related to its size. Regressed coronary artery aneurysms are histopathologically abnormal and have reduced vascular reactivity to isosorbide dinitrate and constriction with acetylcholine, which indicates endothelial dysfunction."
+        },
+        {
+            "parent": 10,
+            "text": "The coronary arteries may be predisposed to accelerated atherosclerosis in patients with Kawasaki disease and coronary artery lesions. A significant correlation has been found between the initial diameters of the coronary arteries and the degree of intimal-medial thickness more than 10 years later. Patients with persistent or regressed aneurysms have greater stiffness of the proximal and peripheral arterial beds, as well as higher arterial wave reflection. The carotid artery wall in patients with coronary artery lesions six to 20 years after illness onset is less distensible and thicker than that in control patients."
+        },
+        {
+            "parent": 11,
+            "text": "With careful clinical follow-up, patients with Kawasaki disease who do not have detectable coronary aneurysms have morbidity and mortality rates similar to those in the general population 10 to 20 years after the onset of disease. However, subclinical abnormalities of arterial function and myocardial flow reserve confer an increased risk of premature atherosclerosis. Patients with normal coronary arteries have higher brachial-radial artery mean pulse-wave velocity, which suggests increased arterial stiffness. Lower myocardial flow reserve and higher total coronary resistance have been found in children without coronary dilation after Kawasaki disease."
+        },
+        {
+            "parent": 12,
+            "text": "For a substantial proportion of children with chronic inflammatory disease, the process will persist into adulthood. The atherosclerotic process begins at an earlier age in these patients and progresses at an accelerated pace. An increased prevalence of cardiovascular disease is well documented in adults with chronic inflammatory disease, particularly in those with systemic lupus erythematosus (SLE) and rheumatoid arthritis. The atherosclerotic process is primarily mediated by chronic inflammation and immune dys-regulation, but traditional risk factors are prevalent. Rigorous risk-factor identification and treatment are indicated."
+        },
+        {
+            "parent": 13,
+            "text": "Lipid abnormalities have been identified in children and adults with SLE and rheumatoid arthritis. Typical findings vary with the disease state. During clinical flare-ups, the lipid profile pattern is typical of that seen in diverse inflammatory states, with elevated triglyceride and very-low-density lipoprotein levels and reduced HDL levels. Increased LDL susceptibility to oxidation has been reported in patients with chronic inflammatory disease in general and in children with SLE in particular. Statin therapy has been shown to have lipid-lowering and anti-inflammatory effects."
+        },
+        {
+            "parent": 14,
+            "text": "Hypertension is much more prevalent in patients who have SLE with renal involvement and in children; nephritis is present in as much as 80 percent of patients. The combination of renal involvement and hypertension predicts adverse outcomes in juvenile-onset SLE. In addition to hypertension-related renal disease, steroid and immunosuppressive therapies can be associated with hypertension. In SLE and rheumatoid arthritis, hypertension is strongly associated with increased BMI."
+        },
+        {
+            "parent": 15,
+            "text": "Obesity is a common complication of chronic inflammatory disease in adults and children, reflecting the inactivity imposed by the disease process and the effects of steroid treatment. BMI is higher in patients with SLE and rheumatoid arthritis who develop coronary disease. The role of obesity is exaggerated by its association with the metabolic syndrome."
+        },
+        {
+            "parent": 16,
+            "text": "Elevated levels of plasma homocysteine have been identified as a potential risk factor for atherosclerosis. Homocysteine levels are elevated in patients with rheumatoid arthritis and SLE, particularly in those receiving methotrexate (Rheumatrex). Oral administration of folic acid reduces homocysteine levels, but no reduction in atherosclerotic disease has been demonstrated."
+        },
+        {
+            "parent": 17,
+            "text": "Although the diagnosis of congenital heart disease includes rare and diverse disorders, some specific diagnoses are associated with an increased risk of premature atherosclerotic CAD. Congenital coronary anomalies may predispose children to coronary events relatively early in life. In addition, surgical repair of congenital heart defects may result in abnormalities of the coronary arteries. The clinical outcome of coronary artery defects depends on the anatomy of the lesion. Because children with congenital heart disease have other abnormalities that may make the heart more vulnerable to the development of atherosclerosis and the adverse sequelae of a cardiovascular event, aggressive evaluation of their cardiovascular disease risk status is prudent."
+        },
+        {
+            "parent": 18,
+            "text": "The pathophysiology for acquired cardiovascular disease associated with coarctation of the aorta is primarily related to systemic hypertension. Arterial abnormalities may persist after correction of the coarctation and result in long-term systemic hypertension and an increased risk of cardiovascular disease. Beyond hypertension, coarctation of the aorta is associated with other sequelae that lead to morbidity and mortality, which suggests a more widespread vascular abnormality. Aortic dissection in the ascending aorta or near the repair site may occur whether or not an aneurysm forms. Persistent hypertension, older age at repair, association with the bicuspid aortic valve, aortic atherosclerosis, and dilation of the aorta proximal to the repair site predispose patients to this risk."
+        },
+        {
+            "parent": 19,
+            "text": "Aortic stenosis can result in myocardial changes that predispose patients to cardiovascular disease. Significant aortic stenosis is associated with left ventricular hypertrophy, which is an independent risk factor for cardiovascular disease morbidity and mortality in adults. Even mild aortic stenosis during childhood can progress and may be associated with increased left ventricular mass and increased risk of cardiovascular disease over time. Supravalvular aortic stenosis may confer an additional increased cardiovascular risk because of its association with arterial stenoses. Coronary artery ostial stenoses can result directly in myocardial ischemia and exercise-induced syncope, and renal artery stenosis can lead to hypertension."
+        },
+        {
+            "parent": 20,
+            "text": "Hypertrophic cardiomyopathy is the most common genetically transmitted form of cardiovascular disease and is associated with an increased risk of sudden death in children. Sudden death is usually the result of a ventricular arrhythmia. Left ventricular hypertrophy is the major manifestation of hypertrophic cardiomyopathy, with a pathognomonic finding of cellular myocardial disarray. In addition, left ventricular outflow tract obstruction may exacerbate the development of hypertrophy."
+        },
+        {
+            "parent": 21,
+            "text": "Cancer survivors have increased cardiovascular risk because of the combination of reduced left ventricular mass and the high prevalence of risk factors for atherosclerosis. Childhood cancer survivors also have increased fasting plasma glucose and insulin levels, and type 2 diabetes is more common in childhood cancer survivors than among children in general. Regular evaluation of cardiac function and identification of risk factors for accelerated atherosclerosis are clearly indicated."
+        },
+        {
+            "parent": 21,
+            "text": "Obesity and the metabolic syndrome are common in survivors of childhood cancer, and the associated lipid pattern of elevated triglyceride levels and reduced HDL levels is often present. Reductions in cardiac output and cardiorespiratory fitness are prevalent in leukemia survivors, particularly those who are overweight and have signs of the metabolic syndrome. Although resting metabolic rate does not seem to be reduced in cancer survivors, growth hormone deficiency may explain the reported reductions in strength and exercise capacity."
+        },
+        {
+            "parent": 21,
+            "text": "Exercise may attenuate the effects of cachexia in cancer survivors by suppressing inflammatory responses and improving insulin sensitivity, rates of protein synthesis, and antioxidant activities. A decrease in cardiac output and a reduction in pulmonary elasticity with diminished aerobic capacity have been noted in leukemia survivors, limiting their participation in tasks that require sustained or vigorous activity."
+        }
+    ],
+    "locked": false
+}

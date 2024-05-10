@@ -1,0 +1,176 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0815/p260.html#afp20140815p260-f1",
+    "title": "ACC/AHA Release Updated Guideline on the Treatment of Blood Cholesterol to Reduce ASCVD Risk | AAFP",
+    "author": "MARA LAMBERT,AFPSenior Associate Editor",
+    "doi": "Am Fam Physician.2014;90(4):260-265",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "What Is New in the Guideline?",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "FOUR STATIN BENEFIT GROUPS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "NEW PERSPECTIVE ON GOALS FOR LDL-C AND/OR NON–HDL-C LEVELS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "GLOBAL RISK ASSESSMENT FOR PRIMARY PREVENTION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "SAFETY CONSIDERATIONS, BIOMARKERS, AND NONINVASIVE TESTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Statin Recommendations",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "TREATMENT TARGETS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "SECONDARY PREVENTION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PRIMARY PREVENTION IN PERSONS 21 YEARS OR OLDER WITH LDL-C LEVEL OF 190 MG PER DL OR GREATER",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "PRIMARY PREVENTION IN PERSONS WITH DIABETES AND LDL-C LEVEL OF 70 TO 189 MG PER DL",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "PRIMARY PREVENTION IN PERSONS WITHOUT DIABETES AND WITH LDL-C LEVEL OF 70 TO 189 MG PER DL",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "HEART FAILURE AND HEMODIALYSIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Key Points for Practice"
+        },
+        {
+            "parent": -1,
+            "text": "The guideline emphasizes that lifestyle modification remains a critical component of ASCVD reduction.Four groups most likely to benefit from statin therapy are identified:"
+        },
+        {
+            "parent": -1,
+            "text": "1. Patients with any form of clinical ASCVD2. Patients with primary LDL-C levels of 190 mg per dL or greater3. Patients with diabetes mellitus, 40 to 75 years of age, with LDL-C levels of 70 to 189 mg per dL4. Patients without diabetes, 40 to 75 years of age, with an estimated 10-year ASCVD risk ≥ 7.5%"
+        },
+        {
+            "parent": -1,
+            "text": "Risk assessment for 10-year and lifetime risk is recommended using an updated ASCVD risk calculator:http://my.americanheart.org/cvriskcalculator"
+        },
+        {
+            "parent": -1,
+            "text": "From theAFPEditors"
+        },
+        {
+            "parent": -1,
+            "text": "Decades of research have demonstrated an association between high levels of low-density lipoprotein cholesterol (LDL-C) and an increased risk of atherosclerotic cardiovascular disease (ASCVD), including coronary heart disease, stroke, and peripheral arterial disease. Randomized controlled trials (RCTs) have found that treating with statins reduces ASCVD events. Based on these data, the Blood Cholesterol Expert Panel from the American College of Cardiology (ACC) and the American Heart Association (AHA) issued an updated evidence-based guideline in 2013 that addresses the use of fixed doses of cholesterol-lowering drugs (statins) to reduce the risk of ASCVD in adults 21 years and older."
+        },
+        {
+            "parent": 1,
+            "text": "This updated guideline focuses on reducing the risk of ASCVD in four statin benefit groups: (1) persons with clinical ASCVD (i.e., acute coronary syndromes, or a history of myocardial infarction, stable or unstable angina, coronary or other arterial revascularization, stroke, transient ischemic attack, or peripheral arterial disease of atherosclerotic origin); (2) persons with primary elevations of LDL-C levels of 190 mg per dL (4.92 mmol per L) or greater; (3) persons with diabetes mellitus who are 40 to 75 years of age with LDL-C levels of 70 to 189 mg per dL (1.81 to 4.90 mmol per L) but without clinical ASCVD; and (4) persons without clinical ASCVD or diabetes who have LDL-C levels of 70 to 189 mg per dL and an estimated 10-year ASCVD risk of 7.5% or greater. The guideline identifies high- and moderate-intensity statin therapy for use in primary and secondary prevention(Table 1). Less evidence is available to support nonstatin therapy for ASCVD prevention."
+        },
+        {
+            "parent": 2,
+            "text": "The Expert Panel did not find evidence to support the use of specific LDL-C or non–high-density lipoprotein cholesterol (HDL-C) target levels. Although many clinicians use target levels (e.g., LDL-C levels less than 70 mg per dL for secondary prevention and less than 100 mg per dL [2.59 mmol per L] for primary prevention), evidence has shown that using the maximum tolerated statin intensity in persons who will benefit reduces ASCVD events. No RCTs were identified that titrated drug therapy to a specific target level to improve ASCVD outcomes. Using LDL-C targets could lead to under-treating with evidence-based statin therapy or overtreating with nonstatin drugs that have not been shown to reduce ASCVD events in RCTs."
+        },
+        {
+            "parent": 3,
+            "text": "The Pooled Cohort Equations are recommended to estimate the 10-year risk and lifetime risk of ASCVD in white and black adults, with the goal of identifying high-risk persons who will benefit from statin therapy. Before initiating statin therapy, physicians and patients should discuss potential benefits, adverse effects, drug-drug interactions, and patient preferences. The absolute risk reduction in ASCVD events associated with statin therapy can be estimated by multiplying the 10-year ASCVD risk by the anticipated relative risk reduction based on the intensity of the statin (roughly 30% for moderate intensity and 45% for high intensity). The net ASCVD risk-reduction benefit is approximately the number of potential ASCVD events prevented with statin therapy vs. the number of potential excess adverse effects."
+        },
+        {
+            "parent": 3,
+            "text": "The Expert Panel acknowledges that persons 70 years or older may have the greatest potential for risk reduction with statin use, even without other risk factors. For example, for persons in this age group, the estimated 10-year risk is 7.5% or greater, which is a risk threshold for which a reduction in ASCVD events has been demonstrated in RCTs. Although evidence supports continuing the use of statins beyond 75 years of age in those already tolerating the drugs, limited data were available to support the initiation of statins for primary prevention in patients older than 75 years without clinical ASCVD."
+        },
+        {
+            "parent": 4,
+            "text": "RCT results identified safety concerns in persons taking statins. To maximize safety in men and in women who are not pregnant or nursing, physicians should select the appropriate statin and dose based on patient characteristics, ASCVD risk level, and potential for adverse effects. Characteristics that predispose patients to adverse effects from statin therapy include, but are not limited to, the following: multiple or serious comorbidities, such as impaired renal or hepatic function; a history of previous statin intolerance or muscle disorders; unexplained elevated levels of alanine transaminase greater than three times the upper limit of normal; patient characteristics or concomitant use of medications that affect statin metabolism; and age older than 75 years. See Table 8 in the full guideline for additional safety recommendations."
+        },
+        {
+            "parent": 4,
+            "text": "For persons who do not fall into one of the four statin benefit groups, other factors may be considered when making treatment decisions, including a primary LDL-C level of 160 mg per dL (4.14 mmol per L) or greater, or other evidence of genetic hyperlipidemias; family history of premature ASCVD before 55 years of age in a first-degree male relative or before 65 years of age in a first-degree female relative; high-sensitivity C-reactive protein level of 2 mg per L (19.05 nmol per L) or greater; coronary artery calcium score of 300 Agatston units or greater, or being in the 75th percentile or greater for age, sex, and ethnicity; ankle-brachial index less than 0.9; or elevated lifetime risk of ASCVD."
+        },
+        {
+            "parent": 5,
+            "text": "The Expert Panel's treatment recommendations are divided into several major categories and are summarized inTable 2. An algorithm for determining appropriate statin therapy for patients who are candidates for treatment is presented ineFigure A. Specific classes of recommendation, levels of evidence, and their definitions are available in the full guideline."
+        },
+        {
+            "parent": 6,
+            "text": "There are no recommendations for or against specific target levels for LDL-C or non–HDL-C in the primary or secondary prevention of ASCVD."
+        },
+        {
+            "parent": 7,
+            "text": "In men and women up to 75 years of age who have clinical ASCVD, high-intensity statin therapy should be initiated unless contraindicated. For persons with clinical ASCVD in whom high-intensity statin therapy is contraindicated but would otherwise be used, or in persons with characteristics predisposing to statin-associated adverse effects, moderate-intensity statins should be the second option, if tolerated. When initiating moderate- or high-intensity statin therapy in persons older than 75 years who have clinical ASCVD, it is reasonable to evaluate for potential risk-reduction benefits, adverse effects, and drug-drug interactions. Patient preferences should also be considered. Continuation of statin therapy is reasonable in persons who tolerate it."
+        },
+        {
+            "parent": 8,
+            "text": "Persons who have LDL-C levels of 190 mg per dL or greater, or triglyceride levels of 500 mg per dL (5.65 mmol per L) or greater should be assessed for secondary causes of hyperlipidemia. Persons 21 years or older who have LDL-C levels of 190 mg per dL or greater should be treated with statin therapy. High-intensity statins should be used unless contraindicated. If high-intensity statins are not tolerated, the maximum tolerated intensity should be used. In persons with untreated LDL-C levels of 190 mg per dL or greater, statin therapy may be intensified to achieve a minimum 50% LDL-C reduction. When maximum intensity of statin therapy is reached, a nonstatin may be added to further reduce LDL-C levels. Potential benefits, adverse events, drug-drug interactions, and patient preferences should be considered."
+        },
+        {
+            "parent": 9,
+            "text": "Persons 40 to 75 years of age who have diabetes should start or continue moderate-intensity statin therapy. In those with 7.5% or greater estimated 10-year ASCVD risk, high-intensity statin therapy is reasonable, unless contraindicated. In persons younger than 40 years or older than 75 years, potential benefits, adverse events, drug-drug interactions, and patient preferences should be considered when deciding to initiate, continue, or intensify statin therapy."
+        },
+        {
+            "parent": 10,
+            "text": "The Pooled Cohort Equations should be used to estimate the 10-year ASCVD risk in persons without clinical ASCVD to guide initiation of statin therapy. In persons 40 to 75 years of age without clinical ASCVD or diabetes and with an estimated 10-year ASCVD risk of 7.5% or greater, moderate- to high-intensity statin therapy should be used. If the 10-year risk of ASCVD is 5% to less than 7.5%, treatment with a moderate-intensity statin is reasonable. Before initiating statin therapy, it is reasonable for clinicians and patients to engage in a discussion about the potential for ASCVD risk-reduction benefits, adverse events, drug-drug interactions, and patient preferences. Persons with LDL-C less than 190 mg per dL who do not fall into a statin benefit group or for whom risk-based treatment is uncertain, other factors may be used to inform treatment decision making. Statin therapy may be considered after evaluating for potential benefits, adverse events, drug-drug interactions, and patient preferences."
+        },
+        {
+            "parent": 11,
+            "text": "There are no recommendations on initiating or discontinuing statin therapy in patients with New York Heart Association class II through IV ischemic systolic heart failure or in patients on maintenance hemodialysis."
+        },
+        {
+            "parent": 11,
+            "text": "Guideline source: American College of Cardiology and American Heart Association"
+        },
+        {
+            "parent": 11,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": 11,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": 11,
+            "text": "Guideline developed by participants without relevant financial ties to industry?No"
+        },
+        {
+            "parent": 11,
+            "text": "Published source:Circulation, June 24, 2014"
+        },
+        {
+            "parent": 11,
+            "text": "Available at:http://circ.ahajournals.org/content/129/25_suppl_2/S1"
+        },
+        {
+            "parent": 11,
+            "text": "Endorsed with qualifications by the AAFP, June 2014:https://www.aafp.org/patient-care/clinical-recommendations/all/cholesterol.html"
+        }
+    ],
+    "locked": false
+}

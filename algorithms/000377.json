@@ -1,0 +1,161 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0501/p612.html#afp20130501p612-f3",
+    "title": "Diagnosis and Management of Acute Diverticulitis | AAFP",
+    "author": "THAD WILKINS, MD, KATHERINE EMBRY, MD, AND RUTH GEORGE, MD",
+    "doi": "Am Fam Physician.2013;87(9):612-620",
+    "abstract": "Uncomplicated diverticulitis is localized diverticular inflammation, whereas complicated diverticulitis is diverticular inflammation associated with an abscess, phlegmon, fistula, obstruction, bleeding, or perforation. Patients with acute diverticulitis may present with left lower quadrant pain, tenderness, abdominal distention, and fever. Other symptoms may include anorexia, constipation, nausea, diarrhea, and dysuria. Initial laboratory studies include a complete blood count, basic metabolic panel, urinalysis, and measurement of C-reactive protein. Computed tomography, the most commonly performed imaging test, is useful to establish the diagnosis and the extent and severity of disease, and to exclude complications in selected patients. Colonoscopy is recommended four to six weeks after resolution of symptoms for patients with complicated disease or for another indication, such as age-appropriate screening. In mild, uncomplicated diverticulitis, antibiotics do not accelerate recovery, or prevent complications or recurrences. Hospitalization should be considered if patients have signs of peritonitis or there is suspicion of complicated diverticulitis. Inpatient management includes intravenous fluid resuscitation and intravenous antibiotics. Patients with a localized abscess may be candidates for computed tomography–guided percutaneous drainage. Fifteen to 30 percent of patients admitted with acute diverticulitis require surgical intervention during that admission. Laparoscopic surgery results in a shorter length of stay, fewer complications, and lower in-hospital mortality compared with open colectomy. The decision to proceed to surgery in patients with recurrent diverticulitis should be individualized and based on patient preference, comorbidities, and lifestyle. Interventions to prevent recurrences of diverticulitis include increased intake of dietary fiber, exercise, cessation of smoking, and, in persons with a body mass index of 30 kg per m2or higher, weight loss.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Etiology and Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "LABORATORY STUDIES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "IMAGING STUDIES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "COLONOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "ANTIBIOTIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Complicated Diverticulitis",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "SURGICAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Recurrent Diverticulitis",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute diverticulitis is inflammation of the colonic diverticulum, which may involve perforation or microperforation(Figures 1and2). In Western societies, most diverticula (85 percent) are found in the sigmoid and descending colons; diverticula in the ascending colon are more common in Asian populations.1Uncomplicated diverticulitis is localized inflammation, and complicated diverticulitis is inflammation associated with an abscess, phlegmon, fistula, obstruction, bleeding, or perforation.2This article reviews acute diverticulitis in adults and excludes special populations, such as children and pregnant women."
+        },
+        {
+            "parent": 0,
+            "text": "Diverticulosis, defined as the presence of diverticula in the absence of inflammation, occurs in 5 to 10 percent of persons older than 45 years and approximately 80 percent of those older than 85 years.1In 1998, there were 2.2 million cases of acute diverticulitis in the United States, resulting in $2.4 billion in health care expenditures and approximately 3,400 deaths.3From 1998 to 2005, the annual age-adjusted admissions for diverticulitis increased by 26 percent, with the greatest increased rates of admissions occurring in persons 18 to 44 years of age (82 percent) and 45 to 74 years of age (36 percent).4In the United States, there is an increased incidence of admissions for acute diverticulitis in the summer months compared with other months, regardless of age, sex, race, or geographic region.5Of those who have diverticulosis, the lifetime prevalence of developing acute diverticulitis is approximately 25 percent.6"
+        },
+        {
+            "parent": 1,
+            "text": "Factors associated with diverticulosis include alterations in colonic wall resistance, colonic motility, and dietary issues, such as lack of fiber, that contribute to increased intraluminal pressure and weakness of the bowel wall.1Genetic susceptibility is an important component for the development of diverticular disease because monozygotic twins are twice as likely as dizygotic twins to develop diverticulosis.7Aspirin and nonsteroidal anti-inflammatory drugs increase the risk of diverticulitis (hazard ratio = 1.2 to 1.7).8Other risk factors for diverticulitis include increasing age, obesity, and lack of exercise.1"
+        },
+        {
+            "parent": 2,
+            "text": "Symptom severity, signs of peritonitis, and the patient's ability to tolerate oral intake guide diagnostic testing and clinical management. The differential diagnosis includes mechanical and inflammatory disorders of the gastrointestinal tract, urologic and gynecologic disorders, functional disorders, and malignancy(Table 1)."
+        },
+        {
+            "parent": 3,
+            "text": "Patients often present with acute, constant abdominal pain that is usually in the left lower quadrant.1,9Other possible symptoms include anorexia, constipation, nausea, diarrhea, and dysuria.1Patients may have a history of diverticulosis or diverticulitis. Although patients with diverticulitis typically have a fever (usually below 102°F [39°C]), in one study, nine of 62 patients with acute diverticulitis were afebrile.10Tachycardia and hypotension may occur and should raise suspicion for complicated diverticulitis. On examination, tenderness only in the left lower quadrant significantly increases the likelihood of acute diverticulitis (positive likelihood ratio = 10.4), as do a palpable mass and abdominal distention.9"
+        },
+        {
+            "parent": 3,
+            "text": "Rebound tenderness, rigidity, and the absence of peristalsis are not accurate for diagnosis of acute diverticulitis, but may suggest peritonitis (positive likelihood ratio = 1.6; negative likelihood ratio = 0.4).11A rectal examination may reveal tenderness or a mass if a low-lying pelvic abscess is present.2Table 2provides a summary of the accuracy of signs, symptoms, and laboratory tests for diagnosis of acute diverticulitis.9,12–14Figure 3provides an algorithmic approach to patients with suspected acute diverticulitis.15"
+        },
+        {
+            "parent": 4,
+            "text": "Because leukocytosis is present in 55 percent of patients with acute diverticulitis, a complete blood count should be obtained.2Blood should be collected for a basic metabolic panel to assess electrolytes and renal function. A urinalysis is useful for ruling out urinary tract infection, and a human chorionic gonadotropin urine test should be considered in premenopausal women to exclude pregnancy, particularly if antibiotics, imaging, or surgery is being considered. During the rectal examination, stool should be obtained for a fecal occult blood test to exclude occult gastrointestinal bleeding."
+        },
+        {
+            "parent": 4,
+            "text": "Measurement of C-reactive protein (CRP) should be considered. When the patient has left lower quadrant tenderness and a CRP level greater than 50 mg per L (476.20 nmol per L) in the absence of vomiting, the likelihood of acute diverticulitis is significantly increased (positive likelihood ratio = 18).9However, this simple decision rule has not been prospectively validated. Also, in a series of 247 patients (of whom 35 percent had a perforation), only about 20 percent with a CRP level less than 50 mg per L had a perforation, compared with 69 percent with a CRP level greater than 200 mg per L (1,904.80 nmol per L).16"
+        },
+        {
+            "parent": 5,
+            "text": "Imaging is not necessary in most patients with mild symptoms. Abdominal radiography may be helpful in patients with suspected perforation of a diverticulum, because it may demonstrate free air. Computed tomography (CT), ultrasonography, and magnetic resonance imaging (MRI) are useful in selected patients to establish the diagnosis and the extent and severity of disease, and to exclude complications.13Abdominal CT is the test of choice in patients with suspected diverticulitis.12,17A meta-analysis of eight studies involving 684 patients found the diagnostic accuracy of CT to be excellent, and CT is the most commonly performed test.12The most sensitive CT findings are bowel wall thickening and fat stranding, and the most specific findings include abscesses, arrowhead sign, fascial thickening, free air, inflamed diverticulum, intramural air, intramural sinus tract, and phlegmon.17A disadvantage of CT is the potentially harmful effects of ionizing radiation.Table 3lists the accuracy of CT findings for the diagnosis of acute diverticulitis.17Figure 4includes CT images showing changes characteristic of diverticulitis."
+        },
+        {
+            "parent": 5,
+            "text": "Ultrasonography has good diagnostic accuracy for diverticulitis compared with CT; however, it is inferior to CT for estimating the extent of large abscesses and for evaluating for free air.13The accuracy of ultrasonography is suboptimal in patients who are obese and in patients with overlying gas that may obscure structures.13Ultrasonography should be considered for pregnant women suspected of having diverticulitis to avoid ionizing radiation."
+        },
+        {
+            "parent": 5,
+            "text": "MRI has good diagnostic accuracy.14Advantages of MRI include excellent soft tissue detail and the lack of ionizing radiation. However, MRI takes significantly longer than CT and may not be acceptable in critically ill patients.13,14Patients with severe claustrophobia, certain types of surgical clips, metallic fragments, or cardiac pacemakers cannot undergo MRI."
+        },
+        {
+            "parent": 6,
+            "text": "Colonoscopy is contraindicated in acute diverticulitis, but historically was recommended to be performed four to six weeks after resolution of acute diverticulitis to confirm the diagnosis and to exclude other causes (e.g., colorectal cancer). A retrospective cohort study of 1,088 patients with left-sided diverticulitis diagnosed by CT found an increased risk of colorectal cancer in patients with an abscess (odds ratio [OR] = 7) or fistula (OR = 18) found on CT.18However, another retrospective longitudinal study of 292 patients suggested that colonoscopy is unnecessary in uncomplicated diverticulitis.19Therefore, colonoscopy is recommended four to six weeks after resolution of symptoms in patients with complicated disease or for another indication, such as age-appropriate screening."
+        },
+        {
+            "parent": 7,
+            "text": "Although most patients (94 percent) can be treated on an outpatient basis, a retrospective analysis of 693 patients found that women (OR = 3.1) and those with free fluid on CT (OR = 3.2) are at higher risk of outpatient treatment failure.20Outpatient management has traditionally consisted of a clear liquid diet, oral broad-spectrum antibiotics, and follow-up in two to three days.2Outpatient management with rest and fluids is effective for patients with mild diverticulitis.2"
+        },
+        {
+            "parent": 7,
+            "text": "The decision to hospitalize a patient with uncomplicated diverticulitis depends on several factors, including the patient's ability to tolerate oral intake, severity of illness, comorbidities, and outpatient support systems.2Hospitalization should be considered if patients have signs of peritonitis or there is suspicion of complicated diverticulitis. Inpatient management includes no food or drink by mouth, intravenous fluid resuscitation (normal saline or lactated Ringer solution), and intravenous antibiotics.2Clinical improvement is expected within two to four days and includes decreasing fever, leukocytosis, and pain.2A randomized controlled trial including 50 patients found that starting oral antibiotics after clinical improvement with intravenous antibiotics resulted in shorter hospitalizations, greater cost savings, and no increased risk of recurrence compared with longer treatment with intravenous antibiotics.21"
+        },
+        {
+            "parent": 8,
+            "text": "The usual practice in the United States for the treatment of diverticulitis includes broad-spectrum antibiotics against gram-negative rods and anaerobic bacteria(Table 4).22–24However, evidence supporting their use in uncomplicated diverticulitis is lacking. A study randomized 623 patients to antibiotics or placebo and found that antibiotic therapy for uncomplicated diverticulitis did not accelerate recovery, prevent complications, or prevent recurrence.23This finding was corroborated by a Cochrane review of three randomized trials.24A small randomized controlled trial with 79 patients found that oral antibiotics are as effective as intravenous antibiotics for uncomplicated diverticulitis (oral and intravenous regimens used were ciprofloxacin [Cipro] and metronidazole [Flagyl]).25Patients who do not improve with medical management may have complicated diverticulitis, and additional imaging should be performed."
+        },
+        {
+            "parent": 9,
+            "text": "Patients with a localized abscess may be candidates for CT-guided percutaneous drainage, a procedure that does not increase the risk of recurrent diverticulitis.26Patients at increased risk of colonic perforation include immunocompromised patients and patients taking nonsteroidal anti-inflammatory drugs, corticosteroids, or chronic opioid analgesics.6,27Although the rates of abscess increased from 5.9 percent in 1991 to 9.6 percent in 2005, the rates of perforation remained unchanged.28A prospective study of 626 women with diverticulitis found that being overweight (relative risk = 1.3), obese (relative risk = 1.3), or physically inactive (relative risk = 1.4) increased admissions secondary to diverticulitis, and women who were obese had a twofold increased risk of complicated diverticulitis (relative risk = 2.0).29The Mannheim Peritonitis Index is a validated measure based on age, sex, presence of organ failure, malignancy, and duration of peritonitis to predict mortality in patients with perforation. It should be used to stratify a patient's risk before surgery(Table 5).30Other complications requiring surgical consultation include phlegmon, fistula, and obstruction."
+        },
+        {
+            "parent": 10,
+            "text": "Fifteen to 30 percent of patients admitted with acute diverticulitis require surgical intervention during that admission.2A large retrospective analysis of discharges in the United States from 1991 through 2005 found a significant decline in colectomies for uncomplicated diverticulitis (17.9 percent in 1991 to 13.7 percent in 2005;P< .0001) and complicated diverticulitis (71 percent in 1991 to 56 percent in 2005;P< .0001).28Surgical options include laparoscopic or open approaches for drainage, washout, or resection. Laparoscopic surgery results in a shorter length of stay, fewer complications, and lower in-hospital mortality compared with open colectomy.31Emergency colectomy is associated with significant morbidity (e.g., pneumonia [25 percent], respiratory failure [15 percent], myocardial infarction [12 percent]) and increased mortality in older persons.32A systematic review of 54 studies concluded that resection with primary anastomosis in selected patients is a safe alternative to the traditional multistage procedure (Hartmann procedure).33"
+        },
+        {
+            "parent": 11,
+            "text": "Patients who present with symptoms consistent with recurrent diverticulitis warrant a complete evaluation. Studies have shown recurrence rates of diverticulitis from 9 to 36 percent. In a large retrospective study involving 3,165 patients treated for diverticulitis with a mean follow-up of nine years, 9 percent had one recurrence and 3 percent had more than one recurrence after initial nonoperative management.26"
+        },
+        {
+            "parent": 11,
+            "text": "A retrospective study analyzing 954 consecutive patients with diverticulitis found the five-year recurrence rate was 36 percent, with 3.9 percent of patients having a complicated recurrence including abscesses, fistula, or free perforation.34Age 50 years or older was associated with lower risk of recurrent diverticulitis (12.2 percent) compared with age younger than 50 years (16.2 percent), with a hazard ratio of 0.68 (95% confidence interval, 0.53 to 0.87).26A modeling analysis found that the most cost-effective approach was to perform surgery only after the third episode of acute uncomplicated diverticulitis requiring hospitalization, but the decision to proceed to surgery should be individualized and based on patient preference, comorbidities, and lifestyle.35"
+        },
+        {
+            "parent": 12,
+            "text": "Interventions to prevent recurrences of diverticulitis include increased intake of dietary fiber, exercise, and, in persons with a body mass index of 30 kg per m2or higher, weight loss.36–38Counseling for smoking cessation is recommended because smoking is associated with an increased incidence of complicated diverticulitis and less favorable outcomes (e.g., surgery at a younger age, higher risk of recurrence).39Evidence from a prospective cohort study of 47,228 men in the United States found no evidence that avoiding nuts, corn, or popcorn decreases the risk of diverticulosis or diverticular complications, such as diverticulitis.40A small prospective study found that mesalamine andLactobacillus caseiare effective in preventing recurrence.41A meta-analysis of four randomized controlled trials with 1,660 patients who had experienced at least one episode of diverticulitis found that rifaximin (Xifaxan) plus fiber provided one year of complete symptom relief (number needed to treat = 3) and fewer complications (number needed to treat = 59) compared with fiber alone.42"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms diverticulitis, diverticulosis, diverticular disease, pathogenesis, diagnosis, and treatment. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. We also searched the Agency for Healthcare Research and Quality evidence reports, Clinical Evidence, the Cochrane database, Essential Evidence Plus, the National Guideline Clearinghouse database, and DynaMed. Search date: April 15, 2012."
+        }
+    ],
+    "locked": false
+}

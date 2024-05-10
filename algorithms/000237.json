@@ -1,0 +1,164 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0201/p164.html#afp20170201p164-f1",
+    "title": "Evaluation of Jaundice in Adults | AAFP",
+    "author": "MATTHEW V. FARGO, MD, MPH, SCOTT P. GROGAN, DO, MBA, AND AARON SAGUIL, MD, MPH",
+    "doi": "Am Fam Physician.2017;95(3):164-168",
+    "abstract": "Jaundice in adults can be an indicator of significant underlying disease. It is caused by elevated serum bilirubin levels in the unconjugated or conjugated form. The evaluation of jaundice relies on the history and physical examination. The initial laboratory evaluation should include fractionated bilirubin, a complete blood count, alanine transaminase, aspartate transaminase, alkaline phosphatase, γ-glutamyltransferase, prothrombin time and/or international normalized ratio, albumin, and protein. Imaging with ultrasonography or computed tomography can differentiate between extrahepatic obstructive and intrahepatic parenchymal disorders. Ultrasonography is the least invasive and least expensive imaging method. A more extensive evaluation may include additional cancer screening, biliary imaging, autoimmune antibody assays, and liver biopsy. Unconjugated hyperbilirubinemia occurs with increased bilirubin production caused by red blood cell destruction, such as hemolytic disorders, and disorders of impaired bilirubin conjugation, such as Gilbert syndrome. Conjugated hyperbilirubinemia occurs in disorders of hepatocellular damage, such as viral and alcoholic hepatitis, and cholestatic disorders, such as choledocholithiasis and neoplastic obstruction of the biliary tree.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Laboratory Evaluation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Imaging",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Liver Biopsy",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Pseudojaundice",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Unconjugated Hyperbilirubinemia",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "INCREASED BILIRUBIN PRODUCTION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "IMPAIRED BILIRUBIN CONJUGATION",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Conjugated Hyperbilirubinemia",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "INTRAHEPATIC DISORDERS: HEPATOCELLULAR DAMAGE AND INTRAHEPATIC CHOLESTASIS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "EXTRAHEPATIC DISORDERS: CHOLESTASIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Jaundice occurs when the serum bilirubin level exceeds 3 mg per dL (51.3 μmol per L). It can be difficult to detect by physical examination alone.1Acute jaundice is often an indicator of significant underlying disease and occurs secondary to intra- and extrahepatic etiologies. A retrospective study of more than 700 individuals found that most cases (55%) of acute jaundice in adults are caused by intrahepatic disorders, including viral hepatitis, alcoholic liver disease, and drug-induced liver injury. The remaining 45% of acute jaundice cases are extrahepatic and include gallstone disease, hemolysis, and malignancy.2This article provides a systematic approach to the diagnosis of jaundice in adults and reviews common etiologies of hyperbilirubinemia. An algorithm for the evaluation of jaundice in adults is provided inFigure 1.3"
+        },
+        {
+            "parent": 0,
+            "text": "Approximately 250 mg of bilirubin per day is produced by an average adult through the catabolism of the heme molecule.4Heme is released during red blood cell destruction. It is first converted to biliverdin and then to unconjugated bilirubin within macrophages in the reticular endothelial system.5Unconjugated bilirubin is lipid soluble and passes easily through cell membranes to bind to albumin in serum, whereas free (unbound) bilirubin is taken up by liver hepatocytes and converted to conjugated bilirubin.4,6Conjugated bilirubin is water soluble and is transported from liver hepatocytes into the biliary tract system where it passes to the intestines and is excreted into the stool. Some conjugated bilirubin is reabsorbed in the intestines and is excreted by the kidneys as urobilinogen.4,6Jaundice occurs when there are disruptions along this metabolic pathway, causing an increase in unconjugated bilirubin (e.g., from increased red blood cell destruction or impaired bilirubin conjugation) or conjugated bilirubin (e.g., from hepatocellular damage or biliary tract obstructions)."
+        },
+        {
+            "parent": 1,
+            "text": "The initial workup of jaundice should focus on the history and physical examination to help clarify the diagnosis. A detailed alcohol and drug use history can help identify intrahepatic disorders such as alcoholic liver disease, viral hepatitis, chronic liver disease, or drug-induced liver injury. A focused review of systems is important. For example, fever and prodromal viral symptoms can precede acute viral hepatitis, fever can be associated with underlying sepsis, and weight loss can be associated with underlying malignancy. The physical examination should include evaluation for underlying encephalopathy by testing for asterixis and mental status changes; evaluation of signs of chronic liver disease to include bruising, spider angiomas, palmar erythema, and gynecomastia; and a complete abdominal examination to evaluate for hepatomegaly, splenomegaly, right upper quadrant tenderness, and ascites.3,7"
+        },
+        {
+            "parent": 2,
+            "text": "The laboratory evaluation to determine the etiology of jaundice should include fractionated bilirubin, a complete blood count, alanine transaminase, aspartate transaminase, γ-glutamyltransferase, alkaline phosphatase, prothrombin time and/or international normalized ratio, albumin, and protein.7Fractionated bilirubinemia is required to differentiate between conjugated and unconjugated hyperbilirubinemia. A complete blood count with a peripheral blood smear can help identify hemolysis and evaluate for anemia of chronic disease and thrombocytopenia, which is common in decompensated cirrhosis. Elevated alanine transaminase and aspartate transaminase levels can indicate hepatocellular damage. However, levels may be normal in chronic liver disease (e.g., cirrhosis). In such cases, there may not be enough normal liver parenchymal tissue to release elevated levels of these enzymes."
+        },
+        {
+            "parent": 2,
+            "text": "An elevated alkaline phosphatase level can be associated with biliary obstruction and parenchymal liver disease, but it is also associated with several other physiologic and nonbiliary pathologic processes in bone, kidney, intestine, and placenta. An elevated γ-glutamyltransferase level can be associated with biliary obstruction and hepatocellular damage, as well as pancreatic disorders, myocardial infarction, renal disease, and diabetes mellitus.7Protein, albumin, and prothrombin time or international normalized ratio are associated with liver synthetic function. Low levels of protein and albumin, or elevated prothrombin time or international normalized ratio, indicate decreased synthetic function and hepatic decompensation."
+        },
+        {
+            "parent": 2,
+            "text": "If the jaundice etiology is unknown after the initial laboratory evaluation, it is necessary to perform additional tests including hepatitis panels and autoimmune panels, such as antinuclear, smooth muscle, and liver-kidney microsomal antibodies.3"
+        },
+        {
+            "parent": 3,
+            "text": "Noninvasive imaging modalities in persons with jaundice include ultrasonography, computed tomography, and magnetic resonance cholangiopancreatography. Ultrasonography or computed tomography is usually the first-line option to evaluate for obstruction, cirrhosis, and vessel patency, with ultrasonography being the least invasive and least expensive modality.3,7Visualization of the intra- and extrahepatic biliary tree can be further evaluated using magnetic resonance cholangiopancreatography or endoscopic retrograde cholangiopancreatography, with the latter allowing for therapeutic options, such as biliary stent placement to relieve obstruction.7Endoscopic ultrasonography can be used in addition to endoscopic retrograde cholangiopancreatography for evaluation of common bile duct obstructions and can help determine if the obstruction is from a mass or stone.8"
+        },
+        {
+            "parent": 4,
+            "text": "Liver biopsy should be reserved for cases of jaundice in which the diagnosis is unclear after the initial history and physical examination, laboratory studies, and imaging. It should be performed only if biopsy results are required to determine treatment and prognosis. Biopsy may alter care in only about one-third of cases.7"
+        },
+        {
+            "parent": 5,
+            "text": "Skin color changes can occur in conditions other than hyperbilirubinemia, such as Addison disease, anorexia nervosa, ingestion of beta carotene–rich foods (carotenemia), or use of spray-tanning products."
+        },
+        {
+            "parent": 7,
+            "text": "Unconjugated hyperbilirubinemia is usually a result of too much bilirubin presented to the conjugating machinery (from increased red blood cell destruction). Increased red blood cell breakdown may be caused by red blood cell membrane disorders,9red blood cell enzyme disorders,10hemoglobin disorders,11autoimmune red blood cell destruction,12or some cancers. The excess turnover of red blood cells results in increased heme metabolism, producing large amounts of bilirubin that overwhelm the conjugating machinery, leading to decreased excretion and clinical jaundice."
+        },
+        {
+            "parent": 8,
+            "text": "Deficiencies in the same conjugating machinery may also lead to jaundice in individuals with normal red blood cell turnover. Gilbert syndrome involves a deficiency in uridine diphosphate-glucuronosyltransferase, and it affects 10% of the white population.13This is a benign condition that may be exacerbated by physical or emotional stress such as illness, strenuous exercise, or fasting. Crigler-Najjar syndrome is a more severe variant of the same enzyme deficiency.13Patients with impaired conjugation due to low levels of the bilirubin-UGT enzyme are particularly susceptible to jaundice from medications that inhibit this enzyme, such as protease inhibitors.6Table 1lists the causes of unconjugated hyperbilirubinemia.5,7,9–12"
+        },
+        {
+            "parent": 10,
+            "text": "The largest worldwide contributor to liver disease is viral hepatitis, mostly from hepatitis C.14Viral hepatitis causes increased oxidative stress within hepatocytes, leading to cell death, scarring, and diminished liver mass available for normal function.4,15Chronic alcohol consumption can cause various hepatic disorders, including steatosis or fatty liver disease with minimal symptoms and often no jaundice; alcoholic hepatitis with acute onset jaundice and more severe symptoms; and cirrhosis, which is often associated with decompensation and liver failure in the setting of jaundice.3Jaundice in persons with alcoholic liver disease can occur via multiple mechanisms, such as direct hepatocellular damage caused by ethanol metabolites or from alcohol's effect on bile acid uptake and secretion contributing to cholestasis.3,16"
+        },
+        {
+            "parent": 10,
+            "text": "Approximately 30% to 40% of patients with nonalcoholic fatty liver disease progress to nonalcoholic steatohepatitis, and approximately 40% to 50% of these patients develop fibrosis or cirrhosis that may lead to hyperbilirubinemia.17Although the exact mechanism is poorly understood, liver lipid deposition may trigger inflammation and fibrosis, particularly when coupled with type 2 diabetes.17Sepsis may also induce hyperbilirubinemia as circulating acute phase reactants and bacterial endotoxins disrupt bilirubin transport, leading to cholestasis and elevated bile salt levels.18,19"
+        },
+        {
+            "parent": 10,
+            "text": "Drug-induced liver injury has multiple potential mechanisms, including direct hepatocellular toxicity and activation of an immune response that advances the inflammatory cascade, inhibiting bilirubin transport into canaliculi, which causes cholestasis.20Wilson disease, a rare genetic disorder, is associated with a loss of function of a cellular transporter responsible for moving dietary copper into liver canaliculi. Elevated liver copper levels affect hepatic lipid metabolism, which leads to steatosis and cholestasis.21Additional causes of intrahepatic hyperbilirubinemia include autoimmune disorders, such as autoimmune hepatitis and the rare autoimmune condition primary biliary cirrhosis, which occurs most commonly in middle-aged women. Both conditions are associated with inflammation, which disrupts the transport of bilirubin within the liver.3"
+        },
+        {
+            "parent": 11,
+            "text": "Conjugated hyperbilirubinemia may also arise from extrahepatic obstruction. Patients with biliary obstruction may present with multiple signs and symptoms, including fever, pruritus, abdominal pain, weight loss, muscle wasting, dark urine, and pale stools. Choledocholithiasis is the most common non-neoplastic cause of biliary obstruction, accounting for 14% of all new cases of jaundice.2An estimated 20 million Americans have gallstones, and risk factors for choledocholithiasis include female sex, older age, increasing body mass index, and rapid weight loss.22"
+        },
+        {
+            "parent": 11,
+            "text": "Gallstones may cause jaundice by obstructing the biliary tree (typically the common bile duct) or by inducing a biliary stricture.23Less commonly, stones in the gallbladder or cystic duct may mechanically compress the common hepatic duct causing jaundice, and, rarely, stones may cause the formation of a biliary-vascular fistula with accompanying jaundice.24Biliary stricture causing postoperative jaundice is a rare complication of cholecystectomy (0.6% of cases).7,23"
+        },
+        {
+            "parent": 11,
+            "text": "Jaundice may be caused by surgeries such as liver transplantation and the Whipple and Billroth procedures, which both involve the creation of a choledochojejunostomy. Chronic pancreatitis may cause biliary strictures and jaundice, as may different forms of cholangitis.7,25In children, biliary atresia and choledochal cysts are the main causes of extrahepatic biliary obstruction.26"
+        },
+        {
+            "parent": 11,
+            "text": "Neoplasms are associated with 6.2% of new-onset cases of jaundice.2Cholangiocarcinoma may affect the proximal or distal portions of the biliary tree by causing biliary strictures. Five-year survival for persons who have resection is 20% to 40%; survival in unresectable disease is less than one year.27,28Primary sclerosing cholangitis confers a 1,500-fold increased risk of cholangiocarcinoma, but more than 80% of cases have no risk factors for disease.27"
+        },
+        {
+            "parent": 11,
+            "text": "Gallbladder cancer, although rare, is the most common biliary tract malignancy; risk factors include gallstones, infection (Salmonella typhi), and female sex. Median survival is six to 12 months, depending on the stage at diagnosis.29Ampullary cancers and bile duct compression from lymphadenopathy, or external tumors such as pancreatic cancer, may also cause obstruction."
+        },
+        {
+            "parent": 11,
+            "text": "Table 2lists the causes of conjugated hyperbilirubinemia.3,7,16–18,20,21,24–26"
+        },
+        {
+            "parent": 11,
+            "text": "This article updates a previous article on this topic by Roche and Kobos.3"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:A PubMed search was completed using the keyword and medical subject heading (MeSH) jaundice. The search included randomized controlled trials, meta-analyses, clinical trials, systematic reviews, clinical practice guidelines, and review articles. Also searched were Essential Evidence Plus, the National Guideline Clearinghouse, and the Cochrane Database of Systematic Reviews. Search dates: January through August 2015, and November 2016."
+        },
+        {
+            "parent": 11,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the U.S. Army Medical Department, the U.S. Army, the Uniformed Services University of the Health Sciences, or the Department of Defense."
+        }
+    ],
+    "locked": false
+}

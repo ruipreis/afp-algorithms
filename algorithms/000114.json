@@ -1,0 +1,136 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0415/p481.html#afp20210415p481-f3",
+    "title": "Hypermobile Ehlers-Danlos Syndrome and Hypermobility Spectrum Disorders | AAFP",
+    "author": "KENNETH S. YEW, MD, MPH, KARA A. KAMPS-SCHMITT, MD, AND ROBYN BORGE, MD",
+    "doi": "Am Fam Physician.2021;103(8):481-492",
+    "abstract": "Hypermobile Ehlers-Danlos syndrome (EDS) and hypermobility spectrum disorders are the most common symptomatic joint hypermobility conditions seen in clinical practice. The 2017 International Classification of the Ehlers-Danlos syndromes replaced previous terms for symptomatic joint hypermobility with hypermobile EDS and introduced the term hypermobility spectrum disorders for patients not meeting diagnostic criteria for hypermobile EDS. Both are diagnosed by applying the 2017 diagnostic criteria, which also excludes other less common conditions presenting with joint hypermobility such as other forms of EDS and heritable connective tissue disorders. Hypermobile EDS is inherited in an autosomal dominant pattern, but it does not have a known genetic mutation to help with diagnosis. Clinical features of hypermobile EDS include joint hypermobility, skin findings, and joint pains or recurrent dislocations. Hypermobile EDS and, less commonly, hypermobility spectrum disorders may also be associated with several extra-articular symptoms, including anxiety disorders, chronic pain, fatigue, orthostatic intolerance, functional gastrointestinal disorders, and pelvic and bladder dysfunction. The central goals of therapy are managing symptoms, preventing joint injury, and educating patients about their condition. Based on limited evidence, patients with hypermobile EDS/hypermobility spectrum disorders may benefit from physical and occupational therapy, psychological support, and self-management. Primary care physicians play a key role not only in initial recognition, diagnosis, and patient education, but by virtue of their ongoing relationship they can also help oversee and coordinate the multidisciplinary team many of these patients require.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definitions",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Epidemiology and Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "CLINICAL FEATURES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hypermobile Ehlers-Danlos syndrome (EDS) and hypermobility spectrum disorders are the most common symptomatic joint hypermobility conditions seen in clinical practice.1,2Family physicians play a vital role in the care of patients with these conditions, from initial diagnosis to ongoing care."
+        },
+        {
+            "parent": 0,
+            "text": "“Ehlers-Danlos syndromes (EDS) … are a group of inherited connective tissue disorders caused by abnormalities in the structure, production, and/or processing of collagen. The new classification, from 2017, includes 13 subtypes of EDS.”3Table 1describes these subtypes.1,4,5Joint hypermobility is a feature common among many EDS subtypes and other heritable connective tissue disorders. Joint hypermobility is defined as the ability of a joint to move “beyond normal limits along physiological axes.”4Joint hypermobility can involve a few or many joints and may be entirely asymptomatic. Generalized joint hypermobility is more likely to be associated with a genetic syndrome than localized joint hypermobility. The exception is hypermobile EDS, which is the most common EDS variant, representing 80% to 90% of EDS cases,2with clinical features including joint hypermobility, skin findings(Figure 1), and joint pains or recurrent dislocations(Figure 26andFigure 31,7). The 2017 classification introduced stricter criteria for hypermobile EDS than previously available to distinguish patients with hypermobile EDS from those most likely to have a diagnosable genetic syndrome.1For patients with symptomatic joint hypermobility satisfying neither the new hypermobile EDS criteria nor another specific condition, the 2017 classification introduced hypermobility spectrum disorders.1"
+        },
+        {
+            "parent": 0,
+            "text": "Patients with hypermobility spectrum disorders are distinct from those with hypermobile EDS and other syndromes with joint hypermobility in that their symptoms are primarily musculoskeletal; however, limited extra-articular involvement may be seen.4All previous terms, including EDS type III, EDS hypermobility type, hypermobility syndrome, joint hypermobility syndrome, and benign joint hypermobility syndrome, should no longer be used.4At one time, these earlier named diagnoses were thought to represent distinct entities, but subsequent studies finding broad overlap of these older named conditions within families demonstrated that they were the same entity.4In a more recent study, nearly all patients with one of the earlier, now outdated, diagnoses fulfilled either hypermobile EDS or hypermobility spectrum disorders criteria.8Because they are the most common symptomatic hypermobility conditions, their evaluation and management are the focus of this article; the terms hypermobile EDS and hypermobility spectrum disorders will be used except when clarity dictates reference to an older diagnostic term."
+        },
+        {
+            "parent": 1,
+            "text": "The exact prevalence of hypermobile EDS/hypermobility spectrum disorders is unknown. The best estimates of the population prevalence of these conditions are derived from studies in national or patient registries from Sweden and Wales, United Kingdom, using diagnostic codes for EDS and joint hypermobility syndrome, the latter a prior term for hypermobile EDS, as discussed previously.9,10The combined hypermobile EDS/hypermobility spectrum disorders prevalence would be expected to be lower than the 0.13% to 0.19% prevalence that these two studies found for all EDS and joint hypermobility syndrome codes combined.9,10This prevalence equates to about seven to 10 patients out of a 5,000-patient panel. Another estimate of combined hypermobile EDS/hypermobility spectrum disorders prevalence from a U.K. population survey found that 3.4% of adults endorsed hypermobility and chronic widespread pain using validated instruments.11"
+        },
+        {
+            "parent": 1,
+            "text": "Generalized joint hypermobility, a diagnostic criterion for hypermobile EDS, is more common than hypermobile EDS/hypermobility spectrum disorders because patients with generalized joint hypermobility may be asymptomatic. When assessed in student population samples using 2017 criteria, 4% to 11% of children three to 19 years of age had generalized joint hypermobility.12–17The percentage of people with generalized joint hypermobility who are eventually diagnosed with hypermobile EDS/hypermobility spectrum disorders is unknown."
+        },
+        {
+            "parent": 1,
+            "text": "Hypermobile EDS is the only EDS subtype for which a genetic mutation has not been discovered. Hypermobile EDS is considered to be inherited in an autosomal dominant manner with incomplete penetrance. The pathogenesis of hypermobile EDS and hypermobility spectrum disorders is still being unraveled but involves muscle and tendon laxity,18reduced proprioception,19significantly disordered connective tissue structure, and alterations in gene expression.20"
+        },
+        {
+            "parent": 2,
+            "text": "Hypermobile EDS and hypermobility spectrum disorders exhibit a complex range of signs and symptoms of varying degrees and combinations that make these conditions difficult to recognize.Common presenting features of hypermobile EDS are listed inTable 2.1,2,21The prevalence of generalized joint hypermobility declines with age,2and this decline is considered by the 2017 hypermobile EDS criteria by incorporating historical questions for patients with subthreshold joint hypermobility.1,7The strongest systemic findings associated with hypermobile EDS include anxiety disorders, chronic pain, fatigue, orthostatic intolerance, functional gastrointestinal disorders, and pelvic and bladder dysfunction.22–26Table 3describes the symptoms and physical findings commonly associated with hypermobile EDS.2,22,23,26–38"
+        },
+        {
+            "parent": 4,
+            "text": "The diagnosis of hypermobile EDS should be considered in patients with clinical features noted inTable 2.1,2,21Patients with systemic manifestations(Table 32,22,23,26–38)and a history of joint hypermobility or arthralgias also may have hypermobile EDS or a related disorder that was overlooked or previously misdiagnosed.1A U.K. patient survey found the median time to diagnosis was 10 years.39"
+        },
+        {
+            "parent": 4,
+            "text": "The diagnosis of hypermobile EDS/hypermobility spectrum disorders is made by medical history, physical examination, and exclusion of other conditions that present with musculoskeletal hypermobility.2,40,41Diagnostic criteria for hypermobile EDS are listed inFigure 2.6Table 1outlines criteria for hypermobility spectrum disorders when patients meet neither criteria for hypermobile EDS nor another specific condition.1,4,5A differential diagnosis for joint hypermobility appears inTable 4.1,4,21,42Taking a careful family history that inquires about joint hypermobility, musculoskeletal symptoms, aneurysms, and genetic conditions is essential. Once hypermobile EDS is suspected,the physician should determine the degree and pattern of hypermobility using a validated tool known as the Beighton score1,40,41,43(Table 51,44). The Beighton score incorporates five maneuvers to calculate a score between 0 and 9. The 2017 hypermobile EDS criteria inFigure 2specify that if the Beighton score is one point below age-specific and sex-specific cutoffs for generalized joint hypermobility, the next step is to administer a validated five-part questionnaire to help determine whether the patient has generalized joint hypermobility, a necessary criterion for the diagnosis of hypermobile EDS.6,7Patients without generalized joint hypermobility may still have hypermobility spectrum disorders.Figure 3suggests an evaluation strategy for patients suspected of having hypermobile EDS or hypermobility spectrum disorders.1,7"
+        },
+        {
+            "parent": 4,
+            "text": "If generalized joint hypermobility is confirmed in patients with suspected hypermobile EDS, the remainder of the hypermobile EDS criteria are sought1(Figure 26). This involves asking the patient about a history of musculoskeletal symptoms, abdominal hernias, and organ and mitral valve prolapse; examining the skin; testing for arachnodactyly; and measuring the ratio of arm span to height.Figure 1shows a typical atrophic scar."
+        },
+        {
+            "parent": 5,
+            "text": "No confirmatory test exists, so hypermobile EDS and hypermobility spectrum disorders remain clinical diagnoses.2Laboratory testing and radiography to evaluate for acquired connective tissue disorder or suspected bone or joint injury are guided by clinical history and physical examination. The presence of marfanoid features requires distinguishing between hypermobile EDS and Marfan-related syndromes.Table 4lists features that can help to distinguish between these conditions.1,4,21,42Screening echocardiography should be performed to evaluate for aortic root dilation or mitral valve prolapse in patients with possible hypermobile EDS. Specific genetic testing should be performed for other EDS variants, Marfan and Loeys-Dietz syndromes, and other genetic conditions when suspected(Table 4).1,4,21,42It often takes several visits to complete a diagnostic evaluation. Many patients who do not meet hypermobile EDS criteria and do not have clear evidence for another specific syndrome will meet criteria for hypermobility spectrum disorders. If the diagnosis remains unclear, referral to a genetics specialist for further evaluation may be required.eTable Alists resources supporting the diagnosis and management of hypermobility syndromes."
+        },
+        {
+            "parent": 6,
+            "text": "The central goals of therapy are managing symptoms, preventing joint injury, and teaching patients about their condition.45–48Based on limited evidence and expert opinion, the mainstays of management for hypermobile EDS and hypermobility spectrum disorders include patient education, physical and occupational therapy, psychological support, and self-management. Symptoms of hypermobility spectrum disorders may resolve with therapy, persist, or progress to hypermobile EDS. Hypermobile EDS is managed as a lifelong condition because no curative treatments currently exist."
+        },
+        {
+            "parent": 6,
+            "text": "Treatment strategies are diverse because of the many different systems that may be involved.Patients with hypermobile EDS can benefit from a multidisciplinary team that includes physicians, nursing staff, physical therapists, occupational therapists, orthotists, nutritionists and/or lifestyle coaches, psychologists, and community and online support.Specialty care can help in the management of skin, joint, cardiovascular, and gastrointestinal complications and chronic pain. Family physicians play a key role in overseeing and coordinating the complex care that many patients with hypermobile EDS require."
+        },
+        {
+            "parent": 6,
+            "text": "Management of musculoskeletal complaints includes conservative treatments such as physical activity, acetaminophen and nonsteroidal anti-inflammatory drugs, heat and/or cold application, improved ergonomics and posture, relaxation techniques, massage, hydrotherapy, and joint stabilization techniques with bracing and/or taping.47,49,50Medications that diminish platelet function should generally be avoided in patients with hypermobile EDS who have easy bruising. Physical therapists should customize their education on strengthening exercises, proprioceptive exercises, and joint protection.51Occupational therapists can help strengthen upper extremity and hand muscles, improve activities of daily living, and introduce patients to adaptive writing instruments and other adaptive tools. Tai chi has shown benefit in patients with osteoarthritis, fibromyalgia, and low back pain,52although it has not been studied in those who have hypermobile EDS/hypermobility spectrum disorders. The use of splints and orthotics can help selected patients."
+        },
+        {
+            "parent": 6,
+            "text": "Educating patients about lifestyle modifications, management options, and expectations is one of the most important interventions. Encouraging the optimization of sleep, joint protection through the proper amount of regular physical exercise (low impact and low resistance), weight control, avoidance of substance use (e.g., alcohol, nicotine), and the consumption of a healthy diet can decrease pain, injuries, and fatigue and support mobility and functionality. Orthostatic intolerance can be lessened by increasing fluids, increasing salt intake, and using compression stockings."
+        },
+        {
+            "parent": 6,
+            "text": "Qualitative studies describe the experience of patients who have pain and disability with hypermobile EDS that is frequently minimized or invalidated in their social circles, and even in medical settings, because the patients are perceived as looking “normal” or the condition is not recognized.53–55The complexity of hypermobile EDS/hypermobility spectrum disorders and the lack of familiarity physicians may have can lead them to ignore or be skeptical of patients' experiences with their EDS conditions, possibly having lasting negative impacts on patients.56Qualitative data strongly support the notion that earlier diagnosis and empathetic, knowledgeable clinical care are highly desired by patients,53–55but further research is needed to confirm whether earlier diagnosis and skilled, caring support improve outcomes beyond patient satisfaction. The risks and benefits of invasive testing and procedures must be reviewed carefully in patients with all forms of EDS because bleeding complications, inadequate response to regional and local anesthesia, and iatrogenic injury are common.57"
+        },
+        {
+            "parent": 6,
+            "text": "Finally, physicians should be aware of and empathetic toward the cognitive deficits, negative emotions, and alterations in activity that can complicate this challenging condition.37More research is needed, but three small studies of a multidisciplinary approach that includes physical, occupational, and cognitive behavior therapy have shown reduced anxiety, depression, catastrophizing, and kinesiophobia (fear of pain due to movement), with improved physical function and self-efficacy in treated patients.32,58,59A similar multidisciplinary intervention that lacked cognitive behavior therapy showed no benefit.45"
+        },
+        {
+            "parent": 7,
+            "text": "A three-phase natural history of hypermobile EDS has been proposed based on a large Italian case series.49In this series, patients progressed from generalized joint hypermobility alone with or without joint pain in childhood to having musculoskeletal pain, falls, mixed headache, and functional gastrointestinal disorders by the second and third decades of life. By the third to fourth decades of life, patients developed inflexibility, widespread pain, and limiting fatigue. The prognosis of hypermobile EDS/hypermobility spectrum disorders varies widely and is difficult to predict for individual patients. A convenience sample of children diagnosed with a precursor to hypermobile EDS at a tertiary hospital who were followed for three years found four factors that predicted disease severity and modestly predicted development of disability over time: multisystem involvement, pain, fatigue, and postural control.60However, variable outcomes were the rule. In adults, chronic pain, gastrointestinal and genitourinary problems, fatigue, restricted mobility, and frequent injuries were most often associated with the functional outcomes of decreased perceived quality of life and decreased participation in activities of daily living.30,53,61"
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources:Search in MEDLINE and CINAHL for joint hypermobility (in general, including EDS) and epidemiolog$.mp, risk factors, (pathogenesis or pathogenetic or pathogenic$ or pathogeny).mp, clinical presentation, symptoms, diagnosis, diagnostic criteria, clinical management or prognosis limiting to English and the past 10 years with additional review of bibliographies for relevant articles.American Family Physicianeditors identified no relevant evidence from POEMs or the Cochrane database. No relevant guidelines were found in the ECRI Guidelines Trust or the U.S. Preventive Services Task Force. Search dates: November 25 and 26, 2019; and October 28, 2020."
+        },
+        {
+            "parent": 7,
+            "text": "The authors thank our medical librarians at Gundersen Health System–La Crosse campus and Drs. Karyn Laursen and Kerry Jedele for their reviews and assistance with the manuscript."
+        },
+        {
+            "parent": 7,
+            "text": "The views expressed in this article are those of the authors and do not necessarily reflect the official position of the Department of Defense or the U.S. government."
+        }
+    ],
+    "locked": false
+}

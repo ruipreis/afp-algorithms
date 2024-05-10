@@ -1,0 +1,167 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2000/0915/p1333.html#afp20000915p1333-f1",
+    "title": "Proteinuria in Adults: A Diagnostic Approach | AAFP",
+    "author": "MICHAEL F. CARROLL, M.D., AND JONATHAN L. TEMTE, M.D., PH.D.",
+    "doi": "Am Fam Physician.2000;62(6):1333-1340",
+    "abstract": "Proteinuria is a common finding in adults in primary care practice. An algorithmic approach can be used to differentiate benign causes of proteinuria from rarer, more serious disorders. Benign causes include fever, intense activity or exercise, dehydration, emotional stress and acute illness. More serious causes include glomerulonephritis and multiple myeloma. Alkaline, dilute or concentrated urine; gross hematuria; and the presence of mucus, semen or white blood cells can cause a dipstick urinalysis to be falsely positive for protein. Of the three pathophysiologic mechanisms (glomerular, tubular and overflow) that produce proteinuria, glomerular malfunction is the most common and usually corresponds to a urinary protein excretion of more than 2 g per 24 hours. When a quantitative measurement of urinary protein is needed, most physicians prefer a 24-hour urine specimen. However, the urine protein-to-creatinine ratio performed on a random specimen has many advantages over the 24-hour collection, primarily convenience and possibly accuracy. Most patients evaluated for proteinuria have a benign cause. Patients with proteinuria greater than 2 g per day or in whom the underlying etiology remains unclear after a thorough medical evaluation should be referred to a nephrologist.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition of Proteinuria",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Mechanisms of Proteinuria",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Detecting and Quantifying Proteinuria",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Evaluation of Proteinuria",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "MICROSCOPIC URINALYSIS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TRANSIENT PROTEINURIA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PERSISTENT PROTEINURIA",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "NEPHROTIC SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ORTHOSTATIC PROTEINURIA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ISOLATED PROTEINURIA",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Proteinuria on initial dipstick urinalysis testing is found in as much as 17 percent of selected populations.1Although a wide variety of conditions, ranging from benign to lethal, can cause proteinuria, fewer than 2 percent of patients whose urine dipstick test is positive for protein have serious and treatable urinary tract disorders.2A knowledgeable approach to this common condition is required because the diagnosis has important ramifications for health, insurance eligibility and job qualifications."
+        },
+        {
+            "parent": 0,
+            "text": "Twenty-four hundred years ago, Hippocrates noted the association between “bubbles on the surface of the urine” and kidney disease.3,4Today, proteinuria is defined as urinary protein excretion of greater than 150 mg per day. Urinary protein excretion in healthy persons varies considerably and may reach proteinuric levels under several circumstances. Most dipstick tests (e.g., Albustin, Multistix) that are positive for protein are a result of benign proteinuria, which has no associated morbidity or mortality(Table 1)."
+        },
+        {
+            "parent": 0,
+            "text": "About 20 percent of normally excreted protein is a low-molecular-weight type such as immunoglobulins (molecular weight about 20,000 Daltons), 40 percent is high-molecular-weight albumin (about 65,000 Daltons) and 40 percent is made up of Tamm-Horsfall mucoproteins secreted by the distal tubule."
+        },
+        {
+            "parent": 1,
+            "text": "Normal barriers to protein filtration begin in the glomerulus, which consists of unique capillaries that are permeable to fluid and small solutes but effective barriers to plasma proteins. The adjacent basement membrane and visceral epithelial cells are covered with negatively charged heparan sulfate proteoglycans.5"
+        },
+        {
+            "parent": 1,
+            "text": "Proteins cross to the tubular fluid in inverse proportion to their size and negative charge. Proteins with a molecular weight of less than 20,000 pass easily across the glomerular capillary wall.6Conversely, albumin, with a molecular weight of 65,000 Daltons and a negative charge, is restricted under normal conditions. The smaller proteins are largely reabsorbed at the proximal tubule, and only small amounts are excreted."
+        },
+        {
+            "parent": 1,
+            "text": "The pathophysiologic mechanisms of proteinuria can be classified as glomerular, tubular or overflow(Table 27). Glomerular disease is the most common cause of pathologic proteinuria.8Several glomerular abnormalities alter the permeability of the glomerular basement membrane, resulting in urinary loss of albumin and immunoglobulins.7Glomerular malfunction can cause large protein losses; urinary excretion of more than 2 g per 24 hours is usually a result of glomerular disease(Table 3).9"
+        },
+        {
+            "parent": 1,
+            "text": "Tubular proteinuria occurs when tubulointerstitial disease prevents the proximal tubule from reabsorbing low-molecular-weight proteins (part of the normal glomerular ultrafiltrate). When a patient has tubular disease, usually less than 2 g of protein is excreted in 24 hours. Tubular diseases include hypertensive nephrosclerosis and tubulointerstitial nephropathy caused by nonsteroidal anti-inflammatory drugs."
+        },
+        {
+            "parent": 1,
+            "text": "In overflow proteinuria, low-molecular-weight proteins overwhelm the ability of the proximal tubules to reabsorb filtered proteins. Most often, this is a result of the immunoglobulin overproduction that occurs in multiple myeloma. The resultant light-chain immunoglobulin fragments (Bence Jones proteins) produce a monoclonal spike in the urine electrophoretic pattern.10Table 411lists some common disorders of the three mechanisms of proteinuria."
+        },
+        {
+            "parent": 2,
+            "text": "Dipstick analysis is used in most outpatient settings to semiquantitatively measure the urine protein concentration. In the absence of protein, the dipstick panel is yellow. Proteins in solution interfere with the dye-buffer combination, causing the panel to turn green. False-positive results occur with alkaline urine (pH more than 7.5); when the dipstick is immersed too long; with highly concentrated urine; with gross hematuria; in the presence of penicillin, sulfonamides or tolbutamide; and with pus, semen or vaginal secretions. False-negative results occur with dilute urine (specific gravity more than 1.015) and when the urinary proteins are nonalbumin or low molecular weight."
+        },
+        {
+            "parent": 2,
+            "text": "The results are graded as negative (less than 10 mg per dL), trace (10 to 20 mg per dL), 1+ (30 mg per dL), 2+ (100 mg per dL), 3+ (300 mg per dL) or 4+ (1,000 mg per dL). This method preferentially detects albumin and is less sensitive to globulins or parts of globulins (heavy or light chains or Bence Jones proteins).12"
+        },
+        {
+            "parent": 2,
+            "text": "The sulfosalicylic acid (SSA) turbidity test qualitatively screens for proteinuria. The advantage of this easily performed test is its greater sensitivity for proteins such as Bence Jones. The SSA method requires a few milliliters of freshly voided, centrifuged urine. An equal amount of 3 percent SSA is added to that specimen. Turbidity will result from protein concentrations as low as 4 mg per dL (0.04 g per L). False-positive results can occur when a patient is taking penicillin or sulfonamides and within three days after the administration of radiographic dyes. A false-negative result occurs with highly buffered alkaline urine or a dilute specimen."
+        },
+        {
+            "parent": 2,
+            "text": "Because the results of urine dipstick and SSA tests are crude estimates of urine protein concentration and depend on the amount of urine produced, they correlate poorly with quantitative urine protein determinations.6Most patients with persistent proteinuria should undergo a quantitative measurement of protein excretion, which can be done with a 24-hour urine specimen. The patient should be instructed to discard the first morning void; a specimen of all subsequent voidings should be collected, including the first morning void on the second day. The urinary creatinine concentration should be included in the 24-hour measurement to determine the adequacy of the specimen. Creatinine is excreted in proportion to muscle mass, and its concentration remains relatively constant on a daily basis. Young and middle-aged men excrete 16 to 26 mg per kg per day and women excrete 12 to 24 mg per kg per day. In malnourished and elderly persons, creatinine excretion may be less."
+        },
+        {
+            "parent": 2,
+            "text": "An alternative to the 24-hour urine specimen is the urine protein-to-creatinine ratio (UPr/Cr), determined in a random urine specimen while the person carries on normal activity.13,14Correlation between the UPr/Cr ratio and 24-hour protein excretion has been demonstrated in several diseases, including diabetes mellitus, preeclampsia and rheumatic disease.15–17Recent evidence indicates that the UPr/Cr ratio is more accurate than the 24-hour urine protein measurement.18Fortunately, the ratio is about the same numerically as the number of grams of protein excreted in urine per day. Thus, a ratio of less than 0.2 is equivalent to 0.2 g of protein per day and is considered normal, a ratio of 3.5 is equivalent to 3.5 g of protein per day and is considered nephrotic-range (or heavy) proteinuria."
+        },
+        {
+            "parent": 4,
+            "text": "When proteinuria is found on a dipstick urinalysis, the urinary sediment should be examined microscopically(Figure 1). The findings of the microscopic examination and associated disorders are summarized inTable 5.6Dysmorphic erythrocytes are a result of cell insult secondary to osmotic shift in the nephron, indicating glomerular disease. Gross hematuria will cause proteinuria on dipstick urinalysis, but microscopic hematuria will not."
+        },
+        {
+            "parent": 4,
+            "text": "Findings suggestive of infection on microscopic urinalysis mandate antibiotic treatment and then repeated dipstick testing. Nephrology consultation may be warranted if sediment findings indicate underlying renal disease."
+        },
+        {
+            "parent": 5,
+            "text": "If the results of microscopic urinalysis are inconclusive and the dipstick urinalysis shows trace to 2+ protein, the dipstick test should be repeated on a morning specimen at least twice during the next month (when proteinuria [3+ or 4+] is found on a dipstick urinalysis, work-up should proceed to a quantitative evaluation of a specimen). If a subsequent dipstick test result is negative, the patient has transient proteinuria. This condition is not associated with increased morbidity and mortality, and specific follow-up is not indicated."
+        },
+        {
+            "parent": 6,
+            "text": "When a diagnosis of persistent proteinuria is established, a detailed history and physical examination should be performed, specifically looking for systemic diseases with renal involvement(Table 411). A medication history is particularly important. A 24-hour urine protein measurement or a UPr/Cr ratio on a random urine specimen should be obtained. An adult with proteinuria of more than 2 g per 24 hours (moderate to heavy) requires aggressive work-up. If the creatinine clearance is normal and if the patient has a clear diagnosis such as diabetes or uncompensated congestive heart failure, the underlying medical condition can be treated with close follow-up of proteinuria and renal function (creatinine clearance). A patient with moderate to heavy proteinuria and a decreased creatinine clearance or an unclear cause should have further testing performed in consultation with a nephrologist.Table 619lists specific testing that should be considered in patients with substantial proteinuria."
+        },
+        {
+            "parent": 6,
+            "text": "note:The Cockcroft-Gault formula for estimating creatinine clearance is shown below."
+        },
+        {
+            "parent": 6,
+            "text": "For women, the resulting value is multiplied by 0.85, ideal body weight to be used in presence of marked ascites or obesity.6"
+        },
+        {
+            "parent": 7,
+            "text": "The nephrotic syndrome and proteinuria in the nephrotic range localize the pathologic process to the glomerulus. The diagnostic criteria of nephrotic syndrome include heavy or nephrotic-range proteinuria, hypoalbuminemia, edema, hyperlipidemia and lipiduria. The disease process can be a primary or secondary glomerulonephropathy, as listed inTable 4.11Common secondary causes are diabetic nephropathy, amyloidosis and systemic lupus erythematosus."
+        },
+        {
+            "parent": 8,
+            "text": "Persons younger than 30 years who excrete less than 2 g of protein per day and who have a normal creatinine clearance should be tested for orthostatic or postural proteinuria. This benign condition occurs in about 3 to 5 percent of adolescents and young adults. It is characterized by increased protein excretion in the upright position but normal protein excretion when the patient is supine. To diagnose orthostatic proteinuria, split urine specimens are obtained for comparison. The first morning void is discarded. A 16-hour daytime specimen is obtained with the patient performing normal activities and finishing the collection by voiding just before bedtime. An eight-hour overnight specimen is then collected."
+        },
+        {
+            "parent": 8,
+            "text": "The daytime specimen typically has an increased concentration of protein, with the nighttime specimen having a normal concentration. Patients with true glomerular disease have reduced protein excretion in the supine position, but it will not return to normal (less than 50 mg per eight hours), as it will with orthostatic proteinuria."
+        },
+        {
+            "parent": 8,
+            "text": "Orthostatic proteinuria is a benign condition associated with normal renal function after as long as 20 to 50 years of follow-up.20,21Annual blood pressure measurement and urinalysis are recommended for these patients."
+        },
+        {
+            "parent": 9,
+            "text": "A proteinuric patient with normal renal function, no evidence of systemic disease that might cause renal malfunction, normal urinary sediment and normal blood pressures is considered to have isolated proteinuria. Protein excretion is usually less than 2 g per day. These patients have a 20 percent risk for renal insufficiency after 10 years and should be observed with blood pressure measurement, urinalysis and a creatinine clearance every six months.7Isolated proteinuria with urinary protein excretion of more than 2 g per day is rare and usually signifies glomerular disease.7These patients need further testing, and a nephrology consultation should be considered."
+        },
+        {
+            "parent": 10,
+            "text": "The clinical significance of proteinuria varies widely. A systematic approach to a patient with this finding will allow the clinician to efficiently distinguish between benign and pathologic causes. Becoming familiar with the diagnostic evaluation, including the increasingly valuable UPr/Cr ratio, will assist the physician in making an accurate and timely diagnosis. Patients for whom the cause of the proteinuria remains unclear after a diagnostic evaluation should be referred to a nephrologist. In addition, patients with more than 2 g of protein in a 24-hour urine specimen likely have a glomerular malfunction and should have a nephrology consultation."
+        }
+    ],
+    "locked": false
+}

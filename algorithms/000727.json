@@ -1,0 +1,168 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0101/p71.html#afp20050101p71-f6",
+    "title": "Imaging for Suspected Appendicitis | AAFP",
+    "author": "JERRY L. OLD, M.D., REGINALD W. DUSING, M.D., WENDELL YAP, M.D., AND JARED DIRKS, M.D.",
+    "doi": "Am Fam Physician.2005;71(1):71-78",
+    "abstract": "Acute appendicitis is the most common reason for emergency abdominal surgery and must be distinguished from other causes of abdominal pain. Family physicians play a valuable role in the early diagnosis and management of this condition. However, the overall diagnostic accuracy achieved by traditional history, physical examination, and laboratory tests has been approximately 80 percent. The ease and accuracy of diagnosis varies by the patient’s sex and age, and is more difficult in women of childbearing age, children, and elderly persons. If the diagnosis of acute appendicitis is clear from the history and physical examination, prompt surgical referral is warranted. In atypical cases, ultrasonography and computed tomography (CT) may help lower the rate of false-negative appendicitis diagnoses, reduce morbidity from perforation, and lower hospital expenses. Ultrasonography is safe and readily available, with accuracy rates between 71 and 97 percent, although it is highly operator dependent and difficult in patients with a large body habitus. While there is controversy regarding the use of contrast media and which CT technique is best, the accuracy rate of CT scanning is between 93 and 98 percent. Disadvantages of CT include radiation exposure, cost, and possible complications from contrast media.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Findings",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Management Options",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Radiologic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "RADIOISOTOPE AND MAGNETIC RESONANCE IMAGING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Indications for Radiologic Modalities",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Appendicitis remains the most common acute surgical condition of the abdomen. In 1997, more than 260,000 new cases occurred in the United States. The overall lifetime occurrence is approximately 12 percent in men and 25 percent in women.1–3"
+        },
+        {
+            "parent": -1,
+            "text": "Because abdominal pain is a common presenting complaint in the outpatient setting, family physicians serve an important role in the rapid diagnosis of acute appendicitis. Accurate and timely diagnosis of acute appendicitis is essential to minimize morbidity. Prompt surgical treatment may reduce the risk of appendix perforation. The case-fatality rate of appendicitis jumps from less than1 percent in nonperforated cases to 5 percent or higher when perforation occurs.4"
+        },
+        {
+            "parent": -1,
+            "text": "The diagnosis of appendicitis traditionally has been based on clinical features found primarily in the patient’s history and physical examination.5An elevated white blood cell count has a low predictive value for appendicitis because it is present in a number of conditions.6While the clinical diagnosis of appendicitis may be straightforward in patients with classic signs and symptoms, atypical presentations can result in delays in treatment, unnecessary hospital admissions for observation, and unnecessary surgery."
+        },
+        {
+            "parent": -1,
+            "text": "Unnecessary surgery for suspected appendicitis exposes patients to increased risks, morbidity, and expense. In 1997, 261,134 patients underwent nonincidental appendectomies in the United States. However, 39,901 (15.3 percent) of the appendixes removed showed no pathologic features of appendicitis.1"
+        },
+        {
+            "parent": -1,
+            "text": "Diagnostic accuracy achieved by history and physical examination has remained at about 80 percent in men and women (men are diagnosed accurately 78 to 92 percent of the time, and women 58 to 85 percent of the time).5Recently, imaging techniques such as ultrasonography, computed tomography (CT), and magnetic resonance imaging (MRI) were evaluated as diagnostic modalities in acute appendicitis and were shown to improve diagnostic accuracy and patient outcomes. However, the routine use of imaging studies in all patients is not well established."
+        },
+        {
+            "parent": 0,
+            "text": "The appendix in an adult is a diverticulum arising from the posteromedial wall of the cecum. It averages 10 cm in length. The base of the appendix is fixed to the cecum, while the remainder of the appendix is free. This fact accounts for its variable location (i.e., retrocecal, subcecal, retroileal, preileal, or pelvic) and explains much of the diversity in clinical presentations among patients with acute appendicitis.7"
+        },
+        {
+            "parent": 0,
+            "text": "The pathophysiology of appendicitis begins with obstruction of the narrow appendiceal lumen. Obstruction has many sources, including fecaliths, lymphoid hyperplasia (related to viral illnesses such as upper respiratory infections, mononucleosis, or gastroenteritis), gastrointestinal parasites, foreign bodies, and Crohn’s disease. Continued secretion of mucus from within the obstructed appendix results in elevated intraluminal pressure, leading to tissue ischemia, over-growth of bacteria, transmural inflammation, appendiceal infarction, and possible perforation.8,9Inflammation may then quickly extend into the parietal peritoneum and adjacent structures."
+        },
+        {
+            "parent": 1,
+            "text": "In a typical presentation, the three clinical findings with the highest predictive value for acute appendicitis are right lower quadrant pain, abdominal rigidity, and migration of pain from the periumbilical region to the right lower quadrant.7These classic findings occur in about 50 percent of patients,5however, making missed diagnosis of appendicitis a common successful malpractice claim against family and emergency department physicians.10Table 16,11summarizes the prevalence of common signs and symptoms of appendicitis."
+        },
+        {
+            "parent": 1,
+            "text": "Unusual presentations occur when the appendix is not in its normal location, when the patient is young or elderly, and when the patient is a woman of childbearing age or is pregnant.12–14"
+        },
+        {
+            "parent": 1,
+            "text": "The single most important physical finding is right lower quadrant pain on palpation of the abdomen. Other findings include low-grade fever, peritoneal signs, and guarding. In addition, the physical signs(Table 2)8,9,15resulting from various maneuvers designed to elicit peritoneal pain can be helpful in the diagnosis.15"
+        },
+        {
+            "parent": 1,
+            "text": "In a recent meta-analysis,5no single clinical finding was found to effectively rule in or rule out acute appendicitis. Diagnosis is particularly difficult in women of childbearing age because acute gynecologic conditions (e.g., pelvic inflammatory disease) may cause symptoms similar to appendicitis. Therefore, false-negative appendectomy (i.e., removal of a normal appendix) rates have been reported to be as high as 47 percent in female patients who are 10 to 39 years of age.5"
+        },
+        {
+            "parent": 2,
+            "text": "If the diagnosis of appendicitis is clear from the patient’s history and physical examination, no further testing is needed, and prompt surgical referral is warranted.15When the diagnosis is not clear, management options for suspected appendicitis include observation in a hospital, diagnostic imaging to clarify the diagnosis, laparoscopy, and appendectomy. Imaging studies are cost effective if a definitive diagnosis can be made and observation in a hospital can be avoided.16Surgical removal of a normal appendix adds to increased morbidity and higher medical costs."
+        },
+        {
+            "parent": 2,
+            "text": "More importantly, imaging studies of patients with an uncertain diagnosis may reduce the rate of perforation, and thus reduce morbidity, mortality, and postoperative hospital stays.5"
+        },
+        {
+            "parent": 3,
+            "text": "If the diagnosis of appendicitis is suspected, a number of radiologic modalities may improve patient outcomes.12,17–19"
+        },
+        {
+            "parent": 3,
+            "text": "Plain radiography(Figure 1)is not specific, generally is not cost effective, and can be misleading in this situation.20In fewer than 5 percent of patients, an opaque fecalith may be apparent in the right lower quadrant. Plain abdominal films generally are not recommended unless other conditions (e.g., perforation, intestinal obstruction, ureteral calculus) are suspected.8Likewise, as advanced cross-sectional imaging techniques have become available, barium enema is now used infrequently.9"
+        },
+        {
+            "parent": 4,
+            "text": "Ultrasonography(Figure 2)is inexpensive, safe, and widely available. Diagnostic accuracy, reported to range from 71 to 97 percent,21,22is highly dependent on operator skill. Ultrasonography is especially useful in women who are pregnant or of childbearing age, and in children. Major advantages to ultrasonography include noninvasiveness, short acquisition time, lack of radiation exposure, and potential for discovering other causes of abdominal pain (e.g., ovarian cysts, ectopic pregnancy, tubo-ovarian abscess)."
+        },
+        {
+            "parent": 4,
+            "text": "Criteria for diagnosis of acute appendicitis by ultrasonography are well established and reliable.5,23The most useful finding on ultrasonography that is suggestive of appendicitis is an outer appendiceal diameter of 6 mm or greater on cross section.24Periappendiceal findings of inflammatory fat changes frequently are apparent on ultrasonography with acute appendicitis. Findings of appendiceal perforation include loculated pericecal fluid, phlegmon (an ill-defined layer structure of the appendiceal wall) or abscess, prominent pericecal fat, and circumferential loss of the submucosal layer.25"
+        },
+        {
+            "parent": 4,
+            "text": "Difficulties with ultrasonography include the fact that a normal appendix must be identified to rule out acute appendicitis.17Visualization of a normal appendix is more difficult in patients with a large body habitus and when there is an associated ileus, which produces shadowing secondary to overlying gas-filled loops of bowel. Accuracy of ultrasonography also decreases with retrocecal location of the appendix. This is one of the reasons the diagnosis may be in doubt.26"
+        },
+        {
+            "parent": 4,
+            "text": "Meckel’s diverticulum, cecal diverticulitis, inflammatory bowel disease, pelvic inflammatory disease, and endometriosis can cause false-positive ultrasound results. Patients often complain of discomfort evoked by the transducer pressure during ultrasound evaluation.27"
+        },
+        {
+            "parent": 5,
+            "text": "CT is more precise than ultrasonography and more reproducible from hospital to hospital(Figures 3through5). It has a diagnostic accuracy rate for acute appendicitis of 93 to 98 percent.11In a recent meta-analysis, findings on CT increased the certainty of diagnosis more than findings on ultrasonography.28[Strength of recommendation: B, meta-analysis of studies with inconsistent findings] Therefore, consensus in the literature is moving toward an optimal CT scanning technique for acute appendicitis.27In the past, three major approaches have been advocated: (1) unenhanced CT of the abdomen and pelvis,29(2) addition of oral and/or intravenous contrast media,30and (3) focused appendiceal CT (imaging only the right lower quadrant) using rectally administered contrast media,16,31although this would exclude abdominal pathology outside the field of view."
+        },
+        {
+            "parent": 5,
+            "text": "Recent investigation indicates that abdominopelvic CT is an appropriate initial approach to imaging patients for acute appendicitis.27Use of intravenous and oral/rectal contrast media and thin cuts optimizes the study."
+        },
+        {
+            "parent": 5,
+            "text": "The accuracy of CT relies in part on its ability to reveal a normal appendix better than ultrasonography. An inflamed appendix revealed on a CT scan is larger than 6 mm in diameter, and has appendiceal wall thickening and wall enhancement after contrast media infusion.32,33CT scans also can reveal periappendiceal inflammatory changes, which may include inflammatory fat stranding, phlegmon, free fluid, free air bubbles, abscess, and adenopathy.33"
+        },
+        {
+            "parent": 5,
+            "text": "Helical CT also has been shown to be an excellent imaging tool for differentiating appendicitis from most acute gynecologic conditions, thus challenging the use of ultrasonography in women.34Nevertheless, transvaginal ultrasonography remains the standard if a gynecologic diagnosis is in question following CT."
+        },
+        {
+            "parent": 5,
+            "text": "Disadvantages of CT include possible iodinated-contrast-media allergy, patient discomfort from administration of contrast media (especially if rectal contrast media is used), exposure to ionizing radiation, and cost. However, the cost is considerably less than that of removing a normal appendix or hospital observation (which is currently an average of 1.6 days to rule out appendicitis).21"
+        },
+        {
+            "parent": 6,
+            "text": "Radioisotope imaging with labeled white blood cells (WBCs) is being investigated in patients with acute appendicitis. In the fall of 2004, the U.S. Food and Drug Administration approved a new product that utilizes a monoclonal antibody to label WBCs in vivo quickly and effectively. The product, technetium (99m Tc) fanolesomab (NeutroSpec), is specifically indicated for “scintigraphic imaging of patients with equivocal signs and symptoms of appendicitis who are five years of age or older.”35"
+        },
+        {
+            "parent": 6,
+            "text": "The results from a few studies indicate that MRI is helpful in diagnosing acute appendicitis in certain patient populations (e.g., children, pregnant women).5"
+        },
+        {
+            "parent": 7,
+            "text": "The optimal imaging technique for acute appendicitis should have several key characteristics. It must be accurate, quick, safe, technically nonchallenging, readily available, cost efficient, and capable of being performed with little risk or discomfort for the patient. Imaging procedures, specifically ultrasonography and CT(Table 35,15,21), seem to hold great promise, especially when used in clinically equivocal cases."
+        },
+        {
+            "parent": 7,
+            "text": "However, the routine use of ultrasonography and CT in the diagnosis of appendicitis in all patients is not well established.21If the diagnosis is apparent from the history, physical examination, and laboratory studies, taking the patient directly to surgery without imaging is justified. The results of several studies show no significant change in misdiagnosis of appendicitis after widespread implementation of ultrasonography and CT.36,37There is concern that reliance on radiographic studies may distract from careful and timely history and physical examination, and may not be cost effective. In addition, radiographic studies simply are not necessary in all patients.Figure 6offers guidance on the diagnosis and management of acute appendicitis. The exact role and indications for use of these imaging modalities as diagnostic aids still are being defined."
+        },
+        {
+            "parent": 7,
+            "text": "A wide range of results for each imaging modality has been reported in the literature, depending on the study population and study design. Outcome studies are beginning to appear in the literature in which the financial and medical implications of imaging studies in patients with possible acute appendicitis are being assessed. For now, the use of imaging modalities in atypical presentations of suspected cases of appendicitis should complement, but not replace, clinical assessment and judgment."
+        }
+    ],
+    "locked": false
+}

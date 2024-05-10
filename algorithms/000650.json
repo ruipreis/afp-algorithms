@@ -1,0 +1,183 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0615/p2195.html#afp20060615p2195-f1",
+    "title": "Management of Hip Fracture: The Family Physician’s Role | AAFP",
+    "author": "SHOBHA S. RAO, M.D., AND MANJULA CHERUKURI, M.D.",
+    "doi": "Am Fam Physician.2006;73(12):2195-2200",
+    "abstract": "The incidence of hip fracture is expected to increase as the population ages. One in five persons dies in the first year after sustaining a hip fracture, and those who survive past one year may have significant functional limitation. Although surgery is the main treatment for hip fracture, family physicians play a key role as patients’ medical consultants. Surgical repair is recommended for stable patients within 24 to 48 hours of hospitalization. Antibiotic prophylaxis is indicated to prevent infection after surgery. Thromboprophylaxis has become the standard of care for management of hip fracture. Effective agents include unfractionated heparin, low-molecular-weight heparin, fondaparinux, and warfarin. Optimal pain control, usually with narcotic analgesics, is essential to ensure patient comfort and to facilitate rehabilitation. Rehabilitation after hip fracture surgery ideally should start on the first postoperative day with progression to ambulation as tolerated. Indwelling urinary catheters should be removed within 24 hours of surgery. Prevention, early recognition, and treatment of contributing factors for delirium also are crucial. Interventions to help prevent future falls, exercise and balance training in ambulatory patients, and the treatment of osteoporosis are important strategies for the secondary prevention of hip fracture.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Surgery",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Thromboprophylaxis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "PHARMACOLOGIC AGENTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "MECHANICAL DEVICES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TIMING AND DURATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Antibiotic Prophylaxis",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Urinary Tract Complications",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Delirium",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Pain Management",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Rehabilitation",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "OSTEOPOROSIS PREVENTION",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "FALL PREVENTION",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Conservative Management",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Of those who survive one year after hip fracture, only 40 percent can perform all routine activities of daily living and only 54 percent can walk without an aid.1,2Although surgical repair usually is needed after hip fracture, family physicians play an important role in supporting patients through the treatment process, facilitating rehabilitation and recovery, and initiating secondary prevention strategies."
+        },
+        {
+            "parent": 0,
+            "text": "A hip fracture diagnosis usually is established based on patient history, physical examination, and plain radiography. A patient with hip fracture typically presents with pain and is unable to walk after a fall. On physical examination, the injured leg is shortened, externally rotated, and abducted in the supine position. Plain radiographs of the hip (a posteroanterior view of the pelvis and a lateral view of the femur) usually confirm the diagnosis. However, when clinical suspicion for hip fracture is high and plain radiographs are normal, occult fracture should be ruled out with magnetic resonance imaging (MRI). If MRI is contraindicated, a bone scan may be useful in diagnosing fracture, but results may be normal for up to 72 hours after the injury."
+        },
+        {
+            "parent": 1,
+            "text": "Studies have indicated that early surgery (i.e., 24 to 48 hours after hospitalization) for hip fracture is associated with lower one-year mortality,2,3a lower incidence of pressure sores, decreased confusion,4and a lower risk of fatal pulmonary embolism (PE).5However, many of these studies did not control for the presence and severity of comorbidities. Although further studies are needed to identify persons who are at a high risk for surgery because of medical conditions, the risks of early surgery may outweigh the risks of delaying surgery in patients with unstable comorbidities (e.g., congestive heart failure, unstable angina, sepsis, severe hypoxia, anemia). Delaying surgery while stabilizing these patients is reasonable; however, waiting more than 72 hours should be avoided to prevent complications from prolonged immobilization."
+        },
+        {
+            "parent": 2,
+            "text": "Thromboembolic complications cause significant morbidity and mortality in patients undergoing hip fracture surgery. Without prophylaxis, the rate of total deep venous thrombosis (DVT) in these patients is approximately 50 percent, and the rate of fatal PE is 1.4 to 7.5 percent.6The effectiveness of several drug treatments (e.g., heparinoids, fondaparinux [Arixtra], warfarin [Coumadin], antiplatelet agents) for the prophylaxis of thromboembolism after hip fracture have been studied.SeeOnline Table Afor a summary of the evidence for thromboprophylaxis."
+        },
+        {
+            "parent": 3,
+            "text": "A Cochrane review7examined the effectiveness of unfractionated heparin and low-molecular-weight heparin (LMWH) for the prevention of DVT and PE after hip fracture surgery in older patients. Patients taking unfractionated heparin or LMWH had significantly lower incidence of lower extremity DVT compared with placebo or no treatment.7There was insufficient evidence to recommend one form of heparin over the other. Anticoagulation with both forms of heparin is associated with a slight increased risk of postoperative bleeding; however, LMWH is associated with a lower incidence of thrombocytopenia compared with unfractionated heparin.8"
+        },
+        {
+            "parent": 3,
+            "text": "Studies3,6support the use of warfarin to prevent thromboembolic complications in patients undergoing hip fracture surgery. Typically, patients receive 5 mg of warfarin per day for three days beginning on the first postoperative day. The patient’s International Normalized Ratio (INR) is used to guide further dosing. The patient’s INR should be between 2 and 3 with a target of 2.5. The need for frequent INR monitoring and the potential for overtreatment or undertreatment are disadvantages of warfarin therapy.3Aspirin has been shown to reduce the risk of DVT and PE compared with placebo; however, aspirin was much less effective when compared with other prophylactic regimens.3,6,9"
+        },
+        {
+            "parent": 3,
+            "text": "Fondaparinux is a synthetic pentasaccharide that significantly increases an antithrombin’s ability to inactivate factor Xa. A randomized double-blind study10evaluated the effectiveness of fondaparinux for the prophylaxis of venous thromboembolism (VTE) in 1,711 patients undergoing hip fracture surgery. Patients received 40 mg of enoxaparin (Lovenox) or 2.5 mg of fondaparinux subcutaneously once per day. The incidence of VTE was significantly reduced by the 11th postoperative day in the fondaparinux group compared with the enoxaparin group (8.3 and 19.1 percent of patients, respectively;P< .001). The incidence of proximal DVT also was reduced significantly in the fondaparinux group compared with the enoxaparin group (0.9 and 4.3 percent of patients, respectively). The incidence of major bleeding was not significantly different between the two groups. The U.S. Food and Drug Administration (FDA) has approved fondaparinux for the prevention of VTE in patients with hip fracture; however, more studies are needed to evaluate the cost-effectiveness of the therapy."
+        },
+        {
+            "parent": 4,
+            "text": "Foot and calf pumping devices7and compression stockings11have been shown to decrease the incidence of thromboembolic complications in persons with hip fracture compared with no treatment. However, compliance is reportedly a problem.7"
+        },
+        {
+            "parent": 5,
+            "text": "The appropriate timing and duration of thromboprophylaxis is controversial. It is reasonable to begin preoperative anticoagulation with unfractionated heparin or LMWH as soon as possible after the fracture occurs because of the increased risk of thromboembolism in patients with fracture. Prophylaxis should continue for 10 to 14 days after surgery.6Anticoagulation may be delayed for 12 to 24 hours after surgery, until hemostasis is established, in patients at high risk of bleeding.6A double-blind clinical trial12showed that extended fondaparinux prophylaxis (four weeks) significantly reduced the incidence of documented VTE after hip fracture surgery compared with a one-week regimen (1.4 and 35 percent, respectively)."
+        },
+        {
+            "parent": 5,
+            "text": "Guidelines from the American College of Chest Physicians6recommend thromboprophylaxis for at least 10 days after surgery for patients with hip fracture. The guidelines recommend extended prophylaxis with fondaparinux, LMWH, or warfarin for 28 to 35 days after surgery, particularly for patients at high risk of thromboembolism (e.g., history of VTE, current obesity, delayed mobilization, advanced age, malignancy)."
+        },
+        {
+            "parent": 6,
+            "text": "Antibiotic prophylaxis is recommended to prevent infection after hip fracture surgery. A Cochrane review13showed that perioperative antibiotic use significantly reduced the incidence of deep and superficial wound infections and urinary tract infections compared with control groups. Ideally, antibiotic prophylaxis is initiated within the two hours before surgery14and is continued for 24 hours after surgery.15First- or second-generation cephalosporins are the agents of choice to preventStaphylococcus aureusinfection, which is common postoperatively. Vancomycin can be used in patients who are allergic to cephalosporins.16Seeonline Table Bfor a summary of the evidence for antibiotic prophylaxis."
+        },
+        {
+            "parent": 7,
+            "text": "Urinary tract infections and urinary retention are common problems after hip fracture surgery.17Evidence supports removing indwelling urinary catheters within 24 hours of surgery to reduce the incidence of urinary retention.3Transient urinary retention can be managed with intermittent sterile catheterization as needed. Physicians also should consider discontinuing medications that can contribute to urinary retention (e.g., anticholinergics, sedatives)."
+        },
+        {
+            "parent": 8,
+            "text": "Delirium may be the most common medical complication after hip fracture.18Delirium may interfere with recovery and rehabilitation, increase duration of hospitalization, and increase mortality after one year.19Common precipitating factors include electrolyte and metabolic abnormalities, inadequate pain control, infection, and psychoactive medications."
+        },
+        {
+            "parent": 8,
+            "text": "Physicians can help prevent delirium by avoiding polypharmacy, minimizing the use of anticholinergic and psychoactive medications, removing urinary catheters and intravenous lines as soon as possible, and minimizing sleep interruptions.20If delirium occurs, a thorough evaluation and treatment of the underlying cause is needed. Patients who do not respond to conservative measures may benefit from low-dose tranquilizers (e.g., haloperidol [Haldol]) or atypical antipsychotics (e.g., risperidone [Risperdal], olanzapine [Zyprexa]). These agents should be discontinued as soon as possible after the delirium is resolved."
+        },
+        {
+            "parent": 9,
+            "text": "Optimal pain control is essential after hip fracture to ensure patient comfort and to facilitate rehabilitation. Routine assessment and formal charting of pain scores are important for successful pain control. Inadequate pain control after hip fracture is associated with poor short- and long-term functional recovery and longer hospitalization.21An increased risk of delirium has been observed in patients who did not receive adequate postoperative pain control.22Opioid analgesia in this setting does not increase the risk of delirium.23,24"
+        },
+        {
+            "parent": 9,
+            "text": "Immediately after surgery, pain is best managed with patientcontrolled analgesia with morphine. Intravenous or oral opiates may be needed for subsequent pain control, particularly during physical therapy sessions. Regularly scheduled doses of stool softeners and laxatives can prevent constipation caused by opioid use. Meperidine (Demerol), propoxyphene (Darvon), and pentazocine (Talwin) should be avoided for pain control in older patients because of the risk of adverse side effects.25"
+        },
+        {
+            "parent": 10,
+            "text": "Rehabilitation is essential after hip fracture. Prolonged bed rest can increase the risk of pressure sores, atelectasis, pneumonia, deconditioning, and thromboembolic complications. Weight bearing immediately after hip fracture surgery is safe in most patients.3,20Figure 126,27is an algorithm for rehabilitation after hip fracture surgery."
+        },
+        {
+            "parent": 10,
+            "text": "Cohort studies3,28suggest that intense physical therapy (twice-daily therapy sessions) may help improve long-term functional outcomes. Ideally, rehabilitation should begin on the first postoperative day with quadriceps contractions, isometric exercises, and gentle flexion and extension at the hip.26On the second or third postoperative day, the patient may begin supervised ambulation using parallel bars for support, advancing to a walker or cane and then to independent ambulation as tolerated.26"
+        },
+        {
+            "parent": 10,
+            "text": "The length of the cane is important for stability and should be adjusted to allow 20 to 30 degrees of flexion at the elbow when the cane is held at the side.26The patient should hold the cane with the hand opposite the injured hip. Typically, the cane should support approximately 15 to 20 percent of the patient’s total body weight.26Multiple-legged canes (quadripod or tripod canes) have increased support at the base but are heavier and more difficult to use. If a cane does not offer adequate stability, a pick-up walker may be more effective. The patient lifts the pick-up walker, moves it forward, and advances before lifting the walker again. The patient must have the strength to lift the walker and the cognitive function to learn the proper coordination.27A wheeled walker allows a smoother, more coordinated, and faster gait and may be beneficial in patients who are cognitively impaired.27Crutches can support a patient’s full body weight but have several disadvantages. For example, patients need increased arm strength, there is a risk of brachial plexus injury, and they create an unnatural gait pattern.27Continued physical therapy is crucial after discharge from the hospital to ensure optimal functional recovery."
+        },
+        {
+            "parent": 11,
+            "text": "Appropriate follow-up after hospitalization includes assisting patients with recovery and instituting secondary prevention strategies. Two major risk factors for hip fracture are osteoporosis and falls."
+        },
+        {
+            "parent": 12,
+            "text": "Primary prevention of osteoporosis should begin with an assessment of the patient’s risk of osteoporosis to determine the need for bone mineral density (BMD) screening. Guidelines from the National Osteoporosis Foundation (NOF),29the U.S. Preventive Services Task Force (USPSTF),30and the American Academy of Family Physicians31recommend routine BMD screening to detect osteoporosis in women older than 65 years. The USPSTF also recommends screening postmenopausal women 60 to 64 years of age who have risk factors for osteoporosis in addition to menopause.30A meta-analysis32showed that a BMD measurement at the hip that falls one standard deviation below the mean is associated with a 2.6 relative risk of hip fracture.Table 130,33lists risk factors for hip fracture in postmenopausal women."
+        },
+        {
+            "parent": 12,
+            "text": "To reduce bone loss, physicians should encourage postmenopausal women to participate in regular weight-bearing exercise, to quit smoking, to limit alcohol intake, and to receive at least 1,500 mg of elemental calcium and 600 to 800 IU of vitamin D per day. The NOF recommends drug therapy for postmenopausal women with BMD T-scores less than −2 and no additional risk factors for osteoporosis and for those with BMD T-scores less than −1.5 and one or more additional risk factors.29Table 229summarizes FDA-approved therapies for the prevention and treatment of osteoporosis."
+        },
+        {
+            "parent": 13,
+            "text": "Interventions to reduce the risk of falls should target identified risk factors (e.g., muscle weakness; history of falls; use of four or more prescription medications; use of an assistive device; arthritis; depression; age older than 80 years; impairments in gait, balance, cognition, vision, or activities of daily living). Interventions include prescribing strengthening exercises combined with gait and balance training; assessing the patient’s home and eliminating hazards; and monitoring and adjusting the patient’s medications.34A meta-analysis35showed that hip protectors may help prevent hip fractures in patients who have a high risk of falling and in older patients living in nursing homes."
+        },
+        {
+            "parent": 14,
+            "text": "Conservative nonsurgical management of hip fracture should be considered for nonambulatory patients with advanced dementia. Returning these patients to their home environment may be the most effective way to avoid hospitalization-related complications (e.g., delirium, nosocomial infections). Treatment should focus on aggressive pain management and rehabilitation to prevent stiffness and weakness of the extremities. Patients may become mobile as tolerated."
+        }
+    ],
+    "locked": false
+}

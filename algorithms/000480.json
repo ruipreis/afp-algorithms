@@ -1,0 +1,118 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0215/p409.html#afp20110215p409-f1",
+    "title": "Diagnosis and Treatment of Urinary Tract Infections in Children | AAFP",
+    "author": "BRETT WHITE, MD",
+    "doi": "Am Fam Physician.2011;83(4):409-415",
+    "abstract": "Acute urinary tract infections are relatively common in children, with 8 percent of girls and 2 percent of boys having at least one episode by seven years of age. The most common pathogen isEscherichia coli, accounting for approximately 85 percent of urinary tract infections in children. Renal parenchymal defects are present in 3 to 15 percent of children within one to two years of their first diagnosed urinary tract infection. Clinical signs and symptoms of a urinary tract infection depend on the age of the child, but all febrile children two to 24 months of age with no obvious cause of infection should be evaluated for urinary tract infection (with the exception of circumcised boys older than 12 months). Evaluation of older children may depend on the clinical presentation and symptoms that point toward a urinary source (e.g., leukocyte esterase or nitrite present on dipstick testing; pyuria of at least 10 white blood cells per high-power field and bacteriuria on microscopy). Increased rates ofE. coliresistance have made amoxicillin a less acceptable choice for treatment, and studies have found higher cure rates with trimethoprim/sulfamethoxazole. Other treatment options include amoxicillin/clavulanate and cephalosporins. Prophylactic antibiotics do not reduce the risk of subsequent urinary tract infections, even in children with mild to moderate vesicoureteral reflux. Constipation should be avoided to help prevent urinary tract infections. Ultrasonography, cystography, and a renal cortical scan should be considered in children with urinary tract infections.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guidelines regarding the diagnosis, treatment, and follow-up of urinary tract infections (UTIs) in children continue to evolve. Although a somewhat less aggressive approach to evaluation is now recommended, it is important for primary care physicians to appropriately diagnose and treat UTIs in children. Some underlying etiologies, including renal scarring and renal disease, can lead to considerable morbidity later in life."
+        },
+        {
+            "parent": -1,
+            "text": "Acute UTIs are relatively common in children. By seven years of age, 8 percent of girls and 2 percent of boys will have at least one episode.1In a study of infants presenting to pediatric emergency departments, the prevalence of UTI in infants younger than 60 days with a temperature greater than 100.4°F (38°C) was 9 percent.2The reference standard for the diagnosis of UTI is a single organism cultured from a specimen obtained at the following concentrations: suprapubic aspiration specimen, greater than 1,000 colony-forming units per mL; catheter specimen, greater than 10,000 colony-forming units per mL; or clean-catch, midstream specimen, 100,000 colony-forming units per mL or greater.3–5Use of lower colony counts in symptomatic patients has been advocated,6although this has not been included in established guidelines."
+        },
+        {
+            "parent": -1,
+            "text": "Common uropathogens includeEscherichia coli(accounting for approximately 85 percent of UTIs in children),Klebsiella,Proteus,Enterobacter,Citrobacter,Staphylococcus saprophyticus, andEnterococcus.7A systematic review found that renal parenchymal defects are identified in 3 to 15 percent of children within one to two years of their first diagnosed UTI.8Long-term complications of UTI associated with renal scarring include hypertension, chronic renal failure, and toxemia in pregnancy. Long-term follow-up data are limited, although one Swedish study found that among patients who had renal scarring from pyelonephritis during childhood, 23 percent developed hypertension and 10 percent developed end-stage renal disease.9However, more recent studies question the association between pyelonephritis and end-stage renal disease.10Baseline abnormalities of the urogenital tract have been reported in up to 3.2 percent of healthy, screened infants.11Additionally, obstructive anomalies are found in up to 4 percent and vesicoureteral reflux in 8 to 40 percent of children being evaluated for their first UTI. Children younger than two years may be at greater risk of parenchymal defects than older children.12"
+        },
+        {
+            "parent": 1,
+            "text": "Clinical signs and symptoms of a UTI depend on the age of the child. Newborns with UTI may present with jaundice, sepsis, failure to thrive, vomiting, or fever. In infants and young children, typical signs and symptoms include fever, strong-smelling urine, hematuria, abdominal or flank pain, and new-onset urinary incontinence. School-aged children may have symptoms similar to adults, including dysuria, frequency, or urgency. Boys are at increased risk of UTI if younger than six months, or if younger than 12 months and uncircumcised. Girls are generally at an increased risk of UTI, particularly if younger than one year.3Physical examination findings can be nonspecific but may include suprapubic tenderness or costovertebral angle tenderness."
+        },
+        {
+            "parent": 2,
+            "text": "Dipstick tests for UTI include leukocyte esterase, nitrite, blood, and protein. Leukocyte esterase is the most sensitive single test in children with a suspected UTI. The test for nitrite is more specific but less sensitive. A negative leukocyte esterase result greatly reduces the likelihood of UTI, whereas a positive nitrite result makes it much more likely; the converse is not true, however. Dipstick tests for blood and protein have poor sensitivity and specificity in the detection of UTI and may be misleading. Accuracy of positive findings is as follows (assumes a 10 percent pretest probability)13:"
+        },
+        {
+            "parent": 2,
+            "text": "Nitrite: 53 percent sensitivity, 98 percent specificity, 75 percent probability of UTIBacteria on microscopy: 81 percent sensitivity, 83 percent specificity, 35 percent probability of UTILeukocytes on microscopy: 73 percent sensitivity, 81 percent specificity, 30 percent probability of UTILeukocyte esterase: 83 percent sensitivity, 78 percent specificity, 30 percent probability of UTILeukocyte esterase or nitrite: 93 percent sensitivity, 72 percent specificity, 27 percent probability of UTIBlood: 47 percent sensitivity, 78 percent specificity, 19 percent probability of UTIProtein: 50 percent sensitivity, 76 percent specificity, 19 percent probability of UTI"
+        },
+        {
+            "parent": 2,
+            "text": "All febrile children between two and 24 months of age with no obvious cause of infection should be evaluated for UTI, with the exception of circumcised boys older than 12 months.14Older children should be evaluated if the clinical presentation points toward a urinary source. The National Institute for Health and Clinical Excellence in the United Kingdom endorses incorporating specific strategies for urine testing based on the child's age(Figure 1).15In this model, microscopy and urine culture should be performed in children younger than three years instead of dipstick testing. The presence of pyuria of at least 10 white blood cells per high-power field and bacteriuria are recommended as the criteria for diagnosing UTI with microscopy.16In young children, urine samples collected with a bag are unreliable compared with samples collected with a catheter.17Therefore, in a child who is unable to provide a clean-catch specimen, catheterization should be considered. If urine cannot be cultured within four hours of collection, the sample should be refrigerated."
+        },
+        {
+            "parent": 2,
+            "text": "Imaging procedures with the highest ratings from the American College of Radiology Appropriateness Criteria for further evaluation of select children with UTIs are renal and bladder ultrasonography, radionuclide cystography or voiding cystourethrography, and renal cortical scan.18Renal and bladder ultrasonography is effective for evaluating anatomy, but is unreliable for detecting vesicoureteral reflux. Radionuclide cystography or voiding cystourethrography is effective for screening and grading vesicoureteral reflux, but involves radiation exposure and catheterization. Although voiding cystourethrography is suggested for either girls or boys, radionuclide cystography is suggested only for girls because voiding cystourethrography is needed for adequate anatomic imaging of the urethra and bladder in boys. A renal cortical scan (also called scintigraphy or DMSA scan) uses technetium and is effective for assessing renal scarring, but requires intravenous injection of radioisotope."
+        },
+        {
+            "parent": 2,
+            "text": "Long-term outcome studies have not been performed to determine the best initial imaging study in children diagnosed with UTI. Guidelines based on observational studies and expert opinion recommend that all boys, girls younger than three years, and girls three to seven years of age with a temperature of 101.3°F (38.5°C) or greater receive cystography and ultrasonography with a first-time UTI.3An optional imaging strategy for febrile children with UTI, especially those older than three years, is to first perform ultrasonography and a renal cortical scan. This strategy avoids bladder catheterization with cystography and minimizes radiation exposure if the results of the scan are normal. However, if pyelonephritis or cortical scarring is found on the renal cortical scan, cystography is indicated.3"
+        },
+        {
+            "parent": 2,
+            "text": "Observation without imaging should be considered in girls three years or older with a temperature less than 101.3° F and in all girls older than seven years.3The family should share in the decision to perform imaging with the first UTI or delay imaging until the second UTI, if it occurs.Figure 2is an algorithm for imaging strategies in children with UTI.3"
+        },
+        {
+            "parent": 3,
+            "text": "Although fever may be the sole presenting symptom in children younger than 24 months, physical examination findings may point toward an alternative diagnosis, including otitis media, gastroenteritis, or upper respiratory tract infection. Occult bacteremia should always be considered, although the probability of this diagnosis is much lower than UTI (less than 1 versus 7 percent) in fully immunized children with no other identifiable potential source for fever on physical examination.4Urinary calculi, urethritis (including a sexually transmitted infection), dysfunctional elimination, and diabetes mellitus must be considered in verbal children with urinary tract problems."
+        },
+        {
+            "parent": 4,
+            "text": "Although amoxicillin has traditionally been a first-line antibiotic for UTI, increased rates ofE. coliresistance have made it a less acceptable choice, and studies have found higher cure rates with trimethoprim/sulfamethoxazole (Bactrim, Septra). Other choices include amoxicillin/clavulanate (Augmentin) or cephalosporins, such as cefixime (Suprax), cefpodoxime, cefprozil (Cefzil), or cephalexin (Keflex).10Table 1lists commonly used antibiotics, with dosing information and adverse effects. Physicians should be aware of local bacterial resistance patterns that might affect antibiotic choices."
+        },
+        {
+            "parent": 4,
+            "text": "A Cochrane review analyzing short-duration (two to four days) versus standard-duration (seven to 14 days) oral antibiotics in 652 children with lower UTIs found no significant difference in positive urine cultures between the therapies immediately after treatment (eight studies: relative risk = 1.06; 95% confidence interval, 0.64 to 1.76) or 15 months after treatment (10 studies: relative risk = 0.95; 95% confidence interval, 0.70 to 1.29). There was also no significant difference between short- and standard-duration therapies in the development of resistant organisms at the end of treatment.19Thus, a two- to four-day course of oral antibiotics appears to be as effective as a seven- to 14-day course in children with lower UTIs.19A single-dose or single-day course may be less effective than longer courses of oral antibiotics and is not recommended.20,21"
+        },
+        {
+            "parent": 4,
+            "text": "When the presenting symptoms are nonspecific for a UTI or the urine dipstick test is nondiagnostic, there may be a delay in treatment while culture results are pending. Parents can be reassured that antibiotics initiated 24 hours after the onset of fever are not associated with a higher risk of parenchymal defects than immediate antibiotics in children younger than two years.22However, delaying antibiotics by four days or more may increase the risk of renal scarring.8"
+        },
+        {
+            "parent": 4,
+            "text": "Fluoroquinolones are not usually used in children because of potential concerns about sustained injury to developing joints, although there is no compelling evidence supporting the occurrence of this phenomenon. Fluoroquinolones may be useful when infection is caused by multidrug-resistant pathogens for which there is no safe and effective alternative, parenteral therapy is not feasible, and no other effective oral agent is available. Guidelines from the American Academy of Pediatrics recommend limiting fluoroquinolone therapy to patients with UTIs caused byPseudomonas aeruginosaor other multidrug-resistant, gram-negative bacteria.23Ciprofloxacin (Cipro) is approved by the U.S. Food and Drug Administration for complicated UTIs and pyelonephritis attributable toE. coliin patients one to 17 years of age.23"
+        },
+        {
+            "parent": 4,
+            "text": "A Cochrane review concluded that children with acute pyelonephritis can be treated effectively with oral antibiotics (e.g., amoxicillin/clavulanate, cefixime, ceftibuten [Cedax]) for 10 to 14 days or with short-courses (two to four days) of intravenous therapy followed by oral therapy. If intravenous therapy is used, single daily dosing with aminoglycosides is safe and effective. Studies are needed to determine the optimal duration of intravenous therapy in children with acute pyelonephritis, but 10 to 14 days is typical.24Hospitalization should be considered for any child that is unable to tolerate oral intake or when the diagnosis is uncertain in a markedly ill child."
+        },
+        {
+            "parent": 4,
+            "text": "Follow-up assessment to confirm an appropriate clinical response should be performed 48 to 72 hours after initiating antimicrobial therapy in all children with UTI. Culture and susceptibility results may indicate that a change of antibiotic is necessary. If expected clinical improvement does not occur, consider further evaluation (e.g., laboratory studies, imaging, consultation with subspecialists). Referral to a subspecialist is indicated if vesicoureteral reflux, renal scarring, anatomic abnormalities, or renal calculi are discovered, or if invasive imaging procedures are considered."
+        },
+        {
+            "parent": 5,
+            "text": "In an observational study of otherwise healthy children with a first UTI, antibiotic prophylaxis was not associated with a reduced risk of recurrent UTI and increased the risk of treatment-resistant pathogens.25A randomized controlled trial of children two months to seven years of age found that prophylactic antibiotics for 12 months following a febrile UTI did not reduce the risk of subsequent UTI, even in children with mild to moderate vesicoureteral reflux.26Another randomized controlled trial of children and adolescents with pyelonephritis found that antibiotic prophylaxis did not prevent subsequent UTIs in patients with no documented vesicoureteral reflux or with mild to moderate vesicoureteral reflux.27Antibiotic prophylaxis may be more beneficial in children with more severe vesicoureteral reflux, however.28The most recent Cochrane review on the subject concluded that large, properly randomized, double-blind studies are needed to determine the effectiveness of long-term antibiotics for the prevention of UTI in susceptible children.1Additionally, continuous antibiotic prophylaxis in children younger than two and a half years with vesicoureteral reflux may not decrease the risk of pyelonephritis or renal damage.29"
+        },
+        {
+            "parent": 5,
+            "text": "Constipation should be addressed in infants and children who have had a UTI to help prevent subsequent infections.30There is some evidence that cranberry juice decreases symptomatic UTIs over 12-months, particularly in women with recurrent UTIs.31The effectiveness of cranberry juice in children is less certain, and the high dropout rate in studies indicates that cranberry juice may not be acceptable for long-term prevention. A systematic review concluded that routine circumcision in boys does not reduce the risk of UTI enough to justify the risk of surgical complications.32"
+        }
+    ],
+    "locked": false
+}

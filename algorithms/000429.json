@@ -1,0 +1,235 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0115/p123.html#afp20120115p123-f1",
+    "title": "Current Concepts in Concussion: Evaluation and Management | AAFP",
+    "author": "KEITH A. SCORZA, MD, MBA, MEGHAN F. RALEIGH, MD, AND FRANCIS G. O'CONNOR, MD, MPH",
+    "doi": "Am Fam Physician.2012;85(2):123-132",
+    "abstract": "Concussion is a disturbance in brain function caused by direct or indirect force to the head. It is a functional rather than structural injury that results from shear stress to brain tissue caused by rotational or angular forces—direct impact to the head is not required. Initial evaluation involves eliminating cervical spine injury and serious traumatic brain injury. Headache is the most common symptom of concussion, although a variety of clinical domains (e.g., somatic, cognitive, affective) can be affected. Signs and symptoms are nonspecific; therefore, a temporal relationship between an appropriate mechanism of injury and symptoms must be determined. There are numerous assessment tools to aid diagnosis, including symptom checklists, neuropsychological tests, postural stability tests, and sideline assessment tools. These tools are also used to monitor recovery. Cognitive and physical rest are the cornerstones of initial management. There are no specific treatments for concussion; therefore, focus is on managing symptoms and return to play. Because concussion recovery is variable, rigid classification systems have mostly been abandoned in favor of an individualized approach. A graded return-to-play protocol can be implemented once a patient has recovered in all affected domains. Children, adolescents, and those with a history of concussions may require a longer recovery period. There is limited research on the management of concussions in children and adolescents, but concern for potential consequences of injury to the developing brain suggests that a more conservative approach to management is appropriate in these patients.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Presentation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Classification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Natural History",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Assessment Tools",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "SYMPTOM CHECKLISTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "NEUROPSYCHOLOGICAL TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "POSTURAL STABILITY TESTING",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "SIDELINE ASSESSMENT TOOLS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Initial Evaluation",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "SIDELINE EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "HOSPITAL EVALUATION AND IMAGING",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Special Considerations",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "SAME-DAY RETURN TO PLAY",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "CHILDREN AND ADOLESCENTS",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "MULTIPLE CONCUSSIONS",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "SECOND IMPACT SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "Prevention, Education, and Legislation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Concussion is a disturbance in brain function caused by direct or indirect force to the head.1Terms such as concussion and mild traumatic brain injury are often used interchangeably.2Although there is no universal definition for concussion, the most recently proposed definition is provided inTable 1.1"
+        },
+        {
+            "parent": -1,
+            "text": "Concussion is a common injury that has emerged as a major health care concern in the United States.2–6Emergency departments report more than 1 million visits annually for traumatic brain injuries, most of which are concussions.2However, this is likely underreported because many persons do not seek medical care for head injuries.6–10The incidence of sports-related concussions is estimated to be 1.6 to 3.8 million annually.5,6,11–14The danger associated with premature return to play and emerging evidence of long-term consequences of concussions have prompted state and national legislation for youth athletics.15The legislation has led to new guidelines, expansion of neuropsychological testing, and rule changes for sporting events. Consequently, management of concussions has changed significantly."
+        },
+        {
+            "parent": -1,
+            "text": "Concussion can be difficult to recognize, complicated by the lack of a universal definition. Additionally, there are no direct objective measures for diagnosis or recovery, no treatments with well-documented effectiveness,14,16and limited empiric prospective data to guide return-to-play decisions.17–19Clinical judgment, expert guidelines, and available assessment tools must be integrated to establish diagnosis and estimate recovery.14"
+        },
+        {
+            "parent": 0,
+            "text": "Concussion is a functional rather than structural injury that can affect somatic, cognitive, and affective domains.1,8,10,20Sleep disturbances are also common.10,21If any of these domains are impaired, concussion should be considered1; however, other conditions cause similar symptoms (e.g., heat illness, exertional migraines, sleep disorders).9,10,16To diagnose a concussion, a temporal relationship between an appropriate mechanism of injury and onset or worsening of symptoms must be established.10"
+        },
+        {
+            "parent": 0,
+            "text": "Headache is the most common symptom of concussion.9,14,22,23Other common symptoms include dizziness, balance disturbances, and disorientation.14,16,22–24Loss of consciousness, once considered a hallmark of concussion, occurs in less than 10 percent of patients.9,12,16,22Selected symptoms of concussion are listed inTable 2.5,8–10,12,16,19–21,23,25"
+        },
+        {
+            "parent": 1,
+            "text": "There is no consensus regarding classification of concussions.2,9Although numerous severity scales exist, none are validated scientifically.12,26Previous classification systems (e.g., Cantu, American Academy of Neurology) focused on loss of consciousness and amnesia; however, research has demonstrated that such markers do not accurately reflect concussion severity or recovery.8–10,12,14,20The International Conference on Concussion in Sport proposed classification based on simple versus complex presentations; however, this was applied retrospectively and therefore was not an acceptable guide to treatment.1"
+        },
+        {
+            "parent": 1,
+            "text": "An ideal classification system would determine severity at the time of injury, provide prognostic information, and help guide return-to-play decisions. Because such a system does not exist, an individualized approach of monitoring symptoms to resolution is recommended, followed by a graded return-to-play strategy.1,5,8,20"
+        },
+        {
+            "parent": 2,
+            "text": "Previously, most reported concussions were a result of falls or motor vehicle collisions.2Recent studies of younger populations suggest most concussions occur during sporting events,4,26with greatest risk during competitions.3,9,20Although there are no definitive data on whether males or females are at greater risk of concussions, different mechanisms of injury have been suggested. Males seem prone to concussion through player-to-player contact, whereas concussions in females tend to be caused by contact with the playing surface or equipment.27"
+        },
+        {
+            "parent": 2,
+            "text": "Concussion is caused by rotational and angular forces to the brain, and direct impact to the head is not required.9,10,12,20Shear forces disrupt neural membranes, allowing potassium efflux into extracellular space. Resultant increases of calcium and excitatory amino acids are followed by further potassium efflux, leading to suppression of neuron activity.8–10,12,20As sodium-potassium pumps restore balance, there is increased energy requirement, yet a paradoxical decrease in cerebral blood flow. Disruptions of autonomic regulation can persist for several weeks, and the brain may be vulnerable to additional injury.12,28"
+        },
+        {
+            "parent": 3,
+            "text": "Symptoms of concussion typically present immediately after injury, but may be delayed several hours.10,16,21Concussion symptoms usually last less than 72 hours,16and most concussions resolve spontaneously within seven to 10 days.1Recovery may be prolonged in children, adolescents,1,3,9,12,17and those with previous concussions.23,29"
+        },
+        {
+            "parent": 3,
+            "text": "Assessment of symptoms has traditionally been used to monitor recovery; however, the role of cognitive dysfunction has received significant attention. Although described inconsistently in the literature,14cognitive function likely recovers independently of symptoms. This raises concern for increased risk of additional injury even after symptoms have resolved."
+        },
+        {
+            "parent": 3,
+            "text": "Factors predictive of recovery are poorly defined. Traditional markers (i.e., loss of consciousness, amnesia, convulsions) were extrapolated from data of more severe traumatic brain injuries. Studies have demonstrated that brief loss of consciousness is not associated with prolonged recovery,1,8,26and that convulsions immediately after injury are benign.26The significance of amnesia is less clear. Recent findings suggest that prolonged headache (more than 60 hours), fatigue, tiredness, fogginess, or presence of more than three symptoms at presentation may be associated with prolonged recovery.14"
+        },
+        {
+            "parent": 4,
+            "text": "Most concussions lead to subtle changes; therefore, evaluation can be challenging.9,30Numerous assessment tools exist to aid diagnosis and management(Table 3).1,5,16,18,19,30,31Although none are exclusively effective,8combining tools increases sensitivity and specificity.1,16,31Assessment tools are most beneficial when baseline measurements are available for comparison.8"
+        },
+        {
+            "parent": 5,
+            "text": "Most guidelines primarily recommend checklists that allow for patients to self-report their concussion symptoms16,19; however, symptoms may be delayed, may not be reported, or were already present at baseline.1,16Most checklists have been developed through clinical experience and have significant similarities, yet none are considered superior.19,24"
+        },
+        {
+            "parent": 6,
+            "text": "Neuropsychological tests are designed to identify subtle cognitive deficits. Written tests are labor-intensive and require trained administrators, whereas computer-based tests allow for rapid administration to multiple patients simultaneously.16There is no consensus on which tests are most effective.5,9,10,19,20,25A meta-analysis found no statistically significant difference in sensitivity 14 days after injury among written tests, computer-based tests, and the Standardized Assessment of Concussion (SAC; a sideline assessment tool).30Neuropsychological testing is often considered the cornerstone of concussion evaluation; however, there is no evidence that it affects outcomes.5,9,10,12,19,20There is also disagreement on the degree of recovery necessary for safe return to play.25"
+        },
+        {
+            "parent": 7,
+            "text": "Concussion leads to impaired balance, which typically lasts three to five days.1,5,16,26,31Postural stability testing is an integral part of evaluation1; however, there is insufficient evidence on its use.31Some balance testing requires sophisticated equipment; however, the Balance Error Scoring System requires only a foam block and can be performed on the sideline of an athletic event."
+        },
+        {
+            "parent": 8,
+            "text": "Common sideline tools include the SAC and Sport Concussion Assessment Tool 2 (SCAT2). These tools assess several domains to diagnose concussion and monitor recovery. The SAC has been validated in athletes who are junior high school–aged and older. Emergency department versions are validated in adults, although they are not optimal for use in children.29The SCAT2 has not been validated; however, it is widely used and the most sophisticated sideline assessment tool available.18The SCAT2 includes a symptom checklist, concentration and memory tasks (Maddock's questions), the SAC, the Balance Error Scoring System, and the Glasgow Coma Scale."
+        },
+        {
+            "parent": 9,
+            "text": "Figure 1is a suggested algorithm for the evaluation of concussion.1,2,5,8,9,12,16,18,21,31,32For obvious head and neck injuries, assessment begins at the site of injury1,8,9,12,20and focuses on evaluating the cervical spine.8In unconscious persons, cervical spine injury must be assumed.9,12,25Table 4includes neurologic examination findings that may indicate more significant traumatic brain injury and the need for hospital evaluation.1,5,10"
+        },
+        {
+            "parent": 10,
+            "text": "Further evaluation can occur on the sideline or in the training room. With concussion, neurologic findings are normal other than mental status and balance deficits; however, subtle changes from a concussion are not identifiable through standard orientation questions or traditional balance testing.1,9,12,20,25Assessment of a patient with possible concussion should include a physical examination in addition to use of available concussion assessment tools.1,5,8,18Monitoring for deterioration over several hours is essential.1,8The athlete should not return to play unless evaluation provides confidence that the patient does not have a concussion.1"
+        },
+        {
+            "parent": 11,
+            "text": "Evaluation in the hospital is identical to that on the sideline, but involves a more detailed history and neurologic examination.1The greatest challenge is determining who requires advanced neuroimaging.1,2Imaging is often overused and contributes little to management of concussion, other than ruling out more serious traumatic brain injuries, skull fractures, and cervical spine injuries.1,2,5,8,10,12,16,21,32If it is determined that imaging is warranted(Table 52,32), computed tomography is the initial modality of choice because of availability and sensitivity for diagnosing intracranial hemorrhage.2,8,21,32Magnetic resonance imaging is acceptable acutely, but is more appropriate for evaluation of prolonged deficits.12Plain radiography of the head has no role in the evaluation of possible concussion.2,32Newer imaging modalities (e.g., functional magnetic resonance imaging) are under investigation; however, evidence is limited, few are readily available, and none have fully established clinical application.1,5,6,10,12,16,33"
+        },
+        {
+            "parent": 11,
+            "text": "If the patient has no significant cervical spine or intracranial injury, home care with observation is appropriate provided there is a responsible caretaker and sufficient ability to seek medical care if needed; the patient and caretaker should receive written instructions on when to seek medical attention.2,12,32Follow-up is necessary because return-to-play decisions cannot be made acutely.4,8Periodic wakening is controversial; although this practice may allow for detection of progressive neurologic decline, sleep deprivation may exacerbate concussion symptoms.12"
+        },
+        {
+            "parent": 12,
+            "text": "Management of concussion is summarized inTable 6.1,9,10,12,18,20Essential elements include rest followed by a graded return-to-play strategy. For most patients, the SCAT2 can be used alone to monitor recovery and guide return-to-play decisions."
+        },
+        {
+            "parent": 12,
+            "text": "Complete cognitive and physical rest are cornerstones of initial management1,9,10,12,18,20because activity may exacerbate concussion symptoms and delay recovery.1After resolution of symptoms, postural and cognitive testing (within the SCAT2) can confirm that the patient has recovered completely. A graded return-to-play protocol may then be implemented. Athletes should not return to play until they are completely recovered from the concussion and free of medications that may mask the symptoms of the concussion.1,5,8–10,12,18,20In those at risk of prolonged recovery, formal neuropsychological testing and referral to a health care professional experienced in concussion management may be considered. Reevaluation several months after recovery is prudent to screen for depressive symptoms."
+        },
+        {
+            "parent": 12,
+            "text": "Evidence regarding pharmacologic therapy is limited. Treatment focuses on symptom management, including the same medications appropriate in patients without a concussion.1,5Medications that may mask worsening symptoms or confuse changes in mental status should be avoided. Medications that may worsen the potential for intracranial bleeding (e.g., nonsteroidal anti-inflammatory drugs) should be used with caution."
+        },
+        {
+            "parent": 14,
+            "text": "Athletes should not return to play the same day of sustaining a concussion,1,8,10,18and most athletic organizations and state laws prohibit it. However, limited data have prompted some to suggest exceptions for professional athletes if sufficient sideline resources exist to assess the athlete and if the athlete demonstrates complete recovery.1,28This exception does not apply to younger athletes.1,10,12,18"
+        },
+        {
+            "parent": 15,
+            "text": "Managing concussion in the developing brain is a unique challenge,12and the approach must be different than that for adults.11,20Most research on concussion management applies to persons who are high school–aged or older. Little is known about concussions in children; therefore, conservative management is appropriate (e.g., a longer asymptomatic period before return to play).1,9,11,18,20Special considerations and recommendations for managing concussions in children are included inTable 7.1,7,9–12,17,18,20"
+        },
+        {
+            "parent": 16,
+            "text": "Epidemiologic studies suggest long-term cognitive deficits with multiple concussions; however, medical research is conflicting.7,9,10,23,25,26Those with previous concussions have increased risk of recurrent injury9,10,20,23,25and have longer recovery periods.7,9,20,23,25,29There are no guidelines regarding athletic disqualification or retirement; however, it may be prudent to disqualify athletes who sustain concussions with increasing frequency or in response to decreased impact."
+        },
+        {
+            "parent": 17,
+            "text": "Second impact syndrome can occur if an athlete returns to play before full resolution of a concussion.28After a concussion, the brain may be susceptible to extremes of blood pressure.17,28A catecholamine surge from a second impact to the head or body may cause vascular congestion, cerebral edema, increased intracranial pressure, and ultimately coma or death.8,10,12,20,25,28There are few documented cases,19,25but all have occurred in persons younger than 20 years.8,12Although the existence of second impact syndrome is controversial,10,28it is universally accepted that no athlete should return to play after a concussion while symptomatic.9,10"
+        },
+        {
+            "parent": 18,
+            "text": "There is no evidence that protective gear prevents concussions.1,8–10,12,33Helmets and mouth guards reduce risk of skull and dental fractures, but neither has been demonstrated to reduce the incidence of concussion.8,12,33Rule changes to eliminate dangerous behaviors in sports may have a more protective effect."
+        },
+        {
+            "parent": 18,
+            "text": "Education may reduce violence in sports and allow early recognition of concussion symptoms to prevent further injury.8The Centers for Disease Control and Prevention has instituted the Heads Up campaign to promote concussion education. Educational and clinical management tools are available athttp://cdc.gov/concussion/headsup."
+        },
+        {
+            "parent": 18,
+            "text": "In 2009, Washington State enacted the Zackery Lystedt Law requiring concussion education for coaches, athletes, and parents.15The law also mandates removal of athletes from activity if there is any suspicion of concussion, and return to play must be cleared by a licensed health care professional. Other states have since enacted similar legislation.34"
+        },
+        {
+            "parent": 18,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms concussion, traumatic brain injury, and brain injury, with additional searches narrowed by the terms epidemiology, assessment, evaluation, management, treatment, and imaging. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Cochrane database, Clinical Evidence, National Guideline Clearinghouse, Agency for Healthcare Research and Quality Evidence Reports, and UpToDate. Search dates: September 30, 2010, and October 31, 2010."
+        }
+    ],
+    "locked": false
+}

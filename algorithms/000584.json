@@ -1,0 +1,179 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/0615/p1748.html#afp20080615p1748-f1",
+    "title": "ACC/AHA Release Guidelines on Perioperative Cardiovascular Evaluation for Noncardiac Surgery | AAFP",
+    "author": "LISA GRAHAM",
+    "doi": "Am Fam Physician.2008;77(12):1748-1751",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Patient History",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Cardiac Risk Stratification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Assessment of LV Function",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "PREOPERATIVE NONINVASIVE EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Recommendations",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Assessment of Functional Capacity and Risk of CAD",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "12-LEAD ECG",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Recommendations",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "EXERCISE ECG FOR MYOCARDIAL ISCHEMIA AND FUNCTIONAL CAPACITY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Noninvasive Stress Testing",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "BEFORE NONCARDIAC SURGERY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Recommendations",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Perioperative Medical Therapy",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Recommendations",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source: American College of Cardiology/American Heart Association"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Circulation, October 23, 2007"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://circ.ahajournals.org/content/vol116/issue17/#ACC_AHA_GUIDELINE"
+        },
+        {
+            "parent": -1,
+            "text": "To provide an outline for considering cardiac risk in a variety of patients and surgical procedures, the American College of Cardiology (ACC) and the American Heart Association (AHA) created guidelines on perioperative cardiovascular evaluation and care for patients undergoing noncardiac surgery. Preoperative evaluation is done to assess a patient's current medical status; to provide recommendations about the evaluation, treatment, and risk of cardiac problems over the perioperative period; and to provide a risk profile that may affect cardiac outcomes and that can be used when choosing treatment. This practice guideline focuses on preoperative evaluation rather than on perioperative treatment. See the full guidelines for more information on perioperative treatment."
+        },
+        {
+            "parent": 0,
+            "text": "The patient history is important in determining cardiac or comorbid diseases that would put the patient at high surgical risk. The history should include questions to identify serious cardiac conditions (e.g., unstable coronary syndromes, decompensated heart failure, significant arrhyth-mias, severe valvular disease), which may require intensive management and delay or cancellation of nonurgent surgeries. Other history includes whether the patient has had a pacemaker, implantable cardioverter defibrillator, or past orthostatic intolerance. Modifiable risk factors for coronary heart disease (CHD) and evidence of associated disease should be recorded, along with recent changes in symptoms, medications, and use of alcohol or illicit drugs. The patient's functional capacity(Table 1), which has been shown to correlate well with maximal oxygen uptake on treadmill testing, should also be reviewed."
+        },
+        {
+            "parent": 1,
+            "text": "Identifying the cardiac risk of noncardiac surgery(Table 2)is important in patients who have clinical risk factors (history of ischemic heart disease, compensated or prior heart failure, or cerebrovascular disease; diabetes; and renal insufficiency). The type of surgery may identify a patient who has a higher probability of underlying heart disease and higher perioperative morbidity and mortality. The surgery may also be associated with coronary or myocardial stressors (e.g., alteration in heart rate, blood pressure, vascular volume, pain, bleeding); intensity of these stressors helps to determine the probability of perioperative cardiac events. Perioperative morbidity related to noncardiac surgical procedures ranges from 1 to 5 percent.Figure 1shows the stepwise approach to perioperative cardiac assessment."
+        },
+        {
+            "parent": 3,
+            "text": "Nine studies (three retrospective and six prospective) have shown a positive correlation between decreased preoperative ejection fraction and postoperative morbidity or mortality. In a study of 339 men with ischemic heart disease or risk factors for CHD, a left ventricular ejection fraction (LVEF) of less than 40 percent was associated with all adverse perioperative outcomes, including cardiac death, nonfatal myocardial infarction (MI), unstable angina, congestive heart failure, and ventricular tachycardia. In a multivariable analysis, which included the risk factors of coronary artery disease (CAD) or history of congestive heart failure, LVEF and regional wall-motion score did not add significant independent value in predicting individual events (e.g., postoperative cardiac death, heart failure)."
+        },
+        {
+            "parent": 3,
+            "text": "A study of 570 patients having transthoracic echo-cardiography before noncardiac surgery found that left ventricular (LV) systolic dysfunction was marginally associated with postoperative MI or cariogenic pulmonary edema (odds ratio = 2.1; 95% confidence interval, 1.0 to 4.5;P= .05). The presence of any degree of LV dysfunction had a sensitivity of 43 percent, a specificity of 76 percent, a positive predictive value of 13 percent, and a negative predictive value of 94 percent. These findings are in agreement with the findings of a meta-analysis that included eight studies on preoperative resting LV function. It determined that an LVEF of less than 35 percent had a sensitivity of 50 percent and specificity of 91 percent for predicting perioperative nonfatal MI or cardiac death. The highest risk of complications was found in patients with a resting LVEF of less than 35 percent."
+        },
+        {
+            "parent": 4,
+            "text": "Preoperative evaluation of LV function is reasonable in patients with dyspnea from an unknown cause.Preoperative evaluation of LV function is reasonable (if it has not been done in the past year) in patients with heart failure or a history of heart failure who have worsening dyspnea or other changes in clinical status.Reassessment of LV function in clinically stable persons with previous cardio-myopathy is not well established.Routine perioperative evaluation of LV function is not recommended."
+        },
+        {
+            "parent": 6,
+            "text": "Resting 12-lead electrocardiography (ECG) can help provide prognostic data that relate to long-term morbidity and mortality in patients with coronary disease. To design a risk index for cardiovascular complications, a study was done in 4,135 patients at least 50 years of age who were undergoing major noncardiac surgery. The study determined that pathologic Q waves on ECG before the surgery, which were found in 17 percent of the patients, were associated with an increased risk of cardiac complications, including MI, pulmonary edema, ventricular fibrillation, cardiac arrest, and heart block. However, in another study of 513 patients at least 70 years of age who were undergoing noncardiac surgery, 75 percent had a baseline ECG abnormality and 3.7 percent died. An abnormality on ECG was not predictive of any outcome. In a study of 18,189 patients undergoing elective cataract surgery (i.e., low-risk surgery), perioperative outcomes did not differ between the study group who underwent 12-lead ECG testing before surgery and the group who did not."
+        },
+        {
+            "parent": 6,
+            "text": "Although the exact time frame for ECG testing is not known, it is generally recommended that it be done within 30 days of elective surgery when indicated."
+        },
+        {
+            "parent": 7,
+            "text": "Preoperative resting 12-lead ECG is recommended in patients undergoing vascular surgery who have at least one clinical risk factor and in patients undergoing intermediate-risk surgery who have CHD, peripheral arterial disease, or cerebrovascular disease."
+        },
+        {
+            "parent": 7,
+            "text": "Preoperative resting 12-lead ECG is reasonable in patients undergoing vascular surgery who have no clinical risk factors and in patients undergoing intermediate-risk surgery who have at least one clinical risk factor.Preoperative resting 12-lead ECG is not indicated in patients undergoing low-risk surgery who are asymptomatic."
+        },
+        {
+            "parent": 8,
+            "text": "Supplemental preoperative testing is performed to provide objective measures of functional capacity, to determine if preoperative myocardial ischemia or cardiac arrhythmias are present, and to determine perioperative cardiac risk and long-term prognosis. The mean sensitivity of exercise ECG for detecting coronary disease is 68 percent, and the mean specificity is 77 percent; however, in general, the sensitivity depends on stenosis severity, extent of disease, and criteria used for a positive test. For example, the sensitivities for multivessel disease and for three-vessel or left main coronary disease are 81 and 86 percent, respectively."
+        },
+        {
+            "parent": 8,
+            "text": "In one study of preoperative exercise ECG and arm ergometry in 100 patients with peripheral vascular disease or abdominal aortic aneurysm, 30 patients were able to reach 85 percent of their maximal age-predicted heart rate; two of these patients (7 percent) had cardiac complications (MI, death, heart failure, ventricular arrhythmia). In comparison, 70 patients could not reach 85 percent of their maximal age-predicted heart rate or had an abnormal exercise ECG; 17 of these patients (24 percent) had cardiac complications. It appears that the risk of long-term and perioperative cardiac events is significantly increased in patients with an abnormal exercise ECG at low workloads."
+        },
+        {
+            "parent": 8,
+            "text": "In contrast, a study of 200 patients from the general population, in which only 20 to 35 percent had peripheral vascular disease, reported exercise-induced ST-segment depression of 1 mm or greater in 16 percent of patients older than 40 years, with only 1 percent of patients having a markedly abnormal exercise ECG (ST-segment depression of 2 mm or greater). Of the 32 patients with an abnormal exercise ECG, five (16 percent) died or had a nonfatal MI. Of the 168 patients with a negative ECG, 157 (93 percent) did not die or have an MI. However, these results of the preoperative exercise ECG were not statistically significant independent predictors of cardiac risk."
+        },
+        {
+            "parent": 8,
+            "text": "A myocardial ischemic response at low exercise workloads is associated with a significantly increased risk of perioperative and long-term cardiac events; it is associated with significantly less risk at high workloads."
+        },
+        {
+            "parent": 10,
+            "text": "Increasing myocardial oxygen demand (by pacing or intravenous dobutamine) and inducing hyperemic responses by pharmacologic vasodilators (e.g., intravenous dipyridamole or adenosine [Adenocard]) are the two main methods for preoperative assessment of non-cardiac surgery patients who cannot exercise."
+        },
+        {
+            "parent": 11,
+            "text": "Patients with active cardiac conditions (e.g., unstable coronary syndrome, decompensated heart failure, significant arrhythmia, severe valvular disease) who are planning to undergo noncardiac surgery should be evaluated and treated using ACC/AHA guidelines.Noninvasive stress testing is reasonable (if it will change management) in patients undergoing vascular surgery who have poor functional capacity (less than four metabolic equivalents) and at least three clinical risk factors.Noninvasive stress testing can be considered (if it will change management) in patients undergoing intermediate-risk noncardiac surgery who have poor functional capacity and at least one clinical risk factor.Noninvasive stress testing can be considered in patients undergoing vascular surgery who have good functional capacity (at least four metabolic equivalents) and at least one clinical risk factor.Noninvasive testing is not useful in patients undergoing intermediate-risk noncardiac surgery who do not have clinical risk factors.Noninvasive testing is not useful in patients undergoing low-risk noncardiac surgery."
+        },
+        {
+            "parent": 13,
+            "text": "Although many studies of beta blockers are small, most of the data show that there is a possible benefit from treatment with beta blockers in patients undergoing noncardiac surgery, especially those who are at high risk. The studies suggest that treatment reduces perioperative ischemia and may reduce the risk of MI and death in high-risk patients. Available evidence indicates that beta blockers should be started days to weeks before surgery, if possible, with the dose being titrated to achieve a resting heart rate of 60 beats per minute. Controlling the heart rate with beta blockers should continue intraoperatively and postoperatively so that a heart rate of 60 to 65 beats per minute is maintained."
+        },
+        {
+            "parent": 14,
+            "text": "Beta blockers should be continued in patients undergoing surgery who are already taking beta blockers for angina, symptomatic arrhythmia, hypertension, or other ACC/AHA class I guideline indications.Beta blockers should be given to patients undergoing vascular surgery who have a high cardiac risk (as determined by the presence of ischemia on preoperative evaluation).Beta blockers can probably be recommended in patients undergoing vascular surgery who have CHD (as determined by preoperative evaluation).Beta blockers can probably be recommended in patients undergoing vascular surgery who are at high cardiac risk (as determined by finding more than one clinical risk factor on preoperative evaluation).Beta blockers can probably be recommended in patients undergoing intermediate-risk or vascular surgery who have CHD or who are at high cardiac risk (as determined by finding more than one clinical risk factor on preoperative evaluation).The usefulness of beta blockers is uncertain in patients undergoing intermediate-risk or vascular surgery who have one clinical risk factor on preoperative evaluation.The usefulness of beta blockers is uncertain in patients undergoing vascular surgery who do not currently take beta blockers and who do not have clinical risk factors.Beta blockers should not be given to patients undergoing surgery who have absolute contraindications."
+        }
+    ],
+    "locked": false
+}

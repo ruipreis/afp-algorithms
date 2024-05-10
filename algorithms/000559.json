@@ -1,0 +1,134 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0301/p391.html#afp20090301p391-f2",
+    "title": "Excessive Daytime Sleepiness | AAFP",
+    "author": "J.F. PAGEL, MD, MS",
+    "doi": "Am Fam Physician.2009;79(5):391-396",
+    "abstract": "Excessive daytime sleepiness is one of the most common sleep-related patient symptoms, and it affects an estimated 20 percent of the population. Persons with excessive daytime sleepiness are at risk of motor vehicle and work-related incidents, and have poorer health than comparable adults. The most common causes of excessive daytime sleepiness are sleep deprivation, obstructive sleep apnea, and sedating medications. Other potential causes of excessive daytime sleepiness include certain medical and psychiatric conditions and sleep disorders, such as narcolepsy. Obstructive sleep apnea is a particularly significant cause of excessive daytime sleepiness. An estimated 26 to 32 percent of adults are at risk of or have obstructive sleep apnea, and the prevalence is expected to increase. The evaluation and management of excessive daytime sleepiness is based on the identification and treatment of underlying conditions (particularly obstructive sleep apnea), and the appropriate use of activating medications.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes of Excessive Daytime Sleepiness",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "SLEEP DEPRIVATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "MEDICATION AND DRUG EFFECTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "OSA",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "OTHER SECONDARY HYPERSOMNIAS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PRIMARY HYPERSOMNIAS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Evaluating and Screening for Excessive Daytime Sleepiness",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Quantifying Excessive Daytime Sleepiness",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Treating Excessive Daytime Sleepiness",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Medical and Legal Considerations",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "About 20 percent of adults in the United States report a level of daytime sleepiness sufficient to interfere with daily activities, and excessive daytime sleepiness is the leading symptom of patients presenting to sleep clinics.1The prevalence of excessive daytime sleepiness is highest in adolescents, older persons, and shift workers,2but assessment of its true prevalence is difficult because of the subjective nature of the symptoms, inconsistencies in terminology, and a lack of consensus on methods of diagnosis and assessment. Some persons use subjective terminology (e.g., drowsiness, languor, inertness, fatigue, sluggishness) when describing symptoms of excessive daytime sleepiness.3"
+        },
+        {
+            "parent": -1,
+            "text": "Excessive daytime sleepiness can have diverse and serious consequences. Sleep problems contribute to more than 100,000 motor vehicle incidents that result in 71,000 personal injuries and 1,500 deaths annually.4According to the National Transportation Safety Board, up to 52 percent of single vehicle crashes involving heavy trucks are fatigue-related, with the driver falling asleep in 17.6 percent of cases.5Most sleep-related crashes involve adolescent and young adult male drivers.6Sleepy adolescents also have significantly lower levels of academic performance, increased school tardiness, and lower graduation rates than other students.7Daytime sleepiness has been linked to poor health on several standardized measurements, including impairment in all domains of the Medical Outcomes Study short form health survey (36 items).8It has also been associated with compromised professional performance, including that of physicians and judges.9,10Reduced cognitive function related to excessive daytime sleepiness can affect the ability to gain or maintain employment, because patients with excessive daytime sleepiness may be misperceived as lazy or unmotivated."
+        },
+        {
+            "parent": 0,
+            "text": "Excessive daytime sleepiness can occur secondary to sleep deprivation, medication effects, illicit substance use, obstructive sleep apnea (OSA), and other medical and psychiatric conditions (Table 1).11Excessive sleepiness caused by a primary hypersomnia of central origin (e.g., narcolepsy, idiopathic hypersomnia) is less common."
+        },
+        {
+            "parent": 1,
+            "text": "Sleep deprivation is probably the most common cause of excessive daytime sleepiness. Symptoms can occur in healthy persons after even mild sleep restriction. Studies that restricted healthy adults to six hours of sleep per night for 14 successive nights showed a cumulative significant impairment of neurobiological functions.12Symptoms of sleep deprivation can occur after only one night of sleep loss,12and persons who are chronically sleep deprived are often unaware of their increasing cognitive and performance deficits.8Paradoxically, most types of chronic insomnia (including primary insomnia, psychopathological insomnia, and paradoxical insomnia) are associated with daytime hyperarousal rather than excessive daytime sleepiness. The presence of excessive daytime sleepiness in a patient with insomnia suggests a comorbidity such as a sleep-related breathing disorder or a mood disorder.13"
+        },
+        {
+            "parent": 2,
+            "text": "Sleepiness is the most commonly reported side effect of pharmacologic agents that act on the central nervous system. The modulation of sleep and wakefulness is a complex process involving multiple factors and systems. Although no single chemical neurotransmitter has been identified as necessary or sufficient in the control of sleep, most drugs with clinical sedative or hypnotic actions affect one or more of the central neurotransmitters implicated in the neuromodulation of sleep and wakefulness, including dopamine, epinephrine, norepinephrine, acetylcholine, serotonin, histamine, glutamate, γ-aminobutyric acid, and adenosine (Table 2).14"
+        },
+        {
+            "parent": 2,
+            "text": "Ethanol is the most widely used agent with sedative effects.15Nonprescription sleeping pills and other medications containing sedating H1 antihistamines, such as diphenhydramine (Benadryl), hydroxyzine (Atarax, brand no longer available in the United States), or triprolidine (Zymine) are also commonly used. Sedating antihistamines, longer-acting benzodiazepines, and sedating antidepressants are associated with decreased performance on driving tests and increased rates of next-day motor vehicle incidents attributed to daytime sleepiness.13,15,16Of the antihypertensive medications in widespread use, tiredness, fatigue, and daytime sleepiness are side effects commonly associated with beta blockers such as propranolol (Inderal), but sedation is also the most common side effect reported for the alpha2-agonists clonidine (Catapres) and methyldopa (Aldomet, brand no longer available in the United States). Sedation is also commonly reported by patients taking anticonvulsant or antipsychotic medications. Among drugs of abuse, marijuana has significant sedating effects. Adolescents abusing stimulants such as amphetamines and cocaine may experience persistent daytime sedation after long episodes of drug-induced wakefulness."
+        },
+        {
+            "parent": 3,
+            "text": "Excessive daytime sleepiness is the most common symptom of OSA. A sleep disorder caused by blockage of the upper airway, OSA results in episodes of cessation of breathing (apneas) or a reduction in airflow (hypopneas), and is defined as greater than or equal to five apneic or hypopneic episodes per hour of sleep. These events induce recurrent hypoxia and repetitive arousals from sleep. For adults 30 to 60 years of age, the prevalence of OSA has been estimated to be 9 percent for women and 24 percent for men. In patients with OSA, approximately 23 percent of women and 16 percent of men experience excessive daytime sleepiness.17Sleep-related breathing disorders may be significantly under-recognized as causes of excessive daytime sleepiness. One study estimated that 93 percent of women and 82 percent of men with moderate to severe OSA are undiagnosed.18Furthermore, 26 to 32 percent of U.S. adults are at risk of developing or currently have OSA. Because increasing age and obesity are significant risk factors for OSA, the prevalence of OSA is set to increase rapidly.19"
+        },
+        {
+            "parent": 3,
+            "text": "Persons with OSA have an increased risk of motor vehicle incidents because of their impaired vigilance.18In 2000, more than 800,000 drivers in the United States were involved in OSA-related motor vehicle collisions, resulting in 1,400 deaths.20Approximately 25 percent of persons with untreated OSA report frequently falling asleep while driving.21Because of associated daytime sleepiness, reduced vigilance, and inattention, persons with OSA may have work performance difficulties and are at a high risk of being involved in occupational incidents.22"
+        },
+        {
+            "parent": 4,
+            "text": "Many medical conditions can cause secondary excessive daytime sleepiness, including head trauma, stroke, tumors, inflammatory conditions, encephalitis, and genetic and neurodegenerative diseases. Psychiatric conditions, especially depression, can also result in excessive daytime sleepiness. Sleep disorders such as circadian rhythm disorders (e.g., jet lag, shift work disorder), periodic limb movement disorder, and restless legs syndrome can also contribute to significant levels of daytime sleepiness in some persons."
+        },
+        {
+            "parent": 5,
+            "text": "Narcolepsy, the most common of the primary hypersomnias, is reported to affect 0.02 to 0.18 percent of the adult population, but may be significantly underdiagnosed. Approximately 25 to 30 percent of patients with narcolepsy have associated cataplexy (i.e., sudden and transient loss of muscle tone associated with emotions).23Less common are the other primary hypersomnias of central origin, including idiopathic hypersomnia, menstrual hypersomnia, and Kleine-Levin syndrome (a rare form of recurrent hypersomnia most common in male adolescents).11"
+        },
+        {
+            "parent": 6,
+            "text": "Although some patients present with the symptom of daytime sleepiness, most are far sleepier than they realize. Questionnaires such as the Stanford Sleepiness Scale and the Epworth Sleepiness Scale (Figure 124) are validated, patient-completed assessments of daytime sleepiness that can be used as screening tests. A test score in excess of 12 on the Epworth Sleepiness Scale or a patient history of falling asleep while driving are clear indications that further evaluation and work-up are required."
+        },
+        {
+            "parent": 6,
+            "text": "A targeted medical history, physical examination, and laboratory assessment should be used to evaluate patients at risk of medical or psychological causes of secondary excessive daytime sleepiness. The medication history must address use of all prescription and nonprescription medications, and drugs of abuse. Sometimes treatment of excessive daytime sleepiness can be as simple as discontinuing or modifying the use of such agents. Information about sleep patterns should identify behavioral sleep deprivation. This is most common in adolescents and shift workers, and it can result in significant excessive daytime sleepiness if not addressed."
+        },
+        {
+            "parent": 6,
+            "text": "Information about sleep patterns from the patient and his or her bed partner, if applicable, may indicate restless legs syndrome or OSA, the latter of which may occur even in persons who are not obese or who do not have the common comorbidities of hypertension, diabetes, and coronary disease. In most cases, overnight polysomnography is required to confirm the diagnosis of OSA and to determine the appropriate pressure levels for treatment using continuous positive airway pressure (CPAP) or a similar system.25Recently, the Centers for Medicare and Medicaid Services have developed protocols that can be utilized by certified sleep physicians for diagnosing OSA with respiratory screening instruments in patients with a high probability of OSA (Table 3).26If OSA is not confirmed by polysomnography in a patient who has significant excessive daytime sleepiness, or if sleepiness persists in a patient with OSA despite appropriate therapy, further investigation is required to quantify the level of daytime sleepiness and evaluate for the potential diagnosis of narcolepsy (Figure 2)."
+        },
+        {
+            "parent": 7,
+            "text": "Subjective assessment of symptoms using questionnaires and clinical assessment of behavioral impact may not accurately reflect the degree of physiologic sleepiness.27The effects of sleepiness on daytime performance can be assessed by tests of complex reaction time and coordination, or by tests that assess complex behavioral tasks likely to be affected by sleepiness (e.g., driving performance).28Performance measures are susceptible to influences that are not task related (e.g., motivation, distraction, comprehension of instructions); therefore, the results of performance tests and questionnaires do not always correlate.3"
+        },
+        {
+            "parent": 7,
+            "text": "The most common tests for assessing psychological variations in daytime sleepiness are the Multiple Sleep Latency Test (MSLT) and the Maintenance of Wakefulness Test (MWT). Both of these tests use modified polysomnography to assess sleep onset latency (i.e., the amount of time it takes to fall asleep) during a series of waking nap periods. Overnight polysomnography is required before the MSLT or MWT to assess the disordered sleep pattern and test for significant OSA. To diagnose narcolepsy without cataplexy, the MSLT must demonstrate hypersomnolence and early onset of rapid eye movement sleep. The MWT can be used to assess improvements in waking performance after treatment in persons with excessive daytime sleepiness who could potentially be dangerous to self and others, such as commercial drivers and airplane pilots.29"
+        },
+        {
+            "parent": 8,
+            "text": "Addressing the underlying cause is the mainstay of treatment of excessive daytime sleepiness. In OSA—the most dangerous and physiologically disruptive cause of excessive daytime sleepiness—treatment with positive pressure devices (e.g., CPAP) during sleep improves symptoms of daytime sleepiness for most patients.30The effects of other treatments for OSA (e.g., medications, dental appliances, surgery) on daytime sleepiness have not been well documented.31–33"
+        },
+        {
+            "parent": 8,
+            "text": "Modafinil (Provigil) is considered to be the first-line activating agent for the treatment of excessive daytime sleepiness. It is indicated for the treatment of persistent sleepiness associated with OSA in patients already being treated with CPAP, and for the treatment of daytime sleepiness in patients with shift work disorder.34–36Modafinil is pharmacologically distinct from and has a much lower potential for abuse (Schedule IV) than the amphetamines, and has a generally benign side-effect profile. Other medications that must be used with caution to induce alertness in somnolent patients include the amphetamines (dextroamphetamine [Dexedrine], methylphenidate [Ritalin]) and pemoline (Cylert, not available in the United States). The amphetamines are Schedule II prescription drugs and are considered to have a high potential for abuse. Side effects of amphetamines include personality changes, tremor, hypertension, headaches, and gastroesophageal reflux.37Pemoline can cause hepatic toxicity in susceptible patients. The use of activating agents is inappropriate in hypersomnolent patients with untreated OSA—although daytime sleepiness may be improved with these agents, the patient remains at risk from the pathophysiologic consequences of untreated OSA."
+        },
+        {
+            "parent": 9,
+            "text": "Legal requirements for reporting excessive daytime sleepiness that may impair driving vary from state to state.38The physician treating patients with excessive daytime sleepiness (or patients using drugs likely to affect driving performance) has the responsibility to make a clinical assessment of the patient’s overall risk of unsafe driving, and to document driving recommendations and precautions. A physician should report patients who fail to comply with treatment, particularly high-risk persons such as airline pilots, truck, bus, and occupational drivers, and those with a history of recent sleepiness-associated incidents."
+        }
+    ],
+    "locked": false
+}

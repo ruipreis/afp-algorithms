@@ -1,0 +1,210 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/1015/p887.html#afp20111015p887-f1",
+    "title": "Evaluation of the Patient with Chronic Cough | AAFP",
+    "author": "JOSEPH J. BENICH, III, MD, AND PETER J. CAREK, MD, MS",
+    "doi": "Am Fam Physician.2011;84(8):887-892",
+    "abstract": "Initial evaluation of the patient with chronic cough (i.e., of more than eight weeks' duration) should include a focused history and physical examination, and in most patients, chest radiography. Patients who are taking an angiotensin-converting enzyme inhibitor should switch to a medication from another drug class. The most common causes of chronic cough in adults are upper airway cough syndrome, asthma, and gastroesophageal reflux disease, alone or in combination. If upper airway cough syndrome is suspected, a trial of a decongestant and a first-generation antihistamine is warranted. The diagnosis of asthma should be confirmed based on clinical response to empiric therapy with inhaled bronchodilators or corticosteroids. Empiric treatment for gastroesophageal reflux disease should be initiated in lieu of testing for patients with chronic cough and reflux symptoms. Patients should avoid exposure to cough-evoking irritants, such as cigarette smoke. Further testing, such as high-resolution computed tomography, and referral to a pulmonologist may be indicated if the cause of chronic cough is not identified. In children, a cough lasting longer than four weeks is considered chronic. The most common causes in children are respiratory tract infections, asthma, and gastroesophageal reflux disease. Evaluation of children with chronic cough should include chest radiography and spirometry.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Evaluation of Cough in Adults",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "UPPER AIRWAY COUGH SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ASTHMA",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "GASTROESOPHAGEAL REFLUX DISEASE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ACE INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Other Causes in Patients with Normal Chest Radiography",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "NONASTHMATIC EOSINOPHILIC BRONCHITIS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "POSTINFECTIOUS COUGH",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CHEMICAL IRRITANTS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "PSYCHOGENIC OR HABITUAL COUGH",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Patients with Abnormal Chest Radiography",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "BRONCHIECTASIS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "BRONCHOGENIC CARCINOMA",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "TUBERCULOSIS",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "SARCOIDOSIS",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "Chronic Cough in Children",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Cough is a common presenting symptom in primary care. Results of epidemiologic surveys suggest that patients who seek medical care for a cough account for only a small part of the population with this symptom.1Chronic cough can be associated with significant distress and impairment in quality of life.2This article presents a systematic approach to the evaluation of chronic cough based on the results of prospective studies and an evidence-based practice guideline.3"
+        },
+        {
+            "parent": 0,
+            "text": "Cough is a defensive reflex mechanism that clears secretions from the upper airways of the respiratory tract; it is triggered by the stimulation of a complex reflex arc. Several different types of sensory nerve receptors respond to chemical or mechanical irritant stimulation through the activation of ion channels. A cough center in the medulla receives signals from these activated cough receptors via afferent fibers in the vagus nerve. Voluntary inhibition or production of cough is possible because of the influence of higher cortical centers on this cough center. Efferent signals are then sent to the muscles that produce the forced expiratory effort.1"
+        },
+        {
+            "parent": 1,
+            "text": "Cough in adults is classified as acute, subacute, or chronic based on duration. Acute cough lasts up to three weeks, subacute cough lasts three to eight weeks, and chronic cough lasts longer than eight weeks.4Acute cough is most commonly caused by a viral infection of the upper respiratory tract, but it may also be secondary to an acute underlying cardiorespiratory disorder. Other causes include exacerbation of chronic obstructive pulmonary disease or asthma, and occupational or environmental exposure to irritants.3"
+        },
+        {
+            "parent": 1,
+            "text": "Subacute cough often has a postinfectious origin and will typically resolve without treatment. It is usually secondary to asthma or bacterial sinusitis.4Bordetella pertussisinfection can cause acute, subacute, or chronic cough and should be considered in patients with cough lasting longer than two weeks that is accompanied by an inspiratory whooping sound (in young children), coughing paroxysms, or post-tussive emesis.3The incidence of pertussis has been increasing since 2007. Booster immunizations should be administered to persons 18 to 64 years of age and to those 65 years and older who may be exposed to infants younger than 12 months."
+        },
+        {
+            "parent": 1,
+            "text": "Most episodes of chronic cough in adults are caused by upper airway cough syndrome (UACS, also known as postnasal drip syndrome), asthma, or gastroesophageal reflux disease (GERD), alone or in combination5(Table 11,3,6,7). Chronic cough has two or more causes in 18 to 62 percent of patients, and three causes in up to 42 percent of patients.8,9Empiric treatment should be initiated sequentially for the three most common causes of chronic cough until symptoms are resolved. Patients may need to be treated for multiple causes simultaneously; in such cases, treatments should be added to the primary regimen rather than replacing it."
+        },
+        {
+            "parent": 2,
+            "text": "The evaluation of chronic cough begins with a thorough history, including smoking status, environmental exposures, and medication use. Chest radiography should be obtained if the patient does not smoke or take an angiotensin-converting enzyme (ACE) inhibitor, or if the cough persists after withdrawal of the medication.3Chest radiography usually is not required initially in pregnant women and is optional in the initial evaluation of younger nonsmokers with suspected UACS. A suggested approach to the evaluation of a patient with chronic cough is provided inFigure 1.8"
+        },
+        {
+            "parent": 2,
+            "text": "Normal chest radiography usually excludes bronchiectasis, persistent pneumonia, sarcoidosis, and tuberculosis.4The most likely etiologies in nonsmoking patients are UACS, asthma, and GERD. Further evaluation of patients with abnormal chest radiography is described below."
+        },
+        {
+            "parent": 3,
+            "text": "UACS is caused by a variety of upper respiratory conditions(Table 2).1,3,10It is the most common cause of chronic cough in nonsmoking, immunocompetent adults who have normal chest radiography.10Diagnosis is often based on findings from the history and physical examination. Drainage in the posterior pharynx, throat clearing, nasal discharge, cobblestone appearance of the oropharyngeal mucosa, and mucus in the oropharynx are relatively sensitive findings but are nonspecific for UACS.10A small number of patients with cough will have no upper respiratory signs or symptoms that suggest UACS (“silent” UACS), but they will respond to therapy.11"
+        },
+        {
+            "parent": 3,
+            "text": "A diagnosis of UACS can also be made after a trial of therapy. UACS that is not caused by sinusitis usually responds to a combination of a decongestant and first-generation histamine H1receptor antagonist. The nonsedating antihistamines are not as effective if the postnasal drip is not mediated by histamine (e.g., in nonallergic rhinitis).8,9A patient in whom UACS is suspected and who does not respond to therapy should undergo sinus imaging. Radiography is 84 percent sensitive and 77 percent specific (positive likelihood ratio [LR] = 3.6, negative LR = 0.21).12Plain radiography may be used as a screening modality; computed tomography is used to confirm and stage chronic inflammatory diseases of sinonasal cavities.13"
+        },
+        {
+            "parent": 4,
+            "text": "Asthma is the next most common cause of chronic cough in adults.5Spirometry is required to diagnose asthma and can be reliably used to demonstrate airflow obstruction and assess reversibility of the condition in patients older than four years.14"
+        },
+        {
+            "parent": 4,
+            "text": "Cough is the most commonly reported symptom in patients with chronic asthma, and it is the only manifestation in up to 57 percent (i.e., cough-variant asthma).15Cough-variant asthma should be considered when persistent cough is exacerbated by cold or exercise, or is worse at night. In patients suspected of having cough-variant asthma but who have nondiagnostic physical examination and spirometry, methacholine inhalation challenge testing may be performed to confirm asthma.15However, because the diagnosis is established only after the resolution of cough with specific asthma therapy, a trial of inhaled bronchodilators or corticosteroids is an alternative for diagnosis."
+        },
+        {
+            "parent": 5,
+            "text": "GERD is the third leading cause of chronic cough in adults.5Acid reflux can stimulate the afferent limb of the cough reflex by irritating the upper respiratory tract without aspiration or by irritating the lower respiratory tract through aspiration. GERD can also cause chronic cough by stimulating an esophageal-bronchial cough reflex.16Through this neural reflex mechanism, refluxate into the distal esophagus alone is thought to be sufficient stimulus to cause cough. Daily heartburn and regurgitation suggest a GERD-induced chronic cough. These symptoms may be absent in “silent” GERD."
+        },
+        {
+            "parent": 5,
+            "text": "Although GERD treatment is not universally beneficial for cough associated with the disease, an empiric trial of a proton pump inhibitor is recommended.17A definitive diagnosis of GERD-related cough requires that the cough nearly or completely disappears with treatment. The most sensitive and specific test for acid-induced GERD is 24-hour esophageal pH monitoring; this test may be performed if therapeutic trials are ineffective."
+        },
+        {
+            "parent": 6,
+            "text": "ACE inhibitors cause a nonproductive cough in 5 to 20 percent of patients, affecting women more often than men.18This effect is not dose related, and the cough may begin one week to six months after therapy is initiated. The cough should spontaneously resolve a few days to several weeks after the ACE inhibitor is discontinued; therefore, a four-week trial of withdrawal is usually sufficient to determine whether the medication caused the cough.18An angiotensin receptor blocker may be substituted for the ACE inhibitor."
+        },
+        {
+            "parent": 8,
+            "text": "Nonasthmatic eosinophilic bronchitis has been increasingly identified in patients presenting to pulmonary medicine clinics.19–21Its prevalence in primary care patients with chronic cough is unknown, but probably lower. It is defined as a chronic cough in patients with normal airway hyperresponsiveness, sputum eosinophilia, and no symptoms or objective evidence of variable airflow obstruction. The presence and activation of eosinophils and metachromatic cells in the sputum differentiate nonasthmatic eosinophilic bronchitis from classic chronic bronchitis. The lack of bronchial hyperresponsiveness in nonasthmatic eosinophilic bronchitis differentiates it from asthma, because asthma also may result in the presence of reactive cells in the sputum. Patients with nonasthmatic eosinophilic bronchitis have normal spirometry and respond to inhaled and systemic corticosteroids. This condition usually can be ruled out if induced sputum contains insufficient eosinophils (less than 3 percent) or if corticosteroid therapy does not improve the cough. The condition may be transient, episodic, or persistent unless treated.22Rarely, patients may require long-term treatment with prednisone."
+        },
+        {
+            "parent": 9,
+            "text": "Postinfectious cough should be considered when cough persists after an upper respiratory tract infection. Postinfectious cough is self-limited and will resolve spontaneously, although it may persist for three or more months. Reassurance is a good approach in otherwise healthy patients. Oral or inhaled corticosteroids, ipratropium (Atrovent), or cough suppressants may be prescribed to help with sleep."
+        },
+        {
+            "parent": 10,
+            "text": "Chronic bronchitis caused by exposure to cigarette smoke or other irritants is an important cause of chronic cough. Cigarette smoking is the most common risk factor for chronic obstructive pulmonary disease.23Although chronic bronchitis is a relatively common cause of chronic cough, it accounts for only 5 percent of patients who present for evaluation and treatment.1The initial treatment is eliminating the patient's exposure to irritants."
+        },
+        {
+            "parent": 11,
+            "text": "A habitual cough is a diagnosis of exclusion.1Many patients with this condition do not cough during sleep, are not awakened by cough, and generally do not cough during enjoyable distractions. Failure to cough during sleep is not specific for this condition. Common triggers include changes in ambient temperature; taking a deep breath; laughing; talking on the telephone for more than a few minutes; exposure to cigarette smoke, aerosol sprays, or perfumes; or eating crumbly, dry food."
+        },
+        {
+            "parent": 12,
+            "text": "If chest radiography reveals abnormalities, further tests may be required to establish a diagnosis. Possible studies include high-resolution computed tomography of the chest, pulmonary function testing, barium esophagography, cardiac studies, and bronchoscopy. Referral to a pulmonologist or cardiothoracic surgeon may be required to obtain a definitive diagnosis for detected lesions."
+        },
+        {
+            "parent": 13,
+            "text": "Cough is associated with excessive overproduction and reduced clearance of airway secretions.1Bronchiectasis can be associated with UACS, asthma, GERD, and chronic bronchitis. Chest radiography may demonstrate increased thickening of the bronchial wall. Etiologies of bronchiectasis include postinfectious and idiopathic causes; genetic disease (e.g., cystic fibrosis, primary ciliary dyskinesia, α1-antitrypsin deficiency); aspiration or GERD; immune deficiency; rheumatoid arthritis; ulcerative colitis; and allergic bronchopulmonary aspergillosis.24"
+        },
+        {
+            "parent": 14,
+            "text": "Computed tomography should be ordered if chest radiography findings suggest malignancy. A patient with persistent symptoms despite having normal chest radiography and a negative evaluation for common causes of cough should also be evaluated with computed tomography or bronchoscopy. Sputum samples can be examined for the presence of cancer cells."
+        },
+        {
+            "parent": 15,
+            "text": "Tuberculosis should be considered in patients with chronic cough who have sputum production, hemoptysis, fever, or weight loss and who live in areas with a high prevalence of the disease, and in those at high risk (e.g., human immunodeficiency virus–seropositive persons who use injection drugs).6These patients may have normal physical examination and chest radiography findings, so additional testing (e.g., skin testing, sputum culture) may be needed to make the diagnosis."
+        },
+        {
+            "parent": 16,
+            "text": "Sarcoidosis is another less common cause of chronic cough. Patients with sarcoidosis typically have chest radiography findings suggestive of the diagnosis (i.e., mediastinal widening caused by bilateral hilar adenopathy and reticular opacities).7Before sarcoidosis is determined to be the sole cause of cough, other more common disorders such as UACS and GERD should be excluded as primary or contributing causes."
+        },
+        {
+            "parent": 17,
+            "text": "In children, a cough lasting longer than four weeks is considered chronic. The most common causes of chronic cough in children are asthma, respiratory tract infections, and GERD.25The differential diagnosis for chronic isolated cough without associated wheezing in an otherwise healthy child includes recurrent viral bronchitis, postinfectious cough, pertussis-like illness, cough-variant asthma, UACS, psychogenic cough, and GERD. Signs suggestive of serious underlying lung disease include neonatal onset of cough, chronic moist or purulent cough, cough starting with and persisting after a choking episode, cough occurring during or after feedings, or associated failure to thrive.26"
+        },
+        {
+            "parent": 17,
+            "text": "The pathway recommended for investigating chronic cough in adults is not suitable for children younger than 15 years.27Children with chronic cough should undergo chest radiography and spirometry, at minimum.3,6,26,28"
+        },
+        {
+            "parent": 17,
+            "text": "Foreign body aspiration should be considered in young children. Congenital conditions, cystic fibrosis, and immune disorders are possible diagnoses in children with chronic cough and recurrent infections. Congenital abnormalities, although rare, can include vascular rings, tracheoesophageal fistulas, and primary ciliary dyskinesia.29"
+        },
+        {
+            "parent": 17,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key term cough, in combination with chronic, guideline, children, adults, treatment, etiology, and causes The search included reviews, randomized controlled trials, and clinical trials Also searched were the National Guideline Clearinghouse, Essential Evidence, the Cochrane database, UpToDate, and the Agency for Healthcare Research and Quality evidence reports. Search date: June 1, 2010."
+        }
+    ],
+    "locked": false
+}

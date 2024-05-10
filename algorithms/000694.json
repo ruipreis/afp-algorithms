@@ -1,0 +1,164 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/1001/p1253.html#afp20051001p1253-f1",
+    "title": "Hemoptysis: Diagnosis and Management | AAFP",
+    "author": "JACOB L. BIDWELL, M.D., AND ROBERT W. PACHNER, M.D.",
+    "doi": "Am Fam Physician.2005;72(7):1253-1260",
+    "abstract": "Hemoptysis is the spitting of blood that originated in the lungs or bronchial tubes. The patient’s history should help determine the amount of blood and differentiate between hemoptysis, pseudohemoptysis, and hematemesis. A focused physical examination can lead to the diagnosis in most cases. In children, lower respiratory tract infection and foreign body aspiration are common causes. In adults, bronchitis, bronchogenic carcinoma, and pneumonia are the major causes. Chest radiographs often aid in diagnosis and assist in using two complementary diagnostic procedures, fiberoptic bronchoscopy and high-resolution computed tomography, which are useful in difficult cases and when malignancy is suspected. The goals of management are threefold: bleeding cessation, aspiration prevention, and treatment of the underlying cause. Mild hemoptysis often is caused by an infection that can be managed on an outpatient basis with close monitoring. If hemoptysis persists, consulting with a pulmonologist should be considered. Patients with risk factors for malignancy or recurrent hemoptysis also require further evaluation with fiberoptic bronchoscopy or high-resolution computed tomography. In up to 34 percent of patients, no cause of hemoptysis can be found.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes of Hemoptysis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "INFECTION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "CANCER",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PULMONARY VENOUS HYPERTENSION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "IDIOPATHY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HEMOPTYSIS IN CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Patient History",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "NONMASSIVE HEMOPTYSIS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MASSIVE HEMOPTYSIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hemoptysis is defined as the spitting of blood derived from the lungs or bronchial tubes as a result of pulmonary or bronchial hemorrhage.1Hemoptysis is classified as nonmassive or massive based on the volume of blood loss; however, there are no uniform definitions for these categories.2In this article, hemoptysis is considered nonmassive if blood loss is less than 200 mL per day.3The lungs receive blood from the pulmonary and bronchial arterial systems.4The low-pressure pulmonary system tends to produce small-volume hemoptysis, whereas bleeding from the bronchial system, which is at systemic pressure, tends to be profuse.4Blood loss volume is more useful in directing management than in reaching a diagnosis."
+        },
+        {
+            "parent": -1,
+            "text": "After confirming the presence of blood, an initial task is differentiating between hemoptysis, pseudohemoptysis (i.e., the spitting of blood that does not come from the lungs or bronchial tubes), and hematemesis (i.e., the vomiting of blood)."
+        },
+        {
+            "parent": 0,
+            "text": "In the primary care setting, the most common causes of hemoptysis are acute and chronic bronchitis, pneumonia, tuberculosis, and lung cancer. The differential diagnosis and underlying etiologies are listed inTable 1.5"
+        },
+        {
+            "parent": 1,
+            "text": "Infection is the most common cause of hemoptysis, accounting for 60 to 70 percent of cases.5Infection causes superficial mucosal inflammation and edema that can lead to the rupture of the superficial blood vessels. In a retrospective study6of inpatient and outpatient hemoptysis in the United States, bronchitis caused 26 percent of cases, pneumonia caused 10 percent, and tuberculosis accounted for 8 percent. Invasive bacteria (e.g.,Staphylococcus aureus, Pseudomonas aeruginosa) or fungi (e.g., Aspergillus species) are the most common infectious causes of hemoptysis. Viruses such as influenza also may cause severe hemoptysis.7Human immunodeficiency virus (HIV) infection predisposes patients to several conditions that may produce hemoptysis, including pulmonary Kaposi’s sarcoma.8"
+        },
+        {
+            "parent": 2,
+            "text": "Primary lung cancers account for 23 percent of cases of hemoptysis in the United States.6Bronchogenic carcinoma is a common lung cancer responsible for hemoptysis in 5 to 44 percent of all cases.9,10Bleeding from malignant or benign tumors can be secondary to superficial mucosal invasion, erosion into blood vessels, or highly vascular lesions. Breast, renal, and colon cancers have a predilection for lung metastasis; however, metastatic lung carcinoma rarely results in bleeding.6Obstructive lesions may cause a secondary infection, resulting in hemoptysis."
+        },
+        {
+            "parent": 3,
+            "text": "Cardiovascular conditions that result in pulmonary venous hypertension can cause cardiac hemoptysis. The most common of these is left ventricular systolic heart failure. Other cardiovascular causes include severe mitral stenosis and pulmonary embolism. Although hemoptysis is a recognized pulmonary embolism symptom, pulmonary embolism is an uncommon cause of hemoptysis. For example, in a patient without underlying cardiopulmonary disease, the positive and negative likelihood ratios for hemoptysis in pulmonary embolism are 1.6 and 0.95, respectively. Therefore, the presence or absence of hemoptysis alone has no significant effect on the likelihood of pulmonary embolism.11"
+        },
+        {
+            "parent": 4,
+            "text": "Idiopathic hemoptysis is a diagnosis of exclusion. In 7 to 34 percent of patients with hemoptysis, no identifiable cause can be found after careful evaluation.6,12,13Prognosis for idiopathic hemoptysis usually is good, and the majority of patients have resolution of bleeding within six months of evaluation.14However, results from one study13found an increasing incidence of lung cancer in smokers older than 40 years with idiopathic hemoptysis, and suggested that these patients may warrant close monitoring.13"
+        },
+        {
+            "parent": 5,
+            "text": "The major cause of hemoptysis in children is lower respiratory tract infection. The second most common cause is foreign body aspiration, with most cases occurring in children younger than four years. Another important cause is bronchiectasis, which often is secondary to cystic fibrosis. Primary pulmonary tuberculosis is a rare cause estimated to occur in less than 1 percent of cases.15Although uncommon, trauma is another possible cause. Blunt-force trauma may result in hemoptysis secondary to pulmonary contusion and hemorrhage. Bleeding caused by suffocation, deliberate or accidental, also should be considered.16"
+        },
+        {
+            "parent": 6,
+            "text": "Historic clues are useful for differentiating hemoptysis from hematemesis (Table 24,17,18). Patient history also can help identify the anatomic site of bleeding, differentiate between hemoptysis and pseudohemoptysis, and narrow the differential diagnosis (Table 34,5,17,18). Factors such as age, nutrition status, and comorbid conditions can assist in the diagnosis and management of hemoptysis."
+        },
+        {
+            "parent": 6,
+            "text": "Once true hemoptysis is suspected, the investigation should focus on the respiratory system. Blood from the lower bronchial tree typically induces cough, whereas a history of epistaxis or expectorating without cough would be consistent with an upper respiratory source but does not exclude a lower tract site."
+        },
+        {
+            "parent": 6,
+            "text": "Bleeding is difficult to quantify clinically. Patients may find it difficult to discern whether they are throwing up, coughing, or spitting out bloody material. The amount of blood loss usually is overestimated by patients and physicians, but an attempt to determine the volume and rate of blood loss should be made. Methods of determination include observing as the patient coughs and the use of a graduated container. Blood-streaked sputum deserves the same diagnostic consideration as blood alone. The amount or frequency of bleeding does not correlate with the diagnosis or incidence of cancer."
+        },
+        {
+            "parent": 6,
+            "text": "It is helpful to determine whether there have been previous episodes of hemoptysis and what diagnostic assessments have been done. Mild hemoptysis recurring sporadically over a few years is common in smokers who have chronic bronchitis punctuated with superimposed acute bronchitis. Because smoking is an important risk factor, these patients are at higher risk for lung cancer.19Chronic obstructive pulmonary disease also is an independent risk factor for hemoptysis."
+        },
+        {
+            "parent": 6,
+            "text": "Environmental exposure to asbestos, arsenic, chromium, nickel, and certain ethers increases risk for hemoptysis. Bronchial adenomas, although malignant, are slow growing and may present with occasional bleeding over many years. Malignancy in general, especially adenocarcinomas, can induce a hypercoagulable state, thereby increasing the risk for a pulmonary embolism. A history of chronic, purulent sputum production and frequent pneumonias, including tuberculosis, may represent bronchiectasis. Association of hemoptysis with menses (i.e., catamenial hemoptysis) may represent intrathoracic endometriosis.20"
+        },
+        {
+            "parent": 6,
+            "text": "A travel history may be helpful. Tuberculosis is endemic in many parts of the world, and parasitic etiologies should be considered.21,22In regions where drinking from springs is common, there are case reports of hemoptysis caused by leeches attaching to the upper respiratory tract mucosa.23Also, biologic weapons such as plague may cause hemoptysis.17,24"
+        },
+        {
+            "parent": 7,
+            "text": "Historic clues often will narrow the differential diagnosis and help focus the physical examination (Table 44,5,17). Examining the expectoration may help localize the source of bleeding.4,17,18The physician should record vital signs, including pulse oximetry levels, to document fever, tachycardia, tachypnea, weight changes, and hypoxia. Constitutional signs such as cachexia and level of patient distress also should be noted. The skin and mucous membranes should be inspected for cyanosis, pallor, ecchymoses, telangiectasia, gingivitis, or evidence of bleeding from the oral or nasal mucosa."
+        },
+        {
+            "parent": 7,
+            "text": "The examination for lymph node enlargement should include the neck, supraclavicular region, and axillae. The cardiovascular examination includes an evaluation for jugular venous distention, abnormal heart sounds, and edema. The physician should check the chest and lungs for signs of consolidation, wheezing, rales, and trauma. The abdominal examination should focus on signs of hepatic congestion or masses, with an inspection of the extremities for signs of edema, cyanosis, or clubbing.4,25"
+        },
+        {
+            "parent": 8,
+            "text": "Figure 15presents an algorithm for the evaluation of nonmassive hemoptysis. After a careful history and examination, a chest radiograph should be obtained (Table 54,17). If a diagnosis remains unclear, further imaging with chest computed tomography (CT) or direct visualization with bronchoscopy often is indicated. In high-risk patients with a normal chest radiograph, fiberoptic bronchoscopy should be considered to rule out malignancy. Risk factors that increase the likelihood of finding lung cancer on bronchoscopy include male sex, older than 40 years, a smoking history of more than 40 pack-years, and duration of hemoptysis for more than one week.26"
+        },
+        {
+            "parent": 8,
+            "text": "Fiberoptic bronchoscopy is preferred if neoplasia is suspected; it is diagnostic for central endobronchial disease and allows for direct visualization of the bleeding site. It also permits tissue biopsy, bronchial lavage, or brushings for pathologic diagnosis. Fiberoptic bronchoscopy also can provide direct therapy in cases of continued bleeding. Rigid bronchoscopy is the preferred tool for cases of massive bleeding because of its greater suctioning and airway maintenance capabilities."
+        },
+        {
+            "parent": 8,
+            "text": "High-resolution CT has become increasingly useful in the initial evaluation of hemoptysis and is preferred if parenchymal disease is suspected. Its complementary use with bronchoscopy gives a greater positive yield of pathology12,27,28and is useful for excluding malignancy in high-risk patients.29Its role in hemoptysis continues to evolve, and further studies are needed to evaluate its effect on patient management and outcome. Patients with recurrent or unexplained hemoptysis may need additional laboratory evaluation to establish a diagnosis (Table 65,17)."
+        },
+        {
+            "parent": 10,
+            "text": "The overall goals of management of the patient with hemoptysis are threefold: bleeding cessation, aspiration prevention, and treatment of the underlying cause. As with any potentially serious condition, evaluation of the “ABCs” (i.e., airway, breathing, and circulation) is the initial step."
+        },
+        {
+            "parent": 10,
+            "text": "The most common presentation is acute, mild hemoptysis caused by bronchitis. Low-risk patients with normal chest radiographs can be treated on an outpatient basis with close monitoring and appropriate oral antibiotics, if clinically indicated. If hemoptysis persists or remains unexplained, an outpatient evaluation by a pulmonologist should be considered."
+        },
+        {
+            "parent": 10,
+            "text": "An abnormal mass on a chest radiograph warrants an outpatient bronchoscopic examination. For patients with a normal chest radiograph and risk factors for lung cancer or recurrent hemoptysis, outpatient fiberoptic bronchoscopy also is indicated to rule out neoplasm. High-resolution CT is indicated when clinical suspicion for malignancy exists and sputum and bronchoscopy do not yield any pathology. High-resolution CT also is indicated when chest radiography reveals peripheral or other parenchymal disease."
+        },
+        {
+            "parent": 11,
+            "text": "The mortality rate from massive hemoptysis depends on the bleeding rate and etiology. Hemoptysis greater than 1,000 mL per 24 hours in the presence of malignancy carries a mortality rate of 80 percent30; therefore, massive hemoptysis warrants a more aggressive, expedient approach. These patients require intensive care and early consultation with a pulmonologist. In cases of massive or life-threatening hemoptysis, diagnosis and therapy must occur simultaneously. Airway maintenance is vital because the primary mechanism of death is asphyxiation, not exsanguination. Supplemental oxygen and fluid resuscitation are essential. Assistance by a cardiothoracic surgeon should be considered because emergency surgical intervention may be needed."
+        }
+    ],
+    "locked": false
+}

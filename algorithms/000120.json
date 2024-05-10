@@ -1,0 +1,189 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0101/p22.html#afp20210101p22-f1",
+    "title": "Eating Disorders in Primary Care: Diagnosis and Management | AAFP",
+    "author": "DAVID A. KLEIN, MD, MPH, JILLIAN E. SYLVESTER, MD, AND NATASHA A. SCHVEY, PhD",
+    "doi": "Am Fam Physician.2021;103(1):22-32",
+    "abstract": "Eating disorders are potentially life-threatening conditions characterized by disordered eating and weight-control behaviors that impair physical health and psychosocial functioning. Early intervention may decrease the risk of long-term pathology and disability. Clinicians should interpret disordered eating and body image concerns and carefully monitor patients' height, weight, and body mass index trends for subtle changes. After diagnosis, visits should include the sensitive review of psychosocial and clinical factors, physical examination, orthostatic vital signs, and testing (e.g., a metabolic panel with magnesium and phosphate levels, electrocardiography) when indicated. Additional care team members (i.e., dietitian, therapist, and caregivers) should provide a unified, evidence-based therapeutic approach. The escalation of care should be based on health status (e.g., acute food refusal, uncontrollable binge eating or purging, co-occurring conditions, suicidality, test abnormalities), weight patterns, outpatient options, and social support. A healthy weight range is determined by the degree of malnutrition and pre-illness trajectories. Weight gain of 2.2 to 4.4 lb per week stabilizes cardiovascular health. Treatment options may include cognitive behavior interventions that address body image and dietary and physical activity behaviors; family-based therapy, which is a first-line treatment for youths; and pharmacotherapy, which may treat co-occurring conditions, but should not be pursued alone. Evidence supports select antidepressants or topiramate for bulimia nervosa and lisdexamfetamine for binge-eating disorder. Remission is suggested by healthy biopsychosocial functioning, cognitive flexibility with eating, resolution of disordered behaviors and decision-making, and if applicable, restoration of weight and menses. Prevention should emphasize a positive focus on body image instead of a focus on weight or dieting. .",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Early Identification",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Approach",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "WEIGHT ASSESSMENT",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "NUTRITION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Treatment Options",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ESTABLISHING A TREATMENT PLAN",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "BEHAVIORAL INTERVENTIONS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PHARMACOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "BONE HEALTH",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "SPORTS PARTICIPATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "OTHER TREATMENT CONSIDERATIONS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Markers of Recovery",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Eating disorders are potentially life-threatening conditions characterized by disordered eating and weight-control behaviors that impair physical health and psychosocial functioning.1–3Adolescence and early adulthood are vulnerable periods for the development of eating disorders; however, up to 8% of females and 2% of males are affected during their lifetimes, including persons of all ages, sizes, sexual and gender minority groups, races, ethnicities, socioeconomic strata, and geographic locations.1,4–6Diagnostic characteristics of specific eating disorders are presented inTable 1.2"
+        },
+        {
+            "parent": -1,
+            "text": "Persons with anorexia or bulimia nervosa have a two- to sixfold increase in age-adjusted mortality attributed to medical complications and have suicide completion rates up to 18 times the completion rates of peers.7–10At least one-third of persons with disordered eating develop persistent symptoms that remain 20 years postdiagnosis.11,12Co-occurring mood, anxiety, substance use, personality, or somatic disorders are identified in more than two-thirds of persons with eating disorders.1,13Early intervention with symptom improvement decreases the risk of a protracted course and long-term pathology.1,3,14,15"
+        },
+        {
+            "parent": 0,
+            "text": "Clinicians, especially those caring for adolescents and young adults, should routinely conduct confidential psychosocial assessments that include questions about eating behaviors, body image, and mood.5,16–18,60The U.S. Preventive Services Task Force is planning to review the health outcomes of screening for eating disorders and the performance of primary care–relevant screening tools.19Clinicians should monitor patients' height, weight, and body mass index (BMI) trends, including percentile changes and growth curves for youth to avoid missing critical windows for intervention before pathology becomes entrenched20,21,60(eFigure A). Subtle changes in the amount and speed of weight loss can be as harmful as low weight.20–22"
+        },
+        {
+            "parent": 0,
+            "text": "Persons with restrictive eating disorders may perceive benefits from the disorder, minimize pathology, and resist treatment.17,20,23Clinicians should acknowledge that a person's motivation to change may be compromised by malnutrition or co-occurring conditions, lack of self-awareness, or fear.23–25Disordered thoughts and behaviors may provide perceived structure, self-worth, and safety in coping with difficult emotions and stressors.23–25Initial praise of the patient's weight loss by family members, peers, or clinicians may lead to fear of regaining weight and body image distortion.5In males, body dissatisfaction may center on muscularity and leanness, leading to rigid routines and use of appearance- or performance-enhancing substances.26“Bulk and cut” routines, which involve cycles of excessive energy intake for muscle building followed by caloric deficit to achieve visible muscularity, may mimic binge-purge pathology.27"
+        },
+        {
+            "parent": 0,
+            "text": "The use of empathetic, nonjudgmental motivational inter viewing techniques (e.g., “I'm curious about your meal preparation routine. Is it stressful for you?” or “Given your experiences, your skepticism is appreciated.”) may help overcome barriers and patient resistance16,17,25,28(Table 224,29). The patient's history should be corroborated by family members and other contacts, ideally. Clinicians should note objective findings and interpret screening tools such as the SCOFF questionnaire in context because critical information may be withheld17,20,23,30(eTable A)."
+        },
+        {
+            "parent": 1,
+            "text": "The initial medical evaluation should establish the diagnosis while excluding alternative or co-occurring diagnoses (e.g., thyroid or gastrointestinal disease) based on clarity of the clinical picture. At all related medical visits, pertinent psychosocial and clinical factors should be reviewed. A physical examination, monitoring of orthostatic vital signs, laboratory testing (e.g., a metabolic panel with magnesium and phosphate levels), and electrocardiography should also be considered(Table 3andTable 4).1,20,25,31Goals should include the identification of trends in nutrition, menstruation, height, weight, and BMI; the establishment of motivation for change; determination of medical and mental health sequelae; and the provision of unified, evidence-based care by team members and caregivers.3,60Therapeutic relationships between the patient, treatment team, and caregivers should be based on rapport and trust.17,25"
+        },
+        {
+            "parent": 2,
+            "text": "The weigh-in process at the office may be viewed by patients as stressful and requires sensitivity. Weight measurements are ideally recorded with the patient facing away from the scale in a hospital gown. The extent to which the clinician reveals weight is individualized. Because BMI percentiles do not indicate how far extreme weights deviate from the norm among youths, clinicians should use reference data to determine the degree of malnutrition(Table 5).3Next they should determine an appropriate healthy weight range in collaboration with treatment team members, based on pre-illness height, weight, and BMI trajectories; age at pubertal onset; and current pubertal stage (affecting expected body composition).3Describing weight in terms of percent median BMI, Z-score, and the amount and rate of weight change is more precise and preferred over ideal, expected, or median body weight terminology.3In adults, normative BMI data and pre-illness trends can guide clinical recommendations, acknowledging that some persons are healthiest at higher weights. Home weight measurement should generally be discouraged."
+        },
+        {
+            "parent": 3,
+            "text": "Traditional percentages of daily nutritional recommendations may be misleading.5,20Moderately active adolescent females require approximately 2,200 kcal per day (adolescent males need 2,800 kcal per day)[corrected]; athletes and persons who are hypermetabolic post-recovery at any age require more.5,20Daily caloric averages for adults can be found athttps://health.gov/our-work/food-nutrition/2015-2020-dietary-guidelines. Discussions around energy intake will differ based on patient factors and choice of treatment. Some clinicians frame nutrition in terms of portions, snacks, and meals, and avoid recommending calorie counts, which may entrench disordered thinking. The multidisciplinary team should guide portion size modifications or reintroduction of foods that cause distress with caregiver endorsement. Weight gain of 2.2 to 4.4 lb (1 to 2 kg) per week stabilizes cardiovascular health.3,32"
+        },
+        {
+            "parent": 5,
+            "text": "Most patients receive optimal care in the outpatient setting.3,33,34The ideal outpatient treatment team should include an experienced therapist, dietitian, and a clinician who is knowledgeable about eating disorder–specific medical evaluations, potentially in a community-based specialized center.3,33,60Medical hospitalization (e.g., surveillance for refeeding syndrome) or psychiatric hospitalization (e.g., suicidality) may be necessary depending on health status, weight trajectory, outpatient options, and social support factors3,20,35(Table 63)."
+        },
+        {
+            "parent": 5,
+            "text": "Patients who need professional supervision and structure to eat, gain weight, or avoid disordered behaviors, or for whom outpatient treatment has not been successful, may require residential care (i.e., constant care), partial hospitalization (e.g., day program), or intensive outpatient care (e.g., partial day, nondaily;Figure 1).3,20,33,60Requiring feeding without a patient's consent should be guided by legal standards and by experts in specialty centers."
+        },
+        {
+            "parent": 6,
+            "text": "Cognitive behavior therapy (CBT), which can be applied in person or by self-help or guided self-help, is an evidence-based treatment for adults that has also demonstrated effectiveness for youth.25CBT targets the overvaluation of body shape and weight and subsequent cycles of dietary restraint, disinhibited eating, and compensatory behaviors1,17(Table 73,5,17,24,34,36–38). Direct engagement with a patient's social support system may be critical because eating is considered a social activity.1Treatment of less common eating disorders is not discussed because of limited data."
+        },
+        {
+            "parent": 6,
+            "text": "Anorexia Nervosa.Family-based therapy is recommended as a first-line treatment for youth and some young adults.3,34,39Studies of family-based therapy demonstrate higher remission rates and increased weight gain compared with individual therapy.34,36,39Family-based therapy empowers parents to play a vital role in facilitating patients' weight gain before progressively returning control to the patient.3Short hospitalizations for medical stabilization followed by family-based therapy or outpatient programs have similar outcomes as prolonged hospitalization32,40; therefore, the safest, least intensive treatment environment is recommended.41In adults, CBT, family-based therapy, focal psychodynamic psychotherapy, interpersonal psychotherapy, and specialist supportive clinical management have demonstrated effectiveness and can be implemented based on patient preferences.17,34,42,43"
+        },
+        {
+            "parent": 6,
+            "text": "Bulimia Nervosa.Among adolescents, guidelines recommend family-based therapy and, alternatively, CBT as appropriate treatments.1,17,34Adults benefit from therapist-guided and self-guided forms of CBT or interpersonal psychotherapy.17,34,37"
+        },
+        {
+            "parent": 6,
+            "text": "Binge-Eating Disorder. Meta-analytic data support treatment with CBT and self-guided therapy.38In-person CBT more effectively decreases binge eating and therapy dropout than self-guided CBT at six months and confers markedly better outcomes than weight-loss therapies.38Patients who exhibit a rapid decrease in binge-eating behaviors (e.g., by two-thirds) in the first month of treatment are more likely to have sustained remission, regardless of treatment modality, than patients who do not.44"
+        },
+        {
+            "parent": 7,
+            "text": "Pharmacotherapy should not be pursued as a monotherapy for eating disorders,17,34but it may be a worthwhile adjunctive therapy, specifically in the presence of co-occurring mental health conditions.45,46Patient sensitivities or fear of weight gain limits tolerability.20,46,47Medications that affect electrolytes or heart rate, or that prolong the corrected QT interval, should be prescribed with caution.20,45,46"
+        },
+        {
+            "parent": 7,
+            "text": "Anorexia Nervosa. There are no medications approved by the U.S. Food and Drug Administration (FDA) to treat anorexia nervosa. A recent multicenter, randomized controlled trial of 10 mg of olanzapine (Zyprexa) demonstrated modest benefit in inducing weight gain and appetite without metabolic syndrome components.48Selective serotonin reuptake inhibitors (SSRIs) are commonly prescribed despite a weak evidence base consisting of few randomized controlled trials.46,47Bupropion (Wellbutrin) is contraindicated in anorexia and bulimia nervosa because of the risk of seizure.40,46,47"
+        },
+        {
+            "parent": 7,
+            "text": "Bulimia Nervosa. Fluoxetine (Prozac) is an FDA-approved treatment in adolescents and adults; dosages titrated to 60 mg per day resulted in substantial decreases in bingeing and purging compared with placebo and lower dosages.36,46Studies of other SSRIs have found benefit at high dosages; however, high-dose citalopram (Celexa) and escitalopram (Lexapro) increase the risk of corrected QT interval prolongation.46Topiramate (Topamax) may decrease bingeing and purging behaviors, but it may also limit appetite cues, potentially complicating treatment.46,49"
+        },
+        {
+            "parent": 7,
+            "text": "Binge-Eating Disorder.Lisdexamfetamine (Vyvanse), approved by the FDA for binge-eating disorder, and topiramate decrease binge-eating episodes and may lead to weight stabilization or loss.37,46,50SSRIs, tricyclic antidepressants, anticonvulsants, and appetite suppressants may decrease binge eating, with a variable effect on weight.46"
+        },
+        {
+            "parent": 8,
+            "text": "Among patients with weight loss, weight restoration is important for the recovery of bone mineral density.3,20,47,51However, weight restoration in females without resumption of menses indicates ongoing compromise.51Functional hypothalamic amenorrhea (i.e., anovulation linked to weight loss, excessive exercise, or stress) has been reviewed recently.31,52"
+        },
+        {
+            "parent": 8,
+            "text": "Hormonal contraceptives have not been associated with improved bone mineral density and may mask natural resumption of menses, an important recovery marker, but effective contraception should be offered to patients who want to prevent pregnancy.31,52Short-term transdermal 17-beta estradiol (e.g., 100-mcg patch, or incremental doses if bone age is less than 15) avoids first-pass liver metabolism and may be given with cyclic oral progestin (e.g., medroxyprogesterone [Provera], 2.5 mg per day, 10 days per month) to improve bone health after six to 12 months of nonpharmacologic therapy.17,52,53Resumption of menses, which may take longer than one year to achieve, is associated with return to pre-illness (or slightly higher) weight and a serum estradiol measurement greater than 30 pg per mL (110.13 pmol per L).54"
+        },
+        {
+            "parent": 9,
+            "text": "Participation in athletics may interfere with the healing process by allowing untreated disordered behaviors to continue. Therefore, participation requires considering a patient's clinical and psychosocial context and their ability to increase nutritional consumption to compensate for additional energy expenditure. Shared decision-making between the athlete, treatment team, and caregivers should prioritize recovery. One decision tool for patients with female athlete triad (i.e., menstrual dysfunction, low energy availability, and decreased bone mineral density) is shown ineTable B, which categorically restricts sports participation with disordered eating and a BMI of less than 16 kg per m2or purging more than four times per week.55"
+        },
+        {
+            "parent": 10,
+            "text": "Weight restoration in patients with anorexia nervosa resolves most associated medical complications.20School-aged patients may benefit from a 504 plan allowing meal accommodations (e.g., with a trusted adult) and periodic snacking. Caregivers should be empowered to monitor social media use and restrict access to pro-anorexia (proana) and pro-bulimia (pro-mia) websites. Attention-deficit symptoms may emerge with poor nutrition and resolve with weight restoration; stimulant use may cause weight loss and decrease appetite cues, impeding treatment. Patients who purge should seek regular dental care.17,24Family members may benefit from individual or family-based counseling.17"
+        },
+        {
+            "parent": 11,
+            "text": "Restoring the patient's healthy relationship with food involves fostering cognitive flexibility around eating, eliminating harmful behaviors, and reducing body dissatisfaction and overvaluation of shape and weight.20Among patients with weight loss, restoration of weight and menses (if applicable) is a critical first step in improving overall bio-psychosocial functioning.3"
+        },
+        {
+            "parent": 12,
+            "text": "For patients of all weight strata, caregivers and clinicians should support healthy, sustainable lifestyle choices such as optimizing family meals, physical activity, and consumption of fruits, vegetables, whole grains, legumes, and water, while limiting sweetened beverages, refined carbohydrates, and entertainment-based screen time.5Caregivers should be counseled to refrain from commenting on dieting or on weight or other appearance-related attributes.Body dissatisfaction should not serve as the impetus for weight-loss efforts; instead, health and specific health-related goals should be emphasized.5Acceptance of larger body size may be an important therapeutic target.5If necessary, neutral terms such as “weight” or “BMI” are less stigmatizing than “fat,” “large,” or “obese.”56Weight-based victimization should be assessed and confronted because it may contribute to eating pathology and weight gain.5,16,57Online resources are available for family members (https://www.feast-ed.org), clinicians (https://www.aedweb.org), and patients with disordered eating (https://www.nationaleatingdisorders.org)."
+        },
+        {
+            "parent": 12,
+            "text": "This article updates previous articles on this topic byHarrington, et al.58;Williams, et al.24; andPritts and Susman.59"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:A PubMed search was completed using the MeSH function with the key phrases eating disorder, anorexia nervosa, bulimia nervosa, binge eating disorder, and one of the following: diagnosis, evaluation, management, or treatment. The reference lists of specific cited references were searched for additional studies of interest. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews published after January 1, 2015. Other queries included Essential Evidence Plus and the Cochrane Database of Systematic Reviews. Search dates: April through June 2020."
+        },
+        {
+            "parent": 12,
+            "text": "The authors thank Arielle Pearlman for her editorial assistance in preparation of the manuscript."
+        },
+        {
+            "parent": 12,
+            "text": "The contents of this article are solely the responsibility of the authors and do not necessarily represent the official views of the Uniformed Services University of the Health Sciences; the Departments of the Air Force, Army, Navy, or the U.S. military at large; the Department of Defense; or the U.S. government."
+        }
+    ],
+    "locked": false
+}

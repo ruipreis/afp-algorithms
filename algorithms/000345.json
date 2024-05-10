@@ -1,0 +1,197 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0415/p626.html#afp20140415p626-f1",
+    "title": "Diagnosis and Management of Pancreatic Cancer | AAFP",
+    "author": "MARIA SYL D. DE LA CRUZ, MD, ALISA P. YOUNG, MD, AND MACK T. RUFFIN, IV, MD, MPH",
+    "doi": "Am Fam Physician.2014;89(8):626-632",
+    "abstract": "Pancreatic cancer remains the fourth leading cause of cancer-related deaths in the United States. Risk factors include family history, smoking, chronic pancreatitis, obesity, diabetes mellitus, heavy alcohol use, and possible dietary factors. Because more than two-thirds of adenocarcinomas occur in the head of the pancreas, abdominal pain, jaundice, pruritus, dark urine, and acholic stools may be presenting symptoms. In symptomatic patients, the serum tumor marker cancer antigen 19-9 can be used to confirm the diagnosis and to predict prognosis and recurrence after resection. Pancreas protocol computed tomography is considered standard for the diagnosis and staging of pancreatic cancer. Although surgical resection is the only potentially curative treatment for pancreatic ductal adenocarcinomas, less than 20% of surgical candidates survive five years. The decision on resectability requires multidisciplinary consultation. Pancreatic resections should be performed at institutions that complete at least 15 of the surgeries annually. Postoperatively, use of gemcitabine or fluorouracil/leucovorin as adjuvant chemotherapy improves overall survival by several months. However, more than 80% of patients present with disease that is not surgically resectable. For patients with locally advanced or metastatic disease, chemoradiotherapy with gemcitabine or irinotecan provides clinical benefit and modest survival improvement. Palliation should address pain control, biliary and gastric outlet obstruction, malnutrition, thromboembolic disease, and depression.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening and Primary Prevention",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "CLINICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Staging",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "RESECTABLE LESIONS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "UNRESECTABLE LESIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "LOCALLY ADVANCED LESIONS AND METASTASIS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "PALLIATIVE CARE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Surveillance",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The American Cancer Society estimated 43,920 cases of pancreatic cancer, with approximately 37,390 deaths, in the United States in 2012. It remains the fourth leading cause of cancer-related deaths.1The age-adjusted annual incidence rates of pancreatic cancer in men and women have been slowly increasing, but it remains an uncommon cancer. Although there is an equal prevalence in both sexes, there is a slightly higher occurrence in black persons compared with white persons.2More than 90% of these cancers are pancreatic ductal adenocarcinomas, which are the focus of this review.3"
+        },
+        {
+            "parent": 0,
+            "text": "There are several risk factors associated with the development of pancreatic ductal adenocarcinoma3–5(Table 16). Although the risk from smoking is relatively low compared with other risks, based on the current smoking prevalence rates, 25% to 30% of all pancreatic cancer is attributable to tobacco exposure. In familial pancreatic cancer, two or more first-degree relatives have pancreatic cancer in the absence of other cancer syndromes or other known genetic defects. In contrast, the very high-risk genetic and familial syndromes are rare, ranging from one in 280,000 persons for Peutz-Jeghers syndrome to 1% of the Ashkenazi Jewish population forBRCA1andBRCA2. Therefore, these syndromes account for 10% or less of pancreatic cancers.4"
+        },
+        {
+            "parent": 1,
+            "text": "The U.S. Preventive Services Task Force recommends against routine screening for pancreatic cancer in asymptomatic adults who are at average risk because of lack of mortality benefit.7However, it may be reasonable to consider screening persons at high risk of developing pancreatic ductal adenocarcinomas, such as persons from families with known genetic defects predisposing them to pancreatic cancer or with familial pancreatic cancer. Expert opinion recommends screening and surveillance with computed tomography (CT) or endoscopic ultrasonography.8"
+        },
+        {
+            "parent": 3,
+            "text": "The differential diagnosis of suspected pancreatic cancer is broad given the wide range of nonspecific symptoms. Possibilities include, but are not limited to, cholangitis, cholecystitis, cholelithiasis, choledocholithiasis, choledochal cysts, duodenal or gastric ulcers, gastritis, pancreatitis, abdominal aortic aneurysm, lymphomas, and primary or secondary cancers of the biliary tree, liver, pancreas, stomach, or intestine."
+        },
+        {
+            "parent": 4,
+            "text": "Initial presenting symptoms may vary according to tumor location9(Table 210). More than 90% of these cancers are ductal adenocarcinomas, with more than two-thirds occurring in the head of the pancreas.3Abdominal pain, jaundice, pruritus, dark urine, and acholic stools may be presenting symptoms as a result of obstruction within the biliary tree.11Nonspecific findings from cancers of the pancreatic body or tail include unexplained weight loss, anorexia, early satiety, dyspepsia, nausea, and depression.9Also, a sudden onset of atypical type 2 diabetes mellitus that is difficult to control in a thin patient 50 years or older suggests pancreatic cancer.12"
+        },
+        {
+            "parent": 4,
+            "text": "Physical examination findings for pancreatic cancer are also variable. Patients may present in early stages with normal examination findings or in advanced stages with manifestations of liver involvement such as abdominal tenderness, jaundice, and cachexia. A nontender, distended, palpable gallbladder in a patient with jaundice (Courvoisier sign) is 83% to 90% specific, but is only 26% to 55% sensitive for a biliary obstruction from malignancy.11Advanced pancreatic cancer, like other abdominal malignancies, can be associated with recurring superficial thrombophlebitis (Trousseau sign) or left supraclavicular lymphadenopathy (Virchow node). Subcutaneous areas of nodular fat necrosis (pancreatic panniculitis) may be evident in rare cases.13"
+        },
+        {
+            "parent": 5,
+            "text": "For many patients presenting with the common symptoms of pancreatic cancer, abdominal ultrasonography is a reasonable first imaging test. However, if ultrasonography is not diagnostic or pancreatic cancer is highly suggested by findings on the clinical examination, then pancreas protocol CT is the standard for diagnosis and staging.14,15Pancreas protocol CT involves triphasic (i.e., arterial, late, and venous phases) cross-sectional imaging that allows for enhancement between the parenchyma and adenocarcinoma."
+        },
+        {
+            "parent": 5,
+            "text": "If CT is not possible because of lack of availability or allergy to contrast media, magnetic resonance imaging with contrast media can be used to diagnose and stage pancreatic cancer. Magnetic resonance imaging, as well as magnetic resonance cholangiopancreatography, can be performed as an adjunct to CT in detecting extrapancreatic disease.3"
+        },
+        {
+            "parent": 5,
+            "text": "If a pancreatic mass is identified, subsequent endoscopic ultrasonography and fine-needle aspiration are indicated. Pancreatic cysts identified on imaging also require endoscopic ultrasonography and fine-needle aspiration. Concerning cystic lesions of the pancreas include serous cystadenoma, mucinous cystic neoplasm, cyst-like dilatations of the pancreatic duct such as intraductal papillary mucinous neoplasm, cystic degenerations or necrosis, cystic endocrine tumor, and ductal adenocarcinoma.16If no mass is identified on cross-sectional imaging and no evidence of metastatic disease is present, further endoscopic ultrasonography, endoscopic retrograde cholangiopancreatography, magnetic resonance imaging, or magnetic resonance cholangiopancreatography is indicated.3"
+        },
+        {
+            "parent": 5,
+            "text": "The most common serum tumor marker used for pancreatic ductal adenocarcinomas is cancer antigen 19-9, which is expressed in pancreatic and hepatobiliary disease. In symptomatic patients, it can help confirm the diagnosis and predict prognosis and recurrence after resection.3However, cancer antigen 19-9 is not tumor-specific; therefore, it is not a sufficient individual screening tool for asymptomatic patients. Cancer antigen 19-9 has a limited sensitivity of 50% to 75% and specificity of 80% to 85%; it cannot distinguish between cancer and chronic pancreatitis and possibly other disease states with chronic inflammation.17"
+        },
+        {
+            "parent": 5,
+            "text": "A diagnostic algorithm for patients with suspected pancreatic cancer is provided inFigure 1.3"
+        },
+        {
+            "parent": 6,
+            "text": "Detection of pancreatic cancer at an early stage is critical to curative treatment. Once a mass is identified and fine-needle aspiration confirms the diagnosis, endoscopic ultrasonography can determine tumor size and extent of lymph node metastases, and assess for portal venous system involvement to complete staging.3In addition to endoscopic ultrasonography, chest CT and serum liver enzyme tests are useful to determine if a patient is a candidate for surgery.3Diagnostic staging laparoscopy can be considered for detection of occult peritoneal metastases.Table 3lists the American Joint Committee on Cancer staging classification for pancreatic tumors, with data on pancreatic cancer distribution by stage and survival.18,19A multidisciplinary team with expertise in surgery, diagnostic imaging, pathology, interventional endoscopy, and medical and radiation oncology is highly recommended to determine which patients are candidates for surgery.3"
+        },
+        {
+            "parent": 8,
+            "text": "Surgical resection is the only potentially curative treatment for pancreatic ductal adenocarcinomas. Approximately 15% to 20% of patients have resectable disease, but less than 20% of patients who undergo surgery survive five years.3The decision on resectability requires a multidisciplinary consultation, and distinction should be made between tumors that are resectable, borderline resectable, or unresectable (locally advanced and metastatic).20An expert consensus group has developed criteria to define tumor resectability, thereby identifying patients who will benefit from surgery(Table 4).3,21"
+        },
+        {
+            "parent": 8,
+            "text": "Although immediate postoperative mortality is less than 5%, the median survival is about 12 to 19 months.3Studies support the recommendation that pancreatic resections should be performed at high-volume institutions, generally those that complete at least 15 pancreatic resections annually.22–26Higher-volume centers have reported decreased mortality rates, shorter hospital stay, and lower overall cost compared with low-volume institutions.3"
+        },
+        {
+            "parent": 8,
+            "text": "The classic surgery for resection of a carcinoma of the head of the pancreas is a pancreaticoduodenectomy, also known as a Whipple procedure. In this surgery, the gallbladder, common bile duct, second portion of the duodenum, and the head of the pancreas are resected with the postpyloric duodenum (pylorus-preserving pancreaticoduodenectomy), or the resection is continued proximally to include the distal stomach (classic pancreaticoduodenectomy). No differences in morbidity, mortality, or survival between the two procedures have been found.27"
+        },
+        {
+            "parent": 8,
+            "text": "Tumors involving the body or tail of the pancreas are rarely resectable. They are usually advanced at diagnosis and cause symptoms late in their development. For resectable lesions, the surgery performed is typically a distal pancreatectomy with or without splenectomy. Negative margin status, tumor DNA content, tumor size, and absence of lymph node metastasis are the strongest prognostic indicators for long-term survival.3"
+        },
+        {
+            "parent": 8,
+            "text": "There is no standard for providing adjuvant treatment of pancreatic ductal adenocarcinomas postoperatively. Adjuvant chemotherapy with gemcitabine (Gemzar) or fluorouracil/leucovorin improves survival by two to three months compared with observation alone, which can also be combined with gemcitabine- or fluoropyrimidine-based chemoradiation.3,28–30"
+        },
+        {
+            "parent": 9,
+            "text": "More than 80% of patients present with disease that is not surgically resectable. Although a histologic diagnosis is not necessary before surgery, it is required for treatment of locally advanced, unresectable, or metastatic disease. Some studies have addressed the use of chemoradiation with or without chemotherapy to convert unresectable disease status to resectable. Postresection, these patients have survival rates similar to those with disease initially determined to be resectable.3"
+        },
+        {
+            "parent": 10,
+            "text": "The primary goals of treatment for advanced pancreatic cancers are palliation and improved survival. In some patients who have good performance status (i.e., adequate nutrition and pain control and patent biliary stent), some effect on survival may be achieved."
+        },
+        {
+            "parent": 10,
+            "text": "The National Comprehensive Cancer Network recommends systemic chemotherapy followed by consolidation chemoradiation therapy as a treatment option. Concurrent administration of gemcitabine or continuous fluorouracil with radiation is an acceptable regimen.3A new chemotherapeutic agent, irinotecan (Camptosar), can be used for patients with metastatic pancreatic adenocarcinoma to improve progression-free and overall survival.31Recent studies have also evaluated combination chemoradiation therapy with FOLFIRINOX (fluorouracil/ leucovorin/oxaliplatin/irinoecan), showing improvements in medial progression-free and medial overall survival rates compared with gemcitabine alone.30,32However, the toxicity profile of irinotecan may limit its use."
+        },
+        {
+            "parent": 10,
+            "text": "For patients with locally advanced lesions or metastasis, the National Comprehensive Cancer Network panel recommends gemcitabine monotherapy because it may relieve symptoms.3It also provides clinical benefit and modest survival benefit (two to three months).30–33Second-line therapy involves combinations of gemcitabine with other agents such as fluorouracil, cisplatin, and oxaliplatin (Eloxatin).3"
+        },
+        {
+            "parent": 10,
+            "text": "Intensity-modulated radiotherapy and stereotactic body radiotherapy are two techniques of radiation therapy aimed at increasing the dose to the tumor while sparing radiation to nearby healthy tissue. However, there is no established standard dosage of radiation regimen for either of these techniques.34The decision on whether to choose up-front chemoradiation or induction chemotherapy followed by consolidation chemoradiation should be based on disease response and patient tolerance. Three phase II trials have assessed up-front chemoradiation in locally advanced cancer with median survival rates ranging from 8.2 to 9 months.3"
+        },
+        {
+            "parent": 10,
+            "text": "Because the most recent phase III trials improve survival by only several months (PRODIGE 4/ACCORD 11 median overall survival of 10.5 months vs. 6.9 months),35the treatment of advanced disease remains controversial. Management of pancreatic ductal adenocarcinomas should be approached from a multidisciplinary stance, with consideration of enrollment in clinical studies, and with goals of care and palliation routinely reassessed."
+        },
+        {
+            "parent": 11,
+            "text": "Palliative care for patients with locally advanced and metastatic disease should address symptoms from biliary obstruction, gastric outlet obstruction, cancer-related pain, malnutrition, thromboembolic disease, and depression. Pain intensity should be quantified and reassessed at specific intervals to determine effectiveness of therapies.36Early referral to hospice for appropriate patients is important, while they can best benefit from these services."
+        },
+        {
+            "parent": 11,
+            "text": "An estimated 65% to 75% of patients with pancreatic cancer develop biliary obstruction.37An endoscopic biliary stent is the preferred treatment, with metal stents having a lower risk of recurrent biliary obstruction compared with plastic stents.38"
+        },
+        {
+            "parent": 11,
+            "text": "Approximately 10% to 25% of patients with pancreatic cancer have symptomatic gastric outlet obstruction.37For patients with a short life expectancy or poor performance status, an enteral stent can be placed. Patients with a life expectancy longer than three to six months can receive an open or laparoscopic gastrojejunostomy with or without a jejunostomy tube, but an enteral stent is also an option.39,40"
+        },
+        {
+            "parent": 11,
+            "text": "For exocrine pancreatic insufficiency, oral pancreatic enzyme replacement is recommended.41Monitoring body weight is the most important clinical parameter to follow when treating pancreatic exocrine insufficiency.3"
+        },
+        {
+            "parent": 11,
+            "text": "To prevent recurrent thromboembolic disease, low-molecular-weight heparin is preferred over warfarin (Coumadin).3,42Finally, depression should be addressed for patients, families, and caregivers. Chaplaincy services should be offered to patients whose spirituality and religion play an important role.43"
+        },
+        {
+            "parent": 12,
+            "text": "Data on surveillance for patients with resected pancreatic cancer are limited. Expert consensus recommends history and physical examination every three to six months for two years, then annually.44Monitoring for recurrence with cancer antigen 19-9 levels, CT, and endoscopic ultrasonography every three to six months can also be considered, although there is limited evidence showing that earlier treatment leads to improved patient outcomes.45"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources: Published literature on this topic was identified by using PubMed (1995 through January 2012), the Cochrane Database of Systematic Reviews, U.S. Preventive Services Task Force, Clinical Evidence, Essential Evidence Plus, and the National Guideline Clearinghouse database. Keywords for search included pancreatic cancer, pancreatic cancer diagnosis, and pancreatic cancer treatment. In addition, we searched for guidelines and systematic reviews related to the diagnosis and management of pancreatic cancer. All guidelines were reviewed for evidence of potential conflict, which might influence the recommendation as well as the use of an evidence-based approach. Search dates: January 2013, and January 31, 2014."
+        }
+    ],
+    "locked": false
+}

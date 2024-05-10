@@ -1,0 +1,184 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/0515/p2131.html#afp20030515p2131-f2",
+    "title": "Congenital Toxoplasmosis | AAFP",
+    "author": "JEFFREY JONES, M.D., M.P.H., ADRIANA LOPEZ, M.H.S., AND MARIANNA WILSON, M.S.",
+    "doi": "Am Fam Physician.2003;67(10):2131-2138",
+    "abstract": "Approximately 85 percent of women of childbearing age in the United States are susceptible to acute infection with the protozoan parasiteToxoplasma gondii. Transmission ofT. gondiito the fetus can result in serious health problems, including mental retardation, seizures, blindness, and death. Some health problems may not become apparent until the second or third decade of life. An estimated 400 to 4,000 cases of congenital toxoplasmosis occur in the United States each year. Serologic tests are used to diagnose acuteT. gondiiinfection in pregnant women. Because false-positive tests occur frequently, serologic diagnosis must be confirmed at a Toxoplasma reference laboratory before treatment with potentially toxic drugs is considered. In many instances, congenital toxoplasmosis can be prevented by educating pregnant women and other women of childbearing age about not ingesting raw or undercooked meat, using measures to avoid cross-contamination of other foods with raw or undercooked meat, and protecting themselves against exposure to cat litter or contaminated soil.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Toxoplasma gondii",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "LIFE CYCLE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "TRANSMISSION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "RISK FACTORS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Toxoplasmosis in Pregnant Women",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "SCREENING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Congenital Toxoplasmosis",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "CLINICAL MANIFESTATIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Prevention of Toxoplasmosis in Pregnant Women",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Toxoplasmosis is caused by the protozoan parasiteToxoplasma gondii. A recent serologic survey1conducted as part of the Third National Health and Nutrition Survey found that 23 percent of adolescents and adults and 15 percent of women of child-bearing age in the United States show laboratory evidence ofT. gondiiinfection. AlthoughT. gondiiinfection in adults is usually asymptomatic or associated with self-limited symptoms (e.g., fever, malaise, lymphadenopathy), infection in a pregnant woman may cause serious health problems if the parasite is transmitted to the fetus."
+        },
+        {
+            "parent": -1,
+            "text": "Based on extrapolation of data from regional studies,2–4400 to 4,000 cases of congenital toxoplasmosis occur in the United States each year. Congenital toxoplasmosis can have severe sequelae, including mental retardation, blindness, and epilepsy in infancy or much later in life."
+        },
+        {
+            "parent": -1,
+            "text": "Family physicians may be confronted with a number of issues regarding toxoplasmosis. Some of these issues are related to clinical presentation, laboratory testing, and prevention."
+        },
+        {
+            "parent": 1,
+            "text": "TheT. gondiilife cycle has three stages: tachyzoite, bradyzoite, and sporozoite.5During the acute stage ofT. gondiiinfection, tachyzoites invade and replicate within cells and are responsible for congenital infection. The tachyzoites invade all organs, especially the muscles (including the heart), liver, spleen, lymph nodes, and central nervous system (CNS). During latent infection, bradyzoites are present in tissue cysts. Sporozoites are found in environmentally resistant oocysts formed after the sexual stage of the life cycle."
+        },
+        {
+            "parent": 1,
+            "text": "Members of the Felidae family, including domestic and feral cats, are the definitive hosts for the sexual stage ofT. gondii, which takes place in their intestinal mucosa. During acute infection, cats excrete unsporulated (i.e., non-infectious) oocysts in their feces. Depending on environmental conditions, the oocysts sporulate and become infectious after one day to several weeks. Under favorable conditions (i.e., in warm, moist soil), oocysts remain infectious for a year or more."
+        },
+        {
+            "parent": 2,
+            "text": "T. gondiiis transmitted to humans by three principal routes(Figure 1).6First, humans can acquireT. gondiiby eating raw or inadequately cooked infected meat, especially pork, mutton, and wild game,7or uncooked foods that have come in contact with infected meat. Second, humans can inadvertently ingest oocysts that cats have passed in their feces, either from a litter box or from soil (e.g., soil from gardening, on unwashed fruits or vegetables, or in unfiltered water). Third, women can transmit the infection transplacentally to their unborn fetus. In adults, the incubation period forT. gondiiinfection ranges from 10 to 23 days after the ingestion of undercooked meat and from five to 20 days after the ingestion of oocysts from cat feces."
+        },
+        {
+            "parent": 2,
+            "text": "A report8from the Economic Research Service of the U.S. Department of Agriculture concluded that one half of toxoplasmosis cases in the United States are caused by eating contaminated meat. This conclusion is supported by the findings of a community-based epidemiologic study.9"
+        },
+        {
+            "parent": 2,
+            "text": "Women infected withT. gondiibefore conception rarely transmit the parasite to their fetus, but those who become acutely infected or have reactivation ofT. gondiiduring pregnancy (i.e., because of immunosuppression) can transmit the organism transplacentally. The risk of congenital disease is lowest (10 to 25 percent) when maternal infection occurs during the first trimester and highest (60 to 90 percent) when maternal infection occurs during the third trimester.10,11However, congenital disease is more severe when infection is acquired in the first trimester.10The overall risk of congenital infection from acuteT. gondiiinfection during pregnancy ranges from approximately 20 to 50 percent.10"
+        },
+        {
+            "parent": 2,
+            "text": "Immunosuppression resulting from human immunodeficiency virus (HIV) infection or therapies for malignancies, organ transplantation, and lymphoproliferative disorders can result in the reactivation of latentT. gondiiinfection. Reactivation most often involves the CNS, and symptoms may include those of meningoencephalitis or a mass lesion. Women with reactivatedT. gondiiinfection can transmit the organism transplacentally.10"
+        },
+        {
+            "parent": 3,
+            "text": "Recent epidemiologic studies have identified the following risk factors forT. gondiiinfection: owning a cat,12cleaning a cat litter box,13eating raw or undercooked pork, mutton, lamb, beef, or minced-meat products,12–14gardening,15eating raw or unwashed vegetables or fruits,12eating raw vegetables outside the home,12having contact with soil,14washing kitchen knives infrequently,13having poor hand hygiene,12travelling outside of Europe, Canada, or the United States,14and drinking municipal water from a contaminated reservoir.16"
+        },
+        {
+            "parent": 3,
+            "text": "It is important to note that recent epidemiologic studies have not shown cat ownership to be a consistent risk factor forT. gondiiinfection. The risk of infection is not related to owning a cat but to being exposed to feces from a cat that is shedding oocysts. When cats become infected withT. gondii, they generally shed oocysts only for a few weeks during their lifetime. Indoor cats that do not hunt and are not fed raw meat are unlikely to acquireT. gondiiinfection and therefore pose little risk. Furthermore, a study17of cats induced to shed oocysts found no oocysts on the cats' fur after they shed the oocysts. Therefore, the possibility ofT. gondiitransmission through touching a cat is considered to be minimal or nonexistent.7"
+        },
+        {
+            "parent": 3,
+            "text": "Because cats often do not develop antibodies toT. gondiiduring the oocyst-shedding period, serologic testing does not provide useful information about the ability of a particular cat to transmit toxoplasmosis.7A cat that tests positive forT. gondiiprobably has shed oocysts previously and therefore may pose less of a risk than a serologically negative cat. Because cats can shed oocysts more than once, serologic testing is not helpful if a cat is seropositive toT. gondiiantibody. Testing a cat's stool to determine human risk is also of little value, because cats shed oocysts for only a short period of time."
+        },
+        {
+            "parent": 5,
+            "text": "A practice bulletin from the American College of Obstetricians and Gynecologists on perinatal viral and parasitic infections recommends toxoplasmosis screening only in high-risk persons or those in whom routine ultrasound examination (or ultrasonography performed for other reasons) shows findings such as hydrocephalus, intracranial calcifications, microcephaly, fetal growth retardation, ascites, or hepatosplenomegaly.18[Evidence level C, consensus/expert guidelines] Screening tests may have equivocal or false-positive results that could lead to inappropriate treatment or the termination of pregnancy.19,20"
+        },
+        {
+            "parent": 5,
+            "text": "Because of the low incidence of toxoplasmosis in the United States, some investigators21have determined that the risk to the fetus would be greater from routine screening than from no screening. However, women with HIV infection should be screened for toxoplasmosis because of the risk ofT. gondiireactivation and toxoplasmic encephalitis.18"
+        },
+        {
+            "parent": 6,
+            "text": "When acuteT. gondiiinfection is suspected in a pregnant woman, the diagnosis should be pursued. Toxoplasmosis usually is diagnosed on the basis of antibody detection. In acute infection, IgG and IgM antibody levels generally rise within one to two weeks of infection.22"
+        },
+        {
+            "parent": 6,
+            "text": "The presence of elevated levels ofT. gondii–specific IgG antibodies indicates that infection has occurred but does not distinguish between recent infection and infection acquired in the distant past. Detection ofT. gondii–specific IgM antibodies has been used as an aid in determining the time of infection: a negative IgM test result with a positive IgG result usually indicates infection at least six months previously. However, the interpretation ofT. gondii–specific IgM-positive results is complicated by the persistence of IgM antibodies up to 18 months after infection5and by false-positive reactions in commercial tests.19A guide for interpreting laboratory tests is provided inTable 1,5and an algorithm forT. gondiiserologic testing in patients older than one year is presented inFigure 2.5"
+        },
+        {
+            "parent": 6,
+            "text": "IgM-positive test results should be confirmed by a Toxoplasma reference laboratory.19The laboratory may also be able to narrow the time of infection through the use of specific tests (e.g., IgG avidity test)23or a serologic profile (e.g., Sabin-Feldman dye test, IgM enzyme-linked immunosorbent assay [ELISA], IgA ELISA, IgE ELISA, differential agglutination).24"
+        },
+        {
+            "parent": 6,
+            "text": "When a pregnant woman is found to be infected withT. gondii, the next step is to determine whether the fetus is infected. Physicians most often use polymerase chain reaction (PCR) testing of amniotic fluid to diagnose congenital toxoplasmosis. PCR testing of amniotic fluid is safer and more sensitive than fetal blood sampling,25and it allows earlier confirmation of fetal infection.26However, false-positive and false-negative tests may occur with PCR tests."
+        },
+        {
+            "parent": 6,
+            "text": "Because of the high likelihood of fetal damage, abortion may be considered ifT. gondiiinfection is confirmed and infection is thought to have occurred before the 16th week of pregnancy or if the fetus shows evidence of hydrocephalus.10"
+        },
+        {
+            "parent": 7,
+            "text": "If the presence of acuteT. gondiiinfection in a pregnant woman is confirmed, treatment with spiramycin (Rovamycine) can be initiated in an effort to prevent transmission to the fetus. If fetal infection is confirmed through amniocentesis, the woman may be switched to pyrimethamine (Daraprim) and sulfadiazine after the first trimester27,28or, according to some experts,10after the 18th week of gestation. [Reference27—Evidence level B, non-randomized study] Folinic acid (leucovorin) is given with pyrimethamine and sulfadiazine to protect bone marrow from the suppressive effects of pyrimethamine."
+        },
+        {
+            "parent": 7,
+            "text": "Spiramycin is an investigational drug in the United States and can only be obtained through the manufacturer (Aventis Pharmaceuticals, Bridgewater, N.J.) with approval from the U.S. Food and Drug Administration.28Pyrimethamine generally is not recommended for use in pregnant women because it is a folic acid antagonist (pregnancy category C drug) and can cause bone marrow suppression in both mother and infant."
+        },
+        {
+            "parent": 7,
+            "text": "The treatment of acuteT. gondiiinfection in pregnancy has not been evaluated in randomized prospective studies. Questions have been raised about the effectiveness of treatment in preventing congenital infection29or sequelae in infants.30Nevertheless, historical observational studies suggest that treatment is beneficial, and a recent multicenter observational study31found that treatment in pregnancy was associated with a reduction of sequelae in infants but not a reduction in maternal-fetal transmission.31"
+        },
+        {
+            "parent": 9,
+            "text": "The classic triad of signs suggestive of congenital toxoplasmosis includes chorioretinitis, hydrocephalus, and intracranial calcifications. However, other clinical manifestations also are associated with the disease(Table 2)."
+        },
+        {
+            "parent": 9,
+            "text": "Because clinical manifestations may be nonspecific,T. gondiiinfection must be considered in a large variety of presentations.22Congenital toxoplasmosis can mimic disease caused by organisms such as herpes simplex virus, cytomegalovirus, and rubella virus."
+        },
+        {
+            "parent": 9,
+            "text": "Premature infants with toxoplasmosis may develop CNS and ocular disease in the first three months of life. In contrast,T. gondii–infected full-term infants more often have milder disease, with hepatosplenomegaly and lymphadenopathy in the first two months of life.22Although most infants infected in utero are born with no obvious signs of toxoplasmosis on routine newborn examination, up to 80 percent develop learning or visual disabilities later in life.32,33With congenital infection, reduction of visual acuity and new eye lesions may occur through the third decade of life or even later. Ocular problems require a complete ophthalmologic evaluation."
+        },
+        {
+            "parent": 10,
+            "text": "Pyrimethamine and sulfadiazine generally are used to treat infants with congenital toxoplasmosis. Infants treated with these drugs have been shown to have improved outcomes compared with untreated infants and children from studies in the past.10,34[Reference34—Evidence level B, uncontrolled study] Drug therapy usually is continued for one year. Active and recurrent toxoplasmic eye disease also frequently responds to antiparasitic drugs, which may be given with steroids."
+        },
+        {
+            "parent": 11,
+            "text": "Recommendations for the prevention of toxoplasmosis in pregnant women are presented inTable 3.35In addition, pregnant women who travel abroad should avoid eating undercooked meat or drinking untreated water."
+        },
+        {
+            "parent": 11,
+            "text": "Programs that educate women of childbearing age about the prevention of toxoplasmosis have demonstrated some success in changing risk behaviors36and have been associated with a decrease inT. gondiiseroconversion over time.37Finally, newborn screening for toxoplasmosis has been used in two states (Massachusetts and New Hampshire) in an attempt to identify and treatT. gondii–infected infants.4"
+        }
+    ],
+    "locked": false
+}

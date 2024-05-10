@@ -1,0 +1,232 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/0315/p1500.html#afp19990315p1500-f1",
+    "title": "Evaluation and Treatment of Patients with Suicidal Ideation | AAFP",
+    "author": "MICHAEL F. GLIATTO, M.D., AND ANIL K. RAI, M.D.",
+    "doi": "Am Fam Physician.1999;59(6):1500-1506",
+    "abstract": "Suicidal ideation is more common than completed suicide. Most persons who commit suicide have a psychiatric disorder at the time of death. Because many patients with psychiatric disorders are seen by family physicians and other primary care practitioners rather than by psychiatrists, it is important that these practitioners recognize the signs and symptoms of the psychiatric disorders (particularly alcohol abuse and major depression) that are associated with suicide. Although most patients with suicidal ideation do not ultimately commit suicide, the extent of suicidal ideation must be determined, including the presence of a suicide plan and the patient's means to commit suicide.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors for Suicide",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "EPIDEMIOLOGY",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "PSYCHIATRIC DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "MEDICAL DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "GENERAL SCREENING GUIDELINES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "INTERVIEW GUIDELINES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "IDENTIFYING ASSOCIATED SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "RISK FACTORS ASSOCIATED WITH SUICIDE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "SYNTHESIS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "HOSPITALIZATION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "OUTPATIENT TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "MEDICATIONS AND OTHER MODALITIES",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Medicolegal Concerns",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Suicidal behavior can be characterized as a spectrum that ranges from fleeting suicidal thoughts to completed suicide.1Suicidal ideation is more common than suicide attempts or completed suicide.2A 1995 study found that 3.3 percent of patients in an urban primary care outpatient clinic reported suicidal ideation.3"
+        },
+        {
+            "parent": -1,
+            "text": "Many patients who commit suicide have seen their primary care physician within several months before their death,4and many of these physicians were unaware of the patients' intentions or that the patients had previously attempted suicide.5Frequently, the physician and patient had a longstanding relationship that centered on physical rather than psychiatric ailments before the patient committed suicide.6,7"
+        },
+        {
+            "parent": 1,
+            "text": "The overall suicide rate is 11.2 per 100,000 persons, ranking suicide as the ninth leading cause of death.8Although age-specific rates of suicide have consistently been highest in the elderly, the incidence of suicide among adolescents and young adults has tripled since 1955.7Suicide is more common in whites and Native Americans; higher rates of suicide are reported in the Western states.1Other significant risk factors for suicide are listed inTable 1.1,6,7,9,10"
+        },
+        {
+            "parent": 1,
+            "text": "Although 80 percent of persons who commit suicide are men,1the majority of those who make nonfatal suicide attempts are women between 25 and 44 years of age.7A previous suicide attempt is considered the best predictor of a completed suicide,1although this history alone cannot be used to determine which patient will ultimately commit suicide. Certain psychiatric and medical disorders appear to be associated with suicide, as will be discussed in this article."
+        },
+        {
+            "parent": 2,
+            "text": "Findings from psychologic autopsy studies have consistently indicated that more than 90 percent of completed suicides in all age groups are associated with psychiatric disorders(Table 1), including substance abuse.1It is not the psychiatric disorder itself that increases the risk of completed suicide, but the combination of the psychiatric disorder and a stressor, such as the death of a loved one, separation, divorce or recent unemployment.1,9"
+        },
+        {
+            "parent": 2,
+            "text": "The most common psychiatric disorders associated with completed suicide are major depression and alcohol abuse. The risk for suicide in patients with mood disorders (major depressive disorders and bipolar disorders) is 15 percent, and the risk is highest in the early stages of the illness.11However, those who go on to commit suicide rarely have “pure” depression, but usually depression that is comorbid with alcohol abuse.7,12The suicide risk among alcoholics is similar to that in patients with mood disorders, but alcoholics tend to commit suicide late in the course of alcoholism and are frequently depressed at the time of death.11"
+        },
+        {
+            "parent": 2,
+            "text": "Patients with schizophrenia are more likely to commit suicide during periods of remission, when they are apt to feel depressed and hopeless, than when they are frankly psychotic.7Patients with panic disorder and borderline personality disorder who commit suicide also have comorbid major depression or substance abuse.7,12"
+        },
+        {
+            "parent": 3,
+            "text": "Some evidence has been found of an increased risk of suicide in patients with cancer, head injury and peptic ulcer disease.13Another study14reported that the risk for suicide in patients who are infected with human immunodeficiency virus is not increased at the time of initial screening for the presence of the virus. However, persons with illnesses related to acquired immunodeficiency syndrome (AIDS) are 16 to 36 times more likely to die by suicide than persons in the general population.2Suicide among medically ill patients, including those with AIDS, rarely occurs in the absence of a comorbid psychiatric disorder, such as major depression, substance abuse or dementia.2,13"
+        },
+        {
+            "parent": 4,
+            "text": "The components of an evaluation of patients with suicidal ideation are summarized inTable 2."
+        },
+        {
+            "parent": 5,
+            "text": "During the initial evaluation of new patients, the physician should ask about a history of psychiatric disorders. The patient should be asked about a history of suicidal ideation and suicide attempts. Similarly, all new patients should be screened for alcohol abuse using the CAGE questionnaire.15A brief mental status examination should be recorded in the chart. Any patient who shows evidence of depressed mood, anxiety or substance abuse should be asked about recent stressors and suicidal ideation and undergo a full evaluation for the presence of affective or anxiety disorders."
+        },
+        {
+            "parent": 5,
+            "text": "In established patients, a mental status examination and interview will note the onset or recurrence of symptoms suggestive of a psychiatric disorder, particularly major depression and substance abuse. Patients who present with a decline in functional abilities and those who have recent stressors should be screened for depression and substance abuse. These patients should also be asked about suicidal ideation. Because one interview may not be sufficient (i.e., the patient may deny on the first interview that he or she is depressed or abusing substances), screening should continue over a series of visits."
+        },
+        {
+            "parent": 6,
+            "text": "Asking patients about suicide will not give them the idea or the incentive to commit suicide. Most patients who consider suicide are ambivalent about the act and will feel relieved that the clinician is interested and willing to talk with them about their ideas and plans.6Unfortunately, some patients are not so forthcoming about psychiatric symptoms or thoughts of suicide. In these cases, the clinician can make an introductory statement followed by specific questions(Table 3)such as: “Sometimes when people feel sad or depressed or have problems in their lives they think about suicide. Have you ever thought about suicide?”6,16,17Some patients will make indirect statements suggesting suicidality (e.g., “I've had enough,” “I'm a burden,” or “It's not worth it.”). These statements mandate follow-up with specific questions about suicidal intent.16,17"
+        },
+        {
+            "parent": 6,
+            "text": "In addition to questions about duration and onset of suicidal ideation, questions should also be posed about the lethality of the patient's intent and furtherance of plans(Table 3). Use of firearms is the most common method of suicide in both sexes.1In men, the second most common method is hanging; in women, it is overdosing on medications.1"
+        },
+        {
+            "parent": 6,
+            "text": "Patients should be interviewed alone as long as they are capable of providing a coherent history. If the patient admits to suicidal ideation, a family member or significant other should be contacted—with the patient's permission—and interviewed, preferably in the patient's presence. (Clinicians need to use clinical judgment when contacting families; patients with fleeting thoughts of suicide do not necessarily require a family meeting.) Since patients may minimize symptoms of depression or substance abuse, the family member should be asked about these symptoms."
+        },
+        {
+            "parent": 6,
+            "text": "Patients who eventually commit suicide are more likely to tell their families of their suicidal plans than they are to tell their physicians.7In patients who have denied suicidal ideation, the clinician should ask the family member if the patient has made direct or indirect statements about suicide to them."
+        },
+        {
+            "parent": 7,
+            "text": "Selected symptoms of mood and anxiety disorders(Table 1)are associated with suicide in patients within one year of screening.18In particular, hopelessness is a symptom of major depression that appears to be necessary for the development of suicidal intent.19These symptoms can be elicited in the history or mental status examination. If patients have any of these symptoms, they should be asked about suicidal ideation."
+        },
+        {
+            "parent": 8,
+            "text": "The risk factors listed inTable 1should be documented in the patient's chart. The more risk factors a patient has, the greater the risk of eventual suicide.11"
+        },
+        {
+            "parent": 9,
+            "text": "Suicide is difficult to accurately predict. First, it is a relatively rare event, so the rate of false-positive prediction is high.11Second, the risk factors mentioned previously represent chronic risks and refer to groups of patients rather than to individuals.11Finally, no risk factor can be used exclusively to accurately predict suicidality.20"
+        },
+        {
+            "parent": 9,
+            "text": "Predicting short-term risk of a suicide attempt (in the 24- to 48-hour period after evaluation) is more reliable than predicting long-term risk.20For example, a divorced 75-year-old man who has some symptoms but does not meet the full criteria of an anxiety disorder and major depression, and who abuses alcohol, is a long-term risk for suicide. He should be asked every several months if he has been thinking of suicide. The index of suspicion should increase when this man learns that he has lung cancer with bony metastases. (This represents a new stressor.) At this point, he should be screened for an exacerbation of depression or substance abuse and asked about suicidal ideation or any plans for furtherance. In addition, other risk factors(Table 1)should be reviewed."
+        },
+        {
+            "parent": 10,
+            "text": "An algorithm for the evaluation of suicidal patients is shown inFigure 1. The key factors in treatment include the patient's suicide plan, access to lethal means, social support and judgment."
+        },
+        {
+            "parent": 11,
+            "text": "Patients with a plan, access to lethal means, recent social stressors and symptoms suggestive of a psychiatric disorder should be hospitalized immediately. The family should be informed of the decision to proceed with hospitalization, and the patient should not be left alone while he or she is transferred to a more secure environment."
+        },
+        {
+            "parent": 11,
+            "text": "Occasionally, patients may not allow the clinician to contact their families. When someone's life is in imminent danger, confidentiality may be breached. Legal consultation may be advisable if there are any questions about infringing on a particular patient's autonomy. Patients may also refuse to be hospitalized. The grounds for involuntary commitment are: (1) imminent danger to self or others and (2) an inability to care for one's self. In most states, procedures are in place to allow for an involuntary hospitalization of 48 to 120 hours before a hearing is held with a judge to extend the hospitalization.20If the physician is unsure of the steps to take, a crisis center or emergency-department psychiatrist can be contacted for assistance."
+        },
+        {
+            "parent": 11,
+            "text": "Intoxicated or psychotic patients who are unknown to the clinician and who say they are suicidal should be transported securely to the nearest crisis center. These patients can be dangerous and impulsive; sometimes the police must be called to assist. Often, these patients require prolonged evaluation, which is done most effectively in a crisis center or emergency department, rather than in an office."
+        },
+        {
+            "parent": 12,
+            "text": "There are no definite criteria to help a clinician chose between inpatient or outpatient care of a suicidal patient. Generally, the physician should assess the patient's level of impulse control, judgment and degree of social support. One technique that is frequently employed is to ask the patient to sign or verbally agree to a “no-harm contract.” Such a contract is not legally binding and can never be a substitute for a thorough assessment; it serves mainly to solidify the therapeutic alliance.21"
+        },
+        {
+            "parent": 12,
+            "text": "In the contract, the patient agrees not to harm himself or herself for a specific and brief time (e.g., 24 to 48 hours) and that the patient will contact the physician if the clinical situation changes. The contract must be accompanied by frequent follow-up visits or contact by telephone. The contract is renewed once the stipulated time period ends. Again, clinical judgment is to be used—that is, the patient's agreement to the contract should not be given credence if the patient is intoxicated or psychotic, made a serious suicide attempt in the recent past or is so depressed that he or she cannot comprehend the terms of the contract."
+        },
+        {
+            "parent": 12,
+            "text": "The patient's family should be involved in the formation and implementation of the contract. For patients who have a suicidal plan but who firmly state that they will not carry it out, the physician should ask the family to remove all lethal means and implement a system of monitoring the patient. If such family support is not available, conservative action is warranted, and the physician should consider hospitalizing the patient."
+        },
+        {
+            "parent": 12,
+            "text": "In a family practice setting, many patients with suicidal ideation will be found not to have a specific plan and will easily be able to enter into a no-harm contract. These patients must be diligently and persistently evaluated over time for the presence of major depression or substance abuse."
+        },
+        {
+            "parent": 13,
+            "text": "It has been noted that antidepressants are more effective than placebo in decreasing suicidal ideation, and selective serotonin reuptake inhibitors may act more rapidly in this regard than other agents.22Tricyclic antidepressants should be avoided in patients with suicidal ideation because of their lethal potential in the event of overdose. Safer agents include fluoxetine (Prozac), in a dosage of 20 to 40 mg per day; sertraline (Zoloft), at 50 to 200 mg per day; paroxetine (Paxil), at 20 to 40 mg per day; fluvoxamine (Luvox), at 150 to 250 mg per day; venlafaxine (Effexor), at 75 to 300 mg per day; and nefazodone (Serzone), at 400 to 600 mg per day. Elderly patients will require lower dosages."
+        },
+        {
+            "parent": 13,
+            "text": "Patients and families should be advised that improvement may not be evident for four to six weeks. In addition, patients may be at increased risk for suicide as their energy level improves while feelings of hopelessness and depressed mood persist. The patient should be closely followed for several weeks after initiation of antidepressant medication.22"
+        },
+        {
+            "parent": 13,
+            "text": "Because anxiety and insomnia(Table 1)have been demonstrated to be associated with completed suicide, these symptoms should be treated quickly, often concomitantly with anti-depressive therapy. Benzodiazepines are rarely fatal in an overdose, unless they are taken in conjunction with another central nervous system depressant, such as alcohol. Assuming close follow-up, a two-day to three-day supply of a benzodiazepine or other anxiolytic or hypnotic agent may be dispensed. Medications that may be used include lorazepam (Ativan), in a dosage of 0.5 to 4 mg per day; oxazepam (Serax), at 15 to 45 mg per day; temazepam (Restoril), at 15 to 30 mg every evening at bedtime; and zolpidem (Ambien), at 5 to 10 mg every evening at bedtime."
+        },
+        {
+            "parent": 13,
+            "text": "Patients who do not respond to a trial of antidepressants or who exhibit symptoms of major depression with psychotic features, or for whom it is too risky to wait four to six weeks until the antidepressant is effective, should be referred to a psychiatrist. The psychiatrist may recommend a trial of another antidepressant or a trial of electroconvulsive therapy."
+        },
+        {
+            "parent": 13,
+            "text": "Patients who abuse alcohol who can contract for safety should be detoxified and referred to specialized treatment centers. Patients and families should also be referred for individual or family therapy, especially if personality factors, stressors or tension within family relationships perpetuate suicidal ideation or interfere with treatment of chronic and acute medical or psychiatric illnesses."
+        },
+        {
+            "parent": 14,
+            "text": "The law recognizes that there are no standards for the prediction of suicide and that suicide results from a complicated array of factors.20The standard of care for patients with suicidality is based on the concept of “foreseeability,” which includes the reasonable physician's ability to take a thorough history, to recognize relevant risk factors and to design and implement a treatment plan that provides precautions against completed suicide.23"
+        },
+        {
+            "parent": 14,
+            "text": "Courts assume that a suicide is preventable if it is foreseeable, though foreseeability is not identical to preventability. (In retrospect, a suicide may appear to have been preventable but not necessarily foreseeable.)20In the case of a lawsuit, the chart will be examined to determine whether the physician recognized the risk factors and considered the benefits of exerting greater control over the patient (e.g., hospitalization, calling the family).20Although most lawsuits arise over inpatients who commit suicide,24documentation of all encounters with suicidal patients should include the entire examination, discussions with family members and consultants, treatment recommendations and ways in which recommended actions were effected."
+        },
+        {
+            "parent": 15,
+            "text": "Most patients who voice or admit to suicidal ideation when questioned do not go on to complete suicide. However, some of these patients will go on to commit suicide; thus, suicidal ideation warrants thorough evaluation—both when suicidality is expressed as well as periodically thereafter. Psychiatric disorders are present in most patients who express suicidal ideation or attempt or complete suicide. The best way to prevent suicide is to ask patients with symptoms of these disorders more specific questions about recent stressors and their thoughts about suicide, and then to treat the patients accordingly. Families must be an integral part of treatment planning. Medication and individual or family therapy are often indicated."
+        }
+    ],
+    "locked": false
+}

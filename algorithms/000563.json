@@ -1,0 +1,150 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0101/p29.html#afp20090101p29-f1",
+    "title": "Management of Blood Glucose in Type 2 Diabetes Mellitus | AAFP",
+    "author": "CYNTHIA M. RIPSIN, MD, MS, MPH, HELEN KANG, MD, AND RANDALL J. URBAN, MD",
+    "doi": "Am Fam Physician.2009;79(1):29-36",
+    "abstract": "Evidence-based guidelines for the treatment of type 2 diabetes mellitus focus on three areas: intensive lifestyle intervention that includes at least 150 minutes per week of physical activity, weight loss with an initial goal of 7 percent of baseline weight, and a low-fat, reduced-calorie diet; aggressive management of cardiovascular risk factors (i.e., hypertension, dyslipidemia, and microalbuminuria) with the use of aspirin, statins, and angiotensin-converting enzyme inhibitors; and normalization of blood glucose levels (hemoglobin A1C level less than 7 percent). Insulin resistance, decreased insulin secretion, and increased hepatic glucose output are the hallmarks of type 2 diabetes, and each class of medication targets one or more of these defects. Metformin, which decreases hepatic glucose output and sensitizes peripheral tissues to insulin, has been shown to decrease mortality rates in patients with type 2 diabetes and is considered a first-line agent. Other medications include sulfonylureas and nonsulfonylurea secretagogues, alpha glucosidase inhibitors, and thiazolidinediones. Insulin can be used acutely in patients newly diagnosed with type 2 diabetes to normalize blood glucose, or it can be added to a regimen of oral medication to improve glycemic control. Except in patients taking multiple insulin injections, home monitoring of blood glucose levels has questionable utility, especially in relatively well-controlled patients. Its use should be tailored to the needs of the individual patient.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Management of Type 2 Diabetes",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "LIFESTYLE CHANGES",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "MANAGEMENT OF CARDIOVASCULAR DISEASE RISK FACTORS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "MANAGEMENT OF BLOOD GLUCOSE LEVELS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Insulin Secretagogues",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Biguanides",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Thiazolidinediones",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Alpha-Glucosidase Inhibitors",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Incretin Mimetics and Incretin Enhancers",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Amylin Analogues",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Approach to the Patient",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "INITIAL MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "INITIATING INSULIN THERAPY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "CHILDREN AND OLDER ADULTS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Type 2 diabetes mellitus, the sixth leading cause of death in the United States, is directly responsible for more than 73,000 deaths annually and is a contributing factor in more than 220,000 deaths.1It is the leading cause of kidney failure and new cases of blindness in adults,1and it is a significant cause of lost workforce productivity.2More than 20 million Americans have diabetes; 6 million of these are undiagnosed.1Ethnic and racial minorities are disproportionately affected.1Derangement of glucose homeostasis and the eventual development of diabetes is a multifactorial process involving genetics, ethnic and racial heritage, and environmental factors. Although the precise interplay of these factors is not yet fully understood, long-term trials have provided evidence to support aggressive efforts to prevent and manage this disease (Table 1).3–6"
+        },
+        {
+            "parent": 0,
+            "text": "Evidence-based guidelines for the comprehensive management of diabetes focus primarily on lifestyle changes, management of cardiovascular disease risk factors, and management of blood glucose levels.7"
+        },
+        {
+            "parent": 1,
+            "text": "Lifestyle modification can help patients lose weight and reduces the incidence of type 2 diabetes in at-risk patients.8One large study compared usual care with an intensive lifestyle intervention.6Although only 38 percent of participants achieved and maintained the weight loss goal of 7 percent of baseline body weight, the incidence of type 2 diabetes was reduced by 58 percent. To prevent one new case of diabetes in three years, 6.9 persons would need to undergo intensive lifestyle intervention.6Lifestyle changes were much more effective than metformin (Glucophage) therapy. In a review of 14 trials testing exercise interventions in participants with type 2 diabetes, hemoglobin A1C levels were reduced by 0.6 percent, and triglyceride levels and visceral adiposity were decreased independent of weight loss.9These results underscore the importance of reinforcing lifestyle goals with every patient at every visit, even if weight loss falls short of expectations."
+        },
+        {
+            "parent": 2,
+            "text": "Multifactorial interventions to manage cardiovascular disease risk factors (i.e., blood pressure, cholesterol, microalbuminuria) in patients with type 2 diabetes have been shown in well-designed clinical trials to decrease mortality rates.10Daily low-dose aspirin is recommended for patients with type 2 diabetes and coronary artery disease (CAD), those older than 40 years, and those who have additional risk factors for cardio-vascular disease (e.g., family history of cardiovascular disease, hypertension, smoking, dyslipidemia, albuminuria).7Statins are recommended for patients with type 2 diabetes and CAD, and for patients with diabetes without CAD who are older than 40 years and have one other cardiovascular disease risk factor.7Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers are mainstays of treatment for patients with micro- or macroalbuminuria.7"
+        },
+        {
+            "parent": 3,
+            "text": "Insulin resistance, decreased insulin secretion, and increased hepatic glucose output are the hallmarks of type 2 diabetes. Medications target one or more of these defects (Table 2).11–13Average absolute reductions in A1C for each class of medication range from 0.5 to 1.0 percent for exenatide (Byetta), pramlintide (Symlin), and alpha-glucosidase inhibitors to 1 to 2.5 percent for sulfonylureas and metformin.14Reviews have reported that mono-therapy with any oral hypoglycemic agent is superior to dietary management or placebo in reducing A1C values, but the studies are so heterogeneous that the expected A1C reduction attributed to any class of medication should be interpreted with caution.15,16For example, six trials that evaluated sulfonylureas for an average of 16 weeks reported mean A1C reductions of 1.8 percent (range, 1 to 2.5 percent),15whereas the 10-year United Kingdom Prospective Diabetes Study reported an A1C reduction of 0.9 percent with sulfonylureas.3This suggests that short-term studies may not accurately reflect long-term results. It is also critical to remember that the goal of treatment is not only to reduce A1C levels, but also to prevent premature mortality and morbidity. Not all agents have been proven to achieve this goal."
+        },
+        {
+            "parent": 4,
+            "text": "Sulfonuylurea insulin secretagogues (e.g., glipizide [Glucotrol], glimepiride [Amaryl]) and nonsulfonylurea insulin secretagogues (e.g. nateglinide [Starlix]) increase insulin secretion by closing potassium channels on the surface of pancreatic beta cells.11Hypoglycemia can occur with any insulin secretagogue. Sulfonylureas can cause weight gain; this effect is less common with nonsulfonylurea secretagogues. A recent review concluded that cardiovascular disease events are neither increased nor decreased with the use of sulfonylureas.17There is insufficient evidence to make any conclusions about the effects of nonsulfonylurea secretagogues on cardiovascular morbidity and mortality.17"
+        },
+        {
+            "parent": 5,
+            "text": "Metformin decreases hepatic glucose output and, to a lesser extent, sensitizes peripheral tissues to insulin.11A review representing more than 36,000 patient-years of metformin use found no increase in fatal or nonfatal lactic acidosis.18However, current guidelines recommend that metformin should not be used in patients with chronic or acute renal insufficiency, and should be discontinued when creatinine levels reach 1.4 mg per dL (120 μmol per L) in women or 1.5 mg per dL (130 μmol per L) in men. Metformin has been shown to decrease progression from impaired glucose tolerance to type 2 diabetes.6To prevent one new case in three years, 13.9 persons would have to be treated with metformin.6It is the only hypoglycemic agent shown to reduce mortality rates in patients with type 2 diabetes.5"
+        },
+        {
+            "parent": 6,
+            "text": "Thiazolidinediones increase insulin sensitivity in peripheral tissues and, to a lesser extent, decrease hepatic glucose production.11These agents will not cause hypoglycemia when used as monotherapy. A recent review of 18 trials concluded that rosiglitazone (Avandia) is associated with an increased risk of myocardial infarction (MI) and death from cardiovascular causes.12Another review of four trials concluded that the risk of MI and heart failure are significantly increased, but overall cardiovascular mortality rates are unaffected.13The latter review was limited to trials with one or more years of follow-up, whereas the former review included trials with shorter follow-up periods. In a meta-analysis of 19 controlled trials, pioglitazone (Actos) was associated with a reduction in a composite end point of death, MI, and stroke.19The incidence of serious heart failure was increased by 40 percent, but there was no change in cardiovascular disease mortality rates."
+        },
+        {
+            "parent": 7,
+            "text": "Alpha-glucosidase inhibitors act at the brush border in the small intestine, inactivating the enzyme that breaks down complex carbohydrates, slowing absorption, and flattening the postprandial glycemic curve.11Acarbose (Precose) reduces the risk of cardiovascular disease events, including acute MI, in patients with impaired glucose tolerance or type 2 diabetes.17,20,21"
+        },
+        {
+            "parent": 8,
+            "text": "Incretin hormones stimulate glucose-dependent insulin secretion, decrease glucagon secretion, slow gastric emptying, and decrease appetite.11Exenatide lowers blood glucose levels and stimulates weight loss, perhaps by slowing gastric emptying and producing satiety.11,22Sitagliptin (Januvia) has no effect on body weight.23There are no data on the effects of these medications on cardiovascular events.17"
+        },
+        {
+            "parent": 9,
+            "text": "Pramlintide is an amylin analogue indicated for use in patients with type 1 diabetes; it is rarely used to manage type 2 diabetes.11When pramlintide is initiated, the insulin dosage should be reduced by 50 percent to avoid potentially severe hypoglycemia. There is insufficient evidence to make conclusions about the effects of pramlintide on cardiovascular disease.17"
+        },
+        {
+            "parent": 10,
+            "text": "Algorithms for the management of blood glucose contain elements derived from large, well-designed clinical trials, but the algorithms themselves are compiled from expert opinion and have not been conclusively evaluated14,24(Figure 1).7,14,24The goal is to maintain blood glucose levels as close to normal as possible without risking significant hypoglycemia. The American Diabetes Association recommends an A1C goal of less than 7 percent.7Glycemic control requires the patient to have cognitive, visual, and motor skills to monitor and manage blood glucose levels, and identifying and minimizing barriers for effective self-management is an important first step to setting individualized goals. There are no evidence-based recommendations for the frequency of home blood glucose monitoring except for patients administering multiple daily injections of insulin; several studies have questioned the usefulness of home monitoring.25,26In patients with relatively well-controlled diabetes, home monitoring has not been associated with clinically significant improvements in A1C levels.25,26Monitoring can be a useful tool in adjusting medications in the three-month intervals between A1C measurement, but it is also expensive and time-consuming, and it should be individualized to meet the needs of each patient."
+        },
+        {
+            "parent": 11,
+            "text": "The first step in managing type 2 diabetes is to normalize fasting glucose levels, with weekly or monthly adjustments in the regimen.14Metformin is a first-line consideration. Gastrointestinal symptoms associated with its use can be minimized by beginning with a low dose and titrating slowly. Additional agents include sulfonylureas, nonsulfonylurea secretagogues, thiazolidinediones, and alpha-glucosidase inhibitors. Any of these agents can be combined with another. Once fasting blood glucose approaches near-normal levels, postprandial glucose is addressed by increasing the dose of the current medications or by adding additional agents. Once maximal benefit is achieved from first-line medications, other agents, such as exenatide (approved for use with metformin or sulfonylureas) and sitagliptin (approved for use with metformin or thiazolidinediones), can be considered."
+        },
+        {
+            "parent": 12,
+            "text": "Less than 40 percent of patients with diabetes successfully achieve an A1C level of less than 7 percent.24One reason for this is the reluctance of patients and physicians to start insulin therapy, perceiving it as a treatment failure. However, progressive failure of the beta cells often occurs even with proper diet, exercise, and oral medications, so patients should be counseled that insulin is simply another management tool. Although insulin is typically introduced when glucose control is no longer possible with oral agents, it can also be used when contraindications to oral medications exist. Newly diagnosed patients also can benefit from acute insulin use. Prolonged hyperglycemia can cause glucose toxicity, a potentially reversible impairment in glucose-stimulated insulin secretion. This can be corrected with aggressive insulin therapy, then oral medications can be added as insulin is tapered or discontinued. Expert opinion suggests that insulin therapy should be initiated if the fasting blood glucose level is consistently greater than 250 mg per dL (13.90 mmol per L), or if random testing shows levels greater than 300 mg per dL24(16.65 mmol per L;Figure 17,14,24)."
+        },
+        {
+            "parent": 12,
+            "text": "When adding insulin to an oral medication regimen, oral agents should initially be continued. Long-acting insulin should be used initially, typically at a dosage of 10 units per day or 0.17 to 0.5 units per kg per day, and titrated in increments of two units approximately every three days14,24(Table 3). Rapid-acting or premixed preparations can be added if fasting blood glucose levels are persistently high or if A1C has plateaued at about 7.5 percent, which indicates that postprandial glucose levels are high. Adding more basal insulin in this setting usually will not help patients reach their target levels.24Sliding-scale doses can be set by counting carbohydrate grams or by a preset scale (Figure 2). For the latter method, one suggested regimen is to give 90 percent of the basal dose of insulin in long-acting form and the remainder in rapid-acting form at the largest meal, then adjust the dose as necessary.24Insulin is used almost exclusively in pregnancy because of the concern of teratogenicity with oral medications."
+        },
+        {
+            "parent": 13,
+            "text": "As the prevalence of obesity in children has increased, type 2 diabetes has also become more common. Metformin is approved for use in children 10 years and older and sustained-release preparations are approved for use in persons 17 years and older who cannot maintain glycemic control with diet and exercise.7,27"
+        },
+        {
+            "parent": 13,
+            "text": "The increased prevalence of comorbid conditions in older adults requires careful consideration of medications. Serum creatinine levels are not always a reliable predictor of renal insufficiency in the elderly, so metformin should be used with caution. The high prevalence of heart failure in this population limits the use of thiazolidinediones. Older patients are likely to benefit more from aggressive management of known cardiovascular disease risk factors such as hypertension than by tight glycemic control, which can increase symptomatic hypoglycemia.7"
+        }
+    ],
+    "locked": false
+}

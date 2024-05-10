@@ -1,0 +1,65 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0101/p70.html#afp20120101p70-f1",
+    "title": "AHA Updates Guidelines on CVD Prevention in Women | AAFP",
+    "author": "LISA HAUK",
+    "doi": "Am Fam Physician.2012;85(1):70-72",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Assessment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:American Heart Association"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Guideline developed by participants without relevant financial ties to industry?No"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Circulation, March 2011"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://circ.ahajournals.org/cgi/content/full/123/11/1243"
+        },
+        {
+            "parent": -1,
+            "text": "Cardiovascular disease (CVD) in women has health and economic implications; therefore, continuing efforts should be made to control risk factors and to provide evidence-based treatment. The American Heart Association (AHA) first published guidelines about CVD in women in 1999. Since then, the guidelines have evolved based on continuing review of the literature. Major changes addressed in the 2011 guidelines are that benefits and risks found in the clinical practice setting were strongly considered, and recommendations were not based solely on benefits found in the clinical research setting. The 2011 guidelines also now include information on the cost-effectiveness of various preventive methods and guideline implementation. Interventions that were not recommended in previous guidelines because they were not useful or effective, or because they could be harmful (class III recommendations;Table 1), were not changed because there was no new evidence."
+        },
+        {
+            "parent": 0,
+            "text": "The 2007 guidelines included a new algorithm for CVD risk classification. It divided women into three categories:"
+        },
+        {
+            "parent": 0,
+            "text": "High risk, based on the presence of CVD, diabetes mellitus, end-stage or chronic kidney disease, or 10-year predicted risk of coronary heart disease greater than 20 percentAt risk, based on the presence of at least one major risk factor, metabolic syndrome, evidence of subclinical vascular disease, or poor exercise tolerance on treadmill testingOptimal risk, based on a Framingham risk score of less than 10 percent, absence of major risk factors, and a healthy lifestyle"
+        },
+        {
+            "parent": 0,
+            "text": "Since publication of the 2007 guidelines, new evidence was found to support the use of this risk classification algorithm; therefore, the AHA continued to use this approach for the 2011 guidelines(Figure 1), with several modifications. One is the decision to address the concept of ideal cardiovascular health, which is defined as the absence of CVD; presence of ideal total cholesterol level, blood pressure, and fasting blood glucose level; and engagement in healthy behaviors (e.g., having a lean body mass index, not smoking, participating in physical activity). This ideal cardiovascular health is associated with increased longevity, reduced risk of CVD, greater quality of life, and lower Medicare costs in older age. Other changes to the 2007 algorithm include addressing the availability of several 10-year risk equations for predicting 10-year global CVD risk (e.g., updated Framingham risk profile, Reynolds risk score)."
+        },
+        {
+            "parent": 0,
+            "text": "Recent clinical trial data suggest that statins are cost-effective for the prevention of CVD. The Justification for Use of Statins in Prevention, an Intervention Trial Evaluating Rosuvastatin (JUPITER) trial also determined that statins were effective for reducing global CVD risk. Other evidence supports focusing on long-term CVD risk, rather than only on 10-year coronary heart disease risk."
+        },
+        {
+            "parent": 0,
+            "text": "The role of new CVD risk markers and imaging modalities in risk assessment and determination of appropriate preventive interventions is not well defined, and more information is needed on the associated benefits, risks, and costs. The AHA recommends that these strategies be used only to refine risk estimates in intermediate-risk patients, in whom there is uncertainty about initiating pharmacotherapy. New risk factors that have been associated with increased CVD risk in women have been identified; however, their ability to screen for CVD or to improve clinical outcomes is unknown."
+        }
+    ],
+    "locked": false
+}

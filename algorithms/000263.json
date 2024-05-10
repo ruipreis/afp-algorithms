@@ -1,0 +1,157 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0215/p279.html#afp20160215p279-f1",
+    "title": "Clinical Evaluation of Bleeding and Bruising in Primary Care | AAFP",
+    "author": "DANA NEUTZE, MD, PhD, AND JODI ROQUE, MD",
+    "doi": "Am Fam Physician.2016;93(4):279-286",
+    "abstract": "Bleeding and bruising are common symptoms in the primary care setting. The patient history can help determine whether the bruising or bleeding is abnormal. The International Society on Thrombosis and Hemostasis has developed a bleeding assessment tool that can be used to indicate possible pathology. A family history of bleeding problems may suggest a hereditary coagulation defect. Such a history is especially important in children who may not have experienced a major bleeding episode. Medication review can identify pharmacologic causes of the bleeding or bruising. Physical examination findings such as mucocutaneous bleeding suggest that the underlying condition is caused by platelet dysfunction, whereas hemarthroses or hematomas are more common in coagulopathy. If the history and physical examination findings suggest a bleeding diathesis, initial laboratory testing includes a complete blood count, peripheral blood smear, prothrombin time (PT), and partial thromboplastin time (PTT). A normal PT and PTT indicate a platelet disorder, the most common of which is von Willebrand disease. A normal PT and prolonged PTT signal a deficit in the intrinsic pathway, and a mixing study should be performed. A vitamin K challenge is indicated in patients with an abnormal PT and normal PTT. A workup for liver failure is warranted in patients with prolonged PT and PTT. If initial testing does not reveal an etiology in a patient with a high suspicion for a bleeding disorder, the patient should be referred to a hematologist for additional evaluation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Mechanisms of Bleeding and Bruising",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "BLEEDING HISTORY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "BLEEDING ASSESSMENT TOOLS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "FAMILY HISTORY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "MEDICATION HISTORY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Laboratory Evaluation",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "NORMAL PT/NORMAL PTT",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "NORMAL PT/ABNORMAL PTT",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "ABNORMAL PT/NORMAL PTT",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "ABNORMAL PT/ABNORMAL PTT",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Easy bruising and abnormal bleeding are common symptoms in the primary care setting that may present as excessive bruising when injured, or as epistaxis, menorrhagia, or prolonged bleeding during surgery or dental procedures. It is estimated that 26% to 45% of healthy patients have a history of epistaxis, easy bruising, or gum bleeding.1Approximately 5% to 10% of reproductive-aged women seek treatment for menorrhagia,2and an estimated 29% of these women have an underlying bleeding disorder.3,4Women with von Willebrand disease are five times more likely to have menorrhagia than those without the condition.5Although von Willebrand disease affects men and women equally, women are more likely to seek evaluation because of heavy menses."
+        },
+        {
+            "parent": -1,
+            "text": "Identification of bleeding and bruising and appropriate intervention can decrease the associated morbidity and mortality. Evaluation of the patient with bleeding and bruising requires a detailed personal and family history, a thorough review of medications, physical examination, and laboratory testing."
+        },
+        {
+            "parent": 0,
+            "text": "Bleeding occurs when there is a disruption in blood vessel walls. In healthy individuals, if the endothelial defect is not too large, exposed subendothelial proteins interact with coagulation factors and platelets to form clots. Petechiae are the result of blood leakage from a small number of blood vessels. Bruising is when a hematoma forms under the skin as the result of vascular damage."
+        },
+        {
+            "parent": 2,
+            "text": "The age and sex of the patient should be considered when evaluating those with abnormal bruising and bleeding. Severe inherited bleeding disorders often manifest in infancy or early childhood. Women are more likely to report bleeding because of menses and childbirth, even in the absence of a bleeding disorder. The patient should be asked to describe the type of bleeding or bruising (i.e., epistaxis, menorrhagia, or hematomas) and the circumstances surrounding the bleeding (e.g., trauma, dental procedures, surgery). The physician should determine whether any blood products, medications (e.g., oral contraceptives), or other hemostatic treatments (e.g., antifibrinolytic inhibitors, desmopressin, recombinant products) were used to treat the bleeding."
+        },
+        {
+            "parent": 2,
+            "text": "Physical abuse should be ruled out, particularly if the bruising has an abnormal pattern and there is clinical suspicion. Additional information about nutritional status, alcohol use, liver or kidney disease, and recent illnesses or infections can provide useful diagnostic clues about the underlying etiology, particularly if the bleeding or bruising is new in onset(Table 1).6,7"
+        },
+        {
+            "parent": 3,
+            "text": "Several different bleeding assessment tools (BATs) have been developed to quantify the patient's subjective experience of bleeding and bruising. These tools have sensitivities of 41% to 100% and specificities of 81% to 99%, with positive likelihood ratios ranging from 2 to 71 and negative predictive values greater than 99%.5,8–10To reduce variability between tools, the International Society on Thrombosis and Hemostasis (ISTH) created a standardized tool for use in adults and children,11which is summarized inTable 2.12(The full tool is available for free athttp://c.ymcdn.com/sites/www.isth.org/resource/resmgr/ssc/isth-ssc_bleeding_assessment.pdf.) Although the ISTH-BAT is based on previous validated bleeding tools and retrospective studies, it has yet to be fully validated in prospective studies. Based on a study of 1,040 adults and 328 children, the normal ISTH-BAT cutoff is 3 for men, 5 for women, and 2 for children.13The tool is administered by a clinician or trained personnel and takes approximately 20 minutes. A modified, self-administered tool may be available in the near future.14"
+        },
+        {
+            "parent": 3,
+            "text": "The ISTH-BAT was designed primarily for identification of congenital disorders of hemostasis. It is less helpful for identifying inherited platelet function disorders (sensitivity = 49%; specificity = 53%; positive likelihood ratio = 1.04).15Thus, if suspicion of a bleeding disorder is high, evaluation by a hematologist is warranted."
+        },
+        {
+            "parent": 4,
+            "text": "X-linked recessive hemophilias or von Willebrand disease should be considered in patients with a family history of bleeding. It is important to ask about several generations and second-degree relations, such as maternal uncles, when hemophilia is suspected in a male. However, a negative family history does not exclude a genetically inherited disorder; up to one-third of patients diagnosed with hemophilia have no family history.16Similarly, a negative family history does not preclude someone from having von Willebrand disease, because incomplete penetrance and variable expression contribute to the complexity of inheritance. Obtaining a thorough family history is especially important in children because they may not have challenged their clotting system with surgery or dental procedures."
+        },
+        {
+            "parent": 5,
+            "text": "An evaluation of prescription and over-the-counter medications and supplements is important to identify pharmacotherapy-induced bleeding(Table 3).17Even when patients are taking a drug that can cause bleeding or bruising, the possibility of an underlying bleeding disorder should not be dismissed. Some medications may be clinically indicated despite increased bleeding and bruising (e.g., clopidogrel [Plavix] after coronary stenting). Physicians must discuss the risks and benefits of these medications with patients. Additional evaluation is warranted if a medication is suspected as the cause of bleeding and bruising, but symptoms persist beyond seven to 10 days despite discontinuation of the medication. Antiplatelet and anticoagulation agents most commonly cause bleeding or bruising. Drug-induced thrombocytopenia should be suspected when the platelet count rebounds after discontinuation of the drug in question and decreases with reexposure to the drug.17Although low platelet counts can occur in patients with heparin-induced thrombocytopenia (an immune-based thrombocytopenia), the major complication is thrombosis rather than bleeding."
+        },
+        {
+            "parent": 6,
+            "text": "A thorough physical examination may yield information about the origin of bleeding. Hemophilia or other congenital bleeding disorders should be considered in patients with spontaneous hemarthroses, muscle hemorrhages, or retroperitoneal bleeding. Mucocutaneous bleeding (e.g., petechiae, epistaxis, gingival bleeding, gastrointestinal or genitourinary bleeding) suggests a platelet disorder. Hepatomegaly suggests liver failure, whereas splenomegaly may suggest underlying malignancy. Although extremely rare, splenomegaly can be consistent with idiopathic thrombocytopenic purpura."
+        },
+        {
+            "parent": 7,
+            "text": "If the ISTH-BAT score is above the sex- and age-specific cutoff, laboratory evaluation should be performed. In a young child who has not yet had a challenge to the clotting system, a strong family history would be a reason to perform laboratory testing. Initial testing with a complete blood count, peripheral blood smear, prothrombin time (PT), and partial thromboplastin time (PTT) can indicate possible disorders in platelets or the clotting cascade, thus narrowing the differential diagnosis(Figure 1).18–21Renal and liver function testing is also indicated."
+        },
+        {
+            "parent": 7,
+            "text": "A peripheral smear serves several purposes in a bleeding workup. First, it can confirm whether thrombocytopenia is present because automatic analyzers can under- or overestimate platelet counts if the platelets are smaller or larger than normal.18Additionally, ethylenediaminetetraacetic acid, one of the anticoagulants used in automatic analyzers, can cause pseudothrombocytopenia secondary to platelet clumping. Finally, observation of platelet morphology and characteristics can provide important information regarding possible hematologic malignancies or hyperproliferation conditions.19"
+        },
+        {
+            "parent": 8,
+            "text": "A normal PT and PTT indicate that the clotting cascade is intact, unless there is a mild factor deficiency. Therefore, further evaluation should focus on platelet function activity. Bleeding time is no longer considered the test of choice because it is labor intensive and has poor sensitivity and specificity. The platelet function analyzer (PFA-100), developed in the 1990s, automates the process of determining platelet aggregation by passing the patient's blood through two membranes. Although the PFA-100 can detect severe forms of von Willebrand disease, it may miss milder, more common forms of the condition, with a sensitivity of only 61.5% to 71%.20Additionally, the PFA-100 has variable sensitivity for detecting platelet function abnormalities (24% to 81%).22,23Therefore, it is not recommended by the ISTH as a screening tool for von Willebrand disease or platelet function disorders.21"
+        },
+        {
+            "parent": 8,
+            "text": "Von Willebrand disease, a disorder of platelet aggregation, is the most common cause of inherited coagulopathies. Thus, if the PT and PTT are normal, the next step is testing for von Willebrand factor antigen, von Willebrand factor activity (also called ristocetin cofactor activity), and factor VIII level.21,24If any of these are abnormal, further testing should be performed to determine the type of von Willebrand disease. This can be carried out by a hematologist, if desired. If screening is negative, light transmission aggregometry is the preferred diagnostic test for platelet function disorders.21Because this test is labor and resource intensive, it should be ordered only by a hematologist.19"
+        },
+        {
+            "parent": 9,
+            "text": "A prolonged PTT with a normal PT indicates an abnormality in the intrinsic pathway. The next step is to perform a PTT mixing study to distinguish abnormalities in the clotting factors (VIII, IX, and XI) vs. clotting factor inhibitors, namely factor VIII inhibitor and lupus anticoagulant. Normal plasma is mixed with the patient's plasma in a 1:1 ratio and the PTT is retested. The PTT generally corrects after mixing and stays corrected after incubation if there is a clotting deficiency, but will prolong after incubation if there is a clotting inhibitor. There are no standardized methods of interpretation or cutoff values for these studies; therefore, the sensitivity and specificity can vary between laboratories.25It is important to determine which calculations and cutoffs are used by the laboratory when interpreting the results."
+        },
+        {
+            "parent": 9,
+            "text": "It is important to note that factor VIII levels can be low in persons with von Willebrand disease in the setting of a mildly prolonged PTT. Thus, it is worth screening for the disorder with a mixing study.24"
+        },
+        {
+            "parent": 10,
+            "text": "A prolonged PT in the setting of a normal PTT is uncommon26and suggests an abnormality in the extrinsic pathway. Vitamin K administration with normalization of the PT can rule out a vitamin K deficiency. If the PT remains prolonged, evaluation of factor VII should be undertaken."
+        },
+        {
+            "parent": 11,
+            "text": "Prolongation of the PT and the PTT suggests liver failure, disseminated intravascular coagulation, or defects in the common pathway to the intrinsic and extrinsic pathways. The appropriate evaluations to discern these causes are liver function tests (if not already performed), fibrinogen levels, and testing factor assays, respectively."
+        },
+        {
+            "parent": 12,
+            "text": "The patient should be referred to a hematologist if initial laboratory testing is not definitively diagnostic of a bleeding disorder, but a high clinical suspicion remains.15In addition, a preoperative evaluation that reveals abnormal laboratory findings should prompt a delay in surgery until evaluation is complete or consultation is obtained."
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources: A PubMed, Cochrane review, and UpToDate search was completed using the key terms bleeding, bruising, coagulopathy, and von Willebrand. The search included meta-analyses, clinical trials, and reviews. Search dates: January and November 2015."
+        }
+    ],
+    "locked": false
+}

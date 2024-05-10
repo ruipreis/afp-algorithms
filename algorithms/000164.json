@@ -1,0 +1,55 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/1215/p778.html#afp20191215p778-f1",
+    "title": "Diagnosing DVT in Nonpregnant Adults in the Primary Care Setting | AAFP",
+    "author": "NATASHA PYZOCHA, DO, 98Point6, Seattle, Washington",
+    "doi": "Am Fam Physician.2019;100(12):778-780",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Question",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evidence Summary",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Applying the Evidence",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "What is the best approach to the evaluation of nonpregnant adults with suspected first lower extremity deep venous thrombosis (DVT) in the outpatient primary care setting?"
+        },
+        {
+            "parent": 1,
+            "text": "The lifetime cumulative incidence of DVT ranges from 2% to 5%.1If untreated, DVT can lead to significant morbidity and mortality.1Patients who develop a DVT typically have at least one risk factor.2An unprovoked DVT may indicate malignancy or thrombophilia.3With increasing access to compression ultrasonography, patients are often referred immediately for additional diagnostic testing to rule out DVT, leading to increased health care costs. Although individual clinical features do not effectively rule out DVT, several clinical prediction rules have been evaluated to stratify risk in primary care patients, including the Wells score and the Dutch Primary Care Rule.4–6These two rules are shown inTable 1.1,6"
+        },
+        {
+            "parent": 1,
+            "text": "The original Wells score consisted of nine characteristics from the history and physical examination. It was later modified to add an additional point for a previously documented DVT.1A limitation of the Wells score is that it includes a subjective judgment question: whether a DVT is more or less likely than an alternative diagnosis. A meta-analysis of 51 studies also showed that the Wells score had less accuracy in older patients and in those with a prior DVT.4"
+        },
+        {
+            "parent": 1,
+            "text": "The Dutch Primary Care Rule consists of eight objective characteristics, eliminating the physician's subjective judgment but requiring d-dimer testing.7Because of concerns over the accuracy of the Wells score in a previous primary care study,8the safety and efficiency of both clinical prediction rules were prospectively compared in 1,002 primary care patients.6,9Both scores were calculated, and d-dimer testing and leg ultrasonography were performed as indicated. Patients were stratified into risk categories defined by each rule and d-dimer result, and all patients were followed for three months. In patients who had low risk based on either rule, a negative d-dimer result, and no ultrasonography, DVT was missed in only seven out of 447 patients (1.6%) using the Wells score and only seven out of 495 patients (1.4%) using the Dutch Primary Care Rule.6,9"
+        },
+        {
+            "parent": 1,
+            "text": "The American College of Chest Physicians, American College of Emergency Physicians, American Society of Hematology, American Academy of Family Physicians, and American College of Physicians recommend using a clinical prediction rule to assess the risk of DVT before obtaining imaging studies.10–13If the score is 1 point or less on the Wells score, d-dimer testing should be obtained. If the d-dimer result is negative in a low-risk patient, no further evaluation is needed; Doppler ultrasonography of the symptomatic leg is recommended in all other cases. In patients with a score of 3 points or less on the Dutch Primary Care Rule (which includes a negative d-dimer result), DVT can be excluded without further testing; Doppler ultrasonography is needed in patients with a score of greater than 3 points. Patients with negative ultrasound findings should be educated about symptoms of pulmonary embolism and clot extension, and ultrasonography should be repeated in three to seven days.13Figure 1is an algorithm for the diagnosis of DVT.10–13"
+        },
+        {
+            "parent": 2,
+            "text": "A 40-year-old woman presents to your office with swelling in her right leg that began two days ago. She has had no trauma to the area and states that nothing precipitated the symptoms. However, she has been sedentary since a knee replacement six weeks ago. She has no pain, localized tenderness along the deep venous system, paralysis, paresis, or recent plaster immobilization of the lower extremity. She does not have active cancer and has no previously documented DVT. She is taking ibuprofen for pain and is not taking oral contraceptives. Examination shows nonpitting edema on her right thigh and lower leg with calf swelling greater than 3 cm compared with the other leg. There are no skin changes or collateral superficial veins, and lower extremity pulses are normal. Examination of the left leg is normal. Her d-dimer result is elevated at 0.5 mcg per mL (1.7 nmol per L)."
+        },
+        {
+            "parent": 2,
+            "text": "She receives three points using the Wells score, giving her a high pretest probability of DVT, which warrants diagnostic ultrasonography. Ultrasonography is also indicated based on her Dutch Primary Care Rule score of 9 points."
+        }
+    ],
+    "locked": false
+}

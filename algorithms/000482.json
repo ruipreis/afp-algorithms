@@ -1,0 +1,151 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0115/p159.html#afp20110115p159-f1",
+    "title": "Evaluation and Management of Intestinal Obstruction | AAFP",
+    "author": "PATRICK G. JACKSON, MD, AND MANISH RAIJI, MD",
+    "doi": "Am Fam Physician.2011;83(2):159-165",
+    "abstract": "Acute intestinal obstruction occurs when there is an interruption in the forward flow of intestinal contents. This interruption can occur at any point along the length of the gastrointestinal tract, and clinical symptoms often vary based on the level of obstruction. Intestinal obstruction is most commonly caused by intra-abdominal adhesions, malignancy, or intestinal herniation. The clinical presentation generally includes nausea and emesis, colicky abdominal pain, and a failure to pass flatus or bowel movements. The classic physical examination findings of abdominal distension, tympany to percussion, and high-pitched bowel sounds suggest the diagnosis. Radiologic imaging can confirm the diagnosis, and can also serve as useful adjunctive investigations when the diagnosis is less certain. Although radiography is often the initial study, non-contrast computed tomography is recommended if the index of suspicion is high or if suspicion persists despite negative radiography. Management of uncomplicated obstructions includes fluid resuscitation with correction of metabolic derangements, intestinal decompression, and bowel rest. Evidence of vascular compromise or perforation, or failure to resolve with adequate bowel decompression is an indication for surgical intervention.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Causes and Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Testing and Imaging",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "RADIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CONTRAST FLUOROSCOPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MAGNETIC RESONANCE IMAGING",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Intestinal obstruction accounts for approximately 15 percent of all emergency department visits for acute abdominal pain.1Complications of intestinal obstruction include bowel ischemia and perforation. Morbidity and mortality associated with intestinal obstruction have declined since the advent of more sophisticated diagnostic tests, but the condition remains a challenging surgical diagnosis. Physicians who are treating patients with intestinal obstruction must weigh the risks of surgery with the consequences of inappropriate conservative management. A suggested approach to the patient with suspected small bowel obstruction is shown inFigure 1."
+        },
+        {
+            "parent": 0,
+            "text": "The fundamental concerns about intestinal obstruction are its effect on whole body fluid/electrolyte balances and the mechanical effect that increased pressure has on intestinal perfusion. Proximal to the point of obstruction, the intestinal tract dilates as it fills with intestinal secretions and swallowed air.2Failure of intestinal contents to pass through the intestinal tract leads to a cessation of flatus and bowel movements. Intestinal obstruction can be broadly differentiated into small bowel and large bowel obstruction."
+        },
+        {
+            "parent": 0,
+            "text": "Fluid loss from emesis, bowel edema, and loss of absorptive capacity leads to dehydration. Emesis leads to loss of gastric potassium, hydrogen, and chloride ions, and significant dehydration stimulates renal proximal tubule reabsorption of bicarbonate and loss of chloride, perpetuating the metabolic alkalosis.3In addition to derangements in fluid and electrolyte balance, intestinal stasis leads to overgrowth of intestinal flora, which may lead to the development of feculent emesis. Additionally, overgrowth of intestinal flora in the small bowel leads to bacterial translocation across the bowel wall.4"
+        },
+        {
+            "parent": 0,
+            "text": "Ongoing dilation of the intestine increases luminal pressures. When luminal pressures exceed venous pressures, loss of venous drainage causes increasing edema and hyperemia of the bowel. This may eventually lead to compromised arterial flow to the bowel, causing ischemia, necrosis, and perforation. A closed-loop obstruction, in which a section of bowel is obstructed proximally and distally, may undergo this process rapidly, with few presenting symptoms. Intestinal volvulus, the prototypical closed-loop obstruction, causes torsion of arterial inflow and venous drainage, and is a surgical emergency."
+        },
+        {
+            "parent": 1,
+            "text": "The most common causes of intestinal obstruction include adhesions, neoplasms, and herniation(Table 1). Adhesions resulting from prior abdominal surgery are the predominant cause of small bowel obstruction, accounting for approximately 60 percent of cases.5Lower abdominal surgeries, including appendectomies, colorectal surgery, gynecologic procedures, and hernia repairs, confer a greater risk of adhesive small bowel obstruction. Less common causes of obstruction include intestinal intussusception, volvulus, intra-abdominal abscesses, gallstones, and foreign bodies."
+        },
+        {
+            "parent": 2,
+            "text": "Patients should be asked about their history of abdominal neoplasia, hernia or hernia repair, and inflammatory bowel disease, because these conditions increase the risk of obstruction. The hallmarks of intestinal obstruction include colicky abdominal pain, nausea and vomiting, abdominal distension, and a cessation of flatus and bowel movements. It is important to differentiate between true mechanical obstruction and other causes of these symptoms(Table 2). Distal obstructions allow for a greater intestinal reservoir, with pain and distension more marked than emesis, whereas patients with proximal obstructions may have minimal abdominal distension but marked emesis. The presence of hypotension and tachycardia is an indication of severe dehydration. Abdominal palpation may reveal a distended, tympanitic abdomen; however, this finding may not be present in patients with early or proximal obstruction. Auscultation in patients with early obstruction reveals high-pitched bowel sounds, whereas those with late obstruction may present with minimal bowel sounds as the intestinal tract becomes hypotonic."
+        },
+        {
+            "parent": 4,
+            "text": "Laboratory evaluation of patients with suspected obstruction should include a complete blood count and metabolic panel. Hypokalemic, hypochloremic metabolic alkalosis may be noted in patients with severe emesis. Elevated blood urea nitrogen levels are consistent with dehydration, and hemoglobin and hematocrit levels may be increased. The white blood cell count may be elevated if intestinal bacteria translocate into the bloodstream, causing the systemic inflammatory response syndrome or sepsis. The development of metabolic acidosis, especially in a patient with an increasing serum lactate level, may signal bowel ischemia."
+        },
+        {
+            "parent": 5,
+            "text": "The initial evaluation of patients with clinical signs and symptoms of intestinal obstruction should include plain upright abdominal radiography. Radiography can quickly determine if intestinal perforation has occurred; free air can be seen above the liver in upright films or left lateral decubitus films. Radiography accurately diagnoses intestinal obstruction in approximately 60 percent of cases,6and its positive predictive value approaches 80 percent in patients with high-grade intestinal obstruction.7However, plain abdominal films can appear normal in early obstruction and in high jejunal or duodenal obstruction. Therefore, when clinical suspicion for obstruction is high or persists despite negative initial radiography, non-contrast computed tomography (CT) should be ordered.8"
+        },
+        {
+            "parent": 5,
+            "text": "In patients with small bowel obstruction, supine views show dilation of multiple loops of small bowel, with a paucity of air in the large bowel(Figure 2). Those with large bowel obstruction may have dilation of the colon, with decompressed small bowel in the setting of a competent ileocecal valve. Upright or lateral decubitus films may show laddering air fluid levels(Figure 3). These findings, in conjunction with a lack of air and stool in the distal colon and rectum, are highly suggestive of mechanical intestinal obstruction."
+        },
+        {
+            "parent": 6,
+            "text": "CT is appropriate for further evaluation of patients with suspected intestinal obstruction in whom clinical examination and radiography do not yield a definitive diagnosis. CT is sensitive for detection of high-grade obstruction (up to 90 percent in some series),9and has the additional benefit of defining the cause and level of obstruction in most patients.10–12In addition, CT can identify emergent causes of intestinal obstruction, such as volvulus or intestinal strangulation."
+        },
+        {
+            "parent": 6,
+            "text": "CT findings in patients with intestinal obstruction include dilated loops of bowel proximal to the site of obstruction, with distally decompressed bowel. The presence of a discrete transition point helps guide operative planning(Figure 4). Absence of contrast material in the rectum is also an important sign of complete obstruction. For this reason, rectal administration of contrast material should be avoided. A C-loop of distended bowel with radial mesenteric vessels with medial conversion is highly suspicious for intestinal volvulus. Thickened intestinal walls and poor flow of contrast material into a section of bowel suggests ischemia, whereas pneumatosis intestinalis, free intra-peritoneal air, and mesenteric fat stranding suggest necrosis and perforation."
+        },
+        {
+            "parent": 6,
+            "text": "Although CT is highly sensitive and specific for high-grade obstruction, its value diminishes in patients with partial obstruction. In these patients, oral contrast material may be seen traversing the length of the intestine to the rectum, with no discrete area of transition. Fluoroscopy may be of greater value in confirming the diagnosis."
+        },
+        {
+            "parent": 6,
+            "text": "The American College of Radiology recommends non-contrast CT as the initial imaging modality of choice.13However, because most causes of small bowel obstruction will have systemic manifestations or fail to resolve—necessitating operative intervention—the additional diagnostic value of CT compared with radiography is limited. Radiation exposure is also significant. Therefore, in most patients, CT should be ordered when the diagnosis is in doubt, when there is no surgical history or hernias to explain the etiology, or when there is a high index of suspicion for complete or high-grade obstruction."
+        },
+        {
+            "parent": 7,
+            "text": "Contrast studies, such as a small bowel follow-through, can be helpful in the diagnosis of a partial intestinal obstruction in patients with high clinical suspicion and in clinically stable patients in whom initial conservative management was not effective.14The use of water-soluble contrast material is not only diagnostic, but may also be therapeutic in patients with partial small-bowel obstruction. A randomized controlled trial of 124 patients showed a 74 percent reduction in the need for surgical intervention in patients receiving gastrografin fluoroscopy within 24 hours of initial presentation.15Contrast fluoroscopy may also be useful in determining the need for surgery; the presence of contrast material in the rectum within 24 hours of administration has a 97 percent sensitivity for spontaneous resolution of intestinal obstruction.16,17"
+        },
+        {
+            "parent": 7,
+            "text": "There are several variations of contrast fluoroscopy. In the small-bowel follow-through study, the patient drinks contrast material, then serial abdominal radiographs are taken to visualize the passage of contrast through the intestinal tract. Enteroclysis involves naso- or oro-duodenal intubation, followed by the instillation of contrast material directly into the small bowel. Although this study has superior sensitivity compared with small-bowel follow-through,18it is more labor-intensive and is rarely performed. Rectal fluoroscopy can be helpful in determining the site of a suspected large bowel obstruction."
+        },
+        {
+            "parent": 8,
+            "text": "In patients with high-grade obstruction, ultrasound evaluation of the abdomen has high sensitivity for intestinal obstruction, approaching 85 percent.19However, because of the wide availability of CT, it has largely replaced ultrasonography as the first-line investigation in stable patients with suspected intestinal obstruction. Ultrasonography remains a valuable investigation for unstable patients with an ambiguous diagnosis and in patients for whom radiation exposure is contraindicated, such as pregnant women."
+        },
+        {
+            "parent": 9,
+            "text": "Magnetic resonance imaging (MRI) may be more sensitive than CT in the evaluation of intestinal obstruction.20MRI enteroclysis, which involves intubation of the duodenum and infusion of contrast material directly into the small bowel, can more reliably determine the location and cause of obstruction.21However, because of the ease and cost-effectiveness of abdominal CT, MRI remains an investigational or adjunctive imaging modality for intestinal obstruction."
+        },
+        {
+            "parent": 10,
+            "text": "Management of intestinal obstruction is directed at correcting physiologic derangements caused by the obstruction, bowel rest, and removing the source of obstruction. The former is addressed by intravenous fluid resuscitation with isotonic fluid. The use of a bladder catheter to closely monitor urine output is the minimum requirement for gauging the adequacy of resuscitation; other invasive measures, such as arterial canalization or central venous pressure monitoring, can be used as the clinical situation warrants. Antibiotics are used to treat intestinal overgrowth of bacteria and translocation across the bowel wall.22The presence of fever and leukocytosis should prompt inclusion of antibiotics in the initial treatment regimen. Antibiotics should have coverage against gram-negative organisms and anaerobes, and the choice of a specific agent should be determined by local susceptibility and availability. Aggressive replacement of electrolytes is recommended after adequate renal function is confirmed."
+        },
+        {
+            "parent": 10,
+            "text": "The decision to perform surgery for intestinal obstruction can be difficult. Peritonitis, clinical instability, or unexplained leukocytosis or acidosis are concerning for abdominal sepsis, intestinal ischemia, or perforation; these findings mandate immediate surgical exploration. Patients with an obstruction that resolves after reduction of a hernia should be scheduled for elective hernia repair, whereas immediate surgery is required in patients with an irreducible or strangulated hernia. Stable patients with a history of abdominal malignancy or high suspicion for malignancy should be thoroughly evaluated for optimal surgical planning. Abdominal malignancy can be treated with primary resection and reconstruction or palliative diversion, or placement of venting and feeding tubes."
+        },
+        {
+            "parent": 10,
+            "text": "Treatment of stable patients with intestinal obstruction and a history of abdominal surgery presents a challenge. Conservative management of a high-grade obstruction should be attempted initially, using intestinal intubation and decompression, aggressive intravenous rehydration, and antibiotics. The inclusion of oral magnesium hydroxide, simethicone, and probiotics decreased the length of hospitalization in a randomized controlled trial of 144 patients with partial small bowel obstructions (number needed to treat = 7).23Caution should be used when clinical and radiologic evidence suggest complete obstruction, because the use of intestinal stimulation can exacerbate the obstruction and precipitate intestinal ischemia."
+        },
+        {
+            "parent": 10,
+            "text": "Conservative management is successful in 40 to 70 percent of clinically stable patients, with a higher success rate in those with partial obstruction.24–26Although conservative management is associated with shorter initial hospitalization (4.9 versus 12 days), there is also a higher rate of eventual recurrence (40.5 versus 26.8 percent).27With conservative management, resolution generally occurs within 24 to 48 hours. Beyond this time frame, the risk of complications, including vascular compromise, increases. If intestinal obstruction is not resolved with conservative management, surgical evaluation is required.25"
+        }
+    ],
+    "locked": false
+}

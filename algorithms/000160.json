@@ -1,0 +1,219 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0201/p168.html#afp20200201p168-f1",
+    "title": "Clostridioides difficile Infection: Update on Management | AAFP",
+    "author": "ANNE MOUNSEY, MD, KELLY LACY SMITH, MD, VINAY C. REDDY, MD, MPH, AND SARAH NICKOLICH, MD",
+    "doi": "Am Fam Physician.2020;101(3):168-175",
+    "abstract": "Guidelines for the diagnosis and treatment ofClostridioides difficileinfection have recently been updated. Risk factors include recent exposure to health care facilities or antibiotics, especially clindamycin.C. difficileinfection is characterized by a wide range of symptoms, from mild or moderate diarrhea to severe disease with pseudomembranous colitis, colonic ileus, toxic megacolon, sepsis, or death.C. difficileinfection should be considered in patients who are not taking laxatives and have three or more episodes of unexplained, unformed stools in 24 hours. Testing in these patients should start with enzyme immunoassays for glutamate dehydrogenase and toxins A and B or nucleic acid amplification testing. In children older than 12 months, testing is recommended only for those with prolonged diarrhea and risk factors. Treatment depends on whether the episode is an initial vs. recurrent infection and on the severity of the infection based on white blood cell count, serum creatinine level, and other clinical signs and symptoms. For an initial episode of nonsevereC. difficileinfection, oral vancomycin or oral fidaxomicin is recommended. Metronidazole is no longer recommended as first-line therapy for adults. Fecal microbiota transplantation is a reasonable treatment option with high cure rates in patients who have had multiple recurrent episodes and have received appropriate antibiotic therapy for at least three of the episodes. Good antibiotic stewardship is a key strategy to decrease rates ofC. difficileinfection. In routine or endemic settings, hands should be cleaned with either soap and water or an alcohol-based product, but during outbreaks soap and water is superior. The Infectious Diseases Society of America does not recommend the use of probiotics for prevention ofC. difficileinfection.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Transmission",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Microbiology and Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Recurrence",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Clinical Manifestations",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "ADJUVANT TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "REPEAT TESTING",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Treatment for Adults",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "INITIAL EPISODE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "FIRST RECURRENCE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "SUBSEQUENT RECURRENCE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "SEVERE DISEASE AND FULMINANT COLITIS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Treatment for Children",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Prevention and Control",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Clostridioides difficile(formerlyClostridium difficile) is an anaerobic, spore-forming, gram-positive bacillus identified in 1978 as the primary cause of antibiotic-associated diarrhea and pseudomembranous colitis.1The rate ofC. difficileinfections increased from 13 to 14.2 cases per 1,000 adults between 2011 and 2015; it is now the most commonly reported nosocomial pathogen in the United States.2Health care costs associated withC. difficileinfection were estimated at $4.8 billion for acute care facilities in 2008.3This article discusses recently updated guidelines for the diagnosis and treatment ofC. difficileinfection."
+        },
+        {
+            "parent": 0,
+            "text": "Antibiotic use is the most widely recognized risk factor forC. difficileinfection, and longer courses further increase the risk. Any antimicrobial agent can causeC. difficileinfection, but clindamycin is the most common(Table 1).4,5Other risk factors include severe illness, being older than 70 years, gastric acid suppression, enteral feeding, gastrointestinal surgery, small bowel obstruction, obesity, hematopoietic stem cell and solid organ transplantation, inflammatory bowel disease, cirrhosis, being peripartum, chronic kidney disease, hyperglycemia, hypoalbuminemia, and leukocytosis6,7(Table 27)."
+        },
+        {
+            "parent": 0,
+            "text": "A recent retrospective cohort study of adults withC. difficileinfection in the Veterans Health Administration found that 60% of cases were diagnosed after more than two days of hospitalization; these were classified as health care facility–acquired infections.8The remaining 40% were community-acquired infections, and on average 62% of these were associated with antibiotic use. Over the 11-year study, the proportion of community-acquired cases not associated with antibiotic use increased steadily, eventually exceeding the number of cases associated with antibiotic use. During the same period, health care facility–acquired infections decreased from 74% to 53% of cases."
+        },
+        {
+            "parent": 0,
+            "text": "The risk ofC. difficileinfection associated with hospitalization is attributed to colonization rates of 20% to 40% in hospitalized adults compared with 2% to 3% in healthy adults.1However, infection can occur in patients with no risk factors.9"
+        },
+        {
+            "parent": 0,
+            "text": "Asymptomatic colonization is common in children, especially infants.6Up to 63% of healthy neonates are colonized withC. difficile, and evidence suggests that hospitalization during birth is a factor.10Most infants are colonized with nontoxogenic strains that may stimulate a protective immune response.2,6Infants who are colonized with toxic strains may transmit the bacteria to adults.2Risk factors forC. difficileinfection in children are similar to those for adults.6"
+        },
+        {
+            "parent": 1,
+            "text": "Transmission ofC. difficilemost likely occurs by person-to-person contact via the fecal-oral route or by direct exposure from the contaminated environment. In 134 hospitalized patients who acquiredC. difficileinfection, occupying a room where a prior occupant had the infection significantly increased the risk (hazard ratio = 2.35).11Electronic rectal thermometers and inadequately cleaned commodes and bedpans are particularly high-risk fomites.6Shedding ofC. difficilespores may continue after treatment is complete and diarrhea has resolved, resulting in asymptomatic carriers."
+        },
+        {
+            "parent": 2,
+            "text": "The incubation period forC. difficileis up to one week, although recent studies suggest it could be longer.6C. difficilesurvives outside the colon as spores that are resistant to heat, acid, and antibiotics. Once spores are in the colon, they germinate to their fully functional vegetative, toxin-producing forms and become susceptible to antibiotics.C. difficilecolonizes the large intestine and releases two potent exotoxins that mediate colitis and diarrhea. Toxins A (enterotoxin) and B (cytotoxin) cause inflammation leading to mucosal injury and intestinal fluid secretion. ToxigenicC. difficileproduces both toxins or only toxin B, which is essential to the cytotoxicity ofC. difficile.12,13"
+        },
+        {
+            "parent": 3,
+            "text": "RecurrentC. difficileinfection is defined by resolution of symptoms during therapy, then reappearance of symptoms two to eight weeks after treatment has ended. The recurrence rate for health care facility–acquired infections is 5% to 50% (median: 20%).3A meta-analysis found that 13% to 50% of patients withC. difficileinfection had at least one recurrence.14A subset of patients will have multiple recurrences after at least three 14-day courses of appropriate antibiotics. From 2001 to 2012, the incidence of such cases increased 188.8%.15Recurrences are likely due to treatment failure rather than reinfection with a different strain ofC. difficile.16"
+        },
+        {
+            "parent": 4,
+            "text": "C. difficileinfection is characterized by a wide range of symptoms, from mild or moderate diarrhea—often mucoid stool with minimal blood—to severe disease with pseudo-membranous colitis, colonic ileus, toxic megacolon, sepsis, or death. Other possible symptoms include fever, abdominal pain or cramping, decreased appetite, and malaise.17Small studies have found that stool odor was neither sensitive nor specific forC. difficileinfection.18"
+        },
+        {
+            "parent": 5,
+            "text": "The Infectious Diseases Society of America (IDSA) and the Society for Healthcare Epidemiology of America recommend limiting testing forC. difficileinfection to patients with unexplained onset of three or more unformed stools in 24 hours while not taking laxatives.6The 2017 IDSA guidelines on the diagnosis and management of infectious diarrhea recommend testing in patients older than two years after antibiotic use, and in those with health care–associated diarrhea or persistent diarrhea in the absence of risk factors or a known cause.19"
+        },
+        {
+            "parent": 5,
+            "text": "Because of the high prevalence of asymptomaticC. difficilecolonization in infants, the IDSA does not recommend testing forC. difficilein children 12 months or younger who have diarrhea.6,20Testing is recommended only for children older than 12 months who have prolonged diarrhea and risk factors (e.g., malignancy, inflammatory bowel disease, cystic fibrosis, Hirschsprung disease, immunocompromising conditions, structural intestinal disorders), and only after other causes of diarrhea have been ruled out.6"
+        },
+        {
+            "parent": 5,
+            "text": "When the prevalence ofC. difficileinfection is low, no diagnostic test should be used alone because of low positive predictive values. The reference tests with which other assays are compared include cell cytotoxicity neutralization assay and toxigenic culture, both of which have relatively long turnaround times and are thus rarely used in clinical practice. Other diagnostic tests include enzyme immunoassay (EIA) for toxins A and B and for glutamate dehydrogenase (GDH), an enzyme made by allC. difficilestrains(Table 3).21Nucleic acid amplification testing (NAAT) detects genes that encode the toxins, but it cannot distinguish colonization from active infection. The EIA for GDH has high sensitivity, which makes it a useful screening test because a negative result essentially rules out infection (negative predictive value = 94% to 100%). The EIA for toxins A and B has the highest specificity, whereas NAAT is both sensitive and specific. The choice of diagnostic test depends on local preference, financial constraints, and volume of samples tested each day.6,21,22"
+        },
+        {
+            "parent": 5,
+            "text": "In facilities that limitC. difficiletesting to patients with three or more unformed stools per 24 hours, testing can begin with NAAT or EIAs for GDH and toxins A and B(Figure 1).If the facility does not limitC. difficiletesting and evaluates patients who do not meet testing criteria, EIAs for GDH and toxins A and B can be performed initially; if results are inconclusive, NAAT alone or in combination with an EIA for toxins A and B can be ordered.NAAT alone should not be performed in patients with a lower probability ofC. difficileinfection because a positive test could reflect asymptomatic colonization.6,21"
+        },
+        {
+            "parent": 6,
+            "text": "The presence of peripheral leukocytosis, lactic acidosis, or hypoalbuminemia indicates more severeC. difficileinfection. Adjuvant tests such as fecal hemoccult and lactoferrin are not recommended for assessment of disease severity.6In patients with signs of severe disease, radiographic imaging (e.g., plain radiography, contrast-enhanced computed tomography of the abdomen and pelvis) can be considered to look for colonic dilation, colonic wall thickening, pericolonic stranding, and ascites. Toxic megacolon with distention and pneumoperitoneum with perforation may occur in patients with severe infection.23"
+        },
+        {
+            "parent": 7,
+            "text": "Repeat testing within seven days during the same episode of diarrhea is not recommended because the high sensitivity of the tests can lead to false-positive results.6Testing for cure is not recommended in patients with a previous positive test because more than 60% of patients remainC. difficilepositive even after treatment.24"
+        },
+        {
+            "parent": 8,
+            "text": "The first step in identifying the correct treatment strategy is to determine the severity of the infection. Based on expert opinion, the proposed criteria forC. difficileinfection severity are:6"
+        },
+        {
+            "parent": 8,
+            "text": "Nonsevere infection: white blood cell count of 15,000 per mL (15.0 × 109per L) or less and serum creatinine level less than 1.5 mg per dL (133 mmol per L)Severe infection: white blood cell count greater than 15,000 per mL or serum creatinine level of 1.5 mg per dL or greaterFulminant colitis: hy potension, shock, ileus, or megacolon"
+        },
+        {
+            "parent": 8,
+            "text": "NonsevereC. difficileinfection is further stratified by initial episode and number of recurrent infections, and the treatment strategy depends on how many episodes the patient has experienced. It is reasonable to start antibiotics empirically if diagnostic test results will take longer than 48 hours to obtain or if the patient presents with fulminant colitis.6Patients who are clinically stable can be treated on an outpatient basis after they have been counseled about infection control."
+        },
+        {
+            "parent": 9,
+            "text": "The 2017 IDSA guidelines recommend oral vancomycin or fidaxomicin (Dificid) for treatment of nonsevere initialC. difficileinfection(Table 4).6Multiple randomized, placebo-controlled trials have shown that oral vancomycin is superior to metronidazole, which is no longer recommended as a first-line treatment for initial episodes ofC. difficileinfection.6Fidaxomicin is associated with a lower recurrence rate than oral vancomycin, but it is more expensive.6If oral vancomycin or fidaxomicin is unavailable, oral metronidazole can be used. However,C. difficileis becoming increasingly resistant to metronidazole.25"
+        },
+        {
+            "parent": 10,
+            "text": "Approximately 25% of patients treated with vancomycin forC. difficileinfection have at least one additional episode.26Treatment options for the first recurrence include vancomycin if metronidazole was used for the initial episode, or if a standard vancomycin regimen was used for the initial episode, either fidaxomicin or a prolonged vancomycin taper followed by pulsed vancomycin(Table 4).6"
+        },
+        {
+            "parent": 11,
+            "text": "There are several treatment options for patients who have had multiple recurrent episodes ofC. difficileinfection and have received appropriate antibiotic therapy for at least three episodes(Table 4).6Vancomycin can be given, either in a tapered and pulsed regimen or four times per day for 10 days followed by rifaximin (Xifaxan) three times per day for 20 days. Alternatively, fidaxomicin can be used twice per day for 10 days.Fecal microbiota transplantation is also a reasonable option.6It involves instillation of processed stool from a healthy donor into the intestinal tract of the patient through a colonoscope, feeding tube, enema, or capsules. Multiple randomized trials have shown cure rates ranging from 70% to 90%.6Fecal microbiota transplantation is less effective in patients with underlying inflammatory bowel disease.27It is generally safe but has mild to moderate self-limited adverse events (e.g., abdominal discomfort).28Rare potential complications include aspiration, upper gastrointestinal bleeding, and colonic perforation.28Long-term consequences are unknown.6"
+        },
+        {
+            "parent": 12,
+            "text": "Patients with severeC. difficileinfection or fulminant colitis should receive immediate antibiotic therapy, supportive care, and close monitoring in a hospital setting. Some may require surgery for toxic megacolon, colonic perforation, or necrotizing colitis.6"
+        },
+        {
+            "parent": 12,
+            "text": "Antibiotics for fulminant colitis include enteral vancomycin and parenteral metronidazole.8If there is no clinical improvement within three to five days, fidaxomicin can be added. Patients who have delayed passage of oral antibiotics due to an ileus can be given intracolonic vancomycin rectally via retention enema every six hours with or without intravenous metronidazole every eight hours.29Monitoring serum creatinine levels is important while using high doses of vancomycin, especially if the patient has underlying chronic kidney disease. Continuing treatment with the antibiotic presumed to have caused the infection prolongs diarrhea and increases the risk of treatment failure and recurrent infections,30–32so the antibiotic should be stopped, if possible, or switched to another agent that is less likely to causeC. difficileinfection."
+        },
+        {
+            "parent": 12,
+            "text": "Other strategies with less evidence for effective treatment ofC. difficileinfection include the use of probiotics and bezlotoxumab (Zinplava), the first human monoclonal antibody toC. difficiletoxin B that was recently approved by the U.S. Food and Drug Administration. Most guidelines recommend against the use of probiotics as adjunctive therapy because of a lack of good-quality studies that show benefit. A small study examined staggered and tapered antibiotic withdrawal in combination with probiotic kefir started after completion of a standard treatment regimen.33The study showed cure rates similar to those with fecal microbiota transplantation for recurrentC. difficileinfection. In two industry-sponsored randomized controlled trials, the addition of a single intravenous dose of bezlotoxumab to the standard treatment course decreased rates of recurrentC. difficileinfection.34"
+        },
+        {
+            "parent": 13,
+            "text": "There are limited data and no randomized controlled trials on the optimal approach to treatment ofC. difficileinfection in children. Metronidazole or vancomycin is recommended for children with an initial or first recurrence of nonsevere infection; for severe initial episodes or nonsevere recurrent episodes, oral vancomycin is preferred over metronidazole based on observational studies. Fidaxomicin is not approved for use in children younger than 18 years. Fecal microbiota transplantation can be used in children with multiple recurrences in whom standard antibiotic therapy is ineffective.6"
+        },
+        {
+            "parent": 14,
+            "text": "Infection control andgood antibiotic stewardship are the cornerstones for reducing the incidence ofC. difficileinfectionin health care and community settings. Infection control requires a robust surveillance system to detect increased infection rates or outbreaks ofC. difficileinfection; in addition, key preventive strategies include use of contact precautions, good hand hygiene, environmental cleaning and disinfection, and patient bathing. Contact precautions (e.g., private rooms with a private bathroom, putting on gloves and gowns on entry to the patient's room and removing them before exiting) should commence whenC. difficileinfection is suspected and should continue for at least 48 hours after resolution of the patient's diarrhea.6"
+        },
+        {
+            "parent": 14,
+            "text": "In routine or endemic settings, hands should be cleaned with either soap and water or an alcohol-based product before and after contact with a patient and after removing gloves.6During outbreaks or when direct contact with feces is likely, the use of soap and water is preferred over alcohol-based products35based on two small studies that showed that using soap and water vs. alcohol-based products was more effective for reducingC. difficilecolony-forming units.36,37U.S. Environmental Protection Agency–registered sporicidal agents should be used to disinfect surfaces with which the patient has come into contact.6Disposable equipment such as stethoscopes and thermometers should be used, and patients should wash their hands and shower regularly to reduce the number of spores on the skin.6In a study of patients withC. difficileinfection, showering significantly reduced positiveC. difficileskin cultures vs. bed bathing.35"
+        },
+        {
+            "parent": 14,
+            "text": "In community and childcare settings, patients withC. difficileinfection should wash their hands with soap and water after using the bathroom, before eating or preparing food, and when hands are visibly soiled.6Patients with diarrhea should avoid using the same toilets as other family members, and the bathroom and kitchen should be cleaned with bleach-containing solutions. The Centers for Disease Control and Prevention provides guidance for cleaning products and for preventing contamination of medical equipment (https://www.cdc.gov/infectioncontrol)."
+        },
+        {
+            "parent": 14,
+            "text": "Antibiotic stewardship that targets restriction of high-risk antibiotics can help control outbreaks and reduce infection rates; multiple studies have shown reductions of 33% to 90%.6Similar to inpatient management, outpatient management relies on implementing an antibiotic stewardship program and minimizing the frequency and duration of antibiotic therapy, as well as the number of antimicrobial agents used. Hand washing and barrier precautions should also be used in the outpatient setting."
+        },
+        {
+            "parent": 14,
+            "text": "The use of probiotics for the prevention ofC. difficileinfection and, more specifically,C. difficile–associated diarrhea has also been examined. A 2017 Cochrane review of 39 studies found moderate evidence that probiotics are effective for preventingC. difficile–associated diarrhea, but only in trials where theC. difficileevent rate was more than 5%.38In these studies, probiotics had a number needed to treat of 12 to preventC. difficile–associated diarrhea. Investigators determined that 27 of the studies were at high or unclear risk of bias, and there was marked heterogeneity between the studies in probiotic formulations, duration of administration, definitions ofC. difficileinfection, and duration of follow-up.6Probiotics may impede recovery of normal gut flora after antibiotic use39and increase the risk of bacteremia and fungemia in immunocompromised people.40Because of the potential bias and variations in the Cochrane review and the potential for harm from probiotic use, the IDSA concluded that there is insufficient evidence to recommend probiotics as a preventive measure.6There is also insufficient evidence to recommend stopping proton pump inhibitors and histamine H2blockers to decrease the incidence ofC. difficileinfection.6"
+        },
+        {
+            "parent": 14,
+            "text": "There is insufficient evidence to recommend screening for asymptomatic carriers ofC. difficile, or for instituting contact precautions for asymptomatic carriers.6Thus, it is not necessary to screen or treat close contacts if they are asymptomatic."
+        },
+        {
+            "parent": 14,
+            "text": "This article updates previous articles on this topic byWinslow, et al.,41and bySchroeder.42"
+        },
+        {
+            "parent": 14,
+            "text": "Data Sources:A PubMed search limited from 2013 through 2018 was completed using the following keywords and subject headings:Clostridium difficile,Clostridioides, cdiff, c diff,C difficile, orClostridium difficile[MeSH]. The search included meta-analyses, randomized controlled trials, controlled trials, and reviews. A keyword search was also performed in UpToDate for additional articles on this topic. Search dates: June 2018 to August 2019."
+        }
+    ],
+    "locked": false
+}

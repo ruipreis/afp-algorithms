@@ -1,0 +1,153 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0815/p413.html#afp20110815p413-f2",
+    "title": "Treatment Options for Localized Prostate Cancer | AAFP",
+    "author": "RAVINDER MOHAN, MD, PhD, AND PAUL F. SCHELLHAMMER, MD",
+    "doi": "Am Fam Physician.2011;84(4):413-420",
+    "abstract": "In the United States, more than 90 percent of prostate cancers are detected by serum prostate-specific antigen testing. Most patients are found to have localized prostate cancer, and most of these patients undergo surgery or radiotherapy. However, many patients have low-risk cancer and can follow an active surveillance protocol instead of undergoing invasive treatments. Active surveillance is a new concept in which low-risk patients are closely followed and proceed to intervention only if their cancer progresses. Clinical guidelines can help in selecting between treatment or active surveillance based on the cancer's stage and grade, the patient's prostate-specific antigen level, and the comorbidity-adjusted life expectancy. Radical prostatectomy or external beam radiation therapy is recommended for higher-risk patients. These treatments are almost equivalent in effectiveness, but have different adverse effect profiles. Brachytherapy is an option for low- and moderate-risk patients. Evidence is insufficient to determine whether laparoscopic or robotic surgery or cryotherapy is superior to open radical prostatectomy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "CANCER STAGE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "CANCER GRADE AND OTHER HISTOLOGIC FINDINGS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PSA LEVEL",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "COMORBIDITY-ADJUSTED LIFE EXPECTANCY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Comparison of Treatment Choices",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "EXTERNAL BEAM RADIATION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "BRACHYTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "OTHER TREATMENT OPTIONS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Adverse Effects",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Active Surveillance",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Prostate cancer is the second most common cause of cancer-related death in U.S. men, after lung cancer. One in six men will be diagnosed with prostate cancer in his lifetime; however, only one in 35 men will die from the cancer.1The incidence and mortality are two to three times higher in black men.2"
+        },
+        {
+            "parent": -1,
+            "text": "Because of widespread prostate-specific antigen (PSA) screening, about 90 percent of patients are diagnosed with localized prostate cancer.3Treatment of localized cancer by surgery or radiotherapy can be curative; however, in about one-half to three-fourths of patients, the risk of death from screening-detected prostate cancer is very low, even if they choose observation.4,5A large U.S. retrospective study found that about 20 percent of low-risk patients who chose observation died from prostate cancer over 20 years of follow-up.6A Swedish randomized controlled trial also found a survival benefit after eight years of treatment in low-risk patients.7However, patients in both of these studies had higher-stage cancer at diagnosis (i.e., their cancer was clinically diagnosed and was not detected by PSA screening). The Swedish trial also found that prostate cancer–specific mortality was only 2.4 percent at 10 years in low-risk patients who were randomized to active surveillance.8SORT: KEY RECOMMENDATIONS FOR PRACTICEClinical recommendationEvidence ratingReferencesTreatment for localized prostate cancer should be recommended for higher-risk patients. Risk can be estimated by using an index of cancer stage and grade, prostate-specific antigen level, and comorbidity-adjusted life expectancy.B17,24Patients can be counseled that surgery and external beam radiation therapy are almost equally effective in treating prostate cancer.B25Brachytherapy is an option for monotherapy in low-risk patients.B17Active surveillance is a reasonable option for low-risk and very low-risk patients.B9,17,25A = consistent, good-quality patient-oriented evidence; B = inconsistent or limited-quality patient-oriented evidence; C = consensus, disease-oriented evidence, usual practice, expert opinion, or case series. For information about the SORT evidence rating system, go tohttps://www.aafp.org/afpsort.xml."
+        },
+        {
+            "parent": -1,
+            "text": "Treatment is associated with urinary, sexual, and bowel dysfunction, and enhances the quality-adjusted survival of low-risk patients by only 1.2 months.9Despite these risks, about 94 percent of patients with localized prostate cancer choose treatment.10In patients treated from 2000 to 2002, the rate of overtreatment (i.e., treatment in low-risk patients) was estimated to be about 55 percent.11Black and Hispanic men are more likely to be monitored instead of receiving treatment, but the reasons for this are not known.12"
+        },
+        {
+            "parent": -1,
+            "text": "Few randomized controlled trials have compared outcomes of different treatments for localized prostate cancer. A survey of 504 urologists and 559 radiation oncologists found that for the same hypothetical patient, 93 percent of urologists would recommend surgery, and 72 percent of radiation oncologists would recommend radiotherapy.13Although treatment of localized prostate cancer is unlikely to improve the survival of low-risk patients and has potentially negative effects on health-related quality of life, about 70 to 90 percent of patients choose a treatment during the first visit to a urologist after a positive biopsy.14In a survey of 184 men with newly diagnosed prostate cancer, more than one-half significantly overestimated the survival benefit of treatment.15Education, income, and health literacy did not affect the results; 60 percent of the survey respondents were college educated and had an annual income more than $50,000, and more than 90 percent had at least a ninth-grade health literacy.15"
+        },
+        {
+            "parent": -1,
+            "text": "Although these patients had been counseled by their urologists and had already elected treatment or observation, more than 50 percent incorrectly answered more than one-half of the 18 items in a questionnaire designed to test their knowledge, understanding, and judgment about the advantages and disadvantages of treatment options for prostate cancer.16This questionnaire can be used to identify patients who need further counseling about treatment choices(Figure 1).16"
+        },
+        {
+            "parent": -1,
+            "text": "With the help of clinical guidelines, primary care physicians can counsel patients in choosing a treatment or observation. Guidelines from the National Comprehensive Cancer Network (NCCN), American Cancer Society, and American Urological Association are available athttp://www.nccn.org/professionals/physician_gls/PDF/prostate.pdf(registration required),http://www.psa-rising.com/download/nccnguidelines.pdf, and http://www.auanet.org/content/guidelines-and-quality-care/clinical-guidelines/main-reports/proscan07/content.pdf. The NCCN guidelines are based on high-level evidence or uniform consensus.17The American Urological Association guideline provides useful data on the advantages and disadvantages of different treatment options. An algorithm based on the NCCN guideline is presented inFigure 2.17"
+        },
+        {
+            "parent": 0,
+            "text": "The most recent guideline from the American Cancer Society recommends transrectal ultrasonography-guided prostate biopsy as a reasonable option in men with PSA levels of 4 ng per mL (4 mcg per L) or greater.18Biopsy may also be reasonable in men with PSA levels of 2.5 to 4.0 ng per mL (2.5 to 4.0 mcg per L) and who have risk factors for prostate cancer. Other relative indications for biopsy include PSA levels that are higher than age-adjusted ranges; less than 8 percent free PSA (versus total PSA); and an increase in PSA levels of more than 0.35 ng per mL (0.35 mcg per L) in one year in patients with a baseline level of less than 4 ng per mL, or an increase of more than 0.75 ng per mL (0.75 mcg per L) in one year in patients with a baseline level of 4 to 10 ng per mL (4 to 10 mcg per L).19Taking 12 biopsy cores is recommended; this may detect 31 percent more cancers than the traditional six biopsy cores, without an increase in adverse effects.20"
+        },
+        {
+            "parent": 1,
+            "text": "The NCCN guidelines use four factors in determining the recommended treatment: the stage and grade of the cancer, the patient's PSA level, and the estimated baseline life expectancy of the patient.17"
+        },
+        {
+            "parent": 2,
+            "text": "Stages T1 (not palpable) and T2 (palpable but limited to the prostate) are considered localized if there are no lymph nodes involved and no distant metastasis."
+        },
+        {
+            "parent": 3,
+            "text": "The Gleason score is determined by adding the grades of the two most common histologic patterns seen in each biopsy core. Each pattern is scored from 1 to 5, with 5 being most poorly differentiated. For example, if grade 3 is the most common pattern and grade 4 is the next most common pattern, the Gleason score would be 7 (3+4). The most common grade is 6, whereas grades 2 to 5 are uncommon. Grade 6 identifies a tumor with well-differentiated histology; grade 7 has intermediate differentiation; and grades 8 to 10 are the most poorly differentiated and have the worst prognosis. A grade 7 cancer is more aggressive if its scoring is 4+3 instead of 3+4."
+        },
+        {
+            "parent": 4,
+            "text": "PSA levels of 4 to less than 10 ng per mL, 10 to 20 ng per mL (10 to 20 mcg per L), and greater than 20 ng per mL are associated with a low, intermediate, and high risk of prostate cancer recurrence after treatment, respectively.21"
+        },
+        {
+            "parent": 5,
+            "text": "This factor is particularly important because the number of comorbid diseases is the most significant predictor of survival after treatment of prostate cancer.22Prostate cancer is usually slow growing, and the survival benefit of treatment may present only after 10 years or longer. This is the basis of the “10-year rule”: a patient with prostate cancer should be treated only if the patient has a comorbidity-adjusted life expectancy of at least 10 years. Age alone is not accurate in estimating life expectancy. To estimate comorbidity-adjusted life expectancy, the NCCN recommends the use of health status quartiles that match corresponding quartiles of life expectancy at each year of age.Tables 1a23andTables 1b24give a short patient-administered Charlson Comorbidity Index for a quick estimation of comorbidity-adjusted life expectancy."
+        },
+        {
+            "parent": 6,
+            "text": "A systematic review did not find any good-quality head-to-head trials comparing radical prostatectomy with radiotherapy.25Many trials studied biochemical progression but not long-term survival, and some trials were conducted before the advent of PSA testing. No trial has compared treatment outcomes by race or ethnicity, and most trials do not provide baseline racial characteristics."
+        },
+        {
+            "parent": 7,
+            "text": "Among patients in whom cancer was detected clinically (not by PSA screening), those who underwent radical prostatectomy (RP) had fewer prostate cancer–related deaths than patients who chose watchful waiting, although this benefit was limited to patients younger than 65 years.25Patients who were operated on by surgeons who performed more than 40 RPs per year had fewer urinary adverse effects. Laparoscopic RP performed with or without the use of robotic technology is associated with less blood loss and shorter hospital stays, but all long-term outcomes are similar to open RP. In robotic laparoscopic RP, surgeons with more experience were more likely to achieve complete resection of the cancer.25"
+        },
+        {
+            "parent": 8,
+            "text": "A systematic review found that surgery and external beam radiation therapy (EBRT) were equivalent in effectiveness, especially if the baseline PSA level was greater than 10 ng per mL.25EBRT is given over eight to nine weeks and is associated with more bowel adverse effects than surgery. Surgery is more difficult if cancer recurs after EBRT. The review found one trial in which proton therapy was more effective than EBRT.25"
+        },
+        {
+            "parent": 9,
+            "text": "In patients with low-risk cancer, brachytherapy using iodine-125 or palladium-103 pellet implantation is recommended as monotherapy.17It is a preferred option in these patients because it controls the cancer as effectively as surgery or EBRT, and patients experience much less urinary incontinence and erectile dysfunction. Implantation may be difficult in patients who have bladder outlet obstruction or a very large or very small prostate, and in those who have had previous prostate surgery."
+        },
+        {
+            "parent": 10,
+            "text": "Hormone therapy (also known as androgen deprivation therapy) as an adjunct to surgical treatment is discouraged in low-risk patients because it does not increase treatment effectiveness and is associated with gynecomastia and erectile dysfunction.17,25Cryotherapy and high-frequency ultrasound are not recommended as routine monotherapies."
+        },
+        {
+            "parent": 11,
+            "text": "Adverse effects vary depending on the treatment modality used; the specialist's experience; the criteria used to assess the frequency, severity, and duration of symptoms and their baseline status; and the medications or devices used to treat the symptoms.Table 2shows the incidence of adverse effects two years after surgery and EBRT.26Adverse effects noted five years after treatment include no urinary control or frequent urinary leakage (14 percent after surgery versus 5 percent after EBRT, with pad use in 29 percent of surgical patients and 4 percent of EBRT patients).25After adjusting for baseline factors, dripping or leaking urine was noted six times more often after surgery than after EBRT.25Erections insufficient for intercourse occurred in approximately three-fourths of patients after surgery or EBRT.25Despite these adverse effects, less than 5 percent of patients reported dissatisfaction with treatment, and more than 90 percent of patients said they would make the same decision again.25Patients who underwent surgery were most satisfied. Patient satisfaction was highly related with adverse effects, but also with the perception of freedom from prostate cancer."
+        },
+        {
+            "parent": 12,
+            "text": "Compared with observation and watchful waiting, active surveillance is a more structured program to track the progression of prostate cancer, allowing for earlier intervention if the patient's risk is found to increase on follow-up. A protocol used in Canada is shown inTable 39; with the use of this protocol, patient survival is similar to that after treatment (99.2 percent at eight years in 299 patients).9About 25 percent of patients in this protocol proceed to intervention.9Patient survival in a European study was 100 percent at 10 years in 616 patients.27In this ongoing study, patients continue with active surveillance only if their PSA level (checked every three months) doubles in more than three years; if cancer is present in only one or two biopsy cores; and if their Gleason score remains 6 (3+3) or lower (biopsy is done if the PSA doubling time is three to 10 years, and routinely at one, three, five, and seven years, then every five years thereafter). Active surveillance is recommended for low- and very low-risk patients. Drawbacks include the potentially increased difficulty of curative or nerve-sparing surgery in patients for whom intervention is delayed despite increasing risk, and mild anxiety. However, men following this protocol have been found to have favorable levels of anxiety and distress.28"
+        }
+    ],
+    "locked": false
+}

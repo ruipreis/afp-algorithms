@@ -1,0 +1,180 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/1001/p1046.html#afp20071001p1046-f1",
+    "title": "ACIP Releases 2007 Recommendations on Prevention and Control of Influenza | AAFP",
+    "author": "CARRIE ARMSTRONG",
+    "doi": "Am Fam Physician.2007;76(7):1046-1060",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Influenza Immunization for Children",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Vaccination in Children",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "TRIVALENT INACTIVATED VACCINE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "LIVE, ATTENUATED INFLUENZA VACCINE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Adults Younger Than 65 Years",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "TIV",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "LAIV",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Older Adults",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Comparison of TIV and LAIV",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Antiviral Agents for Treatment and Chemoprophylaxis of Influenza",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "CHEMOPROPHYLAXIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source: Centers for Disease Control and Prevention, Advisory Committee on Immunization Practices"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described? Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used? No"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:MMWR Recommendations and Reports, July 13, 2007"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5606a1.htm"
+        },
+        {
+            "parent": -1,
+            "text": "Annual epidemics of influenza typically occur during the late fall and winter in the United States. Influenza viruses can cause disease in persons of any age, but rates of infection are highest in children. Rates of serious illness and death are highest in persons 65 years and older, in children younger than two years, and in persons with medical conditions that put them at increased risk of complications from influenza. Influenza vaccination is the most effective method for preventing infection and its potentially severe complications. The Advisory Committee on Immunization Practices (ACIP) of the Centers for Disease Control and Prevention has released updated recommendations for influenza control for the2007–08 season(Table 1)."
+        },
+        {
+            "parent": -1,
+            "text": "The recommendations include the following updates:"
+        },
+        {
+            "parent": -1,
+            "text": "The trivalent vaccine strains for the 2007 influenza season are A/Solomon Islands/3/2006 (H1N1)-like, A/Wisconsin/67/2005 (H3N2)-like, and B/Malaysia/2506/2004-like viruses.Children six months to eight years of age should receive two doses of vaccine if they have not been vaccinated previously.Children six months to eight years of age who received only one dose in their first year of vaccination should receive two doses the following year.The level of vaccination coverage among health care professionals should be considered one measure of a patient safety quality program, and health care administrators should implement policies to encourage vaccination among health care professionals (e.g., obtaining signed statements from those who decline vaccination)."
+        },
+        {
+            "parent": 0,
+            "text": "The groups of persons for whom vaccination is recommended have not changed. Vaccination is recommended for children six to 59 months of age and adults 50 years and older, as well as their household contacts and caregivers; pregnant women; health care professionals; residents of nursing homes and other chronic-care facilities; and persons with certain chronic conditions. In addition, all persons who want to reduce their risk of infection should be vaccinated."
+        },
+        {
+            "parent": 1,
+            "text": "An algorithm for influenza vaccination in children is presented inFigure 1."
+        },
+        {
+            "parent": 2,
+            "text": "Vaccinated children six months and older typically have protective levels of anti-influenza antibody against specific virus strains. Children six months to eight years of age who have never been vaccinated require two doses of trivalent inactivated vaccine (TIV; doses separated by at least four weeks) to induce an optimal serum antibody response."
+        },
+        {
+            "parent": 2,
+            "text": "In consecutive influenza seasons when the vaccine antigens do not change, a single dose of vaccine in the spring followed by a second dose in the fall results in an antibody response similar to that of a regimen of two doses in the fall. In consecutive years when vaccine antigens do change, children who receive only one dose of vaccine in the first year are less likely to have protective antibody responses when given a single dose in the second year, compared with children who received two doses in the first year."
+        },
+        {
+            "parent": 2,
+            "text": "The antibody response in children at high risk of influenza-related complications might be lower than that reported in healthy children. However, antibody responses in children with asthma are similar to those in healthy children and are not substantially changed during asthma exacerbations requiring prednisone treatment."
+        },
+        {
+            "parent": 2,
+            "text": "The effectiveness of TIV in children may increase with age. A placebo-controlled study reported vaccine effectiveness of 56 percent in healthy children three to nine years of age and 100 percent in healthy children and adolescents 10 to 18 years of age."
+        },
+        {
+            "parent": 3,
+            "text": "A randomized, double-blind, placebo-controlled trial among 1,602 healthy children 15 to 71 months of age assessed the effectiveness of live, attenuated influenza vaccine (LAIV) against culture-confirmed influenza during two seasons. This trial included a subset of children who received two doses in the first season. In season 1 (1996–97), when vaccine and circulating virus strains were well matched, effectiveness against culture-confirmed influenza was 94 percent in patients who received two doses of LAIV separated by at least six weeks, and 89 percent in those who received one dose. In the second season, when the A (H3N2) component of the vaccine was not well matched with circulating virus strains, effectiveness was 86 percent. Another randomized, placebo-controlled trial showed 85 to 89 percent effectiveness against culture-confirmed influenza in children six to 35 months of age who attend child care centers during consecutive influenza seasons."
+        },
+        {
+            "parent": 5,
+            "text": "TIV is highly immunogenic in healthy adults younger than 65 years. Limited or no increase in antibody response is reported in adults when a second dose is administered during the same season. When the vaccine and circulating viruses are antigenically similar, TIV prevents laboratory-confirmed influenza in about 70 to 90 percent of healthy adults younger than 65 years. Vaccination results in decreased work absenteeism and decreased use of health care resources when the vaccine and circulating viruses are well matched. Effectiveness against laboratory-confirmed influenza illness is 50 to 77 percent in studies conducted during different influenza seasons when the vaccine strains were antigenically dissimilar to most circulating viral strains."
+        },
+        {
+            "parent": 5,
+            "text": "Studies typically have shown substantial reductions in hospitalizations or deaths among vaccinated adults with risk factors for influenza complications. In one recent study, vaccination reduced deaths from any cause by 78 percent and reduced hospitalizations from respiratory infections or cardiopulmonary diseases by 87 percent."
+        },
+        {
+            "parent": 5,
+            "text": "Pregnant women have protective concentrations of anti-influenza antibodies after vaccination. Passive transfer of anti-influenza antibodies from vaccinated women to neonates has been reported."
+        },
+        {
+            "parent": 6,
+            "text": "A randomized, double-blind, placebo-controlled trial of LAIV in 4,561 healthy working adults assessed multiple end points, including reductions in self-reported respiratory tract illness without laboratory confirmation, work loss, health care visits, and medication use during influenza outbreak periods. The study was conducted during the 1997–98 influenza season, when the vaccine and circulating strains were not well matched. The occurrence of febrile illness was not significantly decreased in LAIV recipients compared with those who received placebo. However, vaccine recipients had significantly fewer severe febrile illnesses (19 percent reduction) and febrile upper respiratory tract illnesses (24 percent reduction), as well as significant reductions in days of illness, days of work lost, days with physician visits, and use of prescription antibiotics and over-the-counter medications. Effectiveness of LAIV against laboratory-confirmed influenza in a randomized, placebo-controlled study was 49 percent, although effectiveness in this study was not shown to be significantly greater than that of placebo."
+        },
+        {
+            "parent": 7,
+            "text": "Lower postvaccination anti-influenza antibody concentrations have been reported among some groups of older adults compared with younger persons. A randomized trial among noninstitutionalized persons 60 years and older reported a vaccine effectiveness of 58 percent against influenza respiratory illness, but it indicated that effectiveness might be lower in persons 70 years and older. Among older adults not living in nursing homes or chronic-care facilities, influenza vaccine is 30 to 70 percent effective in preventing hospitalization for pneumonia and influenza. In adults 65 years and older, influenza vaccination reduces the occurrence of secondary complications and reduces the risk of influenza-related hospitalization and death."
+        },
+        {
+            "parent": 7,
+            "text": "Older persons typically have a diminished immune response to influenza vaccination compared with young, healthy adults. This suggests that immunity might be of shorter duration and may be less likely to extend to a second influenza season. Infections in vaccinated older adults may be linked to an age-related decrease in the ability to respond to vaccination rather than reduced duration of immunity."
+        },
+        {
+            "parent": 8,
+            "text": "TIV and LAIV have been proven effective in children and adults, but data directly comparing the effectiveness of these vaccines are limited. Studies comparing the effectiveness of TIV and LAIV have been conducted in a variety of settings and populations using several different clinical end points. One randomized, double-blind, placebo-controlled challenge study among 92 healthy adults 18 to 41 years of age assessed the effectiveness of LAIV and TIV in preventing influenza infection when challenged with wild-type strains that were antigenically similar to vaccine strains. The overall effectiveness in preventing laboratory-documented influenza from all three viral strains combined was 85 and 71 percent, respectively, when challenged 28 days after vaccination by viruses to which participants were susceptible before vaccination. The difference in effectiveness between the two vaccines was not statistically significant. In a randomized, double-blind, placebo-controlled trial conducted in young adults during an influenza season when most circulating H3N2 viruses were antigenically drifted from that season's vaccine viruses, the effectiveness of LAIV and TIV against culture-confirmed influenza was 57 and 77 percent, respectively. The difference in effectiveness was not statistically significant."
+        },
+        {
+            "parent": 8,
+            "text": "Although LAIV is not licensed for use in children younger than five years or in persons with risk factors for influenza complications, several studies have compared the effectiveness of LAIV with TIV in these groups. LAIV provided 32 percent increased protection in preventing culture-confirmed influenza compared with TIV in one study conducted in children six years and older and in adolescents with asthma; it provided 52 percent increased protection in children six to 71 months of age with recurrent respiratory tract infection. Another study conducted in children six to 71 months of age showed a 55 percent reduction in cases of culture-confirmed influenza in children who received LAIV compared with those who received TIV."
+        },
+        {
+            "parent": 9,
+            "text": "Antiviral medications are an adjunct to vaccination and are effective as treatment and as chemoprophylaxis after exposure to influenza. The antiviral medications recommended for chemoprophylaxis and treatment of influenza (i.e., oseltamivir [Tamiflu] and zanamivir [Relenza]) have not changed(Table 2). Amantadine (Symmetrel) and rimantadine (Flumadine) should not be used until evidence of susceptibility to these agents has been reestablished in circulating influenza A viruses."
+        },
+        {
+            "parent": 10,
+            "text": "Antiviral treatment must be initiated within two days of illness onset, and ideally within 36 hours. There is no significant benefit of antiviral treatment when initiated more than two days after illness onset in patients with uncomplicated influenza. The recommended duration of treatment is five days."
+        },
+        {
+            "parent": 10,
+            "text": "Data are limited about the effectiveness of zanamivir and oseltamivir in preventing serious influenza-related complications (e.g., bacterial or viral pneumonia, exacerbation of chronic disease) and in preventing influenza in persons at high risk of serious complications. In a study that combined data from 10 clinical trials, the risk of pneumonia in patients with laboratory-confirmed influenza who were given oseltamivir was approximately 50 percent lower than in control patients and 34 percent lower in patients at risk of complications. There are inadequate data on the effectiveness of influenza antiviral drugs in children younger than one year, and none is approved by the U.S. Food and Drug Administration for use in this age group."
+        },
+        {
+            "parent": 11,
+            "text": "Chemoprophylactic drugs are not a substitute for vaccination, but they are critical adjuncts in preventing and controlling influenza. Oseltamivir and zanamivir are similarly effective in preventing febrile, laboratory-confirmed influenza, and both agents can prevent influenza in persons who are given chemoprophylaxis after a household member is diagnosed with influenza (effectiveness: zanamivir, 72 to 82 percent; oseltamivir, 68 to 89 percent). Experience with prophylactic use of these agents in institutional settings or in patients with chronic medical conditions is limited, but most published studies have shown moderate to excellent effectiveness. The effectiveness of antiviral agents in preventing influenza in severely immunocompromised persons is unknown."
+        }
+    ],
+    "locked": false
+}

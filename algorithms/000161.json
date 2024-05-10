@@ -1,0 +1,194 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0201/p147.html#afp20200201p147-f1",
+    "title": "Screening and Counseling Adolescents and Young Adults: A Framework for Comprehensive Care | AAFP",
+    "author": "DAVID A. KLEIN, MD, MPH, SCOTT L. PARADISE, MD, AND CORINNE A. LANDIS, MD",
+    "doi": "Am Fam Physician.2020;101(3):147-158",
+    "abstract": "Healthy development is likely to occur when an adolescent's risk factors are limited and when protective factors are fostered. Healthy development is further encouraged when youth feel valued, empowered, and form healthy social connections. Threats to the well-being of adolescents typically result from experimentation and psychosocial stressors. SSHADESS (strengths, school, home, activities, drugs, emotions/eating, sexuality, safety) is a mnemonic to facilitate collection of psychosocial history of critical life dimensions emphasizing strengths within a youth's life experience instead of solely focusing on risks, which in isolation can provoke feelings of shame. Because adolescents are more likely to access health care and share sensitive information when confidentiality is assured, clinicians should regularly offer confidential screening and counseling. When limited for time, a brief psychosocial screen may include current stressors, availability of a confidant, and school or work experience as a proxy for well-being. Clinicians should provide education to prevent initiation of tobacco use. Long-acting reversible contraceptives are safe and effective in adolescents and should be offered as first-line options to prevent pregnancy. Sexually active females 24 years or younger should be screened for gonorrhea and chlamydia annually. Adolescents 12 years or older should be screened for major depressive disorder when systems are available to ensure accurate diagnosis, treatment, and follow-up. Adolescents with body mass index at the 95th percentile or higher should be referred for comprehensive behavioral interventions. Seatbelt use and avoidance of distracted or impaired driving should be discussed. Clinicians should discuss digital literacy and appropriate online boundary setting and display of personal information.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Approach to Visits",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "CONFIDENTIALITY",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "STRENGTH-BASED INTERVIEWING",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Recommendations",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "SOCIAL MEDIA",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SUBSTANCE USE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "SEXUAL HEALTH",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OBESITY AND EATING DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MENTAL HEALTH",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "SAFETY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Adolescence, the life stage between childhood and adulthood, encompasses the physical, cognitive, and emotional changes of puberty resulting in maturity.1For this reason, we use adolescence to refer to an expanded age range inclusive of what may be traditionally defined as young adulthood (e.g., 10 to 24 years) to reflect the complex biologic growth and social role transitions that occur during this period.1Through exploration, an adolescent's thinking progresses from concrete to abstract with greater ability to appreciate consequences and independently seek advice with maturity.1,2Threats to the well-being of adolescents typically result from experimentation and psychosocial stressors.3–5"
+        },
+        {
+            "parent": -1,
+            "text": "Adolescents are more likely to access health care, have a more favorable attitude about their clinicians, and share sensitive information when confidentiality is assured. However, approximately 60% do not get time alone with their clinician for confidential discussion despite patient and parental preferences."
+        },
+        {
+            "parent": -1,
+            "text": "In the United States, 95% of youth 13 to 17 years of age report smartphone access, and almost 50% report nearly constant use."
+        },
+        {
+            "parent": -1,
+            "text": "Approximately one-half of new sexually transmitted infections occur in people 15 to 24 years of age. Rates of chlamydia, gonorrhea, and syphilis infections among adolescents increased from 2012 to 2016."
+        },
+        {
+            "parent": -1,
+            "text": "Causes of death among people 10 to 24 years of age in the United States include motor vehicle crashes (22%), other unintentional injuries (20%), suicide (17%), and homicide (15%).3Furthermore, morbidity involving sexuality, substance misuse, social media, eating, and other stressors is widespread(Table 1).4,6,7In a national survey of high school students' behavior in the previous month, 39% reported texting while driving, and 30% reported using alcohol.4Despite these risks, most adolescents thrive.8"
+        },
+        {
+            "parent": -1,
+            "text": "Adolescents typically present to care for acute complaints. Only 70% of school-aged youth have a preventive care visit within four years, and some adolescents are exposed to health care only during sports preparticipation examinations.9Knowing that adolescents seek health-related information from online and unverified sources,10clinicians have a unique opportunity to provide accurate information and administer preventive care at all visits through trusted clinician-patient relationships8,10,11(Table 22,11;Figure 15,8,12)."
+        },
+        {
+            "parent": 1,
+            "text": "Clinicians should regularly offer confidential screening and counseling because when confidentiality is assured, adolescents are more likely to access health care, have a more favorable attitude about their clinicians, and share sensitive information.13–15However, approximately 60% do not get time alone with their clinician for confidential discussion despite patient and parental preferences.13,14,16Clinicians may request privacy by asking, “As part of my routine practice, may I take a moment to speak privately with your daughter about possible stressors [or] to help her begin to take responsibility for her health care?”5and clarify the approach to confidentiality.5,8,17"
+        },
+        {
+            "parent": 1,
+            "text": "Once alone, clinicians can set the stage for a trustworthy relationship by reiterating the purpose of privacy (e.g., to ensure success by discussing positive aspects of life and psychosocial stressors without judgment)8and limitations to privacy according to applicable minor consent laws(eTable A). Clinicians may consider stating, “Everything we talk about is private (e.g., protected by law) unless I'm particularly worried about your safety, meaning you ending your life or someone else's life or that someone is abusing you. If involvement of others is important, I will tell you, and together we will discuss the way to proceed.”5,8"
+        },
+        {
+            "parent": 1,
+            "text": "Mentioning commonly discussed protected topics such as mental health, drug use, or sexual activity may ease the patient's fear about disclosing sensitive information.8,13–15Clinicians should strive to prevent confidentiality lapses with electronic health record use (printable prescription and problem lists, automated appointment reminders, test results mailed or visible on patient portals), local pharmacy practices, and billing information.5,18,19"
+        },
+        {
+            "parent": 1,
+            "text": "The American Academy of Family Physicians supports clinicians in helping adolescents, young adults, and their parents be aware of the importance of confidential care.20"
+        },
+        {
+            "parent": 2,
+            "text": "Healthy development is likely to occur when an adolescent's risk factors are limited and when protective factors are fostered. Healthy development is further encouraged when adolescents feel valued and empowered and when they form healthy social connections within their schools, peer groups, families, and communities.8,21,22Clinicians may use motivational interviewing and shared decision-making to help adolescents build confidence for behavioral change.8"
+        },
+        {
+            "parent": 2,
+            "text": "SSHADESS (strengths, school, home, activities, drugs, emotions/eating, sexuality, safety) is a mnemonic to facilitate collection of a psychosocial history of critical life dimensions(Table 3).8Based on the traditional HEEADSSS (home, education/employment, eating, activities, drugs, sexuality, suicide/depression, safety) model,5this approach emphasizes identifying strengths within a youth's life experience while assessing risks, which in isolation can provoke feelings of shame.8Prior examples of a patient overcoming adversity or showing resilience can be incorporated into discussion using praise and reflective interviewing.5,8SSHADESS also prioritizes initial queries about school functioning—which may be expected and less personal than other topics—and broad screening for emotions and stress rather than limited focus on depression.5,8The patient's history should be tailored to each patient's personal context (including any adverse childhood or marginalization experiences that may be disclosed as trust is built) instead of a rigid checklist approach.5,8SeeTable 4for questions regarding social media use to be used in conjunction with the SSHADESS mnemonic.5"
+        },
+        {
+            "parent": 2,
+            "text": "A therapeutic alliance through rapport and continuity of care may reinforce clinicians' recommendations and improve outcomes.8,23Clinicians may request permission before inquiring about sensitive topics and should limit yes-or-no questions, which can hinder response depth and appear disingenuous.5Questions should generally progress from impersonal to personal (e.g., “Are any of your classmates experimenting with cigarettes?” before “Have you experimented with cigarettes?”).5,8Clinicians should thank patients for disclosing personal information, share their concerns respectfully and empathetically (e.g., “I'm worried that your daily marijuana use may affect your goal of military service.”), and reflect patients' previously disclosed examples of resilience.5Diminishing statements such as “I understand” or “It's not that big of a deal” should be avoided.5,8"
+        },
+        {
+            "parent": 2,
+            "text": "When limited for time, clinicians may prioritize a therapeutic history over thoroughness. In such circumstances, a brief psychosocial screen may include current stressors, availability of a confidant when needed, and school or work experience as a proxy for well-being.8Previsit computer or written questionnaire-administered comprehensive screening may increase efficiency, but evidence on patient-oriented outcomes, including clinicians' actions based on acquired information, is lacking.24Privacy may be warranted at every visit because adolescents may present with a hidden agenda. For example, one study showed approximately 50% of youth who completed suicide visited a primary care setting in the preceding month.25"
+        },
+        {
+            "parent": 4,
+            "text": "In the United States, 95% of youth 13 to 17 years of age report smartphone access, and almost 50% report nearly constant use or more frequent use than several times per day.26Traditional and social media, interactive video games, and other digital content can improve adolescents' social support and access to diverse information but may negatively affect health (e.g., sleep, attention, learning, mood, weight, driving safety), compromise personal privacy, and reveal inaccurate content and unsafe contacts.5,27–29"
+        },
+        {
+            "parent": 4,
+            "text": "Clinicians should ask about media exposure and educate families about digital literacy, open family communication, and boundary setting on content and display of personal information. Recommendations for a family media use plan (www.healthychildren.org/MediaUsePlan), lifestyle modifications, or behavioral health consultation may help limit risk(Table 5).5,27,28,30"
+        },
+        {
+            "parent": 5,
+            "text": "The American Academy of Pediatrics recommends that clinicians screen adolescents for substance use and, if applicable, provide a brief intervention, establish follow-up, and consider referral (e.g., for weekly or more frequent use).12,31The CRAFFT+N (car, relax, alone, forget, family/friends, trouble, nicotine) screening tool is sensitive for identifying problematic substance use (https://crafft.org/).32"
+        },
+        {
+            "parent": 5,
+            "text": "Approximately 87% of adult tobacco users initiate use before age 18; such use can have lifelong deleterious health consequences.33Among 12th graders in the United States in 2018, 29% reported using a nicotine product, and 21% reported using electronic cigarettes.34Electronic cigarette users are more likely than nonusers to use combustible cigarettes, and users of nicotine or tobacco products are more likely than nonusers to use marijuana.35,36Nicotine products may disproportionately affect neural pathways involving attention, cognition, addiction, and mood if used in adolescence.37Clinicians should counsel adolescents to prevent initiation of, or stop, nicotine or tobacco use.11,37Limited evidence suggests that behavioral support or smoking cessation medications facilitate long-term cessation in youth.38"
+        },
+        {
+            "parent": 5,
+            "text": "Adolescents who experiment with alcohol, marijuana, energy drinks, supplements, unauthorized prescription opioids, or other substances may develop problematic use. Although evidence for adolescents is limited, brief behavioral counseling to reduce alcohol use has demonstrated benefit in adults.39Marijuana use by adolescents has been associated with abnormal neural development and may increase the risk of depression and suicidality in adulthood40; clinicians should consider local state laws and patient age when counseling individuals on its use.31Use of prescribed opioids before high school graduation is associated with a 33% increased risk of subsequent opioid misuse.41Buprenorphine is approved to treat opioid-addicted adolescents 16 years and older.42Energy drinks contain unregulated ingredients and stimulants, have no therapeutic benefit, and may cause toxicity; screening for use provides opportunities for education.43A previous article inAmerican Family Physicianprovides further information about recognition and management of adolescent substance misuse.44"
+        },
+        {
+            "parent": 6,
+            "text": "Adolescent pregnancy, a risk factor for adverse fetal and maternal outcomes,45has become less common in recent years.46According to a survey among adolescents 15 to 19 years of age, this trend was attributed to improvements in contraceptive use as opposed to changes in rates of sexual behaviors.46Clinicians should counsel adolescents on pregnancy risk, healthy relationships, and contraception, including long-acting reversible contraception as a first-line optionand availability of emergency contraception.5,47,48Reducing barriers to contraceptives for adolescents reduces health disparities and abortion rates without increasing rates of sexual activity.49–51Discussions about menstruation and bleeding patterns should be conducted regularly and may serve as a proxy for overall health status.52"
+        },
+        {
+            "parent": 6,
+            "text": "Approximately one-half of new sexually transmitted infections occur in adolescents 15 to 24 years of age.53Rates of reported chlamydia, gonorrhea, and syphilis infections among adolescents have increased from 2012 to 2016.53As part of the confidential sexual history, clinicians should assess sexual behaviors, including number of partners, barrier contraceptive use, and a history of sexually transmitted infections(Table 6).2,5,54Abstinence, if practiced, should be reinforced.54Clinicians should annually screen for gonorrhea and chlamydia in sexually active females 24 years or younger.11,54Adolescents who are at high risk for these infections may benefit from testing every three to six months.54Age- and risk-specific immunizations should be provided."
+        },
+        {
+            "parent": 6,
+            "text": "Many adolescents face issues with sexual orientation and gender identity formation.54Family connectedness and social support have been shown to be protective against negative mental health outcomes and high-risk sexual behaviors in sexual minority and gender minority populations.54Clinicians may help adolescents disclose to family members if requested.54"
+        },
+        {
+            "parent": 7,
+            "text": "More than 30% of adolescents in the United States are overweight or obese.4,55The U.S. Preventive Services Task Force recommends screening for obesity in adolescents using body mass index percentile and offering or referring to comprehensive, intensive behavioral interventions, including exercise, nutrition, and behavioral modification.11,56,57Surveillance of the body mass index percentile trend may help identify obesity and disordered eating.56"
+        },
+        {
+            "parent": 7,
+            "text": "For obesity prevention, clinicians may recommend 60 minutes of moderate to vigorous physical activity daily and optimization of sleep habits; however, exercise interventions alone may not improve body mass index or health outcomes.30,56Clinicians may discuss healthy eating patterns, including increased intake of fruits and vegetables, plant-based fats and proteins, legumes, whole grains, and nuts, and avoidance of sweet beverages and processed foods.58"
+        },
+        {
+            "parent": 7,
+            "text": "Eating disorders have high lifetime mortality because of disease complications and risk of suicide. If an eating disorder is diagnosed, clinicians should recommend evidence-based treatments (e.g., family-based therapy) and arrange for multidisciplinary care, including a therapist and dietitian.59Weight restoration is an initial goal and may require inpatient admission59(eTable B)."
+        },
+        {
+            "parent": 8,
+            "text": "The U.S. Preventive Services Task Force recommends that clinicians screen adolescents starting at age 12 and adults for major depressive disorder when systems are in place to ensure accurate diagnosis, treatment, and follow-up.11,60,61The Patient Health Questionnaire has been validated in adolescents(Table 762–65). Clinicians should interview individuals privately about depressive symptoms and formulate individualized plans if depression, self-harm, or suicidality is identified.63Self-injury among adolescents may be related to poor coping skills and difficulty managing emotions; the risk of subsequent suicide is substantially higher among those who use violent methods (e.g., a firearm) than with nonviolent methods.66"
+        },
+        {
+            "parent": 8,
+            "text": "Adolescents diagnosed with mild depressive symptoms may be supported and monitored for approximately eight weeks before treatment; those with moderate to severe symptoms should be offered treatment or referral for treatment.63,67Combining a selective serotonin reuptake inhibitor and psychotherapy is likely more effective and safer than a single modality.67,68One-half to two-thirds of adolescents respond positively to selective serotonin reuptake inhibitors and typically better than placebo; suicidality risk has been estimated to be 4% among those medicated vs. 2% using placebo.68When prescribing psychotropics, clinicians should establish a safety plan and short-interval follow-up, review the U.S. Food and Drug Administration's boxed warning for suicidal thinking and behavior, slowly titrate up from low initial doses, consider psychiatry referral if comorbid conditions exist, and remind caregivers to restrict access to lethal means (e.g., medication stores, weapons).63,67See a recent article inAmerican Family Physicianfor more information about depression in adolescents.69"
+        },
+        {
+            "parent": 9,
+            "text": "In the United States, motor vehicle crashes are the number one cause of mortality among adolescents and may be attributed to driving inexperience, distraction, and risky behavior.3,70The American Academy of Pediatrics recommends that clinicians encourage seatbelt use, adherence to graduated driver's licensing laws (e.g., nighttime, passenger restrictions), and avoidance of distracted or impaired driving.70"
+        },
+        {
+            "parent": 9,
+            "text": "Approximately 1.5 million sports- and recreation-related concussions occur yearly among adolescents 18 years and younger in the United States.71Individualized management should include immediate removal from play with a brief period of physical and cognitive rest followed by step-wise return to sport or play.72"
+        },
+        {
+            "parent": 9,
+            "text": "Clinicians should inquire about patients' risk of violence (e.g., history of abuse, gang involvement, low school commitment, fear of assault, use of weapons). Interventions may focus on connecting adolescents with positive adult role models, community programs, and mental health services to develop coping skills and healthy relationships.2,73Firearms should be stored unloaded, locked, and separate from ammunition.74"
+        },
+        {
+            "parent": 9,
+            "text": "This article updates previous articles on this topic byHam and Allen2;Stephens75; andMontalto.76"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:A PubMed search was completed using the MeSH function with the key phrase adolescent used in a number of specialized queries with the terms confidentiality, psychosocial history, depression, social media, or other key terms related to psychosocial history taking and the specific conditions highlighted in this article. We identified the latest guidelines on the aforementioned topics from the American Academy of Pediatrics, the Centers for Disease Control and Prevention, and the U.S. Preventive Services Task Force; the reference lists of these guidelines were searched for additional articles. Other queries included Essential Evidence Plus and the Cochrane Database of Systematic Reviews. Search dates: December 1, 2018, through March 1, 2019; September 2, 2019."
+        },
+        {
+            "parent": 9,
+            "text": "The views expressed in this publication are those of the authors and do not reflect the official policy or position of the Uniformed Services University of the Health Sciences; the Departments of the Army, Navy, or Air Force; the Department of Defense; or the U.S. government."
+        }
+    ],
+    "locked": false
+}

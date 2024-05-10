@@ -1,0 +1,117 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0315/p1105.html#afp20050315p1105-f1",
+    "title": "Mildly Elevated Liver Transaminase Levels in the Asymptomatic Patient | AAFP",
+    "author": "PAUL T. GIBONEY, M.D.",
+    "doi": "Am Fam Physician.2005;71(6):1105-1110",
+    "abstract": "Mild elevations in liver chemistry tests such as alanine transaminase and aspartate transaminase can reveal serious underlying conditions or have transient and benign etiologies. Potential causes of liver transaminase elevations include viral hepatitis, alcohol use, medication use, steatosis or steatohepatitis, and cirrhosis. The history should be thorough, with special attention given to the use of medications, vitamins, herbs, drugs, and alcohol; family history; and any history of blood-product transfusions. Other common health conditions, such as diabetes, heart disease, and thyroid disease, can cause or augment liver transaminase elevations. The recent American Gastroenterological Association guideline regarding the evaluation and management of abnormal liver chemistry tests proposes a practical, algorithmic approach when the history and physical examination do not reveal the cause. In addition to liver chemistries, an initial serologic evaluation includes a prothrombin time; albumin; complete blood count with platelets; hepatitis A, B, and C serologies; and iron studies. Depending on the etiology, management strategies may include cessation of alcohol use, attention to medications, control of diabetes, and modification of lifestyle factors such as obesity. If elevations persist after an appropriate period of observation, further testing may include ultra-sonography and other serum studies. In some cases, biopsy may be indicated.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Markers of Hepatic Injury and Necrosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "INITIAL LABORATORY EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "LIFESTYLE MODIFICATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "FOLLOW-UP AND IMAGING STUDIES",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hepatic transaminase tests such as alanine transaminase (ALT) and aspartate transaminase (AST) often are part of standard laboratory panels in asymptomatic outpatients, similar to screening tests for blood donors and for life insurance applicants. The evaluation of an abnormal ALT or AST level in an asymptomatic patient therefore is a common challenge encountered by primary care physicians."
+        },
+        {
+            "parent": -1,
+            "text": "According to the American Gastroenterological Association (AGA), 1 to 4 percent of the asymptomatic population may have elevated serum liver chemistries.1This is consistent with the usual definition of an elevated transaminase level of the top 2.5 percent of the population range. Although one study2of 19,877 asymptomatic young Air Force trainees found that only 0.5 percent had elevated ALT levels, physicians who have more patients with obesity, diabetes, and hyperlipidemia will have to address this issue more often."
+        },
+        {
+            "parent": -1,
+            "text": "Given the frequency of this problem, physicians should develop an informed approach to the investigation of transaminase elevations. An audit of primary care practices found that these abnormalities are not always investigated appropriately and that opportunities to intervene in treatable cases sometimes are missed.3No controlled clinical trials have compared approaches to the management of abnormal transaminase levels. However, the AGA recently published a technical review1and a position statement4on the evaluation of liver chemistry tests. This article reviews the interpretation of ALT and AST levels and summarizes the AGA recommendations on addressing reported elevations."
+        },
+        {
+            "parent": 0,
+            "text": "ALT and AST are two of the most reliable markers of hepatocellular injury or necrosis. Their levels can be elevated in a variety of hepatic disorders. Of the two, ALT is thought to be more specific for hepatic injury because it is present mainly in the cytosol of the liver and in low concentrations elsewhere. AST has cytosolic and mitochondrial forms and is present in tissues of the liver, heart, skeletal muscle, kidneys, brain, pancreas, and lungs, and in white and red blood cells. AST is less commonly referred to as serum glutamic oxaloacetic transaminase and ALT as serum glutamic pyruvic transaminase."
+        },
+        {
+            "parent": 0,
+            "text": "Although levels of ALT and AST can be extremely elevated (exceeding 2,000 U per L in cases of hepatocyte injury and necrosis related to drugs, toxins, ischemia, and hepatitis), elevations less than five times the upper limit of normal (i.e., about 250 U per L and below) are much more common in primary care medicine. The range of possible etiologies at this level of transaminase elevation is broader(Table 15,6)and the tests less specific. It also is important to recall that patients with normal ALT and AST levels can have significant liver disease in the setting of chronic hepatocyte injury (e.g., cirrhosis, hepatitis C)."
+        },
+        {
+            "parent": 0,
+            "text": "The ratio of AST to ALT has some clinical utility, but has important limitations. In many forms of acute and chronic liver injury or steatosis (fatty infiltration of the liver), the ratio is less than or equal to 1. This is particularly true in patients with hepatitis C. However, an AST/ALT ratio greater than 2 characteristically is present in alcoholic hepatitis. A recent study7of 140 patients with nonalcoholic steatohepatitis (NASH; confirmed by liver biopsy) or alcoholic liver disease found a mean AST/ALT ratio of 0.9 in patients with NASH and 2.6 in patients with alcoholic liver disease. Within the population studied, 87 percent of patients with an AST/ALT ratio of 1.3 or less had NASH (87 percent sensitivity, 84 percent specificity). The severity of NASH as measured by the degree of fibrosis increased, as did the AST/ALT ratio. A mean ratio of 1.4 was found in patients with cirrhosis related to NASH. Wilson’s disease, a rare problem, can cause the AST/ALT ratio to exceed 4.5While these ratios are suggestive of certain conditions, there is too much overlap between groups to rely on them exclusively when making a diagnosis."
+        },
+        {
+            "parent": 0,
+            "text": "Lactate dehydrogenase (LDH) is a less specific marker of hepatocellular necrosis and usually does not add diagnostic information to that obtained with ALT and AST testing. An exception to this is the transient but massive rise of LDH in cases of ischemic hepatitis and its sustained elevation that, along with elevated alkaline phosphatase levels, suggests malignant infiltration of the liver.5"
+        },
+        {
+            "parent": 0,
+            "text": "Elevations of ALT and AST are not exclusive to liver pathology. Hyperthyroidism has been found in several studies to increase serum levels of liver enzymes including ALT and AST.8Genetic influences on the level of ALT also are possible. A study9of Danish twins showed that genetic factors accounted for 33 to 66 percent of the variation in ALT, gamma glutamyl transpeptidase, LDH, and bilirubin in patients 73 to 94 years of age. The AGA technical review states that serum ALT has diurnal variation, may vary day to day, and may be affected by exercise. It also notes that serum AST may be 15 percent higher in black men than white men.1"
+        },
+        {
+            "parent": 0,
+            "text": "Another cause of elevated liver transaminase levels is muscle injury. Strenuous exercise or myopathy can cause elevations (especially of AST) without causing any other symptoms. A creatine kinase or other muscle marker can be obtained to confirm or exclude such a process."
+        },
+        {
+            "parent": 0,
+            "text": "Annual screening of healthy, asymptomatic patients for liver disease using ALT and AST levels is not useful. A Japanese study10assessed the accuracy of ALT and AST for detecting hepatitis C, excess alcohol use, and fatty liver disease in male bank employees and found the positive predictive value of the test to be low. Only 3.9 percent of the men with an abnormal ALT level had hepatitis C; 8 percent were excessive users of alcohol; and 35.7 percent had fatty liver."
+        },
+        {
+            "parent": 1,
+            "text": "A thorough medical history and physical examination are the cornerstone of the evaluation of patients with mildly elevated liver transaminase levels.1The history should attempt to identify risk factors for disease, with special attention directed toward family history, medications, vitamins, herbal supplements, drug use, alcohol use, abnormal liver testing, blood-product transfusions, and symptoms of liver disease.Table 26lists selected medications and herbal supplements that may cause elevated transaminase levels. Physicians should ask patients directly about their use of illicit drugs, herbal supplements, and other alternative “supplements” because these sometimes are omitted from the patient’s initial response to questions."
+        },
+        {
+            "parent": 1,
+            "text": "The presence of other significant health conditions that can cause or augment liver transaminase elevations also should be noted; examples are diabetes, heart disease (including congestive heart failure), thyroid disease, muscle disease, and cancer. Physical findings and sequelae of liver dysfunction are given inTable 3."
+        },
+        {
+            "parent": 1,
+            "text": "Once the history and physical examination are completed, additional testing can help discern the etiology of the transaminase elevation(Figure 1).4"
+        },
+        {
+            "parent": 2,
+            "text": "Additional laboratory tests should be obtained when the history and physical examination show no obvious etiology for ALT and AST elevations. Ferritin, total iron-binding capacity, and serum iron can be used to look for hemochromatosis, while hepatitis A, B, and C serologies are used to rule out acute or chronic hepatitis."
+        },
+        {
+            "parent": 2,
+            "text": "Despite the emergence of widespread vaccination, hepatitis B remains a common cause of chronic liver disease in adults. Testing for hepatitis C is essential because its incidence has increased in the past decade, and new treatment strategies have been developed that can address this frequently missed problem.11"
+        },
+        {
+            "parent": 2,
+            "text": "A prothrombin time (PT) and serum albumin should be ordered to identify patients with abnormalities of protein synthesis and liver function. Evaluation should be accelerated for patients with impaired hepatic synthetic function. A complete blood count with platelets also should be ordered. In addition to ruling out infection, neutropenia or thrombocytopenia can, along with an elevated PT, suggest advanced liver disease. An elevated mean red cell volume suggests heavy alcohol intake. Alkaline phosphatase and bilirubin are markers for hepatic cholestasis and should be ordered as part of the initial laboratory evaluation. While sometimes useful, they often are normal in the presence of hepatic injury."
+        },
+        {
+            "parent": 3,
+            "text": "If the patient is asymptomatic and the initial serum testing is negative, a period of lifestyle modification can be attempted. Effective lifestyle modification includes complete abstinence from alcohol, control of diabetes and hyperlipidemia, weight loss in overweight patients, and stopping or changing potentially hepatotoxic medications and supplements. Such lifestyle changes directly impact several of the causes of mild transaminase elevation(Table 1).5,6These seemingly small modifications may be all that is needed to correct the abnormalities."
+        },
+        {
+            "parent": 4,
+            "text": "A repeat set of liver chemistries should be obtained after six months. If the patient’s presentation changes or the physician has concern for an evolving process, shorter intervals can be used. If abnormalities persist at the six-month follow-up visit, ultra-sonography of the liver is recommended. Computed tomography of the abdomen also is used in this setting, although clinical trials have not demonstrated an advantage of this more expensive modality."
+        },
+        {
+            "parent": 4,
+            "text": "Steatohepatitis (or nonalcoholic fatty liver disease) often is discovered by imaging. This condition may be the most frequent cause of mild liver chemistry elevations and is especially common in patients who are obese, and those who have diabetes or hyperlipidemia. One study12of patients referred to a hospital-based gastroenterology practice found that in 83 percent of patients with elevated transaminase levels whose serum evaluation was otherwise negative, liver biopsy revealed steatosis or steatohepatitis. In 10 percent of the patients, however, liver biopsy was normal—a reminder that, at times, mildly elevated transaminase levels do not represent any underlying pathology. Excellent reviews of the management of nonalcoholic fatty liver disease have been published.13,14"
+        },
+        {
+            "parent": 4,
+            "text": "If the diagnosis is not apparent from the ultrasound examination, further testing is suggested for alpha1-antitrypsin deficiency (alpha1-antitrypsin levels), Wilson’s disease (serum ceruloplasmin), celiac disease (antigliadin and anti-endomysial antibody), and autoimmune hepatitis (antinuclear antibody, anti–smooth-muscle antibody), as well as for nonhepatic causes of transaminase elevation. According to the AGA, the decision to perform a liver biopsy needs to be made on an individual basis, taking into consideration the patient’s age, lifestyle, liver chemistry abnormalities, desire for prognostic information, and associated comorbid conditions.1Only with chronic mild transaminase elevations would an asymptomatic patient be considered a possible candidate for biopsy."
+        }
+    ],
+    "locked": false
+}

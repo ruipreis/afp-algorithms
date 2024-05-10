@@ -1,0 +1,162 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/1215/p776.html#afp20171215p776-f1",
+    "title": "Chronic Kidney Disease: Detection and Evaluation | AAFP",
+    "author": "DAVID Y. GAITONDE, MD, DAVID L. COOK, MD, AND IAN M. RIVERA, MD",
+    "doi": "Am Fam Physician.2017;96(12):776-783",
+    "abstract": "Chronic kidney disease affects 47 million people in the United States and is associated with significant health care costs, morbidity, and mortality. Because this disease can silently progress to advanced stages, early detection is critical for initiating timely interventions. Multiple guidelines recommend at least annual screening with serum creatinine, urine albumin/creatinine ratio, and urinalysis for patients with risk factors, particularly diabetes mellitus, hypertension, and a history of cardiovascular disease. The U.S. Preventive Services Task Force found insufficient evidence to assess the balance of benefits and harms of screening for chronic kidney disease in the general population, and the American College of Physicians recommends against screening asymptomatic adults without risk factors. Persistently elevated serum creatinine and albuminuria are diagnostic and prognostic hallmarks of chronic kidney disease. Lower levels of albuminuria are associated with adverse renal and cardiovascular outcomes. Serum cystatin C is a novel biomarker that is most useful when a false-positive decreased estimated glomerular filtration rate calculated from serum creatinine is suspected. New guidelines incorporate albuminuria into the classification framework for chronic kidney disease and elaborate on identification of the disease, the frequency of follow-up, and recommendations for nephrology referral. Nephrology consultation is indicated for patients with an estimated glomerular filtration rate less than 30 mL per minute per 1.73 m2, persistent urine albumin/creatinine ratio greater than 300 mg per g or urine protein/creatinine ratio greater than 500 mg per g, or if there is evidence of a rapid loss of kidney function. A multidisciplinary approach between primary care physicians, nephrologists, and other subspecialists for implementing early interventions, providing education, and planning for advanced renal disease is key for effective management.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Detection of CKD",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "SCREENING INDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "SCREENING TESTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "GFR ESTIMATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Markers of Kidney Damage",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "PROTEINURIA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ALBUMINURIA",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OTHER INDICATORS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CKD Staging",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Evaluation of CKD",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "CARDIOVASCULAR DISEASE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "ANEMIA",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "MINERAL AND BONE DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Indications for Nephrology Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Chronic kidney disease (CKD) is a major public health concern that affects approximately 47 million persons in the United States, or 14.8% of the U.S. adult population.1It is associated with significant health care costs, morbidity, and mortality.1,2The presence of CKD increases the risk of hospitalization, cardiovascular events, and death.3,4Recent data show that the prevalence of CKD has largely stabilized since 2004, possibly because of better awareness and treatment of obesity, hypertension, and diabetes mellitus.5A 2014 report showed that Medicare spending for patients with CKD was more than $52 billion, which represents 20% of all Medicare costs.6The per-person per-year Medicare expense for CKD rises with increasing disease severity, ranging from $1,700 for stage 2 to $12,700 for stage 4, with costs rising exponentially in end-stage renal disease.2,6Thus, early detection of CKD is critical to slow disease progression, prevent long-term morbidity and mortality, and decrease health care spending. The 2012 Kidney Disease: Improving Global Outcomes (KDIGO) Work Group published updated guidelines on the detection, evaluation, classification, and management of CKD.7This article reviews current recommendations for the primary care physician."
+        },
+        {
+            "parent": 0,
+            "text": "CKD is defined as abnormal kidney structure or function lasting more than three months with associated health implications.7Indicators include albuminuria, urine sediment abnormalities, abnormal renal imaging findings, serum electrolyte or acid-base derangements, and glomerular filtration rate (GFR) less than 60 mL per minute per 1.73 m2.7"
+        },
+        {
+            "parent": 0,
+            "text": "Because CKD can progress to advanced renal failure, end-stage renal disease, and even death, early detection is critical for initiating timely therapeutic interventions, limiting nephrotoxin exposure, preventing further reduction in GFR, and preparing for renal replacement therapy.8,9"
+        },
+        {
+            "parent": 1,
+            "text": "Multiple guidelines recommend that patients with diabetes or hypertension be screened annually for CKD. Furthermore, patients with other risk factors, including cardiovascular disease, older age, history of low birth weight, obesity, and a family history of CKD, warrant consideration for screening.7,10,11The U.S. Preventive Services Task Force concluded that the evidence is insufficient to assess the balance of benefits and harms of routine screening for CKD in asymptomatic adults.12The American College of Physicians and the American Academy of Family Physicians recommend against screening for CKD in asymptomatic adults without risk factors.13,14"
+        },
+        {
+            "parent": 2,
+            "text": "Screening for CKD includes measurement of serum creatinine, estimation of GFR using a serum creatinine-based equation, measurement of the urine albumin/creatinine ratio, and urinalysis.7Urinalysis has a high sensitivity for heavy proteinuria (greater than 300 mg per 24 hours, as estimated from the spot urine protein/creatinine ratio) but may not detect clinically significant lower levels (30 to 300 mg).15Because albumin is the predominantly filtered glomerular protein, initial proteinuria evaluation using the spot urine albumin/creatinine ratio obtained from an early morning sample is recommended.7,16,17Timed 24-hour urine collections are no longer recommended as an initial diagnostic tool because of the potential for inadequate collection, inconvenience to patients, and the lack of diagnostic advantage over the urine albumin/creatinine ratio."
+        },
+        {
+            "parent": 3,
+            "text": "Steady state renal function is best determined by estimation of GFR, which is derived from measurement of serum creatinine. The Cockcroft-Gault equation to estimate GFR is now used only to determine dosing adjustments for medications.18,19For all other purposes, the Chronic Kidney Disease Epidemiology Collaboration equation (http://www.kidney.org/professionals/kdoqi/gfr_calculator.cfm) is the established method of estimating GFR in routine clinical practice because of improved accuracy in persons with near-normal estimated GFR20(eTable A). Updated GFR categories and terminology are provided inTable 1.21–23"
+        },
+        {
+            "parent": 3,
+            "text": "Serum cystatin C is a filtration marker that has emerged as an alternative to serum creatinine to more accurately estimate GFR and classify CKD. Obtaining the serum cystatin C–based estimated GFR is most beneficial when a false-positive decreased estimated GFR is suspected, such as in a patient without known structural kidney disease, risk factors for CKD, or albuminuria who has a creatinine clearance–calculated estimated GFR of 45 to 59 mL per minute per 1.73 m2.24In such cases, the serum cystatin C and serum creatinine levels can be obtained concurrently for recalculation of the estimated GFR using the appropriate calculator7,24,25(eTable A). If the estimated GFR calculated using both serum creatinine and serum cystatin C is greater than 60 mL per minute per 1.73 m2, a diagnosis of CKD is not warranted. A recent community-based longitudinal observational study demonstrated that a reduced serum cystatin C–based estimated GFR was associated with all-cause and cardiovascular disease mortality.26It should be noted that serum cystatin C is not reliable in patients with acute kidney injury, inflammatory states, or thyroid dysfunction.7,16,25,27Furthermore, it is not yet universally available and may add significant cost to the evaluation."
+        },
+        {
+            "parent": 5,
+            "text": "Persistent proteinuria is a defining marker of renal injury regardless of estimated GFR, and it identifies increased cardiovascular disease and mortality risks.17,28Measurement of proteinuria with the total protein/creatinine ratio is a less sensitive method than the spot albumin/creatinine ratio, and includes filtered albumin, tubular-secreted proteins (Tamm-Horsfall protein), and plasma proteins from other disease processes, such as multiple myeloma and infection. Because the protein/creatinine ratio is less sensitive for low-level proteinuria (less than 150 mg per 24 hours as estimated from the spot urine protein/creatinine ratio), it should not be routinely used for initial screening."
+        },
+        {
+            "parent": 6,
+            "text": "The spot urine albumin/creatinine ratio is preferred over the protein/creatinine ratio because it detects lower levels of proteinuria. Small amounts of albumin in the urine—between 30 and 300 mg per day—were previously thought to be clinically insignificant. However, modest albuminuria is now recognized to have prognostic significance, and the albumin/creatinine ratio is recommended by current clinical practice guidelines that emphasize albuminuria.7Menstrual bleeding, urinary tract infection, exercise, and other factors may affect the urinary albumin/creatinine ratio.7"
+        },
+        {
+            "parent": 6,
+            "text": "To further risk stratify and optimize early detection of albuminuria in at-risk persons, the terms microal-buminuria and macroalbuminuria have been replaced with normal to mildly increased (albumin/creatinine ratio less than 30 mg per g), moderately increased (30 to 300 mg per g), and severely increased (greater than 300 mg per g).7Severe albuminuria independently predicts mortality and end-stage renal disease.29Dipstick urinalysis is not sensitive for detection of small amounts of albumin and is no longer recommended for routine screening or definitive diagnosis.7Updated proteinuria categories and terminology are provided in the KDIGO 2012 guideline (see Table 7, “Relationship Among Categories for Albuminuria and Proteinuria” athttp://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO_2012_CKD_GL.pdf).7"
+        },
+        {
+            "parent": 7,
+            "text": "Urinalysis and urine microscopy still play significant roles in the detection of CKD. Presence of hematuria, cellular casts, chronic pyuria, tubular concentrating defects, and insufficient renal acidification all suggest renal impairment in the correct clinical context. Patients with diabetes and albuminuria have a high risk of progressing to end-stage renal disease as proteinuria worsens.17Individuals with CKD and diabetes should have a comprehensive evaluation that addresses hypertension and cardiovascular risk to guide future therapeutic interventions.23Moderate to advanced diabetic kidney disease can potentially be diagnosed without renal biopsy and is based on clinical and laboratory evaluation(eTable B). However, mild diabetic kidney disease may present more subtly."
+        },
+        {
+            "parent": 8,
+            "text": "Prognosis, evaluation, and management of CKD are dependent on staging. The 2012 KDIGO guidelines provide an enhanced classification framework for CKD and albuminuria.7They also elaborate on the identification and prognosis of CKD, frequency of follow-up, and recommendations for nephrology referral. Primary care physicians should classify CKD based on the estimated GFR and degree of albuminuria (see Figure 17, Guide to Frequency of Monitoring [number of times per year] by GFR and Albuminuria Category, athttp://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO_2012_CKD_GL.pdf).7Renal transplant recipients are considered to have CKD regardless of GFR or absence of albuminuria."
+        },
+        {
+            "parent": 9,
+            "text": "Once reduced GFR and/or presence of proteinuria are determined to be chronic and stable (unchanged for more than three months), a comprehensive initial workup is necessary to determine the etiology of CKD. Etiologies include hypertensive kidney disease, diabetic nephropathy, or primary or secondary glomerulonephritis.7A full medical history, including exposure to potential nephrotoxins; physical examination; and review of historical and current blood pressure, dietary history, and weight measurements are essential for CKD evaluation7(Table 27,21). Laboratory assessment should include measurement of serum electrolytes, fasting lipids, A1C, and urine albumin/creatinine ratio.7Urinalysis with microscopic urine sediment is helpful if intrinsic renal disease is suspected.21Renal ultrasonography is recommended to evaluate for structural abnormalities.30Figure 1outlines a proposed approach to the evaluation of CKD.7"
+        },
+        {
+            "parent": 10,
+            "text": "Because the presence of albuminuria or a GFR less than 60 mL per minute per 1.73 m2increases the risk of cardiovascular and all-cause mortality, cardiovascular risk stratification is recommended for all persons with CKD.7,31Furthermore, the presence of CKD should not preclude antiplatelet agents or therapies for heart failure if indicated.7GFR and serum electrolyte levels should be monitored as pharmacotherapy for the management of heart failure is escalated, because these parameters may change significantly. Electrocardiography and echocardiography may be useful in identifying end-organ damage from long-standing, poorly controlled hypertension as a potential clue to the etiology of CKD."
+        },
+        {
+            "parent": 11,
+            "text": "Patients with CKD are at increased risk of anemia and mineral and bone disorders. Hemoglobin should be measured at least annually in patients with stage 3 CKD, and more frequently as renal function declines.7,32A complete blood count, absolute reticulocyte count, ferritin level, transferrin saturation, and vitamin B12and folate levels should be obtained in patients with anemia.32There is no role for measurement of serum erythropoietin level in the primary care setting."
+        },
+        {
+            "parent": 12,
+            "text": "Patients with stage 1 to 3a CKD can be screened for osteoporosis using the same strategy as the general population. For those with more advanced CKD, densitometry is not recommended because fracture risk prediction is less accurate.7,33Additionally, certain subsets of metabolic bone disease (e.g., adynamic bone disease) are not detected by densitometry.7,33Bone biopsy is the diagnostic procedure of choice to evaluate for possible adynamic bone disease in patients with advanced CKD. Patients with stage 3a to 5 CKD should have serum calcium, phosphorus, 25-hydroxyvitamin D, parathyroid hormone, and alkaline phosphatase levels checked regularly; abnormal levels may indicate the presence of renal mineral and bone disorders.7,33Consultation with a nephrologist and/or endocrinologist is recommended for patients with advanced kidney disease in whom renal mineral and bone disorder is suspected. Details of these and other interventions for patients with CKD are outlined inTable 3.21"
+        },
+        {
+            "parent": 13,
+            "text": "Nephrology consultation is indicated when the estimated GFR is less than 30 mL per minute per 1.73 m2, or earlier if necessary(Table 4).7,34For patients with progressive CKD, referral to a nephrologist for renal replacement therapy is essential when the risk of renal failure within one year is 10% to 20%. Validated risk calculators for progression to end-stage renal disease are available athttp://kidneyfailurerisk.com/.27A multidisciplinary approach between primary care physicians and nephrologists for implementing early interventions, providing education, and planning for advanced renal disease is key for effective management of CKD."
+        },
+        {
+            "parent": 13,
+            "text": "This article updates previous articles on this topic byBaumgarten and Gehr,21and bySnyder and Pendergraph.35"
+        },
+        {
+            "parent": 13,
+            "text": "Data sources: We searched the websites of the National Kidney Foundation, Kidney Disease: Improving Global Outcomes, Centers for Disease Control and Prevention, American Diabetes Association, American Medical Association, United States Renal Data System, PubMed, U.S. Preventive Services Task Force, UpToDate, and the World Health Organization. The following search terms were entered: Medicare, chronic kidney disease, dialysis, proteinuria, albuminuria, diabetic kidney disease, hypertension, renal ultrasound, urinalysis, anemia, lipid, cardiovascular disease, mortality, bone densitometry, and bone and mineral disease. Search dates: October 15, 2016, through November 20, 2017."
+        },
+        {
+            "parent": 13,
+            "text": "The views expressed in this article are those of the authors and do not necessarily reflect the official policy of the Department of Defense, Department of Army, U.S. Army Medical Department, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,213 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0601/p1073.html#afp20120601p1073-f2",
+    "title": "Evaluation and Management of Galactorrhea | AAFP",
+    "author": "WENYU HUANG, MD, AND MARK E. MOLITCH, MD",
+    "doi": "Am Fam Physician.2012;85(11):1073-1080",
+    "abstract": "Galactorrhea is commonly caused by hyperprolactinemia, especially when it is associated with amenorrhea. Hyperprolactinemia is most often induced by medication or associated with pituitary adenomas or other sellar or suprasellar lesions. Less common causes of galactorrhea include hypothyroidism, renal insufficiency, pregnancy, and nipple stimulation. After pathologic nipple discharge is ruled out, patients with galactorrhea should be evaluated by measurement of their prolactin level. Those with hyperprolactinemia should have pregnancy ruled out, and thyroid and renal function assessed. Brain magnetic resonance imaging should be performed if no other cause of hyperprolactinemia is found. Patients with prolactinomas are usually treated with dopamine agonists (bromocriptine or cabergoline); surgery or radiation therapy is rarely required. Medications causing hyperprolactinemia should be discontinued or replaced with a medication from a similar class with lower potential for causing hyperprolactinemia. Normoprolactinemic patients with idiopathic, nonbothersome galactorrhea can be reassured and do not need treatment; however, those with bothersome galactorrhea usually respond to a short course of a low-dose dopamine agonist.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "PHYSIOLOGIC",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "DISORDERS INVOLVING THE HYPOTHALAMUS OR PITUITARY STALK",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PITUITARY DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "THYROID DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "RENAL INSUFFICIENCY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "MEDICATION-INDUCED",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "HYPERESTROGENEMIA",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "LESIONS INVOLVING THE CHEST WALL",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "IDIOPATHIC HYPERPROLACTINEMIA",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "LABORATORY EVALUATION AND IMAGING",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "TREATMENT OF THE CAUSES OF HYPERPROLACTINEMIA",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "TREATMENT OF HYPERPROLACTINEMIA OR ITS EFFECTS",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "TREATMENT OF GALACTORRHEA WHEN PRL LEVELS ARE NORMAL",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Galactorrhea is nonlactational milk production, which is usually defined as milk production one year after pregnancy and cessation of breastfeeding. It can also occur in nulliparous and postmenopausal women, and even in men.1The incidence is variable, but it can occur in up to 90 percent of women with hyperprolactinemia.2The marked variability is likely a result of the difference in how the milk is expressed and how galactorrhea is defined."
+        },
+        {
+            "parent": -1,
+            "text": "Before evaluation of galactorrhea, it is important to understand the mechanism underlying breast development and lactation. Breast development is affected by a number of factors, including estrogen, progesterone, and prolactin (PRL) levels. PRL is essential for morphologic breast development and lactation, which includes synthesis of milk and maintenance of milk production.3"
+        },
+        {
+            "parent": -1,
+            "text": "PRL is synthesized and secreted from the lactotrophs in the anterior pituitary gland. Hypothalamic dopamine inhibits PRL secretion.4There are several possible hypothalamic releasing factors for PRL. Vasoactive intestinal polypeptide stimulates PRL synthesis. Thyrotropin-releasing hormone can increase PRL secretion in the short term, but plays only a minor role overall4,5(Figure 1)."
+        },
+        {
+            "parent": -1,
+            "text": "The pituitary lactotroph and PRL secretion are also directly stimulated by estrogen,6which explains why pregnant women have elevated PRL levels.7Following delivery, PRL increases with each suckling episode, stimulating milk production. Over the next several weeks, as breastfeeding gradually shifts from being on demand to a schedule, the increases in PRL levels become less. By two to three months, PRL levels no longer increase with each suckling episode, but milk production continues. Following cessation of breastfeeding, milk production rapidly decreases so that it is usually gone after a month."
+        },
+        {
+            "parent": 0,
+            "text": "When galactorrhea is accompanied by amenorrhea, it is usually caused by hyperprolactinemia. However, when a patient has normal ovulatory menses and galactorrhea, PRL levels are usually normal.3Table 1lists causes of galactorrhea."
+        },
+        {
+            "parent": 1,
+            "text": "Excessive nipple manipulation, including during sex or suckling, can cause hyperprolactinemia and galactorrhea.8,9In the neonatal period, the high level of estrogen from the mother can cause transient galactorrhea in the newborn, called witch's milk.10,11During pregnancy, especially during the third trimester, women can have galactorrhea with PRL levels up to 200 mcg per L (8,695.60 pmol per L).10Other causes of transient hyperprolactinemia are vigorous exercise and physical stress.12"
+        },
+        {
+            "parent": 2,
+            "text": "Suprasellar or sellar lesions extending dorsally to involve the pituitary stalk can lead to hyperprolactinemia and galactorrhea. This is called the “stalk effect.” Such lesions cause impairment of dopamine secretion from the hypothalamus or its transport from the hypothalamus to the pituitary gland.13These lesions include large nonfunctioning pituitary adenomas, germ cell tumors, craniopharyngiomas, Rathke's cleft cysts, meningiomas, neural sarcoidosis, and Langerhans cell histiocytosis. Generally, PRL levels are rarely higher than 100 mcg per L (4,347.80 pmol per L) with these conditions.14"
+        },
+        {
+            "parent": 3,
+            "text": "Pituitary adenomas are the most common cause of hyperprolactinemia, which results from either direct production by the adenoma (prolactinoma) or the stalk effect. Prolactinomas are the most common pituitary adenomas and are classified into two types based on size: microadenomas (less than 1 cm) and macroadenomas (1 cm or greater).15,16Circulating PRL levels usually parallel tumor size, such that microadenomas rarely result in PRL levels higher than 200 mcg per L and macroadenomas usually result in PRL levels higher than 200 mcg per L. On the other hand, if a very large macroadenoma (greater than 3 cm) is found in a patient with a normal or only mildly elevated PRL level, the “hook effect” must be suspected. The hook effect is an assay artifact caused by an extremely high level of PRL, which saturates the detecting antibody used in the PRL assay, thus resulting in a falsely low reported value.17"
+        },
+        {
+            "parent": 3,
+            "text": "About 20 to 50 percent of the pituitary adenomas in patients with acromegaly also secrete PRL.18In addition, growth hormone has a lactogenic effect, which explains why some patients with acromegaly have galactorrhea without hyperprolactinemia."
+        },
+        {
+            "parent": 4,
+            "text": "Hypothyroidism has been associated with hyperprolactinemia and galactorrhea,3likely because of elevated thyrotropin-releasing hormone levels resulting from less negative feedback from the thyroid hormone. This in turn stimulates PRL secretion directly by activating thyrotropin-releasing hormone receptors in the lactotrophs4or indirectly by regulating hypothalamic dopamine release.19"
+        },
+        {
+            "parent": 5,
+            "text": "Hyperprolactinemia has also occurred in patients with renal insufficiency.20PRL levels up to 1,000 mcg per L (43,478.00 pmol per L) have been reported. The mechanism is likely a result of decreased clearance of PRL, as well as continued secretion. After renal transplantation, hyperprolactinemia and galactorrhea can usually be corrected or significantly improved, sometimes within days.21"
+        },
+        {
+            "parent": 6,
+            "text": "Hyperprolactinemia and galactorrhea are often caused by medications,22–25most commonly antipsychotics, gastrointestinal promotility agents, and verapamil(Table 2). Antipsychotics and gastrointestinal promotility agents block the dopamine receptor on the pituitary lactotrophs, decreasing the normal inhibition of PRL release and leading to hyperprolactinemia."
+        },
+        {
+            "parent": 7,
+            "text": "Estrogen stimulates lactotroph proliferation and PRL secretion directly4and indirectly by inhibiting the hypothalamic dopamine neurons.6An ovarian hyperstimulation syndrome due to a follicle-stimulating hormone–secreting tumor has been associated with hyperprolactinemia and galactorrhea, both of which resolved after tumor removal, indicating that the very high estrogen level contributes to the previously mentioned clinical features.26Clinically, the effects of estrogen are most evident during pregnancy, when the high estrogen levels cause lactotroph hyperplasia, hyperprolactinemia, and even stimulation of growth of a preexisting prolactinoma.7,27Despite the well-known stimulatory effect of estrogen on lactotrophs, the effect of oral contraceptives and hormone therapy, especially low-dose estrogen (30 mcg or less of ethinyl estradiol), on hyperprolactinemia and prolactinoma is not well established."
+        },
+        {
+            "parent": 8,
+            "text": "Various chest wall irritations have been reported to cause hyperprolactinemia and galactorrhea, such as mammoplasty, burns, herpes zoster, trauma, and spinal cord injury.12,28The signal from the chest wall is postulated to be first transmitted to the spinal cord, then further relayed to the hypothalamus to reduce the dopamine signal, thereby inducing hyperprolactinemia.28"
+        },
+        {
+            "parent": 9,
+            "text": "Occasionally, no apparent cause of hyperprolactinemia is identified; this is termed idiopathic. With long-term follow-up, some women with idiopathic hyperprolactinemia are found to have microprolactinomas that were too small to be detected originally.20In one-third of patients with idiopathic hyperprolactinemia, the elevated PRL level will resolve, and in one-half of patients, the PRL level will remain stable.29The PRL levels are usually less than 100 mcg per L.30"
+        },
+        {
+            "parent": 10,
+            "text": "Galactorrhea should be distinguished from pathologic nipple discharge, which can involve breast tumors. Galactorrhea is usually bilateral, multiductal, and milky, but can be yellow, green, or brown.8Patients with nipple discharge that comes from a single duct, is bloody or serosanguineous, or is associated with a palpable or radiologically evident breast mass will need further evaluation for breast tumors.9If the diagnosis of milk production is in doubt, a Sudan IV staining for fat droplets in the nipple discharge can confirm the diagnosis(Figure 2)."
+        },
+        {
+            "parent": 11,
+            "text": "Taking a history, especially a medication history, is important. A pregnancy history should be taken before further workup to rule out pregnancy-related galactorrhea. The patient should also be evaluated for symptoms related to hyperprolactinemia, such as amenorrhea or oligomenorrhea, low libido, erectile dysfunction, infertility, gynecomastia, or fractures, and symptoms related to mass effect of a pituitary adenoma, such as headache or vision changes."
+        },
+        {
+            "parent": 11,
+            "text": "The physical examination can confirm a diagnosis of galactorrhea. The patient should be examined sitting up and leaning forward. The areolae should be gently massaged toward the nipple in all four quadrants. The physician should keep in mind that breast and nipple manipulation can transiently increase PRL secretion, so PRL levels should not be checked shortly after a breast examination."
+        },
+        {
+            "parent": 12,
+            "text": "Vigorous exercise and nipple stimulation should be avoided for at least 30 minutes before checking PRL levels.10An elevated PRL level should be confirmed at least once. If the hook effect is suspected, such as in a patient with a very large pituitary adenoma (greater than 3 cm) and a normal or only mildly elevated PRL level, a 1:100 dilution of the original blood sample should be obtained to confirm the PRL level.17,29In addition, thyroid-stimulating hormone and creatinine levels should be obtained to rule out secondary causes of hyperprolactinemia. If hypogonadism is suspected, reproductive hormones such as estrogen or testosterone, luteinizing hormone, and follicle-stimulating hormone should also be checked."
+        },
+        {
+            "parent": 12,
+            "text": "If no cause for the hyperprolactinemia is found by history, examination, and the previously mentioned routine testing, an intracranial lesion might be the cause and brain magnetic resonance imaging (MRI) with specific pituitary cuts and intravenous contrast media should be performed.11,31,32Characteristics of the lesion and mass effects on adjacent structures, such as the optic chiasm, stalk, and hypothalamus, should be investigated at the same time. Visual field testing should also be performed in patients with vision problems or whose adenoma is found to abut the optic chiasm on MRI. Computed tomography can be performed if MRI is not available, but the resolution is inferior. In patients with macroadenomas, other pituitary hormones should also be checked to evaluate for hypopituitarism. A bone density scan should be performed in patients with hyperprolactinemia and hypogonadism who are at risk of osteoporosis or fracture. In patients with macroadenomas, other pituitary hormones should also be checked to evaluate for hypopituitarism. A bone density scan should be performed in patients with hyperprolactinemia and hypogonadism who are at risk of osteoporosis or fracture."
+        },
+        {
+            "parent": 12,
+            "text": "If the patient's PRL level is not elevated, then no further evaluation (i.e., additional hormone testing and MRI) is needed.33"
+        },
+        {
+            "parent": 13,
+            "text": "After breast pathology is excluded, treatment is usually indicated for patients with bothersome galactorrhea, hypogonadotropic hypogonadism, or a concerning causative lesion. Otherwise, it is reasonable to reassure the patient and monitor his or her condition.10,12"
+        },
+        {
+            "parent": 13,
+            "text": "Because most galactorrhea is associated with hyperprolactinemia, the treatment can be classified based on the underlying causes or effects of hyperprolactinemia.13,32"
+        },
+        {
+            "parent": 14,
+            "text": "For medication-induced hyperprolactinemia, ideally the causitive medication should be discontinued. If the underlying condition warrants continuation of such medications, switching to another medication in a similar class that has lower or no potential to cause hyperprolactinemia would be the most appropriate management option.24,34For patients with symptomatic prolactinomas, medical therapy is the treatment of choice.15,16,32,33Dopamine agonists have been shown to be effective in normalizing PRL, restoring reproductive hormones, shrinking adenomas, and increasing bone density via normalization of estrogen/testosterone levels.33Treatment is not recommended for patients with asymptomatic microprolactinoma.15,16,32,33"
+        },
+        {
+            "parent": 14,
+            "text": "Bromocriptine and cabergoline are available in the United States. Compared with bromocriptine, cabergoline is more effective and better tolerated(Table 3).33Both drugs are safe for the facilitation of ovulation and pregnancy, although the safety database for bromocriptine is about 10-fold larger.35Surgery or radiation therapy is rarely needed for prolactinomas.16Patients with hypothalamic or pituitary lesions other than prolactinomas should be referred to a neurosurgeon, especially if the lesions also present with mass effects.13"
+        },
+        {
+            "parent": 15,
+            "text": "Sometimes it is not clinically appropriate or safe to treat the cause of hyperprolactinemia (e.g., a patient with a nonresectable brain tumor). Thus, treatment should focus on correcting the hyperprolactinemia with a dopamine agonist, or the resulting hypogonadism by simply replacing estrogen or testosterone in patients who do not have macroprolactinomas. Use of dopamine agonists is sometimes indicated in patients with antipsychotic-induced hyperprolactinemia; however, it is not always successful.36In addition, such use carries a very small risk of exacerbation of the underlying psychiatric disorder because of activation of the dopamine receptors.37"
+        },
+        {
+            "parent": 15,
+            "text": "If the major concern is decreased reproductive hormones (e.g., estrogen), they can be replaced. Estrogen replacement is considered safe for the patient with a microadenoma or idiopathic hyperprolactinemia. However, its use should be individualized in patients with macroadenomas because estrogen has the potential to increase tumor growth in patients with macroadenomas, although this is generally limited to the very high levels of estrogen found in pregnancy and not with exogenous estrogen use. Because estrogen replacement does not correct the luteinizing hormone and follicle-stimulating hormone deficiencies, women should be advised that such replacement will not restore ovulation. Likewise, in men, replacement of testosterone may not help with spermatogenesis. If the patient has osteoporosis, a bisphosphonate can be added for bone protection."
+        },
+        {
+            "parent": 16,
+            "text": "If the galactorrhea is not associated with breast tenderness and swelling, and is not particularly bothersome, the patient can be reassured. He or she should also be advised to not check for persistence of the galactorrhea, because repeated milking of the breast will stimulate PRL production and delay the resolution of the galactorrhea. If the galactorrhea is bothersome, treatment with a low-dose dopamine agonist, such as 0.5 mg of cabergoline once weekly, will generally cause the galactorrhea to resolve, usually within a couple of months. The drug should then be tapered off."
+        },
+        {
+            "parent": 16,
+            "text": "Data Sources:We searched relevant biomedical sources including PubMed, Cochrane database, Essential Evidence Plus, and Guidelines.gov using the keywords galactorrhea, hyperprolactinemia, prolactinoma, prolactin, lactotroph, dopamine agonist, pituitary, estrogen, and medication-induced. Search date: December 2011."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,186 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0615/p1462.html#afp20100615p1462-f2",
+    "title": "Evaluation of Anemia in Children | AAFP",
+    "author": "JENNIFER JANUS, MD, AND SARAH K. MOERSCHEL, MD",
+    "doi": "Am Fam Physician.2010;81(12):1462-1471",
+    "abstract": "Anemia is defined as a hemoglobin level of less than the 5th percentile for age. Causes vary by age. Most children with anemia are asymptomatic, and the condition is detected on screening laboratory evaluation. Screening is recommended only for high-risk children. Anemia is classified as microcytic, normocytic, or macrocytic, based on the mean corpuscular volume. Mild microcytic anemia may be treated presumptively with oral iron therapy in children six to 36 months of age who have risk factors for iron deficiency anemia. If the anemia is severe or is unresponsive to iron therapy, the patient should be evaluated for gastrointestinal blood loss. Other tests used in the evaluation of microcytic anemia include serum iron studies, lead levels, and hemoglobin electrophoresis. Normocytic anemia may be caused by chronic disease, hemolysis, or bone marrow disorders. Workup of normocytic anemia is based on bone marrow function as determined by the reticulocyte count. If the reticulocyte count is elevated, the patient should be evaluated for blood loss or hemolysis. A low reticulocyte count suggests aplasia or a bone marrow disorder. Common tests used in the evaluation of macrocytic anemias include vitamin B12and folate levels, and thyroid function testing. A peripheral smear can provide additional information in patients with anemia of any morphology.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "CLINICAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Approach to the Child with Anemia: Illustrated Case Studies",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ANEMIA IN A NEWBORN",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "MICROCYTIC ANEMIA IN AN INFANT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "NORMOCYTIC ANEMIA IN AN OLDER CHILD",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Other Considerations",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Treatment and Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "An estimated 20 percent of American children will have anemia at some point in their childhood.1Anemia is defined as a hemoglobin (Hgb) concentration or red blood cell (RBC) mass less than the 5th percentile for age. Hgb levels vary by age, and many laboratories use adult norms as references; therefore, the patient's Hgb level must be compared with age-based norms to diagnose anemia2(Table 13)."
+        },
+        {
+            "parent": -1,
+            "text": "Anemia is usually classified based on the size of RBCs, as measured by the mean corpuscular volume (MCV). Anemia can be microcytic (MCV typically less than 80 μm3[80 fL]), normocytic (80 to 100 μm3[80 to 100 fL]), or macrocytic (greater than 100 μm3[100 fL]). The RBC distribution width is a measure of the size variance of RBCs. A low RBC distribution width suggests uniform cell size, whereas an elevated width (greater than 14 percent) indicates RBCs of multiple sizes."
+        },
+        {
+            "parent": 0,
+            "text": "Although some studies have suggested a decline in the prevalence of anemia,4,5the most recent Pediatric Nutrition Surveillance System Report showed an increase among low-income children, from 13 percent in 2002 to 15 percent in 2007.6The causes of anemia vary by age(Table 2).2,7Anemia should not be considered a diagnosis, but a finding that warrants further investigation.8In children, it is usually caused by decreased RBC production or increased RBC turnover.2"
+        },
+        {
+            "parent": 0,
+            "text": "Iron deficiency commonly causes decreased RBC production. Risk factors include prematurity, poor diet, consumption of more than 24 oz of cow's milk per day, and chronic blood loss.9Other causes of decreased RBC production include inflammation from chronic infection or other inflammatory conditions, renal failure, medication use, viral illnesses, and bone marrow disorders(Table 3).2,10"
+        },
+        {
+            "parent": 0,
+            "text": "Increased RBC turnover may be a result of blood loss, mechanical destruction of RBCs, or hemolysis. Hemolysis may result from inherited defects in RBCs; therefore, sex, ethnicity, and family history are potential risk factors. Medications may cause anemia because of immune-mediated hemolysis or oxidative stress. Mechanical destruction may occur in persons with mechanical valves or splenomegaly. RBC loss may also be a result of acute bleeding.2"
+        },
+        {
+            "parent": 2,
+            "text": "Most children with mild anemia have no signs or symptoms. Some may present with irritability or pica (in iron deficiency), jaundice (in hemolysis), shortness of breath, or palpitations. Physical examination may show jaundice, tachypnea, tachycardia, and heart failure, especially in children with severe or acute anemia."
+        },
+        {
+            "parent": 2,
+            "text": "Pallor has poor sensitivity for predicting mild anemia, but correlates well with severe anemia.11–13One study showed that physical examination findings of pallor of the conjunctivae, tongue, palm, or nail beds is 93 percent sensitive and 57 percent specific for the diagnosis of anemia in patients with an Hgb level of less than 5 g per dL (50 g per L).14The sensitivity decreases to 66 percent when the Hgb level is 5 to 8 g per dL (50 to 80 g per L).14Chronic anemia may be associated with glossitis, a flow murmur, and growth delay, although these conditions are rare in developed countries.1"
+        },
+        {
+            "parent": 3,
+            "text": "Laboratory tests used in the diagnosis of anemia include measurement of ferritin, which reflects iron stores, and transferrin or total iron-binding capacity, which indicates the body's ability to transport iron for use in RBC production."
+        },
+        {
+            "parent": 3,
+            "text": "Hgb measurement fails to detect many cases of early or mild iron deficiency because the life span of RBCs reflect bone marrow iron content from up to 120 days previously. Because reticulocytes survive in the periphery for only one or two days, reticulocyte hemoglobin content (RHC) is a more accurate “real-time” measurement of bone marrow iron status.15Alternatively, many cases of anemia in children are not caused by iron deficiency. Therefore, measurement of a single Hgb level may result in unnecessary treatment and retesting.16Measurement of RHC may help avoid this issue. In a study of infants nine to 12 months of age, an Hgb level of less than 11 g per dL (110 g per L) was only 26 percent sensitive in detecting iron deficiency (as measured by a transferrin saturation of less than 10 percent), whereas an RHC of less than 27.5 pg was 83 percent sensitive in detecting iron deficiency.17RHC is not available in all laboratories, and more studies are needed to determine whether screening with this test is clinically useful and cost-effective."
+        },
+        {
+            "parent": 5,
+            "text": "A full-term infant is delivered with the use of forceps; the pregnancy and delivery were otherwise uncomplicated. The initial examination is normal, but on the second hospital day, he is pale and fussy. The reticulocyte count and bilirubin level are normal, and the Hgb level is 9 g per dL (90 g per L). Repeat physical examination reveals an increased head circumference."
+        },
+        {
+            "parent": 5,
+            "text": "Causes of anemia in the newborn are blood loss, decreased RBC production, and increased RBC turnover. Blood loss during delivery can result from a ruptured umbilical cord, placenta previa, and abruptio placentae. Maternal-fetal transfusion occurs in 50 percent of all pregnancies, but usually does not cause significant loss of blood volume.7The patient's history eliminates most of these causes."
+        },
+        {
+            "parent": 5,
+            "text": "A normal reticulocyte count confirms that the infant's bone marrow is functional. This rules out causes of decreased RBC production, including Fanconi anemia, Diamond-Blackfan syndrome, and congenital infections."
+        },
+        {
+            "parent": 5,
+            "text": "Cranial hemorrhages are often associated with birth trauma, including vacuum and forceps delivery. In particular, subgaleal bleeds can be of sufficient volume to cause shock. Physical examination findings may include mental status changes, jaundice, tachycardia or tachypnea, and increased head circumference.7"
+        },
+        {
+            "parent": 5,
+            "text": "In this patient, a computed tomography scan confirms a subgaleal hemorrhage, and the infant is transferred to a neonatal intensive care unit for transfusion and monitoring."
+        },
+        {
+            "parent": 5,
+            "text": "In newborns, an elevated bilirubin level in association with anemia suggests hemolysis. If this infant's biliru-bin level had been elevated, further testing would have included a Coombs test to evaluate for isoimmunization (as in ABO or Rh incompatibility) and a peripheral smear to evaluate for spherocytosis or other RBC membrane defects. Testing for glucose-6-phosphate dehydrogenase (G6PD) deficiency should be considered if the patient's ethnicity or family history is a risk factor."
+        },
+        {
+            "parent": 6,
+            "text": "A 12-month-old boy of Mediterranean descent presents for a health maintenance examination. He consumes 32 oz of whole milk daily. The medical history and review of systems are normal. On physical examination, the patient is found to have an elevated weight for length. No other abnormalities are noted. Laboratory testing shows that the patient's Hgb level is 9.8 g per dL (98 g per L). The MCV is low (70 μm3[70 fL]), and the RBC distribution width is elevated (18 percent). The RBC count is 5.0×106per mm3(5.0×1012per L). The child is presumptively treated with oral iron therapy, and after one month, the Hgb level is 11.2 g per dL (112 g per L). After another month of iron therapy, the Hbg level has normalized at 13 g per dL (130 g per L)."
+        },
+        {
+            "parent": 6,
+            "text": "Neither the Centers for Disease Control and Prevention, the American Academy of Pediatrics, nor the U.S. Preventive Services Task Force recommends universal screening for anemia. Instead, children at risk should be identified and then undergo evaluation between nine and 12 months of age(Table 4).9,18,19This child's excessive milk consumption and weight are risk factors for anemia20–22; therefore, evaluation is justified."
+        },
+        {
+            "parent": 6,
+            "text": "Iron deficiency is characterized by microcytosis with an elevated RBC distribution width. Because the anemia is mild and the history and laboratory values are consistent with iron deficiency, it is appropriate to treat presumptively with oral iron therapy and repeat testing in one month23(Figure 1). Treatment for mild anemia is 3 to 6 mg of elemental iron per kg per day.24Once-daily dosing results in similar improvement as two- or three-times-daily dosing and does not significantly increase adverse effects.25"
+        },
+        {
+            "parent": 6,
+            "text": "An Hgb increase of more than 1 g per dL (10 g per L) after iron therapy has been started confirms the diagnosis of iron deficiency. If the Hgb level does not increase or if the initial anemia is severe, further evaluation should include a complete blood count (CBC), peripheral blood smear, iron studies, and fecal occult blood testing. Lead testing should also be considered."
+        },
+        {
+            "parent": 6,
+            "text": "Patients with thalassemia typically have a Mentzer index of less than 13(Table 5)26,27and may be of African, Asian, or Mediterranean descent. In patients with thalassemia, Hgb electrophoresis may show an increase in levels of Hgb A or F."
+        },
+        {
+            "parent": 6,
+            "text": "Sideroblastic anemia, which is rare, results in a high RBC distribution width with normal or elevated iron levels; diagnosis requires bone marrow aspiration. Iron is utilized by tissues other than bone marrow, including the brain. Studies show an association between iron deficiency and impaired neurocognitive performance.28–33The association is not definitively causal, and studies do not show an immediate improvement in psychomotor development or cognitive performance after treatment has commenced. However, long-term studies are few and conflicting.34Until further studies provide clarity, iron deficiency should be treated until one month after normalization of Hgb levels. The total treatment course is typically three months. If a longer course is needed, further investigation should include a CBC, peripheral blood smear, iron studies, and fecal occult blood testing.23"
+        },
+        {
+            "parent": 7,
+            "text": "A previously healthy eight-year-old boy of Filipino descent presents with increasing fatigue for the past five days. He has low-grade fever and nonspecific musculoskeletal pain. He has had no symptoms of upper respiratory infection. Physical examination shows pallor, pale conjunctivae, scattered facial petechiae, tachycardia, and a flow murmur. There is no scleral icterus. A CBC shows an Hgb level of 7.8 g per dL (78 g per L) and an MCV of 90 μm3(90 fL). The white blood cell count is 14,000 per mm3(14.00×109per L), and the platelet count is 368×103per mm3(368×109per L). The reticulocyte count is 0.21 percent (normal range in an eight-year-old is 0.5 to 1.0 percent). The peripheral smear shows 21 percent lymphoblasts."
+        },
+        {
+            "parent": 7,
+            "text": "This is normocytic anemia in a previously healthy child. Although normocytic anemia commonly results from early iron deficiency or chronic disease, this patient has findings suggesting an acute process (pallor, tachycardia, and flow murmur). Hemoglobinopathies, enzyme defects, RBC membrane defects, and other hemolytic anemias result in normocytic anemia. Given his sex and ethnicity, G6PD deficiency is in the differential diagnosis. However, he has no history and is not jaundiced, which makes hemolysis unlikely."
+        },
+        {
+            "parent": 7,
+            "text": "In a child who otherwise appears well and has had a recent viral infection, transient erythroblastopenia of childhood (TEC) should be considered. This condition usually occurs in children six months to three years of age after a viral infection or exposure to toxic agents. It is the result of an immune reaction against erythroid progenitor cells. In patients with TEC, the initial reticulocyte count is zero, but slowly increases as the patient recovers, which typically occurs within two months of onset.35This child's age, ill appearance, and lack of viral symptoms make TEC less likely."
+        },
+        {
+            "parent": 7,
+            "text": "The first step in evaluation of normocytic anemia is determination of the reticulocyte count(Figure 2)to distinguish cases of increased RBC turnover, such as hemolysis, from bone marrow disorders. The low reticulocyte count suggests bone marrow hypofunction. Leukemia and aplastic anemia reduce RBC production. Because leukemia is a consideration in the differential diagnosis for this patient, a peripheral smear is ordered, which confirms the diagnosis of leukemia."
+        },
+        {
+            "parent": 7,
+            "text": "If the diagnosis had been less clear, further evaluation would have included a careful history and testing of iron levels and liver, kidney, and thyroid function to assess for chronic disease. Low iron saturation suggests early iron deficiency. Normal or elevated iron saturation in the presence of low serum iron levels suggests infection or chronic disease."
+        },
+        {
+            "parent": 8,
+            "text": "Macrocytic anemia is rare in children. The initial workup is a peripheral smear(Figure 3).36The presence of hyper-segmented neutrophils signals a megaloblastic anemia, which is caused by folate or vitamin B12deficiency or other disorders of DNA synthesis. Nonmegaloblastic causes of macrocytosis include alcoholism, hemolysis, hemorrhage, hepatic disease, bone marrow disorders (e.g., aplastic anemia, myelodysplasia, sideroblastic anemia), and hypothyroidism. Subsequent testing is based on peripheral smear findings.36"
+        },
+        {
+            "parent": 8,
+            "text": "Older children and adolescents are also at risk of anemia. The combination of a growth spurt and the onset of menstruation leaves adolescent girls at particularly high risk of iron deficiency anemia."
+        },
+        {
+            "parent": 9,
+            "text": "Iron deficiency is treated orally; otherwise, treatment is geared toward the underlying cause of anemia. Symptomatic patients and those with severe anemia should receive a blood transfusion while evaluation for the underlying cause is undertaken. Transfusion is typically given at a volume of 10 mL per kg, infused at a rate of no more than 5 mL per kg per hour. The patient should be monitored for signs of heart failure during transfusion."
+        },
+        {
+            "parent": 9,
+            "text": "The U.S. Food and Drug Administration recommends adequate iron intake to prevent iron deficiency anemia(Table 69). One half of American toddlers do not receive the recommended daily intake of iron.37However, it is not clear whether iron supplementation reduces the incidence of anemia. Studies in countries outside the United States have had promising results. However, a randomized study in the United States demonstrated that high-risk, six-month-old infants who received 10 mg of supplemental iron per day did not have a reduced incidence of anemia or abnormal indices indicative of iron deficiency.38"
+        },
+        {
+            "parent": 9,
+            "text": "In the first four to six months of life, full-term infants use hepatic stores of iron in addition to dietary iron in formula or breast milk; iron supplementation is not required in these children. Preterm infants do not have adequate hepatic iron stores and require larger amounts of iron for catch-up growth. These infants should receive supplemental iron. Starting at four to six months of age, infants require an additional source of iron.39One half cup of iron-fortified cereal contains 90 percent of the recommended daily intake of iron for a six-to 12-month-old infant. Lean meats, beans, iron-fortified whole grains, tofu, and spinach are other iron-rich options for infants who consume solid foods."
+        }
+    ],
+    "locked": false
+}

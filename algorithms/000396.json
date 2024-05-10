@@ -1,0 +1,193 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/1115/p913.html#afp20121115p913-f2",
+    "title": "Diagnosis of Deep Venous Thrombosis and Pulmonary Embolism | AAFP",
+    "author": "JASON WILBUR, MD, AND BRIAN SHIAN, MD",
+    "doi": "Am Fam Physician.2012;86(10):913-919",
+    "abstract": "Venous thromboembolism manifests as deep venous thrombosis (DVT) or pulmonary embolism, and has a mortality rate of 6 to 12 percent. Well-validated clinical prediction rules are available to determine the pretest probability of DVT and pulmonary embolism. When the likelihood of DVT is low, a negative d-dimer assay result excludes DVT. Likewise, a low pretest probability with a negative d-dimer assay result excludes the diagnosis of pulmonary embolism. If the likelihood of DVT is intermediate to high, compression ultrasonography should be performed. Impedance plethysmography, contrast venography, and magnetic resonance venography are available to assess for DVT, but are not widely used. Pulmonary embolism is usually a consequence of DVT and is associated with greater mortality. Multidetector computed tomography angiography is the diagnostic test of choice when the technology is available and appropriate for the patient. It is warranted in patients who may have a pulmonary embolism and a positive d-dimer assay result, or in patients who have a high pre-test probability of pulmonary embolism, regardless of d-dimer assay result. Ventilation-perfusion scanning is an acceptable alternative to computed tomography angiography in select settings. Pulmonary angiography is needed only when the clinical suspicion for pulmonary embolism remains high, even when less invasive study results are negative. In unstable emergent cases highly suspicious for pulmonary embolism, echocardiography may be used to evaluate for right ventricular dysfunction, which is indicative of but not diagnostic for pulmonary embolism.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "d-dimer",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Clinical Prediction Rules and Algorithms",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Imaging Modalities",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "IMPEDANCE PLETHYSMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CONTRAST VENOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "OTHER IMAGING STUDIES FOR DVT",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "COMPUTED TOMOGRAPHY ANGIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "VENTILATION-PERFUSION SCANNING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "PULMONARY ANGIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "OTHER IMAGING STUDIES FOR PULMONARY EMBOLISM",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Venous thromboembolism (VTE) is a blood clotting condition that has two major manifestations: deep venous thrombosis (DVT) and pulmonary embolism. In the general U.S. population, the incidence of first-time VTE is about 100 per 100,000 person-years and increases with advancing age. About one-third of patients who have symptomatic VTE present with pulmonary embolism, and two-thirds present with DVT.1Within one month of diagnosis, the mortality rate is approximately 6 percent in patients with DVT and 12 percent in patients with pulmonary embolism.1"
+        },
+        {
+            "parent": -1,
+            "text": "Compared with DVT, pulmonary embolism is more often fatal, has a higher recurrence rate, and presents with less specific symptoms. Pulmonary embolism is usually a consequence of DVT. About 40 percent of patients with proximal DVT are found to have an associated pulmonary embolism by lung scan; about 70 percent of patients presenting with pulmonary embolism are found to have DVT in the legs.2,3"
+        },
+        {
+            "parent": -1,
+            "text": "To provide prompt and accurate diagnosis, clinical prediction rules and diagnostic algorithms have been developed for VTE. The American Academy of Family Physicians and the American College of Physicians developed a joint guideline on the diagnosis and management of VTE,4and the European Society of Cardiology has developed diagnosis and management guidelines for acute pulmonary embolism.5A common approach is to use a validated prediction rule for risk stratification, screen with d-dimer assay as appropriate, and if necessary, perform the appropriate imaging studies to confirm or exclude VTE. This article reviews the diagnosis of pulmonary embolism and DVT."
+        },
+        {
+            "parent": 0,
+            "text": "The pathogenesis of VTE is often described by Virchow's triad, which proposes that venous thrombosis is the result of at least one of three etiologic factors: hypercoagulability, alterations in blood flow, and endothelial injury or dysfunction.6Risk factors for VTE reflect these underlying pathophysiologic mechanisms, and between 75 and 96 percent of patients with VTE have at least one risk factor.6If VTE is suspected, risk factors should be assessed to determine the pretest probability. Some factors suggest greater risk of VTE than others(Table 1).6"
+        },
+        {
+            "parent": 1,
+            "text": "d-dimer is a fibrin degradation product, a small protein fragment detectable in the blood after a blood clot is degraded by fibrinolysis. d-dimer assays are fast, accurate, and readily available. However, d-dimer assays vary in their sensitivity and specificity. Enzyme-linked immunosorbent assay (ELISA), quantitative rapid ELISA, and advanced turbidimetric d-dimer determinations are more than 95 percent sensitive for VTE.7"
+        },
+        {
+            "parent": 1,
+            "text": "The negative predictive value of the high-sensitivity d-dimer assay is about 94 percent.7,8However, the d-dimer assay is useful only for ruling out VTE if results are negative; positive results are not diagnostic because many conditions, such as impaired renal function, ongoing blood loss, pregnancy, and atrial fibrillation, can cause d-dimer levels to rise. A negative d-dimer assay result combined with a low pretest probability determined by a well-validated clinical prediction rule suffices to rule out VTE; no further workup is necessary in such cases, even in patients who have had a prior VTE.4,9–11In patients with intermediate to high pretest probability of VTE, a d-dimer assay should not be performed initially because a negative result cannot safely exclude the diagnosis of VTE."
+        },
+        {
+            "parent": 2,
+            "text": "The classic clinical presentation of DVT includes swelling, pain, warmth, and redness in the involved extremity. Alternatively, DVT can occur asymptomatically. Individual symptoms are neither sensitive nor specific for DVT. Trauma, infection, peripheral artery disease, and other venous diseases can present with clinical features similar to DVT. Furthermore, DVT can coexist with any of these processes."
+        },
+        {
+            "parent": 2,
+            "text": "The most common symptoms and signs of pulmonary embolism include dyspnea, chest pain, tachypnea, syncope, and cough. Less common symptoms and signs include fever, hemoptysis, cyanosis, hypotension, and shock. In addition, many patients have concomitant symptoms and signs of DVT. In patients with preexisting dyspnea (caused by heart failure, chronic obstructive pulmonary disease, or another process), worsening of dyspnea may be the only symptom indicative of pulmonary embolism."
+        },
+        {
+            "parent": 2,
+            "text": "Because of right heart strain, certain changes on electrocardiography may occur in patients with pulmonary embolism, including T-wave inversion on precordial leads, right bundle branch block, and the well-known but uncommon S1Q3T3pattern.12Such changes are neither sensitive nor specific for pulmonary embolism. The most common chest radiography findings associated with pulmonary embolism, such as platelike atelectasis, pleural effusion, and elevation of a hemidiaphragm, are likewise nonspecific. Hypoxemia is common, but up to 20 percent of patients with pulmonary embolism have normal oxygenation.13"
+        },
+        {
+            "parent": 2,
+            "text": "The initial evaluation of patients with suspected pulmonary embolism includes chest radiography, electrocardiography, pulse oximetry, and blood gases. None of these tests, alone or in combination, are sensitive or specific enough to exclude or diagnose pulmonary embolism. However, they are necessary to evaluate for other causes of the presenting symptoms, and may assist in raising or lowering the pretest probability of pulmonary embolism."
+        },
+        {
+            "parent": 3,
+            "text": "Several pretest probability scoring systems, such as the Hamilton score, the AMUSE (Amsterdam Maastricht Utrecht Study on thromboEmbolism) score, and the Wells clinical prediction rule, are available for DVT assessment. Among them, the Wells rule is perhaps the best known. It divides patients into low-, intermediate-, and high-risk categories14–16(Table 216). The prevalence of DVT is 5, 17, and 53 percent for these groups, respectively.17"
+        },
+        {
+            "parent": 3,
+            "text": "Similarly, in cases of suspected pulmonary embolism, a pretest probability should be assigned. Implicit clinical judgment, essentially the physician's estimation of the probability of pulmonary embolism in a given patient, has been evaluated and found to be fairly accurate for classifying patients into three categories of clinical likelihood of pulmonary embolism: low, intermediate, and high.5Because this approach lacks standardization and is difficult to teach, implicit judgment can be replaced with explicit clinical prediction rules."
+        },
+        {
+            "parent": 3,
+            "text": "Several clinical prediction rules have been reported in the literature, including the Geneva rule, the PERC (pulmonary embolism rule-out criteria) rule, the PISA-PED (Prospective Investigative Study of Acute Pulmonary Embolism Diagnosis) rule, and the Wells rule.18–20No single rule has been proven to be superior. However, as with DVT, the Wells rule has been widely validated and commonly used for assigning a pretest probability of pulmonary embolism(Table 3).20"
+        },
+        {
+            "parent": 3,
+            "text": "In conjunction with these clinical prediction rules, algorithms for VTE diagnosis have been published and modified as new evidence has emerged for various diagnostic strategies and tests. The Institute for Clinical Systems Improvement maintains an evidence-based algorithm for the diagnosis of DVT that incorporates the Wells rule, d-dimer assay, and compression ultrasonography(Figure 1).21Several diagnostic algorithms for pulmonary embolism have been published as well. Among the algorithms available, none has been shown to be superior. A published algorithm that takes into account the stability of the patient is presented inFigure 2.22"
+        },
+        {
+            "parent": 5,
+            "text": "According toFigure 1,21compression ultrasonography should be the initial test when the pretest probability of DVT is intermediate to high. Ultrasonography achieves its best sensitivity (89 to 96 percent) and specificity (94 to 99 percent) in symptomatic patients with proximal thrombosis of the lower extremities.23Sensitivity decreases to as low as 47 percent for asymptomatic patients with proximal thrombosis, but the specificity is maintained.24,25In patients with intermediate to high pretest probability of DVT, a negative ultrasonography result alone is insufficient to exclude the diagnosis of DVT. Further assessment is recommended, including checking d-dimer level and repeating ultrasonography in one week if d-dimer level is elevated.26"
+        },
+        {
+            "parent": 5,
+            "text": "There are other limitations to ultrasonography. Compression ultrasonography has lower sensitivity and specificity for venous thrombosis of the calf or upper extremity; it does not reliably distinguish between old and new clots; it does not detect isolated pelvic vein thrombosis; and tumor or abscess in the pelvis may result in false-positive results."
+        },
+        {
+            "parent": 6,
+            "text": "Impedance plethysmography measures the change in blood volume in the calf while a thigh cuff is inflated. With this technique, sensitivity and specificity for DVT are 91 and 96 percent, respectively.27However, it is not readily available in most U.S. facilities. Plethysmography may give false-positive results in patients with preexisting venous disease, heart failure, or peripheral artery disease."
+        },
+        {
+            "parent": 7,
+            "text": "Contrast venography has long been considered the standard criterion test for diagnosing DVT. However, it is not recommended in the initial evaluation because of the invasiveness, technical difficulties, and risks (e.g., hematoma, pain, vessel damage, allergic reaction to contrast media). Venography is reserved for certain scenarios, such as when clinical suspicion is high and noninvasive tests are discordant or equivocal, or when noninvasive tests cannot be performed.24"
+        },
+        {
+            "parent": 8,
+            "text": "The PIOPED II (Prospective Investigation of Pulmonary Embolism Diagnosis II) study compared multidetector computed tomography (CT) angiography alone versus CT angiography plus CT venography for evaluating acute pulmonary embolus. Data showed CT venography and compression ultrasonography to be diagnostically equivalent for diagnosing DVT.28Considering the radiation and contrast exposure of CT venography compared with a lower risk but equally accurate ultrasonography, routine use of CT venography after CT angiography to improve pulmonary embolism diagnosis is controversial."
+        },
+        {
+            "parent": 8,
+            "text": "Magnetic resonance venography has been studied for DVT diagnosis and appears to have sensitivity and specificity equivalent to that of ultrasonography.29Compared with ultrasonography, magnetic resonance venography is more expensive and has not been studied as extensively."
+        },
+        {
+            "parent": 9,
+            "text": "Multidetector CT angiography has become the most commonly employed imaging modality for diagnosing pulmonary embolism in the United States. It is the diagnostic test of choice when the technology is available and appropriate. It may be used in patients who may have a pulmonary embolism and a positive d-dimer assay result, or in those who have a high pretest probability of pulmonary embolism, regardless of d-dimer result. Its clinical validity for diagnosing pulmonary embolism is similar to that reported for conventional pulmonary angiography and ventilation-perfusion (V/Q) scanning.30,31"
+        },
+        {
+            "parent": 9,
+            "text": "In patients at intermediate to high risk of pulmonary embolism, the positive predictive value of CT angiography is 92 to 96 percent.32However, it cannot reliably exclude pulmonary embolism when the clinical probability is high. In patients with a high clinical probability of pulmonary embolism, the negative predictive value is only 60 percent.32When results are discordant with the clinical suspicion, further evaluation is needed, including compression ultrasonography."
+        },
+        {
+            "parent": 9,
+            "text": "One often cited advantage of CT angiography is its ability to detect alternative diagnoses. However, this argument has a negative implication. CT angiography can detect otherwise incidental findings that require further evaluation with the potential for unnecessary risk. Another disadvantage is the potential to cause contrast-induced nephropathy. Patients with preexisting kidney disease (defined as a creatinine level of 1.5 mg per dL [132.6 μmol per L] or greater, or a glomerular filtration rate less than 60 mL per minute per 1.73 m2) or other risk factors, such as diabetes mellitus, are at increased risk of contrast-induced nephropathy.33"
+        },
+        {
+            "parent": 10,
+            "text": "Although widely employed for decades to assess for pulmonary embolism, the use of V/Q scanning has been in decline. Whereas CT angiography yields a dichotomous result, V/Q scan results are reported as a probability along a spectrum (i.e., normal; or low, intermediate, or high probability of pulmonary embolism).34A normal V/Q scan result excludes pulmonary embolism, and a high-probability scan establishes the diagnosis. However, most V/Q scan results are nondiagnostic (low or intermediate probability). As with CT, a V/Q scan result that is discordant with the preassigned clinical probability requires further evaluation. For patients with contraindications to CT, including contrast allergy, renal disease, and pregnancy, V/Q scanning may be the preferred imaging modality for evaluation of possible pulmonary embolism.35"
+        },
+        {
+            "parent": 11,
+            "text": "Pulmonary angiography has long been considered the standard criterion for diagnosing pulmonary embolism. Compared with CT angiography, traditional pulmonary angiography requires greater amounts of contrast and radiation, and is contraindicated in patients with severe pulmonary hypertension and heart failure. It is indicated only when the clinical suspicion for pulmonary embolism remains high, even when less invasive study results are negative. When pulmonary angiography is used, direct hemodynamic measurements should be performed."
+        },
+        {
+            "parent": 12,
+            "text": "Lower extremity ultrasonography may be employed in certain populations, such as in pregnant patients, when pulmonary embolism is suspected and other modalities are contraindicated. A positive result is sufficient to initiate therapy for VTE. As previously mentioned, CT venography is sometimes performed following CT angiography to improve the diagnosis of pulmonary embolism."
+        },
+        {
+            "parent": 12,
+            "text": "Echocardiography may identify right ventricular dysfunction in patients with large pulmonary emboli. However, echocardiography is not as specific as other imaging modalities, and is only used in hemodynamically unstable patients or when other modalities are not available.22"
+        },
+        {
+            "parent": 12,
+            "text": "There are limited data regarding diagnosis of pulmonary embolism using thoracic ultrasonography, magnetic resonance imaging, and single-photon emission CT. These modalities are not recommended for routine use."
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:We searched PubMed, Cochrane database, and Guidelines.gov using the following terms in various combinations: diagnosis, venous thromboembolism, deep venous thrombosis, pulmonary embolus, d-dimer, ultrasound, plethysmography, computed tomography, magnetic resonance, ventilation-perfusion, and pulmonary angiography. Search dates: multiple occasions from November 2010 through February 2012."
+        }
+    ],
+    "locked": false
+}

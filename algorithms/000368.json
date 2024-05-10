@@ -1,0 +1,144 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0815/p249.html#afp20130815p249-f3",
+    "title": "Parathyroid Disorders | AAFP",
+    "author": "THOMAS C. MICHELS, MD, MPH, AND KEVIN M. KELLY, MD, MBA",
+    "doi": "Am Fam Physician.2013;88(4):249-257",
+    "abstract": "Disorders of the parathyroid glands most commonly present with abnormalities of serum calcium. Patients with primary hyperparathyroidism, the most common cause of hypercalcemia in outpatients, are often asymptomatic or may have bone disease, nephrolithiasis, or neuromuscular symptoms. Patients with chronic kidney disease may develop secondary hyperparathyroidism with resultant chronic kidney disease-mineral and bone disorder. Hypoparathyroidism most often occurs after neck surgery; it can also be caused by autoimmune destruction of the glands and other less common problems. Evaluation of patients with abnormal serum calcium levels includes a history and physical examination; repeat measurement of serum calcium level; and measurement of creatinine, magnesium, vitamin D, and parathyroid hormone levels. The treatment for symptomatic primary hyperparathyroidism is parathyroidectomy. Management of asymptomatic primary hyperparathyroidism includes monitoring symptoms; serum calcium and creatinine levels; and bone mineral density. Patients with hypoparathyroidism require close monitoring and vitamin D (e.g., calcitriol) replacement.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Hyperparathyroidism",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "PRIMARY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "SECONDARY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "INDICATIONS FOR SURGERY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Hypoparathyroidism",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Other Parathyroid Disorders",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The four parathyroid glands, located posterior to the thyroid gland, regulate calcium homeostasis through release of parathyroid hormone (PTH). Because most parathyroid disorders present with abnormalities of serum calcium, they commonly appear in differential diagnoses. Therefore, understanding the presentation and principles of evaluation of parathyroid disorders is important in primary care."
+        },
+        {
+            "parent": 0,
+            "text": "The parathyroid glands respond to low serum calcium levels by releasing PTH, which is an 84-amino acid peptide. PTH increases serum calcium levels through direct action on bone and the kidneys. It stimulates osteoclasts to resorb bone and mobilize calcium into the blood. In the kidneys, PTH acts to reduce calcium clearance and stimulates synthesis of 1,25-dihydroxyvitamin D, which stimulates calcium absorption in the gastrointestinal tract(Figure 1).1,2In their normal state, the glands function to keep serum calcium levels within a consistent and tightly controlled range. The glands synthesize and store the PTH, allowing it to respond within minutes of hypocalcemia. Sustained hypocalcemia leads to cellular replication and increased mass of the glands. Calcium and 1,25-dihydroxyvitamin D provide negative feedback at the parathyroid glands to inhibit PTH release. One normal gland is sufficient for adequate secretion of PTH to maintain normal calcium levels.1,3,4"
+        },
+        {
+            "parent": 0,
+            "text": "Parathyroid disorders most commonly present with serum calcium abnormalities. Rarely, patients can present with a neck mass or for evaluation of a family history of parathyroid or related disorders. The estimated incidence of primary hyperparathyroidism is approximately 25 cases per 100,000 persons per year in outpatients of Western countries,5–7with a prevalence of one to four per 1,000 persons.8Hypoparathyroidism most commonly occurs after inadvertent damage or removal of parathyroid glands during neck surgery; estimates for the occurrence of this surgical complication range from 0.5% to 6.6%, with higher rates after repeat neck surgery.1,9Multiple endocrine neoplasia type 1 (MEN-1) and type 2 (MEN-2), which often include parathyroid neoplasia, each occur in about two per 100,000 persons per year.10Parathyroid cancer is rare, with an incidence of approximately four per 10 million persons per year.11"
+        },
+        {
+            "parent": 2,
+            "text": "Primary hyperparathyroidism, the most common cause of hypercalcemia in outpatients, is often discovered incidentally during evaluation of serum electrolyte levels. Before the easily available measurement of serum calcium levels, patients presented with a spectrum of symptoms(Table 1).4,12,13Most patients today are asymptomatic, with nephrolithiasis occurring in up to 15% of patients, bone disease (formerly osteitis fibrosa cystica) occurring in 2% of patients, and neuromuscular symptoms occurring rarely.3,14,15Although marked symptoms are uncommon in Western countries, it is important to be aware that subtle and nonspecific symptoms may be present.14–16Other causes of hypercalcemia are listed inTable 2.3,5,8,17,18"
+        },
+        {
+            "parent": 2,
+            "text": "Overall, 85% of patients with primary hyperparathyroidism have a single adenoma. Risk factors for primary hyperparathyroidism include a history of neck radiation, age older than 50 years, and female sex; women are twice as likely as men to develop primary hyperparathyroidism. Multiglandular hyperplasia accounts for 10% to 15% of patients with primary hyperparathyroidism, and carcinoma accounts for 1% or less. There are also uncommon familial causes, such as MEN-1 and MEN-2A; persons with these conditions may have parathyroid adenomas or asymmetric hyperplasia.8,19"
+        },
+        {
+            "parent": 3,
+            "text": "Secondary hyperparathyroidism most commonly occurs because of decreased levels of 1,25-dihydroxyvitamin D, hyperphosphatemia, and hypocalcemia in the setting of chronic kidney disease. Other causes include vitamin D deficiency secondary to low dietary intake, lack of sun exposure, malabsorption, liver disease, and other chronic illness.20"
+        },
+        {
+            "parent": 3,
+            "text": "In some patients with advanced renal failure, hypercalcemia is due to progression from appropriate parathyroid hyperplasia to autonomous overproduction of PTH, a disorder termed tertiary hyperparathyroidism.12,20"
+        },
+        {
+            "parent": 3,
+            "text": "Patients with normocalcemic hyperparathyroidism may present with low bone density, osteoporosis, or a fragility fracture. Many of these patients will probably evolve into having hyperparathyroidism, although the exact natural history is not known. It is important to exclude vitamin D deficiency and chronic kidney disease before making this diagnosis.8,15"
+        },
+        {
+            "parent": 4,
+            "text": "Primary hyperparathyroidism is diagnosed when the serum calcium level is elevated, with an increased or inappropriately normal serum PTH level. An algorithm for the evaluation of patients with suggestive symptoms or asymptomatic hypercalcemia is shown inFigure 2.2,4,8,10,21–23Hypercalcemia should be verified, and vitamin D levels should be measured and determined to be adequate before parathyroid disorder is considered.18In patients with hypercalcemia, the PTH level distinguishes PTH-mediated from non–PTH-mediated hypercalcemia. A physical examination is important to identify subtle features consistent with hyperparathyroidism and to assist in the differential diagnosis(Table 3).1,4,8,24"
+        },
+        {
+            "parent": 4,
+            "text": "Other tests listed inFigure 2should identify patients with primary hyperparathyroidism.2,4,8,10,21–23Familial hypocalciuric hypercalcemia results from an inactivating mutation of the calcium-sensing receptor gene, and patients with this disorder require a higher level of calcium to suppress PTH secretion; they may present with high calcium levels, normal or elevated PTH levels, and low urinary calcium secretion.8Referral to an endocrinologist (or other specialist if an etiology for hypercalcemia other than primary hyperparathyroidism is found) is often indicated after this stepwise evaluation."
+        },
+        {
+            "parent": 5,
+            "text": "Patients with primary hyperparathyroidism and symptoms or signs should undergo surgical removal of their parathyroid gland(s).25,26In some patients, medical comorbidities may preclude surgery, and controlling hypercalcemia alone may be the goal. In this situation, the calcimimetic cinacalcet (Sensipar) effectively lowers serum calcium levels, but does not affect bone density.27,28Age alone should not preclude parathyroidectomy.29"
+        },
+        {
+            "parent": 5,
+            "text": "The role of surgery in patients with asymptomatic primary hyperparathyroidism is not as clear. Younger patients and patients at risk of progression to symptomatic disease are the best candidates for parathyroidectomy. Recommendations from the Third International Workshop on the Management of Asymptomatic Primary Hyperparathyroidism include performing parathyroidectomy in asymptomatic persons with primary hyperparathyroidism and any one of the following26:"
+        },
+        {
+            "parent": 5,
+            "text": "Serum calcium level greater than 1.0 mg per dL (0.25 mmol per L) above the upper limit of normalCreatinine clearance less than 60 mL per minute per 1.73 m2(1 mL per second per m2)Bone mineral density T-score of less than −2.5 at any one of three sites (i.e., hip, spine, or wrist) and/or any previous fragility fracture (z scores should be used in premenopausal women and in men younger than 50 years)Age younger than 50 years"
+        },
+        {
+            "parent": 5,
+            "text": "In one study, 15% of asymptomatic patients developed an indication for surgery over an average of 4.7 years.6"
+        },
+        {
+            "parent": 5,
+            "text": "Asymptomatic persons with primary hyperparathyroidism and osteoporosis or osteopenia are candidates for parathyroidectomy because bone density and fracture risk improve after surgery. Bone density, but not fracture risk, has also been shown to improve after bisphosphonate therapy and hormone therapy in these patients.27The relationship between neurocognitive function and primary hyperparathyroidism is somewhat controversial, but some studies show improvement in neurocognitive function after parathyroidectomy.16,27,30,31Other reviews conclude that surgery and medical management improve bone density; however, there were no differences in quality of life.32,33"
+        },
+        {
+            "parent": 5,
+            "text": "If patients with primary hyperparathyroidism do not undergo parathyroidectomy, they should be closely monitored for the development of symptoms or other indications for surgery. These patients should have serum calcium and creatinine levels measured annually, and three-site (i.e., hip, spine, and forearm) bone density measurement every one to two years (PTH has a catabolic effect on cortical bone, and this change may only be evident in the distal forearm).15,26"
+        },
+        {
+            "parent": 5,
+            "text": "The management of secondary hyperparathyroidism in chronic kidney disease usually involves consultation with a nephrologist. Protein restriction and calcium supplementation have been shown to decrease the development of this complication, with a reduction in death from renal causes. Vitamin D supplements and calcimimetics, which inhibit PTH secretion, have been shown to improve biochemical markers (without patient-oriented outcomes). There are several evidence-based reviews for managing chronic kidney disease-mineral and bone disorder; full discussion of these guidelines is beyond the scope of this article and is available from this referenced source.34"
+        },
+        {
+            "parent": 6,
+            "text": "Hypoparathyroidism most commonly occurs after inadvertent damage or removal of parathyroid glands during neck surgery. It can occur years after neck surgery.1Most head and neck surgeons carefully track this complication with intra- and postoperative monitoring of calcium and PTH levels.31Autoimmune parathyroid destruction, either isolated or as part of a multiple endocrine deficiency syndrome, is another important cause of hypoparathyroidism. Rarely, there is tissue resistance to the actions of PTH, which results in a picture of hypoparathyroidism but with elevated PTH levels. This is termed pseudohypoparathyroidism, and it is a genetically heterogeneous condition.1,24These and other causes of hypoparathyroidism are listed inTable 4.1,3,24"
+        },
+        {
+            "parent": 6,
+            "text": "Most patients with hypoparathyroidism present with hypocalcemia.Figure 3is an algorithm for evaluating patients with symptomatic or incidentally discovered hypocalcemia.1–4,24In some patients, such as those with acute pancreatitis, sepsis, or other critical illness, the cause of hypocalcemia is apparent, and treatment without full evaluation is warranted.Table 5lists causes of hypocalcemia based on clinical clues.1,24Symptoms associated with hypocalcemia depend on the severity, duration, and rate of development; common symptoms are listed inTable 6.1,3,24Physical findings are listed inTable 3.1,4,8,24It is important to ensure repletion to normal levels of vitamin D and magnesium in these patients. Serum levels of PTH, phosphorus, 25-hydroxyvitamin D, and 1,25-dihydroxyvitamin D can help differentiate between disorders causing hypocalcemia(Table 7).22"
+        },
+        {
+            "parent": 6,
+            "text": "Figure 3provides brief recommendations for the immediate treatment of severe hypocalcemia1–4,24; a detailed discussion is beyond the scope of this article. Long-term management of hypoparathyroidism should include at least initial involvement of an endocrinologist. Vitamin D analogues are essential (e.g., calcitriol [Rocaltrol]), and thiazide diuretics and dietary modification are typically used as well. PTH therapy has been studied, but data are limited and PTH preparations are not approved by the U.S. Food and Drug Administration for this purpose.1,35"
+        },
+        {
+            "parent": 7,
+            "text": "Some patients present to their physician after a family member has been diagnosed with MEN. MEN-1 includes neoplasias of the parathyroid, pancreas, pituitary, and adrenal glands. MEN-2 includes neoplasias of the thyroid, adrenal, and parathyroid glands. MEN-2A involves medullary thyroid carcinoma, pheochromocytoma, and parathyroid tumors. The issue of screening family members for MEN-1 is controversial because presymptomatic detection has not been shown to reduce morbidity or mortality. Because hyperparathyroidism is common in persons with MEN-1 (80% to 100%), it is reasonable to screen with measurement of serum calcium levels alone. Others advocate screening with measurement of calcium and PTH levels annually, starting at eight years of age.19A discussion with the affected patient and family about screening is warranted. In a family with a history of MEN-2, a sample from one patient already affected should be tested to determine the specific genetic mutation for that family. When a mutation is found, all persons of unknown status in that family should then be definitively genotyped.10,21"
+        },
+        {
+            "parent": 7,
+            "text": "Rarely, patients with parathyroid disorders may present with a neck mass, either self-reported or as an incidental finding on examination. Parathyroid cancer, hyperplasia, adenomas, and cysts could all present in this way. Other neck tumors, including primary or metastatic cancers, are more common than parathyroid causes. Ultrasonography, computed tomography, and biopsy are typically required to determine the diagnosis.36"
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources:We searched the Cochrane Database of Systematic Reviews, Clinical Evidence, the National Guidelines Clearinghouse, the Agency for Healthcare Research and Quality Evidence Reports, Essential Evidence Plus, as well as Ovid and PubMed using the keywords parathyroid, hyperparathyroidism, hypoparathyroidism, hypercalcemia, hypocalcemia, and multiple endocrine neoplasia. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Search dates: June 5 through December 22, 2011."
+        }
+    ],
+    "locked": false
+}

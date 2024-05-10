@@ -1,0 +1,141 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0801/p239.html#afp20090801p239-f1",
+    "title": "Obsessive-Compulsive Disorder: Diagnosis and Management | AAFP",
+    "author": "JILL N. FENSKE, MD, AND THOMAS L. SCHWENK, MD",
+    "doi": "Am Fam Physician.2009;80(3):239-245",
+    "abstract": "Obsessive-compulsive disorder is an illness that can cause marked distress and disability. It often goes unrecognized and is undertreated. Primary care physicians should be familiar with the various ways obsessive-compulsive disorder can present and should be able to recognize clues to the presence of obsessions or compulsions. Proper diagnosis and education about the nature of the disorder are important first steps in recovery. Treatment is rarely curative, but patients can have significant improvement in symptoms. Recommended first-line therapy is cognitive behavior therapy with exposure and response prevention or a selective serotonin reuptake inhibitor. The medication doses required for treatment of obsessive-compulsive disorder are often higher than those for other indications, and the length of time to response is typically longer. There are a variety of options for treatment-resistant obsessive-compulsive disorder, including augmentation of a selective serotonin reuptake inhibitor with an atypical antipsychotic. Obsessive-compulsive disorder is a chronic condition with a high rate of relapse. Discontinuation of treatment should be undertaken with caution. Patients should be closely monitored for comorbid depression and suicidal ideation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Comorbidities",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "PSYCHOLOGICAL TREATMENTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PHARMACOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "COMPLEMENTARY AND ALTERNATIVE MEDICINE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Special Considerations for Childhood OCD",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Obsessive-compulsive disorder (OCD) is a neuropsychiatric disorder characterized by recurrent distressing thoughts and repetitive behaviors or mental rituals performed to reduce anxiety. Symptoms are often accompanied by feelings of shame and secrecy because patients realize the thoughts and behaviors are excessive or unreasonable. This secrecy, along with a lack of recognition of OCD symptoms by health care professionals, often leads to a long delay in diagnosis and treatment. OCD has a reputation of being difficult to treat, but there are many effective treatments available."
+        },
+        {
+            "parent": 0,
+            "text": "The lifetime prevalence of OCD is 1.6 percent.1Symptoms usually begin during adolescence, and more than 50 percent of affected persons have symptom onset before their mid-20s.1OCD has substantial adverse effects on well-being; more than one half of patients report moderate to severe distress from obsessions and compulsions.2OCD interferes with work performance, social interactions, and family relationships. It is a chronic disorder and is likely to persist if not treated effectively. Nearly 70 percent of patients report a continuous course of symptoms, and 23 percent experience a waxing and waning course.3The average time to treatment after meeting diagnostic criteria for OCD is 11 years.3This delay is attributed to many factors, including reluctance of patients to report symptoms and under-recognition of OCD by physicians."
+        },
+        {
+            "parent": 1,
+            "text": "The current model for the pathogenesis of OCD is complex. Neuroimaging studies show involvement of the dorsolateral prefrontal cortex, basal ganglia, and thalamus.4Because of the response to selective serotonin reuptake inhibitors (SSRIs), it is hypothesized that the serotonin system is heavily involved in the neurochemistry of OCD. Family studies have shown that genetics have a role in the etiology of OCD, particularly in the early-onset form of the disorder.5An immunologic component has also been proposed, based on the association of OCD with pediatric autoimmune neuropsychiatric disorder associated with streptococcal infections (PANDAS), in which children develop an abrupt onset of OCD symptoms or tics after infection with group AStreptococcus."
+        },
+        {
+            "parent": 2,
+            "text": "Obsessions are recurrent intrusive thoughts or images that cause marked distress. Patients usually recognize that the thoughts are self-generated and inappropriate. Some common obsessions involve contamination, doubts about whether an important task has been performed, or worries that an action will harm another person (Table 1). Compulsions are repetitive activities or mental rituals designed to counteract the anxiety caused by obsessions. Common compulsions include handwashing, checking, ordering, praying, counting, and seeking reassurance (Table 1). TheDiagnostic and Statistical Manual of Mental Disorders, 4th ed., states that to meet the criteria for OCD, the obsessions cannot be excessive worries about everyday problems, and they must cause marked distress (Table 2).6"
+        },
+        {
+            "parent": 2,
+            "text": "OCD is a heterogeneous disorder with several subtypes and a multitude of manifestations (Table 3).7–15There are several associated disorders (often referred to as OCD spectrum disorders), such as body dysmorphic disorder, trichotillomania, hypochondriasis, and eating disorders. These disorders have similar features and respond to the same therapies used to treat OCD."
+        },
+        {
+            "parent": 2,
+            "text": "Patients are often reluctant to report symptoms of OCD, which they may find embarrassing. Physicians should maintain a high awareness for the possibility of OCD in patients with general complaints of anxiety or depression. Patients may offer clues by alluding to intrusive thoughts or repetitive behaviors. Avoidance of particular locations or objects, excessive concerns about illness or injury, and repetitive reassurance-seeking are common. Chapped hands may signal excessive handwashing. If OCD is suspected, the use of a few simple screening questions can be helpful (Table 4).16Standardized diagnostic tools are available, but most are not practical for use in primary care. There are some brief patient self-report inventories that may be useful; two commonly used tools are the Obsessive-Compulsive Inventory–Revised17and the Florida Obsessive-Compulsive Inventory18. Psychiatric referral is indicated if there is diagnostic uncertainty."
+        },
+        {
+            "parent": 3,
+            "text": "The rate of psychiatric comorbidity in patients with OCD is high, particularly in those with severe OCD. In one longitudinal study, more than 90 percent of patients with OCD met the criteria for at least one other axis I diagnosis in their lifetime.3The most common comorbid diagnosis is major depressive disorder, which affects two thirds of persons with OCD at some point in life.3Panic disorder, social phobia, specific phobias, and substance abuse are also common. The risk of suicide in persons with OCD is high; more than 50 percent experience suicidal ideation, and 15 percent have attempted suicide.3Depression and hopelessness are major correlates of suicidal behavior in persons with OCD.19Patients with OCD should be carefully monitored for suicide risk and symptoms of depression."
+        },
+        {
+            "parent": 4,
+            "text": "Once a diagnosis of OCD has been established, it is important to provide education and support. Although full remission is rare in patients with OCD, significant improvement is common. Evidence-based medical and behavioral therapies are available to reduce the severity and frequency of obsessions and compulsions. However, it may take weeks to months for these therapies to become effective. Physicians should inform patients about this delay in treatment response, provide support, and encourage adherence during the early phase of treatment."
+        },
+        {
+            "parent": 4,
+            "text": "It is helpful to quantify the severity of symptoms and impairment before and during treatment for OCD. This may be done with standardized rating scales or by a patient estimate of the time spent each day engaging in obsessive-compulsive thoughts or behaviors. The Yale-Brown Obsessive Compulsive Scale (Y-BOCS) is a reliable tool for measuring OCD symptom severity.20It is also important to monitor the effect of OCD symptoms on relationships, work, self-care, and recreational time."
+        },
+        {
+            "parent": 4,
+            "text": "Treatment is indicated when OCD symptoms cause impairment in functioning or significant distress for the patient. Reasonable treatment goals would be spending less than one hour per day on obsessive-compulsive behaviors, with minimal interference with daily tasks.21A treatment strategy algorithm is provided inFigure 1.16,21"
+        },
+        {
+            "parent": 4,
+            "text": "Psychiatric consultation is recommended for patients with severe OCD, as measured by the Y-BOCS. For patients with mild or subclinical symptoms, education and support may be sufficient. High-quality self-help materials are available that explain the nature of the disorder, its manifestations, and available treatments."
+        },
+        {
+            "parent": 5,
+            "text": "Psychological treatments are effective for OCD.22These treatments should be administered by a properly trained health care professional, most commonly a psychologist or social worker. Cognitive behavior therapy (CBT) is the method of psychotherapy most often used; there is no evidence for the use of psychodynamic psychotherapy or “talk therapy” for treatment of OCD. Exposure and response prevention is a key element of CBT that has been proven effective in the treatment of OCD.23Patients are taught to confront situations that create fear related to their obsessions, and to avoid performing compulsive behaviors in response. The feared situations may be confronted directly (e.g., touching objects in a public restroom), or through imagined encounters (e.g., imagining shaking hands with another person). Patients refrain from performing rituals until the level of anxiety dissipates. Exposure and response prevention is usually performed in 13 to 20 weekly sessions, with each session lasting one to two hours.21"
+        },
+        {
+            "parent": 6,
+            "text": "OCD exhibits a highly selective response to serotonergic medications. Clomipramine (Anafranil), a tricyclic antidepressant with a strong serotonergic effect, was historically the first-line pharmacologic treatment for OCD. However, because of concerns about the safety and adverse effects of tricyclic agents, SSRIs have become first-line pharmacologic treatments for OCD. Fluoxetine (Prozac), fluvoxamine, paroxetine (Paxil), and sertraline (Zoloft) have been approved by the U.S. Food and Drug Administration for the treatment of OCD. Citalopram (Celexa) and escitalopram (Lexapro) are also commonly used. Approximately 60 to 70 percent of patients experience some degree of improvement in OCD symptoms with SSRI treatment.24A recent Cochrane review confirmed the effectiveness of SSRIs for the treatment of OCD (absolute risk reduction = 8 to 17 percent; number needed to treat = 6 to 12).25"
+        },
+        {
+            "parent": 6,
+            "text": "The dosage of SSRI required to achieve treatment effect for OCD is often higher than the recommended dosages for other indications (Table 5).21The dosage should be increased over four to six weeks until the maximal dosage is achieved, or until further increase is limited by adverse effects.21Higher-than-maximal dosages are sometimes used, with careful monitoring for serotonin syndrome. Early signs of serotonin syndrome include anxiety, tremor, tachycardia, and sweating.26The patient should continue taking the SSRI for eight to 12 weeks, with at least four to six weeks at the maximal tolerable dosage.21It usually takes at least four to six weeks for patients to note any significant improvement in symptoms; for some, it may take 10 to 12 weeks or longer."
+        },
+        {
+            "parent": 6,
+            "text": "If medical therapy is successful, it should be continued for at least one to two years.21If the patient chooses to discontinue pharmacotherapy, the dosage should be gradually tapered over several months. If symptoms worsen during this time, the original dosage should be resumed, and further attempts at discontinuing medication should be approached with reservation. Some patients require lifelong medical therapy."
+        },
+        {
+            "parent": 6,
+            "text": "Initial data suggest that the response to psychological treatments may be more durable than medication.27Periodic exposure and response prevention “booster” sessions are recommended to lower the risk of relapse when psychological therapy is discontinued.21Initiating psychological treatments before a trial of medication discontinuation may also be an effective strategy to lower the risk of relapse."
+        },
+        {
+            "parent": 6,
+            "text": "If an adequate trial of an SSRI or psychological therapy does not result in a satisfactory response, one option is to initiate combined treatment. If the patient prefers to continue with medical therapy alone, a trial of a different SSRI is indicated.21If there is no response to trials of at least two SSRIs, clomipramine may be considered.21Clomipramine can cause anticholinergic adverse effects and, rarely, arrhythmia or seizures. It should be started at a low dose (25 mg) with gradual titration to minimize adverse reactions. Venlafaxine (Effexor) is another option for second-line treatment; the extended-release form was shown in a randomized controlled trial to be equivalent to paroxetine.28A small preliminary study suggested that mirtazapine (Remeron) may also be an effective treatment for OCD.29"
+        },
+        {
+            "parent": 6,
+            "text": "Another option for patients with OCD who have partially responded to SSRI therapy is the addition of an atypical antipsychotic. Antipsychotic augmentation is indicated only after a three-month trial of an SSRI at the maximal tolerated dosage.30Risperidone (Risperdal) has the strongest evidence base for use as an adjunctive agent; however, quetiapine (Seroquel) and olanzapine (Zyprexa) are also used.16Antipsychotic augmentation is particularly beneficial in patients with comorbid tics. An SSRI in combination with risperidone or haloperidol (formerly Haldol) is the preferred treatment in these patients.30"
+        },
+        {
+            "parent": 6,
+            "text": "Patients with treatment-resistant OCD should be referred to a subspecialist. There are a variety of treatment options for these patients, but the evidence for most therapies is based on small preliminary studies or expert opinion.16,21Partial hospitalization and residential treatment facilities are options for patients with severe, treatment-resistant OCD."
+        },
+        {
+            "parent": 7,
+            "text": "There are limited trials of complementary and alternative medicine approaches for the treatment of OCD. Initial studies have suggested beneficial effects for moderate-intensity aerobic exercise and mindfulness interventions (e.g., meditative breathing).31,32There has long been interest in the use of St. John's wort for treatment of OCD. A recent double-blind study did not support the effectiveness of this treatment, although further study has been recommended.33"
+        },
+        {
+            "parent": 8,
+            "text": "Although OCD in childhood can occur in isolation, there is a high rate of comorbidity with mood disorders, tic disorders, attention-deficit/hyperactivity disorder, and developmental abnormalities. Children with abrupt onset of obsessive-compulsive symptoms or tics should be evaluated for group AStreptococcusinfection, with possible PANDAS. Children with OCD should be referred to a subspecialist. CBT with exposure and response prevention is the preferred initial treatment modality. SSRI treatment may be indicated in patients with severe symptoms, or when there is lack of improvement with CBT alone.21"
+        }
+    ],
+    "locked": false
+}

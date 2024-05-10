@@ -1,0 +1,127 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0715/p151.html#afp20100715p151-f1",
+    "title": "Treating Diabetic Peripheral Neuropathic Pain | AAFP",
+    "author": "TAMMY J. LINDSAY, MD, BLAKE C. RODGERS, MD, VINCENT SAVATH, MD, AND KEVIN HETTINGER, MD",
+    "doi": "Am Fam Physician.2010;82(2):151-158",
+    "abstract": "Diabetic peripheral neuropathic pain affects the functionality, mood, and sleep patterns of approximately 10 to 20 percent of patients with diabetes mellitus. Treatment goals include restoring function and improving pain control. Patients can realistically expect a 30 to 50 percent reduction in discomfort with improved functionality. The main classes of agents used to treat diabetic peripheral neuropathic pain include tricyclic antidepressants, anticonvulsants, serotonin-norepinephrine reuptake inhibitors, opiates and opiate-like substances, and topical medications. Physicians should ask patients whether they have tried complementary and alternative medicine therapies for their pain. Only two medications are approved specifically for the treatment of diabetic peripheral neuropathic pain: pregabalin and duloxetine. However, evidence supports the use of other therapies, and unless there are contraindications, tricyclic antidepressants are the first-line treatment. Because patients often have multiple comorbidities, physicians must consider potential adverse effects and possible drug interactions before prescribing a medication.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Tricyclic Antidepressants",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Anticonvulsants",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "SNRIs and SSRIs",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Opiates and Opiate-Like Medications",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Topical Medications",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Complementary and Alternative Medicine",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Combination Therapy and Drug Interactions",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Peripheral neuropathy is a common complication of diabetes mellitus, occurring in 30 to 50 percent of patients with the disease.1It involves the loss of sensation in a symmetric stocking-and-glove distribution, starting in the toes and progressing proximally. Approximately 10 to 20 percent of patients with diabetes have diabetic peripheral neuropathic pain, which is a burning, tingling, or aching discomfort that worsens at night.1,2Patients with diabetic peripheral neuropathic pain may also experience allodynia and hyperalgesia. Diabetic peripheral neuropathic pain interferes with sleep quality, mood, and activity level. Initial management goals include controlling hyperglycemia, which may acutely worsen pain.3Although complete relief is ideal, pain reduction of only 30 to 50 percent can be expected in most patients taking maximal doses of medication.4,5Available evidence on treating diabetic peripheral neuropathic pain is limited to small studies and few head-to-head trials. Although the American Society of Pain Educators has released consensus guidelines for treatment, they offer little guidance on choosing a first-tier agent.6,7Figure 1presents a treatment algorithm for diabetic peripheral neuropathic pain based on available evidence.4There are five main classes of medications and some alternative options used to treat diabetic peripheral neuropathic pain.Table 1provides dosages, costs, and numbers needed to treat (NNT) of selected medications.5,8–29Table 2lists common adverse effects of the medications.5,8–11,14,18–20,30"
+        },
+        {
+            "parent": -1,
+            "text": "Studies of medications used to treat diabetic peripheral neuropathic pain assess effectiveness primarily by measuring reduction in pain. Few studies have examined the effects of diabetic peripheral neuropathic pain on quality of life. However, one study used the Nottingham Health Profile, a validated quality-of-life questionnaire, to examine the quality of life in patients with diabetic peripheral neuropathic pain.31The study showed decreased quality of life in areas of sleep, energy, and exercise tolerance, as well as increased emotional reactivity, suggesting considerable benefits to treating diabetic peripheral neuropathic pain."
+        },
+        {
+            "parent": 0,
+            "text": "Tricyclic antidepressants (TCAs) are recommended as first-line therapy for diabetic peripheral neuropathic pain in appropriate patients, although their mechanism of action is uncertain. Physicians have been using TCAs, such as amitriptyline and nortriptyline (Pamelor), to treat neuropathic pain for years, without approved labeling from the U.S. Food and Drug Administration (FDA).8An updated Cochrane review of antidepressants for treating neuropathic pain revealed an overall effectiveness, with an NNT of 1.3 for diabetic neuropathy based on five studies involving TCAs.8"
+        },
+        {
+            "parent": 0,
+            "text": "Although TCAs are generally affordable and effective, they should be used with caution. One in five patients discontinues therapy because of adverse effects.8Potential drug interactions must be reviewed. Any cardiac history, including heart failure, arrhythmias, or recent myocardial infarction, is a contraindication for TCAs. Because of the anticholinergic effects of TCAs, physicians should be cautious when prescribing them for patients with narrow-angle glaucoma, benign prostatic hypertrophy, orthostasis, urinary retention, impaired liver function, or thyroid disease. QTc interval should be assessed in those with additional risk factors: syncope or presyncope, cardiovascular disease, electrolyte disturbance, and older age.8,32If QT prolongation is present, other medications should be used because of the risk of torsades de pointes. Care should be exercised in patients older than 60 years because of the increased likelihood of comorbidities.6–8,33"
+        },
+        {
+            "parent": 1,
+            "text": "Anticonvulsants are divided into two categories: newer (e.g., gabapentin [Neurontin], pregabalin [Lyrica]) and traditional (e.g., carbamazepine [Tegretol], valproate [Depacon]). Evidence is lacking for the use of other newer anticonvulsants, such as topiramate (Topamax) and lamotrigine (Lamictal).34,35"
+        },
+        {
+            "parent": 1,
+            "text": "Based on available evidence, gabapentin and pregabalin should be used as first-line treatment for diabetic peripheral neuropathic pain if there are contraindications or an inadequate response to TCAs.6Although their mechanism of action is not completely understood, pregabalin and gabapentin bind to the alpha2-delta subunit of the calcium-sensitive channels, modulating neurotransmitter release. Pregabalin is one of only two medications approved by the FDA for the treatment of diabetic peripheral neuropathic pain. In a 2008 meta-analysis of seven trials, pregabalin was used to treat diabetic peripheral neuropathic pain in 1,510 patients, and the results showed effectiveness with a dose-related response.10When compared with placebo, measurable pain relief was achieved with 150, 300, or 600 mg per day, divided into three doses. However, pain control occurred earlier with higher dosages (at day 4 with 600 mg versus day 13 with 150 mg).10"
+        },
+        {
+            "parent": 1,
+            "text": "A 2005 Cochrane review evaluating the use of gabapentin in painful neuropathy calculated a combined NNT of 4.3 from five studies of diabetic peripheral neuropathic pain and two studies of postherpetic neuralgia and mixed neuralgia.11Because gabapentin is not protein-bound and is excreted unchanged in the urine, it has few drug interactions. However, the review concluded that although gabapentin is effective for neuropathic pain, physicians should consider the cost before prescribing. The Cochrane authors recommended further study comparing medication classes.11"
+        },
+        {
+            "parent": 1,
+            "text": "Traditional anticonvulsants, such as carbamazepine, phenytoin (Dilantin), and valproate, have been used to treat neuropathy since the 1960s.36Carbamazepine is FDA-approved for neuropathic pain, but not specifically for diabetic peripheral neuropathic pain. One Cochrane review examined 12 studies including 404 participants with a variety of types of neuropathic pain. The review found an NNT of 2.5 to achieve moderate pain relief with carbamazepine.12Adverse effects included drowsiness, dizziness, constipation, nausea, and ataxia.12"
+        },
+        {
+            "parent": 1,
+            "text": "Laboratory monitoring is important to consider when prescribing carbamazepine. Before beginning treatment, the patient's blood urea nitrogen, creatinine, transaminase, and iron levels should be checked, and a complete blood count (including platelets), reticulocyte count, liver function test, and urinalysis should be performed. A lipid panel and measurement of drug levels are also recommended every six to 12 months.37,38Additionally, carbamazepine carries a boxed warning for serious dermatologic reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome.37Risk is increased 10-fold in conjunction with human leukocyte antigen-B*1502, which occurs almost exclusively in Asians. Physicians should perform genetic testing before initiating carbamazepine in this population.12"
+        },
+        {
+            "parent": 1,
+            "text": "Because of the need for laboratory monitoring and the risk of drug interactions, newer anticonvulsants are preferred over carbamazepine.12Valproate and phenytoin have not been investigated as extensively as carbamazepine, but have many of the same drawbacks.4,6,39Phenytoin has the added complication of elevating glucose levels, making it less appealing for use in patients with diabetic peripheral neuropathic pain.9"
+        },
+        {
+            "parent": 2,
+            "text": "Studies suggest that diabetic peripheral neuropathic pain is related to an unbalanced release of norepinephrine and serotonin from neurons.5,13Serotonin-norepinephrine reuptake inhibitors (SNRIs), including venlafaxine (Effexor) and duloxetine (Cymbalta), are a promising category of antidepressants for treatment of diabetic peripheral neuropathic pain. They are better tolerated and have fewer drug interactions than TCAs. A 2004 trial showed that higher doses of venlafaxine led to greater improvements in pain scores, likely because venlafaxine has a more balanced noradrenergic-to-serotonergic effect at higher doses.40A 2007 Cochrane review examined three studies of venlafaxine for neuropathic pain, revealing an NNT of 3.1.8This result is similar to that of TCAs for general neuropathic pain (NNT = 3.6). However, further studies are needed to investigate the effectiveness of venlafaxine for diabetic peripheral neuropathic pain specifically."
+        },
+        {
+            "parent": 2,
+            "text": "Duloxetine is the second drug approved for the treatment of diabetic peripheral neuropathic pain. Duloxetine is relatively balanced in its affinity for noradrenergic and serotonergic reuptake inhibition.5,13A 2006 randomized controlled trial (RCT) revealed similar effectiveness with 60 mg once per day and twice per day (NNT = 5.1).13The modified intention-to-treat analysis did not follow patients who dropped out of the study, which may have created a bias toward treatment."
+        },
+        {
+            "parent": 2,
+            "text": "Selective serotonin reuptake inhibitors (SSRIs) have also been used to treat diabetic peripheral neuropathic pain; however, there is only limited evidence showing a beneficial role. Although they are better tolerated than TCAs, the 2006 consensus guidelines list citalopram (Celexa) and paroxetine (Paxil) as options in the “other” category, after first- and second-tier agents, based on limited evidence and small trials.6The Cochrane Collaboration suggests that more high-quality studies are needed.8"
+        },
+        {
+            "parent": 3,
+            "text": "Monotherapy with opiates should be reserved for patients who do not achieve pain relief goals with other therapies. A 2006 Cochrane review evaluated the use of opiates for general neuropathic pain.14Methadone, levorphanol, morphine, and controlled-release oxycodone (Oxycontin) were included in the review. Nine intermediate-term (28-day average) studies involving 460 participants demonstrated the superiority of opiates over placebo. Although these studies consistently showed benefit, only a portion of patients taking opiates achieved a modest pain reduction of approximately 20 to 30 percent, and were not evaluated for longer than eight weeks.14Despite concerns about dependency and controversial evidence for the benefit of chronic opiate therapy for nonmalignant pain, consensus guidelines suggest a benefit in patients with diabetic peripheral neuropathic pain.41Caution should be used because chronic opiate use leads to tolerance and hyperalgesia.42,43"
+        },
+        {
+            "parent": 3,
+            "text": "Tramadol (Ultram) is a synthetic, opiate-like medication. It acts centrally at the muopioid receptors and weakly inhibits the central neuronal reuptake of norepinephrine and serotonin. A 1998 RCT of 131 participants revealed that patients taking tramadol scored better in pain control, quality-of-life measures, and physical and social functioning.44Because it lowers the seizure threshold, tramadol should be avoided in patients with epilepsy or in those at risk of seizures.18Although there is lower potential for abuse in patients taking tramadol compared with opiates, tramadol should not be used in patients who are opiate-dependent or who have a tendency to abuse drugs.44In patients taking tramadol, the NNT to achieve 50 percent pain reduction is 3.8.18"
+        },
+        {
+            "parent": 4,
+            "text": "Common topical treatments for diabetic peripheral neuropathic pain include capsaicin cream (Zostrix) and lidocaine 5% patches (Lidoderm). Capsaicin stimulates the C fibers to release, and subsequently deplete, substance P. Many patients using capsaicin experience a stinging sensation during the first week of treatment, which dissipates with continued use. In a 2004 meta-analysis involving six trials of 656 patients, capsaicin had an NNT of 6.4 and 5.7 for 50 percent pain reduction at four and eight weeks, respectively.19"
+        },
+        {
+            "parent": 4,
+            "text": "Lidocaine 5% patches block neuronal sodium channels. There have been small effectiveness trials with this medication. An RCT in 2003 revealed an NNT of 4.4 for 50 percent pain reduction.20Adverse effects are primarily dermatologic, resolving on removal of the patch. The primary advantage to topical treatment is that it can be added to systemic treatment at any time."
+        },
+        {
+            "parent": 5,
+            "text": "As with many chronic conditions that interfere with quality of life, patients with diabetic peripheral neuropathic pain may explore complementary and alternative medicine (CAM) options. CAM therapies are being applied to diabetic peripheral neuropathic pain, although the data are limited. Asking patients about CAM treatments they are using can help physicians provide more complete care of the patient. CAM therapies with the most promise include l-carnitine and alpha-lipoic acid, which are available over the counter. Early studies have shown positive results, but more long-term data are needed.22,45Data involving acupuncture have been limited. However, a pilot study and small RCT have shown promise.24,25A Cochrane review is currently underway.26"
+        },
+        {
+            "parent": 6,
+            "text": "Because of the complicated drug interaction profiles of the medications used to treat diabetic peripheral neuropathic pain(Table 346), it is advisable to exhaust monotherapy options before considering combination therapy, with the exception of topical agents. Few studies have considered the role of combination therapy, although one study showed a decreased need for opiates when combined with gabapentin.15If combination therapy is necessary, physicians should consider the mechanism of action when choosing medications and consider consulting a pain management specialist.7It is important to avoid combining TCAs with SSRIs or SNRIs to avoid serotonin syndrome, a life-threatening condition with autonomic and neurologic symptoms.47"
+        },
+        {
+            "parent": 6,
+            "text": "Before initiating therapy, physicians should thoroughly review medication lists for potential interactions in patients with comorbidities. Drugs that may interact with diabetic peripheral neuropathic pain therapies include statins, beta blockers, sulfonylureas, levothyroxine, warfarin (Coumadin), and loop diuretics. Drug interactions stem primarily from hepatic metabolism through the cytochrome P450 system or because a drug is highly protein bound.48"
+        }
+    ],
+    "locked": false
+}

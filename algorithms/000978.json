@@ -1,0 +1,238 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/0201/p635.html#afp19990201p635-f2",
+    "title": "Warfarin Therapy: Evolving Strategies in Anticoagulation | AAFP",
+    "author": "JON D. HORTON, PHARM.D., AND BRUCE M. BUSHWICK, M.D.",
+    "doi": "Am Fam Physician.1999;59(3):635-646",
+    "abstract": "Warfarin is the oral anticoagulant most frequently used to control and prevent thromboembolic disorders. Prescribing the dose that both avoids hemorrhagic complications and achieves sufficient suppression of thrombosis requires a thorough understanding of the drug's unique pharmacology. Warfarin has a complex dose-response relationship that makes safe and effective use a challenge. For most indications, the dose is adjusted to maintain the patient's International Normalized Ratio (INR) at 2 to 3. Because of the delay in factor II (prothrombin) suppression, heparin is administered concurrently for four to five days to prevent thrombus propagation. Loading doses of warfarin are not warranted and may result in bleeding complications. Interactions with other drugs must be considered, and therapy in elderly patients requires careful management. Current dosing recommendations are reviewed, and practical guidelines for the optimal use of warfarin are provided.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Goals of Anticoagulation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pharmacology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pharmacokinetics",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Pharmacodynamics and Dosing Considerations",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Monitoring",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Hemorrhagic Complications",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Anticoagulation Therapy in the Elderly",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Drug Interactions",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Patient Education",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Warfarin (Coumadin) is the most frequently prescribed oral anticoagulant, the fourth most prescribed cardiovascular agent and the overall eleventh most prescribed drug in the United States,1with annual sales of approximately $500 million.2Nonetheless, in 1995 the Agency for Health-care Policy and Research (AHCPR)3reported that warfarin is greatly underutilized for stroke prevention. The AHCPR noted that physicians are reluctant to prescribe warfarin, in part because they are not familiar with techniques for administering the drug safely and fear that the drug will cause bleeding. Patients treated with warfarin do require close monitoring to avoid bleeding, but it has been shown that the drug prevents 20 strokes for every bleeding episode that it causes.3"
+        },
+        {
+            "parent": -1,
+            "text": "Even though four decades have passed since warfarin was first used to prevent thromboembolic disease, studies continue to discover and refine techniques that make therapy with this agent safer and more effective. Because warfarin has a complex dose-response relationship, family physicians need to understand the drug's pharmacology. This article presents the rationale for published dosing recommendations and suggests practical guidelines for the use of warfarin therapy."
+        },
+        {
+            "parent": 0,
+            "text": "The goal of anticoagulant therapy is to administer the lowest possible dose of anticoagulant to prevent clot formation or expansion. The required degree of anticoagulation continues to evolve as studies provide more information about the efficacy and safety of lower doses. Current therapeutic goals for various disease states are summarized inTable 1.4–9"
+        },
+        {
+            "parent": 0,
+            "text": "By using the lowest possible required dose of warfarin, the physician can minimize the risk of bleeding while providing the benefits of anticoagulation. To achieve this goal, the physician must have a working knowledge of the pharmacologic, pharmacokinetic and pharmacodynamic properties of warfarin."
+        },
+        {
+            "parent": 1,
+            "text": "[corrected] Warfarin is an antagonist of vitamin K, a necessary element in the synthesis of clotting factors II, VII, IX and X, as well as the naturally occurring endogenous anticoagulant proteins C and S. These factors and proteins are biologically inactive without the carboxylation of certain glutamic acid residues. This carboxylation process requires a reduced vitamin K as a cofactor and occurs primarily in the liver. Antagonism of vitamin K or a deficiency of this vitamin reduces the rate at which these factors and proteins are produced, thereby creating a state of anticoagulation."
+        },
+        {
+            "parent": 1,
+            "text": "Therapeutic doses of warfarin reduce the production of functional vitamin K–dependent clotting factors by approximately 30 to 50 percent. A concomitant reduction in the carboxylation of secreted clotting factors yields a 10 to 40 percent decrease in the biologic activity of the clotting factors. As a result, the coagulation system becomes functionally deficient.10"
+        },
+        {
+            "parent": 2,
+            "text": "A knowledge of the pharmacokinetics of warfarin is helpful in understanding the initial response to therapy. Warfarin can be detected in the plasma one hour after oral administration, and peak concentrations occur in two to eight hours.10"
+        },
+        {
+            "parent": 2,
+            "text": "Warfarin is a racemic mixture of stereo isomers, which are 99 percent bound to albumin.11The drug is metabolized in the liver and kidneys, with the subsequent production of inactive metabolites that are excreted in the urine and stool.10"
+        },
+        {
+            "parent": 2,
+            "text": "The half-life of racemic warfarin ranges from 20 to 60 hours. The mean plasma half-life is approximately 40 hours, and the duration of effect is two to five days.10Thus, the maximum effect of a dose occurs up to 48 hours after administration, and the effect lingers for the next five days."
+        },
+        {
+            "parent": 3,
+            "text": "Anticoagulant Activity. The anticoagulant activity of warfarin depends on the clearance of functional clotting factors from the systemic circulation after administration of the dose. The clearance of these clotting factors is determined by their half-lives. The earliest changes in the International Normalized Ratio (INR) are typically noted 24 to 36 hours after a dose of warfarin is administered. These changes are due to the clearance of functional factor VII, which is the vitamin K–dependent clotting factor with the shortest half-life (six hours). However, the early changes in the INR are deceptive because they do not actually affect the body's physiologic ability to halt clot expansion or form new thromboses.4"
+        },
+        {
+            "parent": 3,
+            "text": "Antithrombotic Effect. The antithrombotic effect of warfarin, or the inability to expand or form clots, is not present until approximately the fifth day of therapy. This effect depends on the clearance of functional factor II (prothrombin), which has a half-life of approximately 50 hours in patients with normal hepatic function."
+        },
+        {
+            "parent": 3,
+            "text": "The difference between the antithrombotic and anticoagulant effects of warfarin need to be understood and applied in clinical practice. Because antithrombotic effect depends on the clearance of prothrombin (which may take up to five days), loading doses of warfarin are of limited value.4,12Because warfarin has a long half-life, increases in the INR may not be noted for 24 to 36 hours after administration of the first dose, and maximum anticoagulant effect may not be achieved for 72 to 96 hours.4"
+        },
+        {
+            "parent": 3,
+            "text": "Loading doses of warfarin (i.e., 10 mg or more per day) may increase the patient's risk of bleeding episodes early in therapy by eliminating or severely reducing the production of functional factor VII. The administration of loading doses is a possible source of prolonged hospitalization secondary to dramatic rises in INR that necessitate increased monitoring. [ corrected] Administration of loading doses has also been hypothesized to potentiate a hypercoagulable state because of severe depletion of protein C. The practice of using loading doses should be abandoned because it has no effect on the inhibition of thrombosis.4"
+        },
+        {
+            "parent": 3,
+            "text": "A potential paradoxic consequence of loading doses is the development of a hypercoagulable state because of a precipitous reduction in the concentration of protein C (approximate half-life of eight hours) during the first 36 hours of warfarin therapy.12Thus, loading doses theoretically may cause clot formation and/or expansion by limiting the production of proteins C and S, which have shorter half-lives than prothrombin. Consequently, the concurrent use of heparin is extremely important."
+        },
+        {
+            "parent": 3,
+            "text": "The initial dose of warfarin should approximate the chronic maintenance dose that is anticipated. In most patients, the average maintenance dose is 4 to 6 mg per day. Dose has an inverse relation with age. In patients 50 years old, the average daily dose is 6.3 mg; in patients 70 years old, the average daily dose is 3.6 mg.13"
+        },
+        {
+            "parent": 3,
+            "text": "Drug interactions (discussed in detail in another section) need to be considered when warfarin therapy is initiated. Other factors include the patient's nutritional status and gender. Patients who are malnourished should receive lower doses of warfarin because they probably have low vitamin K intake and decreased serum albumin concentrations. Women generally require lower doses than men."
+        },
+        {
+            "parent": 3,
+            "text": "Patients at highest risk for complications should probably be given a smaller initial dose (2 to 4 mg per day). This dose is then titrated to the lower end of a given therapeutic range, depending on the indication. For example, the goal may be an INR of 2 to 2.5 in a patient with a history of bleeding, chronic atrial fibrillation and no additional risk factors for thrombosis."
+        },
+        {
+            "parent": 3,
+            "text": "Current recommendations for the initiation of warfarin therapy differ based on the urgency for achieving an anticoagulant effect. While warfarin is being initiated, patients who require rapid anticoagulation should also be given unfractionated heparin or low-molecular-weight heparin intravenously or subcutaneously in doses appropriate for the given indication.4"
+        },
+        {
+            "parent": 3,
+            "text": "Heparin and warfarin therapies should overlap for approximately four to five days. The presence of a therapeutic INR does not confer protection from clot formation and expansion during the first few days of warfarin therapy because of the delay in the therapeutic inhibition of prothrombin."
+        },
+        {
+            "parent": 3,
+            "text": "Patients who rapidly achieve a therapeutic INR may metabolize warfarin slowly and thus may require lower maintenance doses. The opposite holds for patients who tend to respond slowly to warfarin.13"
+        },
+        {
+            "parent": 3,
+            "text": "A small decrease in the INR is expected to occur with the discontinuation of unfractionated heparin therapy.14(A drop of 0.3 to 0.8 in the INR has been noted by the authors of this article.)"
+        },
+        {
+            "parent": 3,
+            "text": "Patients who require nonurgent anticoagulation, such as those with stable chronic atrial fibrillation, can be started on warfarin as out-patients, without the concomitant administration of heparin.4"
+        },
+        {
+            "parent": 3,
+            "text": "The goal of maintenance therapy is to achieve a regimen that is simple yet provides therapeutic anticoagulation. Currently, many physicians use drug regimens that appear simple but require differing tablet strengths. These regimens can be confusing to elderly patients who are taking several other medications concurrently and who may confuse tablet colors and strengths."
+        },
+        {
+            "parent": 3,
+            "text": "Effective anticoagulation can be achieved using a single tablet strength and alternating fractions or multiples of that tablet on given days of the week rather than on odd or even days.15As needed, doses can be easily changed by looking at the cumulative weekly dosage and adding or subtracting 10 to 20 percent evenly over the week15,16(Figure 1). This approach is possible because of warfarin's long half-life. It is a safe and effective way to provide sufficient anticoagulation. Algorithms for establishing a percentage change in the weekly dosage to achieve an INR of 2 to 3 or 2.5 to 3.5 are presented inFigures 2and3, respectively.17"
+        },
+        {
+            "parent": 3,
+            "text": "Questions have recently been raised about the use of generic warfarin products.18The cost savings of changing to generic products was investigated at Boston City Hospital during the late 1980s.19The study found that patients who used Coumadin exclusively remained within the goal INR 68 percent of the time, whereas patients who used generic warfarin maintained goal INR only 39 percent of the time. Compared with the brand drug–treated patients, the 15 patients who switched products had more dosage adjustments, one hospitalization for excessive anticoagulation and one emergency department visit for epistaxis. None of the patients maintained on the brand drug required hospitalization or emergency medical care."
+        },
+        {
+            "parent": 3,
+            "text": "Generic warfarin products and Coumadin have small pharmacokinetic differences in time to peak concentration, area under the curve, absorption rate constants, half-absorption time and tablet content uniformity.18Therefore, increased monitoring may be prudent when a patient is switched from the brand drug to generic warfarin."
+        },
+        {
+            "parent": 3,
+            "text": "As noted in the Boston City Hospital study,19the slight cost advantage of the generic product may be outweighed by increased monitoring costs, increased physician time and a possibly greater incidence of adverse events. If a generic warfarin product is started and then used exclusively in a patient, it is likely to be as safe as the brand drug."
+        },
+        {
+            "parent": 4,
+            "text": "The prothrombin time (PT) is the primary assay used in monitoring warfarin therapy. The prolongation of PT depends on reductions in three of the vitamin K–dependent clotting factors (II, VII and IX). Changes in the PT noted in the first few days of warfarin therapy are primarily due to reductions in factors VII and IX, which have the shortest half-lives (six and 24 hours, respectively)."
+        },
+        {
+            "parent": 4,
+            "text": "The early changes in PT vary based on the responsiveness of the particular thromboplastin that a laboratory uses to perform the PT test.4The International Sensitivity Index is used to measure and compare the variability in thromboplastin responsiveness. Because of the variations in thromboplastin sensitivity and the different ways of reporting PT, information about patients treated with oral anticoagulants was not interchangeable among laboratories until 1982, when the World Health Organization Expert Committee on Biologic Standardization developed the INR.20"
+        },
+        {
+            "parent": 4,
+            "text": "When a patient is started on an oral anticoagulant, INR monitoring should be performed on a daily basis until the INR is within the therapeutic range for at least two consecutive days. Then INR monitoring should be performed two to three times a week for one to two weeks. If the patient remains stable, this interval can be widened to a monitoring frequency of once every four to six weeks. If dosage adjustments are necessary, INR monitoring should be performed more often until a new state of stability is achieved."
+        },
+        {
+            "parent": 4,
+            "text": "Unexpected fluctuations of the INR in an otherwise stable patient should be investigated. Often, it is possible to identify one or more causes, such as change in diet, poor compliance, undisclosed drug use, alcohol consumption and/or self-medication. If none of these causes can be identified, laboratory error should be considered. When no cause for INR fluctuations can be determined, weekly dosage adjustment should be tried. The reduction or withholding of a single dose or an increase in that day's dose is often sufficient to restore a therapeutic INR in a patient who is otherwise medically stable."
+        },
+        {
+            "parent": 5,
+            "text": "The most common complication of warfarin therapy is bleeding, which occurs in 6 to 39 percent of recipients annually.4,21The incidence of bleeding is directly related to the intensity of anticoagulation. With the reductions in anticoagulation intensity that have evolved over the past 20 years, the incidence of hemorrhagic complications has decreased dramatically."
+        },
+        {
+            "parent": 5,
+            "text": "In patients receiving warfarin therapy, the median annual rate of major bleeding ranges from 0.9 to 2.7 percent, and the median annual rate of fatal bleeding ranges from 0.07 to 0.7 percent. The incidence of complications varies within the ranges, depending on the clinical indication and the intensity of anticoagulation. Intracranial hemorrhage accounts for approximately 2 percent of the reported hemorrhagic complications of warfarin therapy and is associated with a mortality rate of 10 to 68 percent.22"
+        },
+        {
+            "parent": 5,
+            "text": "Patient characteristics associated with a major risk of hemorrhage have been identified in a number of randomized studies (Table 2).4,20,23–27Bleeding that occurs with an INR of less than 3 is often associated with an underlying occult gastrointestinal or renal lesion.4"
+        },
+        {
+            "parent": 5,
+            "text": "If bleeding occurs during warfarin therapy, the physician should immediately consider the severity of bleeding, the intensity of anticoagulation at the time of the bleeding episode and whether the patient has completed most of the prescribed course of therapy. Recommendations for the reversal of high INR values in patients with or without bleeding are summarized inFigure 4.4"
+        },
+        {
+            "parent": 5,
+            "text": "Warfarin resistance is common after the administration of large doses of vitamin K. If anticoagulation therapy must be continued, heparin therapy should be initiated until the effects of vitamin K have been reversed and the patient is again responsive to warfarin."
+        },
+        {
+            "parent": 6,
+            "text": "One of the physician's most difficult tasks is to decide whether the risk of anticoagulation outweighs the potential benefit of warfarin therapy in an elderly patient. One study28found that the risk of intracranial hemorrhage among the elderly is highest in patients with poor control (large variations in INR), patients receiving high-intensity therapy (INR greater than 4) and patients older than 80 years. Data from the Stroke Prevention in Atrial Fibrillation (SPAF II) trial29suggest that the safety of anticoagulation in the elderly can be maximized through careful monitoring and maintenance of an INR between 2 and 3."
+        },
+        {
+            "parent": 6,
+            "text": "Another recent study30investigated the incidence of ischemic stroke in elderly patients with atrial fibrillation who were receiving anticoagulant therapy. This study found that subtherapeutic INRs (i.e., those below 2) have associated risks of thrombotic events. For example, the relative risk of ischemic stroke is 3.3 times higher (95 percent confidence interval 2.4 to 4.6) in a patient with an INR of 1.5 than in a patient with an INR of 2. The study findings suggest that tighter control of therapy at an INR range of 2 to 3 is superior to the use of lower levels of anticoagulation."
+        },
+        {
+            "parent": 6,
+            "text": "The SPAF III study31compared the effects of combined fixed-dose warfarin and aspirin (goal INR of 1.2 to 1.5) with the effects of warfarin titrated to an INR of 2 to 3. The study was discontinued after a mean follow-up period of 1.1 years because of the occurrence of significantly fewer events in the adjusted-dose warfarin group (7.9 percent per year) compared with the warfarin and aspirin group (1.9 percent per year). This reduction in events was associated with similar major bleeding rates (2.1 percent for adjusted-dose warfarin and 2.4 percent for combination therapy). Interestingly, in the adjusted-dose group, the INR was greater than 3 in seven of the 12 major bleeding events."
+        },
+        {
+            "parent": 7,
+            "text": "In determining whether to treat a patient with warfarin, one of the major concerns is the risk of potential drug interactions (Table 3).32,33Drug interactions of varying severity have been identified with warfarin therapy. In most instances, the interacting drugs either inhibit or induce warfarin metabolism. These types of interactions are easily managed when the medications are for the treatment of chronic diseases. In such circumstances, close INR monitoring is required during the initiation or discontinuation of the medications."
+        },
+        {
+            "parent": 7,
+            "text": "Often, the interacting drugs that pose the greatest problem are those used for short-term indications. Antibiotics are a common example. When interactions occur, close monitoring or the use of alternative antimicrobial agents is appropriate."
+        },
+        {
+            "parent": 8,
+            "text": "Warfarin is more likely to be used safely by a patient who is aware of the potential for drug interactions, understands the rationale for monitoring and can identify the symptoms of warfarin toxicity early. Patient instruction booklets in English and other languages are available from several sources. Du Pont Pharma (1-800-COUMADIN) provides literature for patients, and Barr Laboratories, Inc. (1-888-WARFARIN) has prepared information booklets for both patients and physicians. Most local pharmacies supply similar information to patients."
+        },
+        {
+            "parent": 9,
+            "text": "When used appropriately, warfarin is a highly effective and safe medication. To maximize the safety of warfarin therapy, the physician should do the following:"
+        },
+        {
+            "parent": 9,
+            "text": "Identify the therapeutic goal.Estimate the chronic maintenance dosage based on the presence of factors associated with hyperresponsiveness or hyporesponsiveness, such as concomitant drug use, liver disease and poor nutrition.Initiate therapy at the patient's anticipated maintenance dosage. Loading doses are not necessary.Make any necessary adjustments by looking at the cumulative weekly dosage and adding or subtracting 10 to 20 percent evenly over the week.Remain alert to potential warfarin-drug interactions."
+        }
+    ],
+    "locked": false
+}

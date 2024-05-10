@@ -1,0 +1,127 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0701/p33.html#afp20090701p33-f1",
+    "title": "Acute Stroke Diagnosis | AAFP",
+    "author": "KENNETH S. YEW, CAPT, MC, USN, AND ERIC CHENG, MD, MS",
+    "doi": "Am Fam Physician.2009;80(1):33-40",
+    "abstract": "Stroke can be categorized as ischemic stroke, intracerebral hemorrhage, and subarachnoid hemorrhage. Awakening with or experiencing the abrupt onset of focal neurologic deficits is the hallmark of ischemic stroke diagnosis. The most common presenting symptoms for ischemic stroke are difficulty with speech and weakness on one half of the body. Many stroke mimics exist; two of the most common are a postictal seizure and hypoglycemia. Taking a detailed history and performing ancillary testing will usually exclude stroke mimics. Neuroimaging is required to differentiate ischemic stroke from intracerebral hemorrhage, as well as to diagnose entities other than stroke. The choice of neuroimaging depends on its availability, eligibility for acute stroke interventions, and the presence of patient contraindications. Subarachnoid hemorrhage presents most commonly with severe headache and may require analysis of cerebrospinal fluid when neuroimaging is not definitive. Public education of common presenting stroke symptoms is needed for patients to activate emergency medical services as soon as possible after the onset of stroke.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Classifying Stroke",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "VALIDATED DECISION SUPPORT TOOLS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "STROKE MIMICS AND DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Diagnostic Tests and Imaging",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Teaching Patients to Recognize Stroke Symptoms",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The symptoms of stroke can sometimes be misleading and misinterpreted by physicians and patients. Family physicians are on the front line in their communities to recognize and manage acute cerebrovascular diseases. Accurate and prompt evaluation of cerebrovascular disease will increase eligibility of patients to receive acute therapy for stroke."
+        },
+        {
+            "parent": 0,
+            "text": "Stroke can be subclassified by pathologic process and the vascular distribution affected. Defining the overall pathologic process is critical for decisions regarding thrombolysis, inpatient therapy, and prognosis. In the United States, 87 percent of all strokes are ischemic secondary to large-artery atherosclerosis, cardioembolism, small-vessel occlusion, and other or undetermined causes.1,2The remaining 13 percent of strokes are hemorrhagic in intracerebral or subarachnoid locations.1,2A common means of subclassifying ischemic stroke is by vascular distribution. Clinical determination of the affected vascular territory may aid rational evaluation and individualization of therapy.3However, this type of subclassification has only fair to good interob-server agreement among stroke experts.4,5Table 1lists stroke subtypes by vascular distribution.6The cause of subarachnoid hemorrhage is attributed to an aneurysm in approximately 85 percent of cases,7with rarer causes accounting for the rest."
+        },
+        {
+            "parent": 2,
+            "text": "History and physical examination remain the pillars of diagnosing stroke. The most common historical feature of an ischemic stroke is its acute onset; the most common physical findings of ischemic stroke are focal weakness and speech disturbance.8The most common and reliable symptoms and signs of ischemic stroke are listed inTable 2.4,8,9Primary care physicians practicing in an emergency setting had a 92 percent sensitivity for diagnosis of stroke and transient ischemic attack (TIA) in a community-based study of diagnostic accuracy.10The overall accuracy of a physician's diagnosis of stroke is moderate to good, with lower reliability in less experienced or less confident examiners.4"
+        },
+        {
+            "parent": 2,
+            "text": "Physicians need to quickly assess persons with suspected acute ischemic stroke because acute therapies for stroke have a narrower time window of effectiveness than therapies for myocardial infarction. The National Institutes of Health Stroke Scale (NIHSS11,12; available athttp://www.ninds.nih.gov/doctors/NIH_Stroke_Scale.pdf) was designed to be completed in five to eight minutes."
+        },
+        {
+            "parent": 2,
+            "text": "The exact time of symptom onset is critical for determining eligibility for thrombolysis. However, a community-based study found that examiners agreed to the minute less than 50 percent of the time,4suggesting the need to corroborate time of symptom onset with a witness or known event."
+        },
+        {
+            "parent": 2,
+            "text": "Reliably distinguishing between intracerebral hemorrhage and ischemic stroke can only be done through neuroimaging. Both entities are characterized by acute onset of focal symptoms. Persons with intracerebral hemorrhage may have gradual worsening of symptoms after the abrupt onset, reflecting an increasing size of the hematoma. Persons with hemorrhage also may have a decreased level of consciousness."
+        },
+        {
+            "parent": 2,
+            "text": "Subarachnoid hemorrhage presents differently from intracerebral hemorrhage and ischemic stroke. The most common symptom described by the patient is the “worst headache of my life.” Symptoms may also include vomiting, seizures, meningismus, and a decreased level of consciousness.13Persons with subarachnoid hemorrhage may not exhibit focal signs because the bleeding occurs outside the brain, except when an aneurysm bleeds into a focal location, such as a posterior communication artery aneurysm compressing the third cranial nerve."
+        },
+        {
+            "parent": 3,
+            "text": "The NIHSS is one of the most common classifications of early stroke severity12; it provides a structured neurologic examination that has diagnostic11,14and prognostic value.11Current guidelines recommend the use of the NIHSS,11but no trial data exist to show its use improves outcomes. In general, combinations of signs and symptoms are more useful than single findings.Table 3describes operating characteristics for several validated stroke diagnostic tools.8,9,15–19Common signs across stroke diagnostic tools include acute onset of unilateral weakness or numbness and speech disturbance.8,15–19One of the validated instruments, the Recognition of Stroke in the Emergency Room (ROSIER) scale, adds a visual field defect on examination.8Most of these tools were designed for prehospital care, but emergency department physicians using the ROSIER scale correctly classified 90 percent of all patients in a community-based validation study of consecutive patients seen in the United Kingdom.8Physicians using ROSIER missed patients with ischemic posterior or lacunar lesions, which emphasizes the need for an examination more thorough than a scale alone. No head-to-head trials have been performed to demonstrate improved patient outcomes using a validated stroke scale versus global clinical impression. In practice, because most of these tools demonstrate good clinical accuracy, a physician should become familiar with one of them to help confirm their overall clinical impression of stroke."
+        },
+        {
+            "parent": 4,
+            "text": "Physicians need to consider a broad differential diagnosis when evaluating a patient presenting with a suspected stroke(Table 4).8,11,14,20–24The two most common stroke mimics are hypoglycemia and seizure.8,14,20,21"
+        },
+        {
+            "parent": 4,
+            "text": "One potential area of confusion is among patients presenting with a symptom of dizziness. In a population-based study of adults older than 44 years presenting to the emergency department or directly admitted to the hospital with a principal symptom of dizziness, only 0.7 percent of patients with isolated dizziness symptoms had an ultimate diagnosis of stroke or TIA.23Vertigo from a central cause such as stroke is normally associated with nystagmus or other cerebellar signs."
+        },
+        {
+            "parent": 4,
+            "text": "The rates of overdiagnosis of stroke in studies of consecutive patients vary from 19 to 31 percent.14,20,21Known history of cognitive impairment,14non-neurologic abnormal physical findings,14and decreased level of consciousness20are independent predictors of a stroke mimic in patients with suspected stroke. Patient factors such as confusion, aphasia, and presentation more than 48 hours after the event also make diagnostic information less reliable.14"
+        },
+        {
+            "parent": 4,
+            "text": "Duration of symptoms distinguishes stroke from TIA, which has been traditionally defined as a focal ischemic neurologic event resolving within 24 hours. Subsequent observations have shown that a majority of TIAs resolve within one hour.25The National Institute of Neurological Disorders and Stroke trial found that patients treated with placebo who did not have resolution in one hour or improvement in three hours had only a 2 percent chance of resolving in 24 hours.26"
+        },
+        {
+            "parent": 5,
+            "text": "Figure 1presents an algorithm for the diagnosis of acute stroke.2,4,11Table 5lists initial diagnostic studies recommended by current guidelines for patients with suspected stroke.11These studies help exclude stroke mimics, uncover critical comorbidities (e.g., myocardial ischemia), and establish the safety of thrombolytic therapy."
+        },
+        {
+            "parent": 5,
+            "text": "The primary purpose of neuroimaging in a patient with suspected ischemic stroke is to rule out the presence of other types of central nervous system lesions and to distinguish between ischemic and hemorrhagic stroke.Figure 2shows examples of intracerebral and sub-arachnoid hemorrhages on computed tomography (CT) scans. CT scans are considered sufficiently sensitive for detecting mass lesions, such as a brain mass or abscess, as well as detecting acute hemorrhage. However, CT scans may not be sensitive enough to detect an ischemic stroke, especially if it is small, acute, or in the posterior fossa (i.e., brainstem and cerebellum areas).27The purpose of a CT scan is to rule out certain stroke mimics and detect hemorrhage, not necessarily to rule in the diagnosis of ischemic stroke. In other words, a normal CT scan does not rule out the diagnosis of ischemic stroke."
+        },
+        {
+            "parent": 5,
+            "text": "Multimodal magnetic resonance imaging (MRI) sequences, particularly diffusion-weighted imaging, have better resolution than CT; therefore, they have a greater sensitivity for detecting acute ischemic stroke and show ischemic lesions in about one half of all cases of TIA.28Recent studies also indicate that MRI sequences (particularly gradient-recalled echo and diffusion-weighted imaging sequences) are as sensitive as CT scans for detecting intracerebral hemorrhagic stroke.29,30Figure 3shows the head CT and diffusion-weighted MRI images of a patient with a prior stroke and a new acute stroke.Figure 4depicts the time course of resolution of ischemic changes on diffusion-weighted MRI.28"
+        },
+        {
+            "parent": 5,
+            "text": "Although MRI scans have better resolution than CT scans, MRI scanners are less available and more expensive than CT scanners. Also, MRI scans cannot be performed on persons with certain types of implanted devices (e.g., pacemakers) or in persons with claustrophobia. If a patient is within the time window of acute stroke intervention, guidelines recommend that an MRI scan can be ordered if it can be obtained as quickly as a CT scan; if not, then CT is the recommended test because acute stroke treatments should not wait for detailed imaging when the history and physical are consistent for acute stroke.11Online Table Acompares CT and MRI in the setting of acute stroke.11,26Guidelines recommend that whichever imaging modality is performed, it should be interpreted by a physician with expertise in reading brain imaging studies.11"
+        },
+        {
+            "parent": 5,
+            "text": "Unlike ischemic stroke and intracerebral hemorrhage, diagnosing subarachnoid hemorrhage requires a different diagnostic algorithm. The frequency of mis-diagnosis for subarachnoid hemorrhage can be as high as 50 percent on initial presentation.13Although MRI can detect subarachnoid hemorrhage, CT is still considered the imaging test of choice for persons suspected to have subarachnoid hemorrhage.31CT scans have a 95 to 100 percent sensitivity of detecting subarachnoid blood in the first 12 hours; however, unlike ischemic stroke, sensitivity greatly decreases over time as the subarachnoid blood is cleared.13The sensitivity of subarachnoid hemorrhage detection by CT drops to about 50 percent after one week, and is not detectable by CT after a period of about two to three weeks.13,31"
+        },
+        {
+            "parent": 5,
+            "text": "Persons with suspected subarachnoid hemorrhage and a normal CT scan should undergo a lumbar puncture to detect bilirubin. Red blood cells can be found in a sub-arachnoid hemorrhage and a traumatic tap. Distinguishing between these two entities requires recognition that only within the human body do red blood cells break down into bilirubin. Red blood cells in cerebrospinal fluid collected from a traumatic tap will break down into oxyhemoglobin, but not into bilirubin. Because the breakdown of red blood cells can take up to 12 hours, guidelines recommend that the lumbar puncture should wait until 12 hours after the initial onset of symptoms.32Bilirubin will turn fluid yellow (xanthochromia), but visual inspection alone is not considered sufficiently reliable.32Therefore, all specimens should undergo spectrophotometry analysis to detect bilirubin, which can be detected as long as two weeks after the initial onset of symptoms. If subarachnoid hemorrhage is detected, the patient should immediately undergo angiography (CT angiography, MRI angiography, or catheter angiography) to look for an aneurysm."
+        },
+        {
+            "parent": 6,
+            "text": "Guidelines recommend that persons having an acute stroke activate the emergency medical system by calling 9-1-1.11However, patients often do not activate the emergency medical system, or do not activate it immediately. Such behavior accounts for up to two thirds of the delay to hospital admission.33Therefore, patients commonly present outside the time window for thrombolytic therapy. Patient and family sense of urgency for stroke symptoms is associated with greater use of emergency medical systems,34which results in shorter times to evaluation and admission.35,36"
+        },
+        {
+            "parent": 6,
+            "text": "Numerous surveys have shown that there is considerable room for improvement in knowledge of stroke in the general population.37–39When persons are asked to answer “yes” or “no” as to whether a described symptom can be a sign of a stroke, they are correct about 60 to 80 percent of the time.37However, when persons are asked open-ended questions to name stroke warning signs, most cannot name more than one warning sign.37To improve public awareness of stroke warning signs, numerous organizations have embarked on public education campaigns.40–41Family physicians are well placed to emphasize these messages in their practices."
+        }
+    ],
+    "locked": false
+}

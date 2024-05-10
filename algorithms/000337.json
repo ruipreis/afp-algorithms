@@ -1,0 +1,187 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0701/p34.html#afp20140701p34-f1",
+    "title": "Diagnosis and Management of Ectopic Pregnancy | AAFP",
+    "author": "JOSHUA H. BARASH, MD, EDWARD M. BUCHANAN, MD, AND CHRISTINA HILLSON, MD",
+    "doi": "Am Fam Physician.2014;90(1):34-40",
+    "abstract": "Ectopic pregnancy affects 1% to 2% of all pregnancies and is responsible for 9% of pregnancy-related deaths in the United States. When a pregnant patient presents with first-trimester bleeding or abdominal pain, physicians should consider ectopic pregnancy as a possible cause. The patient history, physical examination, and imaging with transvaginal ultrasonography can usually confirm the diagnosis. When ultrasonography does not clearly identify the pregnancy location, the physician must determine whether the pregnancy is intrauterine (either viable or failing) or ectopic. Use of the beta subunit of human chorionic gonadotropin (β-hCG) discriminatory level, the β-hCG value above which an intrauterine pregnancy should be visualized by transvaginal ultrasonography, may be helpful. Failure to visualize an intrauterine pregnancy when β-hCG is above the discriminatory level suggests ectopic pregnancy. In addition to single measurements of β-hCG levels, serial levels can be monitored to detect changes. β-hCG values in approximately 99% of viable intrauterine pregnancies increase by about 50% in 48 hours. The remaining 1% of patients have a slower rate of increase; these patients may have pregnancies that are misdiagnosed as nonviable intrauterine or ectopic. After an ectopic pregnancy has been confirmed, treatment options include medical, surgical, or expectant management. For patients who are medically unstable or experiencing life-threatening hemorrhage, a surgical approach is indicated. For others, management should be based on patient preference after discussion of the risks, benefits, and monitoring requirements of all approaches.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "LAPAROSCOPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "MEDICAL TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "EXPECTANT MANAGEMENT",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Ectopic pregnancy, a high-risk condition in which a fertilized ovum implants outside the uterine cavity, affects 1% to 2% of all pregnancies and poses a significant threat to women of reproductive age. It is the leading cause of maternal death during the first trimester of pregnancy and is responsible for 9% of pregnancy-related deaths in the United States.1,2"
+        },
+        {
+            "parent": -1,
+            "text": "Recent advances in diagnosis and treatment have led to a 50% reduction in mortality rates since the 1980s.1Earlier detection has played a vital role in this reduction, and limited access to care is strongly associated with worse outcomes.1After a definitive diagnosis has been made, treatment options include medical, surgical, or expectant management.3"
+        },
+        {
+            "parent": 0,
+            "text": "Transport of the fertilized ovum through the fallopian tube is controlled by a combination of smooth muscle contractions and ciliary beating.4Conditions that damage the integrity of the tube and impair these functions are risk factors for ectopic pregnancy(Table 1).5–8"
+        },
+        {
+            "parent": 2,
+            "text": "The most common symptoms of an unruptured ectopic pregnancy are first-trimester bleeding and abdominal pain. Although these also may occur in intrauterine pregnancy and spontaneous abortion, physicians must consider ectopic pregnancy when a pregnant woman presents with these symptoms. The clinical history should focus on pregnancy dating, the onset and intensity of symptoms, and a review of risk factors for ectopic pregnancy. These details help determine the best diagnostic course, as well as the speed with which the workup should proceed. For example, dating is important because a physician may wish to order ultrasonography in a patient with a suspected ectopic pregnancy at eight to 10 weeks' gestation in an attempt to identify the location of the pregnancy. Conversely, ultrasonography is less likely to be useful for confirming pregnancy location at four weeks' gestation. Severity of symptoms should be noted; with more severe bleeding, hemodynamic stability is a concern, and surgical treatment may be warranted."
+        },
+        {
+            "parent": 2,
+            "text": "It is also important to remember that a woman may present with abdominal pain without knowledge of her pregnancy status. For this reason, any woman of childbearing age who presents with abdominal pain or abnormal vaginal bleeding should be evaluated for pregnancy as part of the initial examination."
+        },
+        {
+            "parent": 3,
+            "text": "Physical examination should be used to detect peritoneal signs, such as rebound tenderness and cervical motion tenderness, which indicate the possibility of hemoperitoneum. Abdominal pain with peritoneal signs in a pregnant patient should prompt an immediate evaluation by a gynecologist to determine the need for emergency surgery."
+        },
+        {
+            "parent": 3,
+            "text": "Inspection of the cervical os for bleeding and evidence of products of conception in the vagina helps differentiate spontaneous abortion from ectopic pregnancy. Pathologic evaluation of tissue retrieved from the vagina is critical to avoid misdiagnosing a decidual cast as products of conception."
+        },
+        {
+            "parent": 4,
+            "text": "Transvaginal ultrasonography is the recommended imaging technique for patients with suspected ectopic pregnancy. It is preferred over transabdominal ultrasonography because the transvaginal view allows for direct visualization of an ectopic mass, whereas the transabdominal view does not.9"
+        },
+        {
+            "parent": 4,
+            "text": "By 5.5 weeks' gestation, an intrauterine pregnancy should be identifiable by ultrasonography as a gestational sac containing a yolk sac.10Visualizing these structures within the uterus effectively rules out an ectopic pregnancy, given that the incidence of heterotopic pregnancy (an ectopic and intrauterine gestation occurring simultaneously) is only about one in 4,000 spontaneous conceptions.11"
+        },
+        {
+            "parent": 4,
+            "text": "When initial transvaginal ultrasonography directly visualizes a gestational sac or embryonic pole in an ectopic location, treatment for the ectopic pregnancy should be initiated. The diagnostic challenge occurs when ultrasonography does not identify a pregnancy as intrauterine (either viable or failing) or ectopic, resulting in the diagnosis of pregnancy of unknown location. The approach to a pregnancy of unknown location requires a balance of benefits and risks(Figure 12,12,13). Early treatment reduces morbidity from a ruptured ectopic pregnancy, but risks overtreating an evolving spontaneous abortion or interrupting a viable pregnancy. Conversely, longer periods of observation improve the ability to determine the location, but this may come at the expense of morbidity from a later diagnosis of ectopic pregnancy. This balance of objectives, with input from the patient, should guide the diagnostic approach."
+        },
+        {
+            "parent": 5,
+            "text": "β-hCG Discriminatory Level. When transvaginal ultrasonography is nondiagnostic, the beta subunit of human chorionic gonadotropin (β-hCG) discriminatory level may be useful. This is the value above which an intrauterine pregnancy should be visualized by ultrasonography. In a patient with a β-hCG value above this level, failure to visualize an intrauterine pregnancy strongly suggests ectopic pregnancy."
+        },
+        {
+            "parent": 5,
+            "text": "The discriminatory β-hCG level used at different institutions varies, although 1,500 to 2,000 mIU per mL (1,500 to 2,000 IU per L) is typical. It also depends on sonographer experience and patient characteristics, such as body habitus and the presence of significant abdominal bleeding or fibroids.14–16In general, as the β-hCG level increases, the specificity of ultrasonography for detecting a viable intrauterine pregnancy also increases. Use of the β-hCG discriminatory level is not perfect, however, because cases of viable intrauterine pregnancy not detected by ultrasonography have been reported with β-hCG levels up to 4,300 mIU per mL (4,300 IU per L).17"
+        },
+        {
+            "parent": 5,
+            "text": "Serial β-hCG Levels. Serial measurements of β-hCG can be used to evaluate a pregnancy of unknown location. Most viable first-trimester intrauterine pregnancies (99%) have β-hCG values that increase by about 50% in 48 hours.18Failure to increase at this rate suggests an ectopic pregnancy or a nonviable intrauterine pregnancy. However, 1% of patients with viable intrauterine pregnancy have a slower rate of increase.19These patients often receive a misdiagnosis of nonviable intrauterine or ectopic pregnancy. Likewise, the β-hCG level in about 20% of ectopic pregnancies increases by more than 50% over 48 hours(Table 2).19"
+        },
+        {
+            "parent": 5,
+            "text": "This uncertainty highlights the need to consider all available data when determining the location of a pregnancy and, in particular, to perform serial ultrasonography to locate a pregnancy of unknown location as β-hCG levels continue to increase. If β-hCG levels drop in a patient evaluated for pregnancy of unknown location, suggesting an ectopic or nonviable intrauterine pregnancy, it is important to monitor the level until it is undetectable, because ruptured ectopic pregnancies have been documented at very low or falling β-hCG levels.2,20Documenting an undetectable β-hCG level is the only way to confirm complete resolution of the pregnancy, whether ectopic or intrauterine."
+        },
+        {
+            "parent": 5,
+            "text": "Blood Type and Rh Status. A blood type and screen should be obtained on all women with suspected ectopic pregnancy to determine Rh status. All women with Rh-negative results who experience bleeding should receive RhO(D) immune globulin (RhoGam), regardless of the final outcome of the pregnancy, to protect against development of Rh alloimmunization."
+        },
+        {
+            "parent": 6,
+            "text": "In the absence of major risk factors or concerning physical findings, the location of a pregnancy should be determined within seven to 10 days. This is enough time to trend several β-hCG levels and perform ultrasonography. If the diagnosis is still uncertain, diagnostic laparoscopy should be considered. In high-risk situations, such as in a woman with a previous ectopic pregnancy, earlier diagnostic laparoscopy is often appropriate."
+        },
+        {
+            "parent": 7,
+            "text": "After a definitive diagnosis has been made, treatment options include methotrexate therapy, open or laparoscopic surgery, or expectant management. For patients who are medically unstable or experiencing life-threatening hemorrhage, immediate surgical treatment is indicated. For others, the choice of therapy should be based on patient preference after discussion of the risks, benefits, and monitoring requirements of all approaches.2,3,16,19"
+        },
+        {
+            "parent": 7,
+            "text": "A 2007 Cochrane review found no difference in success rates between laparoscopic salpingostomy and medical treatment with systemic methotrexate, as well as no differences in tubal patency and subsequent fertility rates.3An economic comparison of these options found a cost savings with systemic methotrexate if a confirmatory laparoscopic procedure was not performed and if the initial β-hCG level was less than 1,500 mIU per mL.21"
+        },
+        {
+            "parent": 8,
+            "text": "Medical treatment is an option when ectopic pregnancy has been diagnosed with ultrasonography and β-hCG levels, without need for laparoscopy. Medical management is cost-effective and avoids the risk of morbidity associated with surgery and anesthesia.22"
+        },
+        {
+            "parent": 8,
+            "text": "Methotrexate, a folic acid antagonist that inhibits DNA synthesis and cell replication, was first used to treat ectopic pregnancy in 1982 and is now the agent most commonly used for medical treatment.23,24The mechanism of action is to selectively kill cytotrophoblasts (the rapidly dividing cells at the fallopian tube implantation site), which the body then spontaneously resorbs.2"
+        },
+        {
+            "parent": 8,
+            "text": "Patient Selection. Patient selection is important when medical treatment is used for ectopic pregnancy.12Common predictors of treatment failure with methotrexate include a gestational sac larger than 3.5 cm, the presence of embryonic cardiac activity, the presence of free blood in the peritoneum, a high progesterone level, and a high initial β-hCG level.16,25Of these, β-hCG levels are most predictive of treatment failure; success rates decrease as the initial β-hCG concentration increases. Although there is no absolute β-hCG level at which medical management is contraindicated, a 2012 study found that the treatment failure rate approaches 40% when the initial β-hCG level is greater than 2,000 mIU per mL.26For this reason, some experts recommend that patients with initial β-hCG levels greater than 2,000 mIU per mL be offered surgical rather than medical treatment(Table 3).26"
+        },
+        {
+            "parent": 8,
+            "text": "Methotrexate is contraindicated in patients with a variety of conditions(Table 416), including those with evidence of immune system compromise, damage to organs that metabolize methotrexate (liver and kidneys), or medical conditions that could be exacerbated by treatment, such as active peptic ulcer disease or severe asthma.16,27For these reasons, women who are being considered for methotrexate treatment should be screened with a complete blood count, serum creatinine level measurement, and liver and kidney function tests, in addition to a β-hCG level measurement. Patients must also be hemodynamically stable and willing to comply with follow-up surveillance after treatment."
+        },
+        {
+            "parent": 8,
+            "text": "Regimens. There have been several treatment protocols for methotrexate therapy in ectopic pregnancy. As these protocols have evolved, trials have involved single-dose, two-dose, and multidose regimens.3At this point, the single-dose regimen is preferred because it has a lower rate of adverse effects, does not require folinic acid rescue, involves less frequent monitoring, and is cost-effective. Details of the single-dose regimen are outlined inTable 5.12,16,28"
+        },
+        {
+            "parent": 8,
+            "text": "Adverse Effects. Because methotrexate exerts its greatest effect on rapidly dividing cells, gastrointestinal adverse effects, such as gastric pain, nausea, vomiting, and stomatitis, are the most common. Other rare adverse effects include severe neutropenia, reversible alopecia, and pneumonitis.16Lower abdominal pain often occurs several days after treatment. At times, the pain may be severe. This pain is thought to be the result of tubal abortion or hematoma formation with distention of the fallopian tube.29Immediate surgery is mandated if there is any evidence of tubal rupture, as indicated by hemodynamic instability, falling hemoglobin levels, or visualization on ultrasonography.2"
+        },
+        {
+            "parent": 8,
+            "text": "Follow-up. After methotrexate administration, the β-hCG level should decrease by at least 15% from day 4 to day 7 after injection. However, it is not uncommon for the β-hCG level to initially plateau or increase before it begins to decrease. This is caused by the continued production of β-hCG from syncytiotrophoblasts, despite destruction of the cytotrophoblasts.30If the β-hCG level does not decrease by at least 15% from day 4 to day 7 after injection, or if it plateaus or increases after the first week following injection, treatment failure must be assumed. In this case, additional methotrexate administration or surgical intervention is required.16After the 15% decrease occurs, β-hCG levels should be monitored weekly until they reach zero. This takes five weeks on average, but may take up to seven weeks.27"
+        },
+        {
+            "parent": 9,
+            "text": "Surgical options include salpingectomy or salpingostomy, performed by laparoscopy or laparotomy. Laparotomy is reserved for patients with extensive intraperitoneal bleeding, intravascular compromise, or poor visualization of the pelvis at the time of laparoscopy.19"
+        },
+        {
+            "parent": 9,
+            "text": "For patients wishing to preserve future fertility, salpingostomy is preferred.2However, salpingostomy may result in inadequate evacuation of the products of conception and a recurrence of symptoms.31Therefore, after a patient undergoes salpingostomy, it is important check the β-hCG level on a weekly basis to ensure that it reaches zero.32,33"
+        },
+        {
+            "parent": 10,
+            "text": "Expectant management is an alternative for patients with low and decreasing β-hCG levels, no evidence of an ectopic mass visualized by transvaginal ultrasonography, and minimal symptoms.34A recently published randomized controlled trial found that expectant management is an alternative to treatment with systemic methotrexate in a single-dose regimen, with no difference in primary treatment success rate and no serious adverse effects.35"
+        },
+        {
+            "parent": 10,
+            "text": "When opting for a trial of expectant management, the patient must receive extensive counseling on the risk of tubal rupture and the need for close surveillance. Because there is a risk of tubal rupture even with low or decreasing β-hCG levels,20measurements should be obtained every 48 hours to confirm decrease. After the decrease is confirmed, levels should be measured weekly until they reach zero. No specific rate of decrease is considered normal, and if the patient is asymptomatic, expectant management may continue as long as the decrease continues (even if gradual) or temporarily plateaus. Expectant management should be terminated if the patient experiences increasing abdominal pain or if the β-hCG level increases. Further research is needed before expectant management can be routinely recommended as a treatment for ectopic pregnancy."
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources: We used the following key words in researching our topic: pregnancy, ectopic, risk factors, diagnosis, ultrasound, β-hCG, treatment, methotrexate. Using these keywords, we accessed the following data sources: Cochrane Database of Systematic Reviews, National Guideline Clearinghouse, Agency for Healthcare Research and Quality Evidence Reports, U.S. Preventive Services Task Force, EBM Online, and Essential Evidence Plus. We then focused our search on original research, recent references, meta-analyses, and seminal works. Search dates: January 2012 and February 2014."
+        }
+    ],
+    "locked": false
+}

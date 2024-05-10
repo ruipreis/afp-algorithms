@@ -1,0 +1,183 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0715/p82.html#afp20140715p82-f1",
+    "title": "Evaluation and Treatment of Constipation in Children and Adolescents | AAFP",
+    "author": "SAMUEL NURKO, MD, AND LORI A. ZIMMERMAN, MD",
+    "doi": "Am Fam Physician.2014;90(2):82-90",
+    "abstract": "Childhood constipation is common and almost always functional without an organic etiology. Stool retention can lead to fecal incontinence in some patients. Often, a medical history and physical examination are sufficient to diagnose functional constipation. Further evaluation for Hirschsprung disease, a spinal cord abnormality, or a metabolic disorder may be warranted in a child with red flags, such as onset before one month of age, delayed passage of meconium after birth, failure to thrive, explosive stools, and severe abdominal distension. Successful therapy requires prevention and treatment of fecal impaction, with oral laxatives or rectal therapies. Polyethylene glycol–based solutions have become the mainstay of therapy, although other options, such as other osmotic or stimulant laxatives, are available. An increase in dietary fiber may improve the likelihood that laxatives can be discontinued in the future. Education is equally important as medical therapy and should include counseling families to recognize withholding behaviors; to use behavior interventions, such as regular toileting and reward systems; and to expect a chronic course with prolonged therapy, frequent relapses, and a need for close follow-up. Referral to a subspecialist is recommended only when there is concern for organic disease or when the constipation persists despite adequate therapy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Normal Defecation Patterns",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Etiology and Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Fecal Incontinence",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Clinical Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "YOUNG INFANTS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OLDER CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "EDUCATION AND BEHAVIOR MODIFICATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "DIETARY CHANGES",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "DISIMPACTION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "MAINTENANCE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Long-Term Prognosis",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Constipation is one of the most common chronic disorders of childhood, affecting 1% to 30% of children worldwide.1Constipation is responsible for 3% of all primary care visits for children and 10% to 25% of pediatric gastroenterology visits.2Children with constipation cost the health care system three times as much as children without constipation,3and the negative effect on quality of life often persists into adulthood.4"
+        },
+        {
+            "parent": 0,
+            "text": "The Rome III criteria are the most accepted criteria for diagnosing childhood constipation(Table 1).5,6However, the time duration does not need to be fulfilled to start therapy because there is evidence that early treatment favorably affects outcome.2"
+        },
+        {
+            "parent": 1,
+            "text": "Parents often worry that their child's bowel movements are too infrequent. The number of bowel movements a child has in a day decreases with age and reaches adult frequencies during the preschool years.7,8An infant averages three to four stools a day in the first week of life, two stools a day later in infancy and the toddler years, and once a day to every other day after the preschool years.9Many healthy breastfed infants go several days or longer without a bowel movement.2Thus, less frequent defecation patterns may be normal and must be considered in the context of stool caliber, associated symptoms, and physical examination findings."
+        },
+        {
+            "parent": 2,
+            "text": "Outside of the neonatal period, childhood constipation is usually functional (i.e., there is no evidence of an organic condition).2,10Functional constipation is most commonly caused by painful bowel movements that prompt the child to voluntarily withhold stool. To avoid the passage of another painful bowel movement, the child will contract the anal sphincter or gluteal muscles by stiffening his or her body, hiding in a corner, rocking back and forth, or fidgeting with each urge to defecate. Parents often confuse these withholding behaviors as straining to defecate. Withholding of stool can lead to prolonged fecal stasis in the colon with reabsorption of fluid, causing the stool to become harder, larger, and more painful to pass. Over time, as the rectum stretches to accommodate the retained fecal mass, rectal sensation decreases, and fecal incontinence may develop. This cycle commonly coincides with toilet training, changes in routine or diet, stressful events, illness, or lack of accessible toilets, or occurs in a busy child who defers defecation."
+        },
+        {
+            "parent": 3,
+            "text": "Fecal incontinence is the voluntary or involuntary passage of feces in the underwear or in socially inappropriate places in a child with a developmental age of at least four years. It occurs in 1% to 4% of school-aged children and is almost always associated with underlying constipation.11Fecal incontinence may also be associated with urinary incontinence."
+        },
+        {
+            "parent": 3,
+            "text": "The pathophysiology of fecal incontinence is poorly understood. An interaction of behavioral and physiologic factors is thought to cause long-standing functional constipation with overflow incontinence.12Families may incorrectly confuse fecal incontinence for diarrhea or lack of attention. Fecal incontinence often improves when the stool retention is treated.13"
+        },
+        {
+            "parent": 4,
+            "text": "A history and physical examination are usually sufficient to distinguish functional constipation from constipation caused by an organic condition.2,10A medical history should include the family's definition of constipation and a careful review of the frequency, consistency, and size of stools; age at onset of symptoms; timing of meconium passage after birth; recent stressors; previous and active therapies; presence of withholding behaviors, pain, or bleeding with bowel movements; abdominal pain; fecal incontinence; and systemic symptoms(Table 2).2The presence of withholding behaviors supports the diagnosis of functional constipation. Further evaluation may be warranted in children with red flags that might suggest an organic etiology(Table 3).2"
+        },
+        {
+            "parent": 4,
+            "text": "Physical examination should include a review of growth parameters, an abdominal examination, an external examination of the perineum and perianal area, an evaluation of the thyroid and spine, and a neurologic evaluation for appropriate reflexes (cremasteric, anal wink, patellar). A digital examination of the anorectum is recommended to assess for perianal sensation, anal tone, rectum size, anal wink, and amount and consistency of stool in the rectum. However, in children with normal neonatal courses or clear withholding behaviors, or in whom trauma is suspected, the rectal examination may be deferred. A test for occult blood in the stool should be performed in all infants with constipation and in any child with constipation who has pain, failure to thrive, diarrhea, or a family history of colon cancer or polyps. The presence of a hard mass in the lower abdomen combined with a dilated rectum filled with hard stool indicates fecal impaction."
+        },
+        {
+            "parent": 4,
+            "text": "Abdominal radiography is of limited value in diagnosing chronic constipation because it lacks interobserver reliability and accuracy.2,14,15It should be reserved for specific clinical circumstances in which a rectal examination is unreasonable (e.g., in a child with a history of trauma) or the diagnosis is uncertain."
+        },
+        {
+            "parent": 5,
+            "text": "Table 4outlines the differential diagnosis of constipation in children and the recommended diagnostic evaluations.2The age of the patient must be carefully considered."
+        },
+        {
+            "parent": 6,
+            "text": "The likelihood of an organic etiology for constipation is relatively greater in infants younger than six months, and particularly in those younger than three months. Hirschsprung disease must be considered in infants with delayed passage of meconium (more than 48 hours after birth) or other red flags, even in the setting of normal findings on barium enema examination. Hirschsprung disease is the most common cause of lower intestinal obstruction in neonates. A delayed diagnosis can result in enterocolitis, a potentially fatal complication that causes fever; abdominal distension; and explosive, bloody diarrhea.16Patients with suspected Hirschsprung disease should be referred to a medical center with a pediatric gastroenterologist and surgeon for confirmatory testing with rectal suction biopsy."
+        },
+        {
+            "parent": 6,
+            "text": "If Hirschsprung disease is excluded in an infant with delayed passage of meconium, cystic fibrosis and other anatomic malformations should be considered. The physical examination of a young infant should assess the position and patency of the anus and include a neurologic examination to evaluate for congenital anomalies of the anus and spine (e.g., anteriorly displaced anus, anal stenosis, imperforate anus, spina bifida, tethered cord). Breastfed infants require special consideration because in the absence of red flags or other medical issues, they require no further workup for infrequent bowel movements."
+        },
+        {
+            "parent": 7,
+            "text": "Further evaluation is indicated in older children with red flags or with intractable constipation despite strict adherence to therapy. Laboratory studies may be performed to evaluate for systemic diseases, such as thyroid disease, other metabolic diseases, celiac disease, or lead toxicity. Motility studies (e.g., anorectal manometry) can assess for sphincter abnormalities, such as Hirschsprung disease or a nonrelaxing internal anal sphincter. Magnetic resonance imaging of the spine may be necessary to evaluate for a tethered cord, spinal cord tumor, or sacral agenesis.17A trial of a cow's milk–free diet may also be considered because constipation can be caused by intolerance to cow's milk, especially in young children with anal fissures.2,18"
+        },
+        {
+            "parent": 8,
+            "text": "The treatment of functional constipation requires parental education, behavior interventions, measures to ensure that bowel movements occur at normal intervals with good evacuation, close follow-up, and adjustment of medication and evaluation as necessary. Algorithms for the evaluation and management of constipation in infants and older children are presented inFigures 1and2.2,10,19"
+        },
+        {
+            "parent": 9,
+            "text": "Education is the first step in treatment. Educational materials for parents on constipation and fecal soiling are available athttp://www.gikids.org. It is important to explain that fecal incontinence occurs from involuntary overflow of stool and not from voluntary defiance. Behavior modification with regular toileting (for five to 10 minutes) after meals combined with a reward system is often helpful. Parents should be encouraged to maintain a positive and supportive attitude throughout treatment and expect gradual improvement with occasional relapses."
+        },
+        {
+            "parent": 9,
+            "text": "Although behavior modification and education are important, intensive behavior therapy does not seem to add to treatment success, except in rare cases in which the patient has underlying behavior problems.20Biofeedback has not been shown to be effective in children with functional constipation.2,21"
+        },
+        {
+            "parent": 10,
+            "text": "Dietary changes are often advised in children with constipation.21An increased intake of fluids and absorbable and nonabsorbable carbohydrates (e.g., sorbitol in prune, pear, and apple juice) can help soften stools, particularly in infants. The recommended dosage of prune juice for infants is 2 oz per day. It can be diluted with 2 oz of water for palatability. Studies have shown that children with constipation have a lower fiber intake than other children. An increased intake of dietary fiber may improve the likelihood that a child will be able to discontinue laxative therapies.22The addition of a probiotic (e.g.,LactobacillusGG) may be helpful in some children with functional constipation, although the studies are preliminary.23"
+        },
+        {
+            "parent": 11,
+            "text": "When fecal impaction is present, disimpaction with oral or rectal medication is required before initiation of maintenance therapy. Oral medications are less invasive but require more patient cooperation and may be slower to relieve symptoms. A number of therapies are available(Table 5).2,24–26The advent of polyethylene glycol–based solutions (Miralax) has changed the initial approach to constipation in children because they are effective, easy to administer, noninvasive, and well tolerated.27Rectal therapies and polyethylene glycol are similarly effective in the treatment of fecal impaction in children.28Although some evidence supports polyethylene glycol as first-line treatment, the overall data do not clearly demonstrate superiority of one laxative.29"
+        },
+        {
+            "parent": 12,
+            "text": "The goal of maintenance therapy is to avoid reaccumulation of stool by maintaining soft bowel movements, preferably occurring once a day. Given a robust placebo response, there is insufficient evidence to support the effectiveness of laxative therapies over placebo in the treatment of childhood constipation.30However, most studies show that the addition of laxatives is usually necessary and more effective than behavior modification alone.31Although the use of enemas has been advocated in the past, recent studies have shown that the addition of enemas to oral laxative regimens does not improve outcomes in children with severe constipation.32"
+        },
+        {
+            "parent": 12,
+            "text": "Table 6summarizes maintenance therapies.2,24–26Overall, polyethylene glycol achieves equal or better treatment success than other laxatives, such as lactulose or milk of magnesia,30,33,34although it may be associated with more episodes of fecal incontinence.27The dose of polyethylene glycol can be adjusted according to treatment response. Maintenance doses of medications need to be continued for several weeks to months after a regular bowel habit is established. Children who are toilet training should remain on laxatives until toilet training is well established."
+        },
+        {
+            "parent": 12,
+            "text": "Stimulant laxatives (e.g., bisacodyl [Dulcolax], sennosides) may be required in some children, although data on their use in children are limited. The lack of liquid formulations limits the practical use of stimulant laxatives in younger children. In the primary care setting, stimulant laxatives should be reserved for rescue therapy when an osmotic laxative is ineffective. Patients requiring constant administration of stimulant laxatives should be evaluated further."
+        },
+        {
+            "parent": 13,
+            "text": "Most children with functional constipation require prolonged treatment and have frequent relapses.19Studies have shown that only 60% of children with constipation achieve treatment success after one year of therapy. Children with fecal incontinence or who are younger than four years at onset of constipation are particularly at risk of poor long-term outcomes.35"
+        },
+        {
+            "parent": 14,
+            "text": "Referral to a pediatric gastroenterologist may be needed when a child with constipation has red flags for organic disease or the constipation is unresponsive to adequate therapy. Subspecialists may pursue newer medical therapies, such as lubiprostone (Amitiza), which acts on chloride channels in the intestine,36or onabotulinumtoxinA (Botox) injected into a nonrelaxing sphincter.37Surgical therapies, such as antegrade colonic enemas, have also been shown to improve continence in children with intractable constipation.38Motility testing often helps guide management in children with intractable constipation.19,39Although most children have functional constipation, it is important to reevaluate those who do not follow the expected course."
+        },
+        {
+            "parent": 14,
+            "text": "Data Sources: A PubMed search was completed using the keywords constipation, child, pediatric, functional constipation, and incontinence. Also searched were the Cochrane database, Essential Evidence Plus, and guidelines from the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the National Institute for Health and Care Excellence. Search dates: February 24, 2012, and October 2013."
+        }
+    ],
+    "locked": false
+}

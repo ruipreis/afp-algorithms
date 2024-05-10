@@ -1,0 +1,136 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/1115/p1186.html#afp20081115p1186-f6",
+    "title": "Pressure Ulcers: Prevention, Evaluation, and Management | AAFP",
+    "author": "DANIEL BLUESTEIN, MD, MS, AND ASHKAN JAVAHERI, MD",
+    "doi": "Am Fam Physician.2008;78(10):1186-1194",
+    "abstract": "A pressure ulcer is a localized injury to the skin or underlying tissue, usually over a bony prominence, as a result of unrelieved pressure. Predisposing factors are classified as intrinsic (e.g., limited mobility, poor nutrition, comorbidities, aging skin) or extrinsic (e.g., pressure, friction, shear, moisture). Prevention includes identifying at-risk persons and implementing specific prevention measures, such as following a patient repositioning schedule; keeping the head of the bed at the lowest safe elevation to prevent shear; using pressure-reducing surfaces; and assessing nutrition and providing supplementation, if needed. When an ulcer occurs, documentation of each ulcer (i.e., size, location, eschar and granulation tissue, exudate, odor, sinus tracts, undermining, and infection) and appropriate staging (I through IV) are essential to the wound assessment. Treatment involves management of local and distant infections, removal of necrotic tissue, maintenance of a moist environment for wound healing, and possibly surgery. Debridement is indicated when necrotic tissue is present. Urgent sharp debridement should be performed if advancing cellulitis or sepsis occurs. Mechanical, enzymatic, and autolytic debridement methods are nonurgent treatments. Wound cleansing, preferably with normal saline and appropriate dressings, is a mainstay of treatment for clean ulcers and after debridement. Bacterial load can be managed with cleansing. Topical antibiotics should be considered if there is no improvement in healing after 14 days. Systemic antibiotics are used in patients with advancing cellulitis, osteomyelitis, or systemic infection.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "RISK ASSESSMENT",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "INTERVENTIONS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Assessment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Nutritional Evaluation",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Complications",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Pressure ulcers, also called decubitus ulcers, bedsores, or pressure sores, range in severity from reddening of the skin to severe, deep craters with exposed muscle or bone. Pressure ulcers significantly threaten the well-being of patients with limited mobility. Although 70 percent of ulcers occur in persons older than 65 years,1younger patients with neurologic impairment or severe illness are also susceptible. Prevalence rates range from 4.7 to 32.1 percent in hospital settings2and from 8.5 to 22 percent in nursing homes.3"
+        },
+        {
+            "parent": 0,
+            "text": "Pressure ulcers are caused by unrelieved pressure, applied with great force over a short period (or with less force over a longer period), that disrupts blood supply to the capillary network, impeding blood flow and depriving tissues of oxygen and nutrients. This external pressure must be greater than arterial capillary pressure to lead to inflow impairment and resultant local ischemia and tissue damage. The most common sites for pressure ulcers are the sacrum, heels, ischial tuberosities, greater trochanters, and lateral malleoli."
+        },
+        {
+            "parent": 2,
+            "text": "Risk assessment begins by identifying risk factors and inspecting the skin. Risk factors for pressure ulcers are classified as intrinsic or extrinsic(Table 1).4Caregivers should be educated about risk assessment and prevention and should inspect patients often to prevent pressure ulcers or identify them at early stages. Risk assessment scales may further heighten awareness, but have limited predictive ability and no proven effect on pressure ulcer prevention.5The Braden Scale (Online Figure A) is the most commonly used tool for predicting pressure ulcer risk6(http://www.bradenscale.com/bradenscale.htm)."
+        },
+        {
+            "parent": 3,
+            "text": "Preventive measures should be used in at-risk patients. Pressure reduction to preserve microcirculation is a mainstay of preventive therapy. There is no evidence to determine an optimal patient repositioning schedule, and schedules may need to be determined empirically.7According to recommendations from the Agency for Health Care Policy and Research, patients who are bedridden should be repositioned every two hours.8To minimize shear, the head of the bed should not be elevated more than 30 degrees and should be maintained at the lowest degree of elevation needed to prevent other medical complications, such as aspiration and worsening congestive heart failure symptoms.7Some patients can reduce pressure by repositioning themselves using manual aids, such as a trapeze bar."
+        },
+        {
+            "parent": 3,
+            "text": "Pressure-reducing devices can reduce pressure or relieve pressure (i.e., lower tissue pressure to less than the capillary closing pressure of 32 mm Hg) and are classified as static (stationary) or dynamic.9Static devices include foam, water, gel, and air mattresses or mattress overlays. Dynamic devices, such as alternating pressure devices and low–air-loss and air-fluidized surfaces, use a power source to redistribute localized pressure. Dynamic devices are generally noisy and more expensive than static devices. Pressure-reducing surfaces lower ulcer incidence by 60 percent compared with standard hospital mattresses, although there is no clear difference among pressure-reducing devices.10,11The benefit of dynamic versus static surfaces is unclear. Dynamic surfaces should be considered if a patient cannot reposition him- or herself independently or if the patient has a poorly healing ulcer.7If there is less than 1 inch of material between the bed and pressure ulcer when feeling beneath the static surface, the device may not be effective and an alternative should be considered.7Other pressure-reducing devices include chair cushions and pillows, foam wedges, and materials that are placed between the knees or used to relieve heel pressure. Ring cushions can cause pressure points and should not be used."
+        },
+        {
+            "parent": 3,
+            "text": "Other preventive interventions include nutritional and skin care assessments. Although poor nutrition is associated with pressure ulcers, a causal relationship has not been established.12One large trial has shown that oral nutritional supplementation reduces risk, but several other trials have not.13A Cochrane review concluded that there is insufficient evidence on the relationship between nutrition and pressure ulcer prevention.14A more recent meta-analysis concluded that dietitian consultation and the use of skin moisturizers are reasonable preventive measures.11However, the role of bactericidal and growth factor preparations is unclear. Continence care programs have not proved successful.15Despite proper risk assessment and preventive interventions, some pressure ulcers are unavoidable."
+        },
+        {
+            "parent": 4,
+            "text": "Assessment of an established pressure ulcer involves a complete medical evaluation of the patient. A comprehensive history includes the onset and duration of ulcers, previous wound care, risk factors, and a list of health problems and medications. Other factors such as psychological health, behavioral and cognitive status, social and financial resources, and access to caregivers are critical in the initial assessment and may influence treatment plans. The presence of a pressure ulcer may indicate that the patient does not have access to adequate services or support. The patient may need more intensive support services, or care-givers may need more training, respite, or assistance with lifting and turning the patient. Patients with communication or sensory disorders are particularly vulnerable to pressure ulcers because they may not feel discomfort or may express discomfort in atypical ways."
+        },
+        {
+            "parent": 4,
+            "text": "The physician should note the number, location, and size (length, width, and depth) of ulcers and assess for the presence of exudate, odor, sinus tracts, necrosis or eschar formation, tunneling, undermining, infection, healing (granulation and epithelialization), and wound margins. Most importantly, the physician should determine the stage of each ulcer(Figures 1through4)."
+        },
+        {
+            "parent": 4,
+            "text": "Table 2presents the National Pressure Ulcer Advisory Panel's staging system for pressure ulcers.16In a person with dark skin pigmentation, a stage I ulcer may appear as a persistent red, blue, or purple discoloration. The stage of an ulcer cannot be determined until enough slough or eschar is removed to expose the base of the wound. Ulcers do not progress through stages in formation or healing. The Pressure Ulcer Scale for Healing tool(Figure 5)can be used to monitor healing progress.17"
+        },
+        {
+            "parent": 5,
+            "text": "Despite the consensus that adequate nutrition is important in wound healing, documentation of its effect on ulcer healing is limited; recommendations are based on observational evidence and expert opinion. Nutritional screening is part of the general evaluation of patients with pressure ulcers.Table 3presents markers for identifying protein-calorie malnutrition.18In patients who are malnourished, dietary consultation is recommended and a swallowing evaluation should be considered. Intervention should include encouraging adequate dietary intake using the patient's favorite foods, mealtime assistance, and snacks throughout the day. High-calorie foods and supplements should be used to prevent malnutrition. If oral dietary intake is inadequate or impractical, enteral or parenteral feeding should be considered, if compatible with the patient's wishes, to achieve positive nitrogen balance (approximately 30 to 35 calories per kg per day and 1.25 to 1.5 g of protein per kg per day). Protein, vitamin C, and zinc supplements should be considered if intake is insufficient and deficiency is present, although data supporting their effectiveness in accelerating healing have been inconsistent.19"
+        },
+        {
+            "parent": 6,
+            "text": "The management of pressure ulcers is interdisciplinary, including primary care physicians, dermatologists, infectious disease consultants, social workers, psychologists, dietitians, podiatrists, home and wound-care nurses, rehabilitation professionals, and surgeons. The basic components of pressure ulcer management are reducing or relieving pressure on the skin, debriding necrotic tissue, cleansing the wound, managing bacterial load and colonization, and selecting a wound dressing.Figure 6is a brief overview of these key components.18"
+        },
+        {
+            "parent": 6,
+            "text": "The pressure-reducing devices used in preventive care also apply to treatment. Static devices are useful in a patient who can change positions independently. A low–air-loss or air-fluidized bed may be necessary for patients with multiple large ulcers or a nonhealing ulcer, after flap surgeries, or when static devices are not effective. No one device is preferred."
+        },
+        {
+            "parent": 6,
+            "text": "Pain assessment should be completed, especially during repositioning, dressing changes, and debridement. Patients at the highest risk of pressure ulcers may not have full sensation or may require alternate pain assessment tools to aid in communication. The goal is to eliminate pain by covering the wound, adjusting pressure-reducing surfaces, repositioning the patient, and providing topical or systemic analgesia. Small randomized controlled trials show that topical opioid (diamorphine gel; not available in the United States) and nonopioid (lidocaine/prilocaine [EMLA]) preparations reduce pain during dressing changes and debridement.20,21"
+        },
+        {
+            "parent": 6,
+            "text": "Necrotic tissue promotes bacterial growth and impairs wound healing, and it should be debrided until eschar is removed and granulation tissue is present. Debridement, however, is not recommended for heel ulcers that have stable, dry eschar without edema, erythema, fluctuance, or drainage.8,16Debridement methods include sharp, mechanical, enzymatic, and autolytic. Sharp debridement using a sterile scalpel or scissors may be performed at bedside, although more extensive debridement should be performed in the operating room. Sharp debridement is needed if infection occurs or to remove thick and extensive eschar. Healing after sharp debridement requires adequate vascularization; thus, vascular assessment for lower extremity ulcers is recommended.22Anticoagulation is a relative contraindication for sharp debridement."
+        },
+        {
+            "parent": 6,
+            "text": "Mechanical debridement includes wet-to-dry dressings, hydrotherapy, wound irrigation, and whirlpool bath debridement.23Wet-to-dry dressings adhere to devitalized tissue, which is removed with dressing changes (dry dressings should not be moistened before removal). However, viable tissue may also be removed and the process may be painful.24Hydrotherapy via whirlpool bath debridement or irrigation may loosen debris. Enzymatic debridement is useful in the long-term care of patients who cannot tolerate sharp debridement; however, it takes longer to be effective and should not be used when infection is present.25,26"
+        },
+        {
+            "parent": 6,
+            "text": "Wounds should be cleansed initially and with each dressing change. Use of a 35-mL syringe and 19-gauge angiocatheter provides a degree of force that is effective yet safe; use of normal saline is preferred. Wound cleansing with antiseptic agents (e.g., povidone-iodine [Betadine], hydrogen peroxide, acetic acid) should be avoided because they destroy granulation tissue.27"
+        },
+        {
+            "parent": 6,
+            "text": "Dressings that maintain a moist wound environment facilitate healing and can be used for autolytic debridement.28Synthetic dressings(Table 4)reduce caregiver time, cause less discomfort, and potentially provide more consistent moisture.18These dressings include transparent films, hydrogels, alginates, foams, and hydrocolloids. Transparent films effectively retain moisture, and may be used alone for partial-thickness ulcers or combined with hydrogels or hydrocolloids for full-thickness wounds. Hydrogels can be used for deep wounds with light exudate. Alginates and foams are highly absorbent and are useful for wounds with moderate to heavy exudate. Hydrocolloids retain moisture and are useful for promoting autolytic debridement. Dressing selection is dictated by clinical judgment and wound characteristics; no moist dressing (including saline-moistened gauze) is superior.29A wet-to-dry dressing should only be used for debridement and is not a substitute for a wound dressing. Because there are numerous dressing options, physicians should be familiar with one or two products in each category or should obtain recommendations from a wound care consultant."
+        },
+        {
+            "parent": 6,
+            "text": "Urinary catheters or rectal tubes may be needed to prevent bacterial infection from feces or urine. Pressure ulcers are invariably colonized with bacteria; however, wound cleansing and debridement minimize bacterial load. A trial of topical antibiotics, such as silver sulfadiazine cream (Silvadene), should be used for up to two weeks for clean ulcers that are not healing properly after two to four weeks of optimal wound care. Quantitative bacteria tissue cultures should be performed for nonhealing ulcers after a trial of topical antibiotics or if there are signs of infection (e.g., increased drainage, odor, surrounding erythema, pain, warmth). A superficial swab specimen may be used; however, a needle aspiration or ulcer biopsy (preferred) is more clinically significant.30Systemic antibiotics are not recommended unless there is evidence of advancing cellulitis, osteomyelitis, and bacteremia."
+        },
+        {
+            "parent": 6,
+            "text": "Ulcers are difficult to resolve. Although more than 70 percent of stage II ulcers heal after six months of appropriate treatment, only 50 percent of stage III ulcers and 30 percent of stage IV ulcers heal within this period. Surgical consultation should be obtained for patients with clean stage III or IV ulcers that do not respond to optimal patient care or when quality of life would be improved with rapid wound closure. Surgical approaches include direct closure; skin grafts; and skin, musculocutaneous, and free flaps. However, randomized controlled trials of surgical repair are lacking and recurrence rates are high."
+        },
+        {
+            "parent": 6,
+            "text": "Growth factors (e.g., platelet-derived growth factor becaplermin [Regranex])31,32and vacuum-assisted closure for recalcitrant stage III and IV ulcers are emerging management options.33The role of electromagnetic therapy,34ultrasound,35and hyperbaric oxygen therapy is unclear.36"
+        },
+        {
+            "parent": 7,
+            "text": "Although noninfectious complications of pressure ulcers occur, systemic infections are the most prevalent. Noninfectious complications include amyloidosis, heterotopic bone formation, perinealurethral fistula, pseudoaneurysm, Marjolin ulcer, and systemic complications of topical treatment. Infectious complications include bacteremia and sepsis, cellulitis, endocarditis, meningitis, osteomyelitis, septic arthritis, and sinus tracts or abscesses.8Osteomyelitis has been reported in 17 to 32 percent of infected ulcers and may lead to nonhealing ulcers with or without systemic manifestations.37Plain radiographs and bone scans are often unreliable. Magnetic resonance imaging has a 98 percent sensitivity and 89 percent specificity for osteomyelitis in patients with pressure ulcers38; however, needle biopsy of the bone (via orthopedic consultation) is recommended and can guide antibiotic therapy. Bacteremia may occur with or without osteomyelitis, causing unexplained fever, tachycardia, hypotension, or altered mental status.39Overall mortality is high with both conditions,40and empirical antibiotics pending culture results should cover methicillin-resistantStaphylococcus aureus, anaerobes, enterococci, and gram-negative organisms, such asPseudomonas, Proteus, andProvidenciaspecies.41"
+        }
+    ],
+    "locked": false
+}

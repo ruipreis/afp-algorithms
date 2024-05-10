@@ -1,0 +1,140 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0301/p933.html#afp20050301p933-f2",
+    "title": "Diagnosis and Management of Acute Pyelonephritis in Adults | AAFP",
+    "author": "KALYANAKRISHNAN RAMAKRISHNAN, M.D., AND DEWEY C. SCHEID, M.D., M.P.H.",
+    "doi": "Am Fam Physician.2005;71(5):933-942",
+    "abstract": "There are approximately 250,000 cases of acute pyelonephritis each year, resulting in more than 100,000 hospitalizations. The most common etiologic cause is infection withEscherichia coli. The combination of the leukocyte esterase test and the nitrite test (with either test proving positive) has a sensitivity of 75 to 84 percent and a specificity of 82 to 98 percent for urinary tract infection. Urine cultures are positive in 90 percent of patients with acute pyelonephritis, and cultures should be obtained before antibiotic therapy is initiated. The use of blood cultures should be reserved for patients with an uncertain diagnosis, those who are immunocompromised, and those who are suspected of having hematogenous infections. Outpatient oral antibiotic therapy with a fluoroquinolone is successful in most patients with mild uncomplicated pyelonephritis. Other effective alternatives include extended-spectrum penicillins, amoxicillin-clavulanate potassium, cephalosporins, and trimethoprim-sulfamethoxazole. Indications for inpatient treatment include complicated infections, sepsis, persistent vomiting, failed outpatient treatment, or extremes of age. In hospitalized patients, intravenous treatment is recommended with a fluoroquinolone, aminoglycoside with or without ampicillin, or a third-generation cephalosporin. The standard duration of therapy is seven to 14 days. Urine culture should be repeated one to two weeks after completion of antibiotic therapy. Treatment failure may be caused by resistant organisms, underlying anatomic/functional abnormalities, or immunosuppressed states. Lack of response should prompt repeat blood and urine cultures and, possibly, imaging studies. A change in antibiotics or surgical intervention may be required.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute pyelonephritis is an infection of the upper urinary tract, specifically the renal parenchyma and renal pelvis(Figure 1). Acute pyelonephritis is considered uncomplicated if the infection is caused by a typical pathogen in an immunocompetent patient who has normal urinary tract anatomy and renal function. Misdiagnosis can lead to sepsis, renal abscesses, and chronic pyelonephritis that may cause secondary hypertension and renal failure. Risk factors for complicated acute pyelonephritis are those that increase susceptibility or reduce host response to infections(Table 1).1,2"
+        },
+        {
+            "parent": -1,
+            "text": "Approximately 250,000 cases of acute pyelonephritis occur each year, resulting in more than 100,000 hospitalizations.3Women are approximately five times more likely than men to be hospitalized with this condition (11.7 versus 2.4 hospitalizations per 10,000 cases, respectively); however, women have a lower mortality rate than men (7.3 versus 16.5 deaths per 1,000 cases, respectively).4Acute pyelonephritis occurs in 1 to 2 percent of pregnant women, increasing the risk for premature labor and low-birth-weight infants.5"
+        },
+        {
+            "parent": 0,
+            "text": "Most renal parenchymal infections occur secondary to bacterial ascent through the urethra and urinary bladder. In men, prostatitis and prostatic hypertrophy causing urethral obstruction predispose to bacteriuria.6Hematogenous acute pyelonephritis occurs most often in debilitated, chronically ill patients and those receiving immunosuppressive therapy. Metastatic staphylococcal or fungal infections may spread to the kidney from distant foci in the bone or skin."
+        },
+        {
+            "parent": 0,
+            "text": "In more than 80 percent of cases of acute pyelonephritis, the etiologic agent isEscherichia coli.7Other etiologic causes include aerobic gram-negative bacteria,Staphylococcus saprophyticus, and enterococci. The microbial spectrum associated with different types of urinary tract infections (UTIs) is wide(Table 2).8,9In elderly patients,E. coliis a less common (60 percent) cause of acute pyelonephritis. The increased use of catheters and instruments among these patients predisposes them to infections with other gram-negative organisms such as Proteus, Klebsiella, Serratia, or Pseudomonas."
+        },
+        {
+            "parent": 0,
+            "text": "Patients who have diabetes mellitus tend to have infections caused by Klebsiella, Enterobacter, Clostridium, or Candida. They also are at an increased risk of developing emphysematous pyelonephritis and papillary necrosis, leading to shock and renal failure.1,10Bacteriuria, which frequently is polymicrobial, develops in more than 50 percent of patients who require catheterization for more than five days, and in virtually all patients who have indwelling urinary catheters for more than one month.1"
+        },
+        {
+            "parent": 0,
+            "text": "Immunosuppression favors the development of subclinical (silent) pyelonephritis and infections caused by nonenteric, aerobic, gram-negative rods and Candida. Acute pyelonephritis occurs within two months following renal transplant in 30 to 50 percent of patients because of concomitant immunosuppression and postsurgical vesicoureteric reflux.2Acute pyelonephritis is considered complicated in men because they have a higher probability of urinary tract abnormalities, prostatic enlargement causing urethral obstruction with incomplete voiding, or an age-related decrease of antibacterial activity in prostatic secretions."
+        },
+        {
+            "parent": 1,
+            "text": "The spectrum of acute pyelonephritis is wide, ranging from a mild illness to sepsis syndrome.1To diagnose acute pyelonephritis, physicians must rely on evidence of UTI from urinalysis or culture, along with signs and symptoms suggesting upper UTI (fever, chills, flank pain, nausea, vomiting, costovertebral angle tenderness). Symptoms that are suggestive of cystitis (dysuria, urinary bladder frequency and urgency, and suprapubic pain) also may be present."
+        },
+        {
+            "parent": 1,
+            "text": "In a study11of young and middle-aged women presenting to an emergency department with fever, pyuria, and other features of upper UTI, 98 percent had acute pyelonephritis. In the absence of fever, 16 percent were given alternative diagnoses.11However, up to one third of elderly patients with acute pyelonephritis have no fever; in 20 percent of elderly patients, the predominant symptoms are gastrointestinal or pulmonary.1Fever and leukocytosis are of little value in diagnosing acute pyelonephritis in patients who have indwelling bladder catheters, especially when infections are caused by gram-positive cocci or Candida.12The differential diagnosis of acute pyelonephritis includes pelvic inflammatory disease, cholecystitis, appendicitis, lower lobe pneumonia, perforated viscus, and the prodrome of herpes zoster."
+        },
+        {
+            "parent": 1,
+            "text": "Up to 30 percent of women presenting with cystitis-like symptoms have upper urinary tract involvement (subclinical pyelonephritis), but these infections rarely cause any cortical damage. This situation is more common in pregnant women andpatientswithrecurrentUTI, diabetes, immunosuppression, renal tract pathology, or previous UTI occurring before 12 years of age.2In the presence of obstruction (stone, tumor, bladder neck obstruction, enlarged prostate), acute pyelonephritis can be extremely severe and recalcitrant to treatment, and may progress to renal abscess."
+        },
+        {
+            "parent": 2,
+            "text": "Urinalysis and urine culture confirm the diagnosis of acute pyelonephritis. The consensus definition of pyelonephritis established by the Infectious Diseases Society of America (IDSA) is a urine culture showing at least 10,000 colony-forming units (CFU) per mm3and symptoms compatible with the diagnosis.13Lower counts (1,000 to 9,999 CFU per mm3) are of concern in men and pregnant women. Urine specimens generally are obtained by a midstream clean-catch technique, and one study14showed that cleansing does not decrease contamination rates in adults."
+        },
+        {
+            "parent": 2,
+            "text": "Pyuria is present in almost all patients with acute pyelonephritis and can be detected rapidly with the leukocyte esterase test or the nitrite test. The combination of the leukocyte esterase and nitrite tests (with a positive result on either) for UTI is more specific but less sensitive than either test alone15(Table 3).3,15–21Although white cell casts may be observed in other conditions, they are, along with other features of UTI, specific for acute pyelonephritis. Hematuria may be present in patients with cystitis and pyelonephritis.3"
+        },
+        {
+            "parent": 2,
+            "text": "In some complicated cases, Gram stain analysis of urine can aid in the choice of initial antibiotic therapy.22Another option is the use of the antibody-coated bacteria assay, which may be helpful in localizing subclinical upper UTIs.23"
+        },
+        {
+            "parent": 2,
+            "text": "Urine cultures are positive in 90 percent of patients with acute pyelonephritis, and culture specimens should be obtained before initiation of antibiotic therapy. Blood cultures have been recommended for hospitalized patients; up to 20 percent of these patients have positive cultures.1In two studies,24,25however, completion of blood cultures did not result in changes in management strategies in patients with acute pyelonephritis. There is no evidence that positive blood cultures indicate a more complicated course in otherwise healthy persons with pyelonephritis.26Therefore, blood cultures are indicated only if there is diagnostic uncertainty, the patient is immunosuppressed, or a hematogenous source is suspected.24,25"
+        },
+        {
+            "parent": 3,
+            "text": "Although patients with acute pyelonephritis traditionally have been hospitalized and treated with intravenous antibiotics, outpatient oral therapy is successful in 90 percent of selected patients with uncomplicated acute pyelonephritis who can tolerate oral intake, will be compliant with the treatment regimen, will return for early follow-up, and have adequate social support27,28(Figure 2). Patients with complicated acute pyelonephritis who are more ill or have not responded to outpatient therapy should be hospitalized. Using specific hospitalization criteria(Table 4),1up to 70 percent of patients can be selected for outpatient management. Another option is initial therapy with parenteral antibiotics in an inpatient observation unit, followed by oral therapy as an outpatient.26,29"
+        },
+        {
+            "parent": 3,
+            "text": "Of the common uropathogens, resistance to fluoroquinolones remains very low (1 to 3 percent).30Fluoroquinolones are absorbed well from the gastrointestinal tract and have excellent kidney penetration. In selected patients with moderate or severe acute pyelonephritis, clinical outcomes are equivalent with intravenous and oral ciprofloxacin (Cipro) therapy.31Therefore, for empiric therapy in uncomplicated acute pyelonephritis, the IDSA recommends the use of an oral fluoroquinolone29(Table 5). Oral amoxicillin-clavulanate potassium (Augmentin), a cephalosporin, and trimethoprim-sulfamethoxazole (TMP-SMX; Bactrim, Septra) provide acceptable alternatives for susceptible organisms.29"
+        },
+        {
+            "parent": 3,
+            "text": "The U.S. Food and Drug Administration has classified fluoroquinolones as pregnancy category C drugs, and their use should be avoided in pregnant women. Amoxicillin or amoxicillin-clavulanate potassium is preferred during pregnancy and in the treatment of infections caused by gram-positive organisms. Some physicians administer a single parenteral dose of an antibiotic (ceftriaxone [Rocephin], gentamicin [Garamycin], or a fluoroquinolone) before initiating oral therapy,29but there is little evidence that this step improves outcomes.1Table 5reviews antimicrobial agents used in the treatment of acute pyelonephritis."
+        },
+        {
+            "parent": 3,
+            "text": "If the patient requires hospitalization, the IDSA guidelines29recommend one of three initial intravenous therapies: (1) a fluoroquinolone; (2) an aminoglycoside with or without ampicillin; or (3) an extended-spectrum cephalosporin with or without an aminoglycoside. With gram-positive cocci, ampicillinsulbactam (Unasyn) with or without an aminoglycoside is recommended. Amino-glycosides should be avoided in patients with pre-existing renal disease. Oral treatment is feasible as soon as the patient becomes afebrile, has improved clinically, and can tolerate oral hydration and medications. It is not necessary to use the same agent for both parenteral and oral therapy.26There is no benefit from additional hospital observation to determine the success of switching to an oral antibiotic.32"
+        },
+        {
+            "parent": 3,
+            "text": "A seven- to 14-day course of antibiotics is effective in women who are immunocompetent and do not have underlying illness.1,27,30Studies29,33,34suggest that therapy lasting only five to seven days is comparable to seven to 14 days in terms of clinical and bacteriologic outcome in patients with mild pyelonephritis and in those having a dramatic initial response to therapy. Acute pyelonephritis associated with immunosuppressive states responds well to a 14- to 21-day course of a fluoroquinolone or TMP-SMX.2Post-treatment urine cultures are recommended in all patients at the follow-up visit, one to two weeks after completion of antibiotic therapy.35"
+        },
+        {
+            "parent": 3,
+            "text": "Fever generally resolves within 72 hours of starting antibiotic therapy. In a study36of hospitalized patients who had no complications, however, 26 percent remained febrile at 48 hours, and 13 percent were febrile at 72 hours. Thus, persistence of fever after 72 hours in an otherwise stable and improving patient may not necessarily warrant a change in therapy or further investigation."
+        },
+        {
+            "parent": 3,
+            "text": "The two most common causes of initial treatment failure are resistant organisms and nephrolithiasis. In the absence of clinical response, many physicians obtain a blood count, urinalysis, and blood and urine cultures, seeking an indication of persisting infection and antibiotic resistance; however, there is little evidence to support the routine use of these tests. A rectal or vaginal examination should be performed."
+        },
+        {
+            "parent": 3,
+            "text": "Imaging studies may identify complicating factors such as anatomic abnormalities, obstruction, acute bacterial nephritis (localized, nonliquified interstitial inflammation), or subjacent infections such as appendicitis, cholecystitis, or perinephric abscess(Figure 2). Options include plain radiography of the kidneys, ureter, and bladder; renal ultrasonography; computed tomographic (CT) scan; magnetic resonance imaging; and intravenous pyelography. In most patients, ultrasound examination identifies acute bacterial nephritis, abscesses, ureteral obstruction, and hydronephrosis.37Acute bacterial nephritis may progress to frank abscess and requires a protracted course of antibiotics. If renal ultrasonography fails to define a lesion but shows marked renal enlargement, or if invasive intervention is being considered, a CT scan can exclude renal and perinephric abscesses."
+        },
+        {
+            "parent": 3,
+            "text": "Differences between UTI in men and women support the classification of male acute pyelonephritis as complicated. Men younger than 60 years without obstruction, renal abnormalities, or prostatitis respond well to 14 days of antibiotic therapy.2Men who have recurrent UTIs require a six-week regimen. Men with acute prostatitis require four weeks of treatment with an antibiotic that has high penetration into prostatic tissue, such as doxycycline (Vibramycin), TMP-SMX, or a fluoroquinolone; men with chronic prostatitis require six to 12 weeks of such therapy.2,38The optimal duration of treatment for hospitalized patients is 14 days."
+        },
+        {
+            "parent": 3,
+            "text": "Short-term antibiotic therapy (three days), which is appropriate in the treatment of cystitis, results in a 50 percent relapse rate in patients with subclinical acute pyelonephritis. The most reliable indicator of treatment failure is a positive follow-up culture in patients with presumed cystitis.2If relapse is noted after a two-week course of antibiotics, and no urologic abnormality is found on imaging, the uropathogen and sensitivities should be confirmed and treatment extended to six weeks."
+        },
+        {
+            "parent": 3,
+            "text": "If the pathogen causing reinfection is different from the original pathogen, two weeks of treatment are sufficient. Immediate release of any existing obstruction combined with a 14-day course of appropriate antibiotics minimizes failure and recurrence.2Relief of obstruction and antibiotic therapy may be successful in emphysematous pyelonephritis, but nephrectomy must be strongly considered in patients with unresponsive infections.1If parenchymal involvement including abscesses is observed, longer courses of antibiotics (intravenous or oral) or sequential therapy may be necessary."
+        },
+        {
+            "parent": 3,
+            "text": "Pregnant women with pyelonephritis require hospitalization (for at least a short observation period) for aggressive hydration and parenteral antibiotics. Antibiotic treatment is similar to the treatments of other adult regimens. During pregnancy, 86 percent of women have uterine contractions in the first hour after initiation of antimicrobial therapy, and 50 percent continue to have contractions after five hours of therapy.39One study40found no difference in clinical responses among pregnant women treated with ampicillin and gentamicin, cefazolin (Ancef), or ceftriaxone. Fluoroquinolones should be avoided because of concerns about their teratogenic effects on the fetus.1"
+        },
+        {
+            "parent": 3,
+            "text": "Most patients with mild acute pyelonephritis who are pregnant (90 percent) can be treated successfully with parenteral antibiotics under brief (two to 24 hours) observation, followed by outpatient oral therapy.41,42Although some experts state that selected patients may be treated safely with oral antibiotics, there have been no outpatient trials in which oral therapy alone was used.43Because 25 percent of patients with mild acute pyelonephritis who are pregnant have a recurrence, these patients should have monthly urine cultures or antimicrobial suppression with oral nitrofurantoin (Macrodantin), 100 mg daily, until four to six weeks postpartum.43All pregnant women, especially those who have diabetes and had a previous UTI, should be screened for asymptomatic bacteriuria during the first prenatal visit."
+        },
+        {
+            "parent": 3,
+            "text": "No antibiotic prophylaxis is effective in reducing complications associated with indwelling catheters. Sterile insertion and care of the catheter, minimizing the duration of catheterization, intermittent catheterization, closed drainage systems, and silver-alloy–coated catheters may reduce the risk of symptomatic infection.1,44"
+        }
+    ],
+    "locked": false
+}

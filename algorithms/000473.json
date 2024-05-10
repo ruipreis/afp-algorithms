@@ -1,0 +1,182 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0401/p829.html#afp20110401p829-f1",
+    "title": "Failure to Thrive: An Update | AAFP",
+    "author": "SARAH Z. COLE, DO, AND JASON S. LANHAM, MAJ, MC, USA",
+    "doi": "Am Fam Physician.2011;83(7):829-834",
+    "abstract": "Failure to thrive in childhood is a state of undernutrition due to inadequate caloric intake, inadequate caloric absorption, or excessive caloric expenditure. In the United States, it is seen in 5 to 10 percent of children in primary care settings. Although failure to thrive is often defined as a weight for age that falls below the 5th percentile on multiple occasions or weight deceleration that crosses two major percentile lines on a growth chart, use of any single indicator has a low positive predictive value. Most cases of failure to thrive involve inadequate caloric intake caused by behavioral or psychosocial issues. The most important part of the outpatient evaluation is obtaining an accurate account of a child's eating habits and caloric intake. Routine laboratory testing rarely identifies a cause and is not generally recommended. Reasons to hospitalize a child for further evaluation include failure of outpatient management, suspicion of abuse or neglect, or severe psychosocial impairment of the caregiver. A multidisciplinary approach to treatment, including home nursing visits and nutritional counseling, has been shown to improve weight gain, parent-child relationships, and cognitive development. The long-term effects of failure to thrive on cognitive development and future academic performance are unclear.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Prevalence",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "FURTHER EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Prognosis and Outcomes",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Failure to thrive (FTT) is a term used to describe inadequate growth or the inability to maintain growth, usually in early childhood. It is a sign of undernutrition, and because many biologic, psychosocial, and environmental processes can lead to undernutrition, FTT should never be a diagnosis unto itself. A careful history and physical examination can identify most causes of FTT, thereby avoiding protracted or costly evaluations.1–3"
+        },
+        {
+            "parent": 0,
+            "text": "Table 1lists commonly used anthropometric criteria for diagnosing FTT.4,5Most of these criteria involve plotting a child's growth on a standardized growth chart over multiple visits."
+        },
+        {
+            "parent": 0,
+            "text": "In 2006, the World Health Organization released updated growth charts that incorporate data from six countries and set breastfeeding as the biologic norm. These charts are available athttp://www.who.int/childgrowth. In comparison, the 2000 Centers for Disease Control and Prevention charts include formula-fed infants and reflect norms for heavier children (http://www.cdc.gov/growthcharts/). Therefore, the growth of healthy breastfed infants may appear to falter on the Centers for Disease Control and Prevention charts after two months of age.6"
+        },
+        {
+            "parent": 0,
+            "text": "There is no consensus on which specific anthropometric criteria should be used to define FTT.4,7In routine clinical practice, FTT is commonly defined as either a weight for age that falls below the 5th percentile on multiple occasions or a weight deceleration that crosses two major percentile lines on a growth chart.5Although this is a simple way to assess for FTT in the office setting, the use of any single indicator has been shown to have a low positive predictive value for true undernutrition. In one study, 27 percent of infants met at least one definition for FTT during the first year of life.4"
+        },
+        {
+            "parent": 0,
+            "text": "A combination of anthropometric criteria, rather than one criterion, should be used to more accurately identify children at risk of FTT.4,6,7Weight for length is a better indicator of acute undernutrition and is helpful in identifying children who need prompt nutritional treatment.8A weight that is less than 70 percent of the 50th percentile on the weight-for-length curve is an indicator of severe malnutrition and may require inpatient treatment.9,10"
+        },
+        {
+            "parent": 0,
+            "text": "Newer growth indices from the World Health Organization use weight velocities (http://www.who.int/childgrowth/standards/w_velocity/en/index.html), in which a child's weight change in grams over a one- or two-month interval is compared with population data for that child's specific age. Any weight change below the 5th percentile may indicate a child is at risk of FTT.11The use of weight velocities allows for rapid assessment of poor weight gain while accounting for age-dependent changes in growth.12,13"
+        },
+        {
+            "parent": 0,
+            "text": "Finally, some children who falter in growth parameters actually demonstrate a normal variant of growth, such as children of small parents who are growing to their full genetic potential, large-for-gestational-age infants who regress toward the mean, children with constitutional delay in growth, or premature infants whose growth parameters are normal when corrected for gestational age.14When uncertain, a weight for age that falls below the 5th percentile or a weight deceleration that crosses two major percentile lines should prompt the use of additional growth indices, such as weight for length or weight velocities, to confirm the growth trend."
+        },
+        {
+            "parent": 1,
+            "text": "The prevalence of FTT depends mainly on the definition being used and the demographics of the population being studied, with higher rates occurring in economically disadvantaged rural and urban areas.15,16Approximately 80 percent of children with FTT present before 18 months of age. In the United States, FTT is seen in 5 to 10 percent of children in primary care settings and in 3 to 5 percent of children in hospital settings.17,18"
+        },
+        {
+            "parent": 2,
+            "text": "Traditionally, the causes of FTT were subdivided into organic (medical) and nonorganic (social or environmental). There is increasing recognition that in many children the cause is multifactorial and includes biologic, psychosocial, and environmental contributors.19Furthermore, in more than 80 percent of cases, a clear underlying medical condition is never identified.1,20"
+        },
+        {
+            "parent": 2,
+            "text": "A practical way to categorize FTT is according to calories, including inadequate caloric intake, inadequate caloric absorption, or excessive caloric expenditure.Table 2provides a differential diagnosis of FTT based on age using this categorization.20–26"
+        },
+        {
+            "parent": 2,
+            "text": "Inadequate caloric intake is the most common etiology seen in primary care settings. In infants younger than eight weeks, problems with feeding (e.g., poor sucking and swallowing) and breastfeeding difficulties are prominent.27For older infants, difficulty transitioning to solid foods, insufficient breast milk or formula consumption, excessive juice consumption, and parental avoidance of high-calorie foods often lead to FTT."
+        },
+        {
+            "parent": 2,
+            "text": "Family factors can contribute to inadequate caloric intake at any age. These include mental health disorders, inadequate nutritional knowledge, and financial difficulties. Poverty is the greatest single risk factor for FTT in developed and developing countries. Importantly, child neglect or abuse must be considered, because children with FTT are four times more likely to be abused than children without FTT.28"
+        },
+        {
+            "parent": 2,
+            "text": "Inadequate caloric absorption includes disorders causing frequent emesis (e.g., metabolic disorders, food insensitivities) or malabsorption (e.g., celiac disease, chronic diarrhea, protein-losing enteropathy). Excessive caloric expenditure usually occurs in the setting of a chronic condition, such as congenital heart disease, chronic pulmonary disease, or hyperthyroidism. In these instances, FTT often develops during the first eight weeks of life."
+        },
+        {
+            "parent": 4,
+            "text": "An accurate, detailed account of a child's eating habits, caloric intake, and parent-child interactions should be obtained as a key step in determining the etiology of FTT.15,16,19,21,28Asking breastfeeding mothers to pump and measure (in milliliters) consumed breast milk for three days can be helpful, as can observing breastfeeding to ensure proper technique, latch-on, and swallow. Alternatively, obtaining the weight of an undressed breastfed infant on a high-quality infant scale before and after feeding may provide insight as to the volume of milk the infant is consuming. For formula-fed infants, caregivers should demonstrate their mixing technique during observation of a feeding."
+        },
+        {
+            "parent": 4,
+            "text": "Observing a toddler's eating habits can be helpful in evaluating for picky eating or food refusal. Asking older children and adolescents, together with their parents, to maintain a food journal for three days can give the physician a way to measure caloric intake. Physicians should also inquire about eating habits inside and outside of the home (e.g., day care, school), as well as about the eating habits of parents or siblings at the same age as the patient."
+        },
+        {
+            "parent": 4,
+            "text": "Taking a psychosocial history is essential for detecting maternal or patient depression, or identifying concerns about the caregiver's intellectual abilities or social circumstances.24Finally, a review of systems that elicits recurrent infections, respiratory symptoms, or vomiting or diarrhea, with or without food triggers, may point to a nonbehavioral cause."
+        },
+        {
+            "parent": 4,
+            "text": "In children without obvious organic symptoms elicited on history, 92 percent were ultimately diagnosed with a behavioral cause of FTT.3The absence of obvious nonorganic symptoms does not completely exclude a nonorganic cause of FTT."
+        },
+        {
+            "parent": 5,
+            "text": "The first consideration in examining a child with presumed FTT is ensuring accurate measurements. Height (or length), weight, and head circumference should be measured correctly and plotted on an appropriate growth chart over time."
+        },
+        {
+            "parent": 5,
+            "text": "The child should be undressed for a thorough examination. Although most children with FTT will have a normal examination, physicians should be alert for signs of physical abuse or neglect, such as recurrent, unexplained, or pathognomonic injuries. Physicians should also seek red flag signs or symptoms of medical conditions that might be causing FTT22,25,26,29(Table 320,23,25,26,29)."
+        },
+        {
+            "parent": 6,
+            "text": "Routine laboratory testing identifies a cause of FTT in less than 1 percent of children and is not generally recommended.20,30However, history or physical examination findings sometimes suggest the need for further testing.Figure 1outlines the testing that may be indicated to confirm certain diagnostic considerations.20,23,29For example, testing for human immunodeficiency virus antibodies, performing a tuberculin skin test, obtaining immunoglobulin levels, or measuring complement levels may be indicated in a child who has recurrent upper respiratory infections or opportunistic infections."
+        },
+        {
+            "parent": 6,
+            "text": "In rare cases, hospitalization for observed feeding and further investigation may be helpful.31Hospitalization should be considered if the child does not improve with outpatient management, suspicion of abuse or neglect exists, signs of traumatic injury are present, severe psychosocial impairment of the caregiver is evident, or there are signs of serious malnutrition (e.g., child is less than 70 percent of the predicted weight for length).15,30"
+        },
+        {
+            "parent": 7,
+            "text": "If a diagnosis of FTT is made and no medical conditions are suggested on examination, appropriate guidance for catch-up growth should be made. Age-appropriate nutritional counseling should be provided to parents.30–34For parents of breastfed infants, recommending breastfeeding more often, ensuring lactation support, or discussing formula supplementation until catch-up growth is achieved may be helpful.31Parents of formula-fed infants may be instructed on how to make energy-dense formula by concentrating the ratio of formula to water during periods of catch-up growth.32,33"
+        },
+        {
+            "parent": 7,
+            "text": "Toddlers should avoid excessive juice or milk consumption because this can interfere with proper nutrition. Nutritional supplements may be given until catch-up growth is achieved.34,35During a period of catchup growth, parents may also be instructed to provide calorie-dense foods by adding rice cereal to foods for toddlers, or adding gravies, cream sauces, or butter to foods for older children or adolescents."
+        },
+        {
+            "parent": 7,
+            "text": "Close follow-up should be performed in the physician's office, including evaluation of height (or length) and weight. Multidisciplinary interventions, including home nursing visits, should be considered to improve weight gain, parent-child relationships, and cognitive development.35–38"
+        },
+        {
+            "parent": 7,
+            "text": "If a disease or medical condition is identified on history, physical examination, or additional testing, the correct approach will vary depending on the condition. Appropriate management may include instituting specific treatment of the condition, or seeking consultation from a subspecialist or other health care professional for further evaluation and management recommendations."
+        },
+        {
+            "parent": 7,
+            "text": "Finally, although medications such as megestrol (Megace) or cyproheptadine have been shown to help promote weight gain in children with cancer-related cachexia, they have not been studied in other causes of FTT.39Growth hormone therapy also has not been widely studied in children and adolescents who are not growth hormone–deficient and is not recommended for management of FTT.38"
+        },
+        {
+            "parent": 8,
+            "text": "There is consensus that severe, prolonged malnutrition, which is common in developing countries, can negatively affect a child's future growth and cognitive development.40,41Low-birth-weight preterm infants who develop FTT have also demonstrated long-term developmental effects. At eight years of age, these children are smaller, have lower cognitive scores, and have poorer overall academic performance compared with similar preterm infants who did not develop FTT.11"
+        },
+        {
+            "parent": 8,
+            "text": "It is unclear from current studies if normal-birth-weight infants who develop FTT and then recover have similar long-term consequences. One study revealed that early home visit interventions for FTT appeared to eliminate, by eight years of age, any difference in IQ or reading skills between children exhibiting adequate growth and those with FTT.36A history of FTT, however, was associated with short stature, poor math performance, and poor work habits. A systematic review showed that FTT during the first two years of life was not associated with a significant reduction in IQ, although some long-term reductions in weight and height were present.37Further studies are needed to assess the effects of early FTT on growth, cognitive development, and academic performance in late childhood and adolescence. Lastly, children with a history of FTT are at increased risk of recurrent FTT, and their growth should be monitored closely."
+        },
+        {
+            "parent": 9,
+            "text": "Appropriate nutritional counseling and anticipatory guidance at each well-child visit may help prevent some cases of FTT. Enlisting dietitians or visiting nurses to provide psychosocial and educational support for families of children at increased risk of FTT may also reduce the likelihood that the child will develop FTT."
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key term failure to thrive. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Agency for Healthcare Research and Quality evidence reports, the Cochrane Database of Systematic Reviews, the National Guideline Clearinghouse, the Trip database, Essential Evidence Plus, and DynaMed. Search date: January 6, 2010."
+        }
+    ],
+    "locked": false
+}

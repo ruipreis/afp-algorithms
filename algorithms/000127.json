@@ -1,0 +1,109 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/1015/p478.html#afp20201015p478-f2",
+    "title": "Outpatient Management of COVID-19: Rapid Evidence Review | AAFP",
+    "author": "ANTHONY CHENG, MD, DOMINIC CARUSO, MD, MPH, AND CRAIG MCDOUGALL, MD",
+    "doi": "Am Fam Physician.2020;102(8):478-486",
+    "abstract": "Common presenting symptoms of coronavirus disease 2019 include fever, dry cough, shortness of breath, and fatigue. However, patients may have a wide range of symptoms representing a spectrum of mild to severe illness. Symptoms in children tend to be milder and may include fever, cough, and feeding difficulty. The incubation period is two to 14 days, although symptoms typically appear within five days of exposure. Multiple testing modalities exist, but infection should be confirmed by polymerase chain reaction testing using a nasopharyngeal swab. Two vaccines are now available in the United States. There are no evidence-based treatments appropriate for use in the outpatient setting; management is supportive and should include education about isolation. In hospitalized patients, remdesivir should be considered to reduce time to recovery, and low-dose dexamethasone should be considered in patients who require supplemental oxygen. Overall, 85% of patients have mild illness, whereas 14% have severe disease requiring hospitalization, including 5% who require admission to an intensive care unit. Predictors of severe disease include increasing age, comorbidities, lymphopenia, neutrophilia, leukocytosis, low oxygen saturation, and increased levels of C-reactive protein, d-dimer, transaminases, and lactate dehydrogenase.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening and Prevention [updated]",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "TESTING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "DRUG THERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "REFERRAL, CONSULTATION, AND HOSPITALIZATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The coronavirus disease 2019 (COVID-19) pandemic is caused by an enveloped single-stranded RNA novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first cases were reported in Wuhan City, China, in December 2019; the United States confirmed its first cases one month later. Middle East Respiratory Syndrome and Severe Acute Respiratory Syndrome, also caused by coronaviruses, have caused significantly lower global mortality."
+        },
+        {
+            "parent": 0,
+            "text": "The basic reproductive number (infections per index case) of COVID-19 is unknown. One systematic review estimated a range of 1.9 to 6.5.1Studies in the United States and Switzerland based on antibody sampling estimated seroprevalence between 1.1% and 10.9%.2Pathogenic factors contributing to the virulence of SARS-CoV-2 include transmissibility via respiratory droplets and asymptomatic spread via healthy-appearing individuals.The true incidence of COVID-19 in the United States is unknown and varies geographically.3It is estimated that only one in approximately 80 COVID-19 infections was diagnosed in March 2020, and there is promise in disease modeling that extrapolates from influenza-like illness.4"
+        },
+        {
+            "parent": 1,
+            "text": "Physical distancing of at least 6 ft (1.8 m) slows the spread of infection by decreasing the mean number of people infected per case, particularly when combined with other measures such as mask wearing in public, school closures, and travel restrictions.5,6Contact tracing has reduced the spread of infection early during outbreaks in some countries.7The Centers for Disease Control and Prevention (CDC) recommends that close contacts of a person with COVID-19 quarantine for 14 days after the last exposure and monitor for fever and other symptoms daily.8People suspected of having COVID-19 should isolate within their home to prevent infection spread, stay in a specific “sick room” if they live with others, and use a separate bathroom, if possible.8The CDC recommends wearing face masks when in a public space where appropriate physical distancing may be difficult.9This practice may reduce viral transmission (Howard J, et al., and Kai D, et al., unpublished data, 2020), particularly from asymptomatic or presymptomatic individuals.10Patients with respiratory symptoms should wear a surgical mask in health care settings. Those without respiratory symptoms should wear a cloth face mask per CDC recommendations.Table 1lists recommended personal protective equipment for clinicians based on different clinical scenarios.11–14Two vaccines against SARS-CoV-2 are currently available in the United States: BNT162b2 (Pfizer/BioNTech) and mRNA-1273 (Moderna;Table 215,16). Both vaccines contain lipid-encapsulated mRNA molecules that are delivered to macrophages. Translation of mRNA results in expression of prefusion-stabilized spike proteins on the cellular surface and an immune reaction. The mRNA is subsequently degraded, and no genetic material enters the nucleus of cells.Both vaccines were highly effective at preventing symptomatic infection in the short term in randomized, double-blind trials submitted to the U.S. Food and Drug Administration for Emergency Use Authorization. The mRNA-1273 vaccine trial included 30,420 patients 18 years and older, and the BNT162b2 mRNA vaccine trial included 43,548 participants 16 years and older.15,16Currently, the data are insufficient to recommend vaccination of children and pregnant patients. We do not know whether the vaccine protects against asymptomatic infection or transmission.The CDC and National Institutes of Health convened the National Academies of Sciences, Engineering, and Medicine to develop an overarching vaccine allocation framework.17This framework is incorporated into the Advisory Committee on Immunization Practices COVID-19 vaccine recommendations, which support allocation of COVID-19 vaccines based on phases 1a, 1b, 1c, and 2 depending on factors such as age, occupation, and comorbidities.18Updates are published inMorbidity and Mortality Weekly Report.19More than 100 vaccines are in various stages of development. Vaccine strategies include inactivated viruses, replication-incompetent vectors, recombinant spike-proteins, and adenovirus-based DNA vaccines such as AZD1222 and JNJ-78436735.20The AZD1222 (AstraZeneca) vaccine was approved for emergency use in the United Kingdom on December 30, 2020. Studies of the JNJ-78436735 (Johnson & Johnson) vaccine have been promising. Unlike the mRNA vaccines, some candidates can be stored at refrigerator temperatures or may be effective after one dose."
+        },
+        {
+            "parent": 2,
+            "text": "The diagnosis of COVID-19 is made clinically and is supported by laboratory results and radiographic findings. COVID-19 should be suspected in patients with known or suspected exposure within the past 14 days, or in the setting of active SARS-CoV-2 transmission in the community.When possible, patients should be triaged via telehealth before they receive in-person care(Figure 1).21Physicians should be aware of anchoring bias when considering a diagnosis of COVID-19. Given the wide variability in presentations, it should be considered as one among several potential etiologies.The differential diagnosis includes:○ Acute pulmonary edema○ Acute respiratory distress syndrome○ Chronic obstructive pulmonary disease exacerbation○ Community-acquired pneumonia (bacterial or viral)○ Influenza○ Interstitial lung disease○ Nonspecific viral upper respiratory tract infection○ Opportunistic pulmonary infection○ Pulmonary embolism○ Streptococcal pharyngitis"
+        },
+        {
+            "parent": 3,
+            "text": "The incubation period of SARS-CoV-2 is two to 14 days, although symptoms generally appear within five days of exposure.22Common presenting symptoms include fever, dry cough, shortness of breath, and fatigue23; however, patients may have a wide range of symptoms representing a spectrum of mild to severe illness(Table 3).24–33Moderate to severe anosmia and altered taste are commonly reported.28Symptoms in children tend to be milder than in adults and may include fever, cough, and feeding difficulty (Arnaout R, et al., unpublished data, 2020).25Pregnant and recently pregnant women are less likely to present with fever and myalgias compared with nonpregnant patients of reproductive age.34A high proportion of patients with SARS-CoV-2 infection (about 40%) are asymptomatic, particularly younger patients.35Multisystem inflammatory syndrome in children is thought to be related to COVID-19. Signs include prolonged fever and clinically severe illness with multiorgan involvement. The diagnosis is supported by laboratory confirmation of inflammation, evidence of recent SARS-CoV-2 infection, or exposure and no other obvious microbial cause of inflammation.36,37"
+        },
+        {
+            "parent": 4,
+            "text": "There are multiple testing modalities for COVID-19(Table 4).2,38–46Acute infection should be confirmed with polymerase chain reaction testing using a nasopharyngeal swab.42Antibody testing is most useful for epidemiologic purposes.25Point-of-care testing provides rapid results, but the reliability of these tests is not clear.41The decision to test depends on variables such as availability of test kits and reagents, and implications for treatment, infection control, and public health.In addition to patients with signs or symptoms of COVID-19, testing should be considered for patients who:○ Have a known or suspected exposure (including neonates born to a mother diagnosed with COVID-19)○ Will undergo a planned surgery or aerosol-generating procedure○ Are undergoing chemotherapy○ Are part of a group disproportionately affected by COVID-19, such as Black, Latino, Pacific Islander, or American Indian/Alaska Native communities.11,47Testing asymptomatic people after an exposure is recommended five to seven days after the exposure based on the median viral incubation period. Testing should not occur for at least 48 hours after exposure. Asymptomatic contacts with negative test results still must quarantine for 14 days.11Retesting can be considered to confirm disease resolution in immunocompromised patients if enough testing capacity exists.11Radiographic findings in patients with COVID-19 may include45:○ “Crazy paving” (i.e., ground-glass opacity with superimposed interlobular and intralobular septal thickening)○ Dense consolidation○ Ground-glass opacity○ Multifocal ground-glass opacityIn hospitalized patients, the following laboratory tests can help assess prognosis and identify patients at risk of vascular and thrombotic complications45:○ Complete blood count with differential○ C-reactive protein level○ d-dimer assay○ Lactate dehydrogenase level○ Troponin level"
+        },
+        {
+            "parent": 5,
+            "text": "There are no evidence-based treatments for COVID-19 that are appropriate for use in the outpatient setting;management is supportive.45The World Health Organization recommends that infants born to women with COVID-19 not be separated from their mothers, and that these mothers initiate and continue breastfeeding.48Remote patient monitoring via telehealth can be used to detect red flag symptoms that warrant urgent assessment, such as21:○ Fever above 100.4°F (38°C)○ Heart rate greater than 100 beats per minute with new confusion○ Oxygen saturation less than 95%○ Respiratory rate greater than 20 breaths per minuteFigure 2shows a protocol for discontinuing home isolation after COVID-19 diagnosis.11,49"
+        },
+        {
+            "parent": 6,
+            "text": "In addition to supportive care, there are several investigational drugs being explored for the treatment of COVID-19 in hospitalized patients.Dexamethasone, 6 mg per day for 10 days, significantly reduced mortality in hospitalized patients with COVID-19 who required supplemental oxygen (number needed to treat [NNT] = 29) or mechanical ventilation (NNT = 9), but not in hospitalized patients who did not require supplemental oxygen.50Systemic corticosteroids are not recommended for outpatients or for hospitalized patients who do not require supplemental oxygen.51Remdesivir (Veklury) was shown in a U.S. randomized trial to significantly reduce time to recovery (11 vs. 15 days) and to nonsignificantly reduce mortality (7.1% vs. 11.9%;P= .059) in hospitalized patients with COVID-19.52A Chinese study found no significant benefit, but the study was underpowered.53Remdesivir has not been studied in outpatients with nonsevere illness and is not recommended for this population.Hydroxychloroquine (Plaquenil) has not been shown to have clear benefit in patients with mild to severe COVID-19 symptoms, or for postexposure prophylaxis (Horby P, et al., unpublished data, 2020).54–57There is insufficient evidence to recommend the use of the following treatments for COVID-1945:○ Azithromycin (Zithromax)○ Convalescent plasma○ Interferon○ Ivermectin (Soolantra)○ Lopinavir/ritonavir (Kaletra)○ Ribavirin (Virazole)○ Tocilizumab (Actemra)"
+        },
+        {
+            "parent": 7,
+            "text": "In the course of an in-person assessment, the appropriate disposition of patients with symptomatic COVID-19 can be guided by vital signs, physical examination findings, respiratory rate, oxygen saturation, social considerations, and risk factors as outlined inFigure 3.11,21,48,58,59"
+        },
+        {
+            "parent": 8,
+            "text": "International data suggest that 85% of people with COVID-19 have only mild illness, whereas 14% have severe disease requiring hospitalization, including 5% of adults and 2% of children who require admission to an intensive care unit.60–62Children tend to have a better prognosis than adults (Arnaout R, et al., unpublished data, 2020).62The overall mortality rate from COVID-19 has been estimated to be 0.66% to 0.9%, although estimates are difficult because of the number of undiagnosed cases.63,64Observed rates vary considerably (2.3% to 7.2%) depending on location and test availability. As of July 21, 2020, the Johns Hopkins Center for Health Security reported a U.S. case fatality rate of 3.7%.2Case fatality rates increase with age.6,60,63,64Predictors of more severe disease or death include clinical factors, comorbidities, and laboratory findings(Table 5).41,65–68Common risk factors in hospitalized patients include66,67:○ Cardiovascular disease○ Chronic kidney disease○ Chronic liver disease○ Chronic obstructive pulmonary disease○ Diabetes mellitus○ Hypercholesterolemia○ Hypertension○ Malignancy○ Obesity○ Obstructive sleep apneaIn pregnant women, COVID-19 may increase the risk of complications such as preterm birth and preterm premature rupture of membranes. The risk of vertical transmission and risks to newborns are not well understood.34A 10-item clinical prediction rule has been developed and externally validated to determine the prognosis of patients with COVID-19 (http://118.126.104.170).69However, it requires imaging and extensive laboratory testing.Acute complications of COVID-19 include pneumonia, acute respiratory distress syndrome, stroke, and arterial and venous thrombosis. Hospitalized patients may have debility70and mental health effects.71Factors that may increase the risk of these complications include:○ A diet with inadequate fruits and vegetables (Adams ML, et al., unpublished data, 2020)○ Body mass index greater than 40 kg per m265○ Sedentary lifestyle○ SmokingThe long-term health effects of COVID-19 are under investigation.Approximately 35% of people with COVID-19 have not returned to their previous level of health 14 to 21 days after diagnosis. These “long haulers” have a syndrome referred to as long COVID.72Table 6lists additional COVID-19 resources for clinicians."
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources:An initial evidence review was performed by the COVID Inquiry Group of the Oregon Health & Science University School of Medicine. Search terms included COVID, COVID-19, and SARD-CoV2. Answers were reviewed by two faculty reviewers. A subsequent literature review was performed using PubMed, Essential Evidence Plus, and the COVID-19 Daily Research Briefs on theAFPwebsite. Search dates: March through September 2020."
+        },
+        {
+            "parent": 8,
+            "text": "This article was based on the Outpatient COVID-19 Reference Guide published in April 2020 by the Oregon Health & Science University (OHSU). The project lead was Jessica Hoyt; other contributors included Johanna Warren, MD; Dominic Caruso, MD; Anthony Cheng, MD; Eric Herman, MD; Debbie Lamberger, MPA; Craig McDougall, MD; Andy Barnett, MD; Daisuke Yamashita, MD; and Emily Barclay, MS. We wish to acknowledge the work of the OHSU COVID Lab Task Force and the OHSU School of Medicine COVID Inquiry Group: co-leads Frances Biagioli, MD, and Kam Pierce, MPA; core faculty members Heather Angier, PhD; Amy Chen, MD; Elizabeth Haney, MD; and Glenn Rodriguez, MD; core student group Hannah Bacheller, Eva Davis, Brett Lewis, Asma Lotfi, Lauren Raymond, Elizabeth Swanson, and Kanwarabijit Thind; contributing authors Brooke Bachelor, DO; Andrea Baron, MPH; Kathryn Bonuck, MS; Elizabeth Bower, MD; Annie Buckmaster, MD; Dominic Caruso, MD; Anthony Cheng, MD; Joshua Cohen, MD; Roopradha Datta, MPH; Shelby Lee Freed, FNP; Natalie Freitas, MD; Laurel Hallock-Koppelman, DNP; Cassandra Kasten-Arias; Roheet Kakaday, MD; Christine Le, MD; Justin Lewis, MD; Ingrid Lindquist, MD; Morgan Lisner, MD; Mustafa Mahmood, MD; Brittany McAdams, MD; Craig McDougall, MD; John Mitchell, MD; Laurence Moore, MD; Cassie Mullen, MD; Ryan Nesbit, MD; Kristen Otto, MD; Gina Phillipi; Megan Quinlan, MD; Sean Robinson, MD; Whitney Roper, MD; Eric Schmidt, MD; Linh Taylor; Erin Urbanowicz; Eric Wiser, MD; Jean Yau, MD; and Hirofumi Yoshida, MD."
+        },
+        {
+            "parent": 8,
+            "text": "Editor's Note:This article has been updated to incorporate new information about personal protective equipment requirements and the two COVID-19 vaccines that received Emergency Use Authorization from the U.S. Food and Drug Administration in December 2020. —Kenny Lin, MD, MPH, deputy editor ofAFP"
+        }
+    ],
+    "locked": false
+}

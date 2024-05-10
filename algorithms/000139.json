@@ -1,0 +1,152 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0801/p173.html#afp20200801p173-f1",
+    "title": "Acute Pyelonephritis in Adults: Rapid Evidence Review | AAFP",
+    "author": "JOEL HERNESS, MD, AMELIA BUTTOLPH, MD, AND NOA C. HAMMER, MD, MPH",
+    "doi": "Am Fam Physician.2020;102(3):173-180",
+    "abstract": "Acute pyelonephritis is a bacterial infection of the kidney and renal pelvis and should be suspected in patients with flank pain and laboratory evidence of urinary tract infection. Urine culture with antimicrobial susceptibility testing should be performed in all patients and used to direct therapy. Imaging, blood cultures, and measurement of serum inflammatory markers should not be performed in uncomplicated cases. Outpatient management is appropriate in patients who have uncomplicated disease and can tolerate oral therapy. Extended emergency department or observation unit stays are an appropriate option for patients who initially warrant intravenous therapy. Fluoroquinolones and trimethoprim/sulfamethoxazole are effective oral antibiotics in most cases, but increasing resistance makes empiric use problematic. When local resistance to a chosen oral antibiotic likely exceeds 10%, one dose of a long-acting broad-spectrum parenteral antibiotic should also be given while awaiting susceptibility data. Patients admitted to the hospital should receive parenteral antibiotic therapy, and those with sepsis or risk of infection with a multidrug-resistant organism should receive antibiotics with activity against extended-spectrum beta-lactamase–producing organisms. Most patients respond to appropriate management within 48 to 72 hours, and those who do not should be evaluated with imaging and repeat cultures while alternative diagnoses are considered. In cases of concurrent urinary tract obstruction, referral for urgent decompression should be pursued. Pregnant patients with pyelonephritis are at significantly elevated risk of severe complications and should be admitted and treated initially with parenteral therapy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology and Microbiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "INPATIENT VS. OUTPATIENT TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SUPPORTIVE CARE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ANTIMICROBIAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "TREATMENT DURATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Special Considerations",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "UROLOGIC ABNORMALITIES AND/OR OBSTRUCTION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "PREGNANT PATIENTS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MEN",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute pyelonephritis, a serious and relatively common bacterial infection of the kidney and renal pelvis, accounts for approximately 250,000 office visits and 200,000 hospital admissions annually in the United States.1–3"
+        },
+        {
+            "parent": -1,
+            "text": "WHAT'S NEW ON THIS TOPIC"
+        },
+        {
+            "parent": -1,
+            "text": "Pyelonephritis"
+        },
+        {
+            "parent": -1,
+            "text": "As of 2014,Escherichia coliresistance to trimethoprim/sulfamethoxazole and fluoroquinolones in the United States exceeded 35% and 10%, respectively."
+        },
+        {
+            "parent": -1,
+            "text": "A systematic review of 8 randomized controlled trials (N = 2,515) demonstrated equivalent clinical success rates in treating uncomplicated acute pyelonephritis with a 5- to 7-day course of fluoroquinolones compared with a 14-day course."
+        },
+        {
+            "parent": -1,
+            "text": "In the male subgroup of a 2017 randomized controlled trial, a 7-day course of ciprofloxacin was inferior to a 14-day course with respect to short-term cure rates with no differences in long-term outcomes."
+        },
+        {
+            "parent": 0,
+            "text": "The highest incidence is among otherwise healthy women 15 to 29 years of age.3Escherichia coliaccounts for approximately 90% of uncomplicated pyelonephritis cases4,5; factors that define complicated pyelonephritis are listed inTable 1.6,7Other causative organisms are more prevalent in complicated cases, butE. coliremains predominant4,5(eTable A).As of 2014,E. coliresistance to trimethoprim/sulfamethoxazole and fluoroquinolones in the United States exceeded 35% and 10%, respectively.5Extended-spectrum beta-lactamase–producing uropathogenic organisms demonstrate resistance to third- and fourth-generation cephalosporins and are increasingly prevalent in the United States and globally.5Risk factors for infection with multidrug-resistant organisms are listed inTable 2.5,7"
+        },
+        {
+            "parent": 1,
+            "text": "Flank pain and tenderness in the presence of pyuria are highly suggestive of pyelonephritis and differentiate it from other urinary tract infections.4,6,8,9Fever is typically present but is not a universal symptom. Lower urinary tract symptoms (e.g., frequency, urgency, dysuria) may be absent in as many as 20% of patients.4,6,8,9Other potential signs and symptoms of pyelonephritis include the following4,6,8,9:– Constitutional symptoms (e.g., fever, chills, malaise)– Nausea, vomiting, and abdominal pain– Abdominal or suprapubic tenderness– Tachycardia or hypotension"
+        },
+        {
+            "parent": 2,
+            "text": "Urine culture with antimicrobial susceptibility testing should be performed in all patients; when clinically reasonable, urine culture should be performed before the patient receives antibiotics.7Several studies demonstrate no reduction in contamination rates with preparatory cleansing or midstream catch; catheterization is not necessary for specimen collection.10–13A basic metabolic profile and complete blood count help evaluate severity and can identify complications, particularly renal failure.9,14Serum inflammatory markers have not been shown to assist in the diagnosis or treatment of pyelonephritis.14–18Blood cultures should be considered only in diagnostically ambiguous situations, when patients fail to improve within 48 to 72 hours, or when urine culture is unlikely to grow a predominant organism (e.g., indwelling catheterization, patients already taking antibiotics). Blood cultures are positive in 10% to 40% of patients with acute pyelonephritis, but the presence of bacteremia rarely affects therapy.8,19–22Initial imaging is not recommended in uncomplicated cases of acute pyelonephritis.23Diagnostic imaging to identify obstruction or structural abnormalities should be considered in the following circumstances23,24:– Sepsis– Concern for urolithiasis– New renal insufficiency with glomerular filtration rate less than or equal to 40 mL per minute per 1.73 m2– Known urologic abnormalities– Failure to respond to appropriate therapy within 48 to 72 hoursWhen diagnostic imaging is indicated, contrast-enhanced computed tomography of the abdomen and pelvis is the preferred modality.23,25When contrast or radiation is contraindicated, such as during pregnancy, ultrasonography and magnetic resonance imaging may be used.23"
+        },
+        {
+            "parent": 4,
+            "text": "Outpatient management is appropriate in patients with uncomplicated pyelonephritis who are able to tolerate oral antibiotics and do not have clinical signs of sepsis. Indications for hospitalization are listed inTable 3.8,9Evidence supports extended emergency department or observation unit stays as safe alternatives to immediate hospitalization for patients who warrant initial intravenous fluid resuscitation and/or are initially unable to tolerate oral agents but do not have complicating features or sepsis.7,9,26A treatment algorithm is provided inFigure 1."
+        },
+        {
+            "parent": 5,
+            "text": "All patients should receive supportive care, as appropriate, with oral or intravenous fluid hydration, analgesics, antipyretics, and antiemetic medications.7Patients presenting with signs of sepsis should receive intravenous crystalloid fluid resuscitation (30 mL per kg) within the first hour of presentation.27"
+        },
+        {
+            "parent": 6,
+            "text": "Choice of antibiotic is informed by the clinical presentation, the patient's individual risk factors, and local resistance patterns. Therapy should be directed by urine culture susceptibility testing when available.7Nitrofurantoin and fosfomycin (Monurol) do not attain adequate renal tissue concentration and should not be used to treat pyelonephritis.7Options for oral antibiotic regimens for outpatients are listed inTable 4.7Fluoroquinolones and trimethoprim/sulfamethoxazole have a significant evidence base that supports their use as safe and effective first-line oral therapies, with greater than 90% clinical success rates when the causative pathogens are susceptible.7When local resistance to the chosen oral agent likely exceeds 10%, a single dose of a long-acting broad-spectrum parenteral antibiotic (e.g., ceftriaxone, ertapenem [Invanz], aminoglycosides) should also be given while awaiting susceptibility results7(Table 57,28).Oral beta-lactams are inferior to trimethoprim/sulfamethoxazole and should not be used as first-line treatment of acute pyelonephritis.7Hospitalized patients should initially receive parenteral antibiotic therapy; empiric options are listed inTable 6.7–9Agents with activity against extended-spectrum beta-lactamase–producing organisms should be considered in patients with sepsis or risk factors for drug resistance(Table 7).7,9,27–29"
+        },
+        {
+            "parent": 7,
+            "text": "A systematic review of eight randomized controlled trials (N = 2,515) demonstrated equivalent clinical success rates in treating uncomplicated acute pyelonephritis with a five- to seven-day course of fluoroquinolones compared with a 14-day course.30There is limited evidence on the effectiveness of shorter courses (less than 14 days) of trimethoprim/sulfamethoxazole. More studies are warranted before such treatment can be recommended.7,30Acute pyelonephritis responds to appropriate therapy within 48 to 72 hours in more than 95% of cases.25Patients not responding as expected (e.g., persistent fever, unimproved symptoms) should be further evaluated for alternative diagnoses, urinary tract obstruction, and/or antibiotic resistance with imaging, laboratory studies, blood cultures, and repeat urine culture.7–9,23"
+        },
+        {
+            "parent": 9,
+            "text": "Urgent decompression is recommended in patients with acute pyelonephritis and urinary tract obstruction identified on imaging.8,9Patients with structural urologic abnormalities or obstruction may benefit from longer antibiotic courses (10 to 14 days).23To expedite clinical improvement, indwelling catheters that have been in place for two weeks or longer should be removed or replaced.31"
+        },
+        {
+            "parent": 10,
+            "text": "Pyelonephritis affects approximately 2% of all pregnancies, with 80% to 90% of cases occurring during the second and third trimesters.32,33Pyelonephritis is associated with significant morbidity and mortality during pregnancy, with observed rates of septicemia and respiratory failure in 17% and 7% of patients, respectively.32,34Because of the increased risk of serious complications, pregnant patients with pyelonephritis should be admitted to the hospital for initial parenteral antibiotic therapy and monitoring.33,35Treatment options for pyelonephritis in pregnancy are limited because of a lack of evidence regarding antibiotic safety in utero. A Cochrane review of 10 trials (N = 1,125) found cefazolin or ceftriaxone to be effective.32Pyelonephritis recurs in 6% to 8% of pregnant patients, and some experts have advocated for antibiotic suppression therapy with nitrofurantoin or cephalexin (Keflex) to reduce the risk of recurrence. However, data are insufficient to support this practice.36"
+        },
+        {
+            "parent": 11,
+            "text": "Data are lacking on the appropriate treatment length and regimen for men with acute pyelonephritis.30In the male subgroup of one randomized controlled trial, a seven-day course of ciprofloxacin was inferior to a 14-day course with respect to short-term cure rates, with no differences in long-term outcomes.37"
+        },
+        {
+            "parent": 11,
+            "text": "This article updates previous articles on this topic byColgan, et al.,8and byRamakrishnan and Scheid.6"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:A PubMed search was completed using Clinical Queries and medical subject headings with key terms pyelonephritis epidemiology; pyelonephritis microbiology; pyelonephritis risk factors; pyelonephritis diagnosis; pyelonephritis treatment; pyelonephritis length of treatment, hospitalization; and pyelonephritis, outpatient management of pyelonephritis. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were Essential Evidence Plus, the Cochrane database, UpToDate, clinical guidelines and practice bulletins from the American College of Obstetricians and Gynecologists and the Infectious Diseases Society of America, and evidence reports from the Agency for Healthcare Research and Quality. Search dates: July 3 and 27, 2019; August 6, 2019; and May 4, 2020."
+        },
+        {
+            "parent": 11,
+            "text": "The authors thank Anne Mounsey, MD, for mentorship, guidance, and review of the manuscript."
+        },
+        {
+            "parent": 11,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the U.S. Air Force, the U.S. Navy, the Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,138 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0401/p693.html#afp20120401p693-f1",
+    "title": "High Blood Pressure in Children and Adolescents | AAFP",
+    "author": "MARGARET RILEY, MD, AND BRIAN BLUHM, MD",
+    "doi": "Am Fam Physician.2012;85(7):693-700",
+    "abstract": "High blood pressure in children and adolescents is a growing health problem that is often overlooked by physicians. Normal blood pressure values for children and adolescents are based on age, sex, and height, and are available in standardized tables. Prehypertension is defined as a blood pressure in at least the 90th percentile, but less than the 95th percentile, for age, sex, and height, or a measurement of 120/80 mm Hg or greater. Hypertension is defined as blood pressure in the 95th percentile or greater. A secondary etiology of hypertension is much more likely in children than in adults, with renal parenchymal disease and renovascular disease being the most common. Overweight and obesity are strongly correlated with primary hypertension in children. A history and physical examination are needed for all children with newly diagnosed hypertension to help rule out underlying medical disorders. Children with hypertension should also be screened for other risk factors for cardiovascular disease, including diabetes mellitus and hyperlipidemia, and should be evaluated for target organ damage with a retinal examination and echocardiography. Hypertension in children is treated with lifestyle changes, including weight loss for those who are overweight or obese; a healthy, low-sodium diet; regular physical activity; and avoidance of tobacco and alcohol. Children with symptomatic hypertension, secondary hypertension, target organ damage, diabetes, or persistent hypertension despite nonpharmacologic measures should be treated with antihypertensive medications. Thiazide diuretics, angiotensinconverting enzyme inhibitors, angiotensin II receptor blockers, beta blockers, and calcium channel blockers are safe, effective, and well tolerated in children.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition of Hypertension",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "BLOOD PRESSURE MEASUREMENT",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "LIFESTYLE MODIFICATIONS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "PHARMACOLOGIC THERAPY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hypertension in children and adolescents is a growing health problem. In persons three to 18 years of age, the prevalence of prehypertension is 3.4 percent and the prevalence of hypertension is 3.6 percent.1The combined prevalence of prehypertension and hypertension in adolescents who are obese is greater than 30 percent in boys and is 23 to 30 percent in girls.2High blood pressure in childhood commonly leads to hypertension in adulthood,3and adult hypertension is the leading cause of premature death around the world.4Children with hypertension may have evidence of target organ damage, including left ventricular hypertrophy and pathologic vascular changes.5,6Primary hypertension in children is also commonly associated with other risk factors for cardiovascular disease (CVD), such as hyperlipidemia and diabetes mellitus.7,8Despite the high prevalence and potential risks of hypertension in children, physicians often do not recognize the condition in this population. In one study, hypertension was diagnosed in only 26 percent of children with documented high blood pressure in an electronic medical record.1Normal blood pressure values in children vary by age, sex, and height; therefore, increased awareness about how to diagnose and treat hypertension in children is needed to combat this increasingly common condition. An approach is outlined inFigure 1.9"
+        },
+        {
+            "parent": 0,
+            "text": "Normal blood pressure values in children increase with body size. Tables of normal and abnormal blood pressure values based on age, sex, and height are available from the National Institutes of Health athttp://www.cc.nih.gov/ccc/pedweb/pedsstaff/bptable1.PDFfor boys, and athttp://www.cc.nih.gov/ccc/pedweb/pedsstaff/bptable2.PDFfor girls. Applications for handheld devices to help physicians quickly and accurately determine if a child's blood pressure is in the normal range are commercially available."
+        },
+        {
+            "parent": 0,
+            "text": "The National High Blood Pressure Education Program (NHBPEP) has published definitions of prehypertension and hypertension in children and adolescents(Table 1).9Hypertension is defined as an average systolic or diastolic blood pressure level that is in the 95th percentile or greater based on at least three separate readings. After hypertension is diagnosed, it is classified as either stage 1 or 2 to assist in evaluation and treatment decisions."
+        },
+        {
+            "parent": 0,
+            "text": "Children and adolescents have a much higher incidence of secondary hypertension compared with adults.9–11Younger children or children with stage 2 hypertension are more likely to have secondary hypertension, whereas primary hypertension becomes more prevalent in adolescence and young adulthood.11Renal parenchymal disease and renovascular diseases account for most cases of secondary hypertension.12,13Table 2lists common causes of hypertension and associated findings.9,10"
+        },
+        {
+            "parent": 1,
+            "text": "Overweight and obesity are strongly correlated with primary hypertension in children.14–16Family history of hypertension or CVD, male sex, and maternal smoking during pregnancy are additional risk factors, whereas children who were breastfed have a reduced risk of hypertension.14,17–19Race and ethnicity have not been consistently linked to hypertension risk in children, although there is some evidence that black children with primary hypertension may be at increased cardiovascular risk compared with nonblack children.16,20"
+        },
+        {
+            "parent": 3,
+            "text": "The NHBPEP recommends measuring blood pressure at every office visit beginning at three years of age.9Ideally, measurements should be performed using auscultation, which is what standardized blood pressure tables are based on. If an oscillometric (automatic) device is used, then measurements that exceed the 90th percentile should be repeated using auscultation.9"
+        },
+        {
+            "parent": 3,
+            "text": "Using the wrong size of blood pressure cuff is a common cause of inaccurate readings. A cuff that fits properly will have an inflatable bladder width that is at least 40 percent of the arm circumference at a point midway between the acromion and the olecranon, and a bladder length that is 80 to 100 percent of the arm circumference.9Physicians who care for children and adolescents should have cuffs of varying sizes to ensure an appropriate fit. When a patient is in between cuff sizes, the larger of the two cuffs should be used. Although a cuff that is too small may result in a falsely elevated reading, a cuff that is slightly too large will still provide a relatively accurate measurement. The patient should avoid stimulating drugs or foods before a blood pressure measurement, and should sit quietly for five minutes in a chair that has back support with his or her feet on the ground. Blood pressure should be measured in the right arm while it is supported at heart level, because coarctation of the aorta may lead to falsely low readings in the left arm. If blood pressure is greater than the 90th percentile, the measurement should be repeated during the same office visit to confirm validity. Blood pressure must be elevated on three separate occasions to diagnose prehypertension or hypertension."
+        },
+        {
+            "parent": 3,
+            "text": "Ambulatory blood pressure monitoring can differentiate true hypertension from white coat hypertension, and can also determine the response to antihypertensive treatments.9,10,21One study found a prevalence of white coat hypertension of 53 percent in children referred for hypertension evaluation.22Ambulatory blood pressure monitoring should be considered if the office measurement is only mildly or intermittently elevated, or if blood pressure values are normal when measured at home. Because ambulatory blood pressure monitoring involves only oscillometric measurements, there is some concern over what constitutes normal values in children. Therefore, the person interpreting the results should have significant experience with childhood hypertension.21"
+        },
+        {
+            "parent": 3,
+            "text": "After prehypertension or hypertension is diagnosed, a history and physical examination can help determine if the child has primary or secondary hypertension. Very young children and children with stage 2 hypertension or with signs and symptoms suggesting an additional underlying systemic disorder require a more extensive evaluation for secondary hypertension. The NHBPEP and European Society of Hypertension guidelines for evaluation of children and adolescents with hypertension are described below.9,10"
+        },
+        {
+            "parent": 4,
+            "text": "The patient's medical history, including birth, growth, and developmental history, should be obtained, and screening for previous urologic, renal, cardiac, endocrine, and neurologic diseases should be completed. Many drugs can increase blood pressure; therefore, a medication review that includes over-the-counter agents, nutritional supplements, performance-enhancing drugs, and illicit substances should be performed. Because disordered sleep is associated with hypertension, a sleep history should be completed. Patients should be screened for a family history of hypertension, other CVD risk factors, and renal or endocrine syndromes. Risk factors such as a lack of physical activity, an unhealthy diet, smoking, and alcohol use should be explored. A complete review of systems may suggest an underlying medical disorder or symptoms of hypertensive urgency (headache, vomiting) or hypertensive emergency (seizure, altered mental status), which require emergent evaluation and treatment."
+        },
+        {
+            "parent": 5,
+            "text": "Physical examination findings are normal in most children with hypertension. Body mass index should be calculated because obesity is associated with primary hypertension, and poor growth may indicate an underlying chronic illness. Blood pressure should be measured in both arms while the child is seated and in one leg while the child is in a prone position. Blood pressure should be roughly equal in both arms and is normally 10 to 20 mm Hg higher in the leg. If there is a significant difference in blood pressure between the right and left arms, if leg blood pressure is lower than arm blood pressure, or if the femoral pulses are diminished, the child may have coarctation of the aorta. An abdominal bruit may indicate renovascular disease, and ambiguous genitalia can be associated with mineralocorticoid excess. The remainder of the examination should focus on detecting physical findings associated with other underlying conditions that cause hypertension(Table 2).9,10"
+        },
+        {
+            "parent": 6,
+            "text": "Initial laboratory studies are performed to evaluate for an underlying etiology, identify other CVD risk factors, and detect target organ damage.Table 3summarizes additional testing recommended by the NHBPEP for children and adolescents with confirmed prehypertension or hypertension.9If there is a high degree of suspicion that the child has secondary hypertension, further targeted workup may be indicated, typically in conjunction with subspecialist consultation."
+        },
+        {
+            "parent": 7,
+            "text": "Blood pressure goals are determined by the etiology of the hypertension, presence of other medical disorders, and evidence of target organ damage. Children with uncomplicated primary hypertension and no target organ damage have a blood pressure goal of less than the 95th percentile. Children with chronic renal disease, diabetes, or evidence of target organ damage have a goal of less than the 90th percentile.9It is important to note that these blood pressure goals are based on expert opinion, rather than evidence from randomized trials measuring patient-oriented, long-term outcomes. In many cases, the recommendations are extrapolated from adult studies. Children with hypertension need periodic monitoring for target organ damage and development of other CVD risk factors. Children with symptoms of hypertensive urgency or emergency require immediate treatment, typically with intravenous antihypertensive medications in a setting where they can be closely monitored."
+        },
+        {
+            "parent": 8,
+            "text": "All children with prehypertension or hypertension should make therapeutic lifestyle changes(Table 49,23,24)to lower blood pressure and reduce the development of additional CVD risk factors. Weight loss should be encouraged for children who are overweight or obese,9and children who are obese should be referred for comprehensive, intensive behavioral interventions.23"
+        },
+        {
+            "parent": 8,
+            "text": "Regular, sustained physical activity is most effective in lowering blood pressure,25,26and the NHBPEP recommends 30 to 60 minutes of moderate aerobic physical activity on most days and less than two hours of sedentary activity per day.9Children with prehypertension, stage 1 hypertension in the absence of target organ damage, or controlled stage 2 hypertension are eligible for participation in competitive sports.27"
+        },
+        {
+            "parent": 8,
+            "text": "There is a lack of evidence that dietary interventions can significantly decrease blood pressure in children. However, experts maintain that children with hypertension may benefit from consuming a diet high in fresh fruits and vegetables, fiber, and nonfat dairy products, in addition to reducing sodium intake.9One study found that the DASH (Dietary Approaches to Stop Hypertension) diet significantly lowered blood pressure in adolescents compared with standard dietary counseling.28Tobacco and alcohol use should be avoided in all children, but this is particularly important in children with hypertension because smoking has been shown to increase the risk of CVD and excess alcohol intake has been shown to raise blood pressure in adult studies.24"
+        },
+        {
+            "parent": 9,
+            "text": "Children with symptomatic hypertension, secondary hypertension, target organ damage, diabetes, or persistent hypertension despite nonpharmacologic measures require antihypertensive medications.9There is no consensus on the best initial antihypertensive medication to use in children, and there have been no clinical trials measuring patient-oriented, long-term outcomes in children. Therefore, recommendations are based on extrapolations from adult studies."
+        },
+        {
+            "parent": 9,
+            "text": "Thiazide diuretics, angiotensin-converting enzyme inhibitors, angiotensin II receptor blockers, beta blockers, and calcium channel blockers are safe, effective, and well tolerated in children.9When choosing an initial medication, concurrent medical conditions and the patient's lifestyle should be considered. For example, an angiotensin-converting enzyme inhibitor would be a good choice for a child with proteinuric renal disease,9and a beta blocker should not be given to a competitive athlete because it is prohibited in some athletic events.3The NHBPEP recommends beginning with the lowest recommended dosage of the antihypertensive medication, and then titrating up until the blood pressure goal is achieved. If the goal is not achieved with a maximum dosage of a single medication, a second medication with complementary action should be added.9Table 5includes dosing information for antihypertensive medications.9,10,29"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:We began with an initial evidence summary that included relevant POEMs, Cochrane reviews, evidence-based guidelines, and other items from Essential Evidence. PubMed was then searched using the key terms primary hypertension, secondary hypertension, prehypertension, children, pediatrics, and adolescents. Articles that referenced the NHBPEP Fourth Report on the Diagnosis, Evaluation, and Treatment of High Blood Pressure in Children and Adolescents were also searched. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were Agency for Healthcare Research and Quality evidence reports, the National Guideline Clearinghouse, and UpToDate. Search dates: December 2010 and January 2011."
+        }
+    ],
+    "locked": false
+}

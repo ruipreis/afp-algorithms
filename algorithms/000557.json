@@ -1,0 +1,127 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0515/p879.html#afp20090515p879-f2",
+    "title": "Identification and Management of Latent Tuberculosis Infection | AAFP",
+    "author": "FERN R. HAUCK, MD, MS, BRIAN H. NEESE, MD, MPH, AMIESHA S. PANCHAL, MD, AND WENDI EL-AMIN, MD",
+    "doi": "Am Fam Physician.2009;79(10):879-886",
+    "abstract": "Latent tuberculosis infection (LTBI) is a condition in which a person is infected withMycobacterium tuberculosis, but does not currently have active tuberculosis disease. An estimated 10 to 15 million persons in the United States have LTBI. Because 5 to 10 percent of persons with LTBI are at risk of progressing to active disease, identification and treatment of LTBI are essential for the elimination of tuberculosis. Screening is recommended for high-risk persons, including immigrants; residents and employees of congregate living facilities; and persons infected with human immunodeficiency virus. Targeted tuberculin skin testing remains the most acceptable method of LTBI screening. New tests are being developed, the most promising of which are in vitro interferon-gamma release assays. All screened persons found to have LTBI should be offered treatment, regardless of age. Before initiating treatment, active tuberculosis must be ruled out by patient history, physical examination, and chest radiography. The treatment of choice for LTBI is isoniazid for nine months. Hepatotoxicity is the most severe adverse effect. Isoniazid should be discontinued if transaminase levels are greater than three times the upper limit of normal in symptomatic patients or five times the upper limit of normal in asymptomatic patients.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors for Infection and Progression to Active Tuberculosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening for LTBI",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The World Health Organization estimates that there are nearly 2 million deaths worldwide from tuberculosis annually, with the disease ranking second only to human immunodeficiency virus (HIV) as an infectious cause of death.1Nearly one third of the world's population is infected withMycobacterium tuberculosis,2and the rate continues to increase.3In the United States, the HIV epidemic, multidrug-resistant tuberculosis (MDR-TB), and an increase in immigration contributed to a tuberculosis resurgence in the late 1980s. This has largely been managed by improved infection control and better rates of treatment completion using directly observed therapy.4,5In 2006, there were 13,779 cases of tuberculosis (4.6 per 100,000 persons) reported, the lowest since 1953, with more than one half of new cases occurring among foreign-born persons.6"
+        },
+        {
+            "parent": -1,
+            "text": "Latent tuberculosis infection (LTBI) is a condition in which a person is infected withM. tuberculosis, but does not currently have active tuberculosis disease. The 10 to 15 million Americans with LTBI are asymptomatic and not infectious, but are at risk of progression to active disease.7Because of this risk, identification and treatment of LTBI are essential for the elimination of tuberculosis."
+        },
+        {
+            "parent": 0,
+            "text": "As the number of tuberculosis cases decreases, primary care physicians become less aware of high-risk patients and are less likely to consider tuberculosis in their differential diagnosis.8Groups at high risk of infection include employees of long-term care facilities, hospitals, clinics, and medical laboratories; foreign-born persons from countries with a high prevalence of tuberculosis; racial and ethnic minorities; persons who have close contact with someone known or suspected to have active tuberculosis; and residents and employees of congregate living facilities (e.g., prisons, homeless shelters).6The greatest risk of progression from LTBI to active tuberculosis occurs in the first two years after infection, when about one half of the 5 to 10 percent lifetime risk occurs.7This risk is increased in children younger than four years; persons with HIV infection, diabetes, and other chronic conditions; those using immunosuppressant medications; and those with apical fibronodular changes on chest radiography. Newer therapeutic agents that antagonize the effect of cytokine tumor necrosis factor B (i.e., infliximab [Remicade], etanercept [Enbrel], and adalimumab [Humira]) have also been found to increase the risk of progression.9,10Groups at high risk of infection and progression to active disease are shown inTable 1.7,11,12"
+        },
+        {
+            "parent": 0,
+            "text": "In contrast to LTBI, which is asymptomatic, typical symptoms of active pulmonary tuberculosis include fever or night sweats, weight loss, cough, and chest pain. The patient may appear well or chronically ill. Physical examination may reveal rales, wheezes, rhonchi, or signs of pleural effusion. In addition to the signs, symptoms, and risk factors for tuberculosis, pulmonary infiltrates in the upper lobes on chest radiography, with or without cavitation or miliary patterns, should raise the physician's suspicion for active tuberculosis.13"
+        },
+        {
+            "parent": 1,
+            "text": "The decision to screen for tuberculosis is a decision to treat.14LTBI screening is effective in two groups of persons: those at risk of contractingM. tuberculosisand those at risk of progressing from LTBI to active tuberculosis.15Routine screening outside these high-risk groups dissipates resources and leads to high false-positive test rates.12,14"
+        },
+        {
+            "parent": 1,
+            "text": "The targeted tuberculin skin test (TST), also called the Mantoux test, is the most accepted method of LTBI screening.14A 0.1 mL (5 tuberculin units) intradermal injection of purified protein derivative is placed on the forearm, most commonly the volar surface. This raises an initial wheal of 6 to 10 mm in diameter. Reaction size is determined after 48 to 72 hours, although positive reactions often remain for up to one week.14If a patient returns after 72 hours, negative results are unreliable. The patient should be retested, taking into account possible boosting effects of the TST, which are discussed below."
+        },
+        {
+            "parent": 1,
+            "text": "When interpreting a TST result, the transverse diameter of induration, not erythema, is measured in millimeters (Figure 1).11Physicians may palpate or use a ballpoint pen to determine the margins of induration. The widest diameter of the indurated area should be marked and measured across the forearm, perpendicular to the long axis.11The Centers for Disease Control and Prevention (CDC) has published detailed protocols regarding the placement and reading of the TST.11"
+        },
+        {
+            "parent": 1,
+            "text": "The TST induces a delayed hypersensitivity reaction that is detectable two to 12 weeks after infection withM. tuberculosis. Criteria for a positive reaction depend on the patient's health status and tuberculosis risk (Table 212,14,16). Patients in higher-risk groups require smaller reaction wheals to increase test sensitivity.15"
+        },
+        {
+            "parent": 1,
+            "text": "Rates of false-negative TST results are as high as 10 to 20 percent in patients with provenM. tuberculosisinfection and no apparent immunocompromising conditions.12,15Anergy testing is not recommended for persons with HIV infection because of variations in response over time, or for other patients because of insufficient evidence to support such testing.15There are many confounders that lead to false-negative and false-positive results (Table 3).16,17Bacille Calmette-Guérin (BCG) vaccination, used in highly endemic areas throughout the world to prevent disseminated forms of tuberculosis in infants and young children, is a noteworthy cause of false-positive results.11TST reactivity caused by the BCG vaccine wanes with time, but serial testing may boost the immune response. There is no reliable skin test to distinguish a positive TST reaction caused by BCG vaccination versus natural mycobacterial infection.14Therefore, BCG vaccination history should not influence interpretation of TST results.14"
+        },
+        {
+            "parent": 1,
+            "text": "Similarly, TST reactivity may also wane after natural mycobacterial infection. A patient's first TST may produce no induration, but the immune system is “boosted” and the next administration of TST causes a reaction. For health care workers and other persons tested annually, follow-up annual TST will be interpreted as positive, wrongly indicating recent tuberculosis infection. To establish accurate baseline skin testing, these persons should undergo sequential two-step testing, in which a second TST is performed within one to three weeks of a negative initial test result.16This establishes whether distant infection has occurred.11However, there is no place for such two-step testing in contact investigations where ongoing tuberculosis transmission may be occurring.11"
+        },
+        {
+            "parent": 1,
+            "text": "New tests are being developed for LTBI screening, the most promising of which are in vitro interferon-gamma release assays (IGRAs). These in vitro blood tests evaluate T-lymphocyte responses toM. tuberculosis–specific antigens, such as early secretory antigenic target-6 and culture filtrate protein-10. These proteins are absent from the BCG vaccine strains and from commonly encountered nontuberculous mycobacteria. Although there is no diagnostic standard, IGRAs are comparable to TST in detecting LTBI.18"
+        },
+        {
+            "parent": 1,
+            "text": "The QuantiFeron-TB Gold test is the only IGRA that is approved by the U.S Food and Drug Administration and commercially available in the United States. The CDC released guidelines in 2005 stating that the QuantiFeron-TB Gold test may be used wherever TST is currently used.19The test is commercially available to tuberculosis control programs and institutions. Individual physicians should consult their local laboratory for availability and cost of the test. If it is not available, TST should be continued."
+        },
+        {
+            "parent": 1,
+            "text": "IGRAs avoid the subjective nature of placing and interpreting TSTs and are less affected by previous BCG vaccinations.18,20They also differentiate nontuberculosis reactions and obviate two-step tuberculin testing associated with boosting effects.18,19IGRAs are labor intensive, however, and there is a 12-hour time limit from blood draw to receipt in a qualified laboratory and incubation with the test antigens. Still, the cost-to-benefit ratio favors IGRA over TST in health care settings, correctional facilities, and homeless shelters.19"
+        },
+        {
+            "parent": 1,
+            "text": "The limiting factor for IGRA use is that epidemiologic determination of sensitivity and specificity has not been completed, especially for high-risk tuberculosis groups, such as children, immunocompromised persons, and persons who were recently exposed to active tuberculosis.19Risk-stratified cutoffs to determine a positive test result and clinical trials to evaluate patient-oriented effectiveness are also lacking. Negative results require careful clinical assessment and, like TST, cannot by themselves excludeM. tuberculosisinfection. Indeterminate results require follow-up testing using IGRA or TST only if the patient is at increased risk of infection.19"
+        },
+        {
+            "parent": 2,
+            "text": "All screened persons found to have LTBI should be offered treatment, regardless of age and BCG vaccination status. Before initiating treatment, active tuberculosis must be ruled out by patient history, physical examination, and chest radiography.Figure 2provides a screening and treatment algorithm for LTBI.8,14,15,19"
+        },
+        {
+            "parent": 2,
+            "text": "If a patient has had recent close contact with a person with active tuberculosis but is still in the 12-week window where TST may be negative, immediate LTBI treatment should be considered if the patient is at high risk of progression to active tuberculosis or has increased susceptibility to disease.14A repeat TST should be performed 12 weeks after contact has ended, and treatment should be continued if the TST result is positive, or discontinued if the result is negative. The exception to this recommendation is that persons who are immunocompromised, including those with HIV infection, who had contact with individuals with active tuberculosis should continue treatment for LTBI, even if repeat TST is negative."
+        },
+        {
+            "parent": 2,
+            "text": "Isoniazid (INH) is the treatment of choice for LTBI. For adults, the recommended duration of treatment is at least six, and preferably nine, months.14,21,22Children younger than 18 years and persons with HIV infection should be treated for nine months.14In pregnant women, a six- to nine-month course of INH may be delayed until after delivery, unless there is increased risk of placental infection or progression to active tuberculosis (e.g., immunocompromising conditions, recentM. tuberculosisinfection). In this case, treatment should be initiated during pregnancy, with close monitoring for INH toxicity.14Table 4lists treatment regimens for LTBI.14"
+        },
+        {
+            "parent": 2,
+            "text": "Peripheral neuropathy is a common adverse effect of INH therapy because INH interferes with pyridoxine metabolism. In symptomatic patients, pregnant women, persons with seizure disorders, and persons with conditions where neuropathy is common (e.g., diabetes, malnutrition, alcoholism, HIV), pyridoxine supplementation at a dose of 10 to 50 mg daily is advised. Routine use of pyridoxine in children taking INH is not recommended, except if the child is symptomatic, breastfeeding, or consuming a diet likely to be deficient in pyridoxine.14"
+        },
+        {
+            "parent": 2,
+            "text": "The most severe adverse effect of INH is hepatotoxicity, which has an incidence of approximately one in 1,000.23Toxicity increases with age and with alcohol use, so abstinence from alcohol should be advised for all patients taking INH. INH is contraindicated in patients with active hepatitis or end-stage liver disease. Monthly clinical monitoring is recommended for all patients on INH therapy.14At each visit, patients should be asked about adherence to therapy and symptoms of peripheral neuropathy and hepatitis (e.g., nausea, vomiting, dark urine, jaundice, abdominal pain). A brief physical examination should be performed to detect signs of hepatitis. Patients with these signs or symptoms should be further evaluated with liver function studies."
+        },
+        {
+            "parent": 2,
+            "text": "Pretreatment aspartate transaminase, alanine transaminase, and bilirubin levels are recommended only in patients who are at high risk of hepatotoxicity, including those with viral or alcoholic hepatitis, cirrhosis, HIV infection, or regular alcohol use, and in pregnant women up to three months postpartum. Repeat laboratory evaluation during the treatment course is indicated in patients with abnormal baseline liver function tests, conditions associated with an increased risk of hepatic disease, or signs or symptoms of hepatotoxicity. Asymptomatic elevation of liver enzymes occurs in 10 to 20 percent of patients taking INH. Most experts recommend discontinuing INH if transaminase levels are greater than three times the upper limit of normal in symptomatic patients or five times the upper limit of normal in asymptomatic patients.14INH can also interact with phenytoin (Dilantin), increasing serum concentrations of both drugs. Therefore, serum levels of phenytoin should be monitored in patients taking these medications.14"
+        },
+        {
+            "parent": 2,
+            "text": "Rifampin (Rifadin) for four months is an acceptable alternative to INH for LTBI treatment.14,24It can be used in children if INH is not tolerated or if the child was in contact with an INH-resistant, rifampin-susceptible organism. However, no clinical trials have been conducted in this population.14Gastrointestinal upset is the most common adverse reaction, whereas skin rash and thrombocytopenia occur less often. Patients should be cautioned that rifampin causes orange coloration of urine, tears, sweat, and other body fluids, and can permanently discolor contact lenses. Rifampin also increases metabolism of hepatically cleared drugs, including oral contraceptives, thus interfering with their effectiveness. Because rifampin interacts with protease inhibitors and nonnucleoside reverse transcriptase inhibitors, it is generally contraindicated in patients with HIV infection taking these medications. Rifabutin (Mycobutin) can be considered as an alternative. Treatment decisions for these complicated patients should be made in consultation with an infectious disease specialist."
+        },
+        {
+            "parent": 2,
+            "text": "Shorter treatment regimens have been investigated because they could increase therapy completion rates. Three months of rifampin plus INH compared with six to 12 months of INH resulted in no differences in development of active tuberculosis, mortality, or severe adverse effects.25The shorter regimen is not included in older American Thoracic Society (ATS) and CDC guidelines."
+        },
+        {
+            "parent": 2,
+            "text": "In previous guidelines, a combination of rifampin and pyrazinamide for two months was recommended as an alternative to INH. However, case reports of associated liver injury causing hospitalization or death prompted the ATS and CDC to revise their guidelines.26A meta-analysis also found that although the rifampin/pyrazinamide regimen was equivalent to INH in terms of effectiveness and mortality, it increased the risk of severe adverse effects in persons without HIV infection.27The new guidelines state that this regimen should not be offered to anyone with LTBI.26"
+        },
+        {
+            "parent": 2,
+            "text": "Completion of LTBI treatment is based on total number of doses administered, not on duration alone, to allow for minor interruptions in treatment.14If treatment is interrupted, the physician may decide to continue the prescribed regimen until the recommended number of doses is completed or to renew the entire regimen if the interruption is prolonged. In either situation, if the interruption is greater than two months, examination to rule out active tuberculosis is recommended.14"
+        },
+        {
+            "parent": 2,
+            "text": "Finally, the emergence and spread of MDR-TB poses a worldwide threat to tuberculosis control. No randomized controlled trials have assessed the effectiveness of LTBI treatment in patients exposed to MDR-TB, so the balance of risks and benefits of treatment remains unclear."
+        }
+    ],
+    "locked": false
+}

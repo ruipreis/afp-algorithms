@@ -1,0 +1,172 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0115/p283.html#afp20060115p283-f2",
+    "title": "Hyperkalemia | AAFP",
+    "author": "JOYCE C. HOLLANDER-RODRIGUEZ, M.D., AND JAMES F. CALVERT, JR., M.D.",
+    "doi": "Am Fam Physician.2006;73(2):283-290",
+    "abstract": "Hyperkalemia is a potentially life-threatening metabolic problem caused by inability of the kidneys to excrete potassium, impairment of the mechanisms that move potassium from the circulation into the cells, or a combination of these factors. Acute episodes of hyperkalemia commonly are triggered by the introduction of a medication affecting potassium homeostasis; illness or dehydration also can be triggers. In patients with diabetic nephropathy, hyperkalemia may be caused by the syndrome of hyporeninemic hypoaldosteronism. The presence of typical electrocardiographic changes or a rapid rise in serum potassium indicates that hyperkalemia is potentially life threatening. Urine potassium, creatinine, and osmolarity should be obtained as a first step in determining the cause of hyperkalemia, which directs long-term treatment. Intravenous calcium is effective in reversing electrocardiographic changes and reducing the risk of arrhythmias but does not lower serum potassium. Serum potassium levels can be lowered acutely by using intravenous insulin and glucose, nebulized beta2agonists, or both. Sodium polystyrene therapy, sometimes with intravenous furosemide and saline, is then initiated to lower total body potassium levels.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Normal Potassium Physiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Causes of Hyperkalemia",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "PSEUDOHYPERKALEMIA",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "HYPERKALEMIA CAUSED BY DECREASED EXCRETION OF POTASSIUM",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "MEDICATION-INDUCED HYPERKALEMIA",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ADRENAL INSUFFICIENCY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CONGENITAL CAUSES OF HYPERKALEMIA",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "ACUTE TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "LOWERING TOTAL BODY POTASSIUM",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "LONG-TERM TREATMENT",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The prevalence of hyperkalemia in hospitalized patients is between 1 and 10 percent.1Although the exact prevalence of hyperkalemia in community-based medical practice is unknown, potassium elevation is a common, potentially life-threatening problem most often occuring in patients with chronic renal failure or other illnesses that reduce renal potassium excretion(Table 12,3). In these patients, acute hyperkalemia often is precipitated by stressors such as illness, dehydration, or initiation of medicines that alter potassium homeostasis(Table 24–10).4–7"
+        },
+        {
+            "parent": 0,
+            "text": "Two mechanisms normally regulate potassium levels in response to variation of potassium intake. First, ingested potassium rapidly enters the portal circulation, stimulating the pancreas to release insulin. Elevated insulin levels induce rapid transport of potassium from the extracellular space into cells via cellular sodium-potassium adenosine triphosphatase. Second, increased potassium in the circulation causes the renal juxtaglomerular cells to release renin. This stimulates hepatic activation of angiotensin I that is then converted in the lungs to angiotensin II. Angiotensin II stimulates the adrenal zona glomerulosa to secrete aldosterone. Elevated serum aldosterone causes the renal cortical collecting ducts to excrete potassium and retain sodium, further lowering serum potassium.2"
+        },
+        {
+            "parent": 1,
+            "text": "The first step in the evaluation of a patient with elevated serum potassium is to exclude spurious potassium elevation(Table 32,3). If the elevation is shown to be real, the next step is to consider: (1) the effects of medications, including increased potassium intake(Table 24–10); (2) the impaired distribution of potassium between the intracellular and extracellular space; or (3) the impaired renal excretion of potassium. All three factors often are present (e.g., the stress of illness induces hyperkalemia in a patient rendered susceptible by impaired homeostatic mechanisms and the presence of a medication that impairs normal potassium regulation)."
+        },
+        {
+            "parent": 2,
+            "text": "Pseudohyperkalemia occurs when laboratory reports of potassium do not reflect actual values. The most common cause is lysis of red cells in a phlebotomy specimen. Other causes are listed inTable 32,3. Potassium released from platelets can lead to spuriously high levels of potassium in a blood sample allowed to clot to collect serum. Pseudohyperkalemia can be excluded by repeating the sample collection as atraumatically as possible and obtaining serum and plasma potassium levels. In patients with pseudohyperkalemia, the plasma potassium will be normal in the face of an elevated serum potassium."
+        },
+        {
+            "parent": 3,
+            "text": "Effective excretion of potassium is dependent on aldosterone and sufficient distal delivery of sodium and water within the nephron. Hyperkalemia may occur when one of these mechanisms is impaired because of renal failure, renal hypoperfusion (e.g., volume depletion, congestive heart failure), or hypoaldosteronism. Hypoaldosteronism may be the cause of hyperkalemia in patients who do not have advanced renal failure or hypoperfusion.11"
+        },
+        {
+            "parent": 3,
+            "text": "Hyporeninemic hypoaldosteronism, a syndrome associated with type IV renal tubular acidosis, may be part of the mechanism behind hyperkalemia in patients with mild renal failure, particularly diabetic nephropathy. Hyporeninemic hypoaldosteronism can cause patients who have diabetic nephropathy to develop acute elevations of potassium because of medications or stress (e.g., dehydration, acute illness).12"
+        },
+        {
+            "parent": 4,
+            "text": "The factors that decrease potassium excretion also increase the risk of medication-induced hyperkalemia. Because of the relative decline in renal function with age, family physicians should use caution when prescribing medications that alter potassium metabolism in older patients. Judicious monitoring of potassium levels is important in at-risk patients receiving these medicines."
+        },
+        {
+            "parent": 4,
+            "text": "Neurohumoral inhibition with angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers benefits patients with chronic heart failure; adding spironolactone (Aldactone) reduces morbidity and mortality in patients with severe heart failure.13ACE inhibition also decreases cardiovascular mortality in high-risk patients, particularly in those with diabetes.14,15However, patients who take a combination of ACE inhibitors and spironolactone are prone to hyperkalemia8; hyporeninemic hypoaldosteronism may contribute as well. Non-steroidal anti-inflammatory drugs (NSAIDs) decrease renin secretion, leading to decreased potassium secretion. The addition of NSAIDs in these patients can impair renal function to the degree of inducing life-threatening hyperkalemia. Thus, NSAIDs should be taken with caution in patients with diabetes or renal failure.10,16"
+        },
+        {
+            "parent": 5,
+            "text": "The possibility of adrenal insufficiency should be considered in all patients with hyperkalemia. Clinical suspicion is increased by the presence of hyponatremia and muscular weakness.17Primary adrenal insufficiency is best screened for with a standard cosyntropin-stimulation test,18in which 0.25 mg of synthetic cosyntropin is given as an intravenous bolus. Plasma cortisol is measured 45 to 60 minutes later, and values less than 20 mcg per dL (550 nmol per L) suggest adrenal insufficiency.19"
+        },
+        {
+            "parent": 6,
+            "text": "Congenital abnormalities of aldosterone synthesis also can lead to potassium elevation and excessive sodium loss. Severe forms of these disorders lead to electrolyte imbalances in neonates that can be fatal if not corrected promptly. If these patients survive infancy, the disorder tends to be less severe as they get older.20Pseudohypoaldosteronism refers to congenital resistance to the actions of aldosterone on the kidney; the autosomal recessive form is more severe and can lead to death in the neonate if not treated aggressively. Patients suspected to have one of these unusual genetic abnormalities should be referred to a pediatric endocrinologist to establish appropriate initial treatment; patients may then be managed by their family physician with occasional consultation."
+        },
+        {
+            "parent": 7,
+            "text": "The initial diagnostic approach begins with the clinical history, review of medications, and physical examination. Symptoms and signs include muscular weakness or flaccid paralysis, ileus, and characteristic electrocardiograph (ECG) changes(Figure 121). Laboratory tests should be directed towards causes suggested by the history and physical examination, with attention to serum electrolytes, creatinine, and blood urea nitrogen. A spot urine test for potassium, creatinine, and osmoles should be obtained to calculate the fractional excretion of potassium and the transtubular potassium gradient(Table 422,23). The transtubular potassium gradient is an assessment of renal potassium handling, with a normal value of eight to nine, rising at times to 11 after an increase in potassium intake. Values lower than five in the face of hyperkalemia suggest an inappropriate renal response to high potassium22; a very low value suggests hypoaldosteronism."
+        },
+        {
+            "parent": 7,
+            "text": "Hyporeninemic hypoaldosteronism should be considered in patients with diabetes and hyperkalemia, who generally have a low serum aldosterone. A trial of oral fludrocortisone (Florinef) is generally the most practical way to empirically establish this diagnosis; if the patient has hyporeninemic hypoaldosteronism, potassium levels will return to normal in a day or two after initiation of fludrocortisone.24"
+        },
+        {
+            "parent": 8,
+            "text": "Factors necessitating emergent treatment of hyperkalemia include changes on ECG, a rapid rise of serum potassium, decreased renal function, and the presence of significant acidosis23(Figure 2). Urgent treatment should not be delayed while a work-up for the etiology is undertaken, although urine potassium, creatinine, and osmolarity studies should be obtained before serum potassium levels are significantly altered. Although controlled trials have not been conducted, it is thought that potassium levels greater than 6.0 mEq per L (6.0 mmol per L) are clinically significant. ECG changes in a patient with hyperkalemia are an ominous portent of potentially fatal arrhythmias. However, hyperkalemia can be life threatening even if the ECG is normal,25,26and about one half of patients with potassium levels exceeding 6.0 mEq per L have a normal ECG.1"
+        },
+        {
+            "parent": 8,
+            "text": "There are no clear guidelines regarding the appropriate setting for the treatment of hyperkalemia. The decision for hospital admission for continuous ECG monitoring is a matter of clinical judgment in each case.2,27Patients believed to have a rapid rise in potassium commonly need inpatient care, whereas patients whose hyperkalemia has developed over a period of weeks can often be managed in an outpatient setting with close follow-up."
+        },
+        {
+            "parent": 9,
+            "text": "Urgent treatment of hyperkalemia includes stabilizing the myocardium to protect against arrhythmias and shifting potassium from the vascular space into the cells. After the serum potassium level is reduced to safe levels, treatment focuses on lowering total body potassium. In patients who do not require urgent treatment, lowering total body potassium may be the only step necessary."
+        },
+        {
+            "parent": 9,
+            "text": "Intravenous calcium is administered to stabilize the myocardium; it lowers the threshold potential, thus counteracting the toxic effect of high potassium. Calcium does not have any effect on the serum potassium level. Improvement in the ECG changes should be visible within two to three minutes of administration of calcium(Table 52,3). Repeated doses can be given while other measures are initiated.28"
+        },
+        {
+            "parent": 9,
+            "text": "Caution should be used in patients who take digoxin because calcium has been reported to worsen the myocardial effects of digoxin toxicity.2,3Some experts suggest using a slower calcium infusion for 20 to 30 minutes in patients with hyperkalemia who are on digitalis therapy.28–30An alternative is to consider using magnesium instead of calcium to stabilize the myocardium.29"
+        },
+        {
+            "parent": 9,
+            "text": "Shifting potassium intracellularly is done using insulin or a beta2agonist(Table 52,3). Insulin typically is given as 10 units intravenously with 50 mL of 50 percent glucose to counteract hypoglycemia. Repeated doses can be given if the potassium level remains elevated."
+        },
+        {
+            "parent": 9,
+            "text": "Inhaled beta2 agonists have a rapid onset of action. The effect of beta2 agonists is additive to that of insulin administration, and they can be taken together.31 Nebulized albuterol (Ventolin) is taken in a dose of 10 to 20 mg. Intravenous beta2 agonists have been used in Europe, but they are not approved by the U.S. Food and Drug Administration.3"
+        },
+        {
+            "parent": 9,
+            "text": "Sodium bicarbonate is no longer recommended to lower potassium, although it may be appropriate in patients with severe metabolic acidosis.32"
+        },
+        {
+            "parent": 10,
+            "text": "Treatments that shift potassium into the cells have no effect on total body potassium. Potassium can be eliminated by renal excretion, gastrointestinal elimination, or dialysis. The agents taken to lower total body potassium can interfere with tests to determine the cause of hyperkalemia. Thus, spot urine potassium, creatinine, and osmolality levels should be obtained before the agents are initiated; however, treatment should not be delayed while awaiting results."
+        },
+        {
+            "parent": 10,
+            "text": "Gastrointestinal excretion is accomplished using sodium polystyrene sulfonate (Kayexalate), which binds potassium in the colon in exchange for sodium; it can be given orally or as a retention enema. The enema form is faster; the oral route can take four to six hours because it requires the resin to get to the colon before it takes effect. Sodium polystyrene sulfonate often is given with sorbitol to decrease constipation. However, sorbitol can have intestinal complications, with reports of bowel necrosis and perforation in immunocompromised patients.33Using furosemide (Lasix) with polystyrene reduces the risk of volume overload because of the sodium that is exchanged for potassium by the resin(Table 52,3).33"
+        },
+        {
+            "parent": 10,
+            "text": "Excretion of renal potassium can be increased with the use of diuretics, particularly loop diuretics (e.g., furosemide). Patients with decreased kidney function may be relatively resistant to the effects of diuretics. If the patient is volume depleted, saline can be given with the diuretic. Hemodialysis or continuous renal replacement therapy are the treatments of last resort, with the exception of patients already receiving these therapies."
+        },
+        {
+            "parent": 11,
+            "text": "Long-term treatment should be tailored to correcting the underlying cause of hyperkalemia. Low-potassium diets should be discussed with patients, and medications that precipitated hyperkalemia should be discontinued if possible. The use of loop diuretics or fludrocortisone will be needed for patients with hyporeninemic hypoaldosteronism whose hyperkalemia recurs or is chronic. The usual dosage of f ludrocortisone is 0.1 mg daily, although more will be needed in some patients. In some patients, hyporeninemic hypoaldosteronism is transitory and resolves after acute management; in others, long-term management with f ludrocortisone is required. Many patients tolerate long-term use of f ludrocortisone with no problems. The principal side effects are hypertension and f luid retention, which may respond to an added diuretic. Although the question of appropriate treatment duration with f ludrocortisone has never been studied, one approach to management would be to slowly taper f ludrocortisone on an outpatient basis, and reinstate f ludrocortisone if potassium rises."
+        },
+        {
+            "parent": 11,
+            "text": "Hyperkalemia caused by the use of ACE inhibitors or angiotensin receptor blockers in patients with chronic renal failure and metabolic acidosis may respond to sodium bicarbonate supplementation. The dosage is 25 to 50 mEq daily (two tablets twice a day at 8 mEq each,) or baking soda (1/2 to 1 tsp daily). Concomitant diuretic use limits the risk of volume overload.12"
+        }
+    ],
+    "locked": false
+}

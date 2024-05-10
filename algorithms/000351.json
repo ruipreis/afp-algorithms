@@ -1,0 +1,182 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0301/p359.html#afp20140301p359-f1",
+    "title": "A Stepwise Approach to the Interpretation of Pulmonary Function Tests | AAFP",
+    "author": "JEREMY D. JOHNSON, MD, MPH, AND WESLEY M. THEURER, DO, MPH",
+    "doi": "Am Fam Physician.2014;89(5):359-366",
+    "abstract": "Office-based pulmonary function testing, also known as spirometry, is a powerful tool for primary care physicians to diagnose and manage respiratory problems. An obstructive defect is indicated by a low forced expiratory volume in one second/forced vital capacity (FEV1/FVC) ratio, which is defined as less than 70% or below the fifth percentile based on data from the Third National Health and Nutrition Examination Survey (NHANES III) in adults, and less than 85% in patients five to 18 years of age. If an obstructive defect is present, the physician should determine if the disease is reversible based on the increase in FEV1or FVC after bronchodilator treatment (i.e., increase of more than 12% in patients five to 18 years of age, or more than 12% and more than 200 mL in adults). Asthma is typically reversible, whereas chronic obstructive pulmonary disease is not. A restrictive pattern is indicated by an FVC below the fifth percentile based on NHANES III data in adults, or less than 80% in patients five to 18 years of age. If a restrictive pattern is present, full pulmonary function tests with diffusing capacity of the lung for carbon monoxide testing should be ordered to confirm restrictive lung disease and form a differential diagnosis. If both the FEV1/FVC ratio and the FVC are low, the patient has a mixed defect. The severity of the abnormality is determined by the FEV1(percentage of predicted). If pulmonary function test results are normal, but the physician still suspects exercise- or allergen-induced asthma, bronchoprovocation (e.g., methacholine challenge, mannitol inhalation challenge, exercise testing) should be considered.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Getting Started",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Step 1: Determine If the FEV1/FVC Ratio Is Low",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "GOLD VS. ATS CRITERIA",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Step 2: Determine If the FVC Is Low",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Step 3: Confirm the Restrictive Pattern",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Step 4: Grade the Severity of the Abnormality",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Step 5: Determine Reversibility of the Obstructive Defect",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Step 6: Bronchoprovocation",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "METHACHOLINE CHALLENGE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MANNITOL INHALATION CHALLENGE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "EXERCISE TESTING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "EUCAPNIC VOLUNTARY HYPERPNEA TESTING",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Step 7: Establish the Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Step 8: Compare Current and Prior PFT Results",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Pulmonary function tests (PFTs) are useful for diagnosing the cause of unexplained respiratory symptoms and monitoring patients with known respiratory disease. Many organizations, including the National Asthma Education and Prevention Program, Global Initiative for Chronic Obstructive Lung Disease (GOLD), and American Thoracic Society (ATS), recommend using these tests.1–3Office equipment required to perform PFTs includes a computer, PFT software, pneumotach, printer, disposable mouthpiece, disposable nosepiece, and a 3-L syringe for calibration. There is no difference between PFT measurements obtained in the office (spirometry) and those obtained in a pulmonary function laboratory, as long as trained personnel calibrate, administer, and interpret the results."
+        },
+        {
+            "parent": -1,
+            "text": "PFTs take approximately 15 minutes for adults, 15 to 30 minutes for children, 45 minutes for pre- and postbronchodilator testing, and one hour for full PFTs with diffusing capacity of the lung for carbon monoxide (DLCO) testing. Five years is usually the youngest age at which children are able to cooperate with PFT procedures.1Some PFT software will interpret the patient's results automatically, but these machines should be used with caution because they may not follow current guidelines."
+        },
+        {
+            "parent": -1,
+            "text": "Physicians can use the following stepwise approach to not only interpret PFTs from their office or a pulmonary function laboratory, but also determine when to order further testing and how to use PFT results to formulate a differential diagnosis.Figure 1is an algorithm based on this approach.Table 1includes common terms related to PFTs.4"
+        },
+        {
+            "parent": 0,
+            "text": "Before PFT results can be reliably interpreted, three factors must be confirmed: (1) the volume-time curve reaches a plateau, and expiration lasts at least six seconds(Figure 2); (2) results of the two best efforts on the PFT are within 0.2 L of each other(Figure 3); and (3) the flow-volume loops are free of artifacts and abnormalities.5If the patient's efforts yield flattened flow-volume loops, submaximal effort is most likely; however, central or upper airway obstruction should be considered."
+        },
+        {
+            "parent": 1,
+            "text": "The first step when interpreting PFT results is to determine if the forced expiratory volume in one second/forced vital capacity (FEV1/FVC) ratio is low, indicating an obstructive defect. Physicians have two options to determine if this ratio is low."
+        },
+        {
+            "parent": 1,
+            "text": "The first option is to follow the GOLD criteria, which use a cutoff of less than 70%.2For patients five to 18 years of age, the National Asthma Education and Prevention Program guideline says that a ratio of less than 85% is consistent with an obstructive defect as long as the patient has symptoms consistent with obstructive lung disease.1"
+        },
+        {
+            "parent": 1,
+            "text": "The second option is to follow the ATS criteria, which use the lower limit of normal (LLN) as the cutoff for adults.3The LLN is a measurement less than the fifth percentile of spirometry data obtained from the Third National Health and Nutrition Examination Survey (NHANES III). Most modern PFT software can calculate the LLN. Alternatively, the calculator athttp://hankconsulting.com/RefCal.htmlcan be used for adults up to 75 years of age. Although the U.S. Food and Drug Administration has not approved this calculator for clinical use, it appears to be accurate and valid."
+        },
+        {
+            "parent": 2,
+            "text": "A large cohort study found that using the GOLD criteria (FEV1/FVC less than 70%) for diagnosis of chronic obstructive pulmonary disease (COPD) in U.S. adults 65 years and older was more sensitive for COPD-related obstructive lung disease than using the ATS criteria (FEV1/FVC less than the LLN).6This finding was based on evidence that adults who met the GOLD criteria but not the ATS criteria (FEV1/FVC less than 70% but greater than the LLN) had greater risk of COPD-related hospitalization (hazard ratio = 2.6; 95% confidence interval, 2.0 to 3.3) and mortality (hazard ratio = 1.3; 95% confidence interval, 1.1 to 1.5).7Another cohort study looking at adults 65 years and older found that, compared with the ATS criteria, the GOLD criteria had higher clinical agreement with an expert panel diagnosis for COPD and better identified patients with clinically relevant events (e.g., COPD exacerbation, hospitalization, mortality).7Until better criteria for the diagnosis of COPD are found, physicians should use the GOLD criteria to diagnose obstructive lung disease in patients 65 years and older with respiratory symptoms who are at risk of COPD (i.e., current or previous smoker).6,7"
+        },
+        {
+            "parent": 2,
+            "text": "Other studies have found that using the GOLD criteria can miss up to 50% of young adults with obstructive lung disease and leads to overdiagnosis in healthy non-smokers.8,9Based on these studies, physicians should use the ATS criteria to diagnose obstructive lung disease in patients younger than 65 years regardless of smoking status, and in nonsmokers who are 65 years and older.8,9"
+        },
+        {
+            "parent": 3,
+            "text": "The physician must determine if the FVC is less than the LLN for adults or less than 80% of predicted for those five to 18 years of age, indicating a restrictive pattern.3,10,11The LLN can be determined using the calculator athttp://hankconsulting.com/RefCal.html. A restrictive pattern can indicate restrictive lung disease, a mixed pattern (if a patient has an obstructive defect and a restrictive pattern), or pure obstructive lung disease with air trapping.Table 2summarizes the first two steps of PFT interpretation.1–3,10,11"
+        },
+        {
+            "parent": 4,
+            "text": "If the patient's initial PFT results indicate a restrictive pattern or a mixed pattern that is not corrected with bronchodilators, the patient should be referred for full PFTs with DLCO testing. DLCO is a quantitative measurement of gas transfer in the lungs. Diseases that decrease blood flow to the lungs or damage alveoli will cause less efficient gas exchange, resulting in a lower DLCO measurement."
+        },
+        {
+            "parent": 4,
+            "text": "During the DLCO test, patients inhale a mixture of helium (10%), carbon monoxide (0.3%), oxygen (21%), and nitrogen (68.7%)12then hold their breath for 10 seconds before exhaling. The amounts of exhaled helium and carbon monoxide are used to calculate the DLCO. Carbon monoxide is used to estimate gas transfer instead of oxygen due to its much higher affinity for hemoglobin. A baseline hemoglobin level should be obtained before DLCO testing because results are adjusted for the hemoglobin level."
+        },
+        {
+            "parent": 4,
+            "text": "Full PFTs provide the patient's total lung capacity. The restrictive pattern is confirmed as a true restrictive defect if the total lung capacity is less than 80% of predicted in patients five to 18 years of age, or less than the LLN in adults. If full PFTs cannot be obtained, the FVC can be used to infer a restrictive defect; however, FVC has a poor positive predictive value.13,14"
+        },
+        {
+            "parent": 5,
+            "text": "If an obstructive defect, a restrictive pattern, or a mixed pattern is present, as defined by steps 1 and 2, the physician should grade the severity of the abnormality based on the FEV1percentage of predicted. The ATS system for grading the severity of a PFT abnormality is summarized inTable 3.3"
+        },
+        {
+            "parent": 6,
+            "text": "If the patient has an obstructive defect, the physician should determine if it is reversible based on the increase in FEV1or FVC after bronchodilator treatment (i.e., increase of more than 12% in patients five to 18 years of age, or more than 12% and more than 200 mL in adults).3Figure 4shows a fully reversible obstructive defect. Obstructive defects in persons with asthma are usually fully reversible, whereas defects in persons with COPD typically are not."
+        },
+        {
+            "parent": 6,
+            "text": "If PFTs show a mixed pattern and the FVC corrects to 80% or more of predicted in patients five to 18 years of age or to the LLN or more in adults after bronchodilator use, it is likely that the patient has pure obstructive lung disease with air trapping."
+        },
+        {
+            "parent": 7,
+            "text": "If PFT results are normal but the physician still suspects exercise- or allergen-induced asthma, the next step is bronchoprovocation, such as a methacholine challenge, a mannitol inhalation challenge, exercise testing, or sometimes eucapnic voluntary hyperpnea testing.15,16When the FEV1is 70% or more of predicted on standard spirometry, bronchoprovocation should be used to make the diagnosis. If the FEV1is less than 70% of predicted, a therapeutic trial of a bronchodilator may be considered.17"
+        },
+        {
+            "parent": 8,
+            "text": "The methacholine challenge is highly sensitive for diagnosing asthma; however, its low specificity results in false-positive results.15,17A positive methacholine challenge result is defined as a greater than 20% reduction in FEV1at or before administration of 4 mg per mL of inhaled methacholine.15The result is considered borderline if the FEV1drops by 20% at a dose between 4 and 16 mg per mL.15"
+        },
+        {
+            "parent": 9,
+            "text": "The mannitol inhalation challenge has a lower sensitivity for the diagnosis of asthma or exercise-induced bronchoconstriction than the methacholine challenge, but has a higher specificity for the diagnosis of asthma.16,17A positive mannitol inhalation challenge result is defined as a greater than 15% decrease from baseline in FEV1at a cumulative dose of 635 mg or less of inhaled mannitol, or a 10% decrease between any two consecutive doses.16,17"
+        },
+        {
+            "parent": 10,
+            "text": "A treadmill exercise test has excellent sensitivity and specificity for the diagnosis of exercise-induced bronchoconstriction, but has only modest sensitivity and specificity for the diagnosis of asthma.17In this test, baseline spirometry is measured, followed by exercise on a treadmill. The goal is to achieve 80% to 90% of the maximum heart rate within two minutes, and maintain that heart rate for eight minutes.17Inhaled medical-grade dry air or an air-conditioned room, with air temperature between 60°F and 77°F (20°C and 25°C) and humidity level less than 50%, is recommended. The patient must wear a nose clip."
+        },
+        {
+            "parent": 10,
+            "text": "Postchallenge FEV1testing takes place at 1- to 3-, 5-, 10-, 15-, 20-, and 30- to 45-minute time points. The test is considered positive if a 10% or greater decline from baseline in FVC or FEV1occurs over any two consecutive time points in the 30 minutes following the cessation of exercise.15,18"
+        },
+        {
+            "parent": 11,
+            "text": "Eucapnic voluntary hyperpnea testing is available only at specialized centers and is used by the International Olympic Committee Medical Commission's Independent Panel on Asthma to identify exercise-induced bronchoconstriction in elite athletes desiring to use bronchodilators before competition.19"
+        },
+        {
+            "parent": 12,
+            "text": "Once PFT results have been interpreted, the broad differential diagnosis should be considered.Table 4lists common causes of lung disorders.20–35Table 5is the differential diagnosis based on DLCO results.3,12,14,36–44"
+        },
+        {
+            "parent": 13,
+            "text": "If a patient's prior PFT results are available, they should be compared with the current results to determine the course of the disease or effects of treatment."
+        },
+        {
+            "parent": 13,
+            "text": "Data Sources: We conducted literature searches using Ovid, PubMed, the Cochrane database, and Essential Evidence Plus, focusing on the keywords spirometry and pulmonary function test(s), with an emphasis on the diagnosis and/or interpretation of results. The section on DLCO was reviewed in UpToDate in October 2011 to identify additional primary literature regarding this test. Search dates: September to October 2011, May 2012, and August 2013."
+        }
+    ],
+    "locked": false
+}

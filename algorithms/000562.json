@@ -1,0 +1,146 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0201/p203.html#afp20090201p203-f3",
+    "title": "Evaluation of Macrocytosis | AAFP",
+    "author": "JOYCE KAFERLE, MD, AND CHERYL E. STRZODA, MD",
+    "doi": "Am Fam Physician.2009;79(3):203-208",
+    "abstract": "Macrocytosis, generally defined as a mean corpuscular volume greater than 100 fL, is frequently encountered when a complete blood count is performed. The most common etiologies are alcoholism, vitamin B12and folate deficiencies, and medications. History and physical examination, vitamin B12level, reticulocyte count, and a peripheral smear are helpful in delineating the underlying cause of macrocytosis. When the peripheral smear indicates megaloblastic anemia (demonstrated by macroovalocytes and hypersegmented neutrophils), vitamin B12or folate deficiency is the most likely cause. When the peripheral smear is nonmegaloblastic, the reticulocyte count helps differentiate between drug or alcohol toxicity and hemolysis or hemorrhage. Of other possible etiologies, hypothyroidism, liver disease, and primary bone marrow dysplasias (including myelodysplasia and myeloproliferative disorders) are some of the more common causes.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnostic Strategy",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Specific Causes of Macrocytosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "VITAMIN B12 DEFICIENCY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "FOLATE DEFICIENCY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HIV MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "RETICULOCYTOSIS (HEMOLYSIS OR HEMORRHAGE)",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ALCOHOL ABUSE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "BONE MARROW DYSFUNCTION",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "OTHER ETIOLOGIES",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Macrocytosis, defined as a mean corpuscular volume greater than 100 fL, occurs in approximately 3 percent of the general population.1Debate persists about the upper limit of normal values of mean corpuscular volume. In a recent study, 7 percent of patients had a mean corpuscular volume greater than 96 fL, and 1.7 percent had a mean corpuscular volume greater than 100 fL.2With the advent of automated complete blood cell counters and the increased use of certain medications, elevations in the mean corpuscular volume may be more commonly encountered. This article describes a strategy for the evaluation of patients with macrocytosis, as well as a brief discussion on treatment of vitamin B12and folate deficiencies."
+        },
+        {
+            "parent": -1,
+            "text": "Causes of macrocytosis and their prevalence in different populations are shown inTable 1.1,3–5Although it is associated with anemia, hypothyroidism is a more common cause in older persons than in other age groups. Results of a study in New York City indicated that medications for treating human immunodeficiency virus (HIV) infection have become a more prominent cause of macrocytosis. Alcoholism is the cause in as many as 80 percent of patients in some populations.6Bone marrow biopsy was only performed in these studies when another cause could not be determined, and resulted in diagnosis in approximately one fourth of these remaining patients.1In recent years, an association has been found betweenHelicobacter pyloriinfection and vitamin B12deficiency.7"
+        },
+        {
+            "parent": 0,
+            "text": "The causes of macrocytosis can be broadly classified as megaloblastic and nonmegaloblastic (Table 2).1,3–5,7–16Megaloblastic processes are characterized on the peripheral smear by macroovalocytes and hypersegmented neutrophils, which are absent in nonmegaloblastic macrocytic processes (Figure 1). Nonmegaloblastic processes have round macrocytes or macroreticulocytes (Figure 2). Because the mechanisms producing macrocytosis are not completely understood, the separation between megaloblastic and nonmegaloblastic causes is somewhat artificial. However, this concept remains useful for identifying the most predominant etiology for macrocytosis. For example, whereas the effect of alcohol is thought to be primarily a nonmegaloblastic process, in chronic alcoholism there may be concomitant vitamin B12or folate deficiency.17,18"
+        },
+        {
+            "parent": 0,
+            "text": "In megaloblastic processes, erythrogenic precursors are larger than mature red blood cells (RBCs) because folate and vitamin B12deficiencies result in defective RNA and DNA syntheses. Serum elevations in homocysteine and methylmalonic acid result from defective biochemical processes in folate and B12deficiencies, and could be used to clarify the cause of megaloblastic anemia, although this is not yet standard clinical practice.8"
+        },
+        {
+            "parent": 0,
+            "text": "Nonmegaloblastic processes develop from multiple mechanisms and have not been fully outlined. Macrocytosis can occur when there is increased RBC production secondary to peripheral blood cell destruction (i.e., hemolysis) or loss (i.e., hemorrhage), leading to a reticulocytosis. Reticulocytes are incompletely processed RBCs and, therefore, are slightly larger than the average RBC. The mechanisms by which the other diseases listed inTable 11,3–5cause macrocytosis have not been fully explained."
+        },
+        {
+            "parent": 1,
+            "text": "Once macrocytosis is identified, the history and physical examination help narrow the differential diagnosis. The presence of anemia, the degree of elevation of the mean corpuscular volume, and the patient’s overall health guide how aggressively the work-up progresses. At least some amount of investigation is warranted if the diagnosis is not readily apparent or if the patient is anemic (defined by the World Health Organization as a hemoglobin level less than 13 g per dL [130 g per L] in men and less than 12 g per dL [120 g per L] in women).9"
+        },
+        {
+            "parent": 1,
+            "text": "The algorithm outlined inFigure 3suggests a work-up for macrocytosis. Physicians should begin by ordering a peripheral smear, a reticulocyte count, and a vitamin B12serum level for all patients with macrocytosis. It may be necessary to specifically order a reticulocyte index in some laboratories, which assesses if there is an adequate bone marrow response. Hemorrhage or hemolysis is the most likely cause if the reticulocyte count is elevated, but anemia recovery also causes an elevation in the reticulocyte count. Measures of vitamin B12are a useful part of the initial work-up, because if vitamin B12deficiency is present but undiagnosed, folate repletion will correct the megaloblastic anemia, but not the possible neuropathic changes that occur with B12deficiency.19"
+        },
+        {
+            "parent": 1,
+            "text": "Although uncommon, consider the possibility of spurious macrocytosis. This may be caused by cold agglutinins, hyperglycemia, or leukocytosis. Cold agglutinins cause the RBCs to clump, making them appear larger to the automatic counter.10Hyperglycemic blood is more concentrated, and when it is diluted to measure the mean corpuscular volume, the cells swell more than usual, causing a false elevation.11Increased turbidity of a sample with marked leukocytosis also can cause the machine to overestimate the cell size.12"
+        },
+        {
+            "parent": 1,
+            "text": "When the history and physical examination, peripheral smear,B12level, and reticulocyte count have not lead to an obvious diagnosis, consider a comprehensive metabolic panel to look for liver and kidney disease, thyroid-stimulating hormone for thyroid disorders, and methylmalonic acid and homocysteine levels to assess for vitamin B12deficiency, despite a normal vitamin B12level. If the cause remains elusive, consider again whether the degree of anemia or the patient’s overall health warrants referral to a hematologist for bone marrow biopsy, or search for rarer causes, keeping in mind that the most extensive work-up will result in a diagnosis in approximately 90 percent of patients."
+        },
+        {
+            "parent": 3,
+            "text": "Vitamin B12is absorbed by the ileum when it is bound by intrinsic factor, which is produced by the parietal cells of the gastric mucosa. In pernicious anemia, the loss of parietal cells leads to insufficient absorption of vitamin B12, which then leads to vitamin B12deficiency over time. Pernicious anemia is most commonly caused by auto-immune atrophic gastritis, in which autoantibodies are directed against parietal cells and intrinsic factor. Less commonly, pernicious anemia can be caused by nonautoimmune gastritis secondary toH. pyloriinfections and Zollinger-Ellison syndrome."
+        },
+        {
+            "parent": 3,
+            "text": "Patients with vitamin B12deficiency may describe paresthesias related to peripheral neuropathy, poor or strict vegan diet, lack of socioeconomic resources, bowel-related symptoms (including diarrhea), or a history of bowel surgery for weight loss. Findings on physical examination may include neurologic signs such as ataxia, decreased proprioception, and vibratory sensation. Patients may also have poor dentition or nonspecific oral stomatitis or glossitis."
+        },
+        {
+            "parent": 3,
+            "text": "Because pregnant women take folic acid routinely in prenatal vitamins, macrocytic anemia is much less common during pregnancy. Consider nitrous oxide abuse in at-risk populations, because nitrous oxide inactivates vitamin B12through oxidation.13Other uncommon causes includeDiphyllobothrium latum(i.e., fish tapeworm) infection or inherited disorders of cobalamin metabolism, including Imerslund syndrome (a congenital vitamin B12malabsorption associated with proteinuria).20Only 10 percent of persons with vitamin B12deficiency are actually anemic.19"
+        },
+        {
+            "parent": 3,
+            "text": "The normal range for serum measures of vitamin B12varies among laboratories. If the vitamin B12level s borderline low (i.e., 100 to 400 pg per mL [74 to 295 pmol per L]), methylmalonic acid and homocysteine levels should be ordered and, if elevated, may provide evidence of B12deficiency.8The Schilling test (i.e., measuring enteral absorption of vitamin B12) is not widely available at this time."
+        },
+        {
+            "parent": 3,
+            "text": "Oral therapy appears to be as effective as intramuscular therapy for the treatment of vitamin B12deficiency. Relapse of pernicious anemia occurs at a mean interval of 65 months after cessation of treatment. It is important for patients to adhere to long-term therapy because the deficiency will recur if treatment is stopped, unless a reversible cause is identified.22"
+        },
+        {
+            "parent": 4,
+            "text": "The history of folate deficiency may mimic the history of vitamin B12deficiency in regard to poor nutritional intake or absorption. In addition, 35 percent of patients with alcoholism and macrocytic anemia are folate deficient, which can be caused by poor nutritional intake, malabsorption, hepatobiliary dysfunction, and possibly increased folate catabolism.18,23Some medications that are used to treat seizure disorders, cancer, and autoimmune diseases can lead to folate deficiency. For example, methotrexate directly inhibits dihydrofolate reductase, which leads to a functional folate deficiency.14Other medications that affect folate metabolism include 5-fluorouracil (Adrucil), hydroxyurea (Hydrea), pyrimethamine (Daraprim), trimethoprim/sulfamethoxazole (Bactrim, Septra), pentamidine (Pentam), and phenytoin (Dilantin).24Medications can also affect folate absorption, including metformin (Glucophage) and cholestyramine (Questran). Supplementing with folate may be necessary when treating a patient with such medications.15"
+        },
+        {
+            "parent": 4,
+            "text": "Serum folate levels are not useful because they fluctuate rapidly with dietary intake and are not cost effective.25RBC folate levels more accurately correlate with folate stores and should be performed if folate deficiency is suspected.26In differentiating the cause of megaloblastic anemia, a methylmalonic acid level that is within normal range also points toward a diagnosis of folate deficiency, especially if the serum vitamin B12level is within the normal range. Note that homocysteine levels will be elevated with vitamin B12and folate deficiencies."
+        },
+        {
+            "parent": 5,
+            "text": "Treatment of HIV with reverse transcriptase inhibitors (e.g., stavudine [Zerit], lamivudine [Epivir], zidovudine [Retrovir]) will cause macrocytosis because they interfere with DNA production, which may lead to megaloblastic changes. Most patients with HIV who are being treated with reverse transcriptase inhibitors will display macrocytosis without anemia. This indicates medication compliance by the patient, and no treatment is necessary.27Table 3lists other medications that may cause macrocytosis.28"
+        },
+        {
+            "parent": 6,
+            "text": "For the patient’s history, questions that are pertinent to evidence of blood loss, whether chronic or acute, can point to reticulocytosis. As part of the family history, physicians should ask about the presence of certain hematologic syndromes, including sickle cell disease, hereditary spherocytosis, and glucose-6-phosphate dehydrogenase deficiency. In persons who do distance running, hemolysis from constant foot pounding has infrequently been shown to cause macrocytosis.29The physical examination may reveal hepatosplenomegaly in hemolysis or other physical manifestations of blood loss (e.g., conjunctiva, mucosal pallor). In further diagnostic testing, the peripheral smear will reveal evidence of hemolyzed RBCs (e.g., bite cells, helmet cells). Macrocytosis results from the marrow’s response to increased cell destruction or blood loss, with release of reticulocytes into the peripheral circulation. Treatment should be focused on the underlying cause of hemolysis or hemorrhage."
+        },
+        {
+            "parent": 7,
+            "text": "The Michigan Alcoholism Screening test and obtaining γ-glutamyltransferase levels were found to be the two most sensitive tests for detecting alcohol abuse in patients with macrocytosis.6Physical findings consistent with alcoholism include gynecomastia, caput medusae, and jaundice. Alcohol use more commonly causes macrocytosis through its toxic effect than through folate deficiency secondary to alcoholism. The mean corpuscular volume is generally less than 110 fL with chronic alcohol use. Abstinence from alcohol rapidly corrects the elevated mean corpuscular volume.18"
+        },
+        {
+            "parent": 8,
+            "text": "As noted above, myeloproliferative disorders (sometimes called refractory anemia) are a more common cause of macrocytosis and anemia among older persons than in younger populations. Although the peripheral smear may be suggestive, bone marrow biopsy is required to establish this diagnosis. Referral will likely be necessary for the work-up and management."
+        },
+        {
+            "parent": 9,
+            "text": "Medications, hypothyroidism, liver and renal disease, and chronic obstructive pulmonary disease are associated with less dramatic elevations in the mean corpuscular volume. Nonalcoholic liver disease and hypothyroidism account for a substantial portion of macrocytosis. Patient history and physical examination should include a history of these medical diseases. Splenectomy may cause macrocytosis because cells are not processed as thoroughly when the spleen is absent. Down syndrome also may be associated with reticulocytosis or myeloproliferative disorders.30Treatment, if needed, can be directed at the underlying disorder."
+        }
+    ],
+    "locked": false
+}

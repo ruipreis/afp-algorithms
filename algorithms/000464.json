@@ -1,0 +1,144 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0601/p1325.html#afp20110601p1325-f1",
+    "title": "Heat-Related Illness | AAFP",
+    "author": "JONATHAN A. BECKER, MD, AND LYNSEY K. STEWART, MD",
+    "doi": "Am Fam Physician.2011;83(11):1325-1330",
+    "abstract": "Heat-related illness is a set of preventable conditions ranging from mild forms (e.g., heat exhaustion, heat cramps) to potentially fatal heat stroke. Hot and humid conditions challenge cardiovascular compensatory mechanisms. Once core temperature reaches 104°F (40°C), cellular damage occurs, initiating a cascade of events that may lead to organ failure and death. Early recognition of symptoms and accurate measurement of core temperature are crucial to rapid diagnosis. Milder forms of heat-related illness are manifested by symptoms such as headache, weakness, dizziness, and an inability to continue activity. These are managed by supportive measures including hydration and moving the patient to a cool place. Hyperthermia and central nervous system symptoms should prompt an evaluation for heat stroke. Initial treatments should focus on lowering core temperature through cold water immersion. Applying ice packs to the head, neck, axilla, and groin is an alternative. Additional measures include transporting the patient to a cool environment, removing excess clothing, and intravenous hydration. Delayed access to cooling is the leading cause of morbidity and mortality in persons with heat stroke. Identification of at-risk groups can help physicians and community health agencies provide preventive measures.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definitions",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Thermoregulation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Mild Heat-Related Illness",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HEAT EXHAUSTION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HEAT CRAMPS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Heat Stroke",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Heat-related illness represents a continuum of pathologic states and affects a diverse population. Over a 23-year period, it accounted for nearly 5,000 deaths in the United States.1When the heat index is higher than 95°F (35°C), mortality increases in relation to elevation of temperature and duration of the heat wave.2In most cases, these fatalities are preventable. Populations at risk include older persons, children, and persons who perform strenuous outdoor activities. Persons with heart and lung diseases, those with chronic mental disorders, and those taking medications that interfere with salt and water balance are also at increased risk.3Early recognition of symptoms and rapid cooling are crucial, because heat stroke is a medical emergency.4,5"
+        },
+        {
+            "parent": 0,
+            "text": "Milder forms of heat-related illness are associated with a core temperature less than 104°F (40°C) and no central nervous system symptoms.6Heat exhaustion is the inability to continue activity because of environmental conditions, and is postulated to be caused by a central mechanism that protects the body in times of overexertion.7"
+        },
+        {
+            "parent": 0,
+            "text": "Heat stroke is characterized by an elevated core temperature of 104°F or above and central nervous system disturbances. Classic heat stroke often develops slowly over days. It predominantly occurs in older persons and those with chronic illness.3,5Exertional heat stroke has a more rapid onset and is associated with higher core temperatures. It generally occurs in young, healthy persons and is characterized by hot skin with or without sweating and central nervous system alterations.6Early recognition of the differences between heat stroke and milder forms of heat-related illness is crucial to avoid morbidity and mortality(Table 1).5–8"
+        },
+        {
+            "parent": 1,
+            "text": "Conduction, evaporation, radiation, and convection play an integral part in cooling the body and maintaining normothermia."
+        },
+        {
+            "parent": 1,
+            "text": "The direct transfer of heat from a warmer surface to a cooler surface is accomplished by conduction.6,8The degree of conduction is dependent on the temperature gradient, the conductive properties of the object contacting the body, and what percentage of surface area is in contact.9In the setting of heat-related illness, this concept becomes important when treating a patient with cold water immersion. As more body surface area is immersed, there is more conductive potential and treatment becomes more effective.10"
+        },
+        {
+            "parent": 1,
+            "text": "Perspiration is an evaporative mechanism that is dependent on sweat production and water vapor pressure gradient. In high ambient temperatures, heat loss is almost solely based on the rate of sweating. As humidity increases, evaporation becomes increasingly ineffective, thus perspiration serves as the most effective way humans release heat.6,8"
+        },
+        {
+            "parent": 1,
+            "text": "Radiation is the process by which the body gains or loses heat without direct contact. Radiant energy is resorbed or reflected, which is why light-colored clothing can prevent heat-related illness by absorbing less heat.6"
+        },
+        {
+            "parent": 1,
+            "text": "The body exchanges heat with the surrounding air by way of convection. The body gains heat from hot air, which comes in contact with the skin. Convective heat exchange increases with increasing air speed and larger gradient between air and skin temperature. Air circulation can be increased by use of air-conditioning or fans. Clothing that is more permeable to air or loose fitting also increases convective heat loss.5"
+        },
+        {
+            "parent": 1,
+            "text": "Several acute physiologic alterations take place when the body is exposed to heat stress. Thermoregulation is coordinated by central nervous system centers in the hypothalamus and spinal cord, as well as peripheral centers in the skin and organs. Peripheral vasodilatation occurs to augment dermal blood flow, which allows convective heat loss into the surrounding air.6In an effort to preserve central perfusion, there is vasoconstriction of the peripheral vasculature creating hypoperfusion.8When a person's core temperature is 104°F or greater, cellular damage occurs. There is a systemic inflammatory response, and increased cell wall permeability allows the release of endotoxins. These disruptions of homeostasis initiate a cascade of events that include tissue hypoxia, metabolic acidosis, and severe organ dysfunction.3,11–13"
+        },
+        {
+            "parent": 1,
+            "text": "Successive increments of increased exposure in a hot environment are necessary for persons to work safely at levels of heat that were previously intolerable or life threatening. Physiologic adaptations, such as improved sodium retention, increased glomerular filtration rate, and enhanced cardiovascular performance, can take several weeks.5Heat shock proteins also assist cells in tolerating the heat.3,5It may take athletes as long as 10 to 14 days of exercise training before the body can start adapting to large temperature fluctuations.8,9"
+        },
+        {
+            "parent": 1,
+            "text": "Children are particularly prone to heat-related illness because of their greater surface area to body mass ratio compared with adults. This permits more heat transfer from the environment to the body. They also have a diminished ability to dissipate heat because of slower sweat rates, a higher temperature threshold for the initiation of sweating, and production of a more diluted sweat. Furthermore, they are slower to acclimatize to the heat and have less of a thirst response.8"
+        },
+        {
+            "parent": 2,
+            "text": "Conditions and medications(Tables 2and31,3,6,14,15)that increase the risk of heat-related illness negatively affect the body's ability to dissipate heat, acclimatize to the weather, or obtain adequate hydration.1,3Older persons are at risk because of higher rates of medication use, immobility, and volume depletion. They have diminished cardiovascular compensation and an age-related loss of heat shock proteins that impart further intolerance to extreme conditions.5Medications impart risks, such as blunting cardiac output in times of stress, interfering with hydration, and inhibiting sweat.1,3"
+        },
+        {
+            "parent": 2,
+            "text": "Young, healthy persons who perform strenuous activity in hot and humid environments, such as athletes, military personnel, and persons who work outdoors, are at increased risk.1,6,14Among high school athletes, persons who play football have a 10-fold increased risk of heat-related illness over persons playing any other sport, especially during preseason conditioning in the month of August.16Persons who work outdoors have a 20-fold increased rate of heat-related death compared with persons in other forms of employment.17"
+        },
+        {
+            "parent": 3,
+            "text": "Mild forms of heat-related illness include cramps, edema, syncope, and exhaustion. If mental status is normal, these conditions can only be differentiated from early signs of heat stroke by obtaining an accurate measure of core temperature. A rectal temperature is the most reliable measurement because alternatives, including oral, tympanic, axillary, and skin temperatures, are less accurate.9,14Core temperature and the presence or absence of central nervous system symptoms will help guide diagnosis and treatment(Figure 1). In the absence of hyperthermia, the presence of central nervous system symptoms should prompt investigation for an alternative diagnosis."
+        },
+        {
+            "parent": 4,
+            "text": "Common symptoms of heat exhaustion include headache, weakness, dizziness, goose flesh, nausea, vomiting, diarrhea, irritability, and loss of coordination. The skin may appear pale or ashen, with associated tachycardia or hypotension. Normal mentation is maintained. Patients with heat exhaustion should remove excess clothing and be moved to a shaded, cool environment. They should be placed in a supine position, preferably with their legs elevated. Oral fluids are preferred over intravenous fluids for rehydration in those who are conscious, able to swallow, and not losing fluids secondary to vomiting or diarrhea.9Vital signs should be monitored, with transport to an emergency facility if symptoms do not improve after 20 to 30 minutes.3,6,9"
+        },
+        {
+            "parent": 5,
+            "text": "Heat cramps, or exercise-associated muscle cramps, can occur in any setting, but are more common when exercising in hot and humid environments. Dehydration, depletion of electrolytes, and sodium losses from sweat all accelerate in this type of environment, especially in those who sweat profusely.18Treatment includes rest, prolonged stretching of affected muscle groups, and oral sodium ingestion. Intravenous normal saline may be used for more rapid relief, especially for severe, diffuse cramping or when oral repletion is not possible.19"
+        },
+        {
+            "parent": 6,
+            "text": "Heat stroke is a true emergency that requires immediate recognition and treatment. It is defined by a pathologic elevation of core temperature of 104°F or greater and associated central nervous system disturbances.6,8,9,13,20Physicians considering the diagnosis of heat stroke should obtain a rectal temperature as soon as possible. Although anhidrosis can occur in classic heat stroke, affected patients may continue to perspire.9,10,20A broad constellation of clinical signs and symptoms can be observed in both forms of heat stroke."
+        },
+        {
+            "parent": 6,
+            "text": "Treatment begins with stabilizing the patient's airway, breathing, and circulation. Morbidity is greatly reduced with rapid cooling. If there are no other life-threatening complications, on-site cooling before transfer to the emergency department is preferred.8,9Cold water immersion is the treatment of choice when available. It is associated with the lowest morbidity and mortality rates, and patients with exertional heat stroke treated with cold water immersion have a survival rate of almost 100 percent.10,21,22Large cooling tanks are often used at outdoor activities (e.g., football practice) or mass participation events. Although the cooling rates for cold water immersion have been shown to be superior, applying ice packs or cold, wet towels to the head, neck, axilla, and groin is an alternative option. Rapid air movement with a fan, in combination with spraying a moderate-temperature mist of water, encourages evaporative and convective cooling and is also effective.10Intravenous hydration should be initiated as soon as possible to protect renal blood flow and avoid complications such as rhabdomyolysis. Patients evaluated in the community setting should be moved to a cool, shaded environment and have excess clothing removed while an ambulance is called.10,22"
+        },
+        {
+            "parent": 6,
+            "text": "It is rare for a person to succumb within a few hours after heat stroke has ensued, but the action taken in this time may determine the degree of cell damage that portends recovery or progression to organ failure. Within 24 hours, those with heat stroke typically display evidence of muscle, kidney, and cardiac injury. Delayed or improper treatment is the likely cause of fatalities associated with hyperthermia.10,11"
+        },
+        {
+            "parent": 7,
+            "text": "Regardless of the patient factors or method of cooling employed, rapid access to cooling is the most effective method to prevent heat stroke fatalities.9,14,23Physicians can work with community leaders to identify older patients with chronic medical disease or physical disabilities who lack access to air-conditioning, and make cool facilities available during heat advisories. Spending time in air-conditioned areas is among the strongest factors in preventing heat-related deaths. Fans do not provide the same benefit.24"
+        },
+        {
+            "parent": 7,
+            "text": "Athletic events should be held during cooler periods of the day and scheduled to avoid hot, humid months. Athletes, coaches, and parents should be educated about the early signs of heat-related illness, hydration, and initial treatments.6,9Heat acclimatization is the best protection against heat-related illness. This involves a gradual progression of duration and intensity of exercise over 10 to 14 days.9Proper hydration, lightweight and light-colored clothing, shaded rest areas, and rule adjustments to allow for frequent substitutions can also help protect young athletes.8"
+        },
+        {
+            "parent": 7,
+            "text": "The Wet Bulb Globe Temperature, which takes into account temperature, humidity, and radiant thermal energy, is the preferred method for assessing weather conditions that precipitate heat-related illness; however, it may not be readily available. The heat index is the relationship between air temperature plus relative humidity and how a person's body feels in that specific environment. A heat index chart(Figure 225)may serve as a substitute in assessing the risk of heat-related illness on a given day.4"
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources: A search was completed in UpToDate, Essential Evidence Plus, Cochrane Database of Systematic Reviews, and Medline using the key terms acute heat illness, heat exhaustion, heat stroke, and hyperthermia. Search date: August 2010."
+        }
+    ],
+    "locked": false
+}

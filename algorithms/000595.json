@@ -1,0 +1,165 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/0401/p971.html#afp20080401p971-f2",
+    "title": "Evaluation of Acute Abdominal Pain in Adults | AAFP",
+    "author": "SARAH L. CARTWRIGHT, MD, AND MARK P. KNUDSON, MD, MSPH",
+    "doi": "Am Fam Physician.2008;77(7):971-978",
+    "abstract": "Acute abdominal pain can represent a spectrum of conditions from benign and self-limited disease to surgical emergencies. Evaluating abdominal pain requires an approach that relies on the likelihood of disease, patient history, physical examination, laboratory tests, and imaging studies. The location of pain is a useful starting point and will guide further evaluation. For example, right lower quadrant pain strongly suggests appendicitis. Certain elements of the history and physical examination are helpful (e.g., constipation and abdominal distension strongly suggest bowel obstruction), whereas others are of little value (e.g., anorexia has little predictive value for appendicitis). The American College of Radiology has recommended different imaging studies for assessing abdominal pain based on pain location. Ultrasonography is recommended to assess right upper quadrant pain, and computed tomography is recommended for right and left lower quadrant pain. It is also important to consider special populations such as women, who are at risk of genitourinary disease, which may cause abdominal pain; and the elderly, who may present with atypical symptoms of a disease.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "IMAGING STUDIES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Special Populations",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Approach to Patients",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Abdominal pain is a common presentation in the outpatient setting and is challenging to diagnose. Abdominal pain is the presenting complaint in 1.5 percent of office-based visits1and in 5 percent of emergency department visits.2Although most abdominal pain is benign, as many as 10 percent of patients in the emergency department setting and a lesser percentage in the outpatient setting have a severe or life-threatening cause or require surgery.2Therefore, a thorough and logical approach to the diagnosis of abdominal pain is necessary."
+        },
+        {
+            "parent": 0,
+            "text": "When evaluating a patient with acute abdominal pain, the physician should focus on common conditions that cause abdominal pain as well as on more serious conditions. The location of pain should drive the evaluation(Table 1). For some diagnoses, such as appendicitis, the location of pain has a very strong predictive value."
+        },
+        {
+            "parent": 0,
+            "text": "A final diagnosis is not usually made at the first outpatient visit; therefore, it is critical to begin the evaluation by ruling out serious disease (e.g., vascular diseases such as aortic dissection and mesenteric ischemia) and surgical conditions (e.g., appendicitis, cholecystitis). Physicians should also consider conditions of the abdominal wall, such as muscle strain or herpes zoster, because these are often misdiagnosed."
+        },
+        {
+            "parent": 1,
+            "text": "Although location of abdominal pain guides the initial evaluation, associated signs and symptoms are predictive of certain causes of abdominal pain(Table 23–6)and can help narrow the differential diagnosis."
+        },
+        {
+            "parent": 2,
+            "text": "When possible, the history should be obtained from a nonsedated patient.7The initial differential diagnosis can be determined by a delineation of the pain's location, radiation, and movement (e.g., appendicitis-associated pain usually moves from the periumbilical area to the right lower quadrant of the abdomen). After the location is identified, the physician should obtain general information about onset, duration, severity, and quality of pain and about exacerbating and remitting factors."
+        },
+        {
+            "parent": 2,
+            "text": "Associated symptoms often allow the physician to further focus the differential diagnosis. For bowel obstruction, constipation is the symptom with the highest positive predictive value. For appendicitis, right lower quadrant pain has the highest positive predictive value, although migration from periumbilical to right lower quadrant pain and fever also suggest appendicitis. Some conditions that were historically considered useful in diagnosing abdominal pain (e.g., anorexia in patients with appendicitis) have been found to have little predictive value."
+        },
+        {
+            "parent": 2,
+            "text": "Colic (i.e., sharp, localized abdominal pain that increases, peaks, and subsides) is associated with numerous diseases of hollow viscera. The mechanism of pain is thought to be smooth muscle contraction proximal to a partial or complete obstruction (e.g., gallstone, kidney stone, small bowel obstruction). Although colic is associated with several diseases, the location of colic may help diagnose the cause. The absence of colic is useful for ruling out diseases such as acute cholecystitis; less than 25 percent of patients with acute cholecystitis present without right upper quadrant pain or colic.5"
+        },
+        {
+            "parent": 2,
+            "text": "Peptic ulcer disease is often associated withHelicobacter pyloriinfection (75 to 95 percent of duodenal ulcers and 65 to 95 percent of gastric ulcers),8although most patients do not know theirH. pyloristatus. In addition, many patients with ulcer disease and serology findings negative forH. pylorireport recent use of nonsteroidal anti-inflammatory drugs. Other symptoms of peptic ulcer disease include concurrent, episodic gnawing or burning pain; pain relieved by food; and nighttime awakening with pain."
+        },
+        {
+            "parent": 2,
+            "text": "Symptoms in patients with abdominal pain that are suggestive of surgical or emergent conditions include fever, protracted vomiting, syncope or presyncope, and evidence of gastrointestinal blood loss."
+        },
+        {
+            "parent": 3,
+            "text": "The patient's general appearance and vital signs can help narrow the differential diagnosis. Patients with peritonitis tend to lie very still, whereas those with renal colic seem unable to stay still. Fever suggests infection; however, its absence does not rule it out, especially in patients who are older or immunocompromised. Tachycardia and orthostatic hypotension suggest hypovolemia. The location of pain guides the remainder of the physical examination. Physicians should pay close attention to the cardiac and lung examinations in patients with upper abdominal pain because they could suggest pneumonia or cardiac ischemia."
+        },
+        {
+            "parent": 3,
+            "text": "There are several specialized maneuvers that evaluate for signs associated with causes of abdominal pain. When present, some signs are highly predictive of certain diseases. These include Carnett's sign (i.e., increased pain when a supine patient tenses the abdominal wall by lifting the head and shoulders off the examination table) in patients with abdominal wall pain9; Murphy's sign in patients with cholecystitis5(although it is only present in 65 percent of adults with cholecystitis and is particularly unreliable in older patients10); and the psoas sign in patients with appendicitis.3Other signs such as rigidity and rebound tenderness are nonspecific."
+        },
+        {
+            "parent": 3,
+            "text": "Rectal and pelvic examinations are recommended in patients with lower abdominal and pelvic pain. A rectal examination may reveal fecal impaction, a palpable mass, or occult blood in the stool. Tenderness and fullness on the right side of the rectum suggest a retrocecal appendix. A pelvic examination may reveal vaginal discharge, which can indicate vaginitis. The presence of cervical motion tenderness and peritoneal signs increase the likelihood of ectopic pregnancy11or other gynecologic complications, such as salpingitis or a tuboovarian abscess."
+        },
+        {
+            "parent": 5,
+            "text": "Appropriate diagnostic testing varies based on the clinical situation. A complete blood count is appropriate if infection or blood loss is suspected. One study of patients 15 to 83 years of age with suspected appendicitis found that a white blood cell count greater than 10,000 per mm3. (10 × 109per L) was 77 percent sensitive and 63 percent specific for the diagnosis (LR+ = 2.1, LR− = 0.37).12Thus, nearly one in four patients with appendicitis does not have an elevated white blood cell count."
+        },
+        {
+            "parent": 5,
+            "text": "In patients with epigastric pain, simultaneous amylase and lipase measurements are recommended because an elevated lipase level with a normal amylase level is not likely to be caused by pancreatitis.13Liver chemistries are important in patients with right upper quadrant pain. A urinalysis should be obtained in patients with hematuria, dysuria, or flank pain. A urine pregnancy test should be performed in women of childbearing age who have abdominal pain to narrow the differential diagnosis and to determine whether certain imaging studies are appropriate. Testing for chlamydia and gonorrhea is recommended for women at risk of sexually transmitted infections."
+        },
+        {
+            "parent": 6,
+            "text": "Recommendations for initial imaging studies are based on the location of abdominal pain(Table 314–16). Ultrasonography is recommended when a patient presents with right upper quadrant pain.14Radionuclide imaging is slightly better than ultrasonography for detecting acute cholecystitis but is more expensive, takes longer to perform, and cannot assess diagnoses outside of the biliary tract."
+        },
+        {
+            "parent": 6,
+            "text": "Computed tomography (CT) with intravenous contrast media is recommended for evaluating adults with acute right lower quadrant pain; CT with oral and intravenous contrast media is recommended for patients with left lower quadrant pain.15,16Sigmoid diverticulitis is the most common cause of left lower quadrant pain in adults, and CT has a reported sensitivity of 79 to 99 percent for detecting the condition.15CT is better than ultrasonography for diagnosing appendicitis and can detect extracolonic causes of abdominal pain."
+        },
+        {
+            "parent": 6,
+            "text": "Left upper quadrant pain is caused by a variety of clinical conditions; therefore, imaging recommendations are not clear-cut. If the patient's history and physical examination suggest esophageal or gastric pathology, endoscopy (or an upper gastrointestinal series) is recommended. In other patients with left upper quadrant pain, CT is useful because it provides imaging of the pancreas, spleen, kidneys, intestines, and vasculature. In general, CT is highly effective at identifying patients with nonspecific abdominal pain who need urgent intervention (LR+ = 9.20, LR− = 0.09).17"
+        },
+        {
+            "parent": 6,
+            "text": "Plain radiography of the abdomen is often more readily obtainable and less expensive than ultrasonography or CT and can be helpful in several circumstances. An upright radiograph of the chest or abdomen can detect free air under the diaphragm, which indicates a perforation of the gastrointestinal tract. Abnormal calcifications also can be seen on a plain radiograph; this includes 10 percent of gallstones, 90 percent of kidney stones, and appendicoliths in 5 percent of patients with appendicitis.18Plain radiography of the abdomen may help diagnose bowel obstruction with multiple dilated loops of the bowel and air-fluid levels, although similar findings may occur with paralytic ileus."
+        },
+        {
+            "parent": 6,
+            "text": "Women of childbearing age present a specific challenge when making decisions about diagnostic imaging. Gynecologic causes of abdominal pain are more common in these women, and radiation exposure should be avoided if pregnancy is likely. Therefore, abdominal or transvaginal ultrasonography is generally recommended for evaluating left lower quadrant pain in women of childbearing age16and in pregnant patients with right lower quadrant abdominal pain.15"
+        },
+        {
+            "parent": 6,
+            "text": "If ectopic pregnancy is suspected, transvaginal ultrasonography should be performed. The sensitivity of transvaginal ultrasonography for detecting ectopic pregnancy is 95 percent in a patient with a positive pregnancy test (human chorionic gonadotropin level greater than 25 mIU per mL [25 IU per L]) and any abnormal ultrasound finding, whereas a negative pregnancy test and normal ultrasound findings virtually exclude ectopic pregnancy.19Transvaginal ultrasonography is also helpful for diagnosing other gynecologic pathology, such as fibroids, ovarian masses, ovarian torsions, and tuboovarian abscesses."
+        },
+        {
+            "parent": 7,
+            "text": "There are certain populations in which the spectrum of disease is significantly different than the majority of patients. Extra attention is warranted when evaluating special populations, such as women and older persons, with abdominal pain(Figure 1)."
+        },
+        {
+            "parent": 7,
+            "text": "Abdominal pain in women may be related to pathology in the pelvic organs. Ovarian cysts, uterine fibroids, tuboovarian abscesses, and endometriosis are common causes of lower abdominal pain in women. In women of reproductive age, special attention to pregnancy, including ectopic pregnancy, and loss of pregnancy is critical in forming an appropriate differential diagnosis. The possibility of pregnancy modifies the likelihood of disease and significantly changes the diagnostic approach (e.g., avoidance of radiation exposure in diagnostic testing)."
+        },
+        {
+            "parent": 7,
+            "text": "Older patients with abdominal pain present a particular diagnostic challenge. Disease frequency and severity may be exaggerated in this population (e.g., a higher incidence of diverticular disease or sepsis in those with urinary tract infection). Presentation may differ in older patients, and poor patient recall or a reduction in symptom severity may cause misdiagnosis. There are several diseases that should be considered in all older patients with abdominal pain because of the increased incidence and high risk of morbidity and mortality in these patients. Occult urinary tract infection, perforated viscus, and ischemic bowel disease are potentially fatal conditions commonly missed or diagnosed late in older patients."
+        },
+        {
+            "parent": 8,
+            "text": "A stepwise approach to abdominal pain requires identification of specific high-risk populations. In low-risk patients, the pain location guides the initial differential diagnosis. Several areas of the abdomen deserve special attention because the clearest evidence for a consistent work-up is in these areas."
+        },
+        {
+            "parent": 8,
+            "text": "For right upper quadrant pain, the history focuses on differentiating pulmonary, urinary, and hepatobiliary pain(Figure 2). If urinary tract infection or nephrolithiasis is suspected, urinalysis is appropriate. Patients with colic, fever, steatorrhea, or a positive Murphy's sign should receive ultrasonography."
+        },
+        {
+            "parent": 8,
+            "text": "The evaluation of right lower quadrant pain is guided by the patient's history(Figure 3). Patients with symptoms (e.g., fever, relocalization of pain) or signs (e.g., psoas sign, rigidity, rebound, guarding) suggestive of appendicitis should receive CT and urgent surgical consultation. Normal CT findings should trigger additional urine, colon, or pelvic examination."
+        },
+        {
+            "parent": 8,
+            "text": "Finally, left lower quadrant pain focuses on evaluation for diverticulitis(Figure 4). Fever, previous diverticular disease, or suggestive physical examination findings (e.g., distention, tenderness, rectal blood) should prompt empiric therapy or CT. A normal evaluation should prompt further consideration of urinary or gynecologic pathology. Patients with undiagnosed pain should be followed closely, and consultation with a subspecialist should be considered."
+        }
+    ],
+    "locked": false
+}

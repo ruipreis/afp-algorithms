@@ -1,0 +1,269 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/0301/p997.html#afp20030301p997-f1",
+    "title": "The ‘Crashing Asthmatic’ | AAFP",
+    "author": "JAMES C. HIGGINS, CAPT, MC, USN",
+    "doi": "Am Fam Physician.2003;67(5):997-1004",
+    "abstract": "Asthma is a common chronic disorder, with a prevalence of 8 to 10 percent in the U.S. population. From 5 to 10 percent of patients have severe disease that does not respond to typical therapeutic interventions. To prevent life-threatening sequelae, it is important to identify patients with severe asthma who will require aggressive management of exacerbations. Objective monitoring of pulmonary status using a peak flow meter is essential in patients with persistent asthma. Patients who have a history of fragmented health care, intubation, or hospitalization for asthma and those with mental illness or psychosocial stressors are at increased risk for severe asthma. Oxygen, beta2agonists, and systemic corticosteroids are the mainstays of acute asthma therapy. Inhaled anticholinergic medications provide additional bronchodilation. In patients who deteriorate despite usual therapeutic efforts, evidence supports individualized use of parenteral beta2agonists, magnesium sulfate, aminophylline, leukotriene inhibitors, or positive pressure mask ventilation before intubation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Background",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Status Asthmaticus",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pathology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Risk Factors for Severe Asthma",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Recognition of the “Crashing Asthmatic”",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "CLINICAL FINDINGS AND PEF VALUES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ADDITIONAL FINDINGS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Conventional Management",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "BETA2 AGONISTS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ANTICHOLINERGIC MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CORTICOSTEROIDS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "OXYGEN",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "CRITERIA FOR HOSPITALIZATION",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "TREATMENT OF NONRESPONDING PATIENTS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "PARENTERAL BETA2 AGONISTS",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "MAGNESIUM SULFATE",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "METHYLXANTHINES",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "LEUKOTRIENE INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "NONINVASIVE VENTILATION",
+            "level": 3
+        },
+        {
+            "id": 19,
+            "name": "HELIOX",
+            "level": 3
+        },
+        {
+            "id": 20,
+            "name": "Intubation and Mechanical Ventilation",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Asthma is one of the most common chronic disorders managed by family physicians. A “crashing asthmatic”is a patient with asthma who is clinically deteriorating into respiratory failure or arrest despite initial treatment. Managing such a patient can be a major challenge. Crucial tasks include rapid assessment of the severity of the asthma attack, objective determination of the response to therapy, and identification of the risk of respiratory failure."
+        },
+        {
+            "parent": 0,
+            "text": "Over the past decade, the mortality rate for asthma in the United States has increased.1Prevalence, morbidity rates, and treatment costs also have risen. These increases have occurred despite the reversible nature of asthma, a heightened awareness of the disease, and an expanding formulary of therapeutic agents for the management of asthma. To reverse these upward trends, national and global guidelines and strategies for the prevention and management of asthma have been developed.2"
+        },
+        {
+            "parent": 0,
+            "text": "The prevalence of asthma is estimated to be has high as 8 percent in adults and 10 percent in children.1,3From 5 to 10 percent of these patients have severe disease that does not respond to typical asthma medications.4The mechanisms that differentiate between easily managed and unresponsive asthma are still being investigated.5"
+        },
+        {
+            "parent": 1,
+            "text": "Status asthmaticus is a condition in which severe airway obstruction and asthmatic symptoms persist despite the administration of standard acute asthma therapy.6It can present with little warning and progress rapidly to asphyxiation."
+        },
+        {
+            "parent": 1,
+            "text": "Death can occur when asthma is severe, uncontrolled, and poorly responsive to treatment, with steady deterioration of respiratory status occurring over a period of days.1,6Data indicate that in nearly 85 percent of asthma deaths, the final episode lasted longer than 12 hours.1This length of time should have allowed ample opportunity for treatment if the patients had presented promptly for care and their respiratory distress had been quickly recognized.1Fortunately, only one in 2,000 patients die of asthma; the vast majority survive.1"
+        },
+        {
+            "parent": 2,
+            "text": "Status asthmaticus can lead to several forms of sudden death. The most common scenario is severe bronchospasm, with mucus plugging leading to asphyxia."
+        },
+        {
+            "parent": 2,
+            "text": "Other reasons for sudden death include cardiac dysrhythmias related to hypoxia, hyperinflation leading to air trapping, and tension pneumothorax.7In patients with asthma, deaths also have occurred subsequent to the use of sedatives (respiratory depression), beta blockers (bronchospasm) and, occasionally, nonsteroidal anti-inflammatory drugs (anaphylaxis).1,6"
+        },
+        {
+            "parent": 2,
+            "text": "Pathologic findings in fatal asthma include bronchial lumen occlusion by mucus, hyperplasia of submucosal glands, basement membrane thickening, and tissue eosinophilia."
+        },
+        {
+            "parent": 3,
+            "text": "Risk factors for death from asthma are listed inTable 1.1,3,4Additional markers include frequent emergency department visits, wide variations in lung function, and use of multiple medications."
+        },
+        {
+            "parent": 3,
+            "text": "Studies1,8,9have shown that patients with severe asthma are 10 times more likely to present to emergency departments during nighttime hours, and that the highest fatality rates are in inner-city young adults. The risk of death is greatest in patients who have severe, unstable disease that is not being objectively monitored.1The National Heart, Lung, and Blood Institute (Expert Panel report 2)8addresses these problems in a discussion of key preventive issues, including patient education, objective measurements, environmental considerations, and home action plans."
+        },
+        {
+            "parent": 3,
+            "text": "Evidence indicates that patients with a history of nearly fatal asthma attack may have a blunted perception of increasing airway resistance and worsening bronchospasm.4,10Thus, these patients may be unable to sense critical worsening of airflow obstruction. Inadequate allergen control, insufficient use of inhaled corticosteroids, lack of objective monitoring criteria (e.g., home monitoring of peak flow), psychosocial or economic problems, and underuse of emergency ambulance services are well-documented risk factors for severe asthma exacerbations.11,12"
+        },
+        {
+            "parent": 3,
+            "text": "Viral upper respiratory tract infection is the most common precipitant of an asthma attack. In addition to the usual common cold viruses, chlamydial pneumonia and herpes simplex virus infections may play a role in exacerbations of bronchospasm in patients with and without asthma. In some patients, allergic reactions to foods (e.g., peanuts) can result in life-threatening asthma attacks.6"
+        },
+        {
+            "parent": 5,
+            "text": "Asthma is a clinical diagnosis. While episodic and reversible symptoms of airflow obstruction are the primary clinical features, presentations can vary widely. However, the diagnosis of asthma is secure when key clinical elements are present and alternative diagnoses have been excluded. The physician must rapidly assess the severity of an asthma attack, objectively determine the response to therapy, and identify the risk of respiratory failure."
+        },
+        {
+            "parent": 5,
+            "text": "Criteria for diagnosing a severe asthma attack, including peak expiratory flow (PEF) rates, are listed inTable 2.8Predicted average PEF rates for normal children, adolescents, and adults are provided inTables 313and4.14Although predicted PEF values are useful in patients with asthma who do not have a known “personal best” peak flow, they should be interpreted with caution. Predicted normal PEF rates can vary substantially according to different formulas, and patients with chronically impaired lung function typically cannot attain these values.15"
+        },
+        {
+            "parent": 5,
+            "text": "All patients who wheeze do not necessarily have asthma. Therefore, the physician must question the diagnosis of asthma, particularly when initial interventions fail. In children, wheezing can be associated with bronchiolitis, foreign-body aspiration, tracheomalacia, and congenital heart or lung abnormalities. Wheezing in adults may be caused by chronic obstructive pulmonary disease, respiratory infection, congestive heart failure, pulmonary embolism, aspiration, and vocal cord dysfunction. It is also important to look for comorbid conditions (e.g., coronary artery disease) that may complicate management."
+        },
+        {
+            "parent": 6,
+            "text": "Hyperinflation is the most common finding on chest radiographs in patients hospitalized for treatment of asthma.6Possible abnormalities include pneumonia, congestive heart failure, atelectasis, pneumothorax, and pneumomediastinum."
+        },
+        {
+            "parent": 6,
+            "text": "Arterial blood gas (ABG) parameters are often used to guide treatment in patients with severe asthma. However, the decision to intubate should be based on clinical grounds, rather than on ABG determinations alone. Close observations of respiratory effort, level of consciousness, and pulse oximetry serve as clinical correlates of pulmonary gas exchange. ABG measurements may aid in decision-making by providing quantitative information on pulmonary gas exchange. Initial findings during an asthma exacerbation typically include hypoxemia and hypocapnia. Hypercapnia is usually a later finding that reflects increasing airflow obstruction and fatigue because of the increased work of breathing; it may indicate impending respiratory failure. However, mechanical ventilation is required in fewer than 10 percent of patients who present with hypercapnia.6"
+        },
+        {
+            "parent": 6,
+            "text": "Eosinophilia is a common finding in patients with asthma or allergy. Hypokalemia and hypermagnesemia may occur with heavy use of beta2agonists. Serum creatine kinase MM isoenzyme levels may be elevated because of extreme exertion of the ventilatory muscles.6"
+        },
+        {
+            "parent": 6,
+            "text": "Patients who regularly measure peak flows at home usually document at least several days of depressed values and greater morning-to-evening variability in PEF rates before an exacerbation.6During a severe asthma attack, patients may be unable to check their PEF because of marked dyspnea."
+        },
+        {
+            "parent": 7,
+            "text": "The goals of acute asthma management are to relieve bronchospasm, improve gas exchange, treat the underlying cause, and prevent complications. Before an in-depth history is obtained, treatment of patients with acute dyspnea should be initiated to prevent further deterioration."
+        },
+        {
+            "parent": 7,
+            "text": "Close monitoring and objective reevaluation for response to therapy are essential. The PEF rate is a key quantitative measure for assessing airflow; however, marked dyspnea initially may prevent proper use of the peak flow meter in patients who are experiencing severe asthma flares."
+        },
+        {
+            "parent": 8,
+            "text": "Inhaled beta2-adrenergic agonists are the mainstays of bronchodilator therapy. These agents provide the most rapid relief of bronchospasm with the fewest side effects.16,17[Reference 17—Evidence level B, uncontrolled trial] If patients can coordinate hand motion and breathing, albuterol (Ventolin) delivered by metered-dose inhaler (MDI) with a spacer (four to eight puffs every 20 to 30 minutes for three doses) compares favorably with nebulization (2.5 to 5 mg every 20 minutes).16In patients with more severe asthma, MDI dosing can be increased to one puff every 30 to 60 seconds, or continuous nebulization can be instituted (10 to 15 mg per hour) to improve symptoms.16,18"
+        },
+        {
+            "parent": 9,
+            "text": "Anticholinergic drugs, especially when given in combination with inhaled beta2agonists, are associated with significantly improved pulmonary function and decreased hospitalization rates in patients with acute asthma.3,16,19[Reference 19—Evidence level A, meta-analysis] Ipratropium bromide (Atrovent) initially can be given by MDI (four to eight puffs) or nebulized solution (three doses of 250 mcg each). The recommended follow-up dosing of 250 to 500 mcg at six-hour intervals is well tolerated.3Atropine solution should not be nebulized because atropine crosses the blood-brain barrier, leading to sedation and worsening of asthma.20"
+        },
+        {
+            "parent": 10,
+            "text": "Corticosteroids are potent anti-inflammatory drugs that are highly effective in the treatment of severe asthma. Systemic corticosteroid therapy should be administered promptly to all patients with signs of severe asthma.21[Evidence level A, systematic review of randomized controlled trials]"
+        },
+        {
+            "parent": 10,
+            "text": "In patients who can tolerate oral medications, oral corticosteroid therapy is as effective as intravenous therapy.22Typically, prednisone is given orally in a dosage of 1 to 2 mg per kg once daily (usual maximum: 60 to 80 mg per day) for five to seven days. For intravenous treatment, methylprednisolone sodium succinate (Solu-Medrol) is administered in a dosage of 0.5 to 2 mg per kg every six hours (usual maximum: 125 mg per day), or hydrocortisone is given in a dosage of 2 to 4 mg per kg every four to six hours.3"
+        },
+        {
+            "parent": 11,
+            "text": "Patients with severe asthma have a ventilation-perfusion mismatch and, thus, benefit from supplemental oxygen therapy. High-flow supplemental oxygen is best delivered using a partial or complete nonrebreather mask. The objective is to maintain the partial pressure of oxygen at a minimum of 92 mm Hg (oxygen saturation greater than 95 percent).8,16[References 8 and 16—Evidence level C, expert guidelines] There is no evidence that oxygen suppresses the respiratory drive in the absence of preexisting chronic pulmonary disease.3"
+        },
+        {
+            "parent": 12,
+            "text": "Factors to consider in determining the need for hospitalization include disease severity, socioeconomic factors, clinical features, pulmonary function, and response to treatment.16Hospitalization is indicated in patients with a pretreatment arterial oxygen saturation of less than 90 percent, persistent respiratory acidosis, or severe obstruction that does not improve (or worsens) with the administration of sympathomimetic agents (i.e., the PEF rate remains at less than 70 percent of the predicted value).1"
+        },
+        {
+            "parent": 13,
+            "text": "Patients with severe asthma who do not respond to initial therapy require aggressive treatment to prevent cardiopulmonary arrest. In general, cardiorespiratory monitoring is necessary in patients who have status asthmaticus. A comfortable and supportive environment should be provided."
+        },
+        {
+            "parent": 13,
+            "text": "Pulse oximetry, blood pressure, and cardiac rhythm should be monitored continuously when initial acute asthma therapy fails. Intravenous access should be secured in patients with severe asthma. Although hypoxemia and anxiety may cause agitation and restlessness, anxiolytic medications should be administered only when the physician is prepared to intubate."
+        },
+        {
+            "parent": 13,
+            "text": "The key concern is to actively manage the airway by being prepared for the next intervention if the patient fails to respond. An overview of the management of acute severe asthma is provided inFigure 1.20"
+        },
+        {
+            "parent": 14,
+            "text": "Delivery of beta2agonists by inhalation is the most effective treatment for asthma exacerbations. Unfortunately, some patients with severe exacerbations may not respond to this treatment. Inhaled beta2agonists may be less effective in patients who have a strong inflammatory response or a history of long-term heavy use of beta2agonists. Subcutaneous or intravenous administration of beta2agonists may be indicated in patients who are coughing excessively, too weak to inspire adequately, or moribund.3,12Terbutaline (Brethine) is given subcutaneously (0.1 to 0.25 mg) or intravenously (0.1 to 10 mcg per kg per minute).3In one study4of patients with “brittle asthma” (defined by wide diurnal variations in PEF rates), twice-daily subcutaneous administration of terbutaline improved symptoms, medication use, and PEF rates.4The findings of this study suggest that some beta receptors may not be accessible by the aerosolized route."
+        },
+        {
+            "parent": 14,
+            "text": "Intravenously or subcutaneously administered epinephrine may help avoid the need for mechanical ventilation in patients with status asthmaticus.7However, cardiovascular effects limit the use of epinephrine to patients less than 40 to 50 years of age. The subcutaneous dose of epinephrine is 0.1 to 0.5 mg in adults (0.01 mg per kg in children), usually given as 0.1 to 0.5 mL of a 1:1,000 solution every 20 minutes or longer. For convenience, adult patients may be given three 0.3-mg doses at 20-minute intervals (total dose: up to 1 mg).7Incremental doses of 1 to 5 mL of a 1:10,000 epinephrine solution can be given intravenously over five to 10 minutes. Rarely, epinephrine is infused at a rate of 1 to 4 mcg per minute."
+        },
+        {
+            "parent": 15,
+            "text": "Magnesium sulfate is a calcium antagonist that induces smooth muscle relaxation. In three randomized controlled trials, magnesium sulfate improved symptoms in patients with severe asthma who had not responded to other treatments.23A dose of 30 to 70 mg per kg (1 to 3 g) is given intravenously over 20 to 30 minutes.7The safety and potential benefits of magnesium sulfate justify its use in nonresponding patients. This agent may be particularly beneficial in patients who are prone to hypomagnesemia because of prolonged, heavy use of inhaled beta2agonists."
+        },
+        {
+            "parent": 16,
+            "text": "At one time, aminophylline and theophylline were the mainstays of asthma treatment. Currently, these agents are second-line bronchodilators because they are only about one third as effective as beta2agonists. Treatment with aminophylline has been shown to improve oxygenation and reduce the incidence of intubation in children with severe status asthmaticus.24Unfortunately, the therapeutic level of this agent (approximately 10 mg per L) is close to the toxic level. Signs of toxicity include cardiac dysrhythmias, nausea, tremor, and headache. A prudent amino-phylline regimen is a loading dose of 5 to 6 mg per kg administered intravenously over 30 minutes, then 0.5 mg per kg per hour.12"
+        },
+        {
+            "parent": 17,
+            "text": "Some patients with severe asthma seem to respond to leukotriene inhibitors, which are anti-inflammatory drugs. In the acute setting, zafirlukast (Accolate) may be given orally twice daily; the dose for adults is 20 mg, and the dose for children up to 12 years of age is 10 mg. Zileuton (Zyflo), in a dosage of 600 mg four times daily, may be given to patients older than 12 years.4"
+        },
+        {
+            "parent": 18,
+            "text": "Continuous positive airway pressure or bi-level positive airway pressure machines use tight-fitting face masks to assist ventilation and reduce the work of breathing without intubation. Noninvasive ventilation is indicated in cooperative patients who may have impending respiratory failure but do not need immediate intubation. Noninvasive ventilation may avoid the possible complications of sedation, paralysis, and intubation, but it should only be used in alert patients who have an intact airway.7,25"
+        },
+        {
+            "parent": 19,
+            "text": "Heliox is a helium-oxygen mixture that decreases turbulent airflow. Benefits include decreases in the work of breathing, muscle fatigue, and carbon dioxide production.26No significant adverse effects have been reported; however, this treatment is not available in most hospitals."
+        },
+        {
+            "parent": 20,
+            "text": "When possible, intubation should be avoided. Tracheal intubation may aggravate bronchospasm, induce laryngospasm, increase barotrauma, and depress circulatory function.16In addition, intubation is associated with a mortality rate of 10 to 13 percent.6,12Indications for intubation include cardiac or respiratory arrest, severe hypoxia, exhaustion, or deterioration of mental status.3To prevent complications, it is recommended that rapid normalization of the carbon dioxide level be avoided, and that mild hypercapnia be tolerated until lung function improves.3,12,16In particular, high per-minute ventilation rates should not be used, because they lead to air trapping and decreased venous return, which may impair cardiopulmonary function.27"
+        }
+    ],
+    "locked": false
+}

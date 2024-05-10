@@ -1,0 +1,159 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0315/p875.html#afp20070315p875-f1",
+    "title": "Prevention and Management of Postpartum Hemorrhage | AAFP",
+    "author": "JANICE M. ANDERSON, M.D., AND DUNCAN ETCHES, M.D., M.CL.SC.",
+    "doi": "Am Fam Physician.2007;75(6):875-882",
+    "abstract": "Postpartum hemorrhage, the loss of more than 500 mL of blood after delivery, occurs in up to 18 percent of births and is the most common maternal morbidity in developed countries. Although risk factors and preventive strategies are clearly documented, not all cases are expected or avoidable. Uterine atony is responsible for most cases and can be managed with uterine massage in conjunction with oxytocin, prostaglandins, and ergot alkaloids. Retained placenta is a less common cause and requires examination of the placenta, exploration of the uterine cavity, and manual removal of retained tissue. Rarely, an invasive placenta causes postpartum hemorrhage and may require surgical management. Traumatic causes include lacerations, uterine rupture, and uterine inversion. Coagulopathies require clotting factor replacement for the identified deficiency. Early recognition, systematic evaluation and treatment, and prompt fluid resuscitation minimize the potentially serious outcomes associated with postpartum hemorrhage.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis and Management",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "TONE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Uterine Massage",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Uterotonic Agents",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TRAUMA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Uterine Inversion",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Uterine Rupture",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "TISSUE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "THROMBIN",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Clinical Approach",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Postpartum hemorrhage, defined as the loss of more than 500 mL of blood after delivery, occurs in up to 18 percent of births.1,2Blood loss exceeding 1,000 mL is considered physiologically significant and can result in hemodynamic instability.3Even with appropriate management, approximately 3 percent of vaginal deliveries will result in severe post-partum hemorrhage.4It is the most common maternal morbidity in developed countries and a major cause of death worldwide.1,3"
+        },
+        {
+            "parent": -1,
+            "text": "Complications from postpartum hemorrhage include orthostatic hypotension, anemia, and fatigue, which may make maternal care of the newborn more difficult. Post-partum anemia increases the risk of post-partum depression.5Blood transfusion may be necessary and carries associated risks.6In the most severe cases, hemorrhagic shock may lead to anterior pituitary ischemia with delay or failure of lactation (i.e., postpartum pituitary necrosis).7,8Occult myocardial ischemia, dilutional coagulopathy, and death also may occur.9Delayed postpartum hemorrhage, bleeding after 24 hours as a result of sloughing of the placental eschar or retained placental fragments, also can occur.10"
+        },
+        {
+            "parent": 0,
+            "text": "Risk factors for postpartum hemorrhage include a prolonged third stage of labor, multiple delivery, episiotomy, fetal macrosomia, and history of postpartum hemorrhage.3,4,11,12However, postpartum hemorrhage also occurs in women with no risk factors, so physicians must be prepared to manage this condition at every delivery.13Strategies for minimizing the effects of postpartum hemorrhage include identifying and correcting anemia before delivery, being aware of the mother's beliefs about blood transfusions, and eliminating routine episiotomy.14–16Reexamination of the patient's vital signs and vaginal flow before leaving the delivery area may help detect slow, steady bleeding."
+        },
+        {
+            "parent": 0,
+            "text": "The best preventive strategy is active management of the third stage of labor (number needed to treat [NNT] to prevent one case of postpartum hemorrhage = 12).17,18Hospital guidelines encouraging this practice have resulted in significant reductions in the incidence of massive hemorrhage.19Active management, which involves administering a uterotonic drug with or soon after the delivery of the anterior shoulder, controlled cord traction, and, usually, early cord clamping and cutting, decreases the risk of postpartum hemorrhage and shortens the third stage of labor with no significant increase in the risk of retained placenta.17,18Compared with expectant management, in which the placenta is allowed to separate spontaneously aided only by gravity or nipple stimulation, active management decreases the incidence of postpartum hemorrhage by 68 percent.17"
+        },
+        {
+            "parent": 0,
+            "text": "Early cord clamping is no longer included in the International Federation of Gynecology and Obstetrics (FIGO) definition of active management of the third stage of labor, and uterine massage after delivery of the placenta has been added.20Delaying cord clamping for about 60 seconds has the benefit of increasing iron stores and decreasing anemia, which is especially important in preterm infants and in low-resource settings.16,21–23The delay has not been shown to increase neonatal morbidity or maternal blood loss.16,21,23"
+        },
+        {
+            "parent": 0,
+            "text": "Prophylactic administration of oxytocin (Pitocin) reduces rates of postpartum hemorrhage by 40 percent24; this reduction also occurs if oxytocin is given after placental delivery.2,18Oxytocin is the drug of choice for preventing postpartum hemorrhage because it is at least as effective as ergot alkaloids or prostaglandins and has fewer side effects.2,25,26Misoprostol (Cytotec) has a role in the prevention of postpartum hemorrhage (NNT = 18)16; this agent has more side effects but is inexpensive, heat- and light-stable, and requires no syringes.27"
+        },
+        {
+            "parent": 1,
+            "text": "The diagnosis of postpartum hemorrhage begins with recognition of excessive bleeding and methodic examination to determine its cause(Figure 1). The “Four Ts” mnemonic (Tone, Trauma, Tissue, and Thrombin) can be used to detect specific causes(Table 1)."
+        },
+        {
+            "parent": 2,
+            "text": "Uterine atony is the most common cause of postpartum hemorrhage.28Because hemostasis associated with placental separation depends on myometrial contraction, atony is treated initially by bimanual uterine compression and massage, followed by drugs that promote uterine contraction."
+        },
+        {
+            "parent": 3,
+            "text": "Brisk blood flow after delivery of the placenta should alert the physician to perform a bimanual examination of the uterus. If the uterus is soft, massage is performed by placing one hand in the vagina and pushing against the body of the uterus while the other hand compresses the fundus from above through the abdominal wall(Figure 2).29The posterior aspect of the uterus is massaged with the abdominal hand and the anterior aspect with the vaginal hand."
+        },
+        {
+            "parent": 4,
+            "text": "Uterotonic agents include oxytocin, ergot alkaloids, and prostaglandins. Oxytocin stimulates the upper segment of the myometrium to contract rhythmically, which constricts spiral arteries and decreases blood flow through the uterus.30Oxytocin is an effective first-line treatment for postpartum hemorrhage31; 10 international units (IU) should be injected intramuscularly, or 20 IU in 1 L of saline may be infused at a rate of 250 mL per hour. As much as 500 mL can be infused over 10 minutes without complications.10"
+        },
+        {
+            "parent": 4,
+            "text": "Methylergonovine (Methergine) and ergometrine (not available in the United States) are ergot alkaloids that cause generalized smooth muscle contraction in which the upper and lower segments of the uterus contract tetanically.32A typical dose of methylergonovine, 0.2 mg administered intramuscularly, may be repeated as required at intervals of two to four hours. Because ergot alkaloid agents raise blood pressure, they are contraindicated in women with preclampsia or hypertension.33Other adverse effects include nausea and vomiting.33"
+        },
+        {
+            "parent": 4,
+            "text": "Prostaglandins enhance uterine contractility and cause vasoconstriction.34The prostaglandin most commonly used is 15-methyl prostaglandin F2a, or carboprost (Hemabate). Carboprost can be administered intramyometrially or intramuscularly in a dose of 0.25 mg; this dose can be repeated every 15 minutes for a total dose of 2 mg. Carboprost has been proven to control hemorrhage in up to 87 percent of patients.35In cases where it is not effective, chorioamnionitis or other risk factors for hemorrhage often are present.35Hypersensitivity is the only absolute contraindication, but carboprost should be used with caution in patients with asthma or hypertension. Side effects include nausea, vomiting, diarrhea, hypertension, headache, flushing, and pyrexia.34"
+        },
+        {
+            "parent": 4,
+            "text": "Misoprostol is another prostaglandin that increases uterine tone and decreases postpartum bleeding.36Misoprostol is effective in the treatment of postpartum hemorrhage, but side effects may limit its use.28,37It can be administered sublingually, orally, vaginally, and rectally. Doses range from 200 to 1,000 mcg; the dose recommended by FIGO is 1,000 mcg administered rectally.28,37,38Higher peak levels and larger doses are associated with more side effects, including shivering, pyrexia, and diarrhea.28,39Although misoprostol is widely used in the treatment of postpartum hemorrhage, it is not approved by the U.S. Food and Drug Administration for this indication."
+        },
+        {
+            "parent": 5,
+            "text": "Lacerations and hematomas resulting from birth trauma can cause significant blood loss that can be lessened by hemostasis and timely repair. Sutures should be placed if direct pressure does not stop the bleeding. Episiotomy increases blood loss and the risk of anal sphincter tears,11,12,40and this procedure should be avoided unless urgent delivery is necessary and the perineum is thought to be a limiting factor.14"
+        },
+        {
+            "parent": 5,
+            "text": "Hematomas can present as pain or as a change in vital signs disproportionate to the amount of blood loss. Small hematomas can be managed with close observation.41Patients with persistent signs of volume loss despite fluid replacement, as well as those with large or enlarging hematomas, require incision and evacuation of the clot.41The involved area should be irrigated and the bleeding vessels ligated. In patients with diffuse oozing, a layered closure will help to secure hemostasis and eliminate dead space."
+        },
+        {
+            "parent": 6,
+            "text": "Uterine inversion is rare, occurring in 0.05 percent of deliveries.10Active management of the third stage of labor may reduce the incidence of uterine inversion.42Fundal implantation of the placenta may lead to inversion; the roles of fundal pressure and undue cord traction are uncertain.10The inverted uterus usually appears as a bluish-gray mass protruding from the vagina. Vasovagal effects producing vital sign changes disproportionate to the amount of bleeding may be an additional clue. The placenta often is still attached, and it should be left in place until after reduction.42Every attempt should be made to replace the uterus quickly. The Johnson method of reduction begins with grasping the protruding fundusFigure 3A29) with the palm of the hand and fingers directed toward the posterior fornix(Figure 3B29). The uterus is returned to position by lifting it up through the pelvis and into the abdomen(Figure 3C29).43Once the uterus is reverted, uterotonic agents should be given to promote uterine tone and to prevent recurrence. If initial attempts to replace the uterus fail or a cervical contraction ring develops, administration of magnesium sulfate, terbutaline (Brethine), nitroglycerin, or general anesthesia may allow sufficient uterine relaxation for manipulation. If these methods fail, the uterus will need to be replaced surgically.42"
+        },
+        {
+            "parent": 7,
+            "text": "Although rare in an unscarred uterus, clinically significant uterine rupture occurs in 0.6 to 0.7 percent of vaginal births after cesarean delivery in women with a low transverse or unknown uterine scar.44–46The risk increases significantly with previous classical incisions or uterine surgeries, and to a lesser extent with shorter intervals between pregnancies or a history of multiple cesarean deliveries, particularly in women with no previous vaginal deliveries.44–48Compared with spontaneous labor, induction or augmentation increases the rate of uterine rupture, more so if prostaglandins and oxytocin are used sequentially. However, the incidence of rupture is still low (i.e., 1 to 2.4 percent).46,48Misoprostol should not be used for cervical ripening or induction when attempting vaginal birth after previous cesarean delivery.48"
+        },
+        {
+            "parent": 7,
+            "text": "Before delivery, the primary sign of uterine rupture is fetal bradycardia.45Tachycardia or late decelerations can also herald a uterine rupture, as can vaginal bleeding, abdominal tenderness, maternal tachycardia, circulatory collapse, or increasing abdominal girth.47Symptomatic uterine rupture requires surgical repair of the defect or hysterectomy. When detected in the postpartum period, a small asymptomatic lower uterine segment defect or bloodless dehiscence can be followed expectantly.47"
+        },
+        {
+            "parent": 8,
+            "text": "Classic signs of placental separation include a small gush of blood with lengthening of the umbilical cord and a slight rise of the uterus in the pelvis. Placental delivery can be achieved by use of the Brandt-Andrews maneuver, which involves applying firm traction on the umbilical cord with one hand while the other applies suprapubic counterpressure(Figure 429).49The mean time from delivery until placental expulsion is eight to nine minutes.4Longer intervals are associated with an increased risk of postpartum hemorrhage, with rates doubling after 10 minutes.4Retained placenta (i.e., failure of the placenta to deliver within 30 minutes after birth) occurs in less than 3 percent of vaginal deliveries.50One management option is to inject the umbilical vein with 20 mL of a solution of 0.9 percent saline and 20 units of oxytocin. This significantly reduces the need for manual removal of the placenta compared with injecting saline alone.51Alternatively, physicians may proceed directly to manual removal of the placenta, using appropriate analgesia. If the tissue plane between the uterine wall and placenta cannot be developed through blunt dissection with the edge of the gloved hand, invasive placenta should be considered."
+        },
+        {
+            "parent": 8,
+            "text": "Invasive placenta can be life threatening.50The incidence has increased from 0.003 percent to 0.04 percent of deliveries since 1950s; this increase is likely a result of the increase in cesarean section rates.49Classification is based on the depth of invasion and can be easily remembered through alliteration: placentaaccretaadheres to the myometrium, placentaincretainvades the myometrium, and placentapercretapenetrates the myometrium to or beyond the serosa.10Risk factors include advanced maternal age, high parity, previous invasive placenta or cesarean delivery, and placenta previa (especially in combination with previous cesarean delivery, increasing to 67 percent with four or more).49The most common treatment for invasive placenta is hysterectomy.49However, conservative management (i.e., leaving the placenta in place or giving weekly oral methotrexate52until ⊠ human chorionic gonadotropin levels are 0) is sometimes successful.53Women treated for a retained placenta must be observed for late sequelae, including infection and late postpartum bleeding.52,53"
+        },
+        {
+            "parent": 9,
+            "text": "Coagulation disorders, a rare cause of post-partum hemorrhage, are unlikely to respond to the measures described above.10Most coagulopathies are identified before delivery, allowing for advance planning to prevent postpartum hemorrhage. These disorders include idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, von Willebrand's disease, and hemophilia. Patients also can develop HELLP (hemolysis, elevated liver enzyme levels, and low platelet levels) syndrome or disseminated intravascular coagulation. Risk factors for disseminated intravascular coagulation include severe pre-eclampsia, amniotic fluid embolism, sepsis, placental abruption, and prolonged retention of fetal demise.54,55Abruption is associated with cocaine use and hypertensive disorders.54Excessive bleeding can deplete coagulation factors and lead to consumptive coagulation, which promotes further bleeding. Coagulation defects should be suspected in patients who have not responded to the usual measures to treat post-partum hemorrhage, and in those who are not forming blood clots or are oozing from puncture sites."
+        },
+        {
+            "parent": 9,
+            "text": "Evaluation should include a platelet count and measurement of prothrombin time, partial thromboplastin time, fibrinogen level, and fibrin split products (i.e., d-dimer). Management consists of treating the underlying disease process, supporting intravascular volume, serially evaluating coagulation status, and replacing appropriate blood components. Administration of recombinant factor VIIa or clot-promoting medications (e.g., tranexamic acid [Cyklokapron]) may be considered.33,54,56"
+        },
+        {
+            "parent": 10,
+            "text": "Significant blood loss from any cause requires standard maternal resuscitation measures(Figure 1). Blood loss of more than 1,000 mL requires quick action and an interdisciplinary team approach.54Hysterectomy is the definitive treatment in women with severe, intractable hemorrhage. In patients who desire future fertility, uterus-conserving treatments include uterine packing or tamponade procedures, B-lynch uterine compression sutures, artery ligation, and uterine artery embolization.54,57"
+        }
+    ],
+    "locked": false
+}

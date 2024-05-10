@@ -1,0 +1,102 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/1001/p1215.html#afp20061001p1215-f1",
+    "title": "IDSA Releases Guidelines for the Diagnosis and Treatment of Skin and Soft Tissue Infections | AAFP",
+    "author": "CARRIE ARMSTRONG",
+    "doi": "Am Fam Physician.2006;74(7):1215-1228",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Testing",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "IMPETIGO AND CELLULITIS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "NECROTIZING INFECTIONS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "INFECTIONS AFTER ANIMAL OR HUMAN BITES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SURGICAL SITE INFECTIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The Infectious Diseases Society of America (IDSA) has released evidence-based guidelines on the diagnosis and treatment of skin and soft tissue infections. The recommendations were published in the November 15, 2005, issue ofClinical Infectious Diseasesand are available athttp://www.journals.uchicago.edu/CID/journal/issues/v41n10/37519/37519.html."
+        },
+        {
+            "parent": -1,
+            "text": "Skin and soft tissue infections have diverse etiologies that depend, in part, on the epidemiologic setting. Thus, obtaining a careful history, including information about the patient’s immune status, travel history, recent trauma or surgery, previous antimicrobial therapy, lifestyle, hobbies, and animal exposure, is key to developing the differential diagnosis. Recognizing physical examination findings and understanding the anatomic relationships of skin and soft tissue also are crucial in establishing the correct diagnosis. Biopsy and aspiration of tissue may be necessary in some patients, and radiographic procedures may be useful to determine the level of infection and the presence of gas or abscess. Surgical exploration and debridement are important diagnostic and therapeutic procedures in immunocompromised patients and in those with necrotizing infections or myonecrosis."
+        },
+        {
+            "parent": -1,
+            "text": "Three problems commonly affecting the clinical evaluation of patients with skin and soft tissue infections are diagnosis, infection severity, and pathogen-specific antibiotic resistance patterns. Dozens of microbes may cause soft tissue infections, and although specific bacteria may cause a particular type of infection, considerable overlaps in clinical presentation exist."
+        },
+        {
+            "parent": 0,
+            "text": "The IDSA recommends that patients with soft tissue infection have blood drawn for laboratory testing if signs and symptoms of systemic toxicity are present (e.g., fever or hypothermia, tachycardia, hypotension). Laboratory testing should include blood culture and drug susceptibility tests; blood cell count with differential; and measurement of creatinine, bicarbonate, creatine phosphokinase, and C-reactive protein (CRP) levels. Hospitalization should be considered for patients with hypotension or an elevated creatinine level, low serum bicarbonate level, elevated creatine phosphokinase level (i.e., two to three times the upper limit of normal), marked left shift, or a CRP level greater than 13 mg per L (123.8 nmol per L). Gram stain culture and culture of needle aspiration or punch biopsy specimens should be performed to determine a definitive etiology, and a surgical consult should be considered for inspection, exploration, and drainage. The following findings may signal potentially severe, deep soft tissue infection and require emergent surgical evaluation:"
+        },
+        {
+            "parent": 0,
+            "text": "Cutaneous hemorrhageGas in the tissuePain disproportionate to physical findingsRapid progressionSkin anesthesiaSkin sloughingViolaceous bullae."
+        },
+        {
+            "parent": 1,
+            "text": "Emerging antibiotic resistance inStaphylococcus aureusandStreptococcus pyogenes(methicillin and erythromycin resistance, respectively) is problematic because both of these organisms are common causes of several skin and soft tissue infections, and because empiric choices of antimicrobials must include agents with activity against resistant strains. Minor skin and soft tissue infections may be treated empirically with semisynthetic penicillin, first- or second-generation oral cephalosporins, macrolides, or clindamycin (Cleocin). However, 50 percent of methicillin-resistantS. aureus(MRSA) strains have inducible or constitutive clindamycin resistance. Progression despite antibiotic therapy could be the result of infection with resistant microbes or because a deeper, more serious infection exists than was realized."
+        },
+        {
+            "parent": 1,
+            "text": "Patients who present with severe infection or whose infection is progressing despite empiric antibiotic therapy should be treated more aggressively; the treatment strategy should be based on results of appropriate Gram stain, culture, and drug susceptibility analysis. In the case ofS. aureus,the physician should assume that the organism is resistant, and agents effective against MRSA (i.e., vancomycin, linezolid [Zyvox], or daptomycin [Cubicin]) should be used(Table 1)."
+        },
+        {
+            "parent": 2,
+            "text": "Impetigo may be caused by infection withS. aureusorS. pyogenes. Treatment depends on the number of lesions, their location, and the need to limit the spread of infection to others. The best topical agent is mupirocin (Bactroban), although resistance has been reported. Patients with numerous lesions and those who are not responding to topical agents should receive oral antimicrobial therapy effective againstS. aureusandS. pyogenes."
+        },
+        {
+            "parent": 2,
+            "text": "Cellulitis may be caused by numerous organisms. Cellulitis associated with furuncles, carbuncles, or abscesses usually is caused byS. aureus. In contrast, diffuse cellulitis most commonly is caused by streptococcal species. Important clinical clues to other causes include physical activities, trauma, water contact, and bites from animals, insects, or humans. In these circumstances, appropriate culture material should be obtained. The same should be done in patients who do not respond to initial empiric therapy directed againstS. aureusandS. pyogenes. Aspiration of skin is not helpful in 75 to 80 percent of patients with cellulitis, and results of blood cultures rarely are positive."
+        },
+        {
+            "parent": 2,
+            "text": "Patients with cellulitis generally should be treated with a penicillinase-resistant semisynthetic penicillin or a first-generation cephalosporin. Patients allergic to penicillin should be treated with clindamycin or vancomycin. Lack of clinical response could be the result of unusual organisms, resistant strains of staphylococcus or streptococcus, or deeper processes. Necrotizing fasciitis, myonecrosis, and toxic shock syndrome should be considered in patients who become increasingly ill or who experience increasing toxicity, and antibiotic treatment should be modified on the basis of Gram stain results, culture results, and antimicrobial susceptibilities of organisms obtained from surgical specimens."
+        },
+        {
+            "parent": 3,
+            "text": "Necrotizing fasciitis may be monomicrobial and caused byS. pyogenes, Vibrio vulnificus,orAeromonas hydrophila. Polymicrobial necrotizing fasciitis may occur after surgery and in patients with peripheral vascular disease, diabetes, decubitus ulcers, or spontaneous mucosal tears of the gastrointestinal or gastrourinary tract. As with clostridial myonecrosis, gas in the deep tissues often is found in these mixed infections. Gas gangrene is a rapidly progressive infection caused byClostridium perfringens, Clostridium septicum, Clostridium histolyticum,orClostridium novyi. Severe penetrating trauma or crush injuries associated with interruption of the blood supply are the usual predisposing factors.C. septicum,a more aerotolerant Clostridium species, may cause spontaneous gas gangrene in patients with colonic lesions, adenocarcinoma, or neutropenia. Antimicrobials directed against aerobic gram-positive and gram-negative bacteria, as well as against anaerobes, may be used to treat mixed necrotizing infections.Table 2lists antibiotics and dosages used to treat necrotizing infections."
+        },
+        {
+            "parent": 4,
+            "text": "Animal bites account for 1 percent of all emergency department visits, and dog bites are responsible for 80 percent of these cases. Pasteurella species are the most common isolates; however, cat and dog bites contain an average of five different aerobic and anaerobic bacteria per wound, often includingS. aureus, Bacteroides tectum,and Fusobacterium, Capnocytophaga, and Porphyromonas species. The decision to administer oral or parenteral antibiotics depends on the depth and severity of the wound and on the time since the bite occurred. Patients who are not allergic to penicillin should receive oral amoxicillin/clavulanate (Augmentin), intravenous ampicillin/sulbactam (Unasyn), or ertapenem (Invanz; seeTable 3). Cefoxitin (Mefoxin) or carbapenem antibiotics could be used parenterally in patients with mild penicillin allergies. Patients with previous severe reactions may be treated with oral or intravenous doxy-cycline (Vibramycin), trimethoprim/sulfamethoxazole (TMP/SMX; Bactrim, Septra), or a fluoroquinolone plus clindamycin."
+        },
+        {
+            "parent": 4,
+            "text": "Human bites may occur from accidental injuries, purposeful biting, or closed-fist injuries. The bacteriologic characteristics of these wounds are complex but include infection with aerobic bacteria, such as streptococci,S. aureus,andEikenella corrodens,as well as with multiple anaerobic organisms, including Fusobacterium, Peptostreptococcus, Prevotella, and Porphyromonas species.E. corrodensis resistant to first-generation cephalosporins, macrolides, clindamycin, and aminoglycosides. Intravenous treatment with ampicillin/sulbactam or cefoxitin is the best choice for these patients."
+        },
+        {
+            "parent": 5,
+            "text": "Surgical soft tissue infections include those occurring postoperatively and those severe enough to require surgical intervention for diagnosis and treatment. Surgical site infections rarely occur during the first 48 hours after surgery, and fever during that period usually arises from noninfectious or unknown causes. In contrast, surgical site infection is a more common source of fever after 48 hours, and careful inspection of the wound is indicated. Observation, dressing changes, or opening the incision site suffices for patients with a temperature of less than 101.3°F (38.5°C) who do not have tachycardia. However, patients with tachycardia or a temperature greater than 101.3°F generally require antibiotics as well as opening of the suture line. Postsurgical infections involving nonsterile tissue (e.g., colonic, vaginal, biliary, or respiratory mucosa) may be caused by a combination of aerobic and anaerobic bacteria. Antimicrobial therapies for patients with surgical site infections are listed inTable 4, and an algorithm for the diagnosis and treatment of surgical site infections in given inFigure 1(page 1228)."
+        },
+        {
+            "parent": 5,
+            "text": "Editor's note:A recent observational study of patients with purulent or abscessed skin infection in 12 U.S. emergency departments found that more than one half of patients had community-acquired MRSA.1Drainage and administration of an oral antibiotic such as TMP/SMX or doxycycline are recommended as initial therapy for suspected community-acquired MRSA in patients with no systemic toxicity.2,3—mark h. ebell, m.d., m.s."
+        }
+    ],
+    "locked": false
+}

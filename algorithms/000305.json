@@ -1,0 +1,186 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0615/p835.html#afp20150615p835-f2",
+    "title": "Diagnosis and Management of Hepatitis C | AAFP",
+    "author": "THAD WILKINS, MD, MARIAM AKHTAR, MD, EUNICE GITITU, MD, CHRISTINE JALLURI, MD, AND JASON RAMIREZ, MD",
+    "doi": "Am Fam Physician.2015;91(12):835-842",
+    "abstract": "Hepatitis C virus (HCV) infection, a major cause of chronic liver disease and cirrhosis, is predominantly transmitted by exposure to blood or body fluids. The infection progresses to a chronic state in 80% of patients, whereas the virus clears completely after the acute infection in 20% of patients. Screening for HCV with an anti-HCV antibody test is recommended for all adults at high risk of infection, and one-time screening is recommended in adults born between 1945 and 1965. If the anti-HCV antibody test result is positive, current infection should be confirmed with a qualitative HCV RNA test. In patients with confirmed HCV infection, quantitative HCV RNA testing and testing for HCV genotype is recommended. An assessment of the degree of liver fibrosis with liver biopsy or noninvasive testing is necessary to determine the urgency of treatment. Treatment of patients with chronic HCV infection should be considered based on genotype, extent of fibrosis or cirrhosis, prior treatment, comorbidities, and potential adverse effects. The goal of therapy is to reduce all-cause mortality and liver-associated complications. Although interferon-based regimens have been the mainstay of treatment for HCV infection, the U.S. Food and Drug Administration recently approved two combination-pill interferon-free treatments (ledipasvir plus sofosbuvir, and ombitasvir/paritaprevir/ritonavir plus dasabuvir) for chronic HCV genotype 1.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Modes of Transmission",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology and Natural History",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Screening and Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Acute HCV Infection",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Assessment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "RIBAVIRIN",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PEGYLATED INTERFERON",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "NS3/4A INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "NS5B INHIBITOR",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "INTERFERON-FREE REGIMENS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Monitoring",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Complications",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hepatitis C virus (HCV) infection is a major cause of chronic liver disease and cirrhosis.1The World Health Organization reports that there are at least 185 million persons worldwide with the infection, causing 350,000 deaths annually.1In the United States, an estimated 2.7 million individuals are chronically infected with HCV.2The burden of HCV infection in the United States is expected to increase because of the high proportion of persons who were infected in the 1960s and 1970s.3In 2013, the total cost of HCV infection in the United States was estimated at $6.5 billion.4Chronic HCV infection leads to significantly more lost days of work, decreased productivity, and increased health care costs.5This article focuses on chronic HCV infection in adults and excludes special groups, such as children, pregnant women, transplant recipients, and persons coinfected with hepatitis B virus or human immunodeficiency virus (HIV)."
+        },
+        {
+            "parent": 0,
+            "text": "HCV is predominantly transmitted through blood or body fluids.1,6It can also be transmitted from mother to infant, through organ transplantation that occurred before July 1992, and through unprotected sex in HIV-infected men who have sex with men.6Any sexual contact where blood-to-blood transmission may occur (e.g., anal sex, sex during menses, sharing of sexual paraphernalia, sex with partners with open lesions) may also pose transmission risk. Intravenous drug use is the most important risk factor for HCV infection, accounting for approximately 60% of acute infections in the United States.6Since 1992 when universal screening was instituted for blood donors, blood transfusion has become a rare mode of transmission, with an estimated risk of one in 1 million units of blood transfused.5,7Table 1lists risk factors for HCV infection.8"
+        },
+        {
+            "parent": 1,
+            "text": "There are six known genotypes of HCV. The most common genotypes in the United States, comprising 97% of all U.S. HCV infections, are 1 (subtypes 1a and 1b), 2, and 3.9"
+        },
+        {
+            "parent": 1,
+            "text": "The mechanism of hepatocyte damage induced by HCV infection is not completely understood but may involve direct cell injury and a local immune-mediated mechanism that causes a chronic inflammatory state.10,11Acute HCV infection progresses to chronic disease (detectable virus after six months) in 50% to 80% of patients and clears spontaneously in 20% to 50% of patients.10Of persons with chronic disease, 20% will develop cirrhosis, end-stage liver disease, and/or hepatocellular carcinoma.12"
+        },
+        {
+            "parent": 1,
+            "text": "Figure 1illustrates the natural history of HCV infection.10"
+        },
+        {
+            "parent": 2,
+            "text": "The U.S. Preventive Services Task Force and the Centers for Disease Control and Prevention recommend periodic HCV screening for all adults at high risk of infection and one-time screening in adults born between 1945 and 1965.6,13,14The American Association for the Study of Liver Diseases recommends annual screening for intravenous drug users and for men who are HIV seropositive and have unprotected sex with men.6"
+        },
+        {
+            "parent": 2,
+            "text": "An anti-HCV antibody test is recommended to screen for HCV infection (sensitivity of 95%, specificity of 99%, positive likelihood ratio of 95, and negative likelihood ratio of 0.05).6If the anti-HCV antibody test result is positive, current infection should be confirmed with a qualitative measurement of HCV RNA (Figure 2).1,6If the anti-HCV antibody test result is negative in a patient who may have been exposed to HCV within the previous six months, HCV RNA should be measured every four to eight weeks for at least six months or follow-up anti-HCV antibody testing should be performed in 12 weeks.6Patients with a positive anti-HCV antibody test result but a negative HCV RNA test result are not considered to have HCV infection.6Quantitative HCV RNA testing is recommended before initiating therapy to determine the baseline viral load, and testing for HCV genotype is recommended to help guide treatment decisions.1,6"
+        },
+        {
+            "parent": 3,
+            "text": "Acute HCV infection refers to signs and symptoms that occur within six months of presumed exposure. An acute infection can be documented with a positive HCV RNA test result in the setting of a negative anti-HCV antibody test result that subsequently seroconverts to a positive anti-HCV antibody test result over eight to 12 weeks.15Postexposure prophylaxis with antiviral therapy is not recommended for patients with acute HCV infection.6The American Association for the Study of Liver Diseases recommends either delaying treatment for a minimum of six months to monitor for spontaneous clearance of HCV RNA and then following treatment recommendations for chronic HCV infection, or treating the acute infection after monitoring HCV RNA for a minimum of 12 to 16 weeks to allow for spontaneous clearance.6,16Decreased transmission is a potential but unproven benefit of treatment during acute HCV infection.6"
+        },
+        {
+            "parent": 4,
+            "text": "Assessing the degree of liver fibrosis and cirrhosis is necessary in patients with confirmed HCV infection to determine the urgency of treatment because the degree of liver fibrosis predicts disease progression and clinical outcomes.1,6,17The Metavir scoring system(Table 2)grades fibrosis from 0 to 4, and treatment should be considered in patients with substantial fibrosis (score of 2 or greater).6,18"
+        },
+        {
+            "parent": 4,
+            "text": "Liver biopsy is the preferred method to assess degree of fibrosis. However, noninvasive tests, such as direct biomarkers and liver elastography, may be used.19Patients with chronic HCV infection should be assessed for hepatitis B and HIV infections, which may accelerate liver fibrosis.6"
+        },
+        {
+            "parent": 5,
+            "text": "All patients with chronic HCV infection should be considered for treatment based on genotype, extent of fibrosis or cirrhosis, prior treatment, comorbidities, and potential adverse effects. The goal of therapy is to reduce all-cause mortality and liver-associated complications.6,20Monitoring of treatment effectiveness is assessed by repeated measurement of HCV RNA.21A sustained viral response (SVR), defined by the absence of HCV RNA on polymerase chain reaction testing 24 weeks after cessation of treatment, is associated with a 99% chance of being HCV RNA negative during long-term follow-up.22,23SVR 12 weeks after treatment is a new primary end point in many recent drug trials. A small post hoc analysis of patients with HCV genotype 1 found that the SVR at 12 weeks has a 100% positive predictive value for SVR at 24 weeks.24"
+        },
+        {
+            "parent": 5,
+            "text": "Table 3shows predictors of SVR.25–31"
+        },
+        {
+            "parent": 5,
+            "text": "Candidates for treatment are 18 years or older, are willing to adhere to treatment, and have elevated serum alanine transaminase levels and a Metavir score of 2 or more.6Therapy is complex and rapidly changing, and should be supervised by a physician experienced in treating HCV infection. Although interferon-based regimens have been the mainstay of treatment for HCV infection, new interferon-free regimens have recently been approved.32Table 4summarizes treatment regimens for HCV infection.6"
+        },
+        {
+            "parent": 6,
+            "text": "Ribavirin (RBV; Rebetol) inhibits viral RNA polymerase, thereby inhibiting protein synthesis. A 2010 Cochrane review of randomized controlled trials involving 12,707 patients found that RBV combined with interferon therapy improved the likelihood of SVR in treatment-naive patients (relative risk = 0.72; 95% confidence interval, 0.68 to 0.75), compared with interferon alone.33The U.S. Food and Drug Administration (FDA) has issued a boxed warning for RBV because of the risk of hemolytic anemia. The medication also may worsen cardiac disease, leading to myocardial infarction. Because RBV has significant teratogenic and embryocidal effects, two forms of reliable contraception should be used by women taking the drug and by female partners of men taking the drug, during therapy and for six months after therapy.34,35"
+        },
+        {
+            "parent": 7,
+            "text": "Pegylated interferon inhibits viral replication by antiviral, antiproliferative, and immunomodulatory effects. There are two FDA-approved formulations: peginterferon alfa-2a (Pegasys) and peginterferon alfa-2b (PEG-Intron). Two meta-analyses and one Cochrane review found that the SVR was significantly higher for peginterferon alfa-2a than for peginterferon alfa-2b for all genotypes.36–38Interferon-based therapy can cause serious adverse effects, including development or aggravation of life-threatening neuropsychiatric, autoimmune, ischemic, and infectious disorders.39"
+        },
+        {
+            "parent": 8,
+            "text": "Telaprevir (Incivek) and boceprevir (Victrelis) were FDA approved in 2011 for the treatment of chronic HCV infection when used in combination with RBV and/or pegylated interferon. However, the manufacturer discontinued telaprevir in the United States because of alternative treatments and diminishing market demands. Boceprevir also will be discontinued in the United States by the end of 2015.40Regimens including telaprevir and boceprevir are less effective than the preferred regimens and are associated with higher rates of serious adverse events.6"
+        },
+        {
+            "parent": 8,
+            "text": "Figure 3illustrates the HCV polyprotein structure and selected targets.41"
+        },
+        {
+            "parent": 8,
+            "text": "Simeprevir (Olysio) is effective for genotypes 1, 4, 5, and 6.20The most common adverse effects include anemia, fatigue, flulike symptoms, pruritus, headache, and nausea.20Two randomized controlled trials involving patients with genotypes 1 to 3 reported a superior SVR at 12 weeks with simeprevir combined with pegylated interferon and RBV (80% to 92%) vs. pegylated interferon and RBV alone (40% to 50%).42,43"
+        },
+        {
+            "parent": 9,
+            "text": "Sofosbuvir (Sovaldi) inhibits HCV viral assembly and RNA polymerase, thus inhibiting viral replication. It is effective for all HCV genotypes.20The most commonly reported adverse events are headache, anemia, fatigue, and nausea.20A randomized controlled trial involving 122 patients with HCV genotypes 1 to 3 found an SVR of 90% at 12 weeks with sofosbuvir, 200 mg, plus pegylated interferon and RBV, compared with an SVR of 91% for sofosbuvir, 400 mg, plus pegylated interferon and RBV, and an SVR of 58% for pegylated interferon and RBV.44"
+        },
+        {
+            "parent": 9,
+            "text": "Two randomized controlled trials involving patients with chronic HCV genotype 2 or 3 found that the SVR at 12 weeks was superior for sofosbuvir and RBV (78% to 93%) compared with placebo (0%).45,46An open-label study of 82 patients with chronic HCV genotype 1 found that the SVR at 12 weeks was superior for a combination of simeprevir and sofosbuvir (93%), compared with a combination of sofosbuvir, pegylated interferon, and RBV (75%).47Regimens containing either sofosbuvir or simeprevir are preferable over telaprevir or boceprevir because of fewer adverse effects and greater ease of administration.6"
+        },
+        {
+            "parent": 10,
+            "text": "In October 2014, the FDA approved the first combination pill containing ledipasvir and sofosbuvir (Harvoni), which is taken once daily to treat chronic HCV genotype 1 infection. Ledipasvir is an NS5A inhibitor that acts in combination with sofosbuvir to interfere with viral replication. A phase-3, randomized, open-label study involving 647 treatment-experienced patients with HCV genotype 1 infection concluded that treatment with eight weeks of ledipasvir/sofosbuvir was noninferior to treatment with 12 weeks of ledipasvir/sofosbuvir plus RBV.48The most commonly reported adverse effects included headache and fatigue."
+        },
+        {
+            "parent": 10,
+            "text": "In December 2014, the FDA approved Viekira Pak, which consists of ombitasvir (NS5A inhibitor), paritaprevir (NS3/4A inhibitor), and ritonavir (HIV-1 protease inhibitor) tablets copackaged with dasabuvir tablets (NS5B inhibitor) for adults with chronic HCV genotype 1 infection. These drugs work together to inhibit the growth of HCV and may be used with or without RBV. A multicenter, randomized, double-blind, placebo-controlled trial evaluating 631 patients found an SVR of 96.2%, with a 0.6% discontinuation rate because of adverse events.49The most common adverse effects included fatigue, weakness, decreased energy, nausea, and insomnia. The cost of 12 weeks of Viekira Pak is similar to 12 weeks of sofosbuvir and less than ledipasvir/sofosbuvir."
+        },
+        {
+            "parent": 11,
+            "text": "At every visit, patients being treated for HCV infection should be assessed for adherence to therapy and adverse effects, monitored for new or worsening psychiatric illness, and screened for alcohol and substance abuse.1,6Baseline tests include thyroid-stimulating hormone level if pegylated interferon will be used; complete blood count; creatinine level with glomerular filtration rate; aspartate and alanine transaminase levels; alkaline phosphatase levels; and pregnancy testing in women of childbearing age.1,6Complete blood count, creatinine level, and aspartate and alanine transaminase levels should be measured at week 4 of treatment and as clinically indicated.6Quantitative HCV viral load is recommended at week 4 of treatment, and at 12 and 24 weeks after completion of therapy.6"
+        },
+        {
+            "parent": 12,
+            "text": "In a 17-year cohort study of 214 patients with chronic HCV infection, the annual incidence of hepatocellular carcinoma was 3.9%; decompensated cirrhosis, 3.9%; ascites, 2.9%; upper gastrointestinal tract bleeding, 0.7%; and encephalopathy, 0.1%.50The annual mortality rate in this cohort was 4%; hepatocellular carcinoma was the main cause of death in 44% of patients who died and was the first complication to develop in 27% of all patients.50Patients with HCV-related cirrhosis should be assessed for hepatocellular carcinoma every six to 12 months using ultrasonography and α-fetoprotein measurement.1,51Patients with cirrhosis or advanced fibrosis should be screened for varices using upper endoscopy every one to two years.19Referral for possible liver transplantation should be considered for patients with HCV-related cirrhosis.6"
+        },
+        {
+            "parent": 13,
+            "text": "Alcohol consumption should be assessed and quantified in patients with HCV infection.21Patients should be advised to decrease or abstain from alcohol, which can accelerate the progression of liver fibrosis and cirrhosis.1Antiviral therapy should not be withheld because of previous alcohol use. Vaccination against hepatitis A and B is recommended for susceptible patients with HCV infection.6Patients with chronic HCV infection and their families should be educated on preventing HCV transmission.6"
+        },
+        {
+            "parent": 13,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key terms hepatitis C, pathogenesis, diagnosis, and treatment. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. We also searched the Agency for Healthcare Research and Quality evidence reports, Clinical Evidence, the Cochrane database, Essential Evidence Plus, the National Guideline Clearinghouse database, and DynaMed. Search dates: October 29, 2014, and March 1, 2015."
+        }
+    ],
+    "locked": false
+}

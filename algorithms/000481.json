@@ -1,0 +1,227 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0201/p271.html#afp20110201p271-f1",
+    "title": "Treatment of Acute Migraine Headache | AAFP",
+    "author": "BENJAMIN GILMORE, MD, AND MAGDALENA MICHAEL, MD",
+    "doi": "Am Fam Physician.2011;83(3):271-280",
+    "abstract": "Migraine headache is a common and potentially debilitating disorder often treated by family physicians. Before diagnosing migraine, serious intracranial pathology must be ruled out. Treating acute migraine is challenging because of substantial rates of nonresponse to medications and difficulty in predicting individual response to a specific agent or dose. Data comparing different drug classes are relatively scarce. Abortive therapy should be used as early as possible after the onset of symptoms. Effective first-line therapies for mild to moderate migraine are nonprescription nonsteroidal anti-inflammatory drugs and combination analgesics containing acetaminophen, aspirin, and caffeine. Triptans are first-line therapies for moderate to severe migraine, or mild to moderate migraine that has not responded to adequate doses of simple analgesics. Triptans should be avoided in patients with vascular disease, uncontrolled hypertension, or hemiplegic migraine. Intravenous antiemetics, with or without intravenous dihydroergotamine, are effective therapies in an emergency department setting. Dexamethasone may be a useful adjunct to standard therapy in preventing short-term headache recurrence. Intranasal lidocaine may also have a role in relief of acute migraine. Isometheptene-containing compounds and intranasal dihydroergotamine are also reasonable therapeutic options. Medications containing opiates or barbiturates should be avoided for acute migraine. During pregnancy, migraine may be treated with acetaminophen or nonsteroidal anti-inflammatory drugs (prior to third trimester), or opiates in refractory cases. Acetaminophen, ibuprofen, intranasal sumatriptan, and intranasal zolmitriptan seem to be effective in children and adolescents, although data in these age groups are limited.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "General Treatment Principles",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "First-Line Therapies",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "COMBINATION ANALGESICS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "NSAIDS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TRIPTANS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "COMBINATION TRIPTANS AND NSAIDS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Other Effective Therapies",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "ANTIEMETICS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "DEXAMETHASONE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "ERGOTAMINES",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "ISOMETHEPTENE COMPOUNDS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "LIDOCAINE",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Non-Preferred Therapies",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Experimental Therapies",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Special Populations",
+            "level": 2
+        },
+        {
+            "id": 16,
+            "name": "PREGNANCY",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "MENSTRUAL MIGRAINE",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "CHILDREN AND ADOLESCENTS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Migraine headache is one of the most common, yet potentially debilitating disorders encountered in primary care. Approximately 18 percent of women and 6 percent of men in the United States have migraine headaches, and 51 percent of these persons report reduced work or school productivity.1Patients typically describe recurrent headaches with similar symptoms, and approximately one-third describe an aura preceding the headache.1This article reviews treatment options for acute migraine headache."
+        },
+        {
+            "parent": 0,
+            "text": "Table 1lists International Headache Society diagnostic criteria for migraine with and without aura.2A thorough history and physical examination can help confirm the diagnosis of migraine and rule out emergent conditions. The mnemonic POUND is an evidence-based aid for migraine diagnosis3:"
+        },
+        {
+            "parent": 0,
+            "text": "Pulsatile quality of headacheOne-day duration (four to 72 hours)Unilateral locationNausea or vomitingDisabling intensity"
+        },
+        {
+            "parent": 0,
+            "text": "In a primary care setting, the probability of migraine is 92 percent in patients who report at least four of the five POUND symptoms.4The probability decreases to 64 percent in patients with three of the symptoms, and 17 percent in patients with two or less symptoms.4"
+        },
+        {
+            "parent": 0,
+            "text": "Table 2outlines other serious causes of headache that must be considered in the differential diagnosis of migraine, such as temporal arteritis, cluster headache, and acute glaucoma.3Fever, meningismus, or altered mental status should prompt investigation for meningitis or subarachnoid hemorrhage. The U.S. Headache Consortium recommends considering neuroimaging in patients with an unexplained abnormal finding on neurologic examination and in patients with atypical headache features or headaches that do not fulfill the strict definition of migraine or other primary headache disorder.5The Consortium notes that neuroimaging generally is not indicated for patients with migraine and a normal neurologic examination."
+        },
+        {
+            "parent": 0,
+            "text": "In one study, age older than 50 years, sudden onset, and abnormal neurologic examination predicted serious intracranial pathology in adults presenting to an emergency department with nontraumatic headache; the presence of any one of these three features detected serious intracranial pathology with 98.6 percent sensitivity.6"
+        },
+        {
+            "parent": 1,
+            "text": "Several medications from different classes are available to treat acute migraine(Table 37–13). Because relatively few trials have directly compared the different medication classes available to treat acute migraine, definitive treatment algorithms cannot be developed. More than one-half of persons treat their migraine headaches with nonprescription medications, and patients often present to physicians after unsuccessfully trying multiple nonprescription therapies.7The U.S. Headache Consortium guidelines offer a general strategy based on expert consensus.14Nonsteroidal anti-inflammatory drugs (NSAIDs) or caffeine-containing combination analgesics may be first-line treatment for mild to moderate migraine, or severe migraine that has previously responded to these agents. Triptans are considered first-line abortive treatment of moderate to severe migraine, or mild attacks that have not responded to nonprescription medicines. Ergotamine-containing compounds may also be reasonable in this situation.14Figure 1provides a suggested algorithm for management of acute migraine headaches.5,6,11,12,14–18"
+        },
+        {
+            "parent": 1,
+            "text": "Predicting individual response to a specific medication is difficult. Complete pain relief is not always achievable. For example, studies report complete pain relief within two hours in 45 to 77 percent of patients taking triptans.1,8Potential adverse effects, contraindications, pharmacokinetics, and route of administration are often primary determinants of medication choice. Patients with severe nausea and vomiting often require nonoral medication."
+        },
+        {
+            "parent": 1,
+            "text": "Evidence suggests that abortive therapy works best if taken soon after the onset of migraine or during aura, before pain progresses. A trial using almotriptan (Axert) showed that early users (i.e., therapy initiated within one hour of headache onset) had greater relief and lower recurrence rates of pain than non-early users.19Nonprescription analgesics have shown comparable effectiveness with triptans if used in adequate doses soon after headache onset.9"
+        },
+        {
+            "parent": 1,
+            "text": "Prophylactic therapy may be appropriate for selected patients. The U.S. Headache Consortium's recommended indications for prophylactic therapy in patients with migraine headache are20:"
+        },
+        {
+            "parent": 1,
+            "text": "Contraindications or intolerance to abortive therapiesHeadache symptoms occurring more than two days per weekHeadaches that severely limit quality of life despite abortive therapyPresence of uncommon migraine conditions, including hemiplegic migraine, basilar migraine, migraine with prolonged aura, or migrainous infarction."
+        },
+        {
+            "parent": 3,
+            "text": "The combination analgesic acetaminophen/aspirin/caffeine (Excedrin Migraine) is effective, inexpensive, available without prescription, and free from most vascular contraindications associated with triptans. Its use in migraine treatment has shown favorable results when compared with 50 mg of sumatriptan (Imitrex) in one trial and with placebo in previous trials.9Patients with severe pain were included, but patients requiring bed rest or who were consistently vomiting during headaches were excluded.9A study that included these more severe cases reported that acetaminophen/aspirin/caffeine is superior to 400 mg of ibuprofen.7"
+        },
+        {
+            "parent": 4,
+            "text": "NSAIDs are a convenient first-line therapy for mild to moderate migraine or historically responsive severe attacks. A 2007 meta-analysis of ibuprofen for moderate to severe migraine showed that 200-mg and 400-mg doses were effective for short-term pain relief, but had 24-hour pain-free rates similar to placebo.21The 400-mg dose also helped relieve photophobia and phonophobia. A study comparing ketoprofen with zolmitriptan (Zomig) showed zolmitriptan to be modestly more effective (two-hour relief in 61.6 versus 66.8 percent of participants, respectively), but it was associated with more adverse events, such as tight throat and flushing.22Ketorolac, a parenteral NSAID commonly used in emergency departments, was found to be effective in reducing self-reported headache symptoms one hour after injection, including one study showing more effectiveness than intranasal sumatriptan.23"
+        },
+        {
+            "parent": 5,
+            "text": "Triptans are migraine-specific drugs that bind to serotonergic receptors. They are considered first-line therapy for moderate to severe migraine, or mild to moderate attacks unresponsive to nonspecific analgesics.14Seven triptans are currently available, but data guiding which to select for an individual patient are limited. A Cochrane review found that all triptans are similar in effectiveness and tolerability.24A meta-analysis of 53 trials using oral triptans found that the three most effective agents for pain relief were 10 mg of rizatriptan (Maxalt), 80 mg of eletriptan (Relpax), and 12.5 mg of almotriptan.8A Cochrane review found a dose of 100 mg of sumatriptan to be more effective than lower doses.24It is sometimes necessary to increase the dose of an individual agent before judging response. Trials suggest that nonresponders to one triptan may respond to another; therefore, switching triptans is also reasonable.25"
+        },
+        {
+            "parent": 5,
+            "text": "Triptans differ from one another in pharmacokinetics. Rizatriptan has a quicker onset of action than sumatriptan; frovatriptan (Frova), naratriptan (Amerge), and eletriptan have longer half-lives than sumatriptan.26In practice, route of administration or pharmacokinetics often guide choice. Some triptans are available as nasal sprays, rapidly dissolving tablets (absorbed despite vomiting), or subcutaneous injections. Some physicians choose a triptan by matching pharmacokinetics to the temporal pattern of their patient's migraine (e.g., rapid-onset medication for short course of migraine versus longer-acting medication with slower onset for longer lasting symptoms); however, there is no definitive evidence to support this approach."
+        },
+        {
+            "parent": 5,
+            "text": "The vasoconstrictive properties of triptans preclude their use in patients with ischemic heart disease, stroke, uncontrolled hypertension, or hemiplegic or basilar migraine. However, the chest pain occurring in 3 to 5 percent of oral triptan users has not been associated with electrocardiographic changes and is rarely ischemic.8A post-marketing study of subcutaneous sumatriptan in 12,339 patients without ischemic heart disease revealed 36 cardiac events, only two of which occurred within 24 hours of sumatriptan use.27Nonetheless, if patients taking triptans develop suspected cardiac symptoms, triptans should be discontinued pending further evaluation. Cardiac evaluation is reasonable before triptan initiation in patients with multiple vascular risk factors.28"
+        },
+        {
+            "parent": 5,
+            "text": "Triptans are contraindicated in patients taking monoamine oxidase inhibitors.14Combining triptans with selective serotonin reuptake inhibitors can lead to serotonin syndrome, a potentially life-threatening condition characterized by altered mentation, autonomic instability, diarrhea, neuromuscular hyperactivity, and fever. The true incidence of serotonin syndrome in this setting is unknown. A 2006 U.S. Food and Drug Administration (FDA) alert cited 29 case reports over five years, although almost 700,000 patients per year are prescribed both selective serotonin reuptake inhibitors and triptans.29Physicians treating patients who are taking triptans and selective serotonin reuptake inhibitors should be vigilant for serotonin syndrome, and should minimize drug dosages."
+        },
+        {
+            "parent": 6,
+            "text": "A fixed-dose combination of sumatriptan, 85 mg/naproxen, 500 mg (Trexima) is an option for acute treatment. One trial showed that the combination provided superior pain relief compared with either monotherapy.10Another trial found similar results in previous nonresponders to triptans.15Patients also may take triptans and NSAIDs concurrently."
+        },
+        {
+            "parent": 8,
+            "text": "Evidence supports a role for parenteral antiemetics in acute migraine, independent of their antinausea effects. A meta-analysis of 13 randomized controlled trials concluded that intravenous metoclopramide (Reglan) should be considered a primary agent in the treatment of migraine in emergency departments.11Given the potential for rebound and dependence associated with opiates, antiemetics offer a reasonable alternative in acute settings. No evidence supports migraine-specific effects of oral antiemetics, other than relieving nausea."
+        },
+        {
+            "parent": 9,
+            "text": "Intravenous dexamethasone has been used as adjunctive therapy for migraine in emergency departments. Two meta-analyses, each with seven randomized controlled trials in which dexamethasone was added to other standard therapies, showed that about 10 patients needed treatment to prevent headache recurrence within 24 to 72 hours12,18. [corrected]"
+        },
+        {
+            "parent": 10,
+            "text": "Like triptans, ergotamines and dihydroergotamine (DHE) are migraine-specific drugs that bind to serotonergic receptors. Although their use has been largely supplanted by triptans, ergot alkaloids still have a role in selected patients. Little evidence supports the use of oral ergotamines. Poor absorption and high rates of adverse events preclude their use in most situations. Combination medications containing ergotamines (e.g., ergotamine/caffeine [Cafergot]) may have fewer adverse effects than pure ergotamines.30"
+        },
+        {
+            "parent": 10,
+            "text": "Nine placebo-controlled trials have demonstrated the effectiveness of dihydroergotamine nasal spray (Migranal), making it an option for nonoral medication.30Comparison with subcutaneous sumatriptan showed lower effectiveness but fewer adverse effects.31Intravenous dihydroergotamine, combined with antiemetics, may be a reasonable option in emergency departments. A meta-analysis showed comparable effectiveness to opiates and ketorolac when combined with an antiemetic, but inferiority to phenothiazines and triptans when used alone.16Trials comparing subcutaneous dihydroergotamine with subcutaneous sumatriptan showed that dihydroergotamine had inferior effectiveness but fewer adverse events and headache recurrences.32"
+        },
+        {
+            "parent": 11,
+            "text": "The combination drug acetaminophen/isometheptene/dichloralphenazone (Midrin) includes a sympathomimetic (isometheptene) and a muscle relaxant (dichloralphenazone). One trial showed similar effectiveness to low-dose sumatriptan when used early in mild to moderate migraine.17Due to sympathomimetic effects, it should be used cautiously in patients with cardiac risk factors."
+        },
+        {
+            "parent": 12,
+            "text": "Intranasal lidocaine (Xylocaine) has a rapid onset of action and may be useful as a temporizing measure until longer-acting treatment can take effect. Lidocaine 4% solution administered into the nostril, either by a clinician or self-administered by patients, resulted in rapid symptom reduction compared with control, although recurrences were common.13,33"
+        },
+        {
+            "parent": 13,
+            "text": "Acetaminophen alone is not effective therapy for acute migraine.30There are no placebo-controlled trials documenting the effectiveness of barbiturate-containing analgesics (e.g., butalbital/aspirin/caffeine [Fiorinal]) for acute migraine.30The U.S. Headache Consortium recommends limiting opiate use in migraine treatment because of its potential for abuse and rebound headache.14Intranasal butorphanol is effective, but its use should be limited because of these concerns.14One study linked opiate or barbiturate use with an increased risk of episodic migraine becoming chronic.34Opiates or barbiturate-containing medications should be used only in patients with migraine headaches resistant to other therapies."
+        },
+        {
+            "parent": 14,
+            "text": "Calcitonin gene-related peptide is a neuropeptide thought to be central to migraine pathogenesis. Intravenous infusion of a calcitonin gene-related peptide antagonist showed promising results in one small study.35Transcranial magnetic stimulation, a modality where a magnetic field is generated on the scalp to create currents in the adjacent cortex, seems promising. A controlled trial of 200 patients who had migraine with aura showed that this therapy is superior to sham in two-hour pain relief and sustained responses over 24 to 48 hours.36Further research is needed to evaluate its role in treating migraine without aura and in migraine prophylaxis."
+        },
+        {
+            "parent": 16,
+            "text": "Acetaminophen, despite questionable effectiveness, is reasonable in the treatment of migraine in pregnant women because of its established safety. NSAIDs are effective and generally considered safe until the third trimester. The combination analgesic acetaminophen, 250 mg/aspirin, 250 mg/caffeine, 65 mg also must be used with caution; aspirin is FDA pregnancy category C, but is downgraded to category D for third trimester use, and consuming more than 100 mg of caffeine daily is associated with mild fetal growth restriction, although the clinical significance of this is unclear.37The American Congress of Obstetricians and Gynecologists recommends limiting daily caffeine consumption to 300 mg during pregnancy.38Avoidance of triptans is recommended during pregnancy, although limited data on first-trimester exposures are reassuring.17,25Metoclopramide is FDA pregnancy category B and may be used intravenously for migraine or orally for associated nausea. Opiates may be used for intractable cases, but pose risks of neonatal withdrawal and maternal dependence. The safety of isometheptene in pregnancy is unknown, so its use is not recommended. Ergotamines are abortifacients and are therefore absolutely contraindicated in pregnant women and women of childbearing age who are not using reliable contraception. Given scant data and cautions regarding medication safety, preventive approaches are key."
+        },
+        {
+            "parent": 17,
+            "text": "Many women report migraine or migraine exacerbations occurring exclusively near the time of menses. Long-acting triptans frovatriptan and naratriptan, taken perimenstrually around-the-clock for short-term prevention, have been found effective in reducing frequency and severity of menstrual migraine.39For abortive therapy, the highest-quality evidence supports the use of sumatriptan, rizatriptan, and the NSAID mefenamic acid (Ponstel).39"
+        },
+        {
+            "parent": 18,
+            "text": "Limited evidence is available to guide pharmacologic treatment of acute migraine in children and adolescents.40A systematic review found acetaminophen and ibuprofen safe and effective in children.41Triptans are often prescribed, although this is not FDA-approved or recommended by drug manufacturers. Intranasal sumatriptan and nasal zolmitriptan, but not oral formulations, have shown effectiveness in children and adolescents, perhaps because of the quicker onset of nasal formulations and shorter duration of migraines in children.40,41Given limited data, prevention is important."
+        },
+        {
+            "parent": 18,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key terms migraine and treatment, with separate searches for specific drug classes. A similar search was performed using Google Scholar. The Cochrane database was searched for relevant reviews, and the National Guideline Clearinghouse was searched for relevant guidelines. We also searched the Evidence Summary provided byAFPfor relevant articles. Search date: January 4, 2010, repeated September 20, 2010."
+        }
+    ],
+    "locked": false
+}

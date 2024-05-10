@@ -1,0 +1,172 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/1015/p705.html#afp20151015p705-f1",
+    "title": "Diagnosis and Treatment of Gastroesophageal Reflux in Infants and Children | AAFP",
+    "author": "DREW C. BAIRD, MD, DAUSEN J. HARKER, MD, AND AARON S. KARMES, DO",
+    "doi": "Am Fam Physician.2015;92(8):705-717",
+    "abstract": "Gastroesophageal reflux is defined as the passage of stomach contents into the esophagus with or without accompanied regurgitation (spitting up) and vomiting. It is a normal physiologic process that occurs throughout the day in infants and less often in children and adolescents. Gastroesophageal reflux disease (GERD) is reflux that causes troublesome symptoms or leads to medical complications. The diagnoses of gastroesophageal reflux and GERD are based on the history and physical examination. Diagnostic tests, such as endoscopy, barium study, multiple intraluminal impedance, and pH monitoring, are reserved for when there are atypical symptoms, warning signs, doubts about the diagnosis, or suspected complications or treatment failure. In infants, most regurgitation resolves by 12 months of age and does not require treatment. Reflux in infants may be treated with body position changes while awake, lower-volume feedings, thickening agents (i.e., rice cereal), antiregurgitant formula, extensively hydrolyzed or amino acid formulas, and, in breastfed infants, eliminating cow's milk and eggs from the mother's diet. Lifestyle changes to treat reflux in children and adolescents include sleeping position changes; weight loss; and avoiding smoking, alcohol, and late evening meals. Histamine H2receptor antagonists and proton pump inhibitors are the principal medical therapies for GERD. They are effective in infants, based on low-quality evidence, and in children and adolescents, based on low- to moderate-quality evidence. Surgical treatment is available, but should be considered only when medical therapy is unsuccessful or is not tolerated.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Background",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Evaluation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Initial Treatment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "CONSERVATIVE MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PHARMACOLOGIC TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Surgical Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Gastroesophageal reflux in children is the passage of stomach contents into the esophagus. It is a normal physiologic process, occurring throughout the day in infants and less often in children and adolescents, typically after meals. It may be asymptomatic or cause mild, nontroubling symptoms such as regurgitation or occasional vomiting. Regurgitation (spitting up) is the passive movement of stomach contents into the pharynx or mouth. Vomiting is the forceful movement of stomach contents through the mouth by autonomic and voluntary muscle contractions, sometimes triggered by reflux.1–3"
+        },
+        {
+            "parent": -1,
+            "text": "Gastroesophageal reflux disease (GERD) is reflux that produces troublesome symptoms for the patient (i.e., recurrent expressions of pain or unhappiness beyond the norm for the patient's age) and may lead to complications, such as reflux esophagitis, strictures, respiratory complications, failure to thrive, and, rarely, Barrett esophagus and esophageal adenocarcinoma.1–4This article discusses the diagnosis and treatment of gastroesophageal reflux and GERD in infants and children based on guidelines from the U.K.'s National Institute for Health and Care Excellence and from the North American and European Societies for Pediatric Gastroenterology, Hepatology, and Nutrition.2,3"
+        },
+        {
+            "parent": 0,
+            "text": "The lower esophageal sphincter is the primary barrier to gastroesophageal reflux. Most reflux events are caused by transient lower esophageal sphincter relaxation triggered by postprandial gastric distention.5Frequent large-volume feedings, short esophagus, and supine positioning predispose infants to regurgitation or vomiting induced by transient lower esophageal sphincter relaxation. This relaxation continues into childhood, but growth and upright positioning decrease its frequency.6Reflux may be liquid, solid, gas, or a combination of these. It may also be acidic, weakly acidic, or nonacidic. The degree of reflux acidity has not been associated with symptom severity.7"
+        },
+        {
+            "parent": 0,
+            "text": "The following conditions are associated with increased risk of GERD (listed from highest to lowest odds ratio): hiatal hernia (including congenital diaphragmatic hernia), neurodevelopmental disorders, cystic fibrosis, epilepsy, congenital esophageal disorders, asthma, and prematurity.8–12Obesity and parental history of reflux may also be risk factors for GERD in children.2,3,13–15"
+        },
+        {
+            "parent": 1,
+            "text": "Regurgitation is common during infancy, occurring at least once daily in one-half of infants up to three months of age. The prevalence peaks at four months of age, with two-thirds of infants regurgitating at least once daily15and approximately 40% regurgitating with most feedings.16Regurgitation declines precipitously afterward, dropping to 14% by seven months of age and to less than 5% between 10 and 14 months of age.15,16Further decline in the incidence of regurgitation occurs during the second year of life.17"
+        },
+        {
+            "parent": 1,
+            "text": "Gastroesophageal reflux symptoms remain common in childhood and adolescence. Approximately 2% to 7% of parents of three- to nine-year-olds report their child experiencing heartburn, epigastric pain, or regurgitation within the previous week, whereas 5% to 8% of adolescents report similar symptoms.18"
+        },
+        {
+            "parent": 1,
+            "text": "GERD is much less common with an incidence of 1.48 cases per 1,000 person-years in infants, declining until 12 years of age, and then peaking at 16 to 17 years of age (2.26 cases in girls and 1.75 cases in boys per 1,000 person-years in 16- to 17-year-olds). Overall, the childhood prevalence of GERD is estimated at 1.25% to 3.3%, compared with 5% among adults.1,8"
+        },
+        {
+            "parent": 2,
+            "text": "Gastroesophageal reflux by definition is the presence of nontroublesome reflux. The diagnosis of GERD is usually based on parent- or adolescent-reported symptoms that are attributable to gastroesophageal reflux and are troublesome to the patient.Table 1differentiates gastroesophageal reflux from GERD, and describes the warning signs and symptoms of both that require further evaluation.2–4,19Figure 1outlines the evaluation and treatment of gastroesophageal reflux and GERD.2,19"
+        },
+        {
+            "parent": 2,
+            "text": "Infantile gastroesophageal reflux may present with frequent regurgitation or vomiting, postprandial irritability, prolonged feeding or feeding refusal, or back arching. Progressively worsening projectile vomiting in the first months of life is concerning for pyloric stenosis and requires immediate imaging and surgical referral. Recurrent nonprojectile vomiting or regurgitation beyond 18 months of age is uncommon and suggests GERD or more concerning pathology.2,3,20Poor weight gain, parent-reported abdominal pain, and coughing or choking during feeding may also suggest GERD and warrant further workup. Bilious vomiting at any age, particularly in the first few months of life, is an emergency and suggests intestinal obstruction.21Gastrointestinal bleeding also requires further workup."
+        },
+        {
+            "parent": 2,
+            "text": "Sandifer syndrome, a lateral head tilt with contralateral chin rotation, is a rare cause of infantile torticollis attributable to GERD.22Subspecialist referral should be considered to differentiate it from more concerning movement disorders involving dystonia, seizures, and infantile spasms.2Apparent life-threatening events (i.e., witnessed, frightening events characterized by apnea, color change, marked change in muscle tone, choking, or gagging) are commonly attributed to GERD, lower respiratory tract infection, and seizures.23These events require investigation and hospitalization before diagnosing GERD as the cause.24"
+        },
+        {
+            "parent": 2,
+            "text": "Children older than eight years are considered reliable historians and self-report a higher incidence of GERD symptoms than parental reporting.18Similar to adults, older children and adolescents may report heartburn, regurgitation, odynophagia, dysphagia, retrosternal or epigastric pain, anorexia, or poor weight gain.25"
+        },
+        {
+            "parent": 2,
+            "text": "GERD may also present with extraesophageal manifestations such as cough, wheezing, laryngitis, pneumonia, recurrent sinusitis, or otitis media.4,26"
+        },
+        {
+            "parent": 2,
+            "text": "The feeding history should be reviewed to identify overfeeding, eating habits, or food triggers contributing to reflux symptoms. A review of the patient's medical history can identify conditions predisposing children to GERD. Physical examination should include growth measurements to assess for failure to thrive, which requires further investigation before assigning GERD as the cause. Head and neurologic examinations should look for bulging fontanelle, macro- or microcephaly, and evidence of neurodevelopmental disorders. The lung fields should be auscultated for stridor and wheezing. An abdominal examination should be performed for tenderness, distension, hepatosplenomegaly, peritoneal signs, and palpable masses.2"
+        },
+        {
+            "parent": 2,
+            "text": "Diagnostic testing is generally not necessary because it has not been found to be more reliable than the history and physical examination for diagnosing gastroesophageal reflux or GERD.27Tests should be reserved for situations with atypical symptoms, warning signs, or doubts about the diagnosis; suspected complications of GERD or other conditions; or failure of initial therapies.Tables 22,3,28–33and334–43highlight the common and less common differential diagnosis of GERD. When exploring alternate diagnoses, the patient's age (infant vs. child or adolescent) can narrow the differential."
+        },
+        {
+            "parent": 3,
+            "text": "Parents of healthy infants should be reassured that most regurgitation resolves spontaneously by the end of the first year of life. For children and adolescents, gastroesophageal reflux treatment should incorporate lifestyle changes and, in the absence of GERD, does not routinely require pharmacologic intervention.3"
+        },
+        {
+            "parent": 4,
+            "text": "Most infants, children, and adolescents who have reflux improve with conservative measures. In infants, feeding changes may reduce symptoms. For formula-fed infants, reducing feeding volumes in overfed infants, or offering smaller and more frequent feeds, may decrease reflux episodes and should be tried first.2,3Adding thickening agents (i.e., 1 tbsp rice cereal per oz of formula) decreases observed regurgitation and esophageal regurgitant height, but does not reduce the reflux index (percentage of time the esophageal pH is less than 4) and can lead to excess weight gain.2,44,45Commercially available antiregurgitant formulas decrease observed regurgitation but not the number of reflux episodes.2Extensively hydrolyzed or amino acid formulas may reduce reflux episodes in infants allergic to cow's milk protein. For breastfeeding infants, removing immunogenic foods (e.g., cow's milk, eggs) from the mother's diet may improve symptoms.2,4,19"
+        },
+        {
+            "parent": 4,
+            "text": "Changing the infant's body position while awake can be effective. The flat prone and left-side down positions are associated with fewer reflux episodes but should be recommended only in awake, observed infants during the postprandial period.2,46Sleeping infants should always be placed in the supine position, however, to decrease the risk of sudden infant death syndrome.3Prone sleeping may be considered after one year of age when the risk of sudden infant death syndrome decreases dramatically.2Certain infant sleep positioners are approved by the U.S. Food and Drug Administration for gastroesophageal reflux treatment, but they have been implicated in several infant deaths and their use should have physician oversight.47"
+        },
+        {
+            "parent": 4,
+            "text": "Conservative treatments in older children and adolescents are largely extrapolated from adult studies. Interventions include dietary modification (e.g., avoiding triggers, such as alcohol), weight loss in children who are obese, smoking cessation, chewing sugarless gum after meals, and avoiding late evening meals. Sleeping with the head of the bed elevated or in the left lateral decubitus position may reduce reflux episodes.2,3,48,49"
+        },
+        {
+            "parent": 5,
+            "text": "For infants, children, and adolescents with GERD that does not improve with conservative treatment, an empiric four-week trial can be considered using acid suppression therapy with histamine H2receptor antagonists or proton pump inhibitors (PPIs).3,4,50,51Shorter treatment duration or as-needed use is not recommended, and combination therapy has not proven effective.52Common adverse effects include headache, nausea, diarrhea, abdominal pain, constipation, and dizziness.52–55The induced acid suppression of H2antagonists and PPIs may increase the risk of community-acquired pneumonia and gastroenteritis in children, and candidemia and necrotizing enterocolitis in preterm infants.50,53,54"
+        },
+        {
+            "parent": 5,
+            "text": "H2antagonists decrease acid secretion by inhibiting H2receptors on gastric parietal cells. They improve clinical symptoms, decrease the reflux index, and improve histologic findings in infants, children, and adolescents; however, most studies have been of poor quality.2,52,56,57The effectiveness of H2antagonists may be limited by tachyphylaxis (diminution of response) or tolerance with chronic use.2,55,58"
+        },
+        {
+            "parent": 5,
+            "text": "PPIs block sodium-potassium adenosinetriphosphatase (Na+,K+-ATPase) enzyme activity, which is the final step in parietal cell acid secretion. Low-quality evidence suggests that PPIs improve symptoms of GERD in infants; however, there is weak, conflicting evidence on whether they improve the reflux index, and no evidence of endoscopic improvement.50,52,53,57,59,60Some experts suggest a short trial of PPI therapy in infants with GERD refractory to conservative measures.2,53In older children and adolescents, PPIs effectively treat GERD symptoms, heal erosive disease, and are more effective than H2antagonists; additionally, their effectiveness does not diminish over time.2,50,52"
+        },
+        {
+            "parent": 5,
+            "text": "Prokinetic agents have been proposed for GERD treatment, but their use is limited because of adverse effects or lack of consistent evidence.2,50,61,62Antacids buffer stomach contents but are associated with milk alkali syndrome and are not recommended in children younger than 12 years.2Antacids are a reasonable option in adolescents for dyspepsia or heartburn, but do not decrease the frequency of reflux.3Surface protective agents, such as sucralfate (Carafate), have some effectiveness for esophagitis, but have inadequate evidence for childhood GERD and are not recommended as sole treatment.2Table 4describes pharmacologic treatments for GERD.4,50–52"
+        },
+        {
+            "parent": 6,
+            "text": "If symptoms do not improve with acid suppression therapy, diagnostic testing is warranted to evaluate treatment failure, identify complications of GERD, establish a relationship between atypical symptoms and reflux, and exclude other diagnoses. The advantages and limitations of various tests are summarized ineTable A."
+        },
+        {
+            "parent": 6,
+            "text": "Upper endoscopy with biopsy is considered when reflux does not respond to initial treatments. It is the principal method of evaluating the esophageal mucosa for complications of GERD and excluding other possible causes, such as eosinophilic esophagitis, esophageal webs, and infectious esophagitis.1,2,27"
+        },
+        {
+            "parent": 6,
+            "text": "Esophageal pH monitoring is the most widely used test to quantify the frequency of reflux over 24 hours using the reflux index.27Increasingly, pH monitoring is combined with multiple intraluminal impedance to evaluate GERD. Multiple intraluminal impedance plus pH monitoring is considered superior to pH monitoring alone because it can differentiate acidic, weakly acidic, or non-acidic reflux; identify solid, liquid, or gas reflux; and better determine the temporal correlation between reflux and atypical symptoms. The high cost, high interobserver variability, and the lack of well-designed studies supporting its diagnostic accuracy limit its use.2,27,63"
+        },
+        {
+            "parent": 6,
+            "text": "A barium study (upper gastrointestinal series) is useful for evaluating for anatomic causes of symptoms, particularly dysphagia and odynophagia, and bilious vomiting. It should not routinely be used to diagnose GERD or assess its severity.3The brevity of the study produces a high false-negative rate, whereas the high prevalence of nonpathologic gastroesophageal reflux in the general population leads to a high false-positive rate.64"
+        },
+        {
+            "parent": 6,
+            "text": "Questionnaires may be used to quantify and track symptoms(eTable B), and to assess treatment response, but they lack specificity in diagnosing gastroesophageal reflux or GERD.1,27,65Daily symptom diaries have not been validated in children.2"
+        },
+        {
+            "parent": 7,
+            "text": "Surgical options are available and should be considered in children with complications from severe GERD if medical therapy is unsuccessful or is not tolerated. Surgical options include complete or partial Nissen fundoplication. Newer endoscopic approaches performed in adults have been studied in children. Surgical treatments have significant risk of reflux recurrence and should be considered carefully.66"
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources:A PubMed search was conducted using the key terms reflux, gastroesophageal reflux, and gastroesophageal reflux disease, limited in children age 0 to 18, and combined in separate searches with epidemiology, etiology, pathophysiology, diagnosis, management, and treatment for reflux-related topics, including clinical reviews, randomized controlled trials, systematic reviews, and meta-analyses. Also searched were the Cochrane Database of Systematic Reviews, the National Guideline Clearinghouse database, and Essential Evidence Plus. In addition, a search was conducted using individual diagnoses within the differential diagnosis of reflux as key terms, limited in children age 0 to 18, and combined in separate searches with etiology, diagnosis, management, and treatment. Relevant publications from the reference sections of cited articles were also reviewed. Search dates: January through July 2014, and February and July 2015."
+        },
+        {
+            "parent": 7,
+            "text": "The opinions or assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the Department of Defense, the U.S. Army Medical Corps, or the U.S. Army at large."
+        }
+    ],
+    "locked": false
+}

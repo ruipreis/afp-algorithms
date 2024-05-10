@@ -1,0 +1,140 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0501/p1745.html#afp20050501p1745-f1",
+    "title": "Initial Evaluation of the Patient with Suspected Dementia | AAFP",
+    "author": "ALAN M. ADELMAN, M.D., M.S., AND MEL P. DALY, M.D.",
+    "doi": "Am Fam Physician.2005;71(9):1745-1750",
+    "abstract": "Dementia is a common disorder among older persons, and projections indicate that the number of patients with dementia in the United States will continue to grow. Alzheimer’s disease and vascular dementia account for the majority of cases of dementia. After a thorough history and physical examination, including a discussion with other family members, a baseline measurement of cognitive function should be obtained. The Mini-Mental State Examination is the most commonly used instrument to document cognitive impairment. Initial laboratory evaluation includes tests for thyroid-stimulating hormone and vitamin B12 levels. Structural neuroimaging with noncontrast computed tomography or magnetic resonance imaging also is recommended. Other testing should be guided by the history and physical examination. Neuropsychologic testing can help determine the extent of cognitive impairment, but it is not recommended on a routine basis. Neuropsychologic testing may be most helpful in situations where screening tests are normal or equivocal, but there remains a high level of concern that the person may be cognitively impaired.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Signs and Symptoms of Dementia",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Mental Status Examinations",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "MINI-MENTAL STATE EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "BLESSED INFORMATION MEMORY CONCENTRATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "BLESSED ORIENTATION MEMORY CONCENTRATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "SHORT TEST OF MENTAL STATUS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "FUNCTIONAL ACTIVITIES QUESTIONNAIRE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Initial Laboratory Evaluation",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Imaging Studies",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Neuropsychologic Testing",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Evaluation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Dementia is a syndrome of gradual onset and continuing decline of higher cognitive functioning. It is a common disorder in older persons and becomes more prevalent in each decade of life. Approximately 10 percent of adults 65 years and older, and 50 percent of adults older than 90 years, have dementia. It is common for older patients to present to family physicians with concerns of memory loss. With an accurate and timely diagnosis of dementia, appropriate therapies can be initiated to reduce further cognitive decline. Therefore, family physicians play a key role in evaluating patients with suspected dementia. Given conflicting recommendations about the initial evaluation of patients with dementia, the availability of genetic markers for Alzheimer’s disease, and new neuroimaging methods such as positron emission tomography, confusion may arise concerning how best to evaluate these patients.1–6This article reviews the evidence regarding the initial evaluation of the patient who presents with memory loss."
+        },
+        {
+            "parent": 0,
+            "text": "Patients often present with concerns of recent memory loss. However, it is not uncommon for a family member to bring these concerns to the physician because some patients deny their impairment or excuse the memory loss as a normal part of aging. The diagnosis of dementia can be suggested when there is an impairment in memory and an impairment of at least one other area of higher cognitive functioning (e.g., judgment, abstract thinking, complex task performance, agnosia, apraxia, visuospatial awareness, personality change in the context of deficits) that interferes with normal social and executive functioning in an otherwise alert person.7"
+        },
+        {
+            "parent": 0,
+            "text": "Early symptoms that may suggest a dementing illness include difficulty in learning and retaining new information, handling complex tasks, reasoning (for otherwise simple problem-solving), and problems with spatial awareness (finding one’s way around familiar places), language (specifically difficulty expressing oneself or getting “lost” in conversations), and behavior (usually passive, suspicious, or more irritable or aggressive than usual).6"
+        },
+        {
+            "parent": 1,
+            "text": "Alzheimer’s disease accounts for 50 to 60 percent of all dementing illnesses. Vascular dementias (e.g., major cerebrovascular insults, microvascular pathology) are common in 15 to 20 percent of patients, and often occur with Alzheimer’s disease. The combination of Alzheimer’s disease and vascular dementia or other dementing disorders is termed “mixed dementias.” Conditions that may cause dementia are listed by frequency inTable 1.6,8Less than 10 percent of dementias are caused by treatable conditions (“reversible dementia”). Because depression, vitamin B12deficiency, and hypothyroidism often are comorbid conditions, it is not uncommon to treat an apparently reversible dementia only to find that symptoms were really caused by Alzheimer’s disease or vascular dementia."
+        },
+        {
+            "parent": 2,
+            "text": "Mental status examinations are used to measure the degree of cognitive impairment. A number of instruments have been developed for this purpose. Five commonly used instruments and their characteristics are shown inTable 2.9These instruments measure performance in similar areas of cognitive function and take five to 10 minutes to administer and score. Each is reliable for ruling out dementia when results are negative."
+        },
+        {
+            "parent": 3,
+            "text": "The most frequently used mental state examination in North America is the Mini-Mental State Examination (MMSE). The MMSE measures many areas of cognitive functioning including memory, orientation to place and time, naming, reading, copying (visuospatial orientation), writing, and the ability to follow a three-stage command. It can be administered in five to 10 minutes and is scored from zero to 30 points. A score of fewer than 24 points signifies cognitive impairment, although the test can be adjusted for educational level.10The MMSE is more specific but less sensitive (i.e., gives more false negatives but fewer false positives) in highly educated individuals. It is available online athttp://www.minimental.comandhttps://www.aafp.org/afp/20010215/703.html."
+        },
+        {
+            "parent": 4,
+            "text": "The Blessed Information Memory Concentration (BIMC) instrument primarily assesses orientation, memory, and concentration (counting forward and backward, and naming the months of the year in reverse order).11Errors are counted and can total from zero to 28. Making more than 10 errors indicates cognitive impairment."
+        },
+        {
+            "parent": 5,
+            "text": "The Blessed Orientation Memory Concentration instrument is a shortened version of the BIMC with six questions assessing orientation to time, recall of a short phrase, counting backward, and reciting the months in reverse order.12A weighted score of errors is calculated. As with the BIMC, making more than 10 errors is indicative of cognitive impairment."
+        },
+        {
+            "parent": 6,
+            "text": "The Short Test of Mental Status (STMS) assesses orientation, attention, recall, calculation, abstraction, clock drawing, and copying. The STMS has a total score of 38. A score of 29 or lower indicates impaired cognitive function."
+        },
+        {
+            "parent": 7,
+            "text": "Although it is not a mental status examination, the Functional Activities Questionnaire (FAQ) measures functional activities that may be impaired by dementia (e.g., ability to shop, cook, pay bills).13The FAQ is answered by a family member or friend who knows and has observed the patient. The “informant” is asked to rate the performance of the patient in 10 activities as someone who is dependent, requires assistance, or has difficulty but does independently. Scores range from zero to 30 with a cutoff of 9 (i.e., dependent in three or more activities) signifying impairment. This information may be useful in a clinical context, but the patient’s cognitive function still needs to be evaluated."
+        },
+        {
+            "parent": 8,
+            "text": "The purpose of laboratory testing is to exclude potentially reversible causes of dementia. The American Academy of Neurology recommends two laboratory tests for the initial evaluation of the patient with suspected dementia—thyroid function and vitamin B12level.3The Second Canadian Consensus Conference on Dementia (CCCD) recommends obtaining results for complete blood cell count, thyroid-stimulating hormone level, serum electrolytes, serum calcium, and serum glucose to exclude potential infections or metabolic causes for cognitive impairment.1Other testing, such as serology for syphilis, Lyme disease titer, human immunodeficiency virus (HIV), urinalysis, culture and sensitivity, heavy metal assays, erythrocyte sedimentation rate, liver function, serum folic acid level, or other vitamin level assays should be performed only when clinical suspicion warrants."
+        },
+        {
+            "parent": 8,
+            "text": "A lumbar puncture is not recommended for routine evaluation, but should be considered for patients with suspected neurosyphilis, cerebral vasculitis, HIV infection, slow-virus diseases, or cerebral Lyme disease. Routine testing for genetic markers such as apolipoprotein E is not recommended."
+        },
+        {
+            "parent": 9,
+            "text": "Neuroimaging may diagnose vascular disease, normal pressure hydrocephalus, tumors, abscess, or subdural hematoma. However, the yield from neuroimaging in identifying a potentially reversible cause of dementia is low.3Therefore, there is some controversy regarding the routine use of neuroimaging in the primary evaluation of dementia. The CCCD recommends the following criteria for neuroimaging: age younger than 60 years, atypical or rapid cognitive decline, recent head trauma, localized neurologic signs or symptoms, gait disturbance, urinary incontinence (early in the course of the dementia), use of anticoagulants, and history of cancer.1The American Academy of Neurology recommends that all patients have a magnetic resonance imaging study or noncontrast computed tomography as part of the initial evaluation.3The American College of Radiology recommends magnetic resonance imaging as the preferred study if one is chosen.5"
+        },
+        {
+            "parent": 9,
+            "text": "Routine use of single photon emission computed tomography or positron emission tomography is not recommended by evidence-based guidelines or most experts.1–5,8,10,12,14–16Electroencephalography is indicated only if “slow-virus” or prion disease is suspected."
+        },
+        {
+            "parent": 10,
+            "text": "Neuropsychologic testing can comprehensively assess multiple domains of higher cognitive functioning including intelligence and behavioral functioning. A trained psychologist or psychometrician performs neuropsychologic testing. Higher cognitive functioning (logical reasoning, abstract and conceptual reasoning, visuospatial orientation, constructional ability, abstract thinking, memory, verbal reasoning, verbal fluency, etc.) is evaluated. Neuropsychologic testing has the potential to identify cognitive impairment objectively in patients with higher baseline cognitive abilities. It also may reveal subtle cognitive impairment in persons with suspected cognitive impairment or dementia and in persons at increased risk of cognitive impairment,17and may be useful in distinguishing patients with mild cognitive impairment from those with dementia."
+        },
+        {
+            "parent": 10,
+            "text": "Neuropsychologic testing may be considered as an adjunctive option for patients and families who are anxious to define and measure (in a standardized fashion) cognitive functioning and then monitor for changes over time. Other candidates for possible formal testing include persons who are not well educated, those who do not have English as their native language, and persons who are functioning “normally” or who are minimally impaired on screening. Although it can be useful in evaluating the impact of depression, anxiety, and other psychologic symptoms on cognitive functioning,15neuropsychologic testing is not recommended routinely for all patients with suspected dementia."
+        },
+        {
+            "parent": 11,
+            "text": "An algorithm to guide the initial evaluation of the patient with dementia is shown inFigure 1.. In the majority of patients, a thorough history and physical examination will identify the most likely cause of cognitive decline. Although relatively uncommon, potentially treatable causes of dementia can be ruled out by further laboratory testing and neuroimaging. In many patients, reversible conditions such as hypothyroidism or depression are comorbid rather than being the actual cause of cognitive decline."
+        }
+    ],
+    "locked": false
+}

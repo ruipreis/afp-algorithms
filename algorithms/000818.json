@@ -1,0 +1,168 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/1201/p2103.html#afp20021201p2103-f4",
+    "title": "Lymphadenopathy and Malignancy | AAFP",
+    "author": "ANDREW W. BAZEMORE, M.D., AND DOUGLAS R. SMUCKER, M.D., M.P.H",
+    "doi": "Am Fam Physician.2002;66(11):2103-2111",
+    "abstract": "The majority of patients presenting with peripheral lymphadenopathy have easily identifiable causes that are benign or self-limited. Among primary care patients presenting with lymphadenopathy, the prevalence of malignancy has been estimated to be as low as 1.1 percent. The critical challenge for the primary care physician is to identify which cases are secondary to malignancies or other serious conditions. Key risk factors for malignancy include older age, firm, fixed nodal character, duration of greater than two weeks, and supraclavicular location. Knowledge of these risk factors is critical to determining the management of unexplained lymphadenopathy. In addition, a complete exposure history, review of associated symptoms, and a thorough regional examination help determine whether lymphadenopathy is of benign or malignant origin. Unexplained lymphadenopathy without signs or symptoms of serious disease or malignancy can be observed for one month, after which specific testing or biopsy should be performed. While modern hematopathologic technologies have improved the diagnostic yields of fine-needle aspiration, excisional biopsy remains the initial diagnostic procedure of choice. The overall evaluation of lymphadenopathy, with a focus on findings suggestive of malignancy, as well as an approach to the patient with unexplained lymphadenopathy, will be reviewed.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Historical Clues",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "AGE AND DURATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "EXPOSURES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ASSOCIATED SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "HEAD AND NECK LYMPHADENOPATHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "AXILLARY LYMPHADENOPATHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "INGUINAL LYMPHADENOPATHY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "GENERALIZED LYMPHADENOPATHY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "NODAL CHARACTER AND SIZE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "LYMPH NODE BIOPSY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Lymphadenopathy, which is defined as an abnormality in the size or character of lymph nodes, is caused by the invasion or propagation of either inflammatory cells or neoplastic cells into the node. It results from a vast array of disease processes(Table 1),1whose broad categories are easily recalled using the mnemonic acronym “MIAMI,” representingMalignancies,Infections,Autoimmune disorders,Miscellaneous and unusual conditions, andIatrogenic causes. A common finding in the primary care outpatient setting, lymphadenopathy is typically explained by identifiable regional injury or infection. Among the serious illnesses that can present with lymphadenopathy, perhaps the most concerning to the patient and physician alike is the possibility of underlying malignancy."
+        },
+        {
+            "parent": -1,
+            "text": "The prevalence of malignancy is thought to be quite low among all patients with lymphadenopathy. Few studies define the prospective risk of malignancy with adenopathy, but three case series support the suggestion that the risk is very low. In two studies,2,3three of 238 and zero of 80 patients presenting with unexplained lymphadenopathy were determined to have malignancies, while a third study4retrospectively found a 1.1 percent prevalence of malignancy in primary care patients presenting to the office with unexplained lymphadenopathy."
+        },
+        {
+            "parent": -1,
+            "text": "Essential to identifying the infrequent but serious causes of peripheral lymphadenopathy are the following: an awareness of lymphatic anatomy, drainage patterns, and regional differential diagnosis; a thorough history including key factors such as age, location, duration, and patient exposures; and a focused physical examination according to the location of lymphadenopathy."
+        },
+        {
+            "parent": 1,
+            "text": "The rate of malignant etiologies of lymphadenopathy is very low in childhood, but increases with age. Lymph nodes are palpable as early as the neonatal period, and a majority of healthy children have palpable cervical, inguinal, and axillary adenopathy.5The vast majority of cases of lym-phadenopathy in children is infectious or benign in etiology.6In one series7of 628 patients undergoing nodal biopsy, benign or self-limited causes were found in 79 percent of patients younger than 30 years of age, versus 59 percent in patients 31 to 50 years of age and 39 percent in those older than 50 years. Lymphadenopathy that lasts less than two weeks or more than one year with no progressive size increase has a very low likelihood of being neoplastic.8The rare exceptions to the latter include low-grade Hodgkin's and non-Hodgkin's lymphomas and, occasionally, chronic lymphocytic leukemia."
+        },
+        {
+            "parent": 2,
+            "text": "A complete exposure history is essential to determining the etiology of lymphadenopathy. Exposure to animals and biting insects, chronic use of medications, infectious contacts, and a history of recurrent infections are essential in the evaluation of persistent lymphadenopathy. Travel-related exposures and immunization status should be noted, because many tropical or nonendemic diseases may be associated with persistent lymphadenopathy, including tuberculosis, trypanosomiasis, scrub typhus, leishmaniasis, tularemia, brucellosis, plague, and anthrax."
+        },
+        {
+            "parent": 2,
+            "text": "Environmental exposures such as tobacco, alcohol, and ultraviolet radiation may raise suspicion for metastatic carcinoma of the internal organs, cancers of the head and neck, and skin malignancies, respectively. Occupational exposures to silicon or beryllium may also lead to lymphadenopathy. Sexual history and orientation are important in determining potentially sexually transmitted causes of inguinal and cervical lymphadenopathy. Patients with acquired immunodeficiency syndrome (AIDS) have a broad differential of causes of lymphadenopathy, and rates of malignancies such as Kaposi's sarcoma and non-Hodg-kin's lymphoma are increased in this group.9,10Family history may raise suspicion for certain neoplastic causes of lymphadenopathy, such as carcinomas of the breast or familial dysplastic nevus syndrome and melanoma."
+        },
+        {
+            "parent": 3,
+            "text": "A thorough review of systems is important in the evaluation of peripheral lymphadenopathy. Constitutional symptoms such as fatigue, malaise, and fever, often associated with impressive cervical lymphadenopathy and atypical lymphocytosis, are seen most commonly with mononucleosis syndromes. Significant fever, night sweats, and unexplained weight loss of more than 10 percent of a patient's normal body weight are the “B” symptoms of Hodgkin's lymphoma, increasing in frequency from 8 percent of patients with Stage I disease to 68 percent of those with Stage IV disease.11These symptoms are also seen in 10 percent of patients with non-Hodgkin's lymphoma.8"
+        },
+        {
+            "parent": 3,
+            "text": "Symptoms such as arthralgias, muscle weakness, or unusual rash may indicate the possibility of autoimmune diseases such as rheumatoid arthritis, lupus erythematosus, or dermatomyositis. More specific review questions, such as whether pain occurs in the area of lymphadenopathy after even limited alcohol ingestion, may bring out a rare but fairly specific finding of a neoplasm such as Hodgkin's lymphoma."
+        },
+        {
+            "parent": 4,
+            "text": "The physical examination should be regionally directed by knowledge of the lymphatic drainage patterns(Figures 1through3)and should include a complete lymphatic examination looking for generalized lymphadenopathy. Skin should be examined for unusual lesions that suggest malignancy and for traumatic lesions, which can be sites of infectious inoculation. Splenomegaly, while rarely associated with lymphadenopathy, focuses the differential on a limited number of disorders, most commonly infectious mononucleosis,8but also the lymphomas, the lymphocytic leukemias, and sarcoidosis."
+        },
+        {
+            "parent": 5,
+            "text": "Palpable cervical lymph nodes, which are commonly appreciable throughout childhood, were noted in 56 percent of adult physicals in one outpatient primary care study,12although the incidence declined with age. The most common cause of cervical lymphadenopathy is infection, which in children is typically an acute and self-limited viral infection. While most cases resolve quickly, some entities such as atypical mycobacteria, cat-scratch disease, toxoplasmosis, Kikuchi's lymphadenitis, sarcoidosis, and Kawasaki's syndrome can create persistent lymphadenopathy for many months, and may be confused with neoplasms."
+        },
+        {
+            "parent": 5,
+            "text": "Among this group, supraclavicular nodes are the most likely to be malignant, and should always be investigated, even in children.5,13Overall, the prevalence of malignancy in this presentation is unknown, but rates of 54 to 85 percent have been seen in biopsy series reports.7,14–16"
+        },
+        {
+            "parent": 6,
+            "text": "Because the upper extremities that axillary lymph nodes drain are commonly exposed to local infection and injury, most axillary lymphadenopathy is nonspecific or reactive in etiology. Infectious sources of prolonged lymphadenopathy such as toxoplasmosis, tuberculosis, and mononucleosis rarely manifest with lymphadenopathy alone,8and persistent lymphadenopathy is less commonly found in the axillary nodes than in the inguinal chain."
+        },
+        {
+            "parent": 6,
+            "text": "Breast adenocarcinoma often metastasizes initially to the anterior and central axillary nodes, which may be palpable before discovery of the primary tumor. Hodgkin's and non-Hodgkin's lymphomas rarely manifest solely or initially in the axillary nodes,17although this can be the first region discovered by the patient. Antecubital or epitrochlear lymphadenopathy can suggest lymphoma, or melanoma of the extremity, which first metastasizes to the ipsilateral regional lymph nodes.18,19"
+        },
+        {
+            "parent": 7,
+            "text": "Inguinal lymphadenopathy is common, with nodes enlarged up to 1 to 2 cm in diameter in many healthy adults, particularly those who spend time barefoot outdoors.19Benign reactive lymphadenopathy and infection are the most common etiologies, and inguinal lymphadenopathy is of low suspicion for malignancy."
+        },
+        {
+            "parent": 7,
+            "text": "Infrequently, Hodgkin's lymphomas first present in this area,11,17as do non-Hodgkin's lymphomas. Penile and vulvar squamous cell carcinomas, the lymphomas, and melanoma also can occur with lymphadenopathy in this area. When the overlying skin is involved, testicular carcinoma may lead to inguinal lymphadenopathy,20which is present in 58 percent of patients diagnosed with penile or urethral carcinoma.21In neither case is it the typical presenting finding."
+        },
+        {
+            "parent": 8,
+            "text": "Generalized lymphadenopathy, defined as lymphadenopathy found in two or more distinct anatomic regions, is more likely than localized adenopathy to result from serious infections, autoimmune diseases, and disseminated malignancy. It usually merits specific testing. Common benign causes include adenoviral illness in children, mononucleosis, and some pharmaceuticals, and these can usually be identified with a careful history and examination. Generalized adenopathy infrequently occurs in patients with neoplasms, but it is occasionally seen in patients with leukemias and lymphomas, or advanced disseminated metastatic solid tumors. Hodgkin's lymphoma and most metastatic carcinomas typically progress through nodes in anatomic sequence."
+        },
+        {
+            "parent": 8,
+            "text": "Patients who are immunocompromised and those with AIDS have a wide differential for generalized lymphadenopathy, including early human immunodeficiency virus infection, activated tuberculosis, cryptococcosis, cytomegalovirus, toxoplasmosis, and Kaposi's sarcoma, which can present with lymphadenopathy before visible skin lesions appear.22"
+        },
+        {
+            "parent": 9,
+            "text": "Lymph nodes that are hard and painless have increased significance for malignant or granulomatous disease and typically merit further investigation. For example, the nodes of nodular sclerosing Hodgkin's lymphoma are firm, fixed, circumscribed, and rubbery. This is in contrast to viral infection, which typically produces hyperplastic nodes that are bilateral, mobile, nontender, and clearly demarcated. Painful or tender lymphadenopathy is non-specific but typically represents nodal inflammation from an infection. In rare cases, painful or tender lymphadenopathy can result from hemorrhage into the necrotic center of a neoplastic node or from pressure on the nodal capsule caused by rapid tumor expansion."
+        },
+        {
+            "parent": 9,
+            "text": "Lymphadenopathy is classically described as a node larger than 1 cm, although this varies by lymphatic region. Palpable supraclavicular, iliac, or popliteal nodes of any size and epitrochlear nodes larger than 5 mm are considered abnormal.5,23There is no uniform nodal size at which one should become suspicious of a neoplastic etiology. Two series8,13reported maximum diameters of more than 2 cm and 1.5 cm, respectively, as an appropriate starting point for high suspicion of malignant or granulomatous disease. Increasing size and persistence over time are of greater concern for malignancy than a specific level of nodal enlargement."
+        },
+        {
+            "parent": 10,
+            "text": "Using the factors above as guidance, a thorough history and physical examination should allow physicians to categorize individual cases of lymphadenopathy according to the algorithm inFigure 4.1If findings suggest benign, self-limited disease, then the patient should be reassured, concerns addressed, the natural history of the disease explained, and follow-up offered for persistent adenopathy. Specific testing is indicated if the history and examination suggest autoimmune or more serious infectious diseases(Table 1).1If neoplasm is suspected, the work-up may involve laboratory testing or radiologic evaluation, computed tomography, magnetic resonance imaging, and ultrasonography, which has been particularly useful in distinguishing benign from malignant nodes in patients with cancer of the head and neck. However, definitive diagnosis is only obtained from biopsy."
+        },
+        {
+            "parent": 10,
+            "text": "The most difficult task for the primary care physician occurs when the initial history and physical examination are not suggestive of a diagnosis that can be pursued with specific testing. Use of a short course of antibiotics or corticosteroids in the patient with unexplained lymphadenopathy is common. However, there is no evidence to support this practice, which should be avoided because it may hinder or delay diagnosis. The patient's level of concern should be addressed early and often, with provocative questioning, if necessary."
+        },
+        {
+            "parent": 10,
+            "text": "The first step in evaluating unexplained lymphadenopathy involves reviewing the patient's medications (Table 21,8,19), considering unusual causes of lymphadenopathy (Table 31,8,19), and reconsidering the risk factors for neoplasm discussed earlier. If a diagnosis is not suggested, and the patient is deemed low risk for neoplasm, then regional lymphadenopathy can be safely observed. Given the number of serious causes of generalized lymphadenopathy, a careful search for clues to autoimmune or infectious etiology is essential, and screening laboratory tests for several difficult diagnoses that could present with lymphadenopathy prior to other symptoms may be warranted before observation."
+        },
+        {
+            "parent": 10,
+            "text": "There is no consensus on the appropriate observation period for unexplained lymphadenopathy, although several authors1,8,19suggest that unexplained, noninguinal lymphadenopathy lasting more than one month merits specific investigation or biopsy. Despite several attempts to create a scoring system to identify which patients who have lymphadenopathy require biopsy,13,24it remains an inexact science. Both the physician's level of clinical suspicion for serious illness and the patient's level of concern should be considered."
+        },
+        {
+            "parent": 11,
+            "text": "Once biopsy has been chosen, ideally the largest, most suspicious, and most accessible node is selected, taking into account differing diagnostic yields by site. Inguinal nodes offer the lowest yield, and supraclavicular nodes have the highest.14,16Although the advent of new immunohisto-chemical analytic techniques has increased the sensitivity and specificity of fine-needle aspiration,25–29excisional biopsy remains the diagnostic procedure of choice. The preservation of nodal architecture is critical to the proper diagnosis of lymphadenopathy, particularly when differentiating lymphoma from benign reactive hyperplasia. Higher diagnostic yields can be expected from medical centers that adhere to strict protocols on specimen handling,30,31and from board-certified cytopathologists. Excisional biopsy has few complications, such as vessel injury and the rare spinal accessory nerve injury.32"
+        }
+    ],
+    "locked": false
+}

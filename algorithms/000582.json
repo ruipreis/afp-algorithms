@@ -1,0 +1,197 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/0615/p1709.html#afp20080615p1709-f1",
+    "title": "Venous Thromboembolism During Pregnancy | AAFP",
+    "author": "LEE T. DRESANG, MD, PAT FONTAINE, MD, MS, LARRY LEEMAN, MD, MPH, AND VALERIE J. KING, MD, MPH",
+    "doi": "Am Fam Physician.2008;77(12):1709-1716",
+    "abstract": "Venous thromboembolism is the leading cause of maternal death in the United States. Pregnancy is a risk factor for deep venous thrombosis, and risk is further increased with a personal or family history of thrombosis or thrombophilia. Screening for thrombophilia is not recommended for the general population; however, testing for inherited or acquired thrombophilic conditions is recommended when personal or family history suggests increased risk. Factor V Leiden and prothrombin G20210A mutation are the most common inherited thrombophilias, and antiphospholipid antibody syndrome is the most important acquired defect. Clinical symptoms of deep venous thrombosis may be subtle and difficult to distinguish from gestational edema. Venous compression (Doppler) ultrasonography is the diagnostic test of choice. Pulmonary embolism typically presents postpartum with dyspnea and tachypnea. Multidetector-row (spiral) computed tomography is the test of choice for pulmonary embolism. Warfarin is contraindicated during pregnancy, but is safe to use postpartum and is compatible with breastfeeding. Low-molecular-weight heparin has largely replaced unfractionated heparin for prophylaxis and treatment in pregnancy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Thrombophilic Disorders",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Signs and Symptoms",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "DEEP VENOUS THROMBOSIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PULMONARY EMBOLISM",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "DEEP VENOUS THROMBOSIS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PULMONARY EMBOLISM",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "ANTICOAGULATION IN PREGNANCY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "DELIVERY IN PATIENTS TAKING ANTICOAGULANTS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "WHEN ANTICOAGULATION IS CONTRAINDICATED OR INEFFECTIVE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Prophylaxis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Venous thromboembolism (VTE), which encompasses deep venous thrombosis (DVT) and pulmonary embolism (PE), complicates 0.5 to 3.0 per 1,000 pregnancies,1and is the leading cause of maternal mortality in the United States.2A 2007 American College of Physicians and American Academy of Family Physicians practice guideline,1based on a systematic review,3found only 11 high quality studies relating to the management of VTE in pregnancy, and concluded that there is inadequate evidence for definitive recommendations.1"
+        },
+        {
+            "parent": 0,
+            "text": "Virchow's triad of hypercoagulation, vascular damage, and venous stasis all occur in pregnancy, resulting in a relative risk of 4.3 (95% confidence interval [CI], 3.5 to 5.2) for VTE in pregnant or postpartum women compared with nonpregnant women.4"
+        },
+        {
+            "parent": 0,
+            "text": "VTE risk factors include age greater than 35 years, obesity (body mass index higher than 30 kg per2), grand multiparity, and a personal or family history of VTE or thrombophilia.5,6Bed rest, immobility for four days or longer, hyperemesis, dehydration, medical problems (e.g., severe infection, congestive heart failure, nephrotic syndrome), preeclampsia, severe varicose veins, surgery, and trauma are also associated with an increased risk.6,7Cesarean delivery significantly increases VTE risk compared with vaginal delivery (odds ratio [OR] = 13.3; 95% CI, 3.4 to 51.4).8"
+        },
+        {
+            "parent": 1,
+            "text": "Approximately 50 percent of pregnant women with VTE have a thrombophilia, compared with 10 percent of the general population.5Current evidence does not support universal thrombophilia screening.9However, expert opinion suggests testing women with a personal or strong family history of thrombosis or thrombophilia.10During pregnancy, results must be interpreted with caution, because protein S levels normally fall in the second trimester.11Massive thrombus and nephrotic syndrome can decrease antithrombin levels, and liver disease decreases protein C and S levels.12"
+        },
+        {
+            "parent": 1,
+            "text": "Thrombophilic disorders may be inherited or acquired.13,14Factor V Leiden and prothrombin G20210A mutations are the most common.13Antiphospholipid antibody syndrome, the most important acquired thrombophilia in pregnancy, is defined by the presence of antiphospholipid antibodies and one or more clinical manifestations, most commonly thrombosis or recurrent miscarriage.15A positive test for lupus anticoagulant, or medium-to-high titers of anticardiolipin immunoglobulin G or M antibodies, provides adequate laboratory confirmation of antiphospholipid antibody syndrome if found twice at least six weeks apart.15"
+        },
+        {
+            "parent": 1,
+            "text": "Thrombophilias are associated with pregnancy complications, including early and late pregnancy loss, intra-uterine growth restriction, and placental abruption.9"
+        },
+        {
+            "parent": 3,
+            "text": "DVT occurs with equal frequency in each trimester and postpartum.16During pregnancy, 78 to 90 percent of DVTs occur in the left leg5,7and 72 percent in the ilio-femoral vein, where they are more likely to embolize.5In nonpregnant patients, 55 percent are in the left leg and 9 percent in the iliofemoral vein.5"
+        },
+        {
+            "parent": 3,
+            "text": "Diagnosing DVT is difficult during pregnancy. Clinical suspicion is confirmed in 10 percent of pregnant women, compared with 25 percent of nonpregnant patients.17Typical symptoms are unilateral leg pain and swelling. Pain with foot dorsiflexion (Homans' sign) is neither sensitive nor specific for diagnosing DVT in patients who are not pregnant;18however, data are lacking for this in patients who are pregnant."
+        },
+        {
+            "parent": 4,
+            "text": "PE occurs more commonly during the postpartum period than during pregnancy (relative risk = 15.0; 95% CI, 5.1 to 43.9),4and 64 percent of postpartum VTEs occur after cesarean delivery.7Clinical presentation varies from mild dyspnea and tachypnea to dramatic cardiopulmonary collapse. Symptoms of dyspnea are nonspecific in pregnancy. Of clinically suspected PE, only 4 percent are confirmed in pregnant patients, versus 30 percent in nonpregnant patients.17"
+        },
+        {
+            "parent": 6,
+            "text": "Figure 1presents an approach to the diagnosis and treatment of DVT in pregnancy derived from studies of non-pregnant patients.19,20In nonpregnant women, a negative (low) d-dimer test combined with a low clinical probability score has a negative predictive value higher than 99.5 percent when a highly sensitive assay (e.g., enzyme-linked immunosorbent assay, latex turbidimetric assay) is used.19,20However, d-dimer values increase progressively throughout pregnancy, and the ranges for normal values by gestational week are not yet universally established.21,22Although a low d-dimer may be helpful in ruling out DVT, a positive (high) d-dimer result will be common during pregnancy and always requires confirmatory testing.12,20"
+        },
+        {
+            "parent": 6,
+            "text": "Venous compression ultrasonography is the test of choice for diagnosing DVT because it is noninvasive, safe, and relatively inexpensive.12,20In nonpregnant patients, it is 89 to 96 percent sensitive and 94 to 99 percent specific for symptomatic proximal lower extremity DVT.19Sensitivity is lower in patients who are asymptomatic or have a calf DVT.19In nonpregnant patients, computed tomography and magnetic resonance imaging have equivalent or better sensitivities and specificities than ultrasonography for DVT detection.23Data are lacking for pregnant patients."
+        },
+        {
+            "parent": 6,
+            "text": "Venography still serves as the definitive test for diagnosing DVT19and may be used in clinical situations where noninvasive tests are equivocal, empiric anticoagulation is relatively contraindicated, and clinical suspicion is high.24"
+        },
+        {
+            "parent": 7,
+            "text": "Figure 2outlines a diagnostic approach for suspected PE based on expert opinion derived from studies mostly involving nonpregnant patients.24–27"
+        },
+        {
+            "parent": 7,
+            "text": "With low or moderate clinical suspicion, a negative highly sensitive d-dimer test rules out PE.25,28If d-dimer testing is positive, or if clinical suspicion is high, additional testing is needed. Some authorities recommend lower extremity venous compression ultrasonography as the next test because if DVT is present, anticoagulant treatment will be the same as for PE, and venous compression ultrasonography avoids fetal radiation exposure.12,28"
+        },
+        {
+            "parent": 7,
+            "text": "When d-dimer testing and venous compression ultrasonography are inconclusive, multidetector-row (spiral) computed tomography has become the test of choice for diagnosing PE in pregnancy.12,24,26Single-slice computed tomography is inadequate in diagnosing peripheral PE, but newer-generation spiral computed tomography, tested in nonpregnant patients, has shown positive and negative predictive values comparable with pulmonary angiography.27Fetal exposure to radiation is lower with spiral computed tomography than with ventilation-perfusion (V/Q) scanning (less than 130 μGy and 370 μGy, respectively), and fetal exposure to spiral computed tomography nonionic contrast appears safe.29Spiral computed tomography does expose the maternal breast to greater radiation, and V/Q scanning may be preferred in women with a family history of breast cancer.12A cost-benefit analysis supports spiral computed tomography as the preferred test for diagnosing PE during pregnancy.30"
+        },
+        {
+            "parent": 7,
+            "text": "V/Q scanning may be used if spiral computed tomography is unavailable. Based on data from nonpregnant patients, PE can be excluded with a normal or low probability V/Q scan if clinical suspicion is low to moderate.25Likewise, PE can be diagnosed with a high probability scan if clinical suspicion is moderate to high.25In a study of V/Q scanning in 120 pregnant women with suspected PE, 73.5 percent were normal and 1.8 percent were high probability, compared with 27 to 36 percent normal and 8 to 14 percent high probability scans in nonpregnant patients.31When V/Q scanning is nondiagnostic, additional options include repeat leg compression ultra-sonography, repeat V/Q scanning, spiral computed tomography, magnetic resonance imaging, and pulmonary angiography. Arterial blood gas monitoring (with the patient sitting upright for greatest accuracy), chest radiography, and electrocardiography (looking for right ventricular hypertrophy) can be done in unstable and immobile patients and may help diagnose PE or suggest other conditions."
+        },
+        {
+            "parent": 8,
+            "text": "The optimal treatment of VTE during pregnancy has not been studied via randomized controlled trials, and clinical recommendations are based on expert opinion.10,12,24,32"
+        },
+        {
+            "parent": 8,
+            "text": "Stabilization is the first priority. Airway, breathing, and circulation should be addressed immediately and may require management in the intensive care unit. With life-threatening PE, thrombolytic therapy, percutaneous catheter thrombus fragmentation, or surgical embolectomy may be used, depending on local resources.33Good evidence about the effectiveness and safety of thrombolytic therapy is lacking.34Empiric anticoagulation may be started if clinical suspicion is high, then discontinued if VTE is excluded.12"
+        },
+        {
+            "parent": 9,
+            "text": "Therapeutic anticoagulation is indicated when DVT or PE is diagnosed. Anticoagulation options include low-molecular-weight heparins (LMWHs), unfractionated heparin (UFH), and warfarin (Coumadin; postpartum only)."
+        },
+        {
+            "parent": 9,
+            "text": "LMWHs are replacing UFH as the first-choice medications for VTE treatment and prophylaxis in pregnancy.12,24,35In nonpregnant women, randomized trials have shown LMWHs to have equivalent or better effectiveness compared with UFH.1,3,36In pregnancy, a systematic review concluded that LMWH is safe and effective and that there is no evidence to favor one LMWH over another.35Excretion in breast milk is minimal.37Compared with UFH, LMWHs have lower rates of adverse effects, including heparin-induced thrombocytopenia, symptomatic osteoporosis, bleeding, and allergic reactions.35"
+        },
+        {
+            "parent": 9,
+            "text": "Warfarin should be avoided during pregnancy. It crosses the placenta and increases the risk of miscarriage, stillbirth, embryopathy (nasal hypoplasia or stippled epiphyses), central nervous system abnormalities, and maternal and fetal hemorrhage.32Warfarin is compatible with breastfeeding.32"
+        },
+        {
+            "parent": 9,
+            "text": "Data derived from nonpregnant populations suggest that therapeutic anticoagulation following a first episode of VTE should continue for at least six months from diagnosis.38Current recommendations for the duration of treatment in pregnancy range from three to six months, including six weeks postpartum.10,12,32Long-term (i.e., longer than 12 months) anticoagulation is indicated for women with VTE and antiphospholipid antibody syndrome, or two or more thrombophilias,39and for women with any thrombophilia and recurrent thrombotic events.40"
+        },
+        {
+            "parent": 9,
+            "text": "Table 1lists a typical therapeutic LMWH dose.10,12,32,41The optimal monitoring protocol with LMWH is controversial. It is not necessary to follow the activated partial thromboplastin time.10Anti-Xa levels need only be obtained in patients who are at extremes of weight (< 121 lb [55 kg] or > 198 lb [90 kg]) or have abnormal renal function.12Monitoring of platelets while on LMWH is no longer recommended.12UFH may be used instead of LMWH for the treatment of VTE in pregnancy, because of cost or availability."
+        },
+        {
+            "parent": 9,
+            "text": "UFH is considered an acceptable alternative.32Table 1recommends dosages and monitoring.10,12,32,41For postpartum DVT or PE, warfarin may be started concomitantly with heparin.42LMWH or UFH should be continued until an international normalized ratio of 2.0 to 3.0 is achieved for two consecutive days.42Post-thrombotic syndrome can be prevented if compression stockings are worn for at least one year starting in the first month after a DVT.1"
+        },
+        {
+            "parent": 10,
+            "text": "Intrapartum management may vary depending on the indication for anticoagulation and whether therapeutic or prophylactic doses have been used.10Expert guidelines suggest that women receiving adjusted-dose LMWH or UFH be instructed to discontinue heparin injections at the onset of labor to prevent anticoagulant complications during delivery.12,32When delivery is predictable, as for elective induction or planned cesarean birth, LMWH or UFH should be discontinued 24 hours before delivery.12,32For high-risk patients, such as those with mechanical heart valves or recent VTE, the American College of Obstetricians and Gynecologists (ACOG) recommends switching to intravenous heparin at the onset of labor.10The short half-life of intravenous UFH allows discontinuation four to six hours before the anticipated time of delivery.10,32To minimize spinal and epidural hematoma risk, the ACOG and the American Society of Regional Anesthesia advise avoiding regional anesthesia for 24 hours after the last LMWH dose for women on twice daily therapeutic doses of enoxaparin (Lovenox), and for 12 hours after the last dose of LMWH for women receiving daily prophylactic dosing.10"
+        },
+        {
+            "parent": 11,
+            "text": "Evidence is insufficient to recommend for or against an inferior vena cava filter if anticoagulation is contraindicated or repeat PE occurs despite adequate anticoagulation.1"
+        },
+        {
+            "parent": 12,
+            "text": "Systematic reviews of observational studies have found VTE prophylaxis with LMWH to be safe and effective in pregnancy, but there are no randomized controlled trials confirming this.35,42Table 2lists representative prophylactic doses of LMWH and subcutaneous UFH.6,43Table 3summarizes recommendations for the type and duration of prophylaxis based on specific clinical risk factors.5,10,15,32,39,40Consultation should be considered for high-risk thrombophilias such as antithrombin deficiency.6"
+        },
+        {
+            "parent": 12,
+            "text": "Low-dose aspirin (75 to 81 mg) is sometimes used for women with an increased risk of thrombosis that does not meet the threshold for prophylactic heparin (e.g., a woman with a mild thrombophilia and no history of VTE).6Due to the lack of studies of aspirin for this indication, such treatment is of unknown benefit; however, low-dose aspirin is safe to use during pregnancy.32"
+        },
+        {
+            "parent": 12,
+            "text": "Postpartum thromboprophylaxis is not routinely indicated following vaginal delivery,42but may become necessary because of labor-related risk factors, such as prolonged labor, mid-forceps delivery, and immobility after delivery.6"
+        },
+        {
+            "parent": 12,
+            "text": "Unless other VTE risk factors are also present, women who undergo a scheduled cesarean delivery are not routinely placed on pharmacologic VTE prophylaxis.44However, mechanical prophylaxis with pneumatic compression stockings has been shown to provide effective post-cesarean thromboprophylaxis.45Graduated compression stockings provide effective prophylaxis in nonpregnant postoperative patients.46A decision analysis comparing pneumatic compression stockings with no intervention for post-cesarean VTE prophylaxis found the former to be cost-effective.47"
+        }
+    ],
+    "locked": false
+}

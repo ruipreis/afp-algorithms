@@ -1,0 +1,214 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0101/p56.html#afp20070101p56-f1",
+    "title": "Lung Cancer: Diagnosis and Management | AAFP",
+    "author": "LAUREN G. COLLINS, M.D., CHRISTOPHER HAINES, M.D., ROBERT PERKEL, M.D., AND ROBERT E. ENCK, M.D.",
+    "doi": "Am Fam Physician.2007;75(1):56-63",
+    "abstract": "Lung cancer is the leading cause of cancer-related death in the United States, with an average five-year survival rate of 15 percent. Smoking remains the predominant risk factor for lung cancer. Lung cancers are categorized as small cell carcinoma or non–small cell carcinoma (e.g., adenocarcinoma, squamous cell carcinoma, large cell carcinoma). These categories are used for treatment decisions and determining prognosis. Signs and symptoms may vary depending on tumor type and extent of metastases. The diagnostic evaluation of patients with suspected lung cancer includes tissue diagnosis; a complete staging work-up, including evaluation of metastases; and a functional patient evaluation. Histologic diagnosis may be obtained with sputum cytology, thoracentesis, accessible lymph node biopsy, bronchoscopy, transthoracic needle aspiration, video-assisted thoracoscopy, or thoracotomy. Initial evaluation for metastatic disease relies on patient history and physical examination, laboratory tests, chest computed tomography, positron emission tomography, and tissue confirmation of mediastinal involvement. Further evaluation for metastases depends on the clinical presentation. Treatment and prognosis are closely tied to the type and stage of the tumor identified. For stages I through IIIA non–small cell carcinoma, surgical resection is preferred. Advanced non–small cell carcinoma is treated with a multimodality approach that may include radiotherapy, chemotherapy, and palliative care. Chemotherapy (combined with radiotherapy for limited disease) is the mainstay of treatment for small cell carcinoma. No major organization recommends screening for early detection of lung cancer, although screening has interested researchers and physicians. Smoking cessation remains the critical component of preventive primary care.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "PRIMARY TUMOR",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "INTRATHORACIC SPREAD",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "EXTRATHORACIC SPREAD",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PARANEOPLASTIC SYNDROMES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "TISSUE DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "STAGING",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "FUNCTIONAL EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Treatment and Prognosis",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Lung cancer is the leading cause of cancer-related death in the United States. In 2006, the disease caused over 158,000 deaths—more than colorectal, breast, and prostate cancers combined.1Although death rates have begun to decline among men in the United States, the lung recently surpassed the breast as the most common origin of fatal cancer in women.2Because one fourth of adults smoke, lung cancer will remain a problem for many years.2Despite advances in lung cancer therapy, the average five-year survival rate is only 15 percent.3Adenocarcinoma has surpassed squamous cell carcinoma as the most common histologic type of lung carcinoma,4,5and early metastasis has become increasingly common."
+        },
+        {
+            "parent": 0,
+            "text": "Smoking is the predominant risk factor for lung cancer (relative risk [RR] = 10 to 30 compared with nonsmokers)3,6; smoking is directly linked to lung cancer in 90 percent of women and 79 percent of men.7Secondhand smoke exposure is also a risk factor.8,9Approximately 3,000 adults die each year from exposure to secondhand smoke, with a dose-response relationship between duration and intensity of exposure.10,11"
+        },
+        {
+            "parent": 0,
+            "text": "The most common occupational risk factor for lung cancer is exposure to asbestos (RR = 6)7; the RR for smokers who are exposed to asbestos approaches 60.12Other common occupational and environmental causes of lung cancer include exposure to radon, arsenic, chromium, nickel, vinyl chloride, and ionizing radiation.13Preexisting nonmalignant lung diseases, such as chronic obstructive pulmonary disease, idiopathic pulmonary fibrosis, and tuberculosis also are associated with increased lung cancer rates."
+        },
+        {
+            "parent": 1,
+            "text": "To facilitate treatment and prognostic decisions, lung cancer is categorized as small cell carcinoma or non–small cell carcinoma. Light microscopy is used to further differentiate lung cancer into four major and several minor histologic classes(Table 114,15).16The major histologic classes are adenocarcinoma, squamous cell carcinoma, small cell carcinoma, and large cell carcinoma."
+        },
+        {
+            "parent": 1,
+            "text": "Adenocarcinomas are histologically heterogeneous peripheral masses that metastasize early, and often occur in patients with underlying lung disease.17Squamous cell carcinomas typically are centrally located endobronchial masses that may present with hemoptysis, postobstructive pneumonia, or lobar collapse. Unlike adenocarcinomas, squamous cell carcinomas generally metastasize late in the disease course."
+        },
+        {
+            "parent": 1,
+            "text": "Small cell carcinomas are clinically aggressive; are usually centrally located with extensive mediastinal involvement; and are associated with early extrathoracic metastases, including paraneoplastic syndrome. Despite their responsiveness to chemotherapy, small cell carcinomas often are advanced at the time of diagnosis, and patients have a poor prognosis.19"
+        },
+        {
+            "parent": 1,
+            "text": "Large cell carcinomas are poorly differentiated. These tumors are large peripheral masses associated with early metastases.17"
+        },
+        {
+            "parent": 2,
+            "text": "Although approximately 10 percent of lung cancers in asymptomatic patients are detected on chest radiographs, most patients are symptomatic when diagnosed.19Patients may present with the nonspecific systemic symptoms of fatigue, anorexia, and weight loss, or with direct signs and symptoms caused by the primary tumor or intrathoracic or extrathoracic spread(Table 220). A minority of patients present with paraneoplastic syndromes."
+        },
+        {
+            "parent": 3,
+            "text": "Chest discomfort, cough, dyspnea, and hemoptysis are common manifestations of a primary tumor. Cough secondary to an endobronchial mass or postobstructive pneumonia occurs in up to 75 percent of patients.20Dyspnea occurs in up to 60 percent of patients and may be caused by a tumor occluding the airway.20Intermittent, aching chest discomfort occurs in approximately 50 percent of patients at diagnosis.20Hemoptysis is found in up to 35 percent of patients with symptoms from a primary tumor.20Although acute bronchitis is the most common cause of hemoptysis, lung cancer should be suspected in patients older than 40 who present with hemoptysis.20"
+        },
+        {
+            "parent": 4,
+            "text": "Forty percent of patients diagnosed with lung cancer initially present with signs and symptoms of intrathoracic spread. Intrathoracic spread is caused by direct extension of the tumor or lymphangitic spread."
+        },
+        {
+            "parent": 4,
+            "text": "Hoarseness from recurrent laryngeal nerve paralysis occurs in 2 to 18 percent of patients.20Phrenic nerve paralysis may present with dyspnea or an elevated left hemidiaphragm on a chest radiograph.20A superior pulmonary sulcus tumor (Pancoast's tumor) may present with Horner syndrome and is characterized by a brachial plexopathy and pain along the involved nerve roots.21Chest wall invasion often presents with persistent, pleuritic pain. Pleural effusions may present with dyspnea, decreased breath sounds, and dullness to percussion.22Esophageal obstruction may cause dysphagia. Superior vena cava obstruction is characterized by facial swelling and plethora and by dilated veins on the upper torso, shoulders, and arms.23Although pericardial involvement often is found at autopsy, patients seldom present with symptomatic pericardial effusion or tamponade.24"
+        },
+        {
+            "parent": 5,
+            "text": "Nearly one third of patients with lung cancer present with signs and symptoms of extrathoracic spread.20Common metastatic sites include bones, liver, adrenal glands, lymph nodes, brain, and spinal cord."
+        },
+        {
+            "parent": 5,
+            "text": "Nonspecific symptoms of extrathoracic spread include weakness and weight loss. Bone metastasis often presents with pain, fracture, or elevated alkaline phosphatase level and usually involves the long bones or vertebrae. Palpable lymphadenopathy, particularly in the supraclavicular fossa, suggests metastasis. Ten percent of patients present with brain metastasis heralded by headache, nausea, vomiting, focal neurologic deficits, seizures, confusion, or personality changes.25Although liver involvement is common, transaminase elevation is relatively rare."
+        },
+        {
+            "parent": 6,
+            "text": "Approximately 10 percent of patients with lung cancer develop systemic symptoms related to paraneoplastic syndromes. This is caused by the release of bioactive substances produced by the tumor or in response to the tumor. Symptoms may precede the diagnosis, appear late in the disease course, or suggest recurrence."
+        },
+        {
+            "parent": 6,
+            "text": "Common endocrine syndromes include hypercalcemia, syndrome of inappropriate antidiuretic hormone, and Cushing's syndrome. Digital clubbing and hypertrophic pulmonary osteoarthropathy are common skeletal manifestations. Less well-defined neurologic syndromes include Lambert-Eaton myasthenic syndrome, peripheral neuropathy, and cortical cerebellar degeneration.26"
+        },
+        {
+            "parent": 8,
+            "text": "There are a variety of techniques to assist physicians in obtaining an accurate tissue diagnosis(Table 327). Selecting the most appropriate test usually requires consultation with a pulmonologist, interventional radiologist, or thoracic surgeon. In patients with apparent early non–small cell carcinomas, who are surgical candidates, thoracotomy is the recommended test for tissue diagnosis and staging. In patients with presumed small cell or metastatic non–small cell carcinomas, the diagnosis should be made using the most convenient and least invasive method available (e.g., thoracentesis of a pleural effusion, excisional biopsy of an accessible node, bronchoscopy, transthoracic needle aspiration).27"
+        },
+        {
+            "parent": 8,
+            "text": "Several options are available when the type and stage of the cancer are less clear, including sputum cytology, flexible bronchoscopy, and transthoracic needle aspiration. Sputum cytology is a noninvasive test that may be useful in identifying centrally located tumors. The test detects 71 percent of central tumors but less than 50 percent of peripheral tumors27; therefore, further testing must follow a negative result."
+        },
+        {
+            "parent": 8,
+            "text": "Flexible bronchoscopy (employing bronchial washings, brushings, and biopsies) often is the test of choice in patients with central tumors, with a combined sensitivity of 88 percent in these patients.28Despite the addition of fluoroscopic and computed tomography (CT) guided transbronchial needle aspiration, the sensitivity of bronchoscopy falls to 70 percent in patients with peripheral tumors and even lower in patients with a tumor less than 2 cm in diameter.28,29Pneumothorax and bleeding are serious but uncommon complications of transbronchial needle aspiration.29"
+        },
+        {
+            "parent": 8,
+            "text": "Transthoracic needle aspiration has been shown to be more sensitive than bronchoscopy in patients with peripheral lung tumors and may be used when transbronchial needle aspiration is inconclusive or in patients who are not surgical candidates.28Transthoracic needle aspiration is routinely guided by fluoroscopy or CT, and the assistance of a cytopathologist increases the diagnostic yield. The most common complication of transthoracic needle aspiration is pneumothorax (25 to 30 percent), but the procedure rarely requires chest tube insertion.29"
+        },
+        {
+            "parent": 8,
+            "text": "Video-assisted thoracoscopy is a newer modality that may be used to sample small peripheral tumors (less than 2 cm in diameter), pleural tumors, or pleural effusions for diagnostic or staging purposes.30"
+        },
+        {
+            "parent": 9,
+            "text": "After establishing a tissue diagnosis, a thorough staging work-up, including metastatic evaluation(Figure 127,29–32)and staging classification, should be performed to determine the presence of metastasis and to identify surgical resection candidates."
+        },
+        {
+            "parent": 9,
+            "text": "Initial evaluation for metastasis can be performed by the primary care physician and includes a detailed history; physical examination; complete blood count; and levels of electrolyte, calcium, hepatic transaminases, and alkaline phosphatase. More than 80 percent of patients with an abnormality on evaluation have metastatic disease.31Patients presenting with anorexia, weight loss, and fatigue have an especially poor prognosis.33"
+        },
+        {
+            "parent": 9,
+            "text": "Noninvasive radiographic imaging with chest CT and positron emission tomography (PET) scans is routinely performed in patients with suspected metastatic lung cancer. Chest and upper abdomen CT scans may reveal hilar and mediastinal adenopathy and liver or adrenal involvement. Although CT accuracy is 88 percent (80 percent sensitive, 100 percent specific) in the mediastinum, staging is enhanced by PET.34Integrated CT/PET scanners appear to have better test characteristics than CT or PET alone.35"
+        },
+        {
+            "parent": 9,
+            "text": "In patients with suspected mediastinal disease, the remainder of the mediastinal staging evaluation usually is performed in consultation with subspecialists and may include bronchoscopy with or without transbronchial needle aspiration, endobronchial ultrasonography–guided transbronchial needle aspiration, transthoracic needle aspiration, video-assisted thoracoscopy, or mediastinoscopy. The clinical presentation dictates the use of additional staging measures. Abdominal CT, bone scanning, and brain magnetic resonance imaging are usually recommended in patients with small cell carcinoma because of the high likelihood of metastatic disease."
+        },
+        {
+            "parent": 9,
+            "text": "After the metastatic evaluation is complete, the staging classification(Table 436)can be determined based on the type of tumor identified and the presence or absence of metastatic disease. Non–small cell carcinoma is categorized using the TNM (tumor-nodes-metastasis) staging system, whereas small cell carcinoma is categorized as limited disease confined to the ipsilateral hemithorax or as extensive disease with metastasis beyond the ipsilateral hemithorax.16"
+        },
+        {
+            "parent": 10,
+            "text": "The final component of the diagnostic assessment is a functional evaluation of the patient. Evaluation of performance and pulmonary status should be completed before discussing treatment options. Pulmonary function testing, specifically forced expiratory volume in one second (FEV1) and carbon monoxide diffusion in the lung (DLCO) measurements, is a helpful predictor of morbidity and mortality in patients undergoing lung resection.15"
+        },
+        {
+            "parent": 10,
+            "text": "Patients with an FEV1or DLCO value less than 80 percent of predicted require additional testing. This includes calculation of postresection pulmonary reserve (with ventilation and perfusion scans or by accounting for the number of segments removed); cardiopulmonary exercise testing (with a maximum volume of oxygen utilization [VO2max] measurement); and arterial blood gas sampling (with an oxygen saturation in arterial blood [SaO2] measurement). Patients with a predicted postoperative FEV1or DLCO value less than 40 percent and a VO2max value less than 10 mL per kg per minute or an SaO2value less than 90 percent are at high risk of perioperative death or complications.36"
+        },
+        {
+            "parent": 11,
+            "text": "Treatment differs according to the histologic type of cancer, the stage at presentation, and the patient's functional evaluation(Table 536). Surgery is the treatment of choice for patients with stage I through IIIA non–small cell carcinoma.37Recent data suggest that preoperative chemotherapy improves survival in patients with non–small cell carcinoma.38For patients undergoing complete resection and no preoperative chemotherapy, adjuvant chemotherapy is standard. Randomized controlled clinical trials should address the issue of preoperative versus postoperative adjuvant treatment.38"
+        },
+        {
+            "parent": 11,
+            "text": "Treatment for unresectable non–small cell carcinoma may involve radiotherapy and chemotherapy. The role of targeted therapies, specifically the antivascular endothelial growth factor agent bevacizumab (Avastin), has been examined in patients with advanced stage (IIIB and IV) nonsquamous carcinoma. Bevacizumab combined with chemotherapy increased survival compared with chemotherapy alone.39Chemotherapy (combined with radiotherapy in limited stage disease) is the mainstay of treatment for small cell carcinoma.37"
+        },
+        {
+            "parent": 11,
+            "text": "Palliative and hospice care are important end-of-life treatment modalities. The primary care physician can help patients determine what options may be most appropriate.Table 6includes hospice and palliative care resources."
+        },
+        {
+            "parent": 12,
+            "text": "Although studies have assessed screening with sputum cytology, routine chest radiography, and low-dose CT, no study has demonstrated that screening improves survival, and no major organization currently endorses lung cancer screening.40In 2004, the U.S. Preventive Services Task Force concluded that although there is fair evidence that screening may allow for earlier detection of lung cancer, there is poor evidence to suggest that any screening strategy decreases mortality.41With no proven effect of screening on mortality rates, there is concern that screening may cause overdiagnoses and unnecessary anxiety, radiation exposure, and expense.42"
+        },
+        {
+            "parent": 12,
+            "text": "Several large randomized controlled trials designed to evaluate the effect of screening on mortality are underway.43,44Until these results become available, there is insufficient evidence to recommend for or against routine screening."
+        },
+        {
+            "parent": 13,
+            "text": "Perhaps the primary care physician's most important role is preventing lung cancer by encouraging smoking cessation. The most effective cessation therapies (with quit rates ranging from 16 to 21 percent) are nicotine replacement, bupropion (Wellbutrin), nortriptyline (Pamelor), and structured telephone counseling.45–53Combining nicotine replacement, bupropion, and social or behavioral support can increase the quit rate to 35 percent.54Informal counseling by physicians has also been shown to modestly increase quit rates.55,56"
+        }
+    ],
+    "locked": false
+}

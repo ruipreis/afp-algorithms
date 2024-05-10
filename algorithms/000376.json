@@ -1,0 +1,110 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0601/p800.html#afp20130601p800-f1",
+    "title": "AUA Releases Guideline on Diagnosis and Treatment of Overactive Bladder | AAFP",
+    "author": "CARRIE ARMSTRONG,AFPSenior Associate Editor",
+    "doi": "Am Fam Physician.2013;87(11):800-803",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "FIRST-LINE TREATMENTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "SECOND-LINE TREATMENTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "THIRD-LINE TREATMENTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "OTHER TREATMENTS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:American Urological Association"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Guideline developed by participants without relevant financial ties to industry?No"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:American Urological Association, May 2012"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.auanet.org/common/pdf/education/clinical-guidance/Overactive-Bladder.pdf"
+        },
+        {
+            "parent": -1,
+            "text": "Overactive bladder is characterized by urinary symptoms including urgency, frequency, and nocturia, with or without urge incontinence. The prevalence and severity of symptoms increase with age, and most patients have symptoms for years. The American Urological Association (AUA) recently published recommendations to provide a clinical framework for the diagnosis and treatment of non-neurogenic overactive bladder(Figure 1)."
+        },
+        {
+            "parent": 0,
+            "text": "Physicians should document signs and symptoms of overactive bladder and exclude other disorders. A patient history should be taken and physical examination and urinalysis should be performed. Additional procedures may be necessary in some patients to confirm the diagnosis, exclude other disorders, and formulate a treatment plan. A urine culture or postvoid residual urine assessment may also be performed, and information can be obtained from bladder diaries or symptom questionnaires. Urodynamics, cystoscopy, and diagnostic renal and bladder ultrasonography typically should not be used in the initial workup."
+        },
+        {
+            "parent": 1,
+            "text": "Overactive bladder is a complex of symptoms that generally do not affect survival, but may compromise quality of life. For this reason, physicians should carefully weigh the potential benefit of a particular treatment against the risk, severity, and reversibility of adverse effects. The physician and patient may decide to defer treatment if the assessment excludes conditions that would require treatment and counseling. Information should be provided to patients about overactive bladder and normal lower urinary tract function, and about the benefits and risks of available treatments. Patients should also be informed that several treatments may need to be tried before symptoms are successfully controlled."
+        },
+        {
+            "parent": 2,
+            "text": "Behavioral therapies (e.g., bladder training, bladder-control strategies, pelvic floor muscle training, fluid management) should be offered as first-line therapy to all patients with overactive bladder. Antimuscarinic agents may be used in combination with behavioral strategies. Limited evidence suggests that initiating behavioral and pharmacologic therapy simultaneously may improve outcomes, including frequency, voided volume, incontinence, and symptom distress."
+        },
+        {
+            "parent": 3,
+            "text": "Second-line therapies for overactive bladder include oral antimuscarinics (e.g., darifenacin [Enablex], fesoterodine [Toviaz], oxybutynin [Ditropan], solifenacin [Vesicare], tolterodine [Detrol], trospium [Sanctura]). If immediate-release and extended-release formulations are available, the extended-release formulation is preferred because of lower rates of dry mouth. Transdermal oxybutynin (gel [Gelnique] or patch [Oxytrol]) also may be offered."
+        },
+        {
+            "parent": 3,
+            "text": "If symptoms are not adequately controlled or if adverse effects become intolerable with one antimuscarinic agent, the dosage should be modified or a different agent should be tried. Constipation and dry mouth should be managed before abandoning antimuscarinic therapy. Options may include bowel management, fluid management, dose modification, or alternative antimuscarinics."
+        },
+        {
+            "parent": 3,
+            "text": "Antimuscarinics should not be prescribed to patients with narrow-angle glaucoma unless approved by the treating ophthalmologist. These medications should be used with caution in frail patients with overactive bladder, in patients with impaired gastric emptying or a history of urinary retention, and in those taking anticholinergic medications."
+        },
+        {
+            "parent": 3,
+            "text": "Patients who have symptoms that are refractory to behavioral and medical therapy should be evaluated by a subspecialist if they desire additional therapy."
+        },
+        {
+            "parent": 4,
+            "text": "Sacral neuromodulation may be offered as third-line treatment in select patients with severe refractory symptoms or in those who are not candidates for second-line therapy and are willing to undergo surgery. Peripheral tibial nerve stimulation treatment may also be offered in select patients."
+        },
+        {
+            "parent": 4,
+            "text": "Intradetrusor onabotulinumtoxin A (Botox) may be offered as third-line treatment in select patients who have symptoms that are refractory to first- and second-line treatments. The patient must be willing to return for frequent postvoid residual urine assessments, and must be able and willing to perform self-catheterization if necessary."
+        },
+        {
+            "parent": 5,
+            "text": "Indwelling catheters (e.g., transurethral, suprapubic) are not recommended as a management strategy for overactive bladder except as a last resort in select patients. In rare cases, augmentation cystoplasty or urinary diversion may be considered in patients with severe, refractory, complicated overactive bladder."
+        }
+    ],
+    "locked": false
+}

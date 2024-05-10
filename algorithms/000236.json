@@ -1,0 +1,256 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0201/p154.html#afp20170201p154-f1",
+    "title": "Dizziness: Approach to Evaluation and Management | AAFP",
+    "author": "HERBERT L. MUNCIE, MD, SUSAN M. SIRMANS, PharmD, AND ERNEST JAMES, MD",
+    "doi": "Am Fam Physician.2017;95(3):154-162",
+    "abstract": "Dizziness is a common yet imprecise symptom. It was traditionally divided into four categories based on the patient's history: vertigo, presyncope, disequilibrium, and light-headedness. However, the distinction between these symptoms is of limited clinical usefulness. Patients have difficulty describing the quality of their symptoms but can more consistently identify the timing and triggers. Episodic vertigo triggered by head motion may be due to benign paroxysmal positional vertigo. Vertigo with unilateral hearing loss suggests Meniere disease. Episodic vertigo not associated with any trigger may be a symptom of vestibular neuritis. Evaluation focuses on determining whether the etiology is peripheral or central. Peripheral etiologies are usually benign. Central etiologies often require urgent treatment. The HINTS (head-impulse, nystagmus, test of skew) examination can help distinguish peripheral from central etiologies. The physical examination includes orthostatic blood pressure measurement, a full cardiac and neurologic examination, assessment for nystagmus, and the Dix-Hallpike maneuver. Laboratory testing and imaging are not required and are usually not helpful. Benign paroxysmal positional vertigo can be treated with a canalith repositioning procedure (e.g., Epley maneuver). Treatment of Meniere disease includes salt restriction and diuretics. Symptoms of vestibular neuritis are relieved with vestibular suppressant medications and vestibular rehabilitation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "General Approach",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "TITRATE THE EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "HISTORY: TIMING, TRIGGERS, AND MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "LABORATORY TESTING AND IMAGING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Peripheral Etiologies",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "BENIGN PAROXYSMAL POSITIONAL VERTIGO",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "VESTIBULAR NEURITIS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MENIERE DISEASE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Central Etiologies",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "VESTIBULAR MIGRAINE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "VERTEBROBASILAR ISCHEMIA",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Dizziness is a common yet imprecise symptom often encountered by family physicians. Primary care physicians see at least one-half of the patients who present with dizziness.1The differential diagnosis is broad, with each of the common etiologies accounting for no more than 10% of cases2(Table 11,3). Because the symptoms are vague, physicians must distinguish benign from serious causes that require urgent evaluation and treatment."
+        },
+        {
+            "parent": -1,
+            "text": "TiTrATE is a novel diagnostic approach to determine the probable etiology of dizziness or vertigo. It uses theTiming of the symptom, theTriggers that provoke the symptom,And aTargetedExamination. The patient's response determines the classification of dizziness as episodic triggered, spontaneous episodic, or continuous vestibular."
+        },
+        {
+            "parent": -1,
+            "text": "In a study of older patients in a primary care setting, medications were implicated in 23% of cases of dizziness."
+        },
+        {
+            "parent": -1,
+            "text": "The HINTS (head-impulse, nystagmus, test of skew) examination can help differentiate a peripheral cause of vestibular neuritis from a central cause."
+        },
+        {
+            "parent": -1,
+            "text": "Dizziness was traditionally classified into four categories based on the patient's description: (1) vertigo, (2) presyncope, (3) disequilibrium, and (4) light-headedness.4However, current approaches do not include presyncope and do not use the vague term light-headedness.5Patients often have difficulty describing their symptoms and may give conflicting accounts at different times.3Symptom quality does not reliably predict the cause of dizziness.6Physicians are cautioned against overreliance on a descriptive approach to guide the diagnostic evaluation.7Alternatively, attention to the timing and triggers of dizziness is preferred over the symptom type because patients more consistently report this information.3,7"
+        },
+        {
+            "parent": 0,
+            "text": "Questions regarding the timing (onset, duration, and evolution of dizziness) and triggers (actions, movements, or situations) that provoke dizziness can categorize the dizziness as more likely to be peripheral or central in etiology. Findings from the physical examination can help confirm a probable diagnosis. A diagnostic algorithm can help determine whether the etiology is peripheral or central(Figure 1)."
+        },
+        {
+            "parent": 1,
+            "text": "TiTrATE is a novel diagnostic approach to determining the probable etiology of dizziness or vertigo.2The approach uses theTiming of the symptom, theTriggers that provoke the symptom,And aTargetedExamination. The responses place the dizziness into one of three clinical scenarios: episodic triggered, spontaneous episodic, or continuous vestibular."
+        },
+        {
+            "parent": 1,
+            "text": "With episodic triggered symptoms, patients have brief episodes of intermittent dizziness lasting seconds to hours. Common triggers are head motion on change of body position (e.g., rolling over in bed). Episodic triggered symptoms are consistent with a diagnosis of benign paroxysmal positional vertigo (BPPV)."
+        },
+        {
+            "parent": 1,
+            "text": "With spontaneous episodic symptoms (no trigger), patients have episodes of dizziness lasting seconds to days. Because these episodes have no trigger, the patient's history establishes the diagnosis. Common diagnostic considerations for spontaneous episodic symptoms include Meniere disease, vestibular migraine, and psychiatric diagnoses such as anxiety disorders. Symptoms associated with lying down are more likely vestibular."
+        },
+        {
+            "parent": 1,
+            "text": "With continuous vestibular symptoms, patients have persistent dizziness lasting days to weeks. The symptoms may be due to traumatic or toxic exposure. Classic vestibular symptoms include continuous dizziness or vertigo associated with nausea, vomiting, nystagmus, gait instability, and head-motion intolerance. In the absence of trauma or exposures, these findings are most consistent with vestibular neuritis or central etiologies. However, central causes can also occur with patterns triggered by movement."
+        },
+        {
+            "parent": 2,
+            "text": "Patients who describe a sensation of self-motion when they are not moving or a sensation of distorted self-motion during normal head movement may have vertigo.5Vertigo is the result of asymmetry within the vestibular system or a disorder of the peripheral labyrinth or its central connections.8,9The distinction between vertigo and dizziness is of limited clinical usefulness.2"
+        },
+        {
+            "parent": 2,
+            "text": "If vertigo is described, physicians should ask about hearing loss, which could suggest Meniere disease.10Diagnostic criteria for Meniere disease include episodic vertigo (at least two episodes lasting at least 20 minutes) associated with documented low- to medium-frequency sensorineural hearing loss by audiometric testing in the affected ear and tinnitus or aural fullness in the affected ear.10The auditory symptoms are initially unilateral."
+        },
+        {
+            "parent": 2,
+            "text": "Physicians should determine whether the vertigo is triggered by a specific position or change in position. BPPV is triggered with sudden changes in position, such as a quick turn of the head on awakening or tipping the head back in the shower. Dizziness from orthostatic hypotension occurs with movement to the upright position. Clinicians may erroneously assume that dizziness that worsens with movement is associated with a benign condition in patients with persistent dizziness.11However, exacerbation of symptoms with movement is common to most causes of persistent dizziness and does not aid in determining whether the etiology is peripheral vs. central (benign vs. dangerous).7"
+        },
+        {
+            "parent": 2,
+            "text": "Medications were implicated in 23% of cases of dizziness in older adults in a primary care setting12(Table 21,13,14). The use of five or more medications is associated with an increased risk of dizziness.15Older patients are particularly susceptible to medication adverse effects because of age-related pharmacokinetic and pharmacodynamic changes.13"
+        },
+        {
+            "parent": 3,
+            "text": "Findings from the physical examination—including a cardiac and neurologic assessment, with attention to the head, eye, ear, nose, and throat examination—are usually normal in patients presenting with dizziness."
+        },
+        {
+            "parent": 3,
+            "text": "Blood pressure should be measured while the patient is standing and in the supine position.16Orthostatic hypotension is present when the systolic blood pressure decreases 20 mm Hg, the diastolic blood pressure decreases 10 mm Hg, or the pulse increases 30 beats per minute after going from supine to standing for one minute.17A full neurologic examination should be performed in patients with orthostatic dizziness but no hypotension or BPPV."
+        },
+        {
+            "parent": 3,
+            "text": "The patient's gait should be observed and a Romberg test performed. Patients with an unsteady gait should be assessed for peripheral neuropathy.18A positive Romberg test suggests an abnormality with proprioception receptors or their pathway."
+        },
+        {
+            "parent": 3,
+            "text": "The use of the HINTS (head-impulse, nystagmus, test of skew) examination can help distinguish a possible stroke (central cause) from acute vestibular syndrome (peripheral cause).19A video demonstrating this examination is available athttp://www.kaltura.com/index.php/extwidget/preview/partner_id/797802/uiconf_id/27472092/entry_id/0_b9t6s0wh/embed/auto."
+        },
+        {
+            "parent": 3,
+            "text": "Head-Impulse. While the patient is sitting, the head is thrust 10 degrees to the right and then to the left while the patient's eyes remain fixed on the examiner's nose. If a saccade (rapid movement of both eyes) occurs, the etiology is likely peripheral.20No eye movement strongly suggests a central etiology.19"
+        },
+        {
+            "parent": 3,
+            "text": "Nystagmus. The patient should follow the examiner's finger as it moves slowly left to right. Spontaneous unidirectional horizontal nystagmus that worsens when gazing in the direction of the nystagmus suggests a peripheral cause (vestibular neuritis).7Spontaneous nystagmus that is dominantly vertical or torsional, or that changes direction with the gaze (gaze-evoked bidirectional) suggests a central etiology. Central pathology nystagmus changes direction less than half the time6and can be suppressed with fixation.21A video-oculography device is available to quantitatively measure eye movement.22Frenzel goggles used to detect involuntary eye movements have been helpful with nystagmus assessment.23"
+        },
+        {
+            "parent": 3,
+            "text": "Test of Skew. Test of skew is assessed by asking the patient to look straight ahead, then cover and uncover each eye. Vertical deviation of the covered eye after uncovering is an abnormal result. Although this is a less sensitive test for central pathology, an abnormal result is fairly specific for brainstem involvement."
+        },
+        {
+            "parent": 3,
+            "text": "BPPV is diagnosed with the Dix-Hallpike maneuver(Figure 2).24Transient upbeat-torsional nystagmus during the maneuver is diagnostic of BPPV if the timing and trigger are consistent with BPPV. Nystagmus may not develop immediately, and a sense of vertigo may occur and last for one minute. A negative result does not rule out BPPV if the timing and triggers are consistent with BPPV.25Nystagmus with the maneuver may be due to a central etiology, especially if the timing and trigger are not consistent with BPPV."
+        },
+        {
+            "parent": 4,
+            "text": "Most patients presenting with dizziness do not require laboratory testing. Patients with chronic medical conditions (e.g., diabetes mellitus, hypertension) may require blood glucose and electrolyte measurements. Patients with symptoms suggestive of cardiac disease should undergo electrocardiography, Holter monitoring, and possibly carotid Doppler testing. However, in a summary analysis of multiple studies that included 4,538 patients, only 26 (0.6%) had a laboratory result that explained their dizziness.16"
+        },
+        {
+            "parent": 4,
+            "text": "Routine imaging is not indicated.1However, any abnormal neurologic finding, including asymmetric or unilateral hearing loss, requires computed tomography or magnetic resonance imaging to evaluate for cerebrovascular disease. Hearing loss with vertigo and normal neuroimaging suggests Meniere disease."
+        },
+        {
+            "parent": 5,
+            "text": "Peripheral causes of dizziness arise from abnormalities in the peripheral vestibular system, which is comprised of the semicircular canals, the saccule, the utricle, and the vestibular nerve. Common peripheral causes of dizziness/vertigo include BPPV, vestibular neuritis (i.e., vestibular neuronitis), and Meniere disease.26"
+        },
+        {
+            "parent": 6,
+            "text": "BPPV occurs when loose otoconia, known as canaliths, become dislodged and enter the semicircular canals, usually the posterior canal.27BPPV can occur at any age, but is most common between 50 and 70 years.28No obvious cause is found in 50% to 70% of older patients, but head trauma is a possibility in younger persons.29"
+        },
+        {
+            "parent": 6,
+            "text": "Treatment of BPPV consists of a canalith repositioning procedure such as the Epley maneuver, which repositions the canalith from the semicircular canal into the vestibule30(Figure 324). The success rate is approximately 70% on the first attempt, and nearly 100% on successive maneuvers.29Home treatment with Brandt-Daroff exercises (http://www.youtube.com/watch?v=voZXtTUdQ00) can also be successful. If there is no improvement with repeated repositioning maneuvers, or if atypical or ongoing nystagmus with nausea is present, another cause should be considered.27"
+        },
+        {
+            "parent": 6,
+            "text": "Pharmacologic treatment has no role in the treatment of BPPV. Vestibular suppressant medications should be avoided because they interfere with central compensation and may increase the risk of falls.20,31"
+        },
+        {
+            "parent": 7,
+            "text": "Vestibular neuritis, the second most common cause of vertigo, is thought to be of viral origin. It most commonly affects persons 30 to 50 years of age. Men and women are affected equally."
+        },
+        {
+            "parent": 7,
+            "text": "Vestibular neuritis is diagnosed on the basis of the clinical history and physical examination.32It can cause severe rotatory vertigo with nausea and apparent movement of objects in the visual field (oscillopsia), horizontally rotating spontaneous nystagmus to the nonaffected side, or an abnormal gait with a tendency to fall to the affected side. Hearing is not impaired in this condition. The Dix-Hallpike maneuver is not useful because patients with vestibular neuritis do not have episodic positionally triggered symptoms."
+        },
+        {
+            "parent": 7,
+            "text": "As vestibular compensation occurs, the patient's vertigo resolves slowly over a few days.33In 50% of patients, the underlying nerve damage may take two months to resolve.34However, a sensation of disequilibrium may persist for months because of unilateral impairment of vestibular function. Vertigo may recur, indicating interference with compensation. If the attacks do not become successively shorter, another diagnosis should be considered."
+        },
+        {
+            "parent": 7,
+            "text": "Reassurance, explanation, and advice are essential, in combination with symptomatic treatment for the first few days.33The prognosis is excellent, but development of BPPV after an attack of vestibular neuritis may occur in 15% of patients.35"
+        },
+        {
+            "parent": 7,
+            "text": "Vestibular neuritis is treated with medications and vestibular rehabilitation20(Table 320,24). Antiemetics and antinausea medications should be used for no more than three days because of their effects in blocking central compensation. Vertigo and associated nausea or vomiting can be treated with a combination of antihistamine, antiemetic, or benzodiazepine. Although systemic corticosteroids have been recommended as a treatment for vestibular neuritis, there is insufficient evidence for their routine use.36Antiviral medications are ineffective.37"
+        },
+        {
+            "parent": 8,
+            "text": "Meniere disease causes vertigo and unilateral hearing loss. Although it can develop at any age, it is more common between 20 and 60 years.38The vertigo associated with Meniere disease is often severe enough to necessitate bed rest and can cause nausea, vomiting, and loss of balance. Other symptoms include sudden slips or falls, and headache with hearing loss worsened during an attack.39"
+        },
+        {
+            "parent": 8,
+            "text": "The underlying pathology is excess endolymphatic fluid pressure leading to inner ear dysfunction; however, the exact cause is unknown.40Patients manifest a unidirectional, horizontal-torsional nystagmus during vertigo episodes."
+        },
+        {
+            "parent": 8,
+            "text": "First-line treatment of Meniere disease involves lifestyle changes, including limiting dietary salt intake to less than 2,000 mg per day, reducing caffeine intake, and limiting alcohol to one drink per day. Daily thiazide diuretic therapy can be added if vertigo is not controlled with lifestyle changes.41"
+        },
+        {
+            "parent": 8,
+            "text": "Transtympanic injections of glucocorticoids42and gentamicin43can improve vertigo. Although transtympanic glucocorticoids may improve hearing, transtympanic gentamicin is associated with hearing loss and should be reserved for patients who already have significant hearing loss.20"
+        },
+        {
+            "parent": 8,
+            "text": "Vestibular suppressant medications may be used for acute attacks.20Prochlorperazine, promethazine, and diazepam (Valium) have been effective. Surgery is an option for patients with refractory symptoms.41Vestibular exercises may be helpful for patients with unilateral peripheral vestibular dysfunction.44Vestibular rehabilitation may be needed for persistent tinnitus or hearing loss."
+        },
+        {
+            "parent": 9,
+            "text": "The vestibular nuclei, cerebellum, brainstem, spinal cord, and vestibular cortex make up the central vestibular system. Central abnormalities cause approximately 25% of dizziness experienced by patients.45Common central etiologies include vestibular migraine and vertebrobasilar ischemia. Patients with central pathology may present with disequilibrium and ataxia rather than true vertigo. However, vertigo can be a presenting symptom of an impending cerebrovascular event.46,47"
+        },
+        {
+            "parent": 9,
+            "text": "Potentially deadly central causes of acute vestibular syndrome may mimic a more benign peripheral disorder, and a stroke may present with no focal neurologic signs. Computed tomography does not have adequate sensitivity to distinguish stroke from benign causes of acute vestibular syndrome. The HINTS examination is highly sensitive and specific in identifying stroke in patients with acute vestibular syndrome, and it is superior to diffusion-weighted magnetic resonance imaging in ruling out stroke.6"
+        },
+        {
+            "parent": 10,
+            "text": "Episodic vertigo in a patient with a history of migraine headaches suggests vestibular migraine.48Vestibular migraine is one of the most common causes of episodic vertigo among children.49Among adults, it is three times more common among women and more often occurs between 20 and 50 years of age.50A family history of vestibular migraine is a risk factor."
+        },
+        {
+            "parent": 10,
+            "text": "The diagnostic criteria for vestibular migraine include at least five episodes of vestibular symptoms of moderate or severe intensity lasting five minutes to 72 hours; current or previous history of migraine headache; one or more migraine features, and at least 50% with vestibular symptoms; and no other cause of vestibular symptoms.51"
+        },
+        {
+            "parent": 10,
+            "text": "Initial management focuses on identifying and avoiding migraine triggers. Stress relief is recommended, and adequate sleep and exercise are encouraged. Vestibular suppressant medications are helpful.20Because of a lack of well-designed randomized clinical trials, prevention recommendations are based on expert opinion.52Preventive medications include anticonvulsants, beta adrenergic blockers, calcium channel blockers, tricyclic antidepressants, butterbur extract, and magnesium. The goal is a 50% reduction in attacks.20It is not clear whether migraine abortive therapy is effective in treating vertigo.20"
+        },
+        {
+            "parent": 11,
+            "text": "The blood supply to the brainstem, cerebellum, and inner ear is derived from the vertebrobasilar system. Any major branch occlusion can cause vertigo. Diagnosis usually relies on a history of brainstem symptoms, such as diplopia, dysarthria, weakness, or clumsiness of the limbs. Vertigo is the initial symptom in 48% of patients, although fewer than one-half will have an associated neurologic finding.53Treatment includes antiplatelet therapy and reduction of risk factors for cerebrovascular disease. Warfarin (Coumadin) has been used in cases of significant vertebral or basilar artery stenosis.54"
+        },
+        {
+            "parent": 11,
+            "text": "This article updates a previous article by Post and Dickerson.1"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources: A PubMed and Ovid search was completed in Clinical Queries using the key words dizziness, vertigo, disequilibrium, and presyncope. Additional search terms included Meniere disease, Epley maneuver, and vestibular neuritis. The Cochrane Library and Essential Evidence Plus were searched using the key words vertigo and dizziness. Last search date: October 2015."
+        }
+    ],
+    "locked": false
+}

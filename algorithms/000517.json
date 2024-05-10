@@ -1,0 +1,184 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0515/p1229.html#afp20100515p1229-f3",
+    "title": "Nursing Home Care: Part II. Clinical Aspects | AAFP",
+    "author": "BRIAN K. UNWIN, MD, MARY PORVAZNIK, MD, AND GERARD DAVID SPOELHOF, MD",
+    "doi": "Am Fam Physician.2010;81(10):1229-1237",
+    "abstract": "Understanding the distinctions between the management of clinical problems in nursing homes compared with the community setting helps improve the overall care of nursing home residents. Liberalizing diets helps avoid unintentional weight loss in nursing home residents, although the use of feeding tubes usually does not improve nutrition or decrease aspiration risk. Medical assessment, treatment of comorbidities, and appropriate use of rehabilitation therapies minimize the frequency of falls. Toileting programs may be used to treat incontinence and retention in cooperative patients. Adverse effects and drug interactions should be considered when initiating pharmacologic treatment of overactive bladder. Urinary tract infection and pneumonia are the most common bacterial infections in nursing home residents. Signs and symptoms of infection include fever or hypothermia, and functional decline. Virus identification is recommended for influenza-like illnesses. Nonpharmacologic behavioral management strategies are the preferred treatment for dementia-related problem behaviors. The Beers criteria, which outline potentially inappropriate medication use in older persons, provide guidance for medication use in the nursing home.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Nutrition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Frailty",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pain Management",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Urinary Incontinence and Retention",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Falls",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Restraints",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Infectious Diseases",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Dementia",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Delirium",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Depression",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Adverse Drug Events",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Pressure Ulcers",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Nursing home residents often need specific clinical care, such as management of malnutrition and unintentional weight loss, chronic pain, and declining physical function and cognition. Recognizing the distinctions between treating these residents versus community-dwelling patients is important in optimizing care. This article, part II of a two-part series, focuses on the clinical aspects of nursing home care.Part Icovers the elements and challenges of nursing home care, including advance care and financial planning, record keeping, transfers, and abuse.1"
+        },
+        {
+            "parent": 0,
+            "text": "Malnutrition and unintentional weight loss are significant problems in nursing home residents and can lead to multiple complications, such as pressure ulcers and infections.2,3Treating malnutrition in the nursing home resident may involve a full medical evaluation and appropriate laboratory testing.4,5However, environmental, social, and staffing factors are also associated with unintentional weight loss. An appealing eating environment and one-on-one staffing to assist residents who are unable to feed themselves may help residents regain or maintain weight.6,7"
+        },
+        {
+            "parent": 0,
+            "text": "Liberalizing diets may also promote weight gain in residents with unintentional weight loss. The American Dietetic Association recommends liberalizing diets to improve nutritional status and quality of life in older adults.8A small study demonstrated equivalent glycemic control in nursing home residents who ate a regular diet versus those who ate a restricted American Diabetes Association diet.9"
+        },
+        {
+            "parent": 0,
+            "text": "If unintentional weight loss continues, discussions regarding artificial nutrition and hydration via feeding tube may develop between the family and nursing home staff. However, studies have shown that percutaneous endoscopic gastrostomy does not improve nutritional status or quality of life for residents with dementia,10,11and residents with dysphagia after a stroke who receive tube feedings do not have a decreased risk of aspiration pneumonia.12Feeding tubes can cause discomfort and agitation and increase the use of restraints.13Educational interventions may improve physician, staff, resident, and family knowledge of the risks and limitations of tube feeding.14"
+        },
+        {
+            "parent": 1,
+            "text": "Key characteristics of frailty are weight loss, fatigue/exhaustion, weakness, slowness, and inactivity.15Table 1presents clinical criteria for frailty that predict increased falls, worsening impairment in activities of daily living, hospitalization, and death.15,16Persons with at least three of these criteria are deemed frail and have six times the mortality over three years than those who are not frail. Persons with two of these findings are considered “pre-frail” and are at twice the risk of progression to the full syndrome.15Other models for characterizing frailty include cognitive impairment, mood disturbance, and disability.16No biochemical markers are useful to diagnose frailty.15Cornerstone interventions for frailty focus on reconditioning exercises, nutrition, comorbidities, disability, and symptoms.15–17"
+        },
+        {
+            "parent": 2,
+            "text": "An estimated 45 to 80 percent of nursing home residents experience chronic pain.18These patients have atypical signs and symptoms of pain, as well as communication barriers, cognitive loss, polypharmacy, and multiple comorbidities that make diagnosis and treatment difficult. Pain can also complicate other conditions by causing depression, anxiety, deconditioning, disability, impaired sleep, and social withdrawal.18Pain may be a major cause of disordered behavior in nursing home residents."
+        },
+        {
+            "parent": 2,
+            "text": "Nursing home residents with cognitive impairment are able to reliably self-report pain using established pain scales. Noncommunicative residents can be observed for pain behaviors, such as noisy breathing, negative vocalizations, sad or frightened facial expressions (e.g., frowning), fidgeting, and tense body language. Systematic, structured pain assessment has been demonstrated to be more effective than episodic assessment in identifying and treating pain in nursing home residents.19"
+        },
+        {
+            "parent": 2,
+            "text": "Treatment of pain in this population requires a systematic, prioritized, multidisciplinary approach that may include resident, family, and staff education and communication; pastoral counseling; music therapy; exercise; hot or cold compresses; baths or showers; and pharma-cotherapy.18Regular administration of pain medications should be considered if an agent is requested often, the pain is chronic, or the resident is unable to communicate his or her needs. Principles of opioid management in the nursing home setting are similar to those in other health care settings. The risks of opioid therapy in frail older persons are constipation, ileus, anorexia, hypotension, and falls. Before initiating opioid therapy, the patient's medications should be reviewed, and discontinuation or modification should be considered for those that may adversely interact with the opioid.18"
+        },
+        {
+            "parent": 3,
+            "text": "Incontinence affects 55 percent of nursing home residents and is associated with increased risk of falls, depression, anxiety, embarrassment, and social isolation.20Evaluation and treatment goals should be individualized based on feasibility, appropriateness, and resident and family preference.20Evaluation of urinary incontinence and retention in nursing home residents is similar to that in the community setting, but includes particular attention to the resident's overall care plan and medications associated with incontinence.Tables 2and3include the causes of urinary incontinence and retention.20"
+        },
+        {
+            "parent": 3,
+            "text": "Toileting programs, which may be used in cooperative patients, include scheduled toileting habit training (i.e., assistance according to the resident's established behavioral pattern) and prompted voiding (i.e., teaching the resident to recognize bladder and bowel filling). “Check-and-change” programs involve regular evaluation of the resident's continence status, and changing of undergarments or pads at regular intervals. Check-and-change programs are generally a last resort, and reserved for residents with severe dementia or disability who are unable to participate in other continence programs.20"
+        },
+        {
+            "parent": 3,
+            "text": "Certain residents may be candidates for pharmacologic therapy for stress incontinence or overactive bladder. However, risk-versus-benefit assessment should include consideration of possible medication adverse effects, such as confusion, urinary retention, and antagonism of cholinesterase inhibitors."
+        },
+        {
+            "parent": 3,
+            "text": "The Omnibus Budget Reconciliation Act requires physicians to have clinically valid reasons before initiating catheterization. Catheterization may be considered as a palliative care measure in some debilitated residents, with thorough documentation by the physician.20"
+        },
+        {
+            "parent": 4,
+            "text": "Nursing home residents account for 20 percent of persons who die as a result of falls.21The complications of falling (e.g., fear of subsequent falls) compound existing resident conditions.21The cause of falls in nursing home residents is usually multifactorial. Muscle weakness and gait problems account for approximately one fourth of falls in nursing homes, and environmental hazards (e.g., wet floors, incorrect bed height, poorly fitted wheelchairs) account for another 16 to 27 percent.21Multidisciplinary interventions based on fall assessment can reduce the frequency and complications of falls.21,22"
+        },
+        {
+            "parent": 4,
+            "text": "The physician's role involves treating health conditions or injuries, eliminating medications that increase fall risk, and ordering prevention measures and rehabilitation therapies for appropriate patients. The care plan should be reevaluated after falls, and the patient should be observed and receive continued supervision."
+        },
+        {
+            "parent": 5,
+            "text": "Policies about resident restraint require an approach that attempts to maintain or improve residents' function, using the least amount of restriction. Barring a clear and well-documented reason, restraints should not be used in nursing home residents. In nonemergency situations, physical restraints should be used in nursing home residents only after careful and comprehensive review, assessment, and documentation provide substantial evidence that no safer alternative can be used. Environmental and behavioral alternatives to restraints for problem behavior are listed inTable 4.23"
+        },
+        {
+            "parent": 6,
+            "text": "Diagnosis and management of infectious diseases in nursing home residents are complicated by patient comorbidities, as well as clinical and diagnostic limitations within the nursing home environment. A clear diagnosis of infection and appropriate treatment with culture-specific antibiotics help prevent antimicrobial resistance.24Clinical practice guidelines are available to assist physicians.25"
+        },
+        {
+            "parent": 6,
+            "text": "Urinary tract infection (UTI) is the most common infection in nursing home residents.26To reduce antibiotic use, criteria have been developed for diagnosis and management of UTIs(Figure 1).27"
+        },
+        {
+            "parent": 6,
+            "text": "Pneumonia is the most common cause of infection requiring transfer of nursing home residents to the hospital, and it is a leading cause of mortality.28Nursing home residents develop pneumonia at a greater rate than community-dwelling older adults.25Nursing home residents who are hospitalized should receive empiric coverage for methicillin-resistantStaphylococcus aureus, and broad-spectrum coverage for gram-negative and gram-positive organisms.Figure 2is an algorithm for the management of pneumonia in a nursing home resident.29"
+        },
+        {
+            "parent": 6,
+            "text": "Skin and soft tissue, gastrointestinal, and respiratory infections are also common in nursing home residents. The procedures for evaluating viral respiratory infections are distinct in nursing homes. These procedures include identification of influenza A and other common viruses25to assist in decisions about patient isolation, and the use of antiviral agents for influenza treatment and prophylaxis."
+        },
+        {
+            "parent": 6,
+            "text": "Table 5presents guidelines from the Infectious Diseases Society of America for the evaluation and treatment of fever and infection in long-term care facilities.25"
+        },
+        {
+            "parent": 7,
+            "text": "As many as 67 to 78 percent of nursing home residents have dementia. Dementia-related behavioral and psychological symptoms often prompt the decision to admit a person to a nursing home.30Individualized care plans for residents with dementia are developed based on the stage of dementia and associated impairments.31,32Nonpharmacologic treatment of problem behaviors should be emphasized and includes identifying triggers for the behavior, such as pain, and implementing a multidisciplinary management strategy. Management strategies include changes in patient activity and nursing home care practices, environmental modification, and family education to alter the behavior.Figure 3is a management approach to dementia-related problem behavior.31"
+        },
+        {
+            "parent": 7,
+            "text": "Pharmacologic treatment may be necessary if behavioral issues become dangerous for the resident or for others.31Antipsychotic therapy is the main treatment for unmanageable behavioral symptoms, such as aggression, hallucinations, and agitation. However, recent literature suggests a 1.6 to 1.7 times higher risk of death in patients treated with antipsychotics versus placebo.31This risk has led the U.S. Food and Drug Administration to add a warning to all antipsychotic drugs about their use for dementia-related psychosis.31"
+        },
+        {
+            "parent": 8,
+            "text": "Delirium occurs in up to 60 percent of nursing home residents, and up to 83 percent of all patients at the end of life.33The diagnostic and treatment approach is no different than for patients admitted to the hospital and includes evaluation for dementia, depression, metabolic disorders, infection, polypharmacy complications, and late-phase disease.33"
+        },
+        {
+            "parent": 9,
+            "text": "It is estimated that 12 to 16 percent of older adults living in nursing homes have major depression.34The diagnosis of depression is facilitated by multi-disciplinary assessment and the use of screening tools such as the Geriatric Depression Scale, Cornell Scale for Depression in Dementia, Center for Epidemiologic Studies of Depression Scale, and Patient Health Questionnaire.34"
+        },
+        {
+            "parent": 9,
+            "text": "Pharmacologic and psychological treatment of depression in a nursing home resident is no different than that for a non-nursing home resident. No antidepressant class is superior; however, selective serotonin reuptake inhibitors and selective norepinephrine reuptake inhibitors are preferred because of their favorable safety and tolerability profiles.35Choosing which antidepressant is suitable for the individual patient includes recognition of comorbidities, current medications, and the antidepressant's adverse effects. Electroconvulsive therapy may be considered in select patients."
+        },
+        {
+            "parent": 10,
+            "text": "Adverse drug events are common in nursing homes, ranging from 1.9 to 9.8 events per 100 resident-months. Of these events, 40 to 50 percent are considered preventable.36,37A general management principle is to consider any new symptom an adverse drug event until proved otherwise."
+        },
+        {
+            "parent": 10,
+            "text": "The Centers for Medicaid and Medicare Services have adopted the Beers criteria, which are based on a list of medications that should be generally avoided in older patients, as regulatory guidance to improve the rate of adverse drug events in nursing homes.38Other methods for avoiding potentially inappropriate medication use in nursing home residents include reviewing medications at admission, at readmission, at transfers, if any medication is added or discontinued, and when goals of care change; adjusting dosages according to renal function; and closely monitoring patients taking psychotropic medications for benefits versus risks.32,36–38"
+        },
+        {
+            "parent": 11,
+            "text": "Pressure ulcers are also common in nursing homes. Principles of pressure ulcer prevention and treatment are the same in the community and nursing home settings. Clinical practice guidelines are available for the prevention and treatment of pressure ulcers.39,40"
+        }
+    ],
+    "locked": false
+}

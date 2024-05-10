@@ -1,0 +1,186 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0201/p548.html#afp20040201p548-f2",
+    "title": "Strength of Recommendation Taxonomy (SORT): A Patient-Centered Approach to Grading Evidence in the Medical Literature | AAFP",
+    "author": "MARK H. EBELL, M.D., M.S., JAY SIWEK, M.D., BARRY D. WEISS, M.D., STEVEN H. WOOLF, M.D., M.P.H., JEFFREY SUSMAN, M.D., BERNARD EWIGMAN, M.D., M.P.H., AND MARJORIE BOWMAN, M.D., M.P.A.",
+    "doi": "Am Fam Physician.2004;69(3):548-556",
+    "abstract": "A large number of taxonomies are used to rate the quality of an individual study and the strength of a recommendation based on a body of evidence. We have developed a new grading scale that will be used by several family medicine and primary care journals (required or optional), with the goal of allowing readers to learn one taxonomy that will apply to many sources of evidence. Our scale is called the Strength of Recommendation Taxonomy. It addresses the quality, quantity, and consistency of evidence and allows authors to rate individual studies or bodies of evidence. The taxonomy is built around the information mastery framework, which emphasizes the use of patient-oriented outcomes that measure changes in morbidity or mortality. An A-level recommendation is based on consistent and good-quality patient-oriented evidence; a B-level recommendation is based on inconsistent or limited-quality patient-oriented evidence; and a C-level recommendation is based on consensus, usual practice, opinion, disease-oriented evidence, or case series for studies of diagnosis, treatment, prevention, or screening. Levels of evidence from 1 to 3 for individual studies also are defined. We hope that consistent use of this taxonomy will improve the ability of authors and readers to communicate about the translation of research into practice.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definitions",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Disease-Oriented Outcomes",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Patient-Oriented Outcomes",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Level of Evidence",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Strength of Recommendation",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Practice Guideline (Evidence-Based)",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Practice Guideline (Consensus)",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Research Evidence",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Review Article",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Systematic Reviews and Meta-Analyses",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Existing Strength-of-Evidence Scales",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Strength of Recommendation Taxonomy (SORT)",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Walkovers: Creating Linkages with SORT",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Review articles (or overviews) are highly valued by physicians as a way to keep up-to-date with the medical literature. Sometimes, though, these articles are based more on the authors' personal experience, anecdotes, or incomplete surveys of the literature than on a comprehensive collection of the best available evidence. As a result, there is an ongoing effort in the medical publishing field to improve the quality of review articles through the use of more explicit grading of the strength of evidence on which recommendations are based.1–4"
+        },
+        {
+            "parent": -1,
+            "text": "Several journals, includingAmerican Family PhysicianandThe Journal of Family Practice, have adopted evidence-grading scales that are used in some of the articles published in those journals. Other organizations and publications also have developed evidence-grading scales. The diversity of these scales can be confusing for readers. More than 100 grading scales are in use by various medical publications.5A level B recommendation in one journal may not mean the same thing as a level B recommendation in another. Even within journals, different evidence-grading scales sometimes are used in separate articles within the same issue. Journal readers do not have the time, energy, or interest to interpret multiple grading scales, and more complex scales are difficult to integrate into daily practice."
+        },
+        {
+            "parent": -1,
+            "text": "Therefore, the editors of the U.S. family medicine and primary care journals (i.e.,American Family Physician, Family Medicine, The Journal of Family Practice, Journal of the American Board of Family Practice, andBMJ-USA) and the Family Practice Inquiries Network (FPIN) came together to develop a unified taxonomy for the strength of recommendations based on a body of evidence. The new taxonomy should: (1) be uniform in most family medicine journals and electronic databases; (2) allow authors to evaluate the strength of recommendation of a body of evidence; (3) allow authors to rate the level of evidence for an individual study; (4) be comprehensive and allow authors to evaluate studies of screening, diagnosis, therapy, prevention, and prognosis; (5) be easy to use and not too time-consuming for authors, reviewers, and editors who may be content experts but not experts in critical appraisal or clinical epidemiology; and (6) be straightforward enough that primary care physicians can readily integrate the recommendations into daily practice."
+        },
+        {
+            "parent": 0,
+            "text": "A number of relevant terms must be defined for clarification."
+        },
+        {
+            "parent": 1,
+            "text": "These outcomes include intermediate, histopathologic, physiologic, or surrogate results (e.g., blood sugar, blood pressure, flow rate, coronary plaque thickness) that may or may not reflect improvement in patient outcomes."
+        },
+        {
+            "parent": 2,
+            "text": "These are outcomes that matter to patients and help them live longer or better lives, including reduced morbidity, reduced mortality, symptom improvement, improved quality of life, or lower cost."
+        },
+        {
+            "parent": 3,
+            "text": "The validity of an individual study is based on an assessment of its study design. According to some methodologies,6levels of evidence can refer not only to individual studies but also to the quality of evidence from multiple studies about a specific question or the quality of evidence supporting a clinical intervention. For purposes of maintaining simplicity and consistency in this proposal, we use the term “level of evidence” to refer to individual studies."
+        },
+        {
+            "parent": 4,
+            "text": "The strength (or grade) of a recommendation for clinical practice is based on a body of evidence (typically more than one study). This approach takes into account the level of evidence of individual studies; the type of outcomes measured by these studies (patient-oriented or disease-oriented); the number, consistency, and coherence of the evidence as a whole; and the relationship between benefits, harms, and costs."
+        },
+        {
+            "parent": 5,
+            "text": "These guidelines are recommendations for practice that involve a comprehensive search of the literature, an evaluation of the quality of individual studies, and recommendations that are graded to reflect the quality of the supporting evidence. All search, critical appraisal, and grading methods should be described explicitly and be replicable by similarly skilled authors."
+        },
+        {
+            "parent": 6,
+            "text": "Consensus guidelines are recommendations for practice based on expert opinions that typically do not include a systematic search, an assessment of the quality of individual studies, or a system to label the strength of recommendations explicitly."
+        },
+        {
+            "parent": 7,
+            "text": "This evidence is presented in publications of original research, involving collection of original data or the systematic review of other original research publications. It does not include editorials, opinion pieces, or review articles (other than systematic reviews or meta-analyses)."
+        },
+        {
+            "parent": 8,
+            "text": "A nonsystematic overview of a topic is a review article. In most cases, it is not based on an exhaustive, structured review of the literature and does not evaluate the quality of included studies systematically."
+        },
+        {
+            "parent": 9,
+            "text": "A systematic review is a critical assessment of existing evidence that addresses a focused clinical question, includes a comprehensive literature search, appraises the quality of studies, and reports results in a systematic manner. If the studies report comparable quantitative data and have a low degree of variation in their findings, a meta-analysis can be performed to derive a summary estimate of effect."
+        },
+        {
+            "parent": 10,
+            "text": "In March 2002, the Agency for Healthcare Research and Quality (AHRQ) published a report that summarized the state-of-the-art in methods of rating the strength of evidence.5The report identified a large number of systems for rating the quality of individual studies: 20 for systematic reviews, 49 for randomized controlled trials, 19 for observational studies, and 18 for diagnostic test studies. It also identified 40 scales that graded the strength of a body of evidence consisting of one or more studies."
+        },
+        {
+            "parent": 10,
+            "text": "The authors of the AHRQ report proposed that any system for grading the strength of evidence should consider three key elements: quality, quantity, and consistency. Quality is the extent to which the identified studies minimize the opportunity for bias and is synonymous with the concept of validity. Quantity is the number of studies and subjects included in those studies. Consistency is the extent to which findings are similar between different studies on the same topic. Only seven of the 40 systems identified and addressed all three of these key elements.6–11"
+        },
+        {
+            "parent": 11,
+            "text": "The authors of this article represent the major family medicine journals in the United States and a large family medicine academic consortium. Our process began with a series of e-mail exchanges, was developed during a meeting of the editors, and continued through another series of e-mail exchanges."
+        },
+        {
+            "parent": 11,
+            "text": "We decided that our taxonomy for rating the strength of a recommendation should address the three key elements identified in the AHRQ report: quality, quantity, and consistency of evidence. We also were committed to creating a grading scale that could be applied by authors with varying degrees of expertise in evidence-based medicine and clinical epidemiology, and interpreted by physicians with little or no formal training in these areas. We believed that the taxonomy should address the issue of patient-oriented evidence versus disease-oriented evidence explicitly and be consistent with the information mastery framework proposed by Slawson and Shaughnessy.2"
+        },
+        {
+            "parent": 11,
+            "text": "After considering these criteria and reviewing the existing taxonomies for grading the strength of a recommendation, we decided that a new taxonomy was needed to reflect the needs of our specialty. Existing grading scales were focused on a particular kind of study (e.g., prevention or treatment), were too complex, or did not take into account the type of outcome."
+        },
+        {
+            "parent": 11,
+            "text": "Our proposed taxonomy is called the Strength of Recommendation Taxonomy (SORT). It is shown inFigure 1. The taxonomy includes ratings of A, B, or C for the strength of recommendation for a body of evidence. The table in the center ofFigure 1explains whether a body of evidence represents good-quality or limited-quality evidence, and whether evidence is consistent or inconsistent. The quality of individual studies is rated 1, 2, or 3; numbers are used to distinguish ratings of individual studies from the letters A, B, and C used to evaluate the strength of a recommendation based on a body of evidence.Figure 2provides information about how to determine the strength of recommendation for management recommendations, andFigure 3explains how to determine the level of evidence for an individual study. These two algorithms should be helpful to authors preparing papers for submission to family medicine journals. The algorithms are to be considered general guidelines, and special circumstances may dictate assignment of a different strength of recommendation (e.g., a single, large, well-designed study in a diverse population may warrant an A-level recommendation)."
+        },
+        {
+            "parent": 11,
+            "text": "Recommendations based only on improvements in surrogate or disease-oriented outcomes are always categorized as level C, because improvements in disease-oriented outcomes are not always associated with improvements in patient-oriented outcomes, as exemplified by several well-known findings from the medical literature. For example, doxazosin lowers blood pressure in black patients—a seemingly beneficial outcome—but it also increases mortality rates.12Similarly, encainide and flecainide reduce the incidence of arrhythmias after acute myocardial infarction, but they also increase mortality rates.13Finasteride improves urinary flow rates, but it does not significantly improve urinary tract symptoms in patients with benign prostatic hypertrophy,14while arthroscopic surgery for osteoarthritis of the knee improves the appearance of cartilage but does not reduce pain or improve joint function.15Additional examples of clinical situations where disease-oriented evidence conflicts with patient-oriented evidence are shown inTable 1.12–24Examples of how to apply the taxonomy are given inTable 2."
+        },
+        {
+            "parent": 11,
+            "text": "We believe there are several advantages to our proposed taxonomy. It is straightforward and comprehensive, is easily applied by authors and physicians, and explicitly addresses the issue of patient-oriented versus disease-oriented evidence. The latter attribute distinguishes SORT from most other evidence-grading scales. These strengths also create some limitations. Some clinicians may be concerned that the taxonomy is not as detailed in its assessment of study designs as others, such as that of the Centre for Evidence-Based Medicine (CEBM).25However, the primary difference between the two taxonomies is that the CEBM version distinguishes between good and poor observational studies while the SORT version does not. We concluded that the advantages of a system that provides the physician with a clear recommendation that is strong (A), moderate (B), or weak (C) in its support of a particular intervention outweighs the theoretic benefit of distinguishing between lower quality and higher quality observational studies, particularly because there is no objective evidence that the latter distinction carries important differences in clinical recommendations."
+        },
+        {
+            "parent": 11,
+            "text": "Any publication applying SORT (or any other evidence-based taxonomy) should describe carefully the search process that preceded the assignment of a SORT rating. For example, authors could perform a comprehensive search of MEDLINE and the gray literature, a comprehensive search of MEDLINE alone, or a more focused search of MEDLINE plus secondary evidence-based sources of information."
+        },
+        {
+            "parent": 12,
+            "text": "Some organizations, such as the CEBM,25the Cochrane Collaboration,7and the U.S. Preventive Services Task Force,6have developed their own grading scales for the strength of recommendation based on a body of evidence and are unlikely to abandon them. Other organizations, such as the FPIN,26publish their work in a variety of settings and must be able to move between taxonomies. We have developed a set of optional walkovers that suggest how authors, editors, and readers might move from one taxonomy to another. Walkovers for the CEBM and BMJ Clinical Evidence taxonomies are shown inTable 3."
+        },
+        {
+            "parent": 12,
+            "text": "Many authors and experts in evidence-based medicine use the “Level of Evidence” taxonomy from the CEBM to rate the quality of individual studies.25A walkover from the five-level CEBM scale to the simpler three-level SORT scale for individual studies is shown inTable 4."
+        },
+        {
+            "parent": 13,
+            "text": "The SORT is a comprehensive taxonomy for evaluating the strength of a recommendation based on a body of evidence and the quality of an individual study. If applied consistently by authors and editors in the family medicine literature, it has the potential to make it easier for physicians to apply the results of research in their practice through the information mastery approach and to incorporate evidence-based medicine into their patient care."
+        },
+        {
+            "parent": 13,
+            "text": "Like any such grading scale, it is a work in progress. As we learn more about biases in study design, and as the authors and readers who use the taxonomy become more sophisticated about principles of information mastery, evidence-based medicine, and critical appraisal, it is likely to evolve. We remain open to suggestions from the primary care community for refining and improving SORT."
+        }
+    ],
+    "locked": false
+}

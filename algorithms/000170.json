@@ -1,0 +1,148 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/1115/p628.html#afp20191115p628-f1",
+    "title": "Specific Learning Disabilities: The Family Physician's Role | AAFP",
+    "author": "MICHELLE J. CURTIN, DO, DEANNA R. WILLIS, MD, MBA, AND BRETT ENNEKING, PsyD",
+    "doi": "Am Fam Physician.2019;100(10):628-635",
+    "abstract": "Academic underachievement, such as failing a class and the threat of being held back because of academic issues, is common. Family physicians can provide support and guidance for families as they approach their child's unique academic challenges. Specific learning disabilities are a group of learning disorders (e.g., dyscalculia, dysgraphia, dyslexia) that impede a child's ability to learn. Understanding standard educational terms; looking for medical, family, and social risk factors associated with academic underachievement; and investigating the medical differential for academic underachievement can help direct the family to appropriate care. The physician can provide medical documentation to support an individualized education program evaluation and address risk factors that schools may not be aware of or cannot assess. The family physician can support children and families by understanding the connection between risk factors, medical and educational evaluations, and educational resources.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Specific Learning Disabilities",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "School Evaluations",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "INITIAL EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ELIGIBILITY DETERMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Medical Evaluations",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "EVALUATION OF A CHILD WITH A POTENTIAL LEARNING DISABILITY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "EVALUATION OF A CHILD WITH A SCHOOL EVALUATION IN PROGRESS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CHILDREN WITH AN IEP",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Many school-aged children experience academic underachievement by not being able to maintain average grades, failing a single class, performing below their grade level in one or more subjects, or receiving below-average scores on state or classroom tests. The number of public school students in the United States who receive special education support increased from 8.3% in 1976 to 1977 to 13.8% in 2004 to 2005. A large portion of the overall increase is attributed to the number of students who are now eligible for services because of a specific learning disability (currently 4.6% or 2.3 million persons).1This article outlines an approach to the evaluation of academic underachievement with a focus on specific learning disabilities."
+        },
+        {
+            "parent": 0,
+            "text": "Specific learning disabilities are a group of disorders that impede a child's ability to learn and include dyscalculia, dysgraphia, and dyslexia. The overall prevalence of specific learning disabilities for children in the general population is 4% to 9%.2A specific learning disability is not considered an intellectual disability.2Many medical and psychosocial conditions should be considered risk factors for specific learning disabilities(Table 1).2–20Medical conditions that can result in learning problems with similar features or symptoms as a specific learning disability, such as attention-deficit/hyperactivity disorder (ADHD), are listed inTable 23,5,9,10,12–16,21–25andTable 3.3,4,11,13,17,21,23,24,26–28Some of these conditions, such as visual impairment, can be ameliorated, which can resolve the associated learning problem. Early identification of the specific learning disability and treatment that begins by the third grade at the latest lead to the best outcomes.29Later identification has a poorer prognosis, such as an ongoing failure to achieve grade-level standards and subject fluency. The primary intervention for a specific learning disability is academic based around the child's specific needs with special education supports that can be used with individualized, targeted medical support."
+        },
+        {
+            "parent": 0,
+            "text": "This article focuses on the physician working with the family to obtain appropriate medical and educational evaluations. Physicians can investigate risk factors and comorbidities, and help families work with the school to determine appropriate educational supports."
+        },
+        {
+            "parent": 2,
+            "text": "Physicians should be aware of standard terms used in public education law that allow for better communication with schools(Table 4).20,22,30–33Schools in many states use a response-to-intervention protocol as an early intervention for school underachievement and identification of children with specific learning disabilities before beginning an evaluation for special education services.20,31,32The goal of a response to intervention is to decrease the number of children automatically evaluated for special education services by giving additional support to all underachieving children through a tiered academic support program in general education. Children with more intensive needs move through minimal, moderate, and maximal supports. Families do not have to wait until a response to intervention is completed to request an individualized education program (IEP) evaluation; however, many families are unaware of their child's enrollment in response-to-intervention supports.34"
+        },
+        {
+            "parent": 3,
+            "text": "Following a response to intervention or if there is a significant lack of progress moving through the three tiers of the response to intervention, the school may evaluate the child for an IEP. Schools determine eligibility for special education services based on the needs of the student that are impacting academic work.21,22,30This process is unlike making a medical diagnosis, which is based on the presence of specific symptoms meeting diagnostic criteria35(e.g.,Diagnostic and Statistical Manual of Mental Disorders, 5th ed.). The following outcomes for children with academic underachievement who have been assessed by a school and a physician are possible."
+        },
+        {
+            "parent": 3,
+            "text": "Medical Diagnosis and School Eligibility. A child is found to have a cognitive disability that is causing academic difficulties in school. The physician diagnoses the child with an intellectual disability."
+        },
+        {
+            "parent": 3,
+            "text": "Medical Diagnosis Only. The physician diagnoses the child with a mild visual impairment, which is corrected with prescription glasses."
+        },
+        {
+            "parent": 3,
+            "text": "School Eligibility Only. The school determines the child is eligible for special education services under the category of specific learning disability. In most cases, students do not receive medical treatment for a specific learning disability; as such, a medical diagnosis may be unnecessary."
+        },
+        {
+            "parent": 3,
+            "text": "Schools provide educational evaluations using a multidisciplinary team approach that is based on concerns from school staff, such as poor academic performance, when determining special education eligibility.22Schools may have a differential with several eligibility categories for academic underachievement depending on the child's challenges in school. The differential can include a specific learning disability, cognitive disability (i.e., intellectual disability), autism spectrum disorder (ASD), developmental delay, or other health impairment.1,22,30"
+        },
+        {
+            "parent": 3,
+            "text": "A child who qualifies for an IEP is found eligible under a primary eligibility category designation. A secondary category may also be found. Some categories may be used simultaneously (e.g., specific learning disability with ASD, intellectual disability with ASD), whereas others are mutually exclusive (e.g., specific learning disability, intellectual disability). The “other health impairment” category can be confusing and may be appropriate for a variety of medical diagnoses (e.g., ADHD, epilepsy, asthma) that cause absenteeism, result in impaired attention (e.g., cognitive slowing because of certain antiepileptic medications), or inhibit the child's ability to perform in the classroom in other ways."
+        },
+        {
+            "parent": 5,
+            "text": "Physicians can watch for several early risk factors for specific learning disabilities before academic underachievement starts.36They are often the first people that families approach with academic problems in the school setting. These concerns should prompt the physician to evaluate the child for issues with learning. If a child presents with behavior problems at school, the physician should also ask about academic underachievement because early academic underachievement or failure may be the cause or a significant contributor to the development of challenging behaviors.11,21"
+        },
+        {
+            "parent": 5,
+            "text": "The family physician plays a vital role in medical evaluation, coordination, interdisciplinary communication, and generalized support for the family and school after the academic or school behavior problems have been identified.35"
+        },
+        {
+            "parent": 5,
+            "text": "Figure 1outlines an approach to the first appointment with a child who is underachieving or who has an academic failure concern."
+        },
+        {
+            "parent": 5,
+            "text": "A medical examination should involve a detailed history, including a review of medical risk factors (e.g., premature birth, very low birth weight;Table 12–20) and current comorbidities (e.g., speech-language delay or disorder;Table 33,4,11,13,17,21,23,24,26–28)that are associated with specific learning disabilities.The evaluation should also include appropriate parent- and child-completed screening based on age (e.g., annual adolescent depression screening according to the American Academy of Pediatrics37and U.S. Preventive Services Task Force38), chart review, and hearing and vision assessment if not recently assessed.23,25The physician should be attentive to relevant physical examination findings (e.g., head circumference, birthmarks, facial morphology;Table 5). Most importantly, the physician should consider key differential items that may contribute to academic underachievement or where treatment within the medical field (e.g., cognitive behavior therapy, antiepileptic medication) will help with educational needs(Table 2).3,5,9,10,12–16,21–25Table 6lists symptom identification and screening resources for specific learning disabilities."
+        },
+        {
+            "parent": 5,
+            "text": "Children with neurodevelopmental disorders (e.g., ASD) may not be able to participate in office-based screenings fully and might require an evaluation by a subspecialty office (e.g., audiology) to complete otherwise routine testing. Children with more complicated medical disorders (e.g., seizures) or concerning risk factors (e.g., family history of neurofibromatosis) may need to be treated by pediatric subspecialists. This would include children with phenylketonuria who have academic underachievement when phenylalanine levels are high and require ongoing subspecialty treatment through metabolic genetics or pediatric neurology."
+        },
+        {
+            "parent": 5,
+            "text": "For parents who are concerned that their child may have a specific learning disability, there are two main options for evaluation22,30: a public school team evaluation or an external evaluation with a nonschool psychologist. The school district may not accept the information produced by an external psychological evaluation. Insurance companies often do not pay for psychological evaluations for purely educational reasons; therefore, external evaluations for specific learning disabilities are often self-pay, which should be discussed before referring families to a nonschool psychology evaluation for a specific learning disability."
+        },
+        {
+            "parent": 5,
+            "text": "The physician can assist families by writing a school evaluation letter of support to introduce open communication between the family, the physician, and the school when an evaluation has not yet been initiated or when information was missing from a previous evaluation.30,35Many family support websites provide example letters for reference(Table 7).The physician can alternatively produce a summary of identified medical needs or medical evaluation steps to be shared with the school to support the family's evaluation request and school determination of eligibility.When writing a medical summary letter, the physician should again identify and describe the child's known medical needs that may impact the academic setting and any ongoing or intended medical evaluation.22,30,35The information is used by the school as a component of assessment and to develop the overall education evaluation and plan at school.22"
+        },
+        {
+            "parent": 6,
+            "text": "The physician should perform a medical assessment that includes a detailed history, a review of medical risk factors, a physical examination, and the identification of underlying and contributory medical conditions. The evaluation should also include appropriate parent- and child-completed screening based on age and needs. When requested by the parents or school with a family-signed release of information, the physician can provide medical documentation that supports evaluation and IEP planning or addresses risk factors3,10,11,17that schools may not be aware of or cannot assess. A standard release-of-information form is adequate for school communication."
+        },
+        {
+            "parent": 6,
+            "text": "A medical summary letter can be solicited directly by the school or family when a medical evaluation is already in process. Medical information is a requirement for some eligibilities (e.g., other health impairment) and a school evaluation and special education services will not proceed without this."
+        },
+        {
+            "parent": 6,
+            "text": "Some children with learning and attention needs may not qualify for an IEP based on the school's criteria under the Individuals with Disabilities Education Act; however, they may receive lower intensity accommodations through the use of a 504 plan,30such as preferential seating or a supplemental note set."
+        },
+        {
+            "parent": 7,
+            "text": "For children who already have an IEP but whose parents are concerned about academic underachievement, the physician should request a copy to review key elements, focusing on eligibility category, current special education services, and the educational setting.35"
+        },
+        {
+            "parent": 7,
+            "text": "IEP information is essential because the IEP communicates t he school 's current understanding of the child's needs, which may or may not align with what is known in the medical record about the child's physical, psychological, and developmental needs. The physician can help families understand why and what the child currently receives as school supports, incorporate school information into the medical plan as appropriate, or share relevant medical information back to the school. School eligibility does not automatically transfer from the school to the medical setting; therefore, reviewing the IEP allows the medical chart to be updated. The responsibility of performing any appropriate medical evaluation is up to the physician. Additionally, as children grow, academic and medical needs often change as the disorder is treated, requiring ongoing, individualized medical care."
+        },
+        {
+            "parent": 7,
+            "text": "The physician can share educational resources related to special education law and classroom supports for their state with families(Table 7). If the family has IEP questions, this information will give them a reference point for exploration. Many states have advocacy groups that work directly with families to interface with schools in pursuing IEP changes or further evaluation."
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources:A PubMed search was completed using the key terms learning disability, specific learning disability, learning disorder, and dyslexia, with modifiers including reading, medical problems, risk factors, and differential diagnosis. The search included meta-analyses and reviews. A Medline search was completed using the key terms learning disability, specific learning disability, learning disorder, and dyslexia, with modifiers including comorbidities, differential diagnosis, risk factors, medical evaluation with developmental disabilities/alcohol-related disorders/adolescent, prenatal exposures, in utero exposures, neurocutaneous syndromes, genetic diseases, genetic syndromes, metabolic disease, metabolic syndromes, nutrition disorders, malnutrition, brain disease metabolic, and congenital, hereditary, and neonatal diseases and abnormalities. A Cochrane Database of Systematic Reviews search was completed using the key terms learning disability, specific learning disability, learning disorder, dyslexia, academic underachievement, and academic success. Search dates: January 2 and August 16, 2019."
+        }
+    ],
+    "locked": false
+}

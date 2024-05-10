@@ -1,0 +1,210 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0815/p284.html#afp20160815p284-f2",
+    "title": "Systemic Lupus Erythematosus: Primary Care Approach to Diagnosis and Management | AAFP",
+    "author": "NGUYET-CAM VU LAM, MD, MARIA V. GHETU, MD, AND MARZENA L. BIENIEK, MD",
+    "doi": "Am Fam Physician.2016;94(4):284-294",
+    "abstract": "Systemic lupus erythematosus is an autoimmune disease that affects many systems, including the skin, musculoskeletal, renal, neuropsychiatric, hematologic, cardiovascular, pulmonary, and reproductive systems. Family physicians should be familiar with the manifestations of lupus to aid in early diagnosis, monitoring patients with mild disease, recognizing warning signs that require referral to a rheumatologist, and helping to monitor disease activity and treatment in patients with moderate to severe disease. The American College of Rheumatology has 11 classification criteria for lupus. If a patient meets at least four criteria, lupus can be diagnosed with 95% specificity and 85% sensitivity. All patients with lupus should receive education, counseling, and support. Hydroxychloroquine is the cornerstone of treatment because it reduces disease flares and other constitutional symptoms. Low-dose glucocorticoids can be used to treat most manifestations of lupus. The use of immunosuppressive and cytotoxic agents depends on the body systems affected. Patients with mild disease that does not involve major organ systems can be monitored by their family physician. Patients with increased disease activity, complications, or adverse effects from treatment should be referred to a rheumatologist. To optimize treatment, it is important that a rheumatologist coordinate closely with the patient's family physician to improve chronic care as well as preventive health services.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Role of the Primary Care Physician",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "INITIAL EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIAGNOSTIC CRITERIA",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Manifestations and Management",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "MUSCULOSKELETAL SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "INTEGUMENTARY SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "URINARY SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "NERVOUS SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "HEMATOLOGIC SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CARDIOVASCULAR SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "RESPIRATORY SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "REPRODUCTIVE SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Monitoring and Complications",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Systemic lupus erythematosus (SLE) is an autoimmune disease that affects the skin and musculoskeletal, renal, neuropsychiatric, hematologic, cardiovascular, pulmonary, and reproductive systems. Its course is typically recurrent, with periods of relative remission followed by flares. SLE can be fatal and significantly increases the risk of cardiovascular disease."
+        },
+        {
+            "parent": -1,
+            "text": "SLE affects about 300,000 persons in the United States.1It is twice as prevalent in black persons as in white persons, and it is 10 times more common in females than in males.2Over the past decade, the five-year survival rate of patients with SLE has improved to more than 95% because of more effective recognition and treatment of infectious and renal complications.3,4Because patients with SLE are living longer, the focus of care should be comprehensive, including preventive services in addition to treatment.5"
+        },
+        {
+            "parent": 0,
+            "text": "A qualitative study in the United Kingdom noted a lack of detailed knowledge about SLE by family physicians and the need for more cohesive health care.6There is a need for well-coordinated, multidisciplinary health care teams including subspecialists and family physicians to improve chronic care and preventive health services for these patients.7"
+        },
+        {
+            "parent": 0,
+            "text": "A committee of the American College of Rheumatology (ACR) recommended that the role of primary care physicians is understanding the manifestations of SLE to aid in early diagnosis, treating and monitoring patients with mild disease, recognizing warning signs to refer to a rheumatologist appropriately, and helping to monitor disease activity and treatment in patients with moderate to severe disease.8"
+        },
+        {
+            "parent": 1,
+            "text": "SLE is difficult to diagnose in primary care because many of the symptoms (e.g., fatigue, rash, joint pain) are nonspecific and overlap with those of more common conditions. Furthermore, biomarkers are often negative or normal early in the course of the illness. The most common presenting symptoms are constitutional, such as fatigue, weight loss, and fever without a focal infection, occurring in up to 90% of patients.9Other common presenting symptoms include arthralgia and myalgia, which occur in up to 95% of patients with SLE.10Less common presenting symptoms include malar rash (31%), photosensitivity (23%), pleuritic chest pain (16%), new-onset Raynaud phenomenon (16%), and mouth sores (12.5%).11"
+        },
+        {
+            "parent": 1,
+            "text": "Table 1lists the differential diagnosis.12"
+        },
+        {
+            "parent": 2,
+            "text": "SLE should be suspected in a patient with symptoms in at least two of the following organ systems: constitutional, musculoskeletal, skin, renal, neuropsychiatric, hematologic, cardiac, pulmonary, gastrointestinal, or reticuloendothelial.8Specific symptoms are listed inTable 2.8,13Discoid rash (positive likelihood ratio [LR+] = 18), malar rash (LR+ = 14), unexplained seizures or psychosis (LR+ = 13), and photosensitivity (LR+ = 11) provide the strongest evidence in favor of SLE.14"
+        },
+        {
+            "parent": 2,
+            "text": "Once SLE is suspected, the initial evaluation should include an antinuclear antibody (ANA) test.15This is a highly sensitive test, with positive results in about 94% of patients with SLE.15SLE is unlikely in a patient with negative results. However, it also has low specificity, and may be positive in healthy patients. Although most patients with SLE have positive ANA test results, most patients with positive ANA results do not have SLE. If results show a 1:40 titer or higher, more specific tests should be performed, including measurement of anti–double-stranded DNA (anti-dsDNA), anti-Smith, anti-RNP, anticardiolipin, and beta-2 glycoprotein antibodies and lupus anticoagulant; elevated levels of one or more of these biomarkers increase the likelihood of SLE. Similarly, low levels of complements C3 and C4 increase the likelihood of SLE.8Other tests that should be performed at initial evaluation include urinalysis, comprehensive metabolic panel, complete blood count, and direct Coombs test. The erythrocyte sedimentation rate (LR+ = 5.3 if greater than 100 mm per hour) and C-reactive protein level are useful to quantify disease activity.14"
+        },
+        {
+            "parent": 3,
+            "text": "Diagnosis of SLE begins with a high index of suspicion. The ACR has 11 diagnostic criteria for SLE8; if a patient meets at least four, SLE can be diagnosed with 95% specificity and 85% sensitivity.16,17The criteria include malar or discoid rash; photosensitivity; oral ulcers; arthritis; serositis; abnormal ANA titers; and renal, neurologic, hematologic, or immunologic disorders.8"
+        },
+        {
+            "parent": 3,
+            "text": "Figure 1presents an algorithm for diagnosis of SLE in the primary care setting.8"
+        },
+        {
+            "parent": 3,
+            "text": "In 2012, the Systemic Lupus International Collaborating Clinics (SLICC) revised and validated the ACR criteria.13In the SLICC system, a patient must meet at least four criteria, including at least one abnormal clinical criterion and one abnormal immunologic criterion, or the patient must have biopsy-confirmed lupus nephritis and elevated ANA or anti-dsDNA levels.13The SLICC criteria, which have not been endorsed by the ACR, have greater sensitivity (97%) but lower specificity (84%) compared with the ACR criteria.13Because the SLICC criteria have not been tested for the purpose of diagnosis, the ACR criteria continue to be the diagnostic standard.13"
+        },
+        {
+            "parent": 3,
+            "text": "Table 2compares the ACR and SLICC criteria.8,13"
+        },
+        {
+            "parent": 4,
+            "text": "There are many manifestations of SLE, and multiple organ systems may be affected(Table 3).8–11,18–21Fatigue and arthralgia are present in almost all patients with SLE, whereas renal involvement manifests in about 50% of patients.22The most important predictors of disease progression are older age at diagnosis, black race, and low income.23"
+        },
+        {
+            "parent": 4,
+            "text": "The management of SLE depends on the system involved. All patients with SLE should receive education, counseling, and support. Hydroxychloroquine (Plaquenil) is the cornerstone of treatment because it reduces disease flares and other constitutional symptoms.24,25Low-dose glucocorticoids can be used to treat most manifestations.Figure 2is an algorithm for managing SLE.8,24–31"
+        },
+        {
+            "parent": 5,
+            "text": "Musculoskeletal involvement is present in 95% of patients with SLE and manifests as arthralgias, myalgias, or nonerosive inflammatory arthritis.10The arthritis is usually symmetric and polyarticular, with a predilection for smaller joints. Fibromyalgia is also more common among patients with SLE. Antimalarials and low-dose glucocorticoids are first-line agents used to treat arthritis pain associated with SLE.26,32Hydroxychloroquine is favored over chloroquine (Aralen) because it is less toxic. Nonsteroidal anti-inflammatory drugs can be used as adjunctive therapy to treat joint pain."
+        },
+        {
+            "parent": 6,
+            "text": "About 70% to 80% of patients with SLE develop skin lesions during the course of disease.18Malar rash occurs in about 30% of patients.18Acute and subacute cutaneous lupus rash(Figure 3)can present anywhere on the body, but most commonly occurs on sun-exposed areas. Patients with SLE should use sunscreens with sun protective factors of 15 or higher.32Mucous membrane involvement, hair loss, and Raynaud phenomenon are also common(Figure 4)."
+        },
+        {
+            "parent": 7,
+            "text": "The visceral organ most commonly involved in SLE is the kidney.18Although almost all patients with SLE have immunoglobulin deposits in the glomeruli, only 50% develop clinical renal disease.22Screening for nephritis with urinalysis and serum creatinine measurement should be done at three- to six-month intervals.8,33When a patient with SLE has clinical or laboratory features that suggest nephritis, 24-hour urine testing for protein or a spot urine protein:creatinine ratio should be obtained.27Referral for renal biopsy should be considered in patients with proteinuria of at least 1 g in 24 hours, or at least 0.5 g in 24 hours with hematuria or cellular casts. A combination of glucocorticoid plus immunosuppressant is more effective than glucocorticoids alone in preserving renal function in patients with SLE.32Standard treatment includes mycophenolate (Cellcept) or cyclophosphamide plus a glucocorticoid.27–29,34"
+        },
+        {
+            "parent": 8,
+            "text": "The nervous system is affected in about 12% to 23% of patients with SLE.11Neuropsychiatric manifestations of SLE include headaches, seizures, cerebrovascular disease, psychosis, cranial neuropathy, and movement disorder.35Magnetic resonance imaging of the brain should be considered in patients with headache or seizure because white matter lesions are common in neuropsychiatric SLE.35Treatment includes glucocorticoids and cyclophosphamide.26,30,31"
+        },
+        {
+            "parent": 8,
+            "text": "Ocular manifestations are common in SLE. Keratoconjunctivitis sicca occurs in 25% of patients.18Anterior uveitis, keratitis, and episcleritis are less common.18,36Patients with SLE who have ocular pain and visual impairment require urgent evaluation by an ophthalmologist.36"
+        },
+        {
+            "parent": 8,
+            "text": "Although up to 90% of patients with SLE have fatigue,9there is currently no proven pharmacologic treatment for this symptom.37,38Aerobic exercise may help, but studies thus far have shown mixed results.21,39–41"
+        },
+        {
+            "parent": 9,
+            "text": "Hematologic abnormalities associated with SLE can include leukopenia, lymphopenia, hemolytic anemia, and thrombocytopenia.18Patients with severe leukopenia are at increased risk of infection, and patients with anemia may need supportive care and transfusion."
+        },
+        {
+            "parent": 10,
+            "text": "Premature-onset cardiovascular disease is much more common in women with SLE. Compared with an age-matched group in the Framingham cohort, women 35 to 44 years of age who had SLE had a greatly increased risk of myocardial infarction (rate ratio = 52; 95% confidence interval, 22 to 98).42The increased risk of accelerated atherosclerosis suggests that there are other SLE-related factors, such as renal disease, cytokines, inflammatory mediators, antiphospholipid antibodies, oxidized low-density lipoprotein, and adverse effects of treatment, that cause accelerated cardiovascular disease.19,43SLE is an independent risk factor for the development of atherosclerosis, and is identified as such by the American Heart Association.19,44"
+        },
+        {
+            "parent": 10,
+            "text": "It is important to counsel patients to reduce traditional cardiovascular risk factors such as smoking and obesity, and to have routine screenings for diabetes mellitus, hypertension, and dyslipidemia. The recent Joint National Committee-8 guideline for hypertension and the Adult Treatment Panel IV guideline for hyperlipidemia do not make separate recommendations for patients with SLE.45,46Family physicians should be aware of the increased risk of cardiovascular events in patients with SLE, and should take steps to optimize risk in accordance with national guidelines. Although guidelines do not address this need, patients with SLE may benefit from treatment with a statin because of their increased 10-year risk of a cardiovascular event.47,48Blood pressure should also be treated to a goal similar to that for patients with comorbid conditions such as diabetes (less than 140/90 mm Hg).44,45,47,49"
+        },
+        {
+            "parent": 11,
+            "text": "Lung involvement in SLE can vary from minor pleuritic pain in serositis to life-threatening complications such as alveolar hemorrhage.50Pleuritis occurs in 17% to 60% of patients with SLE.50,51Treatment is based on the type and severity of lung involvement, and may include glucocorticoids, immunosuppressive agents, and plasmaphersis.32,52"
+        },
+        {
+            "parent": 12,
+            "text": "Pregnant women with SLE have an increased risk of spontaneous abortions, stillbirths, and fetal growth restriction.26Pregnancy may also increase disease activity and precipitate disease flares.20Although women with SLE can use most contraceptive methods, those with antiphospholipid syndrome should not use estrogen-containing contraceptives because of an increased risk of thrombosis.53Women with recurrent pregnancy loss should be screened for antiphospholipid syndrome."
+        },
+        {
+            "parent": 13,
+            "text": "All patients with SLE should receive ongoing education, counseling, and support. Those with mild SLE that does not involve major organ systems can be monitored by primary care physicians.8Patients with increased disease activity, complications, or adverse effects from treatment should be referred to a rheumatologist.8Family physicians can monitor disease activity and therapy in patients with moderate to severe SLE.8"
+        },
+        {
+            "parent": 13,
+            "text": "Measurement of anti-dsDNA antibodies, complements, and creatinine; a complete blood count; and urinalysis should be performed every three to six months to monitor disease activity.8Annual eye examinations are required for patients receiving hydroxychloroquine.36Screening for dyslipidemia, diabetes, and osteoporosis should be performed regularly in patients receiving glucocorticoids. For patients with chronic kidney disease who are receiving long-term immunosuppressive therapy, immunization with 13-valent pneumococcal conjugate vaccine (Prevnar) followed by 23-valent pneumococcal polysaccharide vaccine (Pneumovax) should be considered.54Live vaccines should not be given to patients with SLE when they are receiving immunosuppressive therapy, and they should be delayed for at least one month after completion of the therapy.Table 4includes details for monitoring medications used in SLE treatment.8,24–27,55,56"
+        },
+        {
+            "parent": 13,
+            "text": "Patients with SLE have a higher mortality rate due to circulatory disease, infections, renal disease, non-Hodgkin lymphoma, and lung cancer.57Damage related to SLE is most common in the musculoskeletal (15%), neuropsychiatric (11%), cardiovascular (9%), and hematologic (3%) systems.57Osteoporosis is a potentially preventable complication of SLE.57The incidence of non-Hodgkin lymphoma is increased three- to fourfold compared with the general population.57"
+        },
+        {
+            "parent": 13,
+            "text": "Table 5describes recommendations for monitoring manifestations and complications related to SLE.8,27,36,49,54,57,58"
+        },
+        {
+            "parent": 13,
+            "text": "Data Sources: Searches were done in Essential Evidence Plus, Clinical Evidence, the Cochrane Database of Systematic Reviews, and DynaMed. Key terms included systemic lupus erythematosus, manifestation, treatment, and management. Search dates: January 28 to February 15, 2015; September 23, 2015; and April 8, 2016."
+        },
+        {
+            "parent": 13,
+            "text": "The authors thank Robert Langan, MD, FAAFP, for assistance with the manuscript."
+        },
+        {
+            "parent": 13,
+            "text": "NOTE:This review updates a previous article on this topic by Gill, et al.59"
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,125 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0315/p414.html#afp20130315p414-f1",
+    "title": "Preoperative Testing Before Noncardiac Surgery: Guidelines and Recommendations | AAFP",
+    "author": "MOLLY A. FEELY, MD, C. SCOTT COLLINS, MD, PAUL R. DANIELS, MD, ESAYAS B. KEBEDE, MD, AMINAH JATOI, MD, AND KAREN F. MAUCK, MD, MSc",
+    "doi": "Am Fam Physician.2013;87(6):414-418",
+    "abstract": "Preoperative testing (e.g., chest radiography, electrocardiography, laboratory testing, urinalysis) is often performed before surgical procedures. These investigations can be helpful to stratify risk, direct anesthetic choices, and guide postoperative management, but often are obtained because of protocol rather than medical necessity. The decision to order preoperative tests should be guided by the patient's clinical history, comorbidities, and physical examination findings. Patients with signs or symptoms of active cardiovascular disease should be evaluated with appropriate testing, regardless of their preoperative status. Electrocardiography is recommended for patients undergoing high-risk surgery and those undergoing intermediate-risk surgery who have additional risk factors. Patients undergoing low-risk surgery do not require electrocardiography. Chest radiography is reasonable for patients at risk of postoperative pulmonary complications if the results would change perioperative management. Preoperative urinalysis is recommended for patients undergoing invasive urologic procedures and those undergoing implantation of foreign material. Electrolyte and creatinine testing should be performed in patients with underlying chronic disease and those taking medications that predispose them to electrolyte abnormalities or renal failure. Random glucose testing should be performed in patients at high risk of undiagnosed diabetes mellitus. In patients with diagnosed diabetes, A1C testing is recommended only if the result would change perioperative management. A complete blood count is indicated for patients with diseases that increase the risk of anemia or patients in whom significant perioperative blood loss is anticipated. Coagulation studies are reserved for patients with a history of bleeding or medical conditions that predispose them to bleeding, and for those taking anticoagulants. Patients in their usual state of health who are undergoing cataract surgery do not require preoperative testing.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Electrocardiography",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Chest Radiography",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Routine Laboratory Tests",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "URINALYSIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ELECTROLYTE AND CREATININE TESTING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "GLUCOSE AND A1C TESTING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "COMPLETE BLOOD COUNT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Coagulation Testing",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Patients Undergoing Cataract Surgery",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The goal of preoperative evaluation is to identify and optimize conditions that increase perioperative morbidity and mortality. Historically, testing before noncardiac surgery involved a battery of standard tests applied to all patients (e.g., chest radiography, electrocardiography [ECG], laboratory testing, urinalysis). However, these tests often do not change perioperative management, may lead to follow-up testing with results that are often normal, and can unnecessarily delay surgery, all of which increase the cost of care. An extensive systematic review concluded that there was no evidence to support routine preoperative testing.1"
+        },
+        {
+            "parent": -1,
+            "text": "More recent practice guidelines continue to recommend testing in select patients guided by a perioperative risk assessment based on pertinent clinical history and examination findings, although this recommendation is based primarily on expert opinion or low-level evidence.2–9Many of the recommendations include wording such as “consider testing if ” or “testing may be reasonable.” Recommendations are not always user-friendly. For example, the National Institute for Clinical Excellence guideline, which may be the most scientifically rigorous of the group, includes 36 tables organized via a flowchart that physicians may reference to make a decision for or against testing.8Although the guideline is scholarly, its cumbersome nature renders it ineffective in a busy clinical setting."
+        },
+        {
+            "parent": -1,
+            "text": "Primary care physicians are in an ideal position to take an active role in the multidisciplinary, system-based approach to defining preoperative testing standards for their own institutions to provide high-quality, cost-effective health care. This article compares and contrasts key guidelines and the evidence they cite, and makes recommendations for the primary care physician evaluating the preoperative patient. Detailed charts outlining the individual guideline recommendations are available as an online appendix ."
+        },
+        {
+            "parent": 0,
+            "text": "Five guidelines address recommendations for preoperative ECG2–4,7,8; each is based primarily on low-level evidence and expert opinion. There is consensus among the guidelines that patients with active cardiovascular signs or symptoms should undergo ECG. The most widely accepted guideline in the United States advocates against ECG in patients undergoing low-risk surgery.4The dilemma arises in how to define low perioperative cardiac risk, and what to do for patients who do not have active cardiovascular symptoms and who are not undergoing low-risk surgery. A recommendation based solely on age is an attractive solution because of its simplicity, but fails to address the question of who is at risk of perioperative cardiac morbidity and mortality."
+        },
+        {
+            "parent": 0,
+            "text": "Surgical cardiac risk is considered low if the risk of a perioperative cardiac event is less than 1 percent, intermediate if 1 to 5 percent, and high if greater than 5 percent4,7(Table 14). Patients should have preoperative ECG before undergoing a high-risk procedure. Two guidelines recommend using the Revised Cardiac Risk Index (RCRI) to assess the risk of cardiac complications after noncardiac surgery4,7(Table 210). The RCRI consists of five clinical risk factors and one procedural risk factor. The procedural risk factor utilized by Lee in the RCRI combines high- and intermediate-risk surgeries, which complicates modern risk stratification. As such, current guidelines primarily utilize the clinical risk factors from the RCRI but not the procedural risk factor. ECG is recommended before intermediate-risk procedures in patients with at least one clinical risk factor identified by the RCRI; those with two or more clinical risk factors are at significantly higher risk of a major cardiac event. ECG is not needed in patients undergoing low-risk procedures(Figure 1)."
+        },
+        {
+            "parent": 1,
+            "text": "There is no high-quality evidence on the effectiveness of routine preoperative chest radiography. Five clinical guidelines make recommendations on the basis of low-level evidence and expert opinion.2,3,5,6,8The guidelines concur that routine preoperative chest radiography in asymptomatic, otherwise healthy patients is not indicated. They also agree that if the patient has new or unstable cardiopulmonary signs or symptoms on examination, chest radiography is clearly indicated, regardless of the procedure. Although abnormal findings on pre-operative screening radiography are fairly common, these findings are most often chronic and predictable by the history or physical examination, and only rarely alter perioperative management.5,11"
+        },
+        {
+            "parent": 1,
+            "text": "Risk factors for perioperative pulmonary complications include chronic obstructive pulmonary disease, age older than 60 years, American Society of Anesthesiologists score of 2 or greater, functional dependence, hypoalbuminemia, congestive heart failure, emergency procedure, prolonged procedures, and certain surgical sites (e.g., upper abdomen, head, neck).5,12However, there is no evidence that preoperative chest radiography in patients at risk of perioperative pulmonary complications alters outcomes more than findings from the history and physical examination.5The American College of Physicians states that chest radiography should not be used routinely for predicting risk of postoperative pulmonary complications.5Patients who should have chest radiography include those with new or unstable cardiopulmonary signs or symptoms, and patients at increased risk of postoperative pulmonary complications only if the results will alter perioperative management (i.e., inform decisions or postpone surgery)."
+        },
+        {
+            "parent": 3,
+            "text": "Urinalysis has been performed routinely before elective surgery. Case series have shown that abnormalities were observed in up to 34 percent of patients, but these results led to a change in management less than 14 percent of the time, and of those patients, less than 1 percent had postoperative complications.8Two guidelines reviewed evidence based on case series and expert opinion.3,8There is little evidence that an abnormal result is associated with postoperative complications,1and predictive values of routine urinalysis in asymptomatic patients are poor.13Guideline consensus on the basis of expert opinion is that routine urinalysis is not recommended in asymptomatic patients except in those undergoing surgical implantation of foreign material (e.g., prosthetic joint, heart valve) or invasive urologic procedures."
+        },
+        {
+            "parent": 4,
+            "text": "The electrolyte panel and creatinine measurement have been obtained routinely as part of the preoperative evaluation. No trials have documented changes in outcomes among patients who had electrolyte testing before surgical procedures.8Three guidelines made recommendations on preoperative electrolyte testing,2,3,8based on expert opinion and low-level evidence.1One guideline advocates obtaining serum blood urea nitrogen and creatinine measurements in patients older than 40 years.8However, the consensus is that findings from the history and physical examination, rather than age alone, should guide decisions about electrolyte and renal function testing. Compelling historical findings (e.g., hypertension, heart failure, chronic kidney disease, complicated diabetes mellitus, liver disease) and certain medications (e.g., diuretics, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs, digoxin) should drive the decision to perform preoperative electrolyte and creatinine testing.2,3,8"
+        },
+        {
+            "parent": 5,
+            "text": "There is no clear consensus on preoperative glucose testing. One guideline recommends considering the clinical setting to determine the need for preoperative serum chemistry evaluation, a test that includes random glucose measurement.3Another recommends glucose testing on the basis of comorbid conditions, surgical risk, and medication use.8This guideline does not recommend glucose testing for patients with well-controlled diabetes."
+        },
+        {
+            "parent": 5,
+            "text": "Careful perioperative glucose management affects the surgical outcomes of patients with diabetes. However, the incidence of occult diabetes in the presurgical population is low (0.5 percent).13Therefore, the guidelines reflect the opinion that preoperative glucose assessment should be undertaken when the results would alter perioperative management. Because random glucose testing reflects diabetes control over only the past few hours, preoperative random glucose testing in patients with known diabetes rarely alters perioperative management. In patients with known diabetes, the preoperative A1C value is more likely to be useful if results would change perioperative management. The guidelines suggest that preoperative random glucose measurement could be considered in patients at very high risk of undiagnosed diabetes on the basis of history, examination, or use of certain medications (e.g., glucocorticoids), and in patients with signs or symptoms of undiagnosed diabetes."
+        },
+        {
+            "parent": 6,
+            "text": "A complete blood count (CBC)—specifically, measurement of hemoglobin and hematocrit values—is often obtained as part of the preoperative assessment. Although evidence suggests that the preoperative hematocrit value may predict postoperative mortality, the prevalence of anemia is relatively low.14Thus, the question of who to test is important."
+        },
+        {
+            "parent": 6,
+            "text": "Multiple professional groups have made recommendations about preoperative CBC, hemoglobin, and hematocrit testing.2,3,8These recommendations are based on low-level evidence or expert opinion. None of the guidelines recommend indiscriminate preoperative CBC or hemoglobin testing. Instead, the consensus is to recommend testing for select patients based on conditions that would increase the pretest probability of diagnosing anemia (e.g., a chronic inflammatory condition, chronic kidney disease, chronic liver disease, clinical signs or symptoms of anemia) or procedures in which significant blood loss is anticipated. This may necessitate a conversation with the surgeon about the expected blood loss for a given procedure. However, at a minimum, if the surgeon orders a type and cross (as opposed to a type and screen) in preparation for a procedure, it is likely that significant blood loss is anticipated. In this case, baseline hemoglobin and hematocrit measurements can help assess the blood loss and inform the need for transfusion."
+        },
+        {
+            "parent": 7,
+            "text": "Coagulation-related tests (e.g., prothrombin time, activated partial thromboplastin time, platelet count) are often performed preoperatively to identify previously undetected disorders of hemostasis. The goal is to unmask disorders that could increase the risk of surgical bleeding. However, the prevalence of inherited coagulopathies is low, and in patients with the most common disorder (von Willebrand disease), results of routine coagulation tests may be normal."
+        },
+        {
+            "parent": 7,
+            "text": "Several groups provide guidance on preoperative coagulation testing, and concur that indiscriminate preoperative coagulation testing is not warranted.2,3,8,9As with CBC testing, the consensus is that coagulation testing be reserved for patients with medical conditions associated with impaired hemostasis (e.g., liver disease, diseases of hematopoiesis), patients taking anticoagulants, and those whose history or examination findings suggest an underlying coagulation disorder (e.g., history of spontaneous bruising or excessive surgical bleeding, family history of a known heritable coagulopathy). Bleeding history should be obtained from all surgical patients, and appropriate coagulation testing should be considered if the history is abnormal."
+        },
+        {
+            "parent": 8,
+            "text": "Cataract surgery is addressed separately because it is an area with excellent evidence-based data to drive decision making about preoperative testing. Patients in their usual state of health who are undergoing cataract surgery do not require preoperative testing.15,16A large randomized controlled trial in which more than 19,000 patients undergoing cataract surgeries were randomly assigned to no preoperative testing or to usual care revealed no difference in outcomes between the two groups, and abnormal preoperative test results did not predict outcomes.15This opinion was reinforced by a 2012 Cochrane review.16"
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources:A search of PubMed and Scopus was performed using the key terms preoperative, perioperative, guidelines, and preoperative test. Also searched were the Cochrane Database of Systematic Reviews, the U.S. Preventive Services Task Force, National Guideline Clearinghouse, Institute for Clinical Systems Improvement, Physicians' Information and Education Resource (American College of Physicians' PIER), and the Agency for Healthcare Research and Quality evidence reports. Bibliographies of pertinent documents were also reviewed. Search dates: July 12 and 13, 2011, and August 10, 2011."
+        }
+    ],
+    "locked": false
+}

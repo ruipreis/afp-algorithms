@@ -1,0 +1,137 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0515/p1748.html#afp20060515p1748-f1",
+    "title": "Assessment of Microscopic Hematuria in Adults | AAFP",
+    "author": "MARY M. MCDONALD, M.D., DANIEL SWAGERTY, M.D., M.P.H., AND LOUIS WETZEL, M.D.",
+    "doi": "Am Fam Physician.2006;73(10):1748-1754",
+    "abstract": "Microscopic hematuria, a common finding on routine urinalysis of adults, is clinically significant when three to five red blood cells per high-power field are visible. Etiologies of microscopic hematuria range from incidental causes to life-threatening urinary tract neoplasm. The lack of evidence-based imaging guidelines can complicate the family physician's decision about the best way to proceed. Patients with proteinuria, red cell casts, and elevated serum creatinine levels should be referred promptly to a nephrology subspecialist. Microscopic hematuria with signs of urinary tract infection should resolve with appropriate treatment of the underlying infection. Patients with asymptomatic microscopic hematuria or with hematuria persisting after treatment of urinary tract infection also need to be evaluated. Because upper and lower urinary tract pathologies often coexist, patients should be evaluated using cytology plus intravenous urography, computed tomography, or ultrasonography. When urine cytology results are abnormal, cystoscopy should be performed to complete the investigation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology and Clinical Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Radiographic Assessment of the Upper Urinary Tract",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "INTRAVENOUS UROGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "RENAL ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Evaluation of the Lower Urinary Tract",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "URINE CYTOLOGY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CYSTOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Follow-up",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The prevalence of asymptomatic microscopic hematuria in adults ranges from 0.19 to 21 percent.1The range is wide because of differing definitions of clinically significant microscopic hematuria and varying ages of the study populations. Urine normally contains a few red blood cells, and microscopic hematuria generally is defined as one to 10 red blood cells per high-power field of urine sediment.2The American Urological Association (AUA) defines clinically significant microscopic hematuria as three or more red blood cells per high-power field on microscopic evaluation of urinary sediment from two of three properly collected urinalysis specimens.1,3Each laboratory, however, establishes its own thresholds based on the method of detection used and in reference to healthy persons as controls. Urine dipstick evaluation may be misleading because it lacks the ability to distinguish red blood cells from myoglobin or hemoglobin. Therefore, a positive finding of microscopic hematuria on urinary dipstick testing requires follow-up examination by microscopic technique to confirm the presence of red blood cells."
+        },
+        {
+            "parent": -1,
+            "text": "Microscopic hematuria, unlike gross hematuria, is often an incidental finding but may be associated with urologic malignancy in up to 10 percent of adults.4,5Despite this risk, results of a recent study6revealed that 39 to 90 percent of persons with microscopic hematuria on screening urinalysis received no follow-up testing. Microscopic hematuria presents a challenging clinical scenario for family physicians. Obtaining a thorough history and physical examination and assessing each patient's risk factors for urothelial cancer can assist physicians in choosing how to proceed with radiographic evaluation of the upper urinary tract, urine cytology, or cystoscopy. An algorithmic approach to the diagnosis and management of microscopic hematuria is provided inFigure 1."
+        },
+        {
+            "parent": 0,
+            "text": "The etiologies of microscopic hematuria are numerous and range from clinically insignificant causes to potentially life-threatening neoplastic lesions5(Table 12,3,7–9). In one study5of 1,930 patients who had complete urologic evaluation for hematuria, 982 had microscopic hematuria. Nearly one in five patients with microscopic hematuria had significant disease compared with about one in three patients with gross hematuria. In this study,592 (9.4 percent) of the patients with microscopic hematuria had cancer. Evaluation of the upper urinary tract followed by cystoscopy fails to identify the source of microscopic hematuria in 19 to 68 percent of patients.2,5,10–14Finally, the younger the patient, the less likely it is the etiology will be identified.15"
+        },
+        {
+            "parent": 0,
+            "text": "Although screening asymptomatic patients is not generally recommended,1microscopic hematuria is still diagnosed incidentally by urine dipstick studies. Many available urine dipstick tests are so sensitive that they can detect as few as one or two red blood cells per high-power field.2However, these tests cannot distinguish among myoglobin, hemoglobin, and red blood cells. Urine dipstick testing is 91 to 100 percent sensitive and 65 to 99 percent specific for detection of red blood cells, hemoglobin, and myoglobin.16–19A positive finding on urine dipstick testing should be evaluated further by microscopic analysis to confirm the finding of red blood cells."
+        },
+        {
+            "parent": 0,
+            "text": "The most typical clinical scenario for finding microscopic hematuria is during the evaluation of patients with suspected urinary tract infection. The urine dipstick may reveal blood as well as the leukocyte esterase, nitrites, and bacteria consistent with the patient's symptoms. In such cases, treatment with antibiotics should lead to resolution of microscopic hematuria as demonstrated by follow-up urine studies six weeks after therapy. When microscopic hematuria resolves in this scenario, no further evaluation is necessary.1"
+        },
+        {
+            "parent": 0,
+            "text": "Transient microscopic hematuria can be caused by vigorous physical exercise, sexual intercourse, trauma, digital rectal prostate examination, or menstrual contamination. If transient microscopic hematuria is suspected, follow-up urine studies should demonstrate resolution 48 hours after the discontinuation of these activities. It should be noted, however, that renal cell carcinoma and urothelial tumors also may present with transient microscopic hematuria.2"
+        },
+        {
+            "parent": 0,
+            "text": "Obtaining a history can reveal important clues about the cause of microscopic hematuria. Medications should be reviewed carefully because several common medications such as analgesics and extended-spectrum penicillins can cause hematuria(Table 27,9). Routine use of warfarin (Coumadin) should not cause hematuria unless there is an underlying urologic abnormality.3A brief travel and occupation history may reveal risk factors for pathogen or chemical exposure associated with hematuria(Table 12,3,7–9)."
+        },
+        {
+            "parent": 0,
+            "text": "Because the history and physical examination often fail to identify the probable etiology of asymptomatic microscopic hematuria, physicians should evaluate patients for signs of glomerular disease. Findings in support of glomerular etiology include proteinuria (i.e., greater than 300 mg in a 24-hour urine sampling), elevated creatinine levels, red cell casts, or dysmorphic red blood cells.1,2In one study15involving 165 adults with microscopic hematuria who received renal biopsies, it was revealed that nearly one half of participants had renal abnormalities consistent with glomerular disease, most often immunoglobulin A nephropathy or thin basement membrane nephropathy. Glomerular causes of microscopic hematuria warrant prompt referral to a nephrology subspecialist for further investigation and possible renal biopsy.2"
+        },
+        {
+            "parent": 0,
+            "text": "In the event that infection, harmless transient microscopic hematuria, or a glomerular etiology is not identified, patients should receive upper urinary tract imaging, urine cytology, and perhaps cystoscopy. Nonglomerular sources of microscopic hematuria are summarized inTable 1.2,3,7–9"
+        },
+        {
+            "parent": 1,
+            "text": "Intravenous urography, ultrasonography, and computed tomography (CT) often are used to evaluate the upper urinary tract of persons with microscopic hematuria. Although many studies have been conducted comparing the three radiographic methods, no clear evidence-based imaging guidelines are available.1"
+        },
+        {
+            "parent": 2,
+            "text": "Traditionally, intravenous urography(Figure 2)has been the initial radiographic approach for the evaluation of the upper urinary tract in patients with microscopic hematuria.7,20It defines the anatomy of the urologic tract from the kidney to the bladder, and its advantages include relatively low cost and ready availability.8One concern regarding intravenous urography as the sole radiographic evaluation of microscopic hematuria is its limited sensitivity for detecting small renal masses.21In a recent study,21investigators found that intravenous urography identified 85 percent of lesions greater than 3 cm in diameter but only 21 to 52 percent of smaller lesions. Intravenous urography is superior to CT in detecting transitional cell carcinoma involving the kidney or ureter but has limited application in the evaluation of the bladder and urethra.7Patients undergoing intravenous urography are exposed to contrast media that is potentially nephrotoxic, especially to patients with renal insufficiency. The cost savings of intravenous urography may be offset by the frequent need for follow-up study with ultrasonography or CT for indeterminate findings or to better characterize a renal lesion as cystic or solid."
+        },
+        {
+            "parent": 3,
+            "text": "Ultrasonography(Figure 3)is the least expensive and safest choice for evaluating microscopic hematuria because it does not expose the patient to intravenous radiographic contrast medium. It is also an appropriate choice for the evaluation of hematuria during pregnancy. Although ultrasonography is limited in its ability to detect solid tumors that are less than 3 cm in diameter,22masses 3 cm or greater in diameter, cysts, and hydronephrosis are detected with a high degree of sensitivity.20Ultrasonography has been found to be more sensitive than intravenous urography in detecting renal cell carcinoma but less so in detecting urothelial transitional cell carcinoma.1,20The sensitivity of ultrasonography for detecting renal calculi has been found to be 64 to 96 percent, significantly lower than with noncontrast CT.20"
+        },
+        {
+            "parent": 4,
+            "text": "Microscopic hematuria associated with renal colic is best evaluated with CT in light of its high sensitivity for identifying renal calculi.21,23Unenhanced helical CT(Figure 4)is more accurate for evaluating patients with renal colic compared with ultrasonography, intravenous urography, or plain radiography and has replaced these imaging techniques as the test of choice in many institutions.23When compared with intravenous urography, unenhanced helical CT has the advantage of higher accuracy, decreased radiation dose, faster examination time, and improved sizing and localization of stones."
+        },
+        {
+            "parent": 4,
+            "text": "Contrast-enhanced CT(Figure 5)has favorable sensitivity over intravenous urography or ultrasonography for identifying small renal parenchymal masses. Contrast-enhanced CT also enables detection of aneurysms in vessels that run along the ureter, a potentially life-threatening, albeit uncommon, condition.21Renal and perirenal abscesses are best evaluated by contrast-enhanced CT.1After a renal mass has been identified by intravenous urography or ultrasonography, CT likely would be indicated as follow-up evaluation to better characterize the mass as a simple cyst, complex cyst, or solid mass, or to stage for surgical planning. This alone may warrant initial evaluation by CT despite its higher cost."
+        },
+        {
+            "parent": 4,
+            "text": "Although not widely supported in the literature, magnetic resonance imaging can be used to assess the upper urinary tract. Its high cost and lack of availability in many locations often are prohibitive, and CT is approximately as sensitive in detecting small parenchymal masses.7In select cases, angiography may be helpful if a small arteriovenous malformation is a concern.7"
+        },
+        {
+            "parent": 5,
+            "text": "Identifying an abnormality in the upper urinary tract does not preclude evaluation of the lower urinary tract because a comorbid lesion may exist. The etiology of asymptomatic microscopic hematuria remains unclear in 70 percent of patients after imaging of the upper urinary tract and assessment of urine for signs of glomerular disease.2Urine cytology studies and cystoscopy are used routinely to evaluate the lower urinary tract."
+        },
+        {
+            "parent": 6,
+            "text": "The AUA recommends that patients with microscopic hematuria have radiographic assessment of the upper urinary tract followed by urine cytology studies.1Voided urine cytology studies are less sensitive (66 and 79 percent in two studies) than cystoscopy for the evaluation of bladder cancer.2The sensitivity can be optimized by following urine collection protocols in which urine is collected from the first void of the morning on three consecutive days.2Urine cytology does, however, have high specificity (95 and 100 percent in two studies).2The sensitivity of urine cytology is highest for detection of high-grade lesions in the bladder and carcinoma in situ.24The primary advantage of urine cytology versus cystoscopy is that because it is noninvasive, it does not cause the patient any discomfort. Urine cytology is limited in its ability to detect low-grade lesions in the bladder as well as renal cell cancer.24"
+        },
+        {
+            "parent": 7,
+            "text": "The AUA recommends that all patients older than 40 years and those who are younger but have risk factors for bladder cancer obtain cystoscopy to complete the evaluation of microscopic hematuria.1Abnormal urine cytology findings also would necessitate cystoscopy, which has 87 percent sensitivity for bladder cancer.2Cystoscopy is the only reliable method of detecting transitional cell carcinoma of the bladder and the urethra.8The primary disadvantages of cystoscopy are patient discomfort with this invasive procedure and its limited ability to detect carcinoma in situ of the bladder.24"
+        },
+        {
+            "parent": 8,
+            "text": "There has been some debate about the recommended follow-up for patients with idiopathic microscopic hematuria. An acceptable approach would include repeat urinalysis with urine cytology every six months and repeated cystoscopy every year.6This is especially important for persons older than 40 years and younger persons who have risk factors for urothelial cancer (i.e., smoking history, occupational exposure to benzenes or aromatic amines [e.g., leather dye, rubber, tire industries], or history of urologic neoplasm)."
+        },
+        {
+            "parent": 8,
+            "text": "Understanding the strengths and weaknesses of each radiographic modality with data from the history and physical examination can help family physicians select the most appropriate starting point for evaluation of the upper urinary tract. Urine cytology studies alone may provide sufficient evaluation of the lower urinary tract in certain low-risk patients. It should be emphasized that patients older than 40 years and those who have identifiable risk factors for urothelial neoplasms merit referral to a urology subspecialist for cystoscopy."
+        }
+    ],
+    "locked": false
+}

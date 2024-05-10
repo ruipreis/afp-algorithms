@@ -1,0 +1,241 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0801/p227.html#afp20160801p227-f1",
+    "title": "Treating Painful Diabetic Peripheral Neuropathy: An Update | AAFP",
+    "author": "MATTHEW J. SNYDER, DO, LAWRENCE M. GIBBS, MD, AND TAMMY J. LINDSAY, MD",
+    "doi": "Am Fam Physician.2016;94(3):227-234",
+    "abstract": "Painful diabetic peripheral neuropathy occurs in approximately 25% of patients with diabetes mellitus who are treated in the office setting and significantly affects quality of life. It typically causes burning pain, paresthesias, and numbness in a stocking-glove pattern that progresses proximally from the feet and hands. Clinicians should carefully consider the patient's goals and functional status and potential adverse effects of medication when choosing a treatment for painful diabetic peripheral neuropathy. Pregabalin and duloxetine are the only medications approved by the U.S. Food and Drug Administration for treating this disorder. Based on current practice guidelines, these medications, with gabapentin and amitriptyline, should be considered for the initial treatment. Second-line therapy includes opioid-like medications (tramadol and tapentadol), venlafaxine, desvenlafaxine, and topical agents (lidocaine patches and capsaicin cream). Isosorbide dinitrate spray and transcutaneous electrical nerve stimulation may provide relief in some patients and can be considered at any point during therapy. Opioids and selective serotonin reuptake inhibitors are optional third-line medications. Acupuncture, traditional Chinese medicine, alpha lipoic acid, acetyl-l-carnitine, primrose oil, and electromagnetic field application lack high-quality evidence to support their use.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pharmacologic Treatment Options",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "ANTICONVULSANTS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "TRICYCLIC ANTIDEPRESSANTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "SEROTONIN-NOREPINEPHRINE REUPTAKE INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "OPIOID-LIKE MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Topical Medications",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "ISOSORBIDE DINITRATE SPRAY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "LIDOCAINE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CAPSAICIN",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Alternative Medications",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "SELECTIVE SEROTONIN REUPTAKE INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "OPIOIDS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Other Treatments",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "ACUPUNCTURE",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "ALPHA LIPOIC ACID",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "ACETYL-L-CARNITINE",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "TRANSCUTANEOUS ELECTRICAL NERVE STIMULATION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Painful diabetic peripheral neuropathy (DPN) occurs in approximately 30% of patients with diabetes mellitus who are hospitalized and in 25% of patients with diabetes who are treated in the office setting.1It develops as a late manifestation of uncontrolled or long-standing diabetes.1As many as 12% of patients with painful DPN do not report symptoms, and 39% of patients with the disorder do not receive any treatment.2"
+        },
+        {
+            "parent": -1,
+            "text": "Distal symmetric polyneuropathy, which is characterized by burning pain, paresthesias, and numbness that follows a stocking-glove pattern and progresses proximally, occurs in approximately 26% of patients with DPN. Less than 20% of patients with diabetes experience dynamic mechanical allodynia (pain in response to stroking lightly), thermal hyperalgesia (increased sensitivity to pain by thermal stimuli), or pain attacks."
+        },
+        {
+            "parent": -1,
+            "text": "Poorly controlled blood glucose levels, especially greater variation in glucose levels, contribute to the occurrence and severity of painful DPN.3A 2012 Cochrane review of two randomized controlled trials (RCTs; n = 1,228) found that enhanced glucose control in patients with type 1 diabetes significantly reduced the risk of developing DPN (risk difference = 1.84%; 95% confidence interval [CI], −1.11 to −2.56). A similar analysis of four RCTs in patients with type 2 diabetes, however, did not show a statistically significant reduction in the rate of DPN with enhanced glucose control.4Cardiovascular risk factors, including age, tobacco use, hypertension, obesity, dyslipidemia, and peripheral artery disease, are also associated with an increased risk of painful DPN.1"
+        },
+        {
+            "parent": -1,
+            "text": "Pharmacologic and nonpharmacologic interventions are available for the treatment of painful DPN. However, there are few high-quality, head-to-head clinical trials comparing these therapeutic approaches, and because the available studies use varying methodologies, it is difficult to know which treatment strategy may be most effective."
+        },
+        {
+            "parent": 0,
+            "text": "Only two medications, pregabalin (Lyrica) and duloxetine (Cymbalta), have been approved by the U.S. Food and Drug Administration (FDA) for the treatment of DPN. Guidelines from national organizations such as the American Academy of Neurology, however, recommend the use of a broader range of medications."
+        },
+        {
+            "parent": 0,
+            "text": "Clinicians should consider the patient's age, health-related quality-of-life goals, physical function, and comorbidities, as well as the possible adverse effects of medication use, in the management of pharmacologic therapy. Additionally, medication dosages and the duration of therapy should be regulated and titrated based on regular patient feedback regarding pain relief, improved function, and adverse effects.1"
+        },
+        {
+            "parent": 0,
+            "text": "Figure 1presents a treatment algorithm for painful DPN based on available evidence.1–3,5–8Selected medications and their dosages, costs, and numbers needed to treat (NNTs) are presented inTable 1.1,7,9–14Table 2lists common adverse effects of medications used to treat painful DPN.3,12,13,15Common drug interactions are described inTable 3.16"
+        },
+        {
+            "parent": 1,
+            "text": "Anticonvulsants, including topiramate (Topamax), valproate (Depacon), oxcarbazepine (Trileptal), lamotrigine (Lamictal), and lacosamide (Vimpat), as well as the newer calcium channel alpha-2-delta ligand class anticonvulsants (gabapentin [Neurontin] and pregabalin), have been studied for the treatment of painful DPN. Based on a recent meta-analysis, both the American Academy of Neurology and Toronto guidelines recommend pregabalin as the first-line medication for painful DPN, with gabapentin as the first-line alternative.3"
+        },
+        {
+            "parent": 1,
+            "text": "Pregabalin provides consistent pain relief based on a dose-dependent response compared with placebo. A meta-analysis of seven RCTs (n = 1,596) comparing pregabalin with placebo showed that dosages of 300 mg daily and 600 mg daily (or divided twice daily) resulted in greater than 50% pain reduction in 39% and 47% of patients, respectively, vs. 22% with placebo. Onset of action occurred at five days with 300 mg and at four days with 600 mg. Dosing at 150 mg daily was ineffective.1–3"
+        },
+        {
+            "parent": 1,
+            "text": "Common adverse reactions to pregabalin(Table 23,12,13,15)produced discontinuation rates of 9.8% (300 mg) and 14.6% (600 mg).1Pregabalin had similar effectiveness to amitriptyline in relieving painful DPN with fewer adverse events (18% vs. 43%,P< .0001).1Health-related quality-of-life measures including social functioning, mental health, bodily pain, and vitality all improved, and sleep interference decreased with pregabalin administration.2,3"
+        },
+        {
+            "parent": 1,
+            "text": "Gabapentin at dosages of 1,200 mg daily or greater is more effective than placebo and has been shown to have an effect similar to pregabalin (8% to 13% reduction in symptoms) based on nine RCTs (n = 1,604). Compared with amitriptyline, similar effectiveness was noted in at least five RCTs."
+        },
+        {
+            "parent": 1,
+            "text": "Pregabalin is preferred to gabapentin as a first-line medication because of the availability of higher-quality studies on its effects, more predictable pharmacokinetics, shorter titration periods, and the option for twice-daily dosing. [corrected] Nonetheless, gabapentin has few drug interactions and is the less expensive generic option.1,3Compared with pregabalin, which improves numerous quality-of-life measures, the only quality-of-life measures improved with gabapentin are mental health and vitality.2"
+        },
+        {
+            "parent": 1,
+            "text": "Few high-quality studies have investigated the effectiveness of valproate, topiramate, carbamazepine (Tegretol), oxcarbazepine, lamotrigine, and lacosamide. Thus, these agents are not recommended for the treatment of painful DPN.2,17"
+        },
+        {
+            "parent": 2,
+            "text": "Amitriptyline is an effective first-line medication for younger adults.1,3A 2011 systematic review of three RCTs studied the effects of amitriptyline vs. placebo in patients with painful DPN. Amitriptyline had 43% more responders (at least 20% pain reduction) than placebo, reducing pain by 58% to 63% on a five-point pain scale.2Lower-quality evidence from a 2015 Cochrane review of four RCTs including 382 patients with all causes of neuropathic pain showed that amitriptyline use led to a statistically significant benefit (relative risk = 2.0; 95% CI, 1.5 to 2.8; NNT = 5).18Health-related quality-of-life outcomes were not studied."
+        },
+        {
+            "parent": 2,
+            "text": "Despite its potential for benefit, amitriptyline is associated with significant adverse anticholinergic effects in up to one-third of patients(Table 23,12,13,15), and its use should be avoided in older adults and monitored with caution in other patients. For other tricyclic antidepressants (i.e., imipramine, desipramine, and nortriptyline [Pamelor]), 11 RCTs provide insufficient high-quality evidence to determine whether they are effective treatments for painful DPN.2,19,20"
+        },
+        {
+            "parent": 3,
+            "text": "Duloxetine is a first-line medication that received FDA approval in 2004 for treating painful DPN.1–3,21A 2014 Cochrane review of eight studies (n = 2,728) showed that duloxetine at 60 mg daily led to at least 50% pain reduction at 12 weeks (NNT = 5; 95% CI, 4 to 7) vs. placebo.9Furthermore, a 2011 multicenter RCT (n = 272) showed duloxetine at 60 mg daily to be noninferior to pregabalin at 300 mg daily in patients with an inadequate pain response to treatment with gabapentin over a 12-week period.22Duloxetine has also been shown to be effective and tolerable in the management of painful DPN in older adults.23"
+        },
+        {
+            "parent": 3,
+            "text": "Other serotonin-norepinephrine reuptake inhibitors (SNRIs) that are used for the treatment of painful DPN include venlafaxine and desvenlafaxine (Pristiq). Although they are considered second-line medications, these SNRIs are often better tolerated and have fewer drug interactions than amitriptyline, one of the first-line medications."
+        },
+        {
+            "parent": 3,
+            "text": "A 2004 trial showed that higher doses of venlafaxine (150 to 225 mg) led to greater improvements in pain scores than placebo.24A 2007 Cochrane review of three studies of venlafaxine for general neuropathic pain showed an NNT of 3 (95% CI, 2.2 to 5.1).10"
+        },
+        {
+            "parent": 3,
+            "text": "A 2014 RCT (n = 412) showed desvenlafaxine at dosages of 200 and 400 mg daily to be more effective than placebo in relieving pain associated with DPN, based on a decrease of approximately one point on a 10-point pain rating scale, as well as in improving activity impairment at all doses.11"
+        },
+        {
+            "parent": 4,
+            "text": "Tramadol, a synthetic, centrally-acting opioid-like medication, has also been studied for the treatment of painful DPN. A 2006 Cochrane review of four trials comparing tramadol with placebo showed a significant reduction in neuropathic pain with tramadol at daily dosages of 100 to 400 mg.7A subsequent meta-analysis of three of these trials (n = 303) found an NNT of 4 (95% CI, 2.8 to 6.3) for at least 50% pain relief with tramadol vs. placebo.7"
+        },
+        {
+            "parent": 4,
+            "text": "Extended-release tapentadol (Nucynta ER), another opioid-like medication, received FDA approval in 2012 for use in the treatment of general neuropathic pain (i.e., not specifically for painful DPN).25In 2011, a 12-week study (n = 395) demonstrated statistically significant pain relief in patients who were treated with tapentadol (30% pain reduction = 65%; 50% pain reduction = 34.9%; least-squares mean difference of −1.3; 95% CI, −1.70 to −0.92;P< .001) vs. placebo.13These positive findings were largely echoed by a later 12-week study comparing tapentadol at dosages of 100 to 250 mg twice daily vs. placebo.26"
+        },
+        {
+            "parent": 5,
+            "text": "Isosorbide dinitrate spray, lidocaine 5% patch or plaster, and capsaicin 0.075% cream should also be considered for the treatment of painful DPN.2"
+        },
+        {
+            "parent": 6,
+            "text": "Isosorbide dinitrate is a vasodilator and smooth-muscle relaxant that produced an 18% pain score reduction when sprayed on the skin of areas affected by painful DPN in one small RCT of 22 patients.2,27It can be introduced at any time as an adjunctive treatment."
+        },
+        {
+            "parent": 7,
+            "text": "Lidocaine 5% patch or medicated plaster treatment resulted in comparable pain relief (30% to 50% response) to that of pregabalin (66.7% vs. 69.1%; one RCT, n = 204). Greater improvement in quality-of-life scores and fewer adverse effects occurred in the lidocaine group than in the pregabalin group.28"
+        },
+        {
+            "parent": 8,
+            "text": "Treatment with capsaicin 0.075% cream applied to the painful area four times daily resulted in significant pain relief (50% pain reduction; odds ratio [OR] = 2.37; 95% CI, 1.32 to 4.26) but also adverse events that led to withdrawal from the study (OR = 4.02; 95% CI, 1.45 to 11.06).27A 2014 systematic review of three RCTs revealed the superiority of capsaicin 0.075% to placebo (standardized mean deviation [SMD] = −0.91; 95% credible interval [CrI], −1.18 to −0.08, large), but not to tricyclic antidepressants (SMD = −0.13; 95% CrI, −1.03 to 0.74, small) or SNRIs (SMD = 0.45; 95% CrI, −0.49 to 1.36, small).15The primary adverse effect is burning at the application site, which improves with longer duration of treatment."
+        },
+        {
+            "parent": 8,
+            "text": "Other concentration levels and combination treatments have also been studied. Notably, combining capsaicin 0.025% with doxepin 3.3% led to decreased skin irritation compared with capsaicin alone (one RCT, n = 200, 61% vs. 81% reduction in skin irritation).29"
+        },
+        {
+            "parent": 10,
+            "text": "Selective serotonin reuptake inhibitors are considered third-line medications for treatment of painful DPN because of a lack of high-quality studies supporting their benefit.5Citalopram (Celexa), paroxetine (Paxil), and escitalopram (Lexapro) appear to be mildly effective for treating painful DPN, whereas fluoxetine (Prozac) does not. Combined data from four small studies reveal an NNT of 7 for pain reduction with this class of medications.30"
+        },
+        {
+            "parent": 11,
+            "text": "Despite concerns about dependency and lower-quality evidence for the benefit of chronic opioid therapy for nonmalignant pain,12guidelines suggest a possible benefit for patients with painful DPN.2,5,31However, monotherapy with opioids is not a first-line treatment and should be reserved for patients who do not achieve pain relief goals and functional improvement with other therapies.2,5Notably, most studies on the use of opioids for neuropathic pain are short-term studies.14Chronic opioid use leads to tolerance and hyperalgesia.32"
+        },
+        {
+            "parent": 11,
+            "text": "A 2013 Cochrane review of 14 RCTs (n = 845, 12-week duration or less) analyzed the use of opioids for general neuropathic pain. The review evaluated the effectiveness of methadone, levorphanol, morphine, and controlled-release oxycodone and found that opioids demonstrated superior pain relief compared with placebo (greater than 33% pain relief = 57% vs. 34%; NNT = 4; 95% CI, 2.7 to 7.7; greater than 50% pain relief = 47% vs. 30%; NNT = 6; 95% CI, 3.0 to 50.0).12Treatment with opioids did not, however, result in improvement in many aspects of emotional or physical functioning, as measured by various validated questionnaires. In contrast, a 2014 Cochrane review assessing the use of controlled-release oxycodone (three studies, n = 204) in the treatment of painful DPN found insufficient evidence to support its role in therapy.33"
+        },
+        {
+            "parent": 13,
+            "text": "Acupuncture, which has been the focus of 75 low-quality RCTs; traditional Chinese medicine, which typically includes acupuncture and herbal medicine; and electromagnetic field application are not currently recommended for the treatment of painful DPN because large, high-quality RCTs are lacking.2,34–36"
+        },
+        {
+            "parent": 14,
+            "text": "Alpha lipoic acid is an antioxidant substance that has been studied for treatment of neuropathic pain. Based on a 2012 meta-analysis (n = 448), alpha lipoic acid (600 mg) administered intravenously daily for three weeks led to a decrease in reported neuropathic pain for up to one year (standardized mean symptom score reduction = −2.81; 95% CI, −4.16 to −1.46,P= .0001). However, studies investigating long-term clinical improvement are lacking. Oral administration did not produce a clinically significant symptom score reduction.1,37"
+        },
+        {
+            "parent": 15,
+            "text": "Acetyl-l-carnitine, based on a 2008 meta-analysis of two RCTs (n = 1,679), and primrose oil, based on three small RCTs, demonstrated an improvement in nerve conduction but a lack of clinically significant long-term improvement in symptom scores.38,39"
+        },
+        {
+            "parent": 16,
+            "text": "The results of several small studies suggest that transcutaneous electrical nerve stimulation (TENS) should be considered as a treatment for painful DPN.40An RCT involving 31 participants showed that 15 of 18 (83%) patients receiving TENS had improved pain scores (reduction from 3.17 to 1.44 on a 5-point scale) vs. five of 13 (38%) patients receiving sham treatments (reduction from 2.98 to 2.38).41In another small RCT (n = 19), pain scores were reduced by 27% with six weeks of TENS therapy.42TENS can be started at any time during therapy as an adjunct to other treatments."
+        },
+        {
+            "parent": 16,
+            "text": "Data Sources: The primary literature search was completed with Essential Evidence Plus and included searches of the Cochrane database, PubMed, and National Guideline Clearinghouse with the terms diabetic neuropathies and diabetic neuropathy. In addition, a PubMed search was completed using the terms diabetic neuropathy pain treatment, anticonvulsants, tricyclic antidepressant, alpha lipoic acid, primrose oil, and alternative medicine. Search date: November 20, 2015."
+        },
+        {
+            "parent": 16,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of Saint Louis University, the U.S. Air Force Medical Service, or the U.S. Air Force at large."
+        },
+        {
+            "parent": 16,
+            "text": "This review updates a previous article on this topic by Lindsay, Rodgers, Savath, and Hettinger.43"
+        }
+    ],
+    "locked": false
+}

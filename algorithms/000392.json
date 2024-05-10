@@ -1,0 +1,196 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0115/p98.html#afp20130115p98-f2",
+    "title": "Iron Deficiency Anemia: Evaluation and Management | AAFP",
+    "author": "MATTHEW W. SHORT, LTC, MC, USA, AND JASON E. DOMAGALSKI, MAJ, MC, USA",
+    "doi": "Am Fam Physician.2013;87(2):98-104",
+    "abstract": "Iron deficiency is the most common nutritional disorder worldwide and accounts for approximately one-half of anemia cases. The diagnosis of iron deficiency anemia is confirmed by the findings of low iron stores and a hemoglobin level two standard deviations below normal. Women should be screened during pregnancy, and children screened at one year of age. Supplemental iron may be given initially, followed by further workup if the patient is not responsive to therapy. Men and postmenopausal women should not be screened, but should be evaluated with gastrointestinal endoscopy if diagnosed with iron deficiency anemia. The underlying cause should be treated, and oral iron therapy can be initiated to replenish iron stores. Parenteral therapy may be used in patients who cannot tolerate or absorb oral preparations.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "MEN AND POSTMENOPAUSAL WOMEN",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PREGNANT WOMEN",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Causes",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Iron Therapy",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "PREMENOPAUSAL WOMEN",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MEN AND POSTMENOPAUSAL WOMEN",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "UNDERLYING CAUSE",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ORAL IRON THERAPY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "PARENTERAL IRON THERAPY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "MONITORING",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "BLOOD TRANSFUSION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Iron deficiency anemia is diminished red blood cell production due to low iron stores in the body. It is the most common nutritional disorder worldwide and accounts for approximately one-half of anemia cases.1,2Iron deficiency anemia can result from inadequate iron intake, decreased iron absorption, increased iron demand, and increased iron loss.3Identifying the underlying etiology and administering the appropriate therapy are keys to the evaluation and management of this condition."
+        },
+        {
+            "parent": 0,
+            "text": "Diagnosis of iron deficiency anemia requires laboratory-confirmed evidence of anemia, as well as evidence of low iron stores.4Anemia is defined as a hemoglobin level two standard deviations below normal for age and sex(Table 1).5"
+        },
+        {
+            "parent": 0,
+            "text": "A complete blood count can be helpful to determine the mean corpuscular volume or red blood cell size. Although iron deficiency is the most common cause of microcytic anemia, up to 40 percent of patients with iron deficiency anemia will have normocytic erythrocytes.2As such, iron deficiency should still be considered in all cases of anemia unless the mean corpuscular volume is greater than 95 μm3(95 fL), because this cutoff has a sensitivity of 97.6 percent.6Other causes of microcytosis include chronic inflammatory states, lead poisoning, thalassemia, and sideroblastic anemia.1"
+        },
+        {
+            "parent": 0,
+            "text": "The following diagnostic approach is recommended in patients with anemia and is outlined inFigure 1.2,6–11A serum ferritin level should be obtained in patients with anemia and a mean corpuscular volume less than 95 μm3. Ferritin reflects iron stores and is the most accurate test to diagnose iron deficiency anemia.7Although levels below 15 ng per mL (33.70 pmol per L) are consistent with a diagnosis of iron deficiency anemia, using a cutoff of 30 ng per mL (67.41 pmol per L) improves sensitivity from 25 to 92 percent, and specificity remains high at 98 percent.8,12Ferritin is also an acute phase reactant and can be elevated in patients with chronic inflammation or infection. In patients with chronic inflammation, iron deficiency anemia is likely when the ferritin level is less than 50 ng per mL (112.35 pmol per L).7Ferritin values greater than or equal to 100 ng per mL (224.70 pmol per L) generally exclude iron deficiency anemia.9,10"
+        },
+        {
+            "parent": 0,
+            "text": "In patients with no inflammatory states and in whom the ferritin level is indeterminate (31 to 99 ng per mL [69.66 to 222.45 pmol per L]), further tests can be performed to ascertain iron status. Values consistent with iron deficiency include a low serum iron level, low transferrin saturation, and a high total iron-binding capacity.2"
+        },
+        {
+            "parent": 0,
+            "text": "Soluble transferrin receptor and erythrocyte protoporphyrin testing, or bone marrow biopsy can be considered if the diagnosis remains unclear.2The soluble transferrin receptor level is an indirect measure of erythropoiesis and is increased in patients with iron deficiency anemia.8Another benefit of this test is that the soluble transferrin receptor level is unaffected by inflammatory states and can help identify concomitant iron deficiency anemia in patients with anemia of chronic disease.12Erythrocyte protoporphyrin is a heme precursor and accumulates in the absence of adequate iron stores.11If other tests are indeterminate and suspicion for iron deficiency anemia persists, the absence of stainable iron in a bone marrow biopsy is considered the diagnostic standard.2"
+        },
+        {
+            "parent": 2,
+            "text": "Asymptomatic men and postmenopausal women should not be screened for iron deficiency anemia. Testing should be performed in patients with signs and symptoms of anemia, and a complete evaluation should be performed if iron deficiency is confirmed.13"
+        },
+        {
+            "parent": 3,
+            "text": "The American Academy of Family Physicians, U.S. Preventive Services Task Force, and Centers for Disease Control and Prevention recommend routine screening of asymptomatic pregnant women for iron deficiency anemia.4,11,14The American College of Obstetricians and Gynecologists recommends screening for anemia and implementing iron therapy if iron deficiency anemia is confirmed.15The defined values consistent with anemia in pregnancy are hemoglobin levels less than 11 g per dL (110 g per L) in the first or third trimester, or less than 10.5 g per dL (105 g per L) in the second trimester.16A maternal hemoglobin level of less than 6 g per dL (60 g per L) has been associated with poor fetal outcomes, including death.15"
+        },
+        {
+            "parent": 4,
+            "text": "The American Academy of Pediatrics recommends universal hemoglobin screening and evaluation of risk factors for iron deficiency anemia in all children at one year of age.16Risk factors include low birth weight, history of prematurity, exposure to lead, exclusive breastfeeding beyond four months of life, and weaning to whole milk and complementary foods without iron-fortified foods.16The Centers for Disease Control and Prevention recommends screening children from low-income or newly immigrated families at nine to 12 months of age, and consideration of screening for preterm and low-birth-weight infants before six months of age if they are not given iron-fortified formula.14The U.S. Preventive Services Task Force found insufficient evidence for screening in asymptomatic children six to 12 months of age and does not make recommendations for other ages.4A meta-analysis showed that infants in whom cord clamping was delayed for up to two minutes after birth had a reduced risk of low iron stores for up to six months.17Larger randomized studies that include maternal outcomes are needed before delayed cord clamping can be recommended for general practice."
+        },
+        {
+            "parent": 5,
+            "text": "Once iron deficiency anemia is identified, the goal is to determine the underlying etiology. Causes include inadequate iron intake, decreased iron absorption, increased iron demand, and increased iron loss(Table 2).5,7,18,19"
+        },
+        {
+            "parent": 6,
+            "text": "Premenopausal women with a negative evaluation for abnormal uterine bleeding can be given a trial of iron therapy. In children and pregnant women, iron therapy should be tried initially. Current guidelines recommend empiric treatment in children up to two years of age and in pregnant women with iron deficiency anemia; however, if the hemoglobin level does not increase by 1 g per dL (10 g per L) after one month of therapy in children or does not improve in pregnant women, further evaluation may be indicated.4,15,16In pregnant patients, poor compliance or intolerance should be considered, and parenteral iron may produce a better response.15"
+        },
+        {
+            "parent": 7,
+            "text": "The evaluation should begin with a thorough history and physical examination to help identify the cause of iron deficiency. The history should focus on potential etiologies and may include questions about diet, gastrointestinal (GI) symptoms, history of pica or pagophagia (i.e., compulsive consumption of ice), signs of blood loss (e.g., epistaxis, menorrhagia, melena, hematuria, hematemesis), surgical history (e.g., gastric bypass), and family history of GI malignancy. Patients with iron deficiency anemia are often asymptomatic and have limited findings on examination. Further evaluation should be based on risk factors(Figure 2).10,15,17–21"
+        },
+        {
+            "parent": 8,
+            "text": "Excessive menstruation is a common cause of iron deficiency anemia in premenopausal women in developed countries; however, a GI source (particularly erosive lesions in the stomach or esophagus) is present in 6 to 30 percent of cases.20,22,23If the gynecologic workup is negative and the patient does not respond to iron therapy, endoscopy should be performed to exclude an occult GI source.20,22,23"
+        },
+        {
+            "parent": 8,
+            "text": "Excessive or irregular menstrual bleeding affects 9 to 14 percent of all women and can lead to varying degrees of iron deficiency anemia.24Etiologies include thyroid disease, uncontrolled diabetes mellitus, polycystic ovary syndrome, coagulopathies, uterine fibroids, endometrial hyperplasia, hyperprolactinemia, and use of antipsychotics or antiepileptics. Initial evaluation includes a history, physical examination, and pregnancy and thyroid-stimulating hormone tests. An endometrial biopsy should be considered in women 35 years and younger who have conditions that could lead to unopposed estrogen exposure, in women older than 35 years who have suspected anovulatory bleeding, and in women with abnormal uterine bleeding that does not respond to medical therapy.25"
+        },
+        {
+            "parent": 9,
+            "text": "In men and postmenopausal women, GI sources of bleeding should be excluded. Current recommendations support upper and lower endoscopy; however, there are no clear guidelines about which procedure should be performed first or if the second procedure is necessary if a source is found on the first study.18Lesions that occur simultaneously in the upper and lower tracts are rare, occurring in only 1 to 9 percent of patients.18However, one study showed that 12.2 percent of patients diagnosed with celiac disease and iron deficiency anemia had a secondary source of anemia, including three cases of colon cancer.26A study of patients with iron deficiency anemia of unknown etiology in the primary care setting found that 11 percent had newly diagnosed GI cancer.27Additionally, a cohort study found that 6 percent of patients older than 50 years and 9 percent of those older than 65 years will be diagnosed with a GI malignancy within two years of a diagnosis of iron deficiency anemia.28Celiac serology should also be considered for all adults presenting with iron deficiency anemia.18Upper endoscopy with duodenal biopsies should be performed to confirm the diagnosis after positive serologic testing and to evaluate for additional etiologies.29"
+        },
+        {
+            "parent": 9,
+            "text": "In patients in whom endoscopy may be contraindicated because of procedural risk, radiographic imaging may offer sufficient screening. The sensitivity of computed tomographic colonography for lesions larger than 1 cm is greater than 90 percent.7The use of barium enema is less reliable, but may be of use if colonoscopy or computed tomographic colonography is not available."
+        },
+        {
+            "parent": 9,
+            "text": "If initial endoscopy findings are negative and patients with iron deficiency anemia do not respond to iron therapy, repeat upper and lower endoscopy may be justified. In some instances, lesions may not be detected on initial examination (e.g., missed mucosal erosions in a large hiatal hernia, suboptimal preparation for colonoscopy, inadequate biopsy of a suspected lesion).13Colonoscopy can fail to diagnose up to 5 percent of colorectal tumors.13"
+        },
+        {
+            "parent": 9,
+            "text": "Additional evaluation of the small intestine is not necessary unless there is inadequate response to iron therapy, the patient is transfusion dependent, or fecal occult blood testing suggests that the patient has had obscure GI bleeding with the source undiscovered on initial or repeat endoscopy.30In these cases, further evaluation with capsule endoscopy should be considered.30Enteroscopy is an upper endoscopy procedure using a longer scope to visualize the proximal jejunum; it should be reserved to treat or biopsy lesions identified by capsule endoscopy. This test is a second-line technique for evaluating the small bowel because it is complicated by the level of sedation and duration of procedure.13Magnetic resonance imaging enteroclysis, computed tomographic enterography, or barium studies may also be considered, but have a limited ability to identify most small bowel lesions, which are mucosal and flat.7"
+        },
+        {
+            "parent": 11,
+            "text": "Patients with an underlying condition that causes iron deficiency anemia should be treated or referred to a subspecialist (e.g., gynecologist, gastroenterologist) for definitive treatment."
+        },
+        {
+            "parent": 12,
+            "text": "The dosage of elemental iron required to treat iron deficiency anemia in adults is 120 mg per day for three months; the dosage for children is 3 mg per kg per day, up to 60 mg per day.1An increase in hemoglobin of 1 g per dL after one month of treatment shows an adequate response to treatment and confirms the diagnosis.16In adults, therapy should be continued for three months after the anemia is corrected to allow iron stores to become replenished7(Figure 36,28,31)."
+        },
+        {
+            "parent": 12,
+            "text": "Adherence to oral iron therapy can be a barrier to treatment because of GI adverse effects such as epigastric discomfort, nausea, diarrhea, and constipation. These effects may be reduced when iron is taken with meals, but absorption may decrease by 40 percent.1Medications such as proton pump inhibitors and factors that induce gastric acid hyposecretion (e.g., chronic atrophic gastritis, recent gastrectomy or vagotomy) are associated with reduced absorption of dietary iron and iron tablets.31"
+        },
+        {
+            "parent": 13,
+            "text": "Parenteral therapy may be used in patients who cannot tolerate or absorb oral preparations, such as those who have undergone gastrectomy, gastrojejunostomy, bariatric surgery, or other small bowel surgeries. The most common indications for intravenous therapy include GI effects, worsening symptoms of inflammatory bowel disease, unresolved bleeding, renal failure–induced anemia treated with erythropoietin, and insufficient absorption in patients with celiac disease.32"
+        },
+        {
+            "parent": 13,
+            "text": "Parenteral treatment options are outlined inTable 3.2,16Serious adverse effects have occurred in up to 0.7 percent of patients receiving iron dextran, with 31 recorded fatalities reported between 1976 and 1996.32,33Iron sucrose and sodium ferric gluconate (Ferrlecit) have greater bio-availability and a lower incidence of life-threatening anaphylaxis compared with iron dextran.2Approximately 35 percent of patients receiving iron sucrose have mild adverse effects (e.g., headache, nausea, diarrhea).7One small study cited similar adverse effect profiles between intravenous iron dextran and sodium ferric gluconate, with only one serious adverse effect reported in the iron dextran group.34If this finding is duplicated in larger studies, it could support the use of iron dextran over sodium ferric gluconate, because the total dose can be given in one sitting. A newer formulation, ferumoxytol, can be given over five minutes and supplies 510 mg of elemental iron per infusion, allowing for greater amounts of iron in fewer infusions compared with iron sucrose.2"
+        },
+        {
+            "parent": 14,
+            "text": "There are no standard recommendations for follow-up after initiating therapy for iron deficiency anemia; however, one suggested course is to recheck complete blood counts every three months for one year. If hemoglobin and red blood cell indices remain normal, one additional complete blood count should be obtained 12 months later. A more practical approach is to recheck the patient periodically; no further follow-up is necessary if the patient is asymptomatic and the hematocrit level remains normal.7"
+        },
+        {
+            "parent": 15,
+            "text": "There is no universally accepted threshold for transfusing packed red blood cells in patients with iron deficiency anemia. Guidelines often specify certain hemoglobin values as indications to transfuse, but the patient's clinical condition and symptoms are an essential part of deciding whether to transfuse.35Transfusion is recommended in pregnant women with hemoglobin levels of less than 6 g per dL because of potentially abnormal fetal oxygenation resulting in non-reassuring fetal heart tracings, low amniotic fluid volumes, fetal cerebral vasodilation, and fetal death.15If transfusion is performed, two units of packed red blood cells should be given, then the clinical situation should be reassessed to guide further treatment.35"
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms iron deficiency and anemia. The search included meta-analyses, randomized controlled trials, controlled trials, and reviews. Searches were also performed using Essential Evidence Plus, the Cochrane database, the National Guideline Clearinghouse database, the Trip Database, DynaMed, and the Agency for Healthcare Research and Quality evidence reports. Search date: January 10, 2012."
+        }
+    ],
+    "locked": false
+}

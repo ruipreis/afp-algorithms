@@ -1,0 +1,238 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/1100/p461.html#afp20211100p461-f1",
+    "title": "Recent-Onset Altered Mental Status: Evaluation and Management | AAFP",
+    "author": "BRIAN VEAUTHIER, MD, JAIME R. HORNECKER, PharmD, AND TABITHA THRASHER, DO",
+    "doi": "Am Fam Physician.2021;104(5):461-470",
+    "abstract": "Potential precipitating factors for the recent onset of altered mental status (AMS) include primary central nervous system insults, systemic infections, metabolic disturbances, toxin exposure, medications, chronic systemic diseases, and psychiatric conditions. Delirium is also an important manifestation of AMS, especially in older people who are hospitalized. Clinicians should identify and treat reversible causes of the AMS, some of which require urgent intervention to minimize morbidity and mortality. A history and physical examination guide diagnostic testing. Laboratory testing, chest radiography, and electrocardiography help diagnose infections, metabolic disturbances, toxins, and systemic conditions. Neuroimaging with computed tomography or magnetic resonance imaging should be performed when the initial evaluation does not identify a cause or raises concern for intracranial pathology. Lumbar puncture and electroencephalography are also important diagnostic tests in the evaluation of AMS. Patients at increased risk of AMS benefit from preventive measures. The underlying etiology determines the definitive treatment. When intervention is needed to control patient behaviors that threaten themselves or others, nonpharmacologic interventions are preferred to medications. Physical restraints should rarely be used and only for the shortest time possible. Medications should be used only when nonpharmacologic treatments are ineffective.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes of Recent AMS",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "URGENT INTERVENTION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "IDENTIFYING THE CAUSE OF AMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TESTING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "NEUROIMAGING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "LUMBAR PUNCTURE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ELECTROENCEPHALOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "PATIENTS WITH UNDERLYING DEMENTIA",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "NONPHARMACOLOGIC TREATMENTS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "MEDICATION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Altered mental status (AMS) can present as changes in consciousness, appearance, behavior, mood, affect, motor activity, or cognitive function.1–3Recent changes are the focus of this article and are approached differently than chronic changes. Recent changes occur within seconds to days and usually pose a more immediate threat to a patient's well-being than chronic changes.2–4"
+        },
+        {
+            "parent": -1,
+            "text": "AMS is common and is estimated to account for 5% of adult emergency department encounters.5Older people are especially susceptible, as evidenced by their high rates of delirium(Table 1).6Additionally, AMS is associated with poor patient outcomes, especially when recognition is delayed.7,8"
+        },
+        {
+            "parent": -1,
+            "text": "The differential diagnosis for AMS is broad. A history and physical examination are the cornerstones of diagnosis, and their findings guide diagnostic testing. Preventive measures can decrease incidence and are important to use in patients at high risk. The goal of treatment is to correct the precipitating cause of the AMS.2,3,9–11"
+        },
+        {
+            "parent": 0,
+            "text": "Causes of recent AMS include primary central nervous system insults, systemic infections, metabolic disturbances, toxin exposure, medications, chronic systemic diseases, and psychiatric conditions(Table 2).2–4,9,10Although a single abnormality may cause the alteration in mental status (e.g., opiate overdose), often the cause is multifactorial (e.g., dehydration, constipation, high-risk medication use).2–4,9,10"
+        },
+        {
+            "parent": 0,
+            "text": "Among the most common and important presentations of AMS is delirium, especially in older adults who are hospitalized.6,9The hallmarks of delirium are acute, fluctuating changes in attention, awareness, and cognition that are not attributable to a neurocognitive disorder. Evidence of a secondary cause of AMS is often also present.6,9Other features include sleep disturbances, hallucinations, delusions, inappropriate behavior, and emotional instability.11Delirium was reviewed in a previousAmerican Family Physicianarticle.6"
+        },
+        {
+            "parent": 1,
+            "text": "Changes in consciousness, appearance, behavior, mood, affect, or motor activity are usually apparent by general observation and interaction with the patient."
+        },
+        {
+            "parent": 2,
+            "text": "AMS can be caused by a life-threatening condition. Therefore, the first step in evaluating the patient is addressing abnormalities in the airway, breathing, and circulation (ABCs;Figure 1).2,3,10,12–18"
+        },
+        {
+            "parent": 2,
+            "text": "Once the ABCs have been stabilized, clinicians should evaluate for other conditions for which rapid intervention is needed to decrease the risk of morbidity and mortality. Abnormal vital signs may identify an obvious cause such as hypothermia, hypoxemia, or a hypertensive emergency, and such abnormalities should be addressed urgently.2,3,10"
+        },
+        {
+            "parent": 2,
+            "text": "A point-of-care glucose level should be obtained, and if hypoglycemia is present, glucose should be administered immediately unless the patient is at risk of thiamine deficiency (e.g., alcoholism, gastric bypass surgery). Then thiamine must be administered before glucose to avoid Wernicke encephalopathy (i.e., AMS, oculomotor dysfunction, and ataxia due to thiamine deficiency).2,3,10"
+        },
+        {
+            "parent": 2,
+            "text": "If concern exists for intracranial hemorrhage (e.g., anticoagulated state, head trauma) or ischemic stroke (e.g., focal abnormalities found during a neurologic examination), neuroimaging should be performed immediately to determine the next steps for care. Patients with a hemorrhage may require urgent surgery, and those with ischemic stroke can be triaged for reperfusion.2,3,10"
+        },
+        {
+            "parent": 2,
+            "text": "Patients with status epilepticus need urgent anticonvulsive therapy and serum sodium testing. Patients with suspected sepsis require fluid resuscitation, urgent broad-spectrum antibiotics after cultures are obtained, and source control. Similarly, if meningitis is suspected, antibiotics at appropriate doses are urgently required following neuroimaging and lumbar puncture. If clinical suspicion is high and lumbar puncture will be delayed, antibiotics should be given empirically. When an opiate overdose is suspected, naloxone should be administered immediately.2,3,10"
+        },
+        {
+            "parent": 3,
+            "text": "After addressing the need for immediate interventions, a complete history should be obtained to identify the cause of a patient's AMS. A surrogate historian is often needed.2,3,9,10"
+        },
+        {
+            "parent": 3,
+            "text": "Baseline cognitive function should be clarified. The timing of the onset of mental status changes is also important because abrupt and severe changes indicate a more serious pathology. The results of numerous observational assessments and answers to questions asked directly to the patient (when possible) can often suggest a cause1–3,10(Table 31)."
+        },
+        {
+            "parent": 3,
+            "text": "Delirium is common but frequently overlooked, and is associated with serious medical conditions; therefore, assessment for delirium should always be considered in patients with acute AMS, especially in those at high risk(Table 4).6,9,11The Confusion Assessment Method is a widely used, validated tool to identify delirium with a high sensitivity (94% to 100%) and specificity (90% to 95%)11(Table 56). The 4 A's test is also a reliable screening tool (sensitivity of 89.7% and specificity of 84.1%) and is available athttps://www.mdcalc.com/4-test-delirium-screening.11The ultra-brief test requires only two questions—What is the day of the week?andName the months of the year backwards—and has a sensitivity of 93% and specificity of 64%. The high sensitivity makes it useful to rule out delirium when both questions are answered correctly, but a positive test (i.e., incorrect answers) requires confirmation with a tool such as the Confusion Assessment Method.11,19"
+        },
+        {
+            "parent": 3,
+            "text": "A thorough medication history, including new or recent changes in prescription medications, over-the-counter medications, herbal products, and nutritional supplements, is essential. Consulting the patient's pharmacy may help with this task. Comorbid medical conditions, recent surgeries or procedures, and the use of alcohol and recreational drugs can increase the risk of or cause AMS and should be identified.2,3,9,10"
+        },
+        {
+            "parent": 3,
+            "text": "Other aspects of the history should focus on associated symptoms or events of infection, trauma, neurologic changes, and headaches, any of which might identify a precipitating cause. A complete review of systems may uncover additional factors (e.g., constipation, urinary retention) contributing to AMS.2,3,9,10"
+        },
+        {
+            "parent": 4,
+            "text": "The neurologic examination is important to identify AMS and determine the cause. In addition to the mental status examination, cranial nerves, motor function, reflexes, sensation, and coordination should be evaluated. Focal abnormalities can suggest intracranial pathology such as stroke, neoplasm, or demyelinating conditions. If a patient is exhibiting asterixis, it suggests metabolic encephalopathy.1–3,10,12"
+        },
+        {
+            "parent": 4,
+            "text": "Attention to eye and vision abnormalities can also provide important diagnostic clues. Visual field defects can indicate a stroke. Pupillary abnormalities may be present with substance abuse, stroke, or pending cerebral herniation. The ability to perform extraocular movements may differentiate a suspected comatose patient from one with a locked-in syndrome. Ophthalmoplegia is an important finding of Wernicke encephalopathy, and nystagmus can identify drug intoxication or stroke. Papilledema suggests increased intracranial pressure.2,3,10"
+        },
+        {
+            "parent": 4,
+            "text": "Examination of the head, ears, nose, and throat should focus on signs of trauma and infection. When examining the neck, thyroid abnormalities and meningismus are important findings that suggest thyroid disorders and nervous system infections, respectively. Examination of the heart, lungs, and abdomen can indicate important systemic causes of AMS, such as heart failure, pneumonia, and decompensated hepatic disease.2,3,10"
+        },
+        {
+            "parent": 4,
+            "text": "Examination of the skin can show signs of chronic systemic disease (e.g., jaundice), systemic infection (e.g., petechiae), or local infection with cellulitis or abscess, or locate medication patches. A musculoskeletal examination may identify inflamed joints indicating infection or an autoimmune condition.2,3,10"
+        },
+        {
+            "parent": 4,
+            "text": "A genitourinary and rectal examination can identify infection. The rectal examination can show gastrointestinal bleeding or neurologic compromise when tone is reduced.2,3,10"
+        },
+        {
+            "parent": 5,
+            "text": "The history and physical examination guide diagnostic testing; however, the following initial tests can be considered for all patients with AMS when the diagnosis is not clear: complete blood count, electrolytes, liver function tests, serum ammonia, blood urea nitrogen, creatinine, phosphorus, magnesium, blood gas analysis, thyroid testing, blood culture, urinalysis, viral antigen or polymerase chain reaction tests when community prevalence is high, toxicology screening, chest radiography, and electrocardiography.2,3,10"
+        },
+        {
+            "parent": 5,
+            "text": "Considering that the above tests are noninvasive and relatively inexpensive, they should be used liberally, especially when the etiology is not clear from the history and physical examination. Additional tests to consider when initial evaluation is not diagnostic are adrenal function, erythrocyte sedimentation rate, C-reactive protein, extended toxicology screening, and serologic testing for autoimmune disorders.2,3,10"
+        },
+        {
+            "parent": 6,
+            "text": "Unless the etiology is clear and the risk of intracranial pathology is low, neuroimaging should be included in the initial assessment of recent AMS.12–14Patients with trauma, anticoagulation, hypertension, hypertensive emergency, headache, nausea or vomiting, clinical concern for infection, new-onset seizure, neurologic findings on examination, history of cancer, older age, and a known intracranial process all require imaging.Neuroimaging should be performed in patients who did not previously receive imaging and in whom initial therapy has failed. In patients with new-onset delirium, imaging should be considered if there is no other obvious precipitating cause.13"
+        },
+        {
+            "parent": 6,
+            "text": "Noncontrast computed tomography (CT) of the head is the initial study for most patients. Noncontrast CT is widely available, can be completed quickly, identifies most pathology requiring urgent intervention, and is better tolerated by patients than magnetic resonance imaging (MRI). If MRI is available and tolerated by the patient, it can also be the initial imaging study and is preferred to CT if the progression of an inflammatory process (e.g., multiple sclerosis) is suspected. Contrast is helpful when infection, tumor, inflammatory pathology, or vascular abnormalities are suspected.13–15"
+        },
+        {
+            "parent": 6,
+            "text": "MRI should be considered when CT was the initial study but was not diagnostic; it can detect pathology not evident on CT such as acute, minor, or posterior circulation ischemia, encephalitis, subtle subarachnoid hemorrhages, and inflammatory conditions. MRI may also be indicated to better define pathology found on CT.13–15"
+        },
+        {
+            "parent": 7,
+            "text": "Lumbar puncture can help identify several causes of AMS, including meningitis, encephalitis, subarachnoid hemorrhage, autoimmune conditions, and metastases to the subarachnoid space. When there is clinical suspicion for meningitis, a lumbar puncture is mandatory. Standard testing of cerebrospinal fluid includes a cell count with differential, protein, glucose, and culture. Obtaining additional fluid for freezing is prudent because other testing may be needed.2,3,20"
+        },
+        {
+            "parent": 7,
+            "text": "For patients with immunosuppression, the threshold for lumbar puncture should be low, and testing for infectious agents will need to be broadened beyond standard testing. Consulting an infectious disease specialist should be considered for these patients.2,3"
+        },
+        {
+            "parent": 7,
+            "text": "Patients with AMS have an increased risk of intracranial pathology that could result in cerebral herniation from a lumbar puncture. Therefore, neuroimaging should be done before performing a lumbar puncture.2,3,21"
+        },
+        {
+            "parent": 8,
+            "text": "Electroencephalography is an important study to rule out nonconvulsive seizures, which may occur in 8% to 30% of patients with AMS without an obvious cause.16It can also help diagnose metabolic encephalopathy and infectious encephalitis.17,18A normal electroencephalogram may help exclude a suspected seizure disorder and support a primary psychiatric cause of AMS."
+        },
+        {
+            "parent": 9,
+            "text": "Patients with dementia have an increased risk of AMS.6,9,11Clinicians are often challenged to determine if deficits are chronic or new, and substantial efforts should be made to identify the patient's baseline status. Clinicians should balance the risk of unnecessary testing and intervention for chronic situations the clinician may be unaware of vs. missing a new treatable condition causing AMS. Advance directives and input from the family can help guide evaluation and treatment decisions."
+        },
+        {
+            "parent": 9,
+            "text": "A common pitfall for patients with dementia who are in a care facility is inappropriately attributing AMS to a urinary tract infection. Many patients who are institutionalized have asymptomatic bacteriuria, and treatment is not indicated unless a urinary infection with symptoms is present.22Management should focus on identifying other causes for the patient's AMS."
+        },
+        {
+            "parent": 10,
+            "text": "When patients are at risk of AMS, particularly for delirium, nonpharmacologic preventive measures can decrease incidence, especially in those who are hospitalized.6,9,11The use of multiple measures through a multidisciplinary team approach is most effective. There is no convincing evidence to support the use of medications to prevent AMS or delirium.6,9,11"
+        },
+        {
+            "parent": 11,
+            "text": "Definitive therapy for AMS is treatment of the underlying causes or the removal of precipitating agents. However, when patients' behaviors threaten themselves or others before a reversible cause can be identified or fully treated, intervention is needed to avoid harm. In these situations, nonpharmacologic interventions are the treatment of choice.2,3,6,10,11"
+        },
+        {
+            "parent": 12,
+            "text": "Reassurance and use of de-escalation techniques by staff, family, or friends can be effective. Reducing artificial lighting and other environmental stimuli such as monitoring alarms can also help calm patients. A family member or assigned staff can stay at the patient's bedside to ensure that patients do not harm themselves. Additional measures include those used for AMS or delirium prevention(Table 66,9,11)."
+        },
+        {
+            "parent": 12,
+            "text": "Physical restraints are not considered standard interventions and should rarely be used, and then only as a last resort and for the shortest time possible.2,6,9–11"
+        },
+        {
+            "parent": 13,
+            "text": "Medication to manage behaviors associated with AMS should be used only when nonpharmacologic measures are not effective, and then only when it is essential to control behavior. Studies evaluating the effectiveness of medications used for their sedative effects yield conflicting results and may cause harm due to adverse effects.11,23,24Antipsychotics have historically been used off-label to treat delirium; however, a recent systematic review does not support the use of these agents in hospitalized adults with delirium.24Anti-psychotics also carry a U.S. Food and Drug Administration boxed warning about an increased risk of death when used in older adults with dementia-related psychosis."
+        },
+        {
+            "parent": 13,
+            "text": "Benzodiazepines should generally be avoided unless they are being used to treat alcohol withdrawal or seizures because they may worsen delirium. For any agent, the lowest effective dose for the minimum time necessary should be used. Medications used when nonpharmacologic modalities fail are listed ineTable A."
+        },
+        {
+            "parent": 13,
+            "text": "Data Sources:PubMed (including use of the Clinical Queries feature), the Cochrane Database of Systematic Reviews, Essential Evidence Plus, and UpToDate were searched using the key terms altered mental status and encephalopathy. Also searched were specific etiologies of altered mental status. Search dates: January 19 to February 22, 2021, and August 20, 2021."
+        }
+    ],
+    "locked": false
+}

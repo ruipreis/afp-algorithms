@@ -1,0 +1,212 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0701/p43.html#afp20120701p43-f1",
+    "title": "Summary of the NIAID-Sponsored Food Allergy Guidelines | AAFP",
+    "author": "BARBARA P. YAWN, MD, MSc, MSPH, AND MATTHEW J. FENTON, PhD",
+    "doi": "Am Fam Physician.2012;86(1):43-50",
+    "abstract": "Patients with suspected food allergies are commonly seen in clinical practice. Although up to 15 percent of parents believe their children have food allergies, these allergies have been confirmed in only 1 to 3 percent of all Americans. Family physicians must be able to separate true food allergies from food intolerance, food dislikes, and other conditions that mimic food allergy. The most common foods that produce allergic symptoms are milk, eggs, seafood, peanuts, and tree nuts. Although skin testing and in vitro serum immunoglobulin E assays may help in the evaluation of suspected food allergies, they should not be performed unless the clinical history suggests a specific food allergen to which testing can be targeted. Furthermore, these tests do not confirm food allergy. Confirmation requires a positive food challenge or a clear history of an allergic reaction to a food and resolution of symptoms after eliminating that food from the diet. More than 70 percent of children will outgrow milk and egg allergies by early adolescence, whereas peanut allergies usually remain throughout life. The most serious allergic response to food allergy is anaphylaxis. It requires emergency care that should be initiated by the patient or family using an epinephrine autoinjector, which should be carried by anyone with a diagnosed food allergy. These and other recommendations presented in this article are derived from the Guidelines for the Diagnosis and Management of Food Allergy in the United States, published by the National Institute of Allergy and Infectious Diseases.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition and Prevalence",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Natural History",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Atopic Dermatitis, Asthma, and Food Allergy",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "When Should Food Allergy Be Suspected?",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "FOOD CHALLENGE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ELIMINATION DIETS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "SKIN TESTS AND LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "ELIMINATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "FOLLOW-UP TESTING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MEDICATIONS AND IMMUNOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "CROSS-REACTING ALLERGENS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Preventing Food Allergies in Children",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Immunizations for Patients with Egg Allergy",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Anaphylaxis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Food allergy is a common cause of diagnostic confusion in primary care.1To help develop a standardized approach to evaluation, diagnosis, and management, the National Institute of Allergy and Infectious Diseases (NIAID) sponsored an expert panel to generate clinical practice guidelines on food allergy. The full guidelines are available athttp://www.niaid.nih.gov/topics/foodallergy/clinical/Pages/default.aspx. This article contains selected data and clinical recommendations from those guidelines.2"
+        },
+        {
+            "parent": -1,
+            "text": "The guidelines do not discuss celiac disease or food intolerances such as those that result from lactose deficiency, nor do they provide public health recommendations for schools and other public settings. Readers are encouraged to refer to the full guidelines when implementing any of the recommendations discussed in this article."
+        },
+        {
+            "parent": 0,
+            "text": "Food allergy is defined as an adverse health effect arising from a specific immune response that occurs reproducibly on exposure to a given food.1,2A food is defined is any substance, whether processed, semiprocessed, or raw, that is intended for human consumption. This definition includes drinks, chewing gum, food additives, and dietary supplements. It does not include drugs, tobacco products, or cosmetics; adverse health effects arising from the use of these products are not covered in the guidelines.2"
+        },
+        {
+            "parent": 0,
+            "text": "Although more than 170 foods have been reported to cause immunoglobulin E (IgE)-mediated reactions, most prevalence studies have focused only on the most common foods that cause allergies. In the United States, these include hen’s eggs (hereafter referred to as eggs), cow’s milk, peanuts, tree nuts, soy, wheat, fish, and crustacean shellfish.2Allergic reactions associated with these foods are typically caused by proteins that elicit specific immunologic reactions."
+        },
+        {
+            "parent": 0,
+            "text": "The true prevalence of allergy to these foods has been difficult to ascertain, in part because study definitions and designs have varied widely, and because reported prevalence rates have changed over time.2–8In addition, studies reporting confirmed cases of food allergy indicate lower rates than studies that rely on parent-reported rates, which are often unconfirmed or possible cases2–5(Table 13–7,9–14). Up to 15 percent of parents believe their children have food allergies.13These allergies have been confirmed in only 1 to 3 percent of all Americans.2–4Family physicians must be able to separate true food allergies from food intolerance, food dislikes, and other conditions that mimic food allergy."
+        },
+        {
+            "parent": 0,
+            "text": "A pooled overall prevalence of self-reported food allergy to cow’s milk, eggs, peanuts, fish, or crustacean shellfish was 13 percent for adults and 12 percent for children.3However, when diagnosis was made in the context of confirmed cases in double-blind placebo-controlled food challenges, the rate dropped to 3 percent for both children and adults.4Allergic sensitization, as indicated by a positive skin prick test, occurs at a rate that greatly exceeds that of clinical (symptomatic) food allergy. Thus, skin prick tests should not be used to determine food allergy prevalence."
+        },
+        {
+            "parent": 0,
+            "text": "A number of specific clinical syndromes may occur as a result of food allergy(Table 215–22). The most serious is anaphylaxis, which occurs in about one to 70 per 100,000 persons in the general population, and in 13 to 65 percent of suspected food allergy cases.18,19,23Asthma and atopic dermatitis are associated with food allergies, but a causal link between food allergies and these disorders has not been established."
+        },
+        {
+            "parent": 1,
+            "text": "The time course of food allergy resolution in children varies by food, and may occur as late as the teenage years.9–12,14By adolescence, 85 percent or more of children who have allergies to cow’s milk will tolerate cow’s milk,7and up to 70 percent will outgrow egg allergies,16but only about 20 percent will eventually tolerate tree nuts and peanuts.1,2,10,11"
+        },
+        {
+            "parent": 1,
+            "text": "A high initial level of allergen-specific IgE against a food is associated with a lower rate of resolution of clinical food allergies over time.2Food allergies in adults can reflect persistence of childhood food allergies or de novo sensitization to food allergens encountered after childhood, most commonly seafood. Although there is a shortage of data from U.S. studies, food allergies that start in adult life tend to persist and not resolve.2,12,16"
+        },
+        {
+            "parent": 2,
+            "text": "Family history of atopy and the presence of atopic dermatitis are risk factors for the development of sensitization to food allergens and the development of food allergy. Asthma, however, is a stronger risk factor."
+        },
+        {
+            "parent": 2,
+            "text": "Food allergies may coexist with asthma, and asthma is the risk factor most commonly associated with severe food allergy.24–26Patients with food allergies and asthma have higher rates of emergency department visits and hospitalizations for asthma, and also have a higher risk of death from exercise-induced anaphylaxis.2,23,24Exercise-induced anaphylaxis typically occurs within 30 minutes or less, but sometimes up to six hours after ingesting a specific food, with symptoms beginning after initiation of exercise. In this syndrome, ingestion of the specific food and exercise are required. Either factor alone does not produce symptoms.1,25"
+        },
+        {
+            "parent": 3,
+            "text": "Food allergy should be considered in persons presenting with anaphylaxis or with any combination of the symptoms listed inTable 3,2–4occurring within minutes to hours of ingesting food. This should especially be considered in young children, or if symptoms have followed the ingestion of a specific food on more than one occasion. The severity of allergic reactions to foods, however, is multifactorial and variable. The extent of a reaction cannot be accurately predicted by the severity of past reactions."
+        },
+        {
+            "parent": 4,
+            "text": "Diagnosis of food allergy requires a clear and specific history that is confirmed by a food challenge test.2Parent and patient reports of food allergy must be confirmed, because multiple studies demonstrate that 50 to 90 percent of self-reported food allergies are not actually allergies.13The general approach to diagnosis is outlined inFigure 1.2"
+        },
+        {
+            "parent": 5,
+            "text": "The double-blind placebo-controlled food challenge is regarded as the recommended method of diagnosis. A single-blind and open food challenge may be considered diagnostic in a clinical setting when the food challenge elicits no symptoms (negative challenge), or when there are objective symptoms (positive challenge) that correlate with medical history and are supported by laboratory tests.2"
+        },
+        {
+            "parent": 6,
+            "text": "When food challenge tests are not practical or are unavailable, or when the patient has a confirmed history of anaphylaxis after ingesting a particular food, a diagnosis may be based on a definitive history and an absence of symptoms when the causative food is eliminated from the diet.2When multiple food allergies are suspected, however, elimination of multiple foods may put the person at risk of nutritional deficiency. In such cases, it is appropriate to refer the patient to a specialist who is able to perform an oral food challenge. Oral food challenges should be performed only by trained health care professionals in a setting that provides immediate access to resuscitative equipment.27–29"
+        },
+        {
+            "parent": 7,
+            "text": "It is important to emphasize that skin prick tests and tests that measure total serum levels of IgE or allergen-specific IgE only detect the presence of allergic sensitization. They are not sufficient by themselves to make a diagnosis of food allergy. Almost one-half of the U.S. population has detectable allergen-specific IgE against a food allergen, but the overall prevalence of clinical food allergy is only about 4 to 6 percent.2,27,28,30These tests should be used only when targeted at foods likely to cause a food allergy based on a history that may include the use of food diaries to identify offending foods.2"
+        },
+        {
+            "parent": 7,
+            "text": "Tests for which there are few or no data to support utility in diagnosing IgE-mediated food allergies are listed inTable 4.2Use of these tests should be discouraged."
+        },
+        {
+            "parent": 9,
+            "text": "The primary treatment of food allergies is prevention by eliminating ingestion of the offending food. When the food is a mainstay of the diet or multiple foods must be eliminated, nutritional counseling and regular growth monitoring are essential."
+        },
+        {
+            "parent": 9,
+            "text": "To facilitate elimination of specific foods, the NIAID guidelines suggest that patients with food allergies and their caregivers receive education and training on how to interpret ingredient lists on food labels and how to recognize incomplete labeling of ingredients. Products with voluntary precautionary labeling, such as “this product may contain trace amounts of” an allergen, or “this product is made in a facility that uses” particular allergens, should be avoided. Age- and culturally-appropriate information on food allergen avoidance should be provided, with emergency management that includes immediate therapy for anaphylaxis.Table 5provides a list of resources for patients and caregivers."
+        },
+        {
+            "parent": 10,
+            "text": "Because some food allergies tend to disappear with age, follow-up testing for children with these allergies should be performed based on the specific food to which the child is allergic. Whether testing is performed annually or at other intervals depends on the food in question, the age of the child, and the intervening clinical history. Consultation with a food allergy specialist may be helpful.2"
+        },
+        {
+            "parent": 11,
+            "text": "There are no recommended medications to prevent IgE- or non–IgE-mediated allergic reactions to food. Allergen-specific immunotherapy or immunotherapy with cross-reacting allergens is not recommended to treat food allergy. There have been promising research findings from allergen-specific immunotherapy clinical trials, but the safety of this therapy has not yet been thoroughly established. Use of allergen-specific immunotherapy is not recommended outside of the setting of a clinical trial approved by the U.S. Food and Drug Administration.31,32"
+        },
+        {
+            "parent": 12,
+            "text": "Patients at risk of developing food allergies, such as those with a biologic parent or sibling who has a food allergy, or persons who have a history of food allergy, allergic rhinitis, asthma, or atopic dermatitis, do not need to limit their exposure to potential nonfood allergens, such as dust, pet dander, or pollens(Table 61). They also do not need to limit exposure to foods that may be cross-reactive with other major food allergens.2It has been proposed that exposure to nonfood allergens and cross-reactive foods could increase the risk of developing food allergy, but there is little evidence to support this hypothesis, and unnecessary food avoidance can result in inadequate nutrient intake and growth deficits.2"
+        },
+        {
+            "parent": 13,
+            "text": "No dietary restrictions should be necessary during pregnancy or lactation as a strategy for preventing the development or clinical course of food allergy in the infant. All infants should be exclusively breastfed until four to six months of age, unless breastfeeding is contraindicated for medical reasons.2,33If breastfeeding is contraindicated, soy infant formula (instead of cow’s–milk infant formula) is not recommended as a strategy for preventing the development of food allergies or modifying its clinical course in at-risk infants.2The introduction of solid foods should not be delayed beyond six months of age. Potentially allergenic foods may also be introduced by this time.34,35"
+        },
+        {
+            "parent": 14,
+            "text": "Persons with egg allergy, even those with a history of severe reactions, can receive vaccines for measles, mumps, rubella, and varicella.2Conversely, rabies and yellow fever vaccines should not be given to patients with a history of hives, angioedema, allergic asthma, or systemic anaphylaxis to egg, unless an allergy evaluation is performed first."
+        },
+        {
+            "parent": 14,
+            "text": "For influenza vaccines, health care professionals should follow the current vaccine recommendations from the Advisory Committee on Immunization Practices (ACIP). As of 2011, the ACIP encourages persons with egg allergy whose reactions are limited to urticaria to receive seasonal influenza vaccines.36There are insufficient data to comment on the use of the live attenuated influenza vaccine in these persons."
+        },
+        {
+            "parent": 14,
+            "text": "It should be noted that a negative skin prick test to egg allergen does not accurately predict safety of influenza vaccination. About 5 percent of patients with negative skin prick test results will have a systemic reaction to vaccines containing egg.37Precautionary skin testing with a vaccine is more likely to identify allergic sensitivities to a nonegg vaccine component than to egg proteins present in the vaccine. The ACIP does not recommend such precautionary skin testing before receiving seasonal influenza vaccines."
+        },
+        {
+            "parent": 15,
+            "text": "Anaphylaxis has a rapid onset and may cause death. Treatment for food-induced anaphylaxis should focus on initiating treatment promptly after the onset of symptoms; intramuscular epinephrine as a first-line therapy; and other medical treatments as an adjunct to epinephrine.38–40Table 7outlines pharmacologic treatment for anaphylaxis in outpatient and hospital settings.2"
+        },
+        {
+            "parent": 15,
+            "text": "Antihistamines are not appropriate as a primary treatment of anaphylaxis. Initial use of antihistamines is the most common reason for delaying or not using epinephrine, which places the patient at higher risk of progression toward a life-threatening reaction.2"
+        },
+        {
+            "parent": 15,
+            "text": "Care of patients with food allergy–induced anaphylaxis after treatment of the acute episode should include a follow-up appointment with the patient’s physician and referral to an allergist.41Care should also include education for the patient and family about avoidance of the offending food, early recognition of signs and symptoms of anaphylaxis, and use of an anaphylaxis emergency action plan. The plan should include appropriate use of epinephrine and the need for medical identification jewelry or an anaphylaxis wallet card.41,42Table 5includes a link to a sample anaphylaxis emergency plan. All patients with a history of food allergy–induced anaphylaxis should be given an epinephrine autoinjector prescription and training on how to use the device.2,41"
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources:The National Institute of Allergy and Infectious Diseases (NIAID) and the NIAID’s Expert Panel developed an extensive set of key questions, which was further refined in discussions with the RAND Evidence-Based Practice Center (EPC). The EPC was provided with the key questions relevant to the definition of food allergy, with comorbid conditions, natural history, diagnosis, and management of the disease. Literature searches were then performed using PubMed, the Cochrane Database of Systematic Reviews, the Cochrane Database of Abstracts of Reviews of Effects (DARE), the Cochrane Central Register of Controlled Trials (Central), and theWorld Allergy Organization Journal. The literature searches covered the period from January 1, 1988 through March 1, 2010. The principal search topics were diagnosis and testing techniques for food allergies in general, as well as specific immunoglobulin E (IgE)- and non–IgE-related reactions. In most cases, searches were limited to North American studies published between 1988 and 2010. In some cases, supplemental publications identified by the evidence panel and others involved in the review process were included in the literature review and analysis. The EPC’s report is available athttp://www.rand.org/pubs/working_papers/WR757-1.html."
+        }
+    ],
+    "locked": false
+}

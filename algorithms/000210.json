@@ -1,0 +1,183 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/1201/p729.html#afp20171201p729-f2",
+    "title": "Hyperosmolar Hyperglycemic State | AAFP",
+    "author": "GREGG D. STONER, MD",
+    "doi": "Am Fam Physician.2017;96(11):729-736",
+    "abstract": "Hyperosmolar hyperglycemic state is a life-threatening emergency manifested by marked elevation of blood glucose and hyperosmolarity with little or no ketosis. Although there are multiple precipitating causes, underlying infections are the most common. Other causes include certain medications, nonadherence to therapy, undiagnosed diabetes mellitus, substance abuse, and coexisting disease. In children and adolescents, hyperosmolar hyperglycemic state is often present when type 2 diabetes is diagnosed. Physical findings include profound dehydration and neurologic symptoms ranging from lethargy to coma. Treatment begins with intensive monitoring of the patient and laboratory values, especially glucose, sodium, and potassium levels. Vigorous correction of dehydration is critical, requiring an average of 9 L of 0.9% saline over 48 hours in adults. After urine output is established, potassium replacement should begin. Once dehydration is partially corrected, adults should receive an initial bolus of 0.1 units of intravenous insulin per kg of body weight, followed by a continuous infusion of 0.1 units per kg per hour (or a continuous infusion of 0.14 units per kg per hour without an initial bolus) until the blood glucose level decreases below 300 mg per dL. In children and adolescents, dehydration should be corrected at a rate of no more than 3 mOsm per hour to avoid cerebral edema. Identification and treatment of underlying and precipitating causes are necessary.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Causes and Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "COMPLICATIONS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "FLUID REPLACEMENT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ELECTROLYTE MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "INSULIN THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "IDENTIFY AND TREAT THE CAUSE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "TREATMENT COMPLICATIONS",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hyperosmolar hyperglycemic state (HHS) is a life-threatening endocrine emergency that most commonly affects adults with type 2 diabetes mellitus.1,2However, the incidence increased by 52.4% among children from 1997 to 2009.3HHS occurs in patients with type 2 diabetes who can still produce insulin (as opposed to diabetic ketoacidosis [DKA], which occurs in persons with type 1 diabetes and some with type 2 diabetes). The hallmarks of HHS include profound dehydration, marked hyperglycemia, variable degrees of neurologic impairment, and mild or no ketosis. Although DKA and HHS have been described as distinct entities, one-third of patients exhibit findings of both.2They may represent opposite ends of the decompensated diabetes spectrum, differing in time of onset, degree of dehydration, and severity of ketosis4(depending on the degree of insulinopenia5).Table 1compares laboratory findings of mild to severe DKA with those of HHS.6"
+        },
+        {
+            "parent": -1,
+            "text": "The mortality rate from HHS ranges from 10% to 50%, which is considerably higher than that of DKA (1.2% to 9%).2,7–13In children, the mortality rate from HHS may be as high as 60%.14Mortality predictors include age, degree of dehydration, hemodynamic instability (hypotension, absence of reflex tachycardia), degree of consciousness, infection, and a history of cancer.2,15–17"
+        },
+        {
+            "parent": 0,
+            "text": "Elevated levels of counterregulatory hormones (glucagon, catecholamines, cortisol, and growth hormone) initiate HHS by stimulating hepatic glucose production through glycogenolysis and gluconeogenesis, leading to hyperglycemia, intracellular water depletion, and subsequent osmotic diuresis.5,12,18High levels of catecholamines combined with low levels of insulin reduce peripheral glucose uptake. Glycosuria causes greater loss of water than of sodium, resulting in hyperosmolarity and dehydration. Decreased intravascular volume, often combined with underlying renal disease, decreases the glomerular filtration rate, thereby decreasing glucose clearance and further increasing blood glucose levels."
+        },
+        {
+            "parent": 0,
+            "text": "Although the insulin level is not adequate to control blood glucose,19,20it can suppress lipolysis and ketogenesis.5Proinflammatory cytokines (e.g., tumor necrosis factor α, interleukin β, interleukin-6, interleukin-8), plasminogen activator inhibitor-1, reactive oxygen species, and lipid peroxidation increase two- to threefold during the acute crisis, but return to normal within 24 hours.21These increases create a temporary prothrombotic environment that increases the risk of vascular occlusion, mesenteric artery thrombosis, myocardial infarction, low-flow syndrome, disseminated intravascular coagulopathy, cerebrovascular accident, and bilateral femoral artery thrombosis.22–26"
+        },
+        {
+            "parent": 1,
+            "text": "HHS can be precipitated by infections, medications, non-adherence to therapy, undiagnosed diabetes, substance abuse, and coexisting diseases20,27–32(Table 225). Infections are the leading cause (57% of cases)17; pneumonia, often gram-negative, is the most common infection, followed by urinary tract infection and sepsis.28Poor adherence to diabetes medication causes 21% of HHS cases.17Other causes include myocardial infarction, cerebrovascular accident, pulmonary embolism, and mesenteric artery thrombosis.22,24,28,33Psychoactive medications, especially second-generation antipsychotics, cause glucose elevations, insulin resistance, and diabetes independent of weight gain.34–40Older adults with type 2 diabetes (sometimes undiagnosed) are at higher risk of HHS because they often take dehydrating medications (e.g., diuretics) and may be unable to adequately communicate their symptoms if they live alone or in a nursing home.41"
+        },
+        {
+            "parent": 1,
+            "text": "Risk factors for HHS in children include morbid obesity (body mass index of 39 kg per m2or greater), long-term steroid use, gastroenteritis, black race, acanthosis nigricans, and a family history of diabetes.9,12,41–44Undiagnosed diabetes can result in HHS when early symptoms are unrecognized, particularly in children.12"
+        },
+        {
+            "parent": 2,
+            "text": "Physical findings in patients with HHS include profound dehydration with poor tissue turgor; dry buccal mucosa; soft, sunken eyeballs; cool extremities; and a rapid, thready pulse.19Adults often present with a low-grade fever. Children may present with nonspecific symptoms such as headache, weakness, and vomiting with or without abdominal pain.42Abdominal distention may occur secondary to gastroparesis induced by hypertonicity.45Abdominal distention that persists after rehydration may have another underlying cause and requires further investigation."
+        },
+        {
+            "parent": 2,
+            "text": "Depending on effective serum osmolarity, mental status can range from complete lucidity to disorientation and lethargy to coma.30,46Coma often occurs once the serum osmolarity is greater than 340 mOsm per kg.22Seizures occur in up to 25% of patients and may be generalized, focal, myoclonic jerking, or movement induced.45Hemiparesis may occur but should resolve when the fluid deficit is corrected.28,47"
+        },
+        {
+            "parent": 3,
+            "text": "Rhabdomyolysis, which is diagnosed by a serum creatine phosphokinase level more than 10 times the upper limit of normal, may increase the risk of acute renal failure. Children may experience a malignant hyperthermia-like syndrome that presents with high fever (often higher than 104°F [40°C]48) and an elevated creatine kinase level. This syndrome may be caused by a reaction to m-cresol (a preservative in all preparations of regular insulin produced in the United States) and is treated with dantrolene (Dantrium).42"
+        },
+        {
+            "parent": 4,
+            "text": "Initial laboratory findings in patients with HHS include marked elevations in blood glucose levels (greater than 600 mg per dL [33.3 mmol per L]) and in serum osmolarity (greater than 320 mOsm per L of water [normal = 290 ± 5]), with a pH level greater than 7.30 and mild or absent ketosis. One-half of patients will have a mild anion-gap metabolic acidosis (i.e., 10 to 12). If the anion gap is greater than 12, the differential diagnosis should include lactic acidosis or, if the lactic acid level is not elevated, a combination of DKA and HHS or other entities unrelated to HHS. Vomiting and thiazide diuretics may cause a metabolic alkalosis that could mask the severity of acidosis.28Serum potassium levels may be elevated or normal.28Creatinine, blood urea nitrogen, and hematocrit levels are almost always elevated.49HHS also produces significant total body losses of many electrolytes19(Table 325)."
+        },
+        {
+            "parent": 4,
+            "text": "The reported sodium level should be corrected when the patient's glucose level is markedly elevated. The types of fluids administered depend on the corrected serum sodium level50and the effective serum osmolality, which are calculated using the formulas inFigure 1.25"
+        },
+        {
+            "parent": 5,
+            "text": "Treatment of HHS requires a four-pronged approach: (1) vigorous intravenous rehydration, (2) electrolyte management, (3) intravenous insulin, and (4) diagnosis and management of precipitating and coexisting problems.49"
+        },
+        {
+            "parent": 5,
+            "text": "Figure 2outlines the American Diabetes Association's algorithm for managing DKA and HHS in adults.51Patients require intensive care if they have cardiovascular instability, cannot maintain an airway, are obtunded, report acute abdominal symptoms, or cannot be monitored adequately on the general medical ward.52Management of HHS in children is similar to that in adults.44"
+        },
+        {
+            "parent": 6,
+            "text": "Aggressively replacing fluids is the first and most important step in treating HHS. It should begin by estimating the fluid deficit (usually 100 to 200 mL per kg, or an average of 9 L in adults).6,28In children, the degree of dehydration ranges from 12% to 15%.8Isotonic fluids may cause fluid overload, and hypertonic fluids may correct sodium deficits too rapidly, increasing the risk of diffuse myelinolysis and death.28Therefore, fluid replacement in adults should begin with 1 L of 0.9% saline per hour. Hemodynamic status should be monitored in patients with shock. Fluid resuscitation should be guided by vital signs, urine output, and improvement in sensorium."
+        },
+        {
+            "parent": 6,
+            "text": "Once hypotension improves, the corrected serum sodium level is calculated. If it is high (greater than 145 mEq per L [145 mmol per L]) or normal (135 to 145 mEq per L [135 to 145 mmol per L]), 0.45% saline should be given at a rate of 4 to 14 mL per kg per hour, depending on the hydration state. If the corrected serum sodium level is low (less than 135 mEq per L), 0.9% saline should be infused at the same rate. When the serum glucose level reaches 300 mg per dL (16.7 mmol per L), the fluid should be switched to 5% dextrose solution with 0.45% saline.28,50At least one-half of the calculated deficit should be given in the first 18 to 24 hours, with the remainder given over the next 24 hours."
+        },
+        {
+            "parent": 6,
+            "text": "Fluid administration alone will cause the plasma glucose level to decrease without insulin administration, a sign of adequate fluid replacement.19A plasma glucose level that does not decrease by 75 to 100 mg per dL (4.2 to 5.6 mmol per L) per hour implies inadequate fluid volume or renal impairment.19"
+        },
+        {
+            "parent": 6,
+            "text": "Children are at greater risk of developing potentially fatal cerebral edema during treatment. For this reason, the rate at which serum tonicity is returned to normal is slower than in adults, and it should not exceed 3 mOsm per hour.53"
+        },
+        {
+            "parent": 7,
+            "text": "Total body potassium depletion is often unrecognized because the initial potassium level may be normal or high.19,28However, it may plummet when insulin is administered because insulin forces potassium into cells. Therefore, once urine output is established, potassium replacement should begin. Electrolytes should be checked every one to two hours until stable, and the cardiac rhythm should be monitored continuously."
+        },
+        {
+            "parent": 7,
+            "text": "If the patient's initial serum potassium level is less than 3.3 mEq per L (3.3 mmol per L), insulin should be held and saline and potassium chloride given until the potassium level reaches at least 3.3 mEq per L. If the serum potassium level is greater than 5.2 mEq per L (5.2 mmol per L), potassium should be held until the level falls below 5.2 mEq per L, with monitoring every two hours. If the initial serum potassium level is 3.3 to 5.2 mEq per L, 20 to 30 mEq of potassium chloride should be added to each liter of intravenous fluid to maintain the level between 4.0 and 5.0 mEq per L (4.0 and 5.0 mmol per L).50"
+        },
+        {
+            "parent": 7,
+            "text": "The evidence for monitoring and replacing phosphate, calcium, or magnesium is inconclusive.41Most studies that examined the need for phosphate replacement involved patients with acute-onset DKA.1,6,54Because HHS develops over days to weeks, these patients are more likely to become phosphate depleted. However, no controlled studies have shown improved outcomes with phosphate replacement.19It may be reasonable when the patient's serum phosphate level is less than 1.0 mEq per L (1.0 mmol per L) and when muscle weakness is a concern, such as in patients with respiratory impairment, anemia, and cardiac dysfunction.6Because phosphate replacement can cause severe hypocalcemia, serum calcium levels should be monitored closely.50"
+        },
+        {
+            "parent": 7,
+            "text": "Hypomagnesemia can cause arrhythmias, muscle weakness, convulsions, stupor, and agitation. It may be present in as many as 90% of patients with uncontrolled diabetes.19However, there is no clear evidence that magnesium should be replaced initially. Unless the patient has renal failure, administering magnesium is safe and physiologic.19"
+        },
+        {
+            "parent": 8,
+            "text": "Adequate fluid replacement must begin before insulin is administered.6Giving insulin before fluids moves intra-vascular water into the cells, exacerbating hypotension and potentially causing vascular collapse or death."
+        },
+        {
+            "parent": 8,
+            "text": "In adults, insulin should be started with an initial intravenous bolus of 0.1 units per kg, followed by a continuous infusion of 0.1 units per kg per hour until the blood glucose level falls to 250 to 300 mg per dL (13.9 to 16.7 mmol per L).55Another option is to give a continuous infusion of 0.14 units of insulin per kg per hour without a loading dose. If the glucose level does not decrease by 10% in the first hour, a bolus of 0.14 units of insulin per kg should be given, followed by continuous infusion of 0.1 units per kg per hour.56Children should not receive an initial bolus of insulin because it may increase the risk of cerebral edema. Instead, a continuous infusion of 0.1 units per kg per hour should be started. Once the serum glucose level falls below 300 mg per dL, 5% dextrose should be added to the intravenous fluid and the insulin dosage reduced to 0.02 to 0.05 units per kg per hour, maintaining serum glucose between 200 and 300 mg per dL until mental obtundation and hyperos-molarity resolve. When the patient can eat, subcutaneous insulin should be started or the previous treatment regimen restarted."
+        },
+        {
+            "parent": 9,
+            "text": "Routine antibiotics are not recommended for all patients with suspected infection. However, they are warranted while awaiting culture results in older patients or in those with hypotension. An elevated C-reactive protein level is an early indicator of sepsis in patients with HHS.57"
+        },
+        {
+            "parent": 9,
+            "text": "Medications should be reviewed to identify any that may precipitate or aggravate HHS; these medications should be discontinued or reduced. Investigation for other causes may be indicated after reviewing the precipitating factors6(Table 225)."
+        },
+        {
+            "parent": 10,
+            "text": "Complications from inadequate treatment include vascular occlusion (e.g., mesenteric artery thrombosis, myocardial infarction, low-flow syndrome, disseminated intravascular coagulopathy) and rhabdomyolysis.19,20,49,52,58Although there is a temporary prothrombotic environment during the treatment of HHS, evidence is not available to recommend anticoagulation for all patients. Overhydration may lead to respiratory distress syndrome in adults and induced cerebral edema, which is rare in adults but often fatal in children. Cerebral edema should be treated with 1 to 2 g per kg of intravenous mannitol over 30 minutes."
+        },
+        {
+            "parent": 10,
+            "text": "This article updates previous articles on this topic by theauthor25and byMatz.19"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources: Searches were performed in PubMed using the key words hyperosmolar hyperglycemic state. Other sources included Essential Evidence Plus, the Cochrane Database of Systematic Reviews, and the National Institute for Health and Care Excellence. Search dates: February 6 and 12, 2016."
+        },
+        {
+            "parent": 10,
+            "text": "The author thanks Dr. John Halvorsen and Mary Annen for their assistance in the preparation of the manuscript."
+        }
+    ],
+    "locked": false
+}

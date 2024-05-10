@@ -1,0 +1,213 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0815/p224.html#afp20200815p224-f1",
+    "title": "Paget Disease of Bone for Primary Care | AAFP",
+    "author": "NAHID J. RIANON, MD, DrPH, AND JUDE K. DES BORDES, MBChB, DrPH",
+    "doi": "Am Fam Physician.2020;102(4):224-228",
+    "abstract": "Paget disease of bone is a benign disorder characterized by focal areas of increased bone turnover in one or more skeletal sites. It usually affects older adults, and men are at a higher risk than women. Any bone may be affected, but the disease has a high preference for the pelvis, spine, skull, and long bones. Pain is the most common symptom, and presentation of the disease may depend on which bones are affected, the extent of involvement, and the presence of complications. Paget disease of bone may be asymptomatic, and suspicion arises from incidental findings of elevated serum alkaline phosphatase levels on routine blood work or abnormalities on imaging tests performed for an unrelated cause. Evidence-based guidelines recommend the use of plain radiography and serum alkaline phosphatase testing for initial diagnosis and radionuclide scans for delineation of the extent of disease. Treatment with nitrogen-containing bisphosphonates is recommended in active disease or when risk of complications is possible. Complications of the disease include arthritis, gait changes, hearing loss, nerve compression syndromes, and osteosarcoma. Total serum alkaline phosphatase is the suggested marker for assessing treatment response when high bone turnover occurs, and it should be measured at three to six months to evaluate initial response. Early diagnosis of Paget disease of bone remains key to its management because patients generally have a good prognosis if treatment is initiated before major complications arise. The primary care physician may need to consult with a specialist for confirmation of diagnosis and initiation of treatment.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "PAIN",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SKELETAL DEFORMITIES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "FRACTURES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "NEUROLOGIC SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "METABOLIC MANIFESTATIONS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "CARDIOVASCULAR MANIFESTATIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "NEOPLASTIC MANIFESTATIONS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "IMAGING",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "BIOCHEMICAL EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Follow-up",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Paget disease of bone is a benign skeletal disorder characterized by focal areas of increased bone resorption and disorganized bone formation.1These focal lesions, called pagetic lesions, may be confined to a single site (monostotic) or several sites (polyostotic) of the skeleton. Although any bone may be affected, the pelvis, femur, lumbar spine, thoracic spine, skull, and tibia are most common.2"
+        },
+        {
+            "parent": 0,
+            "text": "Paget disease of bone affects persons in middle and older age, with the incidence nearly doubling every decade after 50 years of age (it is rarely diagnosed in patients younger than 40 years). Both men and women are affected; however, men are at a higher risk and are about one-and-a-half times more likely to have the disease than women.3–5In the United States, the prevalence in the general population is estimated to be about 1% to 2%, with regional variation (i.e., it is more common in the Northeast and less common in the South).6Paget disease of bone is more common in European countries such as England, Scotland, Central Europe, and Greece (estimates range from 2% to 9%) and is uncommon in Scandinavian and Asian countries.7However, temporal trends in recent decades point to a decrease in prevalence and severity.7,8"
+        },
+        {
+            "parent": 1,
+            "text": "An early feature in the development of Paget disease of bone is an alteration in the structure and function of osteoclasts, causing increased bone resorption in certain areas of bone.9Increased bone resorption triggers osteoblastic activity, resulting in the formation of new, poorly organized, inadequately mineralized bone.10This abnormal bone structure may be associated with fragility, enlargement, deformity, and increased vascularity of bone, and bone marrow fibrosis.10"
+        },
+        {
+            "parent": 2,
+            "text": "Risk factors for Paget disease of bone can be genetic and environmental. Disease risk in relatives of affected individuals may be up to 10 times higher than in the general population11(10% to 20% of patients indicate a positive family history).12,13In most families, the disease is transmitted as an autosomal dominant trait with incomplete penetrance; mutations in the sequestosome-1 (SQSTM1) encoding p62 protein involved in the regulation of osteoclastic activity occur in up to 50% of people with familial disease and up to 30% of those with sporadic disease.14Although poorly defined, proposed environmental factors that may affect prevalence and severity include paramyxovirus infections, diet, and toxins.7–9"
+        },
+        {
+            "parent": 3,
+            "text": "The disease presentation depends on which bones are affected, the extent of bone involvement, and whether complications are present. Most patients are asymptomatic, and suspicion arises from incidental findings of elevated serum alkaline phosphatase levels on routine blood work or abnormalities on radiography or bone scans performed for other indications. Paget disease of bone is considered metabolically active when high bone turnover occurs and may be associated with elevated biochemical markers(Table 112,15)."
+        },
+        {
+            "parent": 4,
+            "text": "Pain is the major presenting symptom, usually occurring late in the disease process.12,16It is thought to emanate from the osteolytic front of the pagetic lesion, osteoarthritis in joints adjacent to lesions, or from bone deformity and related complications.15The pain is typically mild to moderate, relieved by activity, and often worse at night. In a case series of 88 patients with a mean age of 72.9 years ± 11.9 years, 60% of whom were male, presenting symptoms included bone pain (73.8%), bone deformity (18.1%), deafness (7.9%), and pathologic fractures (5.7%); 22% of participants were asymptomatic.12"
+        },
+        {
+            "parent": 5,
+            "text": "Skeletal deformities result from abnormal bone formation and may manifest as bone enlargement and specific bone deformities.10Typical deformities in the long bones may include anterior bowing of the tibia and anterolateral bowing of the femur. Changes in the long bones or spine can alter gait and cause joint and back pain. Skull involvement may manifest as enlargement of the skull and a characteristic focal osteolytic lesion, osteoporosis circumscripta cranii, on radiography."
+        },
+        {
+            "parent": 6,
+            "text": "Bone fragility predisposes patients to fractures, and minimal trauma fractures may be the presenting feature. Pain from fractures may be sharp and may be worse on movement or with application of pressure at the site. Vertebral compression fractures may result from involvement of the spine."
+        },
+        {
+            "parent": 7,
+            "text": "Paget disease of bone of the skull may cause hearing loss resulting from cochlear involvement, headaches, and, occasionally, unstable gait, hydrocephalus, and vertigo. Cranial nerves may be vulnerable to entrapment because of bony overgrowth.17Spinal involvement may result in radiculopathy, spinal stenosis, spinal cord compression, paralysis, and altered gait."
+        },
+        {
+            "parent": 8,
+            "text": "Monostotic disease is generally not associated with metabolic disturbances. Polyostotic disease, characterized by involvement of several skeletal sites with increased bone resorption, may cause metabolic disturbances in a few instances. Prolonged immobilization or fracture with polyostotic disease may result in increased urinary excretion of calcium and, rarely, hypercalcemia."
+        },
+        {
+            "parent": 9,
+            "text": "Increased cardiac output and possibly high-output cardiac failure may occur because of increased blood flow to the bones resulting from high vascularity of pagetic lesions."
+        },
+        {
+            "parent": 10,
+            "text": "Bone tumors infrequently occur as complications of Paget disease of bone. Osteosarcoma may present with bone pain, local swelling, and occasionally pathologic fracture. Chondrosarcoma and giant cell tumors may also arise in pagetic lesions but are uncommon."
+        },
+        {
+            "parent": 10,
+            "text": "Malignant transformation occurs in less than 1% of patients with Paget disease of bone2(Table 112,15)."
+        },
+        {
+            "parent": 11,
+            "text": "Diagnosis requires a high index of suspicion because many symptoms of Paget disease of bone are nonspecific. Clinical history should explore skeletal pain to establish a probable source; for example, it is imperative to assess whether the fractures are the result of significant trauma. Family history of Paget disease of bone should be assessed because a genetic association may serve as a supporting diagnostic clue. The family physician may need to consult with a specialist for confirmation of diagnosis and for initiation of treatment(Figure 1)."
+        },
+        {
+            "parent": 12,
+            "text": "Plain Radiography.All patients who are thought to have Paget disease of bone should have plain radiography of the suspected sites.16,18,19In asymptomatic patients with elevated levels of total serum alkaline phosphatase and no underlying liver or biliary tract disease, plain radiographs of the abdomen, skull and facial bones, and tibia should be obtained.19"
+        },
+        {
+            "parent": 12,
+            "text": "Typical radiographic features in Paget disease of bone are areas of osteosclerosis, bone deformity, bone enlargement, cortical thickening, focal osteolytic lesions, loss of corticomedullary distinction, and pronounced trabeculae.19"
+        },
+        {
+            "parent": 12,
+            "text": "Radionuclide Scan.Patients diagnosed with Paget disease of bone should have a radionuclide bone scan to fully assess the extent of the disease.Skeletal sites are usually visualized as areas of intense and homogenous tracer uptake.19Bone scans may also identify other asymptomatic disease sites.16,18,19Magnetic resonance imaging and computed tomography are not recommended for diagnosis of Paget disease of bone, but they may be used to assess some complications of the disease, including basilar invagination and osteosarcoma.19"
+        },
+        {
+            "parent": 13,
+            "text": "Total Serum Alkaline Phosphatase.Measurement of alkaline phosphatase in conjunction with liver function testing is used as a first-line biochemical evaluation. In suspected cases of Paget disease of bone in which total serum alkaline phosphatase levels are normal or hepatic disease exists, measurement of specific bone markers such as procollagen type I N-terminal propeptide, bone-specific alkaline phosphatase, or urinary cross-linked N-terminal telopeptide of type I collagen is indicated.16,18,19"
+        },
+        {
+            "parent": 14,
+            "text": "Treatment aims to alleviate pain and to reduce the rate of abnormal bone formation. It is indicated for active disease and for those at risk of complications from untreated disease. Drug therapy includes specific antipagetic agents that are osteoclast inhibitors or other agents such as analgesics, nonsteroidal anti-inflammatory drugs, and antineuropathic agents, which are used for symptom control. Features of active disease that are most likely to respond to antipagetic agents include bone pain, hearing loss, symptoms of nerve compression, and osteolytic lesions found on radiography."
+        },
+        {
+            "parent": 14,
+            "text": "Nitrogen-containing bisphosphonates are first-line antipagetic agents.16,18–20A single 5-mg dose of zoledronic acid (Reclast) given intravenously is the treatment of choice if no contraindications exist.16,18Zoledronic acid has a prolonged response, and patients should be reassessed, usually with total serum alkaline phosphatase, one to two years after bone turnover has normalized.15,18Retreatment is rarely warranted before five years.15Other nitrogen-containing bisphosphonates such as risedronate (Actonel; 30 mg daily for two months) and alendronate (Fosamax; 40 mg daily for six months) may be used in patients in whom zoledronic acid is contraindicated or not tolerated.21Contraindications to the use of bisphosphonates include advanced chronic renal disease, hypocalcemia, and pregnancy. Parenteral calcitonin may be provided as an alternative when bisphosphonates are contraindicated. Anabolic bone agents such as teriparatide (Forteo) are contraindicated because of a U.S. Food and Drug Administration boxed warning for increased risk of osteosarcoma.22After successful antipagetic therapy, patients who have complications of Paget disease of bone such as hearing loss, skeletal deformities, and fractures should be treated similarly to the general population."
+        },
+        {
+            "parent": 15,
+            "text": "Follow-up is required to monitor treatment response in patients who received antipagetic therapy, disease progression in asymptomatic patients who did not receive treatment, and signs of disease recurrence in patients who had been in remission."
+        },
+        {
+            "parent": 15,
+            "text": "Total serum alkaline phosphatase is the suggested marker for assessing treatment response when high bone turnover occurs, measured at three to six months to assess initial response. The frequency of evaluation may be reduced to once or twice per year (or every one to two years if zoledronic acid is used for treatment) after an adequate response has been established.15,16"
+        },
+        {
+            "parent": 15,
+            "text": "Patients with osteolytic lesions should have repeat radiography one year after treatment to determine whether improvement or deterioration has occurred.16"
+        },
+        {
+            "parent": 15,
+            "text": "Asymptomatic patients in whom bisphosphonate therapy is not immediately indicated should be monitored yearly for signs of disease progression or functional impairment.20In untreated monostotic disease, bone-specific markers, especially procollagen type I N-terminal propeptide, or bone-specific alkaline phosphatase, and beta C-terminal propeptide of type I collagen or urinary cross-linked N-terminal telopeptide of type I collagen should be checked to assess bone metabolic activity.16,18,19"
+        },
+        {
+            "parent": 15,
+            "text": "Patients with symptom relapse or persistence or who experience biochemical relapse may be offered retreatment. Response to treatment is usually observed within three months after therapy is started, and retreatment is appropriate if no response occurs within six months.18"
+        },
+        {
+            "parent": 15,
+            "text": "Some patients may have other coexistent neuromuscular pathology associated with Paget disease of bone, and use of bisphosphonates alone may not be adequate. It is imperative to identify additional underlying causes of pain as appropriate."
+        },
+        {
+            "parent": 16,
+            "text": "Early diagnosis is key to managing Paget disease of bone because patients generally have a good prognosis if treatment is administered before major complications arise. Although treatment will not cure Paget disease of bone, untreated disease can be associated with disease progression.23"
+        },
+        {
+            "parent": 16,
+            "text": "This article updates a previous article on this topic bySchneider, et al.24"
+        },
+        {
+            "parent": 16,
+            "text": "Data Sources:A PubMed search was done using search terms Paget's disease, Paget's disease of bone, and bone diseases. We also searched the Cochrane Collaboration database, Agency for Healthcare Research and Quality Guidelines Clearinghouse, and the Trip database. Unique citations identified included practice guidelines, randomized clinical trials, systematic reviews, and epidemiological studies. Search date: August 19, 2019."
+        }
+    ],
+    "locked": false
+}

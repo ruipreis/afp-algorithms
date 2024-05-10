@@ -1,0 +1,187 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0201/p442.html#afp20060201p442-f1",
+    "title": "Diagnosis and Treatment of Community-Acquired Pneumonia | AAFP",
+    "author": "M. NAWAL LUTFIYYA, PH.D., ERIC HENLEY, M.D., M.P.H., LINDA F. CHANG, PHARM.D., M.P.H., B.C.P.S., AND STEPHANIE WESSEL REYBURN, M.D., M.P.H.",
+    "doi": "Am Fam Physician.2006;73(3):442-450",
+    "abstract": "Patients with community-acquired pneumonia often present with cough, fever, chills, fatigue, dyspnea, rigors, and pleuritic chest pain. When a patient presents with suspected community-acquired pneumonia, the physician should first assess the need for hospitalization using a mortality prediction tool, such as the Pneumonia Severity Index, combined with clinical judgment. Consensus guidelines from several organizations recommend empiric therapy with macrolides, fluoroquinolones, or doxycycline. Patients who are hospitalized should be switched from parenteral antibiotics to oral antibiotics after their symptoms improve, they are afebrile, and they are able to tolerate oral medications. Clinical pathways are important tools to improve care and maximize cost-effectiveness in hospitalized patients.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "TYPES OF CAP",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "RADIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "OUTPATIENT VS. INPATIENT TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "PHARMACOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Pneumococcal Resistance",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Cost of Antimicrobial Therapy",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "REDUCING COSTS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "COST-EFFECTIVE CARE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Community-acquired pneumonia (CAP) is defined as pneumonia not acquired in a hospital or a long-term care facility. Despite the availability of potent new antimicrobials and effective vaccines,1an estimated 5.6 million cases of CAP occur annually in the United States.2The estimated total annual cost of health care for CAP in the United States is $8.4 billion.2Table 1presents an overview of CAP including definition, signs and symptoms, etiology, and risk factors."
+        },
+        {
+            "parent": 0,
+            "text": "The epidemiology of CAP is unclear because few population-based statistics on the condition alone are available. The Centers for Disease Control and Prevention (CDC) combines pneumonia with influenza when collecting data on morbidity and mortality, although they do not combine them when collecting hospital discharge data. In 2001, influenza and pneumonia combined were the seventh leading causes of death in the United States,3,4down from sixth in previous years, and represented an age-adjusted death rate of 21.8 per 100,000 patients.3Death rates from CAP increase with the presence of comorbidity and increased age; the condition affects persons of any race or sex equally. The decrease in death rates from pneumonia and influenza are largely attributed to vaccines for vulnerable populations (e.g., older and immunocompromised persons)."
+        },
+        {
+            "parent": 1,
+            "text": "Pneumonia is an inflammation or infection of the lungs that causes them to function abnormally. Pneumonia can be classified as typical or atypical, although the clinical presentations are often similar. Several symptoms commonly present in patients with pneumonia."
+        },
+        {
+            "parent": 2,
+            "text": "Typical pneumonia usually is caused by bacteria such asStreptococcus pneumoniae. Atypical pneumonia usually is caused by the influenza virus, mycoplasma, chlamydia, legionella, adenovirus, or other unidentified microorganism. The patient’s age is the main differentiating factor between typical and atypical pneumonia; young adults are more prone to atypical causes,5,6and very young and older persons are more predisposed to typical causes."
+        },
+        {
+            "parent": 3,
+            "text": "Common clinical symptoms of CAP include cough, fever, chills, fatigue, dyspnea, rigors, and pleuritic chest pain. Depending on the pathogen, a patient’s cough may be persistent and dry, or it may produce sputum. Other presentations may include headache and myalgia. Certain etiologies, such as legionella, also may produce gastrointestinal symptoms."
+        },
+        {
+            "parent": 5,
+            "text": "Physical examination may reveal dullness to percussion of the chest, crackles or rales on auscultation, bronchial breath sounds, tactile fremitus, and egophony (“E” to “A” changes). The patient also may be tachypneic. A prospective study7showed that patients with typical pneumonia were more likely than not to present with dyspnea and bronchial breath sounds on auscultation."
+        },
+        {
+            "parent": 6,
+            "text": "Chest radiography (posteroanterior and lateral views) has been shown to be a critical component in diagnosing pneumonia.8According to the latest American Thoracic Society (ATS) guidelines for the diagnosis and treatment of adults with CAP, “all patients with suspected CAP should have a chest radiograph to establish the diagnosis and identify complications (pleural effusion, multilobar disease).”8Chest radiography may reveal a lobar consolidation, which is common in typical pneumonia; or it could show bilateral, more diffuse infiltrates than those commonly seen in atypical pneumonia. However, chest radiography performed early in the course of the disease could be negative."
+        },
+        {
+            "parent": 7,
+            "text": "Historically, common laboratory tests for pneumonia have included leukocyte count, sputum Gram stain, two sets of blood cultures, and urine antigens. However, the validity of these tests has recently been questioned after low positive culture rates were found (e.g., culture isolates ofS. pneumoniaewere present in only 40 to 50 percent of cases).9Such low positive culture rates are likely due to problems with retrieving samples from the lower respiratory tract, previous administration of antibiotics, contamination from the upper airways, faulty separation of sputum from saliva when streaking slides or plates,9or viral etiology. Furthermore, sputum samples are adequate in only 52.3 percent of patients with CAP, and only 44 percent of those samples contain pathogens.10Nonetheless, initial therapy often is guided by the assumption that the presenting disease is caused by a common bacterial pathogen."
+        },
+        {
+            "parent": 7,
+            "text": "Findings11also cast doubt on the clinical utility of obtaining blood cultures from patients with suspected CAP. In a study12of CAP cases in 19 Canadian hospitals over a six-month period, positive blood cultures were obtained in only 5.2 to 6.2 percent of patients, including those with the most severe disease. Based on these findings, other researchers13concluded that a positive blood culture had no correlation with the severity of the illness or outcome. Another prospective study10showed that blood cultures were positive in only 10.5 percent of patients with pneumonia. Despite these and other research findings, current ATS guidelines8recommend that patients hospitalized for suspected CAP receive two sets of blood cultures. Blood cultures, however, are not necessary for outpatient diagnosis.8"
+        },
+        {
+            "parent": 7,
+            "text": "Legionella antigens were found in the urine of 48 percent of patients with suspectedLegionella pneumophilaserogroup 1 infection.14Table 22,8,11,13includes the sensitivity and specificity of diagnostic tests for CAP."
+        },
+        {
+            "parent": 8,
+            "text": "Initial treatment of CAP is based on physical examination findings, laboratory results, and patient characteristics (e.g., age, chronic illnesses, history of smoking, history of the illness).15Physicians should begin their treatment decisions by assessing the need for hospitalization using a prediction tool for increased mortality, such as the Pneumonia Severity Index(Table 315), combined with clinical judgment.9"
+        },
+        {
+            "parent": 9,
+            "text": "Choosing between outpatient and inpatient treatment is a crucial decision because of the possible risk of death.9,15,16This decision not only influences diagnostic testing and medication choices, it can have a psychological impact on patients and their families. On average, the estimated cost for inpatient care of patients with CAP is $7,500. Outpatient care can cost as little as $150 to $350.17–19Hospitalization of a patient should depend on patient age, comorbidities, and the severity of the presenting disease.9,20"
+        },
+        {
+            "parent": 9,
+            "text": "Physicians tend to overestimate a patient’s risk of death14; therefore, many low-risk patients who could be safely treated as out-patients are admitted for more costly inpatient care. The Pneumonia Severity Index(Table 315)was developed to assist physicians in identifying patients at a higher risk of complications and who are more likely to benefit from hospitalization.9,15,16Investigators developed a risk model based on a prospective cohort study16of 2,287 patients with CAP in Pittsburgh, Boston, and Halifax, Nova Scotia. By using the model, the authors found that 26 to 31 percent of the hospitalized patients were good outpatient candidates, and an additional 13 to 19 percent only needed brief hospital observation. They validated this model using data17from more than 50,000 patients with CAP in 275 U.S. and Canadian hospitals.15–17,21,22"
+        },
+        {
+            "parent": 9,
+            "text": "Although the Pneumonia Severity Index can serve as a general guideline for management, clinical judgment should always supersede the prognostic score.9"
+        },
+        {
+            "parent": 10,
+            "text": "The primary goals of pharmacotherapy for patients with CAP include eradicating the causative pathogens, resolving the clinical signs and symptoms, minimizing hospitalization, and preventing reinfection.23–27Physicians should choose a medication based on the pharmacokinetic profile, adverse reactions, drug interactions, and cost-effectiveness.23–27Further, patient evaluation should focus on severity of illness, patient age, comorbidities, clinical presentation, epidemiologic setting, and previous exposure.9The majority of patients with CAP are treated empirically based on the most common pathogen(s) associated with the condition.23–27"
+        },
+        {
+            "parent": 10,
+            "text": "Consensus guidelines from ATS,8Infectious Diseases Society of America,9and Canadian Guidelines for the Initial Management of Community-Acquired Pneumonia28(Figure 16)recommend initial empiric therapy with macrolides, fluoroquinolones, or doxycycline (Vibramycin). A fourth guideline29developed by the Therapeutic Working Group of the CDC, however, recommends using fluoroquinolones sparingly because of resistance concerns."
+        },
+        {
+            "parent": 10,
+            "text": "Although data are limited on duration of CAP therapy, current research30recommends seven to 10 days of therapy forS. pneumoniaeand 10 to 14 days of therapy forMycoplasma pneumoniaeandChlamydia pneumoniae. After a hospitalized patient is clinically stable (i.e., temperature less than 37.8° C [100.0° F], pulse under 100 beats per minute, respiratory rate below 24 breaths per minute, systolic blood pressure above 90 mm Hg, and blood oxygen saturation over 90 percent) and able to tolerate oral intake, the patient may be treated with oral antibiotics for the remainder of the therapy course. This can save money and allow for earlier hospital discharge, which minimizes a patient’s risk of hospital-acquired infection."
+        },
+        {
+            "parent": 11,
+            "text": "S. pneumoniae, which accounts for 60 to 70 percent of all bacterial CAP cases, can affect all patient groups and can cause a fatal form of CAP. The alarming rate of resistance to many commonly used antibiotics raises great concern. Penicillin-resistantS. pneumoniaewas uncommon in the early 1990s but has since become increasingly prevalent.29,31"
+        },
+        {
+            "parent": 11,
+            "text": "Resistant strains are classified as having intermediate or high-level resistance. Surveillance data in the United States30revealed that, overall, pneumococcal strains had a 28 percent immediate resistance rate and a 16 percent high-level resistance rate. Decreased susceptibility to other commonly used antibiotics has also been observed(Table 432).29–31The clinical importance of these data is questionable because recruiting patients infected with resistant pathogens for clinical trials is difficult. Furthermore, available outcomes on the treatment of pneumonia caused by resistant pneumococcal strains are conflicting.30"
+        },
+        {
+            "parent": 11,
+            "text": "The CDC and others recommend outpatient oral empirical antibiotics with a macrolide, doxycycline, or an oral betalactam (amoxicillin, cefuroxime [Ceftin], or amoxicillin/clavulanate [Augmentin]) or inpatient treatment with an intravenous betalactam (cefuroxime, ceftriaxone [Rocephin], cefotaxime [Claforan]) or a combination of ampicillin/sulbactam (Unasyn) with a macrolide(Figure 16).28,29Conservative use of new fluoroquinolones (levofloxacin [Levaquin], gatifloxacin [Tequin], moxifloxacin [Avelox]) also is recommended to minimize resistance patterns.28,29The new fluoroquinolones (minimum inhibitory concentration: 4 mcg per mL or greater) should be used only when patients have failed recommended first-line regimens, are allergic to alternative agents, or have a documented infection with highly drug-resistant pneumococci such as those resistant to penicillin.28,29"
+        },
+        {
+            "parent": 12,
+            "text": "Economic pressures have accentuated the focus on reducing health care costs and utilizing resources while maintaining or improving quality of care.31These pressures are exacerbated by the growing resistance ofS. pneumoniaeto penicillin.31,32This pattern of resistance increases the cost of treatment because of prolonged hospitalization, relapses, and the use of more expensive antibacterial agents.33–37"
+        },
+        {
+            "parent": 13,
+            "text": "Numerous methods for reducing costs when treating patients with bacterial infections can be applied to CAP(Table 5). Choosing monotherapy instead of combination therapy reduces costs associated with administering an antibacterial.33–37Using agents with longer half-lives allows for once-daily administration, which in turn leads to improved compliance and outcomes and decreased costs.33–37In addition, transitioning patients to oral therapy as soon as they are clinically stable can significantly reduce the length of hospitalization—the major contributing factor to health care costs.33–37"
+        },
+        {
+            "parent": 14,
+            "text": "When choosing a treatment, it is essential to compare costs and outcomes of all recommended drug therapies.3 1Table 66includes the costs of and common adverse reactions to antimicrobial therapies for CAP."
+        },
+        {
+            "parent": 14,
+            "text": "The goal of a formal pharmacoeconomic assessment is to enhance overall patient care using available resources. The evaluation should lead to a decision that will maximize the value of health care services, not simply reduce the costs of drug therapy. For instance, a particular drug may be more expensive, but it may also be more effective, thus lowering overall costs. Another drug may have a higher rate of treatment failures, creating added costs associated with managing the failures. The overall cost of each therapy should be obtained by comparing the end cost with the probability of achieving a positive outcome. Depending on the relative costs associated with treatment failures compared with the costs of cures, the decision to choose one agent over another may change."
+        },
+        {
+            "parent": 14,
+            "text": "The best way to apply cost-saving approaches to the treatment of patients with CAP is by using a clinical pathway.38This is a method of facilitating multidisciplinary patient care by moving processes of care sequentially through various stages, within specified time frames, toward a desired outcome. These pathways should be specific to each institution, taking into account resistance rates in the community and encouraging the use of the most active, cost-effective agents to produce rapid, positive clinical outcomes.31,39"
+        }
+    ],
+    "locked": false
+}

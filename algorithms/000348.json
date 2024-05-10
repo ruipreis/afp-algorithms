@@ -1,0 +1,128 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0315/p453.html#afp20140315p453-f2",
+    "title": "Detecting Elder Abuse and Neglect: Assessment and Intervention | AAFP",
+    "author": "ROBERT M. HOOVER, MD, AND MICHOL POLSON, PhD",
+    "doi": "Am Fam Physician.2014;89(6):453-460",
+    "abstract": "Elder mistreatment includes intentional or neglectful acts by a caregiver or trusted person that harm a vulnerable older person. It can occur in a variety of settings. One out of 10 older adults experiences some form of abuse or neglect by a caregiver each year, and the incidence is expected to increase. Although the U.S. Preventive Services Task Force found insufficient evidence that screening for elder abuse reduces harm, physicians in most states have professional and legal obligations to appropriately diagnose, report, and refer persons who have been abused. Screening or systematic inquiry can detect abuse. A detailed medical evaluation of patients suspected of being abused is necessary because medical and psychiatric conditions can mimic abuse. Signs of abuse may include specific patterns of injury. Interviewing patients and caregivers separately is helpful. Evaluation for possible abuse should include assessment of cognitive function. The Elder Abuse Suspicion Index is validated to screen for abuse in cognitively intact patients. A more detailed two-step process is used to screen patients with cognitive impairment. The National Center on Elder Abuse website provides detailed, state-specific reporting and resource information for family physicians.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Prevalence",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "A Growing Problem",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "THE ELDER ABUSE SUSPICION INDEX",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Medical History",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "INTERVIEW PATIENT AND CAREGIVER SEPARATELY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Physical Signs of Abuse",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Management and Intervention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The National Center on Elder Abuse defines elder abuse as “intentional or neglectful acts by a caregiver or ‘trusted’ individual that lead to, or may lead to, harm of a vulnerable elder.”1Although some authors draw distinctions among mistreatment, abuse, and neglect, this article uses the terms inclusively and interchangeably. The major manifestations of elder abuse are described inTable 1.2"
+        },
+        {
+            "parent": -1,
+            "text": "Abuse appears to occur most often in domestic home situations, and may be perpetrated by adult caregivers, family members, or other persons.3It may also occur in institutional settings such as long-term care facilities, nursing homes, or hospice.4,5Older patients (older than 75 years) tend to have more risk factors (i.e., shared living arrangements, cognitive impairment with disruptive behaviors, social isolation from family and friends, caregiver mental illness [e.g., major depression], alcohol misuse, and caregiver dependency on the older person [e.g., financial]).6These same risk factors can be barriers to detection of abuse. Not all patients who experience abuse readily demonstrate or express risk factors, and, conversely, many patients with risk factors are not being mistreated."
+        },
+        {
+            "parent": 0,
+            "text": "U.S. estimates indicate that one out of 10 older adults experiences abuse or neglect by a caregiver each year.7,8In addition, it appears that only a fraction of cases are reported to authorities, although reported and investigated cases have increased. A study of state Adult Protective Services (APS) cases found that investigated reports increased by 16.3% and that substantiated reports increased by 15.6% from 2000 to 2004.9"
+        },
+        {
+            "parent": 1,
+            "text": "Over the next 20 years, the geriatric proportion of the U.S. population is projected to increase from 12% to 31%.10–12Family physicians can expect more instances of elder abuse because larger numbers of older persons will need medical care.12,13As more states mandate reporting by physicians (most already do), there will be increasing obligations for detection and assessment.14Despite this expected increased demand for expertise, physicians generally lack training, experience, education, and adequate guidelines for the assessment and management of abuse. Less than 2% of reports of elder abuse and neglect to state APS agencies come from physicians.15A 2005 survey of family physicians and internists found that more than 80% of them could not recall any medical school or residency training in this area.16,17Another survey showed that 44% of residency program directors report actively screening patients for elder abuse.18"
+        },
+        {
+            "parent": 2,
+            "text": "The U.S. Preventive Services Task Force found that current evidence is insufficient to assess the balance of harms and benefits of screening all older or vulnerable adults for abuse and neglect. At this time, there does not appear to be supportive evidence that screening and early detection of elder abuse and neglect reduce exposure to abuse, or physical or mental harm from abuse.19The Joint Commission, National Center on Elder Abuse, National Academy of Sciences, and American Academy of Neurology recommend routine screening, and the American Medical Association recommends routine inquiry.20Identification of and intervention in abuse are considered by many to be a professional responsibility for physicians and are an accreditation requirement for hospitals. The University of Maine Center on Aging, Maine Partners for Elder Protection recommends screening once or twice yearly.21"
+        },
+        {
+            "parent": 2,
+            "text": "It is not clear if using specific screening protocols decreases the incidence or impact of elder abuse any more than simply having a generally increased threshold of suspicion.5Validated screening instruments are available for physicians to consistently and systematically inquire about abuse. If a family physician chooses, preventive health visits may function as a reasonable occasion for screening.20,21"
+        },
+        {
+            "parent": 3,
+            "text": "Few instruments designed to detect risk of or suspected abuse have been validated in primary care settings.22The Elder Abuse Suspicion Index (EASI) was validated in a primary care setting and can be used by physicians to screen cognitively intact patients during routine visits(Figure 1).23It has a sensitivity of 0.47 and a specificity of 0.75. The EASI includes five patient-answered items, plus one physician question that can identify patients who are at risk. At least one “yes” response to questions 2 through 6 indicates a need for further assessment.23"
+        },
+        {
+            "parent": 3,
+            "text": "Screening older patients for mistreatment may follow a one- or two-step process, depending on the patient's level of cognitive function. When the physician has known a normally functioning, cognitively intact patient over time, one-step screening using the EASI is recommended. When the physician does not know the patient or suspects dementia, the two-step process begins with screening for cognitive impairment with the Mini-Cog.24It can be administered in less than five minutes and has comparable sensitivity and specificity to the well-known Mini-Mental State Examination.24,25If the Mini-Cog is negative for dementia, the physician may administer the EASI. If the Mini-Cog is positive, further assessment should clarify cognitive impairment before screening for abuse. Cognitive deficits may be limited to specific domains, and a patient may retain memory and capacity in others."
+        },
+        {
+            "parent": 4,
+            "text": "Patients who present with injuries or signs of abuse should be evaluated, treated, and appropriately referred. The physician should begin by asking open-ended questions, such as “Can you tell me what happened?” and “What do you remember about how this injury occurred?”"
+        },
+        {
+            "parent": 4,
+            "text": "A complete medical and surgical history, as well as a complete medication review, should be obtained, including identification of who is responsible for supplying and managing the patient's medications. Specifically, old trauma, evidence of metabolic bone disease, and use of anticoagulants should be noted. A brief functional assessment should assess activities of daily living (e.g., hygiene, toileting, dressing) and instrumental activities of daily living (e.g., shopping, managing finances, managing medications).26,27Next, the patient should be asked about the safety of the home environment. Lastly, questions such as those in the EASI assess the patient's experiences and perceptions of personal safety. When abuse or neglect is strongly suspected, referral for complete multidisciplinary functional assessments may include home visits by local social workers, concerned family or friends, or APS authorities."
+        },
+        {
+            "parent": 4,
+            "text": "While assessing for suspected elder abuse, physicians must differentiate disease processes or normal aging from signs of injuries(Table 2).28Underlying conditions that mimic intentional injury or predispose the patient to injury should be noted. Adverse reactions to home remedies and prescription and nonprescription medications can resemble intentional injuries. Some ethnic groups use traditional healing methods, such as cupping, moxibustion, or coin rubbing, which may cause skin lesions resembling intentional injury.29"
+        },
+        {
+            "parent": 5,
+            "text": "An older patient's neurologic, cognitive, or psychiatric conditions and family dynamics may create barriers to obtaining a reliable history. Fear of retaliation, shame, dependency on the caregiver, and lack of privacy may hinder disclosure. Using neutral, nonjudgmental questions, family physicians should encourage patients and caregivers to provide detailed information. Interviewing the patient alone, when possible, is paramount.21Some older persons have such high dependency on caregivers for navigating health care systems that they are unable to give a one-on-one interview. A potential red flag for the possibility of elder mistreatment is a caregiver who often interrupts the patient to answer questions for him or her. However, such behavior does not always indicate elder mistreatment, and it could be a compensatory behavior for a patient with cognitive impairment. A hovering and protective caregiver does not imply patient intimidation. Some families may not trust health care professionals based on past experiences. Responding with reassurance and sensitivity overcomes patient and family resistance in many, if not most, cases."
+        },
+        {
+            "parent": 6,
+            "text": "Physical findings specific to abuse are rare. Patterns of injury such as ligature marks; multiple burns; and bruises on the abdomen, neck, posterior legs, or medial arms do not generally originate from unintentional trauma such as falls. Physicians might not be able to accurately determine the age of bruises or burns; however, particular sizes, patterns, and locations may suggest intentional injury(Table 3).28–30The presence of unusual or unexplained fractures (e.g., spiral long bone fractures, first rib fractures) requires a more thorough skeletal survey and evaluation for metabolic bone disease."
+        },
+        {
+            "parent": 6,
+            "text": "No laboratory tests exist to definitively detect abuse. Undetectable levels of prescribed drugs may indicate medication withholding, which, in the case of a dependent older person with cognitive impairment, constitutes neglect. Caregivers may divert controlled substances for illicit use. Elevated therapeutic drug levels without medical explanation may indicate intentional or unintentional overdose. The presence of drugs or other toxins that are not prescribed may indicate poisoning. Coagulation studies and a platelet count can rule out a medical reason for abnormal or excessive bruising."
+        },
+        {
+            "parent": 6,
+            "text": "Body charts or clinical photographs (obtained with appropriate consent) are useful to document the location and shape of injuries such as bruises, skin tears, burns, and other skin conditions. If a recent sexual assault is reported or suspected, a forensic examination should be performed by a person with appropriate training and expertise.31The central question for differentiating unintentional from intentional injuries is: “Is the explanation provided reasonably consistent with the physical findings?”"
+        },
+        {
+            "parent": 7,
+            "text": "Depending on the acuity of the presentation, hospitalization may be necessary to provide treatment and protection during further evaluation or pending legal investigation.32,33In the case of positive results on screening tests or other suspicion of abuse, actions are dictated by statutory reporting requirements. Family physicians will need to involve local social services and APS to determine options for disposition."
+        },
+        {
+            "parent": 7,
+            "text": "No consensus exists for a single standard algorithm for the evaluation and management of elder abuse. However, the general algorithm provided inFigure 2is acceptable for most practice settings.34Physicians may insert the statutory requirements for their practice location into the appropriate sections. A safety plan(Table 435)is an important element of the care plan in all situations."
+        },
+        {
+            "parent": 7,
+            "text": "Table 5provides a list of resources about elder abuse. The Administration on Aging's National Center on Elder Abuse website (http://www.ncea.aoa.gov) is the most comprehensive online resource available on elder abuse. It provides specific information on each state's laws defining elder abuse and mandatory reporting requirements; information on local contact agencies and numbers; links for state or local intervention resources; and information for caregivers and patients. Specific resources for each state are also available weekdays via the Eldercare Locator (telephone: 800-677-1116). Even when APS or law enforcement becomes involved, family physicians still bear significant responsibility for follow-up medical care of patients. Relationship continuity can support the patient and family in the process of healing and recovery."
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources: The search included Agency for Healthcare Research and Quality Evidence Reports, Cochrane Database of Systematic Reviews, Clinical Evidence, National Guidelines Clearinghouse, Institute for Clinical Systems Improvement, U.S. Preventive Services Task Force, PubMed, and Google Professional. We used electronic libraries from the University of Tennessee Health Sciences Center, and the Oregon Health and Sciences University. Key terms: elder abuse and neglect; screening instruments for elder abuse, neglect; injury, wound, bruise patterns for elder abuse; mandatory reporting for elder abuse, neglect; and safety plans for elder abuse, neglect. Search date: May 1, 2010, and October 6, 2013."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,176 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/0201/p180.html#afp20180201p180-f2",
+    "title": "Tremor: Sorting Through the Differential Diagnosis | AAFP",
+    "author": "PAUL CRAWFORD, MD, AND ETHAN E. ZIMMERMAN, MD",
+    "doi": "Am Fam Physician.2018;97(3):180-186",
+    "abstract": "Tremor is an involuntary, rhythmic, oscillatory movement of a body part. It is the most common movement disorder encountered in primary care. The diagnosis of tremor is based on clinical information obtained from the history and physical examination. The most common tremors in patients presenting to primary care physicians are enhanced physiologic tremor, essential tremor, and parkinsonian tremor. All persons have low-amplitude, high-frequency physiologic tremors at rest and during action that are not reported as symptomatic, but can be enhanced by anxiety, medication use, caffeine intake, or fatigue. Features consistent with psychogenic tremor are abrupt onset, spontaneous remission, changing tremor characteristics, and extinction with distraction. Other types of tremor include cerebellar, dystonic, and drug- or metabolic-induced. The first step in evaluating a patient with tremor is to categorize the tremor based on its activation condition, topographic distribution, and frequency. Resting tremors occur in a body part that is relaxed and completely supported against gravity. Action tremors occur with voluntary contraction of a muscle and can be further subdivided into postural, isometric, and kinetic tremors. The most common pathologic tremor is essential tremor, which affects 0.4% to 6% of the population. In one-half of cases, it is transmitted in an autosomal-dominant fashion. More than 70% of patients with Parkinson disease have tremor as the presenting feature. This tremor is typically unilateral, occurs at rest, and becomes less prominent with voluntary movement. If there is diagnostic uncertainty, single-photon emission computed tomography can be used to visualize the integrity of the dopaminergic pathways in the brain, and transcranial ultrasonography may be useful to diagnose Parkinson disease.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Classification",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Enhanced Physiologic Tremor",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Essential Tremor",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Parkinsonism",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Drug- and Metabolic-Induced Tremors",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Cerebellar Tremor",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "PSYCHOGENIC TREMOR",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "DYSTONIC TREMOR",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "WILSON DISEASE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "TREMOR IN CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Imaging",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Tremor is an involuntary, rhythmic, oscillatory movement of a body part and is the most common movement disorder encountered in primary care practices.1–3Aside from careful clinical examination and imaging when needed, there is no standard test to distinguish between common types of tremor, which can make the evaluation challenging. However, establishing the underlying cause is important because prognosis and specific treatment plans vary considerably. The most common tremors in patients presenting to primary care physicians are enhanced physiologic tremor, essential tremor, and parkinsonian tremor.1,3–6All tremors are more common in older age.7"
+        },
+        {
+            "parent": 0,
+            "text": "Tremors are classified as resting or action(Table 1).1,8,9A resting tremor occurs in a body part that is relaxed and completely supported against gravity (e.g., when resting on the arm of a chair). It is typically enhanced by mental stress (e.g., counting backward) or movement of another body part (e.g., walking), and diminished by voluntary movement.3,10,11Most tremors are action tremors, which occur with voluntary muscle contraction. Action tremors are subdivided into postural, isometric, and kinetic tremors.8,10A postural tremor is present while maintaining a position against gravity (e.g., arm elevation). An isometric tremor occurs with muscle contraction against a rigid stationary object (e.g., when making a fist). A kinetic tremor is associated with voluntary movement and includes intention tremor, which is produced with target-directed movement.2"
+        },
+        {
+            "parent": 1,
+            "text": "All persons have an asymptomatic physiologic tremor. It is a low-amplitude, high-frequency tremor at rest and during action. This tremor can be enhanced by anxiety, stress, certain medications, and metabolic conditions. Patients with a tremor that comes and goes with anxiety, medication use, caffeine intake, or fatigue do not need further testing.1,8"
+        },
+        {
+            "parent": 2,
+            "text": "The most common pathologic tremor is essential tremor, which is an action tremor. Essential tremor has been described as postural, kinetic, and even as a sporadic resting tremor.3,12One study found that 95% of patients with essential tremor had primarily kinetic, rather than postural, characteristics.12Essential tremor is most obvious in the wrists and hands when patients hold their arms in front of them; however, it can also affect the head, lower extremities, and voice.13It is generally bilateral, is present with different tasks, and interferes with activities of daily living.1,5"
+        },
+        {
+            "parent": 2,
+            "text": "Essential tremor affects 0.4% to 6% of the population.4In about one-half of cases, it is transmitted in an autosomal-dominant fashion.8Although essential tremor can manifest by early adulthood, most patients do not present for treatment until 60 to 69 years of age because it tends to progress slowly. Sometimes called benign essential tremor, essential tremor often causes social embarrassment, and up to 25% of those affected retire early or modify their career path.4,8,9Importantly, 30% to 50% of those initially diagnosed with essential tremor eventually receive an additional tremor diagnosis or a different diagnosis entirely after further evaluation.12"
+        },
+        {
+            "parent": 2,
+            "text": "The diagnosis of essential tremor is clinical, based on classic symptoms and tremor features.2Persons with essential tremor typically have no other neurologic findings; therefore, it is sometimes considered a diagnosis of exclusion.13A video of this tremor is available athttp://www.youtube.com/watch?v=xVRKO-Sz0x4amp;&NR=1."
+        },
+        {
+            "parent": 3,
+            "text": "Parkinsonism is a clinical syndrome characterized by tremor, bradykinesia, rigidity, and postural instability. Many patients also have micrographia, shuffling gait, and masked facies.11,14–16Various medications cause parkinsonism by blocking or depleting dopamine levels (e.g., methyldopa, metoclopramide [Reglan], haloperidol).10,11The most common form is idiopathic Parkinson disease, a chronic neurodegenerative disorder with a prevalence of 1%.17"
+        },
+        {
+            "parent": 3,
+            "text": "Approximately 70% of patients with Parkinson disease have resting tremor as the presenting feature.1,11The classic parkinsonian tremor begins as a low-frequency, pill-rolling motion of the fingers, progressing to forearm pronation/supination and elbow flexion/extension. It is typically unilateral, occurs at rest, and fades with voluntary movement. It can reemerge after latency with maintenance of posture, which can create diagnostic confusion. Tremor can involve the leg and jaw as well.3,9A video example of this tremor can be found athttps://www.youtube.com/watch?v=ZMx07OagyJw."
+        },
+        {
+            "parent": 4,
+            "text": "Dozens of medications can cause or exacerbate any type of tremor(Table 2).18Patients with new-onset tremor should have a comprehensive medication review with specific attention to any medications started before the onset of tremor.8Medications that stimulate the sympathetic nervous system (e.g., amphetamines, terbutaline, pseudoephedrine) and psychoactive medications (e.g., tricyclic antidepressants, haloperidol, fluoxetine [Prozac]) are most likely to cause a postural tremor.1,8,12,13When the medication review reveals a likely culprit, a trial discontinuation should be attempted if clinically possible."
+        },
+        {
+            "parent": 4,
+            "text": "The features and causes of metabolic tremor are varied.8Initial workup of tremor may include blood testing for hepatic encephalopathy (e.g., ammonia level), hypocalcemia, hypoglycemia, hyponatremia, hypomagnesemia, hyperthyroidism, hyperparathyroidism, and vitamin B12deficiency.8"
+        },
+        {
+            "parent": 5,
+            "text": "The classic cerebellar tremor presents as a disabling, low-frequency, slow-intention, or postural tremor, and is typically caused by multiple sclerosis with cerebellar plaques, stroke, or brainstem tumors. Most patients have other neurologic signs of cerebellar dysfunction, including dysmetria (overshoot on finger-to-nose testing), dyssynergia (abnormal heel-to-shin testing), and hypotonia.8,19A video example of this tremor is available athttp://www.youtube.com/watch?v=GQm8klm6ub8."
+        },
+        {
+            "parent": 6,
+            "text": "Differentiating between organic and psychogenic tremor can be difficult. Features consistent with psychogenic tremor are abrupt onset, spontaneous remission, changing tremor characteristics (including location and frequency), and extinction with distraction8,20(Table 318). Often, there is a stressful life event that precedes the tremor.3"
+        },
+        {
+            "parent": 7,
+            "text": "Dystonic tremor is rare, appearing in 0.03% of the population. It typically occurs in patients younger than 50 years. The tremor is usually irregular and jerky, and certain hand or arm positions extinguish the tremor. Other signs of dystonia (e.g., abnormal flexion of the wrists) are always present.8,21"
+        },
+        {
+            "parent": 8,
+            "text": "Wilson disease is a rare, autosomal-recessive disorder that manifests in persons five to 40 years of age, sometimes with a wing-beating tremor. Measurement of serum ceruloplasmin level and 24-hour urinary copper excretion should be considered in young patients presenting with tremor to exclude this potentially life-threatening disease.16,22A video example of this tremor is available athttp://www.youtube.com/watch?v=JgDvQUwUOo0."
+        },
+        {
+            "parent": 9,
+            "text": "The diagnosis of tremor is generally based on clinical information obtained from the history and physical examination.17Although there is overlap and variability among tremor syndromes, the intrinsic features of the tremor usually provide key diagnostic clues(Figure 118;Table 418). The first step is to categorize the tremor based on its activation condition, topographic distribution, and frequency. The activation condition should be described as resting, kinetic (or intention), postural, or isometric. The examiner can have the patient sit with his or her hands in the lap to check for rest tremor. A sequential test for postural and kinetic tremors can involve the patient stretching his or her arms and hands out, followed by a simple finger-to-nose test.2,3A resting tremor is virtually pathognomonic for parkinsonism, whereas an intention tremor often indicates a cerebellar lesion.11Frequency is generally classified as low (less than 4 Hz), medium (4 to 7 Hz), or high (more than 7 Hz). The topographic distribution of the tremor (e.g., limbs, head, voice) can also provide useful information. For example, a high-frequency tremor involving the head is more likely to be essential tremor than parkinsonian tremor.2,3"
+        },
+        {
+            "parent": 9,
+            "text": "Several historical clues can play important roles in differentiating tremor(Figure 218). Tremor in older patients and gradual onset are more likely to be Parkinson disease or essential tremor. Sudden onset of tremor is more likely to be caused by medication use, toxins, a psychogenic cause, or, in rare cases, a brain tumor. A list of clinical features that help differentiate between essential tremor and Parkinson disease is available athttp://www.aafp.org/afp/2003/1015/p1545.html#afp20031015p1545-t3."
+        },
+        {
+            "parent": 9,
+            "text": "Caffeine intake and fatigue are often exacerbating factors in essential tremor with few alleviating factors. Associated conditions and diseases should be identified. For example, fatigued muscles from sleep disorders amplify physiologic tremor, and polyneuropathy from lack of innervations causes small involuntary movements that may be interpreted as tremor. A family history of neurologic disease or tremor suggests a genetic component, which is common in essential tremor. A medication history should be obtained to rule out drug-induced tremor. Patients should be screened for drugs of abuse as well as alcohol overuse and withdrawal because these can cause tremor. Conversely, small amounts of alcohol (30 to 60 g) can temporarily relieve essential tremor and can be a historical clue to the diagnosis.2,3"
+        },
+        {
+            "parent": 9,
+            "text": "The assessment of tremor also includes examination for signs associated with tremor syndromes. Bradykinesia and postural abnormalities, which are late findings, strongly suggest parkinsonism.22Difficulty rising from a seated position, micrographia, reduced arm swing while walking, and masked facies are also features of bradykinesia.23Postural abnormalities can be demonstrated by a positive pull test, where the patient stands in a neutral position and the examiner causes him or her to become unsteady by pulling on the upper arms from behind. This can help isolate cerebellar tremor and prompt evaluation for multiple sclerosis or stroke.24Similarly, coactivation sign is resistance during passive movement of a tremulous limb, but with disappearance of the tremor, which indicates psychogenic tremor. If essential tremor and parkinsonism are both possible diagnoses, the patient should be asked to draw a clockwise spiral. A large, shaky spiral points to essential tremor; however, a small, quivery spiral means that parkinsonism is likely.25The examiner should also look for dystonia (i.e., sustained muscle contraction), cerebellar signs (e.g., ataxia, incoordination), pyramidal signs, neuropathic signs, and signs of systemic disease (e.g., thyrotoxicosis). A shuffling gait is consistent with parkinsonism.2,8,25"
+        },
+        {
+            "parent": 9,
+            "text": "Stanford University has a brief tutorial on the approach to tremor available athttps://www.youtube.com/watch?v=myQdK6BuBws."
+        },
+        {
+            "parent": 10,
+            "text": "The diagnosis of tremor in children is challenging because of myriad potential causes, such as Wilson disease, fragile X syndrome, nutritional deficiencies (e.g., vitamin B12), heavy metal poisoning, and essential tremor. Almost one-half of children with traumatic brain injury experience tremor for up to 18 months.26All childhood tremors are potentially serious and should prompt an in-depth investigation to clarify the cause; patients should be promptly referred to a neurologist.27"
+        },
+        {
+            "parent": 11,
+            "text": "Although the diagnosis of tremor remains primarily clinical, certain imaging modalities can help differentiate some causes of tremor. Noncontrast magnetic resonance imaging and computed tomography can rule out secondary causes of tremor (e.g., multiple sclerosis, mass lesion, stroke) when the history and physical examination are suggestive of a structural cause, or in parkinsonism with atypical features or that is refractory to levodopa.28"
+        },
+        {
+            "parent": 11,
+            "text": "If there is diagnostic uncertainty, single-photon emission computed tomography (SPECT) using ioflupane (123I-FP-CIT SPECT or DaTSCAN), in addition to subspecialty consultation, can be useful for distinguishing Parkinson disease from essential tremor, and to a lesser extent from drug-induced tremor, dystonic tremor, psychogenic tremor, or unilateral postural tremor.29,30When assessing for dopamine transporter dysfunction, 123I-FP-CIT SPECT was 78% sensitive and 97% specific, with a positive likelihood ratio of 26 and a negative likelihood ratio of 0.23 in one case series of 99 patients with suspected Parkinson disease.31A positive test can therefore rule in a diagnosis of Parkinson disease within three years; however, it is not superior to clinical assessment in the diagnosis of Parkinson disease,29and its specific clinical use remains unclear.32"
+        },
+        {
+            "parent": 11,
+            "text": "Transcranial ultrasonography can also predict Parkinson disease by revealing hyperechogenicity of the substantia nigra. A European study of 49 patients in a neurology clinic demonstrated that ultrasonography compared favorably vs. 123I-FP-CIT SPECT for sensitivity (90% vs. 97%), specificity (60% vs. 70%), positive predictive value (77% vs. 82%), and negative predictive value (80% vs. 93%) for the diagnosis of Parkinson disease. Operator inexperience and limited fusion imaging technology, as well as conflicting results from several clinical studies, limit the use of transcranial ultrasonography.33"
+        },
+        {
+            "parent": 11,
+            "text": "This article updates previous articles on this topic byCrawford and Zimmerman18;Smaga34; andCharles, et al.35"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms tremor, movement disorders, ultrasound, and SPECT. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Agency for Healthcare Research and Quality evidence reports, Bandolier, Clinical Evidence, FPIN's Clinical Inquiry database, the Cochrane database, the Institute for Clinical Systems Improvement, the National Guideline Clearinghouse database, Essential Evidence Plus, EBM Online, and UpToDate. Reference lists of recent review articles were also searched for articles not previously discovered. Search dates: January 10 and September 10, 2017."
+        },
+        {
+            "parent": 11,
+            "text": "The opinions expressed in this article do not represent the official opinions of the U.S. Air Force or the Department of Defense."
+        }
+    ],
+    "locked": false
+}

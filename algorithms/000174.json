@@ -1,0 +1,197 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/0915/p357.html#afp20190915p357-f1",
+    "title": "Pelvic Inflammatory Disease: Diagnosis, Management, and Prevention | AAFP",
+    "author": "AMY CURRY, MD, TRACY WILLIAMS, MD, AND MELISSA L. PENNY, DO",
+    "doi": "Am Fam Physician.2019;100(6):357-364",
+    "abstract": "Pelvic inflammatory disease (PID) is an infection of the upper genital tract occurring predominantly in sexually active young women.Chlamydia trachomatisandNeisseria gonorrhoeaeare common causes; however, other cervical, enteric, bacterial vaginosis–associated, and respiratory pathogens, includingMycobacterium tuberculosis, may be involved. PID can be acute, chronic, or subclinical and is often underdiagnosed. Untreated PID can lead to chronic pelvic pain, infertility, ectopic pregnancy, and intra-abdominal infections. The diagnosis is made primarily on clinical suspicion, and empiric treatment is recommended in sexually active young women or women at risk for sexually transmitted infections who have unexplained lower abdominal or pelvic pain and cervical motion, uterine, or adnexal tenderness on examination. Mild to moderate disease can be treated in an outpatient setting with a single intramuscular injection of a recommended cephalosporin followed by oral doxycycline for 14 days. Additionally, metronidazole is recommended for 14 days in the setting of bacterial vaginosis, trichomoniasis, or recent uterine instrumentation. Hospitalization for parenteral antibiotics is recommended in patients who are pregnant or severely ill, in whom outpatient treatment has failed, those with tubo-ovarian abscess, or if surgical emergencies cannot be excluded. Treatment does not change in patients with intrauterine devices or those with HIV. Sex partner treatment is recommended; expedited partner treatment is recommended where legal. Prevention of PID includes screening forC. trachomatisandN. gonorrhoeaein all women younger than 25 years and those who are at risk or pregnant, plus intensive behavioral counseling for all adolescents and adults at increased risk of sexually transmitted infections.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors and Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Features",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Physical Examination and Diagnostic Studies",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Special Populations",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "PREGNANCY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PENICILLIN ALLERGY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "INTRAUTERINE DEVICES",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "HIV",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Monitoring and Counseling",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Sex Partners",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Screening and Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Pelvic inflammatory disease (PID) includes an array of infectious processes that damage the endometrium, fallopian tubes, ovaries, and pelvic peritoneum. Sexually transmitted infections (STIs) cause most PID cases, but organisms associated with bacterial vaginosis (BV) have also been implicated. Approximately 15% of untreated chlamydial infections progress to PID; this percentage may be higher with gonococcal infections.1Delayed diagnosis contributes to inflammatory sequelae, including infertility, ectopic pregnancy, and chronic pelvic pain.2,3Approximately one in six women with salpingitis develops infertility.2,3The cost of having PID has previously been estimated at $1,995 per patient, not including expenses for future evaluation and treatment of complications.4Based on the National Health and Nutrition Examination Survey 2013–2014 data, 4.4% of women (2.5 million) 18 to 44 years of age in the United States reported a history of PID.5Although studies suggest an overall decline in rates of PID, cases of gonorrhea and chlamydia are increasing.6This is especially worrisome with the rise of antibiotic-resistantNeisseria gonorrhoeae."
+        },
+        {
+            "parent": -1,
+            "text": "Because of emerging resistance, routine use of quinolones is no longer recommended for pelvic inflammatory disease to provide empiric coverage for gonorrhea."
+        },
+        {
+            "parent": -1,
+            "text": "Intrauterine devices pose no increased risk of pelvic inflammatory disease beyond the first 20 days postinsertion."
+        },
+        {
+            "parent": -1,
+            "text": "Intrauterine devices do not need to be removed if the patient with pelvic inflammatory disease is clinically improving within 48 to 72 hours of initiation of antibiotics."
+        },
+        {
+            "parent": 0,
+            "text": "Risk factors for PID include age younger than 25 years, new or multiple sex partners, unprotected sexual intercourse, intercourse with a symptomatic partner, young age at onset of sexual activity (younger than 15 years), or a history of STIs or PID.7The possibility of PID should be considered in any sexually active woman.8Many women falsely believe they are in a monogamous relationship or that their partner does not harbor an STI; therefore, a low threshold for screening is warranted."
+        },
+        {
+            "parent": 0,
+            "text": "Damage to the epithelium by infection (typicallyChlamydia trachomatisorN. gonorrhoeae) allows organisms to ascend the upper genital tract from the cervix. A variety of microbes have been isolated in PID.9The role ofMycoplasma genitalium,Gardnerella vaginalis, andUreaplasma urealyticumin PID is not clear. Several studies have shown a relationship between PID and BV-associated anaerobic bacteria, but it remains unclear whether screening and treatment for BV decrease the incidence of PID.8–10Infection can also reach the upper genital tract from the parametrium through the lymphatic system or, rarely, through hematogenous routes, such as in patients with tuberculosis."
+        },
+        {
+            "parent": 1,
+            "text": "PID is often underdiagnosed because of the wide variation and severity of symptoms.8Patients may be asymptomatic. Many women with tubal factor infertility have histologic evidence of PID despite having no previous diagnosis.11,12The cardinal symptom of PID is the abrupt onset of lower abdominal or pelvic pain in a sexually active woman.8Symptoms can be subtle with mild bilateral lower abdominal pain that worsens with coitus, abnormal uterine bleeding, increased urinary frequency, dysuria, or abnormal vaginal discharge. Fever may also occur, but it is not the dominant symptom. Right upper quadrant pain that is worse with movement and breathing is caused by inflammation and adhesions of the liver capsule, such as in perihepatitis (i.e., Fitz-Hugh–Curtis syndrome)."
+        },
+        {
+            "parent": 2,
+            "text": "The diagnosis of PID is clinical, with imaging and more invasive studies reserved for cases of diagnostic uncertainty or concern for complications (e.g., tubo-ovarian abscess).8,13Therefore, physicians should make the diagnosis and initiate treatment for PID if no other diagnosis is more likely in sexually active women younger than 25 years or in older women at risk for STIs who present with pain in the lower abdomen or pelvis and one or more of the clinical findings shown inFigure 1.8"
+        },
+        {
+            "parent": 2,
+            "text": "Most women with PID have evidence of lower genital tract infection, such as mucopurulent discharge or an increase in white blood cells on saline microscopy (i.e., wet prep with at least one white blood cell per epithelial cell).14The absence of such findings should prompt reconsideration of the differential diagnosis of lower abdominal pain(Table 1).15–18Presumptive diagnosis is sufficient to initiate empiric antibiotic treatment, even in mildly symptomatic patients."
+        },
+        {
+            "parent": 2,
+            "text": "Adding more diagnostic findings increases the specificity of diagnosis, but this comes at the risk of decreasing sensitivity, thereby potentially missing cases of PID.8Findings that help support the diagnosis of PID are listed inTable 2.8"
+        },
+        {
+            "parent": 3,
+            "text": "Bimanual examination should be performed on all patients with suspected PID to assess for cervical motion, uterine, and/or adnexal tenderness; adnexal masses; or tubo-ovarian abscess. Speculum examination should be performed to identify mucopurulent cervical discharge. Saline microscopy of vaginal discharge may reveal predominant white blood cells, which could indicate coexisting BV and trichomoniasis."
+        },
+        {
+            "parent": 3,
+            "text": "All patients suspected of having PID should have a serum or urine pregnancy test; if positive, ectopic pregnancy should be excluded. Patients should also be screened with nucleic acid amplification tests for chlamydia and gonorrhea using vaginal swabs self-collected by the patient or vaginal or endocervical specimens collected by the physician.19The nucleic acid amplification tests for gonorrhea and chlamydia are highly sensitive (90% to 98% and 88.9% to 95.2%, respectively), specific (98% to 100% and 99.1% to 100%, respectively), and cost-effective.20Negative results do not exclude infections of the upper reproductive tract, but a positive result in combination with one of the minimum criteria supports the diagnosis of PID.8Nucleic acid amplification tests used forM. genitaliumare not currently recommended.8"
+        },
+        {
+            "parent": 3,
+            "text": "In cases of diagnostic uncertainty or findings suggestive of tubo-ovarian abscess, physicians may consider a variety of imaging modalities(Table 1).15–18Thickened, fluid-filled tubes; free pelvic fluid; or tubo-ovarian abscess on transvaginal ultrasonography or magnetic resonance imaging may be seen in PID.21Power Doppler studies with transvaginal ultrasonography reveals hyperemia in the setting of PID.22Computed tomography may show free fluid in the pelvis, fat stranding, reactive lymphadenopathy, or thickened tubes, as well as a tubo-ovarian complex or perihepatic inflammation.23Diagnostic laparoscopy may show salpingitis, tubo-ovarian abscess, peritonitis, and possibly perihepatitis. Endometrial biopsy may demonstrate endometritis on histopathology.24Diagnostic evaluation should not delay treatment.8"
+        },
+        {
+            "parent": 4,
+            "text": "Treatment should not be withheld until STI testing results are known. Delaying treatment by two to three days from presentation increases the risk of infertility and ectopic pregnancy nearly threefold.25The current Centers for Disease Control and Prevention (CDC) recommendations for inpatient and outpatient treatment of PID are listed inTable 38andTable 4.8Antibiotic selection is based on the need for inpatient vs. outpatient care.No differences in pregnancy rates, time to pregnancy, PID recurrence, chronic pelvic pain, or ectopic pregnancy have been found in women with mild to moderate PID who receive outpatient treatment.3,26"
+        },
+        {
+            "parent": 4,
+            "text": "Indications for inpatient treatment include pregnancy; failure or intolerance of oral therapy; high fever, nausea, vomiting, intractable abdominal pain, or severe illness; tubo-ovarian abscess; or when surgical emergency cannot be excluded.8In women requiring inpatient treatment, any of the CDC-recommended parenteral antibiotic regimens may be used. If the patient is not vomiting, oral doxycycline is preferred over parenteral administration because of the pain of intravenous infusion and similar bioavailability.8"
+        },
+        {
+            "parent": 4,
+            "text": "Patients may be transitioned from parenteral to oral therapy after 24 hours of clinical improvement. Completion of 14 days of treatment with oral medications is recommended. Those patients treated with any of the CDC-recommended inpatient regimens or with the alternative regimen should be transitioned to oral doxycycline, 100 mg every 12 hours. However, patients treated specifically with clindamycin and gentamicin should be transitioned to oral doxycycline, 100 mg every 12 hours, or oral clindamycin, 450 mg every six hours. If a tubo-ovarian abscess is present, in addition to surgical consultation, the patient should be transitioned to oral doxycycline, 100 mg every 12 hours, with either oral clindamycin, 450 mg every six hours, or oral metronidazole (Flagyl), 500 mg every 12 hours, to provide additional anaerobic coverage."
+        },
+        {
+            "parent": 4,
+            "text": "Intramuscular and oral therapy can be used for patients who do not need inpatient treatment. The importance of extended anaerobic coverage in the treatment of PID is still unknown. The CDC currently recommends considering the addition of metronidazole in all outpatient treatment of PID and in patients who have trichomoniasis, BV, or recent uterine instrumentation. Infection withM. genitaliumshould be considered in cases of PID refractory to treatment because this organism does not typically respond to standard PID treatment regimens.8The role ofM. genitaliumin PID is an area of future research."
+        },
+        {
+            "parent": 4,
+            "text": "Because of emerging resistance, routine quinolone use is no longer recommended as PID treatment in providing empiric coverage for gonorrhea.8The use of a quinolone can be considered if the community prevalence and individual risk for gonorrhea is low, the patient is likely to follow up after treatment, and a culture for gonorrhea can be obtained before starting treatment. If these criteria are met, an alternative regimen for outpatient treatment of PID includes levofloxacin (Levaquin), 500 mg orally every 24 hours; moxifloxacin (Avelox), 400 mg orally every 24 hours; or ofloxacin, 400 mg orally every 12 hours, with metronidazole, 500 mg orally every 12 hours for 14 days.8"
+        },
+        {
+            "parent": 4,
+            "text": "If the culture isolate is found to be quinolone-resistant and the patient has a cephalosporin allergy, consultation with an infectious disease subspecialist is recommended, or inpatient treatment with clindamycin or gentamicin can be used.8"
+        },
+        {
+            "parent": 6,
+            "text": "Pregnant patients with PID warrant admission to the hospital for parenteral antibiotics. The preferred regimen does not include doxycycline and is not specified in the CDC PID guidelines.8"
+        },
+        {
+            "parent": 7,
+            "text": "Physicians should take a careful history in patients reporting a penicillin allergy to determine the level of risk in using a second- or third-generation cephalosporin antibiotic for the empiric treatment of PID or gonorrhea. The cross-reactivity is negligible between penicillins and third-generation cephalosporins.27If cephalosporin treatment for PID cannot be safely administered, the patient can be hospitalized for parenteral antibiotic treatment with clindamycin or gentamicin."
+        },
+        {
+            "parent": 8,
+            "text": "Intrauterine devices (IUDs) pose no increased risk for PID beyond the first 20 days postinsertion.28IUDs do not need to be removed if the patient is clinically improving within 48 to 72 hours of initiation of antibiotics because clinical outcomes are similar, if not improved, in patients with retained IUDs.29Treatment outcomes in women with levonorgestrel-releasing IUDs (Mirena) are unknown because current studies include only copper or nonhormonal IUDs."
+        },
+        {
+            "parent": 9,
+            "text": "Women with PID who also have HIV have similar symptoms and respond similarly to treatment as those without HIV; however, women with HIV are at increased risk of tubo-ovarian abscesses and have higher rates of mycoplasma and streptococcal infections. Therefore, they need to be followed closely for response to treatment.30"
+        },
+        {
+            "parent": 10,
+            "text": "Patients should have follow-up within 48 to 72 hours after hospital discharge or initiation of outpatient treatment to determine clinical improvement and treatment tolerance. They should be tested for all STIs, including HIV and syphilis. Patients are advised to abstain from all sexual activity until they and their partners are fully treated and they are symptom-free. All women diagnosed with chlamydial or gonococcal PID, including pregnant patients, need to repeat testing for chlamydia and gonorrhea in three months regardless of sex partner treatment.8,31Three-month rescreening is distinct from a test of cure, which occurs earlier. Because of the risk of false positives from nonviable organisms, test of cure three to four weeks after completing the CDC-recommended therapy for chlamydial infections is not recommended and should be obtained only in pregnant patients.8Patients should be counseled on the complications of PID, the need for safe sex practices, and the risk of having multiple sex partners in PID recurrence."
+        },
+        {
+            "parent": 11,
+            "text": "Patients who have had sexual contact within 60 days with a woman who has PID should be offered STI testing and treatment. For those partners without health care,patient-delivered partner therapy or expedited partner therapy, providing medications to sex partners who are not established patients without an examination, should be offered. Studies have shown an approximately 20% reduction in chlamydia prevalence and 50% reduction in gonorrhea at follow-up if used.8,32The legal status of individual states for expedited partner therapy can be found athttps://www.cdc.gov/std/ept."
+        },
+        {
+            "parent": 11,
+            "text": "Standard treatment of the partner for chlamydia and trichomonas is indicated for sexual contacts of the patient. Gonorrhea treatment is limited to oral options, and treatment in this setting is cefixime, 400-mg single dose, and azithromycin (Zithromax), 1-g single dose.8Prescriptions should be accompanied with treatment instructions and recommendations for STI testing, safe sex practices, and sexual abstinence until both partners have completed therapy and symptoms, if present, have resolved."
+        },
+        {
+            "parent": 12,
+            "text": "No specific screening recommendation exists for PID; however, testing for chlamydia and gonorrhea has been shown to decrease the incidence of PID in high-risk populations.33The U.S. Preventive Services Task Force recommendations for chlamydia and gonorrhea screening are listed inTable 534and apply to all sexually active women, including pregnant women.34Specifically, annual screening for chlamydia and gonorrhea is recommended for all sexually active women younger than 25 years and for women at increased risk.Additionally, all pregnant women at high risk for STIs should be rescreened in the third trimester.8The American Academy of Family Physicians supports these recommendations.35"
+        },
+        {
+            "parent": 12,
+            "text": "The U.S. Preventive Services Task Force recommends intensive behavioral counseling for all adults who are at increased risk for STIs and all sexually active adolescents.34Intensive counseling is defined as a minimum of two hours of education. Less intensive interventions (30 minutes to two hours) have shown benefit, but benefit increases with intensity of intervention. Counseling topics include the basics of STIs (transmission/prevention) and practical safe sex skills (condom use, open discussions, goal setting).34The CDC provides behavioral intervention resources (http://effectiveinterventions.org) and counseling methods (http://nnptc.org). The American College of Obstetricians and Gynecologists does not recommend prophylactic antibiotics for colposcopy, loop electrosurgical excision, endometrial biopsy, IUD insertion, or endometrial ablation. Antibiotic prophylaxis is recommended in a woman undergoing hysterosalpingography if she has a history of PID or dilated tubes at the time of the procedure, uterine evacuation for early pregnancy loss, and first- or second-trimester abortions.36"
+        },
+        {
+            "parent": 12,
+            "text": "This article updates previous articles on this topic byGradison37andCrossman.38"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:A PubMed search was completed using the following key terms: PID, pelvic inflammatory disease, intrauterine devices, sexually transmitted infections, sexually transmitted diseases, chlamydia, and gonorrhea. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Additional searches included U.S. Preventive Services Task Force, the Cochrane database, and UpToDate. Essential Evidence Plus was also used. Search dates: July 30, 2018; February 12, 2019; and May 13, 2019."
+        }
+    ],
+    "locked": false
+}

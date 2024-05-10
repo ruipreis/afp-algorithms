@@ -1,0 +1,177 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0900/p316.html#afp20210900p316-f1",
+    "title": "Outpatient Primary Care Management of Headaches: Guidelines from the VA/DoD | AAFP",
+    "author": null,
+    "doi": "Am Fam Physician.2021;104(2):316-320",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Secondary Headaches",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Primary Headaches",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Tension-Type Headaches",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Migraine Headaches",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Cluster Headaches",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Key Points for Practice"
+        },
+        {
+            "parent": -1,
+            "text": "• Ibuprofen and high-dose acetaminophen improve acute tension-type headaches. Amitriptyline is effective at preventing tension-type headaches after three months of treatment."
+        },
+        {
+            "parent": -1,
+            "text": "• Triptans, ibuprofen, naproxen, aspirin, and high-dose acetaminophen are effective treatments for acute migraine. Intravenous magnesium and greater occipital nerve blocks are also effective."
+        },
+        {
+            "parent": -1,
+            "text": "• Effective migraine preventive medications include candesartan, telmisartan, lisinopril, oral magnesium, topiramate, propranolol, erenumab, fremanezumab, and galcanezumab."
+        },
+        {
+            "parent": -1,
+            "text": "• Galcanezumab reduces cluster headache frequency, whereas triptans and oxygen may improve acute cluster headaches."
+        },
+        {
+            "parent": -1,
+            "text": "From theAFPEditors"
+        },
+        {
+            "parent": -1,
+            "text": "Headache disorders affect two-thirds of people in their lifetime, and a large number of potential treatments exist. The U.S. Department of Veterans Affairs and U.S. Department of Defense (VA/DoD) published updated guidelines for the treatment of headache disorders based on a systematic review."
+        },
+        {
+            "parent": 0,
+            "text": "Secondary headaches are caused by an identifiable process. Cervicogenic headache, posttraumatic headache, and medication overuse headache are the most common secondary headaches. Red flag symptoms(Table 1)suggest a secondary headache etiology requiring urgent investigation. Primary headaches are diagnosed when a secondary cause cannot be identified(Figure 1)."
+        },
+        {
+            "parent": 0,
+            "text": "Medication overuse headaches result from frequent use of acute headache medications. Medication overuse headaches often have a frequency between seven and 14 days per month and usually start after three months of frequent acute medication use. Using anxiolytics, analgesics, and sleep-inducing medications increases medication overuse headache risk. Celecoxib (Celebrex), prednisone, and specific medication withdrawal strategies have been proposed to wean overused medications, but none are superior to usual care."
+        },
+        {
+            "parent": 0,
+            "text": "Some nonpharmacologic treatments are effective for most headaches. Aerobic exercise and progressive strength training decrease headache frequency for numerous headache disorders. Mindfulness-based therapies may slightly reduce headache frequency for all headache types. Acupuncture yields small or inconsistent pain relief compared with sham acupuncture. Cognitive behavior therapy and biofeedback do not seem to be effective. Dietary food elimination trials and neuromodulation, including transcranial magnetic stimulation, transcranial direct current stimulation or pulsed radiofrequency, and sphenopalatine ganglion block have insufficient evidence."
+        },
+        {
+            "parent": 0,
+            "text": "There is no proven preventive medication for secondary headaches. Small studies suggest fluoxetine (Prozac) and venlafaxine slightly improve uncharacterized episodic headaches."
+        },
+        {
+            "parent": 1,
+            "text": "Tension-type, migraine, and cluster headaches are the most common primary headaches. Primary headaches are differentiated by clinical criteria from the International Classification of Headache Disorders, third edition. Episodic headaches occur fewer than 15 days a month, whereas chronic headaches occur more frequently. Although criteria help distinguish primary headaches, therapy should not be withheld if criteria are not fully met. Instead, empiric therapy for a probable headache diagnosis should be considered(Table 2)."
+        },
+        {
+            "parent": 2,
+            "text": "Tension-type headaches affect more than one-half of adults and last from 30 minutes to seven days. They present with at least two of the following characteristics: bilateral location, a squeezing or tightening sensation, mild to moderate intensity, and no change with physical activity. Nausea and vomiting are not present. Photophobia or phonophobia may be present, but normally not both."
+        },
+        {
+            "parent": 2,
+            "text": "Physical therapy, specifically manual therapy, modestly reduces tension-type headache frequency. Other nonpharmacologic treatments are not effective."
+        },
+        {
+            "parent": 2,
+            "text": "For acute medical treatment, only acetaminophen and ibuprofen have been studied. Acetaminophen at 1,000 mg and ibuprofen at 400 mg increase the likelihood of being pain free two hours later; lower doses of acetaminophen are not effective."
+        },
+        {
+            "parent": 2,
+            "text": "Amitriptyline effectively prevents tension-type headaches, reducing headache frequency and the need for abortive medications. Benefits are seen after three months of use. OnabotulinumtoxinA (Botox) injections are not effective for tension-type headaches."
+        },
+        {
+            "parent": 3,
+            "text": "Migraines last from four hours to three days and have at least two defining characteristics of unilaterality, moderate to severe intensity, throbbing or pulsating sensation, and aggravation by regular activity. Nausea, vomiting, photophobia, and phonophobia are commonly present."
+        },
+        {
+            "parent": 3,
+            "text": "Avoiding dietary triggers decreases migraine frequency, so education about these triggers can be helpful. Limited study suggests noninvasive vagus nerve stimulation is not beneficial. Greater occipital nerve blocks are effective for acute migraines without significant adverse effects."
+        },
+        {
+            "parent": 3,
+            "text": "Acute migraines respond to nonsteroidal medications and triptans. Ibuprofen appears to be slightly more effective than naproxen, aspirin, and acetaminophen. Of the triptans, sumatriptan (Imitrex) has the most evidence, but eletriptan (Relpax) is more effective in comparison studies. If one triptan is not effective or limited by adverse effects, alternatives should be considered. Opioid analgesics are not recommended due to risks of medication overuse headaches and abuse. Evidence for acute migraine treatment medications is summarized inTable 3."
+        },
+        {
+            "parent": 3,
+            "text": "In the clinic or emergency department, other acute treatments can be considered. Intravenous magnesium reduces headache pain but can cause flushing, vasodilation, and hypotension. Although metoclopramide (Reglan) and prochlorperazine are commonly used in emergency care, the few trials show little benefit. A small trial of intravenous ketamine (Ketalar) did not improve pain from migraines."
+        },
+        {
+            "parent": 3,
+            "text": "Several medications prevent or reduce migraine headaches when taken regularly. Antihypertensives are inexpensive and effective. The angiotensin receptor blockers telmisartan (Micardis) and candesartan (Atacand) reduce migraine frequency with few adverse effects. Lisinopril appears to reduce time with a headache but not frequency. Propranolol decreases the number of days with a migraine headache. Calcium channel blockers do not appear effective."
+        },
+        {
+            "parent": 3,
+            "text": "Several antiepileptics are effective. Topiramate (Topamax) decreases migraine frequency, and can treat alcohol use disorders, obesity, and post-traumatic stress. Topiramate is dosed between 50 mg and 200 mg daily, with increasing benefits and adverse effects at higher dosages. Valproates are less effective than topiramate and have more adverse effects, including weight gain, dizziness, and teratogenicity. Gabapentin (Neurontin) is minimally effective at high doses, and adverse effects are common."
+        },
+        {
+            "parent": 3,
+            "text": "The monoclonal antibody calcitonin gene-related peptide receptor inhibitors erenumab (Aimovig), fremanezumab (Ajovy), and galcanezumab (Emgality) were introduced in 2018. Weekly or monthly subcutaneous injections decrease migraine frequency and improve health-related quality of life. These medications are limited by high cost and lack of long-term safety information."
+        },
+        {
+            "parent": 3,
+            "text": "Although numerous dietary supplements have been proposed for migraine prevention, few appear effective. Oral magnesium at 400 mg to 600 mg daily reduces migraine frequency with adverse effects from gastrointestinal intolerance. Melatonin likely reduces migraine frequency, but coenzyme Q10 and vitamin B2show inconsistent benefits. Vitamin B6(pyridoxine) appears to decrease migraine intensity without reducing frequency."
+        },
+        {
+            "parent": 3,
+            "text": "OnabotulinumtoxinA injections decrease migraine headache days only in patients with more than 15 headaches per month and do not reduce acute medication use. Severe adverse effects are rare."
+        },
+        {
+            "parent": 4,
+            "text": "Cluster headaches last 15 to 180 minutes, occur in clusters up to eight times per day, and are intense. Cluster headaches are often unilateral, periorbital or temporal, and have a stabbing or boring quality. People with cluster headaches commonly experience autonomic phenomena such as tearing, rhinorrhea, agitation, and restlessness."
+        },
+        {
+            "parent": 4,
+            "text": "Noninvasive vagus nerve stimulation likely decreases pain during episodic cluster headaches. Triptans and oxygen therapy are commonly used to treat acute cluster headaches despite limited evidence. Subcutaneous sumatriptan may be the most effective acute treatment. Oxygen therapy has little trial evidence but is often reported to be effective. For cluster headache prevention, monthly subcutaneous injection of galcanezumab increases the likelihood of a 50% reduction in headache frequency with a number needed to treat of 6."
+        },
+        {
+            "parent": 4,
+            "text": "Editor's Note:This VA/DoD guideline on management of headaches is impressive in that it covers many headache types and has a comprehensive evidence review. The recommendation to use amitriptyline for tension-type headache prevention will change my practice, and I have already started candesartan and telmisartan for migraine prevention. The recommendation to use magnesium for migraine prevention is important because it is a safe option in pregnancy. The American Academy of Neurology (AAN) has not published migraine guidelines for adults since 2012 and cluster headache guidelines since 2010. These recommendations differ from those in previousAFParticles on migraine prevention (https://www.aafp.org/afp/2019/0101/p17.html) and frequent headaches (https://www.aafp.org/afp/2020/0401/p419.html), which reference the older AAN guidelines.— Michael J. Arnold, MD, Contributing Editor"
+        },
+        {
+            "parent": 4,
+            "text": "The views expressed are those of the authors and do not necessarily reflect the official policy or position of the Department of the Navy, Uniformed Services University of the Health Sciences, Department of Defense, or the U.S. government."
+        },
+        {
+            "parent": 4,
+            "text": "Guideline source:U.S. Department of Veterans Affairs and U.S. Department of Defense"
+        },
+        {
+            "parent": 4,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": 4,
+            "text": "Systematic literature search described?Yes"
+        },
+        {
+            "parent": 4,
+            "text": "Guideline developed by participants without relevant financial ties to industry?Yes"
+        },
+        {
+            "parent": 4,
+            "text": "Recommendations based on patient-oriented outcomes?Yes"
+        },
+        {
+            "parent": 4,
+            "text": "Available at:https://www.healthquality.va.gov/guidelines/Pain/headache"
+        }
+    ],
+    "locked": false
+}

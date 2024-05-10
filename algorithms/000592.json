@@ -1,0 +1,71 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/0415/p1153.html#afp20080415p1153-f1",
+    "title": "Diagnosis of Appendicitis: Part II. Laboratory and Imaging Tests | AAFP",
+    "author": "MARK H. EBELL, MD, MS, Athens, Georgia",
+    "doi": "Am Fam Physician.2008;77(8):1153-1155",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Question",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evidence Summary",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Applying the Evidence",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "How should laboratory and imaging tests be used in the diagnosis of appendicitis?"
+        },
+        {
+            "parent": 1,
+            "text": "Although individual signs and symptoms are of limited value in the diagnosis of appendicitis, the Alvarado (also known as the MANTRELS [Migration of pain to the right lower quadrant, Anorexia, Nausea/vomiting, Tenderness in the right lower quadrant, Rebound pain, Elevation of temperature, Leukocytosis, Shift of white blood cell (WBC) count to the left]) and Ohmann scores can accurately identify patients at low, moderate, and high risk.1,2This categorization provides a rational basis for the interpretation of diagnostic tests that minimizes unnecessary surgery while maintaining a high sensitivity for identifying appendicitis."
+        },
+        {
+            "parent": 1,
+            "text": "A systematic review identified 24 studies of patients hospitalized with suspected appendicitis; most were prospective studies of consecutive patients, and studies including only children were excluded.3Table 1shows accuracy data for laboratory tests and several combinations of variables, which were reported in individual studies.3,4The cutoffs were chosen to maximize positive and negative likelihood ratios. For example, varying the cutoff for the WBC count from 10,000 cells per mm3(10 × 109per L) to 15,000 cells per mm3(15 × 109per L) did not greatly change the positive likelihood ratio, but worsened the negative likelihood ratio from 0.26 to 0.81.3"
+        },
+        {
+            "parent": 1,
+            "text": "Two meta-analyses have reviewed the accuracy of computed tomography (CT) and ultrasonography in the diagnosis of appendicitis.4,5The first was limited to prospective studies, but did not separate data for adults and children.5It found an overall sensitivity and specificity of 94 and 95 percent, respectively, for CT and 86 and 81 percent, respectively, for ultrasonography. A more recent meta-analysis had generally similar results, but data for children (26 studies) and adults (31 studies) were reported separately4(Table 13,4)."
+        },
+        {
+            "parent": 1,
+            "text": "Several studies have examined history and physical examination findings combined with diagnostic imaging in the evaluation of patients with suspected appendicitis. In a prospective Australian study of patients six to 82 years of age who were referred for surgery because of suspected appendicitis, 302 patients were randomly selected to receive usual treatment or treatment guided by Alvarado score and ultrasound findings.6Patients with an Alvarado score of less than 4 points were observed, those with a score of 4 to 8 points received compression ultrasonography, and those with a score of more than 8 points were recommended for surgery. In the intervention group, there was a trend toward more therapeutic operations and a shorter time to therapeutic operation.6"
+        },
+        {
+            "parent": 1,
+            "text": "In another prospective study of 308 patients, CT was performed only in the 198 patients who had a probability of appendicitis between 20 and 80 percent based on the surgeon's clinical judgment.7Patients with a higher probability went directly to surgery, and those with a lower probability were observed. Of the 74 patients with positive CT results for appendicitis, 67 (91 percent) were diagnosed with appendicitis. Of 118 patients with negative CT results, only five (4 percent) were diagnosed with appendicitis.7"
+        },
+        {
+            "parent": 1,
+            "text": "Figure 1is a suggested algorithm for the treatment of patients with suspected appendicitis.3–6The algorithm incorporates the Alvarado and Ohmann scores (see the March 15, 2008, Point-of-Care Guides for the scores and their interpretations) and a combination of laboratory tests that are shown to be highly predictive of appendicitis when abnormal."
+        },
+        {
+            "parent": 1,
+            "text": "Imaging is reserved for patients with an equivocal likelihood of appendicitis. This approach is consistent with an evidence-based practice guideline from the Cincinnati Children's Hospital Medical Center, which suggests imaging only for patients with an intermediate likelihood of appendicitis.8Because of increasing concerns about radiation exposure with abdominal CT, ultrasonography or limited appendiceal CT is an option, especially in younger patients.9"
+        },
+        {
+            "parent": 1,
+            "text": "Note that the algorithm in this article is designed to assist the physician; it is not a replacement for the surgeon's clinical judgment. A completeencounter formfor the diagnosis of appendicitis is available as a PDF download."
+        },
+        {
+            "parent": 2,
+            "text": "A 12-year-old boy presents with steady abdominal pain that has persisted for six hours. His temperature is 100.4° F (38° C). The pain is diffuse, is not localized to the right lower quadrant, and has not migrated. The patient does not have urinary symptoms and has not vomited, although his appetite is diminished. His WBC count is 12,000 cells per mm3(12 × 109per L), but there is no left shift (54 percent neutrophils) and the C-reactive protein level is 0.4 mg per dL (4 mg per L). The physical examination reveals no rigidity, guarding, or rebound tenderness. Should you advise his parents to observe him overnight, consider imaging, or refer the patient for urgent surgical consultation?"
+        },
+        {
+            "parent": 2,
+            "text": "Answer. Using the Alvarado score, the child receives 4 points (one point for anorexia, one for elevated temperature, and two for leukocytosis). Using the Ohmann score, he receives 7 points (two points for absence of urinary symptoms, two for steady pain, 1.5 for leukocytosis, and 1.5 for age less than 50 years). Based on these scores, the patient is at the low end of moderate risk. You obtain compression ultrasonography, which has normal results, and instruct the parents on overnight observation. You complete a close follow-up examination the next morning."
+        }
+    ],
+    "locked": false
+}

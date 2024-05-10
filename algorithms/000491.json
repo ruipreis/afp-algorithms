@@ -1,0 +1,128 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/1101/p1117.html#afp20101101p1117-f1",
+    "title": "Evaluation of Microcytosis | AAFP",
+    "author": "MICHELE VAN VRANKEN, MD",
+    "doi": "Am Fam Physician.2010;82(9):1117-1122",
+    "abstract": "Microcytosis is typically an incidental finding in asymptomatic patients who received a complete blood count for other reasons. The condition is defined as a mean corpuscular volume of less than 80 μm3(80 fL) in adults. The most common causes of microcytosis are iron deficiency anemia and thalassemia trait. Other diagnoses to consider include anemia of chronic disease, lead toxicity, and sideroblastic anemia. Serum ferritin measurement is the first laboratory test recommended in the evaluation of microcytosis. Low ferritin levels suggest iron deficiency. Once a presumptive diagnosis of iron deficiency anemia has been made, an underlying source for the deficiency should be determined. Iron deficiency anemia in adults is presumed to be caused by blood loss; the most common source of bleeding is the gastrointestinal tract. The possibility of gastrointestinal malignancy must be considered. If the serum ferritin level is not initially low, further evaluation should include total iron-binding capacity, transferrin saturation level, serum iron level, and possibly hemoglobin electrophoresis. Anemia of chronic disease is suggested with low iron levels and decreased total iron-binding capacity. Patients with beta-thalassemia trait usually have elevated levels of hemoglobin A2.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Laboratory Evaluation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Strategy",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Specific Causes of Microcytosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "IRON DEFICIENCY ANEMIA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "THALASSEMIA",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ANEMIA OF CHRONIC DISEASE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Microcytosis is usually encountered incidentally when a complete blood count (CBC) is performed for various reasons. The condition is defined as a mean corpuscular volume of less than 80 μm3(80 fL) in adults and is often associated with anemia.1Normal mean corpuscular volume and hemoglobin levels vary during childhood, and normal hemoglobin levels can vary based on factors such as ethnicity, tobacco use, and altitude2,3(Table 12,4)."
+        },
+        {
+            "parent": 0,
+            "text": "In the United States, the most common cause of microcytosis is iron deficiency anemia. Other causes include anemia of chronic disease, lead toxicity, sideroblastic anemia, and thalassemia trait.5–7Table 2presents the differential diagnosis of microcytosis.2,5,6"
+        },
+        {
+            "parent": 0,
+            "text": "The diagnosis of iron deficiency anemia warrants additional evaluation for an underlying cause. The most common etiologies of iron deficiency anemia differ based on patient age and sex(Table 32,5,8,9). Nutritional deficiency is the most common source of iron deficiency anemia in children,2,8and menstrual blood loss is the most common source in menstruating women.9Iron deficiency anemia in adult men and nonmenstruating women warrants further gastrointestinal investigation for occult blood loss, including evaluation for gastrointestinal malignancy.5,9"
+        },
+        {
+            "parent": 1,
+            "text": "Once microcytosis is diagnosed, the history can sometimes provide clues to the underlying etiology. Important history information includes nutritional intake (especially whole milk intake in children)2,8; pica or cravings for ice, which are symptoms of iron deficiency anemia; occupational or residential exposure to toxins, such as lead; family history of anemia or ethnicity suggestive of anemia due to an underlying hemoglobinopathy; and systemic symptoms of an underlying chronic infectious or inflammatory process.10A review of gastrointestinal symptoms, including abdominal discomfort, hematochezia, and bright red rectal bleeding, is warranted in adults, and a menstrual history should be obtained in menstruating women. Finally, depending on the severity and acuity of the anemia, the patient may have varying levels of fatigue or dyspnea."
+        },
+        {
+            "parent": 1,
+            "text": "Most patients with microcytosis are asymptomatic, and physical examination findings are often limited. As the severity of anemia increases, physical findings may include a systolic murmur and pallor of the mucous membranes, nail beds, and palmar creases.11"
+        },
+        {
+            "parent": 2,
+            "text": "Laboratory tests that may help in differentiating the cause of microcytosis include red blood cell distribution width using the CBC, serum iron levels, serum ferritin levels, total iron-binding capacity (TIBC), transferrin saturation, hemoglobin electrophoresis, and occasionally reticulocyte blood count and peripheral blood smears. Data do not support the routine use of other CBC parameters in the evaluation of microcytosis.12Table 4provides a summary of laboratory results that suggest etiologies of microcytosis.1"
+        },
+        {
+            "parent": 2,
+            "text": "Red blood cell distribution width measures the variation in red blood cell size and is often increased in persons with iron deficiency, but normal in those with anemia of chronic disease.1However, this measurement is not sensitive or specific enough to differentiate iron deficiency and beta-thalassemia trait.13The red blood cell count can help differentiate the two causes because it is often in the high to normal range with beta-thalassemia trait.14"
+        },
+        {
+            "parent": 2,
+            "text": "Serum iron levels are decreased in iron deficiency anemia and, to a lesser extent, in anemia of chronic disease. Serum iron levels can have diurnal variations with higher concentrations later in the day. Transient increases in serum iron levels may occur with meat ingestion or iron supplementation, but do not represent an increase in true iron stores.15"
+        },
+        {
+            "parent": 2,
+            "text": "Ferritin and transferrin saturation levels and TIBC are useful in differentiating iron deficiency anemia and anemia of chronic disease when the serum iron level is decreased. TIBC refers to the ability of unsaturated transferrin, the transport protein for iron, to bind to iron. This measure is usually increased in iron deficiency, decreased in anemia of chronic disease, and normal in the less severe thalassemias. Similar to iron, TIBC is affected by diurnal variations."
+        },
+        {
+            "parent": 2,
+            "text": "Transferrin saturation is a percentage calculated as serum iron concentration/TIBC × 100. Levels indicate the number of free binding sites on transferrin. A value less than 16 percent is often indicative of iron deficiency anemia.16"
+        },
+        {
+            "parent": 2,
+            "text": "Ferritin is a complex of iron and the binding protein apoferritin.17Ferritin reflects true iron stores and is not susceptible to the short-term variations that occur with serum iron levels and TIBC. However, ferritin is also an acute phase reactant and can be elevated with liver disease, malignancy, and chronic renal disease.18Iron deficiency anemia is likely if the ferritin level is less than 15 ng per mL (15 mcg per L) in an otherwise healthy person, or less than 50 ng mL (50 mcg per L) in a person with an underlying source of chronic inflammation. Iron deficiency can usually be excluded when the ferritin level is greater than 100 ng per mL (100 mcg per L).19,20"
+        },
+        {
+            "parent": 3,
+            "text": "Figure 1is a suggested algorithm for diagnosing the cause of microcytosis in adults.1,2,5,17,18,20,21After confirmation of microcytosis on CBC, physicians should first order a serum ferritin level.18–20If the ferritin level is consistent with iron deficiency anemia, identifying the underlying cause of the anemia is the priority. It is critical to exclude gastrointestinal malignancy in men and nonmenstruating women.5,9,21,22Gastrointestinal sources of blood loss should also be considered in menstruating women and adolescent girls when the anemia is refractory to iron treatment or when gastrointestinal symptoms are present.23,24"
+        },
+        {
+            "parent": 3,
+            "text": "If the serum ferritin level is not consistent with iron deficiency anemia, the next stage of the evaluation should include measurement of serum iron level, TIBC, and transferrin saturation. Iron deficiency anemia is still probable if the serum iron level and transferrin saturation are decreased and TIBC is increased. On the other hand, if the serum iron level is decreased and the TIBC and transferrin saturation are decreased or normal, anemia of chronic disease is most likely.7,25"
+        },
+        {
+            "parent": 3,
+            "text": "If the diagnosis remains unclear, hemoglobin electrophoresis can identify beta-thalassemia trait and less common inherited causes of microcytosis. Hemoglobin electrophoresis may be considered earlier in the evaluation of children and young adults, in whom beta-thalassemia trait is more common.2,8,14A bone marrow biopsy can help identify sideroblastic anemia (a group of disorders in which iron is deposited in bone marrow erythrocytes). A serum lead test can detect lead toxicity, and the Centers for Disease Control and Prevention provide guidelines on which high-risk groups of children to screen.26,27Even in the presence of lead toxicity, microcytic anemia can be caused by coexisting iron deficiency anemia.28"
+        },
+        {
+            "parent": 5,
+            "text": "Iron deficiency anemia occurs when the absorption of iron through dietary intake does not match the needs of the body. The mismatch occurs from inadequate dietary intake or increased needs, which usually cause only mild anemia, or from blood loss or malabsorption, which can lead to more significant anemia. Young children, women of childbearing age, and pregnant women have the highest prevalence of the condition.16Complications include developmental delays and behavior disturbances in children and preterm delivery in pregnant women.29Heavy menstrual losses leading to significant anemia warrant additional evaluation for clotting disorders (e.g., von Willebrand disease)."
+        },
+        {
+            "parent": 6,
+            "text": "Beta-thalassemia is an autosomal recessive genetic condition in which the normal beta globin chains that make up hemoglobin are underproduced. Beta-thalassemia trait is the heterozygous form of the disease. Beta- thalassemia major (also known as Cooley anemia) is the homozygous form. Both are more common in black persons, and in persons of Southeast Asian, Greek, Italian, or Mediterranean descent.30"
+        },
+        {
+            "parent": 6,
+            "text": "Most patients with beta-thalassemia trait have mild anemia (hemoglobin level is rarely less than 9.3 g per dL [93 g per L]). In addition, the mean corpuscular volume can sometimes reach much lower levels than with iron deficiency anemia alone. Ultimately, the diagnosis of beta-thalassemia trait is made when hemoglobin electrophoresis shows a slight increase in hemoglobin A2.1Coexisting iron deficiency anemia can lower hemoglobin A2 levels; therefore, iron deficiency anemia must be corrected before hemoglobin electrophoresis results can be appropriately evaluated.31"
+        },
+        {
+            "parent": 6,
+            "text": "Alpha-thalassemia is caused by an underproduction of alpha globin chains, and is most prevalent in persons of African or Southeast Asian descent. The production of alpha globin chains is controlled by four genes on two chromosomes. One gene deletion results in a silent carrier status with normal hematologic findings. Two gene deletions result in alpha-thalassemia trait, which usually leads to microcytosis without anemia. Hemoglobin electrophoresis is often normal in patients with silent carrier status or with alpha-thalassemia trait. The diagnosis is usually one of exclusion.32"
+        },
+        {
+            "parent": 7,
+            "text": "Anemia of chronic disease can be caused by chronic infections or inflammatory processes. Increased levels of cytokines cause a decrease in erythropoietin production, a decreased response to erythropoietin, and interference with iron metabolism.25Although anemia of chronic disease is usually normocytic, about one fourth to one third of cases are mildly microcytic. The anemia is usually mild and not progressive. Additionally, although serum iron levels are decreased in anemia of chronic disease (similar to iron deficiency anemia), ferritin levels are increased because ferritin is an acute phase reactant.1"
+        }
+    ],
+    "locked": false
+}

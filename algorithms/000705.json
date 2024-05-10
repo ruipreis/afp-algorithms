@@ -1,0 +1,157 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0715/p297.html#afp20050715p297-f3",
+    "title": "Diagnosis of Lyme Disease | AAFP",
+    "author": "DANIEL L. DEPIETROPAOLO, M.D., JOHN H. POWERS, M.D., JAMES M. GILL, M.D., M.P.H., AND ANDREW J. FOY",
+    "doi": "Am Fam Physician.2005;72(2):297-304",
+    "abstract": "The use of serologic testing and its value in the diagnosis of Lyme disease remain confusing and controversial for physicians, especially concerning persons who are at low risk for the disease. The approach to diagnosing Lyme disease varies depending on the probability of disease (based on endemicity and clinical findings) and the stage at which the disease may be. In patients from endemic areas, Lyme disease may be diagnosed on clinical grounds alone in the presence of erythema migrans. These patients do not require serologic testing, although it may be considered according to patient preference. When the pretest probability is moderate (e.g., in a patient from a highly or moderately endemic area who has advanced manifestations of Lyme disease), serologic testing should be performed with the complete two-step approach in which a positive or equivocal serology is followed by a more specific Western blot test. Samples drawn from patients within four weeks of disease onset are tested by Western blot technique for both immunoglobulin M and immunoglobulin G antibodies; samples drawn more than four weeks after disease onset are tested for immunoglobulin G only. Patients who show no objective signs of Lyme disease have a low probability of the disease, and serologic testing in this group should be kept to a minimum because of the high risk of false-positive results. When unexplained non-specific systemic symptoms such as myalgia, fatigue, and paresthesias have persisted for a long time in a person from an endemic area, serologic testing should be performed with the complete two-step approach described above.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Laboratory Tests",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Strategy",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Patients at Low Risk",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HIGH ENDEMICITY, CONSTITUTIONAL SYMPTOMS, NO ERYTHEMA MIGRANS RASH",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "MODERATE ENDEMICITY, SHORT-TERM NONSPECIFIC SYMPTOMS, NO ERYTHEMA MIGRANS RASH",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "HIGH ENDEMICITY, SCREENING OF A CHILD",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "False-Positive and False-Negative Test Results",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Overdiagnosis and Underdiagnosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Lyme disease is a systemic illness resulting from infection with the spirocheteBorrelia burgdorferi.1According to the Centers for Disease Control and Prevention (CDC) definition for reportable cases of Lyme disease, the annual number of cases increased from 7,943 in 1990 to 17,730 in 2000.2,3The disease is most prevalent in children two to 15 years of age and in adults 30 to 59 years of age.3Figure 14shows the endemicity of Lyme disease in areas of the United States."
+        },
+        {
+            "parent": -1,
+            "text": "Lyme disease is associated with a variety of signs that may present at different stages of the infection. The stages include early localized, early disseminated, and late chronic(Table 1).5The most common symptoms include skin and musculoskeletal involvement. In endemic areas, about 18 percent of infected persons present with only nonspecific systemic symptoms.6Early diagnosis is crucial because untreated infection can result in advanced disease involving the heart, nervous system, or joints.7"
+        },
+        {
+            "parent": 0,
+            "text": "The onset of clinical manifestations of Lyme disease typically occurs within seven to 10 days after a tick bite, with a reported range of one to 36 days.8Most patients (60 to 80 percent) develop the early, localized form of Lyme disease, which is characterized by erythema migrans and influenza-like symptoms.9Research suggests that erythema migrans most commonly presents as a centrifugally expanding, erythematous annular patch10(Figure 2). However, a recent observational cohort study11reported that in highly endemic areas, early erythema migrans mainly presented as homogeneous or central redness rather than a peripheral erythema with partial central clearing."
+        },
+        {
+            "parent": 0,
+            "text": "Clinical manifestations of Lyme disease in children resemble those in adults. The most common manifestation in children is erythema migrans rash followed by arthritis, facial nerve palsy, aseptic meningitis, and carditis.3Lyme meningitis has been reported in children with facial nerve palsy.12As in adults, Lyme meningitis may be subtle and usually occurs without meningismus. When compared with children with viral meningitis, children with Lyme meningitis have presented with much lower rates of fever but with similar rates of headache, neck pain, and malaise.13"
+        },
+        {
+            "parent": 0,
+            "text": "[corrected] Ten percent of patients also have another tick-borne illnesses, such as human granulocytic ehrlichiosis (caused by a rickettsial-like pathogen) or babesiosis (caused byBabesia microti).14Co-infected patients commonly present with a prolonged influenza-like illness that fails to respond to antiborrelial therapy."
+        },
+        {
+            "parent": 0,
+            "text": "The most widely accepted guidelines for the diagnosis of Lyme disease are those from the American College of Physicians (ACP),15which were based on the 1990 CDC surveillance criteria(Table 2).16Because of the limitations of laboratory testing for Lyme disease, diagnosis is based primarily on clinical findings.7,9,17,18An algorithm for the diagnosis of Lyme disease is presented inFigure 3"
+        },
+        {
+            "parent": 1,
+            "text": "The host antibody response toB. burgdorferiinfection develops slowly, and only one half of patients with early-stage Lyme disease will have a positive serology. The immunoglobulin M (IgM) and immunoglobulin G (IgG) antibodies appear two to four and four to six weeks, respectively, after the onset of erythema migrans and peak at six to eight weeks. Although IgM usually declines to very low levels after four to six months of illness, IgG remains present at low levels despite successful treatment.18Therefore, physicians should evaluate the significance of a serologic result in the context of the patient’s epidemiologic history."
+        },
+        {
+            "parent": 1,
+            "text": "Serologic testing may provide valuable information in patients who have endemic exposure and clinical findings that suggest later-stage disseminated Lyme disease, and in patients with prolonged constitutional symptoms that may suggest the early stages of Lyme disease in the absence of erythema migrans. When serologic testing is indicated, physicians should use the two-step approach recommended by the CDC’s Association of State and Territorial Public Health Laboratory Directors (ASTPHLD), in which a positive or indeterminate serology is followed by a more specific Western blot test.19Samples drawn from patients within four weeks of disease onset undergo Western blot testing for IgM and IgG; samples drawn more than four weeks after disease onset are tested for IgG only, because the risk of false-positive results with IgM at this late stage is high.19"
+        },
+        {
+            "parent": 1,
+            "text": "The specificity of this two-step approach is 99 to 100 percent compared with 81 percent for serology alone in late-stage Lyme disease.19,20This decreases the number of false-positive results.Table 39,19,20lists the accuracy of individual tests and the combined two-step approach. When ordering laboratory tests for Lyme disease, physicians should report the number of weeks from the onset of disease."
+        },
+        {
+            "parent": 2,
+            "text": "A critical factor in the interpretation of laboratory tests for Lyme disease is the pretest probability of disease. This is an estimate of the likelihood of Lyme disease based on the geographic location and the patient’s signs and symptoms.Figure 14andTable 4provide guidance on estimating the pretest probability of Lyme disease. If the pretest probability is high, a negative test is more likely to be falsely negative. Conversely, if the pretest probability is low, a positive test is more likely to be falsely positive."
+        },
+        {
+            "parent": 2,
+            "text": "The ACP recommendations15suggest that the diagnosis of early Lyme disease can be made on clinical grounds alone in patients who have a high pretest probability (i.e., more than 80 percent). This includes persons who reside in areas of high endemicity and have objective signs and symptoms of Lyme disease(Table 2).16These patients should be diagnosed and treated without testing. Empiric antibiotic prophylaxis is not recommended for patients who seek care after a tick bite but who are asymptomatic. Physicians should ask these patients to return immediately if they develop any signs or symptoms such as rash, fever, or arthralgias."
+        },
+        {
+            "parent": 2,
+            "text": "Persons who reside in areas of moderate endemicity and who present with objective signs and symptoms of Lyme disease in the absence of erythema migrans rash have an intermediate probability of Lyme disease (20 to 80 percent). An example of this would be a resident of a moderately endemic area who develops joint pain. This patient should have two-step testing (serology followed by confirmatory Western blot test), with treatment guided by the results."
+        },
+        {
+            "parent": 2,
+            "text": "When the pretest probability of Lyme disease is low (less than 20 percent), serologic testing is controversial. This applies to persons who present with only nonspecific, systemic symptoms of Lyme disease (e.g., arthralgia, myalgia, or paresthesia), and asymptomatic patients who request screening. Symptoms can include all conditions that cannot be classified as advanced manifestations of Lyme disease(Table 2).16The ACP guidelines15recommend that physicians minimize laboratory testing in these individuals. However, experts have noted the value of the two-step approach in otherwise low-risk persons who have experienced nonspecific symptoms for at least two weeks.7,9,17,18In one study,6researchers found that these patients constitute 18 percent of Lyme disease cases in endemic areas during the summer months."
+        },
+        {
+            "parent": 3,
+            "text": "The following three clinical scenarios have been devised to help physicians determine whether the two-step approach should be used for persons who have a low pretest probability for Lyme disease."
+        },
+        {
+            "parent": 4,
+            "text": "A patient from an area of high endemicity of Lyme disease presents with fever, headache, and arthralgias that had lasted several weeks, but no erythema migrans rash. After a thorough clinical evaluation, the cause of the symptoms remains unresolved."
+        },
+        {
+            "parent": 4,
+            "text": "The physician should consider serologic testing with the complete two-step approach. For this patient, the pretest probability is moderately low, taking into account the endemicity of the disease and the presence of prolonged (at least two weeks), unexplained nonspecific symptoms. In this scenario, if the two-step approach is positive, the probability of Lyme disease is about 90 percent. Although testing probably is beneficial in this type of patient, this has not been proven. There is no clear evidence that treatment is beneficial in patients with Lyme disease who exhibit only nonspecific symptoms."
+        },
+        {
+            "parent": 5,
+            "text": "A patient from an area of moderate endemicity of Lyme disease presents with headache and fatigue that have lasted for three days, but no erythema migrans or arthralgias."
+        },
+        {
+            "parent": 5,
+            "text": "Serologic testing should not be ordered for this patient because of the high risk (more than 50 percent) of a false-positive test result at this early stage of nonspecific disease. The patient should be advised to return for follow-up if symptoms persist. In this scenario, the pretest probability is estimated to be very low."
+        },
+        {
+            "parent": 6,
+            "text": "A healthy child from an area of high endemicity receives an annual physical. The mother notes that the child enjoys playing in the backyard, which is adjacent to a heavily wooded area."
+        },
+        {
+            "parent": 6,
+            "text": "Serologic testing should not be ordered because the child is asymptomatic. A false-positive test result would expose the child unnecessarily to the risks of treatment. In this scenario, the probability that a positive test represents true infection is less than 25 percent."
+        },
+        {
+            "parent": 7,
+            "text": "Among healthy persons living in a region of low endemicity, the false-positive rate with serology is about 2 to 5 percent.9,17,18The most common reason for a positive serology test in the absence of Lyme disease is the presence of another spirochetal infection such as syphilis, spirochete periodontal infection, or relapsing fever.17Patients with rheumatoid diseases or infectious mononucleosis also may have false-positive reactions, especially IgM.7,9,17,18"
+        },
+        {
+            "parent": 7,
+            "text": "A high rate of false-positive test results is associated with the first vaccine against Lyme disease (Lymerix), which has been withdrawn from the market. This vaccine was a recombinant form of the OspA lipoprotein ofB. burgdorferi.Because standard whole-cell kits use in vitro cultivated spirochetes, OspA is one of the antigens present. Therefore, a patient receiving the vaccine most likely will exhibit a positive result in any of the standard whole-cell enzyme-linked immunosorbent assay kits. To alleviate this problem, physicians should consider ordering only a Western blot test and disregarding the OspA band when determining whether the test is positive or negative in vaccinated persons."
+        },
+        {
+            "parent": 7,
+            "text": "False-negative results often are attributable to tests taken too early in the course of infection. Because the antibody response develops slowly, tests taken within the first two weeks of infection have low sensitivities (less than 50 percent). Antibiotics also can influence the results of serologic tests when given early in the course of infection, and have been shown to abort seroconversion, even if inadequate therapy is provided.7True seronegativity in the later stages of Lyme disease is uncommon.7,17"
+        },
+        {
+            "parent": 8,
+            "text": "Overdiagnosis most commonly is attributable to incorrect interpretation of Western blot test results, misidentification of rashes as erythema migrans, or ascribing nonspecific symptoms to Lyme disease.21–23Physicians must keep in mind that Western blot test results cannot be intermediate and should only be classified as negative or positive according to the CDC’s ASTPHLD guidelines."
+        },
+        {
+            "parent": 8,
+            "text": "Underdiagnosis may occur if physicians apply the CDC surveillance criteria too strictly(Table 2).16A recent study24showed that patients with prolonged nonspecific symptoms but no erythema migrans rash or advanced manifestations constitute almost 20 percent of Lyme disease cases in endemic areas during the summer months. Antibiotic therapy in these patients is useful in preventing progression to late-stage disseminated disease where response to treatment is less favorable.6,24"
+        }
+    ],
+    "locked": false
+}

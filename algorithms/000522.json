@@ -1,0 +1,199 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0301/p654.html#afp20100301p654-f1",
+    "title": "ACC and AHA Update on Chronic Heart Failure Guidelines | AAFP",
+    "author": "LIZ HORSLEY",
+    "doi": "Am Fam Physician.2010;81(5):654-665",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Updated Recommendations",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "EVALUATION OF HEART FAILURE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "REDUCED LVEF",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "END-STAGE HEART FAILURE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "New Recommendations",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "HYDRALAZINE/NITRATES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ATRIAL FIBRILLATION AND SINUS RHYTHM",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CARDIAC RESYNCHRONIZATION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "New Section: The Hospitalized Patient",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "INPATIENT EVALUATION AND DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "INPATIENT TREATMENT",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:American College of Cardiology Foundation, American Heart Association Task Force on Practice Guidelines"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Circulation, April 14, 2009"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://circ.ahajournals.org/cgi/content/full/119/14/1977"
+        },
+        {
+            "parent": -1,
+            "text": "In 2009, the American College of Cardiology (ACC) and the American Heart Association (AHA) published a focused update of the ACC/AHA 2005 Guideline Update for the Diagnosis and Management of Chronic Heart Failure in the Adult. The guidelines writing committee reviewed recent trial data and other clinical information in the revision process for the 2009 update."
+        },
+        {
+            "parent": -1,
+            "text": "The 2005 guidelines described four stages (i.e., stages A, B, C, and D) in the development of heart failure (Figure 1). Patients in stages A and B do not have heart failure, but have risk factors that predispose them toward the development of heart failure. Patients in stage C comprise the majority of patients with heart failure—those who have current or past symptoms of heart failure associated with underlying structural heart disease. Patients in stage D have refractory heart failure and may be eligible for specialized, advanced treatments (e.g., mechanical circulatory support, fluid removal procedures, continuous inotropic infusions, cardiac transplantation) or end-of-life care, such as hospice."
+        },
+        {
+            "parent": 0,
+            "text": "Updates to the 2005 guidelines are included in sections about the evaluation of patients presenting with heart failure; patients with reduced left ventricular ejection fraction (LVEF); patients with refractory end-stage heart failure; and the treatment of special population groups (e.g., blacks). The updated guidelines also contain a new section with recommendations about heart failure in the hospitalized patient."
+        },
+        {
+            "parent": 1,
+            "text": "Updates to the section on the evaluation of patients presenting with heart failure were made to clarify the role of functional assessment beyond the New York Heart Association (NYHA) classification, and to expand on the use of brain natriuretic peptide (BNP) and N-terminal prohormone brain natriuretic peptide (NT-proBNP) testing for patient evaluation. According to the update, patients with left ventricular dysfunction or heart failure generally present in one of three ways: with a syndrome of decreased exercise tolerance; with a syndrome of fluid retention; or with no symptoms, or symptoms of another cardiac or noncardiac disorder."
+        },
+        {
+            "parent": 1,
+            "text": "2009 updated recommendation: Measurement of natriuretic peptides (i.e., BNP and NT-proBNP) can be useful in the evaluation of patients presenting in the urgent care setting in whom the clinical diagnosis of heart failure is uncertain. Measurement of natriuretic peptides can be useful in risk stratification. (Level of Evidence: A)The 2005 guidelines also recommended measurement of BNP for evaluating patients who present in the urgent care setting with possible heart failure; the 2009 update expanded this recommendation to include the measurement of NT-proBNP. The level of evidence remained the same for this recommendation. The 2009 update warns that, although elevated natriuretic peptide levels may help confirm a suspected diagnosis of heart failure, the results of this testing alone should not be used to confirm or exclude a heart failure diagnosis."
+        },
+        {
+            "parent": 2,
+            "text": "The section of the guidelines on patients with reduced LVEF included minor updates on recommendations about the use of angiotensin-II receptor blockers (ARBs) and exercise testing."
+        },
+        {
+            "parent": 2,
+            "text": "2009 updated recommendation: Use of ARBs is recommended in patients with current or previous symptoms of heart failure and reduced LVEF who have an intolerance to angiotensin-converting enzyme (ACE) inhibitors. (Level of Evidence: A)For this recommendation, the 2009 update modified the text in the 2005 guidelines by eliminating mention of specific agents tested."
+        },
+        {
+            "parent": 2,
+            "text": "2009 updated recommendation: Maximal exercise testing with or without measurement of respiratory gas exchange is reasonable to facilitate prescription of an appropriate exercise program for patients presenting with heart failure. (Level of Evidence: C)The 2009 update changed the class of recommendation from class I (i.e., treatment should be performed) to class IIa (i.e., treatment is reasonable to perform)."
+        },
+        {
+            "parent": 2,
+            "text": "The section on patients with reduced LVEF also included several changes to recommendations concerning implantable cardioverter-defibrillator therapy and cardiac resynchronization therapy."
+        },
+        {
+            "parent": 2,
+            "text": "2009 updated recommendation: Implantable cardioverter-defibrillator therapy is recommended for the primary prevention of sudden cardiac death to reduce total mortality in patients with non-ischemic dilated cardiomyopathy or ischemic heart disease at least 40 days after myocardial infarction (MI); an LVEF of 35 percent or less; and NYHA functional class II or III symptoms while receiving chronic optimal medical therapy, and who have reasonable expectation of survival with a good functional status for longer than one year. (Level of Evidence: A)This recommendation was modified in the 2009 update to be consistent with the 2008 Device-Based Therapy guidelines from the ACC, AHA, and Heart Rhythm Society (HRS). It replaces recommendations from the 2005 guidelines on implantable cardioverter-defibrillator therapy for patients with ischemic heart disease at least 40 days after MI (2005 Level of Evidence: A) or nonischemic cardiomyopathy (2005 Level of Evidence: B) with an LVEF of 30 percent or less, and for patients with an LVEF of 30 to 35 percent of any origin (2005 Level of Evidence: B)."
+        },
+        {
+            "parent": 2,
+            "text": "In two of the major trials reviewed by the guidelines committee, no survival benefit was observed from implantable cardioverter-defibrillator therapy until after the first year of recovery from an acute coronary event. Patients with heart failure and low ejection fraction are typically older than 70 years, although this patient population was not well represented in the trials. Physicians should consider common comorbidities in older adults (e.g., previous stroke, chronic pulmonary disease, arthritic conditions) when discussing this type of therapy with patients."
+        },
+        {
+            "parent": 2,
+            "text": "Medication may substantially improve LVEF; therefore, consideration of implantable cardioverter-defibrillator therapy should follow documentation of sustained reduction of LVEF despite a course of beta blockers and ACE inhibitors or ARBs. Implantable cardioverter-defibrillator therapy is not warranted in patients with refractory heart failure (stage D) or in those with concomitant diseases that would shorten their life expectancy independent of heart failure. Before implantation, physicians should inform patients of the effectiveness, safety, and mortality risks of implantable cardioverter-defibrillator therapy; of the morbidity associated with an implantable cardioverter-defibrillator shock; and that the therapy does not improve clinical function or delay progression of heart failure."
+        },
+        {
+            "parent": 2,
+            "text": "2009 updated recommendation: Patients with LVEF of 35 percent or less, sinus rhythm, and NYHA functional class III or ambulatory class IV symptoms despite recommended, optimal medical therapy and who have cardiac dyssynchrony (i.e., a QRS duration of 0.12 seconds or more) should receive cardiac resynchronization therapy, with or without an implantable cardioverter-defibrillator, unless contraindicated. (Level of Evidence: A)The 2009 recommendation was updated to clarify that cardiac resynchronization therapy may be indicated for patients with or without an implantable cardioverter-defibrillator. Evidence shows that cardiac resynchronization therapy can improve symptoms, exercise capacity, quality of life, LVEF, and survival; it can also decrease hospitalizations in patients with persistently symptomatic heart failure receiving optimal medical therapy who have cardiac dyssynchrony. The use of an implantable cardioverter-defibrillator in addition to cardiac resynchronization therapy should be based on the indications for implantable cardioverter-defibrillator therapy."
+        },
+        {
+            "parent": 3,
+            "text": "The section of the guidelines on patients with refractory end-stage heart failure (stage D) included a modified recommendation on intermittent infusions."
+        },
+        {
+            "parent": 3,
+            "text": "2009 updated recommendation: Routine intermittent infusions of vasoactive and positive inotropic agents are not recommended for patients with refractory end-stage heart failure. (Level of Evidence: A)The 2009 update changed the level of evidence from B to A for this recommendation, based on evidence from an additional multicenter trial. Intermittent outpatient infusions of vasoactive medications (e.g., nesiritide [Natrecor]) or positive inotropic medications have not been shown to improve symptoms or survival in patients with advanced heart failure."
+        },
+        {
+            "parent": 5,
+            "text": "New recommendation to 2009 update: The combination of hydralazine and nitrates is recommended to improve outcomes for patients with reduced LVEF whose ethnicity is self-described as African American and who have moderate to severe symptoms on optimal therapy with ACE inhibitors, beta blockers, and diuretics. (Level of Evidence: B)Analysis of vasodilator trials showed effectiveness of treatment with isosorbide dinitrate and hydralazine in black participants. Adding these medications to standard therapy with an ACE inhibitor, a beta blocker, or both proved to be beneficial in a subsequent trial. Accordingly, this combination is recommended for black patients who remain symptomatic despite optimal medical therapy. However, patient compliance with this combination may be low because of the large number of tablets required and the high incidence of adverse reactions. The combination treatment should not be prescribed in patients who have not previously used an ACE inhibitor, nor should it be substituted for ACE inhibitors in those who are tolerating them without difficulty. It is unclear if this combination is beneficial in non-black patients."
+        },
+        {
+            "parent": 6,
+            "text": "New recommendation to 2009 update: It is reasonable to treat patients who have atrial fibrillation and heart failure with strategies to maintain sinus rhythm or to control ventricular rate alone. (Level of Evidence: A)Four trials evaluated the effectiveness and safety of restoring and maintaining sinus rhythm in patients with atrial fibrillation. There were equivalent outcomes for restoring and maintaining sinus rhythm by electrical or pharmacologic conversion compared with controlling ventricular rate in patients with atrial fibrillation. Most patients quickly relapse to atrial fibrillation unless they are treated with a class I or III antiarrhythmic medication, but patients with heart failure are not likely to respond favorably to class I medications. Class III antiarrhythmic medications (e.g., sotalol [Betapace], dofetilide [Tikosyn], amiodarone [Cordarone]) can maintain sinus rhythm in some patients, although treatment is associated with an increased risk of organ toxicity (amiodarone) and proarrhythmia (dofetilide)."
+        },
+        {
+            "parent": 7,
+            "text": "New recommendations to 2009 update: For patients who have LVEF of 35 percent or less, a QRS duration of 0.12 seconds or more, and atrial fibrillation, cardiac resynchronization therapy, with or without an implantable cardioverter-defibrillator, is reasonable for the treatment of NYHA functional class III or ambulatory class IV heart failure symptoms on optimal recommended medical therapy. (Level of Evidence: B) Cardiac resynchronization therapy is reasonable for patients with LVEF of 35 percent or less with NYHA functional class III or ambulatory class IV symptoms who are receiving optimal recommended medical therapy and who have frequent dependence on ventricular pacing. (Level of Evidence: C)Cardiac resynchronization therapy recommendations were added to be consistent with the ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities."
+        },
+        {
+            "parent": 8,
+            "text": "The 2009 update includes a new section on the evaluation and treatment of heart failure in patients who are hospitalized. Patients may require hospitalization if they develop acute or progressive symptoms of heart failure. Generally there are three clinical profiles for these patients: those who have volume overload (manifested by pulmonary and/or systemic congestion and often precipitated by an acute increase in chronic hypertension); those with profound depression of cardiac output (manifested by hypotension, renal insufficiency, and/or a shock syndrome); and those with signs and symptoms of fluid overload and shock. Patients with heart failure and preserved LVEF are just as likely to be admitted to the hospital as those with heart failure and low LVEF."
+        },
+        {
+            "parent": 8,
+            "text": "Patients are usually admitted to the hospital following a concomitant cardiovascular or cerebrovascular event, and admission often is related to medical or dietary noncompliance. Other common factors that precipitate hospitalization for heart failure include acute myocardial ischemia; uncorrected high blood pressure; atrial fibrillation and other arrhythmias; recent addition of negative inotropic medications; pulmonary embolus; use of nonsteroidal anti-inflammatory drugs; excessive alcohol or illicit drug use; endocrine abnormalities (e.g., diabetes mellitus, hyperthyroidism, hypothyroidism); and concurrent infections (e.g., pneumonia, viral illnesses)."
+        },
+        {
+            "parent": 9,
+            "text": "The diagnosis of heart failure in hospitalized patients should be based primarily on signs and symptoms, including volume status, the adequacy of circulatory support or perfusion, and consideration of precipitating factors or comorbidities. Many of the evaluation steps are identical to those used in the initial evaluation of heart failure. For an uncertain diagnosis of heart failure, plasma BNP or NT-proBNP concentrations should be considered in patients being evaluated for dyspnea who have signs and symptoms compatible with heart failure. In patients who have already been diagnosed with heart failure, it is important to understand what has caused the clinical symptoms to worsen."
+        },
+        {
+            "parent": 9,
+            "text": "Acute MI is an important cause of worsening or new-onset heart failure, and criteria for an acute coronary event that might indicate the need for further intervention may be present in up to 20 percent of patients hospitalized for heart failure. However, several other patients may have low levels of detectable troponins that do not meet criteria for an acute ischemic event, but that are typical of chronic heart failure with an acute exacerbation. For patients with newly discovered heart failure, physicians should keep in mind the causative role of coronary artery disease in heart failure and be certain that coronary structure and function are well delineated. Therefore, coronary visualization may be an important step in the evaluation of patients hospitalized with heart failure."
+        },
+        {
+            "parent": 10,
+            "text": "A careful review of each patient's maintenance medications for heart failure is important, and medication adjustments may be necessary as a result of the hospitalization. The majority of patients should continue taking their medications during hospitalization, and most are able to tolerate the continuation of beta blockers, which results in better outcomes."
+        },
+        {
+            "parent": 10,
+            "text": "Patients with substantial fluid overload on hospital admission should be treated with loop diuretics, initiated upon arrival to the emergency department. After admission, careful and frequent evaluation and monitoring are important and include assessing volume status and circulatory support; monitoring daily weight and vital signs; managing daily fluid input and output; and assessing daily electrolyte levels and renal function, which should be performed while intravenous diuretics or active heart failure medication titration is being done. Optimal dosing of diuretics should produce a rate of diuresis that will benefit volume status and relieve signs and symptoms of congestion without inducing an excessively rapid reduction in intravascular volume, possibly resulting in hypotension, renal dysfunction, or both. Limiting sodium intake and dosing the diuretic multiple times daily can enhance diuresis effectiveness. Patients who present with congestion and moderate to severe renal dysfunction may have a blunted response to diuretics, requiring higher initial doses. If all diuretic strategies are unsuccessful, ultrafiltration or another renal replacement strategy may be considered, as well as consultation with a kidney subspecialist."
+        },
+        {
+            "parent": 10,
+            "text": "Intravenous vasodilators may be added to the treatment regimen in patients who have adequate blood pressure and ongoing congestion that does not adequately respond to diuretics and standard oral therapy. The goals of vasodilator therapy include a more rapid resolution of congestive symptoms; relief of anginal symptoms while awaiting coronary intervention; control of hypertension; and improvement of hemodynamic abnormalities before beginning oral medications for heart failure."
+        },
+        {
+            "parent": 10,
+            "text": "Patients presenting with predominantly low output syndrome or combined congestion and low output may be considered for intravenous inotropes (e.g., dopamine, dobutamine, milrinone), which may help relieve symptoms caused by poor perfusion and preserve end-organ function in those with severe systolic dysfunction and dilated cardiomyopathy. These medications are most beneficial in patients with relative hypotension and who have intolerance or no response to vasodilators and diuretics. However, the use of inotropes indicates a poor prognosis, and a thorough hemodynamic assessment is necessary. There is no evidence of benefit for routine use of these agents in patients with acute heart failure caused by congestion only; therefore, inotropes should be limited to carefully selected patients with low blood pressure and reduced cardiac output, who will require close monitoring of blood pressure and heart rhythm."
+        },
+        {
+            "parent": 10,
+            "text": "Routine invasive hemodynamic monitoring is not indicated for most patients hospitalized with symptoms of worsening heart failure, but should be considered in those whose volume and filling pressures are uncertain or who are refractory to initial therapy, particularly when filling pressures and cardiac output are unclear. Routine invasive hemodynamic monitoring also may be beneficial in patients with clinically significant hypotension (i.e., systolic blood pressure typically less than 90 mm Hg or symptomatic low systolic blood pressure) or worsening renal function during initial therapy. Invasive hemodynamic monitoring should be performed in patients with presumed cardiogenic shock that requires escalating pressor therapy and consideration of mechanical support; those with severe clinical decompensation in whom therapy is limited by uncertainty regarding relative contributions of elevated filling pressures, hypoperfusion, and vascular tone; those with apparent dependence on intravenous inotropic infusions after initial clinical improvement; or those with persistent, severe symptoms despite adjustment of recommended treatments."
+        },
+        {
+            "parent": 10,
+            "text": "As patients stabilize and volume status normalizes, oral therapy for heart failure should be initiated or resumed. Caution should be used when starting beta blockers in patients who were treated with inotropes while hospitalized, or when initiating ACE inhibitors in patients who had marked azotemia. Before discharge, patients should be fully transitioned off all intravenous therapy, and oral therapy should be adjusted and maximized. Patients should be given written discharge instructions or educational materials that address activity level, diet, discharge medications, follow-up appointments, weight monitoring, and what to do if symptoms worsen."
+        }
+    ],
+    "locked": false
+}

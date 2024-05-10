@@ -1,0 +1,142 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/0415/p1725.html#afp20030415p1725-f2",
+    "title": "Diagnosis and Treatment of Sick Sinus Syndrome | AAFP",
+    "author": "VICTOR ADÁN, M.D., AND LOREN A. CROWN, M.D.",
+    "doi": "Am Fam Physician.2003;67(8):1725-1732",
+    "abstract": "Sick sinus syndrome comprises a variety of conditions involving sinus node dysfunction and commonly affects elderly persons. While the syndrome can have many causes, it usually is idiopathic. Patients may experience syncope, pre-syncope, palpitations, or dizziness; however, they often are asymptomatic or have subtle or nonspecific symptoms. Sick sinus syndrome has multiple manifestations on electrocardiogram, including sinus bradycardia, sinus arrest, sinoatrial block, and alternating patterns of bradycardia and tachycardia (bradycardia-tachycardia syndrome). Diagnosis of sick sinus syndrome can be difficult because of its nonspecific symptoms and elusive findings on electrocardiogram or Holter monitor. The mainstay of treatment is atrial or dual-chamber pacemaker placement, which generally provides effective relief of symptoms and lowers the incidence of atrial fibrillation, thromboembolic events, heart failure, and mortality, compared with ventricular pacemakers.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Manifestations",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "ECG Manifestations",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Sick sinus syndrome is a generalized abnormality of cardiac impulse formation that may be caused by an intrinsic disease of the sinus node that makes it unable to perform its pacemaking function, or by extrinsic causes.1Abnormalities encompassed in this syndrome include sinus bradycardia, sinus arrest or exit block, combinations of sino-atrial and atrioventricular nodal conduction disturbances, and atrial tachyarrhythmias. Sick sinus syndrome is not a disease with a single etiology and pathogenesis but, rather, a collection of conditions in which the electrocardiogram (ECG) indicates sinus node dysfunction.2"
+        },
+        {
+            "parent": -1,
+            "text": "Sick sinus syndrome is characterized by sinus node dysfunction with an atrial rate inappropriate for physiologic requirements. Although the condition is most common in the elderly, it can occur in persons of all ages, including neonates.3The mean age of patients with this condition is 68 years, and both sexes are affected approximately equally.4The syndrome occurs in one of every 600 cardiac patients older than 65 years and may account for 50 percent or more of permanent pacemaker placements in the United States.5"
+        },
+        {
+            "parent": 0,
+            "text": "Most cases of sick sinus syndrome are idiopathic, and the cause can be multifactorial(Table 1).3Degenerative fibrosis of nodal tissue is the most common cause of intrinsic changes in the sinoatrial node that lead to sick sinus syndrome. Certain conditions can cause these intrinsic changes.3,5,6There also are extrinsic causes of sinus node dysfunction and conditions that can cause this problem in children(Table 1).3"
+        },
+        {
+            "parent": 0,
+            "text": "Coronary artery disease may coexist with sick sinus syndrome in a significant number of patients, although it is not considered a major cause of the syndrome. It is unclear whether inflammation, sinus node ischemia, or local autonomic neural effects lead to the development of sick sinus syndrome in patients with myocardial infarction. Sinus node dysfunction usually is temporary when it follows an acute myocardial infarction. Uncommonly, chronic ischemia may cause fibrosis and lead to symptoms of sick sinus syndrome for months to years after myocardial infarction."
+        },
+        {
+            "parent": 1,
+            "text": "Patients with sick sinus syndrome often are asymptomatic or have symptoms that are mild and nonspecific7(Table 2).3Symptoms are related to the decreased cardiac output that occurs with the bradyarrhythmias or tachyarrhythmias.3Most of the symptoms are caused by decreased cerebral perfusion, and 50 percent of patients have syncope or pre-syncope.5"
+        },
+        {
+            "parent": 1,
+            "text": "Symptoms, which may have been present for months or years, can include syncope, palpitations, and dizziness, as well as symptoms caused by the worsening of conditions such as congestive heart failure, angina pectoris, and cerebral vascular accident.8Peripheral thromboembolism and stroke, which can occur in the presence of bradycardia-tachycardia syndrome (alternating bradyarrhythmias and tachyarrhythmias), may be related to dysrhythmia-induced emboli.3A slow heart rate in the presence of fever, left ventricular failure, or pulmonary edema may be suggestive of sick sinus syndrome.2,9Associated tachycardia may cause flushing of the face, pounding of the heart, and retrosternal pressure.10Other symptoms include irritability, nocturnal wakefulness, memory loss, errors in judgment, lethargy, lightheadedness, and fatigue2,11(Table 2).3More subtle symptoms include mild digestive disturbances, periodic oliguria or edema, and mild intermittent dyspnea.2"
+        },
+        {
+            "parent": 2,
+            "text": "Sick sinus syndrome can produce a variety of ECG manifestations consisting of atrial bradyarrhythmias, atrial tachyarrhythmias, and alternating bradyarrhythmias and tachyarrhythmias7(Table 3).3Supraventricular bradyarrhythmias may include sinus bradycardia, sinus arrest with or without junctional escape, sinoatrial exit block, ectopic atrial bradycardia, and atrial fibrillation with slow ventricular response. The sinus bradycardia that occurs in patients with sick sinus syndrome is inappropriate and not caused by medications.2,5The sino-atrial exit block that occurs in patients with sick sinus syndrome may demonstrate a Mobitz type I block (Wenckebach block) and a Mobitz type II block.2The ECG may reveal a long pause following cardioversion of atrial tachyarrhythmias, and a greater-than three-second pause following carotid massage.5Sixty percent of patients have tachyarrhythmias.8"
+        },
+        {
+            "parent": 2,
+            "text": "Supraventricular tachyarrhythmias that occur in patients with sick sinus syndrome include paroxysmal supraventricular tachycardia, atrial flutter, atrial fibrillation, and atrial tachycardia.2,3Atrial fibrillation is the most common tachydysrhythmia in these patients.12Rarely, a ventricular escape tachy-arrhythmia may be seen on ECG.8Sinus node re-entrant rhythm is another ECG manifestation.5Bradycardia-tachycardia syndrome may be seen on ECG or cardiac rhythm strip(Figure 1); this syndrome is more common in older patients with advanced sick sinus syndrome.3"
+        },
+        {
+            "parent": 3,
+            "text": "The diagnosis of sick sinus syndrome may be difficult because of the slow and erratic course of the syndrome. The condition often goes undetected in the early stages because only sinus bradycardia may be present at its origin.9Some symptoms of patients with sick sinus syndrome (e.g., fatigue, irritability, memory loss, lightheadedness, palpitations, cognitive defects) are present in several other disorders that occur in elderly patients and may be misdiagnosed as those of senile dementia.5Symptoms of sick sinus syndrome may be variable, intermittent, and difficult to associate with ECG changes.2If the patient is asymptomatic when ECG or ambulatory monitoring is performed, the dysrhythmias of the syndrome are often not present.5Furthermore, there is no definitive way to distinguish patients with atrial fibrillation associated with sick sinus syndrome from patients with atrial fibrillation and normal sinus function; this distinction is clinically important because treating atrial fibrillation with cardioversion or medications can have catastrophic consequences if the sinus node is inadequate."
+        },
+        {
+            "parent": 3,
+            "text": "One manifestation of serious sinus node dysfunction in patients with atrial fibrillation is a slow ventricular rate in the absence of medications such as propranolol (Inderal) or digitalis.2Bradycardia may be misattributed to digoxin treatment in a patient with congestive heart failure. Cardioactive drugs, such as digoxin, quinidine (Quinaglute), and procainamide (Pronestyl), as well as hyperkalemia, can cause periodic sinus arrest or sinoatrial exit block."
+        },
+        {
+            "parent": 3,
+            "text": "Functional sinus bradycardia, enhanced vagal drive, gastrointestinal and neurologic conditions, and other causes of syncope can produce symptoms similar to those of sick sinus syndrome and must be included in the differential diagnosis of the syndrome. Sinus node dysfunction can occur perioperatively because of increased vagal tone caused by anesthesia or surgical intervention.13All of these possibilities must be excluded before the diagnosis of sick sinus syndrome can be made.9"
+        },
+        {
+            "parent": 3,
+            "text": "The diagnosis requires not only documentation of sinus node dysfunction but also correlation with the associated symptoms of sick sinus syndrome. The most common method of diagnosis is Holter monitoring. During monitoring, patients must keep a precise diary of their activities and symptoms, so that these factors can be correlated with the ECG changes.3"
+        },
+        {
+            "parent": 3,
+            "text": "If two 24-hour periods of Holter monitoring fail to reveal the dysrhythmias of sick sinus syndrome, but the symptoms are severe and intermittent, it is likely that the sinus node dysfunction is severe but intermittent. In these cases, patients can carry a pocket-sized device for transmitting ECG readings via telephone when they are having symptoms. For this procedure to be successful, the arrhythmia must last for at least one minute. Another approach is to have patients activate a recording device to monitor the events of cardiac dysrhythmias when they are having symptoms.2"
+        },
+        {
+            "parent": 3,
+            "text": "There are several other methods of diagnosing sick sinus syndrome. Isometric handgrip exercises or Valsalva's maneuvers normally increase the heart rate, but this effect may be minimal or absent in patients with this syndrome. If carotid massage produces abrupt sinus arrest of three seconds' duration, sinus node dysfunction may be suspected.8These measures and monitoring cardiac response to such agents as atropine and isoproterenol (Isuprel) should only be attempted while a patient is undergoing careful ECG monitoring.3"
+        },
+        {
+            "parent": 3,
+            "text": "Exercise testing may be useful in determining the response of the sinus node to physiologic demands. At an equal level of oxygen consumption, some patients with sick sinus syndrome have a decreased heart rate response to exercise compared with healthy patients.5Intracardiac electrophysiologic tests (atrial overdrive pacing and premature atrial stimulation) can be used to elicit intrinsic sinus node disease or to document the effects of cardioactive drugs2,3; however, electrophysiologic testing is no longer routinely recommended for diagnostic purposes because of its poor sensitivity and specificity.14The risks and benefits of these diagnostic modalities must be considered and discussed with the patient before they are used."
+        },
+        {
+            "parent": 4,
+            "text": "Pacemaker therapy is warranted in many patients with sick sinus syndrome.Table 415lists practice guidelines from the American College of Cardiology/American Heart Association task force on permanent pacemaker placement in patients with this condition.15It is essential to document symptoms concurrent with the dysrhythmia when evaluating whether pacemaker placement will be beneficial."
+        },
+        {
+            "parent": 4,
+            "text": "The treatment of choice for symptomatic bradyarrhythmias in patients with sick sinus syndrome is the placement of a pacemaker.1,3Artificial pacemakers are well tolerated in elderly patients.2In all patients with this syndrome, except those with chronic atrial fibrillation, atrial-based pacemakers are recommended1,16(Figure 2).16"
+        },
+        {
+            "parent": 4,
+            "text": "Table 514,17lists the international codes describing pacemakers and implanted devices. Patients who have sick sinus syndrome with right bundle branch block have an increased risk of developing symptomatic high-degree atrioventricular block and should be treated with a dual-chamber pacemaker. Patients with no signs of atrioventricular conduction abnormalities should be treated with an atrial-based pacemaker.18Pacing with a dual-chamber demand pacemaker with automatic mode-switching function is appropriate in patients with sick sinus syndrome who have intermittent tachyarrhythmic components. Pacing with a rate-responsive single-chamber ventricular demand pacemaker should be used in patients with the syndrome and chronic atrial fibrillation.7"
+        },
+        {
+            "parent": 4,
+            "text": "Complications, including myocardial perforation, pneumothorax, wound hematoma, venous thrombosis, pacemaker lead failure, and infection, can occur with permanent endocardial pacemaker therapy, but they are uncommon.19"
+        },
+        {
+            "parent": 4,
+            "text": "When tachyarrhythmias are a problem in a patient with sick sinus syndrome, a pacemaker may decrease the risk of complete heart block or asystole associated with pharmacotherapy.3Digitalis can cause brady-arrhythmias in patients with sick sinus syndrome and should only be used in conjunction with a pacemaker in the management of supraventricular tachyarrhythmias.5Severe sinus bradycardia, sinoatrial arrest, or sinoatrial exit block occasionally occurs with the use of beta-blocker medications in patients with this condition.2"
+        },
+        {
+            "parent": 4,
+            "text": "Symptoms associated with this syndrome may be worsened in patients who are receiving digitalis, verapamil (Calan), beta blockers, sympatholytic agents such as clonidine (Catapres) and methyldopa (Aldomet), and antiarrhythmic agents.3,5Therefore, the use of negative chronotropic drugs should be cautiously considered.7The effects of pro-cainamide and quinidine are unpredictable. In certain patients with sick sinus syndrome and episodes of heart failure, oral theophylline therapy and dual-chamber pacemakers have been shown to reduce the occurrence of heart failure.20In the absence of pacing, cardioversion may be dangerous because of the likelihood of prolonged sinus arrest.3"
+        },
+        {
+            "parent": 4,
+            "text": "Patients with sick sinus syndrome who have bradycardia-tachycardia syndrome or chronic atrial fibrillation (especially in association with congestive heart failure, large left atria, or mitral valve disease) are at risk for embolic stroke. Although the risk-to-benefit ratio for anticoagulation is not well defined in these patients, warfarin (Coumadin) has been shown to decrease the number of strokes and embolic events in patients with sick sinus syndrome who have paroxysmal and chronic atrial fibrillation.5,11"
+        },
+        {
+            "parent": 5,
+            "text": "Randomized controlled trials4,21have examined morbidity and mortality in patients with sick sinus syndrome using various pacing modes. Compared with ventricular pacing, atrial pacing is associated with a lower incidence of thromboembolic complications, atrial fibrillation, heart failure, cardiovascular mortality, and total morbidity.1,18In a retrospective study,22patients with sick sinus syndrome who had pacemaker therapy were followed for 12 years; at eight years, mortality among those with ventricular pacing was 59 percent compared with 29 percent among those with atrial pacing. This discrepancy may well be a result of the physiologic or anatomic disorder (e.g., fibrosis of conductive tissue) leading to the requirement for the particular pacemaker rather than the type of pacemaker used."
+        },
+        {
+            "parent": 5,
+            "text": "Patients who have sick sinus syndrome with only sinus bradycardia have a better prognosis. One study3indicated that mortality rates in these patients may not be different from mortality rates in the normal population. Researchers conducting one literature review22concluded that patients with this syndrome who require atrial or dual-chamber pacing have a mortality rate of 3.6 percent (plus or minus 1.8 percent) per year. There is a high prevalence of cardiovascular disease in patients with sick sinus syndrome who die within the first few years of pacemaker implantation.2"
+        },
+        {
+            "parent": 5,
+            "text": "Recent improvements in rate-responsive pacemaker engineering have led to improvements in maximum heart rate, exercise tolerance, functional status, suppression of dysrhythmias, and sense of well-being in patients.16The achievement of near-physiologic rate responsiveness and atrioventricular synchrony, as well as decreased mortality and morbidity, has led to a better prognosis in patients with sick sinus syndrome.19"
+        }
+    ],
+    "locked": false
+}

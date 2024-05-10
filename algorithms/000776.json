@@ -1,0 +1,206 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/1115/p2001.html#afp20031115p2001-f1",
+    "title": "Primary Immunodeficiencies | AAFP",
+    "author": "MEGAN A. COOPER, PH.D., THOMAS L. POMMERING, D.O., AND KATALIN KORÁNYI, M.D.",
+    "doi": "Am Fam Physician.2003;68(10):2001-2009",
+    "abstract": "Primary immunodeficiencies include a variety of disorders that render patients more susceptible to infections. If left untreated, these infections may be fatal. The disorders constitute a spectrum of more than 80 innate defects in the body's immune system. Primary immunodeficiencies generally are considered to be relatively uncommon. There may be as many as 500,000 cases in the United States, of which about 50,000 cases are diagnosed each year. Common primary immunodeficiencies include disorders of humoral immunity (affecting B-cell differentiation or antibody production), T-cell defects and combined B- and T-cell defects, phagocytic disorders, and complement deficiencies. Major indications of these disorders include multiple infections despite aggressive treatment, infections with unusual or opportunistic organisms, failure to thrive or poor growth, and a positive family history. Early recognition and diagnosis can alter the course of primary immunodeficiencies significantly and have a positive effect on patient outcome.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Background",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Characteristics of Primary Immunodeficiencies",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "DISORDERS OF HUMORAL IMMUNITY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "T-CELL DEFECTS AND COMBINED B-CELL AND T-CELL DEFECTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PHAGOCYTIC DISORDER: CHRONIC GRANULOMATOUS DISEASE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "COMPLEMENT DEFICIENCIES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Diagnosis of Primary mmunodeficiencies",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "WARNING SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Management of Patients with Primary Immunodeficiencies",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "INTRAVENOUS IMMUNE GLOBULIN",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "BONE MARROW TRANSPLANTATION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ANTIBIOTICS AND OTHER THERAPIES",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Vaccines and Blood Products: Cautions and Contraindications",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Currently, more than 80 primary immunodeficiencies are recognized by the World Health Organization.1While most of these disorders present in childhood, they can manifest later in life. Some primary immunodeficiencies, such as common variable immunodeficiency disorder, present in patients who are in their 20s or 30s. Patients with primary immunodeficiency disorders are susceptible to infections that, if left untreated, may be fatal."
+        },
+        {
+            "parent": -1,
+            "text": "The incidence of most primary immunodeficiencies is uncertain because of the lack of a national registry or reporting by government health surveys. In the United States, as many as 500,000 persons have one of the more than 80 primary immunodeficiencies,2with about 50,000 cases diagnosed each year.3The primary immunodeficiencies appear to affect males and females about equally. In a survey of more than 2,700 patients conducted by the Immune Deficiency Foundation,348 percent of affected patients were male, and 52 percent were female."
+        },
+        {
+            "parent": -1,
+            "text": "Primary immunodeficiencies can be divided into subgroups based on the component of the immune system that is affected. This article reviews the characteristics of some of the more common primary immunodeficiencies and provides an approach to the initial evaluation of patients suspected of having these disorders."
+        },
+        {
+            "parent": 0,
+            "text": "The body's immune response is made up of a diverse network of defenses, including physical barriers, cellular components, and soluble mediators. The normal immune system has two “arms”: first, it mounts rapid, nonspecific responses (innate immune responses) to initial infection; later, it mounts adaptive immune responses specific to a particular pathogen. Together, these arms work to maintain normal host function and resistance to infection. Disruption of any part of the orchestrated immune response can result in an inability to control infection and subsequent illness."
+        },
+        {
+            "parent": 0,
+            "text": "The innate immune response involves three major cell types: phagocytic cells, such as neutrophils and macrophages; natural killer cells, which have the ability to lyse foreign cells; and antigen-presenting cells, which are involved in the induction of an adaptive immune response. Complement proteins are an important class of soluble mediators of the innate immune response and serve to promote inflammation and microbial killing of extra-cellular pathogens."
+        },
+        {
+            "parent": 0,
+            "text": "The adaptive immune system includes T and B lymphocytes and can be divided into cellular and humoral responses. The cellular immune response is mediated primarily by T cells and limits intracellular infections by organisms such as viruses, parasites, and mycobacteria. Antibodies, the key feature of the humoral response, are produced by activated B cells to help control the spread of extracellular pathogens. T-lymphocyte and B-lymphocyte responses are not independent of one another; for example, B cells can activate antigen-specific T cells for a cellular immune response, while an efficient B-cell antibody response depends in part on T-cell activation of B lymphocytes. Thus, defects in either cell type have the potential to affect both cellular and humoral immunity to varying degrees."
+        },
+        {
+            "parent": 1,
+            "text": "The more common primary immunodeficiencies are described in the following sections and summarized inTable 14–6andTable 2.4,7–9Other primary defects of immunity are reviewed elsewhere.4,7–9"
+        },
+        {
+            "parent": 2,
+            "text": "Disorders of humoral immunity affect B-cell differentiation and antibody production. Collectively, these disorders account for approximately 50 percent of primary immunodeficiencies.5"
+        },
+        {
+            "parent": 2,
+            "text": "Patients with antibody deficiencies often present after six months of age, when maternal antibodies are lost, but they can present in adulthood.10Typically, these patients develop infections with encapsulated bacteria. Recurrent bacterial sinus and pulmonary infections are the hallmark of antibody primary immunodeficiencies. Patients with humoral primary immunodeficiencies have an intact cellular immune system; thus, they are able to handle most viral and fungal pathogens, a factor that can help to distinguish these disorders clinically."
+        },
+        {
+            "parent": 2,
+            "text": "In the United States, common variable immunodeficiency is the most frequently diagnosed primary immunodeficiency.3The term “common variable immunodeficiency” encompasses a heterogeneous group of disorders that cause hypogammaglobulinemia (serum IgA levels below 5 mg per dL [0.05 g per L]).1,11Onset can occur after two years of age, but the average age of onset is the middle to late 20s.10Patients with common variable immunodeficiency have a poor response to vaccines (decreased IgG antibody response) and an increased risk of developing auto-immune disorders and malignancy."
+        },
+        {
+            "parent": 2,
+            "text": "Of the primary immunodeficiency disorders, selective IgA deficiency may have the highest incidence (one case per 300 to 700 persons, according to estimates based on blood donation analyses), but the disorder is often asymptomatic and undiagnosed.3,12Patients with symptoms often have sinusitis and respiratory tract infections, along with gastrointestinal involvement. All patients with IgA deficiency are at increased risk for allergies and autoimmune diseases. Although serum IgA levels are below 5 mg per dL, serum IgG and IgM levels are in the normal range. In contrast to patients with common variable immunodeficiency, patients with IgA deficiency have a normal IgG response to vaccinations."
+        },
+        {
+            "parent": 2,
+            "text": "Bruton's or X-linked agammaglobulinemia is caused by mutation or absence of the Bruton's tyrosine kinase gene.13Early B-cell development is arrested, and serum immunoglobulins (IgG, IgA, IgM) are markedly deficient or totally absent.10Onset of recurrent bacterial infections is usually at the end of the first year of life; however, patients with the disorder may not present until the age of three to five years."
+        },
+        {
+            "parent": 3,
+            "text": "Disruption of the cellular immune response is observed in patients with defects in T cells or both T and B cells. These primary immunodeficiency disorders are generally more severe than antibody deficiencies. Affected patients often present early in life with failure to thrive and disseminated infection.7DiGeorge syndrome is one of the most recognized disorders in this category, and severe combined immunodeficiency is the most severe. General features of this class of diseases include overwhelming viral and fungal infections."
+        },
+        {
+            "parent": 3,
+            "text": "DiGeorge syndrome results in abnormal migration of the third and fourth branchial pouches during embryogenesis, with hypoplasia to aplasia of the thymus and parathyroid glands. The syndrome most often is caused by a deletion in chromosome 22q11. Associated defects include truncal cardiac malformations (e.g., truncus arteriosis, Fallot's tetralogy) and dysmorphic facial features. Other diagnostic criteria include a reduced CD3+T-cell count (less than 500 per mm3[0.5 × 109per L]) and hypocalcemia of greater than three weeks' duration.11[Evidence level C: consensus/expert opinion]"
+        },
+        {
+            "parent": 3,
+            "text": "Severe combined immunodeficiency is associated with profound deficiencies of T-cell and B-cell function (and sometimes natural killer cell function). This disorder is characterized by severe opportunistic infections, or by chronic diarrhea and failure to thrive in infancy. Laboratory findings typically demonstrate severe lymphopenia. About one half of cases are X-linked, and one half are autosomal recessive.14Infants with this primary immunodeficiency disorder are at risk for graft-versus-host disease because they lack the ability to reject foreign tissue, such as maternal T cells that cross into the fetal circulation in utero."
+        },
+        {
+            "parent": 3,
+            "text": "Wiskott-Aldrich syndrome is an X-linked recessive syndrome characterized by thrombocytopenia, small platelets and platelet dysfunction, eczema, and susceptibility to infections.7Infants typically present with prolonged bleeding from the circumcision site, bloody diarrhea, or excessive bruising. Patients with this primary immunodeficiency disorder are at risk for autoimmune diseases and cancer."
+        },
+        {
+            "parent": 3,
+            "text": "Ataxia-telangiectasia (Louis-Bar's syndrome) is a progressive neurologic disorder associated with cerebellar ataxia, oculocutaneous telangiectasias, chronic respiratory infections, a high incidence of malignancy, and variable humoral and cellular immunodeficiency. Patients with this disorder have difficulty walking and generally are wheelchair-bound by the teenage years."
+        },
+        {
+            "parent": 4,
+            "text": "Chronic granulomatous disease, the most frequently diagnosed phagocytic primary immunodeficiency, is more common in males than in females. In this disease, deficiency of nicotinamide adenine dinucleotide phosphate oxidase in phagocytes results in defective elimination of extracellular pathogens such as bacteria and fungi. Patients with chronic granulomatous disease are more susceptible to infection with catalase-positive organisms (e.g., staphylococci) that require phagocytic activity for clearance. Aspergillus infection is the most common cause of death in patients with phagocytic primary immunodeficiency disorders.4"
+        },
+        {
+            "parent": 5,
+            "text": "Complement disorders account for only 2 percent of all primary immunodeficiency disorders.6They result from the disruption of one of the proteins involved in the classic or nonclassic activation pathways of the complement response.15Defects in the classic pathway account for the more common type of complement deficiency, and patients often have a high number of autoimmunity disorders, including lupus-like syndromes. Patients with defects of the alternative pathway characteristically present with Neisseria infection.15"
+        },
+        {
+            "parent": 7,
+            "text": "The National Institute of Child Health and Human Development recently initiated an educational program to raise awareness of primary immunodeficiencies. As a part of this program, the Jeffrey Modell Foundation developed a list of warning signs for primary immunodeficiency.2These warning signs, along with other common presenting signs, are listed inTable 3.2,6,16A general approach to the evaluation of patients with suspected primary immunodeficiency is presented inFigure 1."
+        },
+        {
+            "parent": 8,
+            "text": "When primary immunodeficiency is suspected, initial laboratory studies include a complete blood cell count (CBC) with manual differential, quantitative immunoglobulin measurements (IgG, IgM, IgA), measurements of functional antibodies against immunized antigens, and delayed-type hypersensitivity skin tests(Table 4).6,16,17The CBC with manual differential can detect deficiencies in immune cells and platelets. In most instances, a normal CBC eliminates the diagnosis of T-cell defects or combined B-cell and T-cell defects."
+        },
+        {
+            "parent": 8,
+            "text": "Caution should be used when assessing immunologic function in newborns. Because of engrafted maternal immune cells, neonates may have both a falsely elevated lymphocyte count and evidence of graft-versus-host disease.18If severe combined immunodeficiency is strongly suspected and the lymphocyte count is normal or nearly normal, further investigation is warranted to determine the origin of the immune cells."
+        },
+        {
+            "parent": 8,
+            "text": "When a diagnosis is uncertain, additional tests, such as genetic assays or immunophenotyping, might be performed in consultation with a pediatric immunologist.1"
+        },
+        {
+            "parent": 10,
+            "text": "For the past 20 years, intravenously administered immune globulin (IVIG) has been used in the treatment of agammaglob-ulinemia.19This agent is now standard therapy for most antibody deficiencies. Most commonly, IVIG is used in patients with X-linked agammaglobulinemia, common variable immunodeficiency, X-linked hyper IgM, severe combined immunodeficiency, Wiskott-Aldrich syndrome, and selective IgG class deficiency.3,19–21"
+        },
+        {
+            "parent": 10,
+            "text": "IVIG also is used, or is being considered for use, in a wide variety of other illnesses. Consequently, its limited availability is a concern.21"
+        },
+        {
+            "parent": 11,
+            "text": "Bone marrow transplants from HLA-identical donors can be curative in patients with cellular immune deficiencies such as severe combined immunodeficiency, Wiskott-Aldrich syndrome, and DiGeorge syndrome, and may be beneficial in patients with chronic granulomatous disease.4,14Bone marrow transplantation currently has no role in the treatment of antibody deficiencies.9"
+        },
+        {
+            "parent": 11,
+            "text": "HLA-identical donors are not always available. Long-term survival may be lower with bone marrow transplants from haploidentical donors. Thus, investigations of alternative strategies, such as gene therapy, could benefit the management of patients with primary immunodeficiency disorders who otherwise would require bone marrow transplantation."
+        },
+        {
+            "parent": 12,
+            "text": "When recurrent infections are a problem, many patients with primary immunodeficiencies are managed with antibiotics alone or in combination with IVIG. For example, in patients with chronic granulomatous disease, prophylactic therapy with trimethoprim-sulfamethoxazole (Bactrim, Septra) reduces the incidence of severe infections by 50 percent.4Similarly, treatment for complement deficiencies is directed at preventing infection, and consists of antibiotic prophylaxis and immunizations for encapsulated bacteria (e.g., heptovalent pneumococcal vaccine, Haemophilus b conjugate vaccine, meningococcal polysaccharide vaccine).14"
+        },
+        {
+            "parent": 12,
+            "text": "Other treatments for primary immunodeficiencies include enzyme replacement in patients with adenosine deaminase deficiency (a subtype of severe combined immunodeficiency) and cytokine therapy in patients with chronic granulomatous disease.8"
+        },
+        {
+            "parent": 13,
+            "text": "Most patients with primary immunodeficiencies should not receive live virus vaccines, including live oral poliovirus vaccine (OPV). Because of the risk of infection, OPV also should not be given to persons in close contact with these patients.14In addition, most patients with primary immunodeficiencies should not receive measles, bacille Calmette-Guérin, and varicella vaccines. One exception would be patients with B-cell deficiency, who should receive varicella vaccine."
+        },
+        {
+            "parent": 13,
+            "text": "Patients with T-cell deficiencies should receive cytomegalovirus-negative irradiated blood products because of the risk of infection and graft-versus-host disease from lymphocytes in the donor blood. Patients with IgA deficiency need to be informed about the possibility of having a serious reaction to plasma or blood transfusions, because of antibodies to IgA.5"
+        }
+    ],
+    "locked": false
+}

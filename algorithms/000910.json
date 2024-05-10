@@ -1,0 +1,233 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2000/0415/p2371.html#afp20000415p2371-f2",
+    "title": "The Evaluation of Common Breast Problems | AAFP",
+    "author": "MONICA MORROW, M.D.",
+    "doi": "Am Fam Physician.2000;61(8):2371-2378",
+    "abstract": "The most common breast problems for which women consult a physician are breast pain, nipple discharge and a palpable mass. Most women with these complaints have benign breast disease. Breast pain alone is rarely a presenting symptom of cancer, and imaging studies should be reserved for use in women who fall within usual screening guidelines. A nipple discharge can be characterized as physiologic or pathologic based on the findings of the history and physical examination. A pathologic discharge is an indication for terminal duct excision. A dominant breast mass requires histologic diagnosis. A breast cyst can be diagnosed and treated by aspiration. The management of a solid mass depends on the degree of clinical suspicion and the patient's age.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Breast Pain",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Nipple Discharge",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Breast Masses",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "CYSTIC BREAST MASSES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "SOLID BREAST MASSES",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Breast disease in women encompasses a spectrum of benign and malignant disorders. The frequency of breast cancer varies with the age of the patient and the presenting complaint. Breast pain, a nipple discharge and a palpable mass are the most common breast problems for which women consult a physician."
+        },
+        {
+            "parent": -1,
+            "text": "Regardless of the type of breast problem, the goal of the evaluation is to rule out cancer and address the patient's symptoms. The extent of the evaluation required to accomplish this goal varies with the type of clinical problem and the patient's age and risk status. This article reviews the presentation and management of common breast problems."
+        },
+        {
+            "parent": 0,
+            "text": "Breast pain is the most common breast symptom causing women to consult primary care physicians and surgeons.1,2The high level of public awareness about breast cancer and the concern that mastalgia may indicate disease contribute to this trend."
+        },
+        {
+            "parent": 0,
+            "text": "Mastalgia is more common in pre-menopausal women than in postmenopausal women, and it is rarely a presenting symptom of breast cancer. Although one study found that 36 (15 percent) of 240 women with operable breast cancer reported having breast pain, only 16 (7 percent) presented with mastalgia alone.2Even in these women, it was not clear whether the cancer caused the breast pain or the symptom of pain resulted in a breast evaluation that identified an asymptomatic cancer."
+        },
+        {
+            "parent": 0,
+            "text": "The etiology of breast pain is unknown. Its relationship to the menstrual cycle and its more frequent occurrence in pre-menopausal women suggest a hormonal etiology, but no reproducible alterations in estrogen, progesterone or prolactin levels have been identified in women with mastalgia. Premenstrual water retention in the breasts has also been proposed as a cause of mastalgia and is the rationale for the use of diuretics in the treatment of this condition. However, one study found no correlation between total body water and breast pain in 39 women with breast pain and 17 control subjects.3"
+        },
+        {
+            "parent": 0,
+            "text": "No histologic findings correlate with breast pain. Although “fibrocystic disease” is often present in the biopsy specimens of women with breast pain, studies have shown that fibrocystic changes are also present in the breasts of 50 to 90 percent of asymptomatic women. Hence, the presence of these changes is not proof of a causal relationship."
+        },
+        {
+            "parent": 0,
+            "text": "The evaluation of breast pain begins with a thorough history and a careful physical examination. Special attention should be given to the type of pain, its location and its relationship to the menstrual cycle. Most commonly, breast pain is associated with the menstrual cycle (cyclic mastalgia) and is most severe before the menses. However, breast pain can also be unrelated to the menstrual cycle or can occur post-menopausally (noncyclic mastalgia)."
+        },
+        {
+            "parent": 0,
+            "text": "Cyclic pain is usually bilateral and poorly localized. It is generally described as a heaviness or soreness that often radiates to the axilla and arm. The pain has a variable duration and is often relieved after the menses. Compared with noncyclic mastalgia, cyclic breast pain occurs more often in younger women. Most cyclic pain resolves spontaneously."
+        },
+        {
+            "parent": 0,
+            "text": "Noncyclic mastalgia is most common in women 40 to 50 years of age. It is often unilateral and is described as a sharp, burning pain that appears to be localized in the breast. Noncyclic mastalgia is occasionally secondary to the presence of a fibroadenoma or cyst, and the pain may be relieved by treatment of the underlying breast lesion."
+        },
+        {
+            "parent": 0,
+            "text": "Menstrual irregularity, emotional stress and medication changes have been shown to exacerbate mastalgia. In obtaining the history, questions should be directed at identifying problems in these areas."
+        },
+        {
+            "parent": 0,
+            "text": "A thorough breast examination should be performed to exclude the presence of a breast mass. In the absence of a mass, women 35 years of age and older should undergo mammography unless a mammogram was obtained in the past 10 to 12 months. The purpose of the study is to look for concurrent breast pathology in women whose age places them at risk for breast cancer. When the physical examination is normal, imaging studies are not indicated in women younger than 35 years of age."
+        },
+        {
+            "parent": 0,
+            "text": "In the vast majority of women with breast pain, the physical examination and mammography reveal no evidence of breast pathology. In these situations, it is usually sufficient to reassure patients that their breast pain is not caused by malignancy and to discuss the normal physiology of the breast. Patients can also be reassured that breast pain has a high spontaneous remission rate (60 to 80 percent).1"
+        },
+        {
+            "parent": 0,
+            "text": "Breast pain should be treated when it is severe enough to interfere with a woman's lifestyle and occurs for more than a few days each month. Before beginning any therapy for breast pain, patients should be asked to document the frequency and severity of their pain on a daily basis for one menstrual cycle using a visual analog scale. The pain scale is also helpful in assessing treatment response in mastalgia, which is characterized by the waxing and waning of symptoms and a high spontaneous remission rate."
+        },
+        {
+            "parent": 0,
+            "text": "Because of the extreme variability in breast pain, only treatments that have been tested in randomized, controlled trials can confidently be considered beneficial. Danazol (Danocrine), an antigonadotropin, is the only drug labeled by the U.S. Food and Drug Administration for the treatment of breast pain. Randomized, controlled trials have demonstrated a response rate of 50 to 75 percent in women with cyclic pain who received danazol in a dosage of 100 to 400 mg per day. About 75 percent of women with noncyclic pain responded to the drug. Because of its significant side effects, danazol therapy is recommended only for patients with the most severe, activity-limiting pain. Side effects of this drug, including menstrual irregularity, acne, weight gain and hirsutism, occur in approximately 20 percent of recipients.1,4"
+        },
+        {
+            "parent": 0,
+            "text": "Caffeine avoidance has been a popular treatment measure in women with breast pain. Unfortunately, two randomized clinical trials5,6and one case-control study7failed to demonstrate a therapeutic benefit for caffeine restriction."
+        },
+        {
+            "parent": 0,
+            "text": "Vitamin E supplementation has also been advocated as a treatment for breast pain. However, two double-blind, placebo-controlled, randomized trials demonstrated no benefit for this approach.8,9"
+        },
+        {
+            "parent": 0,
+            "text": "In randomized trials conducted in Great Britain,458 percent of women with cyclic mastalgia and 38 percent of those with noncyclic mastalgia responded to treatment with evening primrose oil (γ-linolenic acid). Side effects occurred in fewer than 2 percent of recipients. This over-the-counter preparation may be an attractive approach for the treatment of severe breast pain."
+        },
+        {
+            "parent": 0,
+            "text": "Surgery has no role in the management of breast pain in the absence of a dominant mass. Even when pain appears to be localized, excision is almost never therapeutic. The approach to the patient with breast pain is summarized inFigure 1."
+        },
+        {
+            "parent": 1,
+            "text": "Nipple discharge is most often due to a benign process. This common breast problem has been reported in 10 to 15 percent of women with benign breast disease and in 2.5 to 3 percent of women with breast cancer. However, using an aspiration pump, secretions can be obtained from 50 to 80 percent of women without known breast disease.10–12"
+        },
+        {
+            "parent": 1,
+            "text": "The first step in the evaluation of a nipple discharge is to determine whether the discharge is pathologic or physiologic. Nipple discharges are classified as pathologic if they are spontaneous, bloody or associated with a mass. Pathologic discharges are usually unilateral and confined to one duct. Physiologic discharges are characterized by discharge only with compression and by multiple duct involvement. These discharges are frequently bilateral. With either type, the discharge fluid may be clear, yellow, white or dark green."
+        },
+        {
+            "parent": 1,
+            "text": "A careful history usually identifies a physiologic discharge. If this type of nipple discharge is present, coexisting abnormalities should be excluded through a complete breast examination, with mammography in women more than 35 years of age. If the work-up is negative, reassurance is the only therapy that is needed. Because stimulation of the nipple (i.e., squeezing to check for discharge) actually promotes discharge, patients with a physiologic discharge should be advised to avoid checking for discharge. A physiologic discharge often resolves when the nipple is left alone."
+        },
+        {
+            "parent": 1,
+            "text": "The most common cause of pathologic nipple discharge is intraductal papilloma, followed by duct ectasia.10If a palpable mass is present in association with a discharge, the likelihood of cancer is greatly increased."
+        },
+        {
+            "parent": 1,
+            "text": "The work-up of a pathologic discharge should include localization of the affected duct and examination of the discharge for occult blood. Cytology generally is not useful because the absence of malignant cells does not exclude cancer, and a positive result cannot distinguish intraductal cancer from invasive cancer. A diagnostic mammogram should be obtained to look for nonpalpable masses or calcifications. Magnification views of the retroareolar region may be helpful in identifying pathology."
+        },
+        {
+            "parent": 1,
+            "text": "All patients with spontaneous or unilateral nipple discharge should be referred for surgical evaluation. This is true for patients with bloody discharges and for those with clear or serous discharges. A terminal duct excision is both diagnostic and, for discharges that turn out to have a benign cause, therapeutic."
+        },
+        {
+            "parent": 1,
+            "text": "The role of galactography in women with a nipple discharge is controversial. A negative galactogram does not reliably exclude the presence of breast cancer and is not a replacement for surgery.11The decision about whether galactography is necessary should be left to the operating surgeon."
+        },
+        {
+            "parent": 1,
+            "text": "Nonpuerperal galactorrhea and pathologic nipple discharges are evaluated differently because galactorrhea is not a symptom of breast cancer or primary breast pathology. Galactorrhea may be secondary to nipple stimulation, chest wall trauma or the use of oral contraceptives, phenothiazines, antihypertensive drugs and a variety of tranquilizers.12,13Galactorrhea may also be caused by endocrine abnormalities such as hypothyroidism, pituitary adenomas and a number of amenorrhea syndromes.12,13The evaluation of galactorrhea is determined by the clinical picture, but surgical duct excision is not an appropriate treatment."
+        },
+        {
+            "parent": 2,
+            "text": "Determining what constitutes a dominant mass is often difficult, particularly in pre-menopausal women. The normal glandular tissue of the breast is nodular, and this nodularity is usually most pronounced in the upper outer quadrant of the breast and the area of the inframammary ridge. Nodularity, particularly when it waxes and wanes during the menstrual cycle, is a physiologic process and is not an indication of breast pathology."
+        },
+        {
+            "parent": 2,
+            "text": "Dominant masses are characterized by persistence throughout the menstrual cycle. These masses may be discrete or poorly defined, but they differ in character from the surrounding breast tissue and the corresponding area in the contralateral breast. The differential diagnosis of a dominant breast mass includes macrocyst (clinically evident cyst), fibroadenoma, prominent areas of fibrocystic change, fat necrosis and cancer."
+        },
+        {
+            "parent": 3,
+            "text": "Cysts are a common cause of dominant breast masses in premenopausal women more than 40 years of age but an infrequent cause of such masses in younger women. In one study,14cysts accounted for only 10 percent of breast masses in women less than 40 years of age. Although cysts may occur at any age, they are relatively uncommon in postmenopausal women who are not taking hormones."
+        },
+        {
+            "parent": 3,
+            "text": "Cysts often fluctuate with the menstrual cycle and are particularly common during periods of hormonal irregularity. Clinically, cysts are usually well demarcated from the surrounding breast tissue. They are characteristically firm and mobile. Cysts that have filled rapidly may be tender."
+        },
+        {
+            "parent": 3,
+            "text": "On physical examination, it is often difficult to distinguish a cyst from a solid mass. Ultrasonography or aspiration must be used to establish a definitive diagnosis. Cysts require surgical biopsy only if the aspirated fluid is bloody, the palpable abnormality does not resolve completely after the aspiration of fluid or the same cyst recurs multiple times in a short period of time."
+        },
+        {
+            "parent": 3,
+            "text": "Routine cytologic examination of cyst fluid is not indicated because of the low likelihood of cancer in the absence of clinical findings of bloody fluid or a residual mass after aspiration. In addition, cytologic identification of atypical cells in cyst fluid is not uncommon, resulting in the clinical dilemma of a patient whose cyst resolves with aspiration, whose mammogram is normal but whose cytology report indicates the need for biopsy."
+        },
+        {
+            "parent": 3,
+            "text": "In one follow-up study,15cytologic examination found atypical cells in 1,677 of 6,782 cyst fluid aspirates. No cancers were identified. Routine cytologic examination of cyst fluid is not cost-effective, often results in unnecessary surgical biopsies and does not obviate the need for clinical follow-up."
+        },
+        {
+            "parent": 3,
+            "text": "Patients with a solitary breast cyst should be reexamined four to six weeks after cyst aspiration to determine if the cyst has recurred. One follow-up study16of 389 women who underwent cyst aspiration found that 44 women had a recurrent cyst and 20 had a solid mass at the aspiration site. In biopsies of the 20 solid masses, two cancers were found."
+        },
+        {
+            "parent": 3,
+            "text": "Aspiration is still an appropriate first step in the management of a breast cyst, but clinical follow-up after aspiration is essential. In contrast to macrocysts, nonpalpable cysts identified by mammography and confirmed to be simple cysts by ultrasound examination require no treatment. An algorithm for the management of breast cysts is provided inFigure 2.17"
+        },
+        {
+            "parent": 4,
+            "text": "Noncystic masses in premenopausal women that are clearly different from the surrounding breast tissue require histologic sampling by fine-needle aspiration, core cutting, needle biopsy or excisional biopsy. Observation for one or two menstrual cycles is only appropriate for vague asymmetry or nodularity when it is unclear that a dominant breast mass is present."
+        },
+        {
+            "parent": 4,
+            "text": "The extent of imaging required for the evaluation of a solid breast mass depends on the age and risk status of the patient and the degree of clinical suspicion. Imaging studies are used to define the extent of a potential malignancy and to identify nonpalpable masses elsewhere in the breast, findings that may influence the choice of local therapy."
+        },
+        {
+            "parent": 4,
+            "text": "The decision to perform a biopsy is based on the clinical determination that a dominant mass is present, not on the findings of imaging studies, because of the known false-negative rate of mammography (approximately 10 to 20 percent).18Only 6.5 percent of breast cancers reported in the SEER (Surveillance, Epidemiology and End Results) database were diagnosed in women less than 40 years of age.19Therefore, definition of the extent of malignancy is not a compelling rationale for imaging in this age group."
+        },
+        {
+            "parent": 4,
+            "text": "In one study,20no malignant lesions were identified in 625 women 35 years of age or younger who underwent mammography for vague indications such as fibrocystic disease or lumpy breasts. In another study,14301 women less than 40 years of age underwent mammography, ultrasound examination, or both for the evaluation of a breast mass after a surgeon's examination described normal, benign or nodular findings. No invasive cancers were identified, although two women were found to have microcalcifications resulting from intraductal cancer and unrelated to the clinical symptom of a breast mass."
+        },
+        {
+            "parent": 4,
+            "text": "Solid Masses in Women Less Than 40 Years of Age. An algorithm for the use of breast-imaging studies in women less than 40 years of age following evaluation by an experienced physician is presented inFigure 3.14"
+        },
+        {
+            "parent": 4,
+            "text": "If the physical examination reveals no evidence of a dominant breast mass, the patient should be reassured and instructed in breast self-examination. If the clinical significance of a physical finding is uncertain, a directed ultrasound examination is performed. If this examination does not demonstrate a mass, the physical examination is repeated in two to four months. In women 35 to 40 years of age who have a normal or equivocal ultrasound examination, a mammogram may also be obtained. In younger women, mammography is rarely useful.14,20"
+        },
+        {
+            "parent": 4,
+            "text": "In patients found to have a dominant mass, the approach varies with the degree of clinical suspicion. A suspicious mass is solitary, discrete, hard and, often, adherent to adjacent tissue. If such a mass is present, mammography is performed before an attempt is made to obtain a pathologic diagnosis."
+        },
+        {
+            "parent": 4,
+            "text": "If a clinically benign mass is present, the options of surgical excision or follow-up are discussed with the patient. If the patient desires surgical excision, no additional testing is done. If the patient opts for further work-up, an ultrasound examination and fine-needle aspiration are performed to confirm that the mass is benign. This approach is often referred to as the “triple test” (clinical examination, ultrasonography [or mammography] and fine-needle aspiration)."
+        },
+        {
+            "parent": 4,
+            "text": "The accuracy rates for fine-needle aspiration alone are high. One review of 4,943 fine-needle aspirations noted an 87 percent sensitivity for the diagnosis of carcinoma.21In another review of 3,545 such procedures, a 9.6 percent false-negative rate was reported.22"
+        },
+        {
+            "parent": 4,
+            "text": "The addition of clinical and imaging evaluations to the results of fine-needle aspiration has been proposed to increase the accuracy of the test. When the triple-test approach indicates the presence of benign disease, one literature review found that the likelihood of cancer was only 0.6 percent.23For this statistic to apply, all elements of the triple test must be evaluable. The statistic does not apply if the cytologic aspirate has an insufficient number of epithelial cells for interpretation or if the mass is not visualized by imaging studies."
+        },
+        {
+            "parent": 4,
+            "text": "If a dominant breast mass is to be observed, a defined follow-up plan must be established to facilitate early detection of a missed cancer. The size of the lesion must be measured with a ruler at presentation and on subsequent visits to allow an accurate assessment of size over time. In general, the patient is examined every three or four months for one year to ensure stability of the mass. This approach to dominant breast masses should only be undertaken by a physician who is experienced in the evaluation of breast masses."
+        },
+        {
+            "parent": 4,
+            "text": "Solid Masses in Women More Than 40 Years of Age. As patient age increases, clinically evident benign breast problems become less frequent. Therefore, abnormalities detected on physical examination in older women should be regarded as possible cancers until they are documented to be benign."
+        },
+        {
+            "parent": 4,
+            "text": "In women more than 40 years of age, diagnostic mammography is a standard part of the evaluation of a solid breast mass. In the patient with a breast complaint, a screening study consisting of two standard views of the breast (craniocaudal and mediolateral oblique) is inappropriate. The radiologist should be notified of the area of clinical concern so that it can be defined with a radiopaque marker to ensure that any noted mammographic abnormalities correspond to the clinical finding. Extra views can be obtained to ensure that the lesion is adequately visualized.24The purpose of this evaluation is to document the extent of the mass and the presence of other lesions within the breast that might influence the patient's suitability for breast-conserving surgery if cancer is diagnosed.25"
+        },
+        {
+            "parent": 4,
+            "text": "In the presence of a dominant breast mass, a normal mammogram should never be considered proof of the absence of breast cancer. Even in modern series,18,26,279 to 22 percent of palpable breast cancers are not seen on mammograms. However, by obtaining the appropriate imaging studies before referral for surgical consultation, the family physician can facilitate the work-up of palpable abnormalities in older women."
+        }
+    ],
+    "locked": false
+}

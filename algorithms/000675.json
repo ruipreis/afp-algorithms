@@ -1,0 +1,165 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0115/p244.html#afp20060115p244-f1",
+    "title": "Initial Evaluation of Vertigo | AAFP",
+    "author": "RONALD H. LABUGUEN, M.D.",
+    "doi": "Am Fam Physician.2006;73(2):244-251",
+    "abstract": "Benign paroxysmal positional vertigo, acute vestibular neuronitis, and Ménière’s disease cause most cases of vertigo; however, family physicians must consider other causes including cerebrovascular disease, migraine, psychological disease, perilymphatic fistulas, multiple sclerosis, and intracranial neoplasms. Once it is determined that a patient has vertigo, the next task is to determine whether the patient has a peripheral or central cause of vertigo. Knowing the typical clinical presentations of the various causes of vertigo aids in making this distinction. The history (i.e., timing and duration of symptoms, provoking factors, associated signs and symptoms) and physical examination (especially of the head and neck and neurologic systems, as well as special tests such as the Dix-Hallpike maneuver) provide important clues to the diagnosis. Associated neurologic signs and symptoms, such as nystagmus that does not lessen when the patient focuses, point to central (and often more serious) causes of vertigo, which require further work-up with selected laboratory and radiologic studies such as magnetic resonance imaging.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "PERIPHERAL OR CENTRAL CAUSE OF VERTIGO",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "SEVERITY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PROVOKING FACTORS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ASSOCIATED SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "MEDICAL HISTORY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "NEUROLOGIC EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "HEAD AND NECK EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "CARDIOVASCULAR EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Laboratory Evaluation",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Radiologic Studies",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "One of the most common and frustrating complaints patients bring to their family physicians is dizziness. There are four types of dizziness: vertigo, lightheadedness, presyncope, and dysequilibrium.1The most prevalent type is vertigo (i.e., false sense of motion), which accounts for 54 percent of reports of dizziness in primary care.2The differential diagnosis of vertigo(Table 11–6)includes peripheral vestibular causes (i.e., those originating in the peripheral nervous system), central vestibular causes (i.e., those originating in the central nervous system), and other conditions. Ninety-three percent of primary care patients with vertigo have benign paroxysmal positional vertigo (BPPV), acute vestibular neuronitis, or Ménière’s disease.7Other causes include drugs (e.g., alcohol, aminoglycosides, anticonvulsants [phenytoin (Dilantin)], anti-depressants, antihypertensives, barbiturates, cocaine, diuretics [furosemide (Lasix)], nitroglycerin, quinine, salicylates, sedatives/hypnotics),8,9cerebrovascular disease, migraine, acute labyrinthitis, multiple sclerosis, and intracranial neoplasms. Much confusion surrounds the nomenclature of acute vestibular neuronitis because the term “labyrinthitis” often is used interchangeably with it. Labyrinthitis (i.e., inflammation of the labyrinthine organs caused by infection) is distinct from acute vestibular neuronitis (i.e., inflammation of the vestibular nerve), and the terms are not interchangable.1"
+        },
+        {
+            "parent": -1,
+            "text": "Because patients with dizziness often have difficulty describing their symptoms, determining the cause can be challenging. An evidence-based approach using knowledge of key historic, physical examination, and radiologic findings for the causes of vertigo can help family physicians establish a diagnosis and consider appropriate treatments in most cases(Figure 1)."
+        },
+        {
+            "parent": 0,
+            "text": "History alone reveals the diagnosis in roughly three out of four patients complaining of dizziness, although the proportion in patients specifically complaining of vertigo is unknown.10When collecting a patient’s history, the physician first must determine whether the patient truly has vertigo versus another type of dizziness. This can be done by asking, “When you have dizzy spells, do you feel light-headed or do you see the world spin around you?” An affirmative answer to the latter part of this question has been shown to accurately detect patients with true vertigo.11"
+        },
+        {
+            "parent": 1,
+            "text": "The next task is to determine whether the patient has a peripheral or central cause of vertigo. Key information from the history that can be used to make this distinction includes the timing and duration of the vertigo(Table 23,6,12); what provokes or aggravates it(Table 31,3,5,12,13); and whether any associated symptoms exist, especially neurologic symptoms and hearing loss(Tables 41,6,12–14and59,12,13).10Characteristics distinguishing peripheral and central causes of vertigo are listed inTable 6.14,15Rotatory illusions are highly associated with peripheral vestibular disorders, especially when nausea or vomiting accompanies the vertigo.1Nystagmus in peripheral vertigo usually is horizontal and rotational, lessens or disappears when the patient focuses the gaze, and usually is triggered by some provoking factor. In central vertigo, nystagmus is purely horizontal, vertical, or rotational; does not lessen when the patient focuses the gaze; and persists for a longer period.14The duration of each episode also has significant diagnostic value; generally, the longer symptoms last, the greater the likelihood that there is a central cause of vertigo.3In one study,16the presence of vertigo upon awakening in the morning was suggestive of peripheral vestibular disorders. Peripheral vertigo generally has a more sudden onset than vertigo of central nervous system origin, except for acute cerebrovascular events.3"
+        },
+        {
+            "parent": 2,
+            "text": "Knowing the severity of vertigo over time also is helpful. For example, in acute vestibular neuronitis, initial symptoms typically are severe but lessen over the next few days. In Ménière’s disease, attacks of vertigo initially increase in severity, then lessen in severity later on. Patients complaining of constant vertigo lasting for weeks may have a psychological cause for their symptoms."
+        },
+        {
+            "parent": 3,
+            "text": "Provoking factors and circumstances around the onset of vertigo may prove useful in narrowing the differential diagnosis to a peripheral vestibular condition. If symptoms occur only with positional changes, such as turning over in bed,17bending over at the waist and then straightening up, or hyperextending the neck, BPPV is the most likely cause.1A recent viral upper respiratory infection may precede acute vestibular neuronitis or acute labyrinthitis. Factors that provoke migraine headaches can cause vertigo if the patient experiences this as a symptom associated with migraine."
+        },
+        {
+            "parent": 3,
+            "text": "Vertigo can be caused by perilymphatic fistula (i.e., breach between the inner ear and middle ear).18Perilymphatic fistula may be caused by trauma from a direct blow, or from activities such as scuba diving (from barotrauma) and heavy weight bearing or excessive straining with bowel movements.3,12Sneezing or movements that place the affected ear downward also can provoke vertigo in patients with perilymphatic fistulas.19"
+        },
+        {
+            "parent": 3,
+            "text": "The presence of Tullio’s phenomenon (i.e., nystagmus and vertigo caused by loud noises or sounds at a particular frequency) suggests a peripheral cause for vertigo.12"
+        },
+        {
+            "parent": 3,
+            "text": "Significant psychosocial stress can cause patients to complain of vertigo. Asking about psychological stressors or psychiatric history may be important, especially in patients whose history does not necessarily fit the usual presentation of physical causes of vertigo. For example, a history of anxiety or panic attacks associated with vertigo may point to hyperventilation as a cause.12"
+        },
+        {
+            "parent": 4,
+            "text": "Hearing loss, pain, nausea, vomiting, or neurologic symptoms can help differentiate the cause of vertigo. Most causes of vertigo with hearing loss are peripheral, the main exception being a cerebrovascular event involving the internal auditory artery or anterior inferior cerebellar artery. Pain accompanying vertigo may occur with acute middle ear disease, invasive disease of the temporal bone, or meningeal irritation.12Vertigo often is associated with nausea or vomiting in acute vestibular neuronitis and in severe episodes of Ménière’s disease and BPPV.1,20In central causes of vertigo, nausea and vomiting tend to be less severe.14Neurologic symptoms such as weakness, dysarthria, vision or hearing changes, paresthesia, altered level of consciousness, ataxia, or other changes in sensory and motor function favor the presence of a central cause of vertigo such as cerebrovascular disease, neoplasm, or multiple sclerosis. Patients with migrainous vertigo may experience other symptoms related to the migraine, including a typical headache (often throbbing, unilateral, sometimes preceded by an aura), nausea, vomiting, photophobia, and phonophobia. Twenty-one to 35 percent of patients with migraine suffer vertigo.21"
+        },
+        {
+            "parent": 5,
+            "text": "Other important clues to the diagnosis of vertigo may come from the patient’s medical history, including medications, trauma, or exposure to toxins.18Age is associated with some underlying conditions that can cause vertigo. For example, older patients, especially those with diabetes or hypertension, are at higher risk of cerebrovascular causes of vertigo.12Patients should be asked about family history including hereditary conditions such as migraine and risk factors for cerebrovascular disease."
+        },
+        {
+            "parent": 6,
+            "text": "Physicians should pay particular attention to physical findings of the neurologic, head and neck, and cardiovascular systems."
+        },
+        {
+            "parent": 7,
+            "text": "The cranial nerves should be examined for signs of palsies, sensorineural hearing loss, and nystagmus. Vertical nystagmus is 80 percent sensitive for vestibular nuclear or cerebellar vermis lesions.2Spontaneous horizontal nystagmus with or without rotatory nystagmus is consistent with acute vestibular neuronitis. Patients with peripheral vertigo have impaired balance but are still able to walk, whereas patients with central vertigo have more severe instability and often cannot walk or even stand without falling.14Although Romberg’s sign is consistent with a vestibular or proprioceptive problem, it is not particularly useful in the diagnosis of vertigo. In one study,22it was only 19 percent sensitive for peripheral vestibular disorders and did not correlate with more serious causes of dizziness (not limited to vertigo) such as drug-related dizziness, seizure, arrhythmia, or cerebrovascular events."
+        },
+        {
+            "parent": 7,
+            "text": "The Dix-Hallpike maneuver(Figure 2)1,3,19may be the most helpful test to perform on patients with vertigo. It has a positive predictive value of 83 percent and a negative predictive value of 52 percent for the diagnosis of BPPV.7,10After the initial test, the intensity of induced symptoms typically wanes with repeated maneuvers in peripheral vertigo but does so less often in central vertigo.15The combination of a positive Dix-Hallpike maneuver and a history of vertigo or vomiting suggests a peripheral vestibular disorder.22If the maneuver provokes purely vertical (usually downbeat) or torsional nystagmus without a latent period of at least a few seconds, and does not wane with repeated maneuvers, this suggests a central cause for vertigo such as a posterior fossa tumor or hemorrhage.14,15"
+        },
+        {
+            "parent": 7,
+            "text": "Hyperventilation for 30 seconds may assist in ruling out psychogenic causes of vertigo associated with hyperventilation syndrome.22It rarely can cause true vertigo in patients with perilymphatic fistulas or acoustic neuromas.12"
+        },
+        {
+            "parent": 8,
+            "text": "The tympanic membranes should be examined for vesicles (i.e., herpes zoster oticus [Ramsay Hunt syndrome]) or cholesteatoma. Hennebert’s sign (i.e., vertigo or nystagmus caused by pushing on the tragus and external auditory meatus of the affected side) indicates the presence of a perilymphatic fistula.12Pneumatic otoscopy may cause similar findings.3The Valsalva maneuver (i.e., forced exhalation with nose plugged and mouth closed to increase pressure against the eustachian tube and inner ear) may cause vertigo in patients with perilymphatic fistulae12or anterior semicircular canal dehiscence12,23; its clinical diagnostic value, however, is limited.22"
+        },
+        {
+            "parent": 9,
+            "text": "Orthostatic changes in systolic blood pressure (e.g., a drop of 20 mm Hg or more) and pulse (e.g., increase of 10 beats per minute) in patients with vertigo upon standing may identify problems with dehydration or autonomic dysfunction.10Carotid sinus stimulation should not be performed; it has been shown to be not useful diagnostically22and potentially is dangerous."
+        },
+        {
+            "parent": 10,
+            "text": "Laboratory tests such as electrolytes, glucose, blood counts, and thyroid function tests identify the etiology of vertigo in fewer than 1 percent of patients with dizziness.10They may be appropriate when patients with vertigo exhibit signs or symptoms that suggest the presence of other causative conditions. Audiometry helps establish the diagnosis of Ménière’s disease.20"
+        },
+        {
+            "parent": 11,
+            "text": "Physicians should consider neuroimaging studies in patients with vertigo who have neurologic signs and symptoms, risk factors for cerebrovascular disease, or progressive unilateral hearing loss.19In one study,2440 percent of patients with dizziness and neurologic signs had relevant abnormalities suggesting central nervous system lesions on magnetic resonance imaging of the head. In patients with isolated vertigo who also were at risk for cerebrovascular disease, 25 percent had caudal cerebellar infarcts.25In general, magnetic resonance imaging is more appropriate than computed tomography for diagnosing vertigo because of its superiority in visualizing the posterior fossa, where most central nervous system disease that causes vertigo is found.26Magnetic resonance or conventional angiography of the posterior fossa vasculature may be useful in diagnosing vascular causes of vertigo such as vertebrobasilar insufficiency, thrombosis of the labyrinthine artery, anterior or posterior inferior cerebellar artery insufficiency, and subclavian steal syndrome.26"
+        },
+        {
+            "parent": 11,
+            "text": "Neuroimaging studies can be used to rule out extensive bacterial infections, neoplasms, or developmental abnormalities if other symptoms suggest one of those diagnoses.26,27However, they are not indicated in patients who have BPPV,26usually are not necessary to diagnose acute vestibular neuronitis or Ménière’s disease, and are poor routine screening tests for cerebellopontine angle tumors causing vertigo.27"
+        },
+        {
+            "parent": 11,
+            "text": "Conventional radiographs or cross-sectional imaging procedures may aid in the diagnosis of cervical vertigo (i.e., vertigo triggered by somatosensory input from head and neck movements) in patients with a history suggestive of this diagnosis26; however, the existence of this disorder remains controversial, and most patients in whom this diagnosis is considered should have other, more well-established conditions investigated.4"
+        },
+        {
+            "parent": 12,
+            "text": "Not all patients with vertigo need to be referred to a subspecialist. Family physicians should consider referral to the appropriate subspecialist (e.g., otolaryngologist, head and neck surgeon, neurologist, neurosurgeon) if the diagnosis of vertigo is unclear or if the patient has a medical problem requiring further subspecialty care."
+        }
+    ],
+    "locked": false
+}

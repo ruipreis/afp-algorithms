@@ -1,0 +1,187 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/0501/p1959.html#afp20030501p1959-f2",
+    "title": "A Practical Approach to Hypercalcemia | AAFP",
+    "author": "MARY F. CARROLL, M.D., AND DAVID S. SCHADE, M.D.",
+    "doi": "Am Fam Physician.2003;67(9):1959-1966",
+    "abstract": "Hypercalcemia is a disorder commonly encountered by primary care physicians. The diagnosis often is made incidentally in asymptomatic patients. Clinical manifestations affect the neuromuscular, gastrointestinal, renal, skeletal, and cardiovascular systems. The most common causes of hypercalcemia are primary hyper-parathyroidism and malignancy. Some other important causes of hypercalcemia are medications and familial hypocalciuric hypercalcemia. An initial diagnostic work-up should include measurement of intact parathyroid hormone, and any medications that are likely to be causative should be discontinued. Parathyroid hormone is suppressed in malignancy-associated hypercalcemia and elevated in primary hyperparathyroidism. It is essential to exclude other causes before considering parathyroid surgery, and patients should be referred for parathyroidectomy only if they meet certain criteria. Many patients with primary hyperparathyroidism have a benign course and do not need surgery. Hypercalcemic crisis is a life-threatening emergency. Aggressive intravenous rehydration is the mainstay of management in severe hypercalcemia, and antiresorptive agents, such as calcitonin and bisphosphonates, frequently can alleviate the clinical manifestations of hypercalcemic disorders.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology of Hypercalcemia",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Manifestations of Hypercalcemia",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Differential Diagnosis for Hypercalcemia",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "HYPERPARATHYROIDISM",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "VITAMIN D-MEDIATED CAUSES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HYPERCALCEMIA OF MALIGNANCY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OTHER ENDOCRINE DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "FAMILIAL HYPOCALCIURIC HYPERCALCEMIA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MISCELLANEOUS CAUSES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Treatment of Hypercalcemia",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "HYDRATION AND DIURESIS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "PHARMACOLOGIC AGENTS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "DIALYSIS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "SURGERY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hypercalcemia is a disorder commonly encountered by primary care physicians. Approximately one in 500 patients who are treated in a general medicine clinic have undiagnosed primary hyperparathyroidism, the leading cause of hypercalcemia.1–4The diagnosis of hypercalcemia most often is made incidentally when a high calcium level is detected in blood samples. The principal challenges in the management of hypercalcemia are distinguishing primary hyperparathyroidism from conditions that will not respond to parathyroidectomy and knowing when it is appropriate to refer the patient for surgery. It is essential that physicians know how to evaluate and optimally manage patients with hypercalcemia, because treatment and prognosis vary according to the underlying disorder."
+        },
+        {
+            "parent": 0,
+            "text": "The skeleton contains 98 percent of total body calcium; the remaining 2 percent circulates throughout the body. One half of circulating calcium is free (ionized) calcium, the only form that has physiologic effects. The remainder is bound to albumin, globulin, and other inorganic molecules. Low albumin levels can affect the total serum calcium level. Directly measuring the free calcium level is more convenient and accurate, but the following formula can be used to calculate the corrected total serum calcium level:"
+        },
+        {
+            "parent": 0,
+            "text": "Corrected calcium = (4.0 g per dL –[plasma albumin]) 3 0.8 + [serum calcium] Parathyroid hormone (PTH), 1,25-dihydroxyvitamin D3(calcitriol), and calcitonin control calcium homeostasis in the body(Table 1). Increased bone resorption, increased gastrointestinal absorption of calcium, and decreased renal excretion of calcium cause hypercalcemia. Normal serum calcium levels are 8 to 10 mg per dL (2.0 to 2.5 mmol per L,Figure 1), although the exact range can vary among laboratories. Normal ionized calcium levels are 4 to 5.6 mg per dL (1 to 1.4 mmol per L). Hypercalcemia is considered mild if the total serum calcium level is between 10.5 and 12 mg per dL (2.63 and 3 mmol per L).5Levels higher than 14 mg per dL (3.5 mmol per L) can be life threatening."
+        },
+        {
+            "parent": 0,
+            "text": "PTH is an 84-amino acid hormone produced by the four pea-sized parathyroid glands posterior to the thyroid gland. In response to low serum calcium levels, PTH raises calcium levels by accelerating osteoclastic bone resorption and increasing renal tubular resorption of calcium. It also increases calcitriol, which indirectly raises serum calcium levels. PTH causes phosphate loss through the kidneys. Thus, in patients with PTH-mediated hypercalcemia, serum phosphate levels tend to be low."
+        },
+        {
+            "parent": 0,
+            "text": "Vitamin D is a steroid hormone that is obtained through the diet or produced by the action of sunlight on vitamin D precursors in the skin. Calcitriol, the active form of vitamin D, is derived from successive hydroxylation of the precursor cholecalciferol, first in the liver (25-hydroxylation), then in the kidneys (1-hydroxylation). Adequate vitamin D is necessary for bone formation. However, the principal target for vitamin D is the gut, where it increases the absorption of calcium and phosphate. Thus, in vitamin D-mediated hypercalcemia, serum phosphate levels tend to be high."
+        },
+        {
+            "parent": 0,
+            "text": "Calcitonin is a 32-amino acid hormone produced by the parafollicular C cells of the thyroid. Calcitonin is a weak inhibitor of osteoclast activation and opposes the effects of PTH on the kidneys, thereby promoting calcium and phosphate excretion. Calcitonin levels might be elevated in pregnant patients and in patients with medullary carcinoma of the thyroid. However, there are no direct clinical sequelae, and serum calcium levels usually are normal."
+        },
+        {
+            "parent": 0,
+            "text": "PTH-related peptide (PTHrP) is the principal mediator in hypercalcemia associated with solid tumors.6PTHrP is homologous with PTH at the amino terminus, the region that comprises the receptor-binding domain. PTHrP binds the PTH receptor and mimics the biologic effects of PTH on bones and the kidneys."
+        },
+        {
+            "parent": 1,
+            "text": "The optimal concentration of serum ionized calcium is essential for normal cellular function. Hypercalcemia leads to hyperpolarization of cell membranes. Patients with levels of calcium between 10.5 and 12 mg per dL can be asymptomatic.7When the serum calcium level rises above this stage, multisystem manifestations become apparent(Table 2). This constellation of symptoms has led to the mnemonic “Stones, bones, abdominal moans, and psychic groans,” which is used to recall the signs and symptoms of hypercalcemia, particularly as a result of primary hyperparathyroidism."
+        },
+        {
+            "parent": 1,
+            "text": "Neuromuscular effects include impaired concentration, confusion, corneal calcification, fatigue, and muscle weakness.8Nausea, abdominal pain, anorexia, constipation, and, rarely, peptic ulcer disease or pancreatitis are among the gastrointestinal manifestations. The most important renal effects are polydipsia and polyuria resulting from nephrogenic diabetes insipidus, and nephrolithiasis resulting from hypercalciuria. Other renal effects include dehydration and nephrocalcinosis. Cardiovascular effects include hypertension, vascular calcification, and a shortened QT interval on the electrocardiogram. Cardiac arrhythmias are rare. Bone pain can occur in patients with hyperparathyroidism or malignancy. Osteoporosis of cortical bone, such as the wrist, is mainly associated with primary hyperparathyroidism.9Excess PTH also can result in subperiosteal resorption, leading to osteitis fibrosa cystica with bone cysts and brown tumors of the long bones."
+        },
+        {
+            "parent": 2,
+            "text": "Primary hyperparathyroidism and malignancy account for more than 90 percent of hypercalcemia cases. These conditions must be differentiated early to provide the patient with optimal treatment and accurate prognosis. Humoral hypercalcemia of malignancy implies a very limited life expectancy—often only a matter of weeks. On the other hand, primary hyperparathyroidism has a relatively benign course."
+        },
+        {
+            "parent": 2,
+            "text": "The causes of hypercalcemia can be divided into seven categories: hyperparathyroidism, vitamin D-related causes, malignancy, medications, other endocrine disorders, genetic disorders, and miscellaneous causes(Table 3). Evaluation of a patient with hypercalcemia(Figure 2)should include a careful history and physical examination focusing on clinical manifestations of hypercalcemia, risk factors for malignancy, causative medications, and a family history of hypercalcemia-associated conditions (e.g., kidney stones)."
+        },
+        {
+            "parent": 3,
+            "text": "Increased screening of calcium levels and wide availability of reliable assays for intact PTH levels have led to more frequent and earlier diagnoses of primary hyperparathyroidism. In 80 percent of cases, a single parathyroid adenoma is responsible. However, hyperparathyroidism also can result from hyperplasia of the parathyroid glands or, rarely, parathyroid carcinoma. In primary or tertiary hyperparathyroidism, PTH levels are normal or high in the setting of hypercalcemia(Figure 3)."
+        },
+        {
+            "parent": 3,
+            "text": "In many patients, primary hyperparathyroidism progresses very slowly. Patients should be considered for parathyroidectomy only if they meet criteria recommended by the National Institutes of Health Consensus Development Conference(Table 4).10[Evidence level C, consensus opinion] The disease will progress in approximately one fourth of patients who do not undergo surgery.11Pre-operative nuclear imaging of the parathyroids with a sestamibi scan(Figure 4)allows the surgeon to perform unilateral neck dissection, which results in reduced operative time and less morbidity.12Risks of parathyroid surgery include permanent hypoparathyroidism and damage to the recurrent laryngeal nerve."
+        },
+        {
+            "parent": 3,
+            "text": "Chronic renal failure generally causes hypocalcemia. If untreated, prolonged high phosphate and low vitamin D levels can lead to increased PTH secretion and subsequent hypercalcemia. This is termed tertiary hyperparathyroidism."
+        },
+        {
+            "parent": 4,
+            "text": "The most commonly available vitamin D supplements consist of 25-hydroxyvitamin D2. In suspected overdose of over-the-counter vitamin D, the level of 25-hydroxyvitamin D3(not 1,25-dihydroxyvitamin D3) should be measured. Macrophages can cause granuloma-forming (i.e., sarcoidosis, tuberculosis, Hodgkin's lymphoma) increased extra-renal conversion of 25-hydroxyvitamin D3to calcitriol. PTH levels are suppressed, and levels of 1,25-dihydroxyvitamin D3are elevated. Hypercalcemia mediated by excessive vitamin D responds to a short course of glucocorticoids if the underlying disease is treated."
+        },
+        {
+            "parent": 5,
+            "text": "Hypercalcemia of malignancy occurs in several settings.13It is mediated most commonly by systemic PTHrP in patients with solid tumors. This is known as the humoral hypercalcemia of malignancy. PTHrP mimics the bone and renal effects of PTH. In contrast to primary hyperparathyroidism, the humoral hypercalcemia of malignancy is associated with suppressed PTH levels and normal calcitriol levels. Extensive bone lysis also can cause malignancy-associated hypercalcemia. Multiple myeloma and metastatic breast cancer can present in this way. In osteolytic hypercalcemia, the alkaline phosphatase level is usually markedly elevated. Hodgkin's lymphoma causes hypercalcemia through increased production of calcitriol."
+        },
+        {
+            "parent": 6,
+            "text": "Thiazide diuretics increase renal calcium resorption and cause mild hypercalcemia that should resolve when the medication is discontinued. Thiazide diuretic therapy can unmask many cases of primary hyperparathyroidism. Consumption of large amounts of calcium carbonate via calcium-containing antacids can lead to hypercalcemia, alkalosis, and renal insufficiency—an uncommon disorder termed milk-alkali syndrome.14Lithium use can cause hypercalcemia by increasing the set point of PTH,15requiring a higher serum calcium level to switch off PTH secretion. Large doses of vitamin A and its analogs can cause hypercalcemia, which appears to be mediated through increased bone resorption."
+        },
+        {
+            "parent": 7,
+            "text": "Thyrotoxicosis-induced bone resorption can result in mild hypercalcemia. Volume expansion and glucocorticoid replacement can correct the hypercalcemia that occasionally occurs in patients with adrenal insufficiency. Pheo-chromocytoma is thought to cause hypercalcemia through the production of PTHrP. Pheochromocytoma may be associated with primary hyperparathyroidism as part of type 1 multiple endocrine neoplasia syndrome."
+        },
+        {
+            "parent": 8,
+            "text": "Familial hypocalciuric hypercalcemia16(FHH) is an autosomal-dominant condition with virtually 100 percent penetrance. Most cases are caused by a mutation in the calcium-sensing receptor gene. Patients have moderate hypercalcemia from an early age but relatively low urinary calcium excretion. PTH levels can be normal or only mildly elevated despite the hypercalcemia. This mild elevation can lead to an erroneous diagnosis of primary hyperparathyroidism. The conditions can be differentiated by use of a 24-hour urinary collection for calcium; calcium levels will be high or normal in patients with hyperparathyroidism and low in patients with FHH. Parathyroidectomy is not beneficial in patients with FHH."
+        },
+        {
+            "parent": 9,
+            "text": "In conditions of high bone turnover, such as Paget's disease and normal growth in children, immobilization can cause hypercalcemia. Hypercalcemia also can occur in the recovery phase of rhabdomyolysis-induced renal injury, when calcium deposited in soft tissue is mobilized."
+        },
+        {
+            "parent": 10,
+            "text": "Asymptomatic patients with mild hypercalcemia generally do not benefit from normalization of their serum calcium levels. Patients with calcium levels greater than 14 mg per dL or symptomatic patients with calcium levels greater than 12 mg per dL(Table 5)should be immediately and aggressively treated.17The safest and most effective treatment of hypercalcemic crisis is saline rehydration followed by furosemide (Lasix) diuresis, calcitonin, and bisphosphonates."
+        },
+        {
+            "parent": 11,
+            "text": "In patients with mild hypercalcemia, adequate hydration should be encouraged and immobilization discouraged. In symptomatic patients, a loop diuretic (e.g., furosemide) can be prescribed. Recent evidence suggests that estrogen-replacement therapy might be beneficial in postmenopausal women with primary hyperparathyroidism.18[Evidence level B, lower-quality randomized controlled trial] In patients with severe hypercalcemia, the mainstay of management is aggressive intravenous rehydration. Normal saline should be used to achieve a urine output of 200 mL per hour. Only when the intravascular volume has been restored should a loop diuretic be used in low dosages (e.g., furosemide, 10 to 20 mg) to further lower the serum calcium level if necessary."
+        },
+        {
+            "parent": 12,
+            "text": "In malignancy-associated hypercalcemia, intravenous pamidronate (Aredia), 60 to 90 mg, can be given by four-hour infusion.13This agent often will normalize the serum calcium level, but peak effects do not occur until 48 to 72 hours after infusion. Caution must be used with bisphosphonates19in patients with renal impairment. In severe hypercalcemia refractory to saline diuresis, calcitonin (Calcimar, Miacalcin) can be given every six hours. This treatment has a rapid onset but short duration of effect, and patients develop tolerance to the calcium-lowering effect. Other antiresorptive agents that are used occasionally include plicamycin (Mithracin) and gallium nitrate (Ganite). In hypercalcemia mediated by vitamin D and in hematologic malignancies (e.g., myeloma, lymphoma), glucocorticoids are the first line of therapy after fluids."
+        },
+        {
+            "parent": 13,
+            "text": "In cases of resistant, life-threatening hypercalcemia, hemodialysis against a low-calcium dialysate is more effective than peritoneal dialysis in lowering serum calcium levels. Therapy for the underlying condition should be instituted as soon as possible. Consultation with an endocrinologist is recommended."
+        },
+        {
+            "parent": 14,
+            "text": "In cases of hypercalcemic crisis resulting from primary hyperparathyroidism, urgent parathyroidectomy is potentially curative.20"
+        }
+    ],
+    "locked": false
+}

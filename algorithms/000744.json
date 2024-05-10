@@ -1,0 +1,173 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0915/p1091.html#afp20040915p1091-f1",
+    "title": "Clinical Practice Guidelines for Chronic Kidney Disease in Adults: Part II. Glomerular Filtration Rate, Proteinuria, and Other Markers | AAFP",
+    "author": "CYNDA ANN JOHNSON, M.D., M.B.A., ANDREW S. LEVEY, M.D., JOSEF CORESH, M.D., PH.D., ADEERA LEVIN, M.D., JOSEPH LAU, M.D., AND GARABED EKNOYAN, M.D.",
+    "doi": "Am Fam Physician.2004;70(6):1091-1097",
+    "abstract": "The Kidney Disease Outcome Quality Initiative of the National Kidney Foundation published clinical practice guidelines on chronic kidney disease in February 2002. Of the 15 guidelines, the first six are of greatest relevance to family physicians. Part II of this two-part review covers guidelines 4, 5, and 6. Glomerular filtration rate is the best overall indicator of kidney function. It is superior to the serum creatinine level, which varies with age, sex, and race and often does not reflect kidney function accurately. The glomerular filtration rate can be estimated using prediction equations that take into account the serum creatinine level and some or all of specific variables (age, sex, race, body size). In many patients, estimates of the glomerular filtration rate can replace 24-hour urine collections for creatinine clearance measurements. Urine dipsticks generally are acceptable for detecting proteinuria. To quantify proteinuria, the ratio of protein or albumin to creatinine in an untimed (spot) urine sample is an accurate alternative to measurement of protein excretion in a 24-hour urine collection. Patients with persistent proteinuria have chronic kidney disease. Other techniques for evaluating patients with chronic kidney disease include examination of urinary sediment, urine dipstick testing for red and white blood cells, and imaging studies of the kidneys (especially ultrasonography). These techniques also can help determine the underlying cause of chronic kidney disease. Family physicians should weigh the value of the National Kidney Foundation guidelines for their clinical practice based on the strength of evidence and perceived cost-effectiveness until additional evidence becomes available on the usefulness of the recommended quality indicators.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Guideline 4: Estimation of GFR",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Guideline 5: Assessment of Proteinuria",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Guideline 6: Other Markers of Chronic Kidney Disease",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Guidelines 7 Through 15",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "In February 2002, the Kidney Disease Outcome Quality Initiative (K/DOQI) of the National Kidney Foundation (NKF) published clinical practice guidelines for chronic kidney disease1,2that were based on a systematic literature review. A uniform format for summarizing strength of evidence was developed based on an evaluation of study size, applicability, results, and methodologic quality. Guideline statements were prepared from the analysis of the review, with each rationale statement graded according to the supporting level of evidence (Table 1).1The evidence grading system differs from the system used inAmerican Family Physician (AFP): onlyAFP’s evidence level C (consensus/expert opinion) compares with the NKF grade O (opinion)."
+        },
+        {
+            "parent": -1,
+            "text": "Part I3of this two-part article reviewed the guidelines on definition and stages of chronic kidney disease, evaluation and treatment, and risk factor identification. Chronic kidney disease is defined by kidney damage (often manifested by proteinuria) or a decreased glomerular filtration rate (GFR) for three or more months. The degree of decrease in the GFR provides the basis for straightforward classification of chronic kidney disease by stages (seeTable 3in part 13). Treatment should focus on slowing disease progression and preventing complications, especially the development of cardiovascular disease. To identify chronic kidney disease and intervene early in its course, physicians should test for proteinuria and estimate GFR in at-risk patients. Part II summarizes guidelines for using tests to evaluate patients with suspected or known chronic kidney disease."
+        },
+        {
+            "parent": 0,
+            "text": "The GFR is the best overall indicator of the level of kidney function. (NKF grades S, C, and R).1The GFR should be estimated using a prediction equation that takes into account the serum creatinine level and some or all of these variables: age, sex, race, and body size. The Modification of Diet in Renal Disease (MDRD) study equation and the Cockcroft-Gault equation provide useful estimates of the GFR in adult patients(Table 2).4–6The NKF guideline1,2notes that the serum creatinine concentration alone is not optimal for assessing the level of kidney function."
+        },
+        {
+            "parent": 0,
+            "text": "In addition to reporting the serum creatinine measurement, clinical laboratories should report the estimated GFR as determined by a prediction equation. The NKF guidelines1,2also recommend that autoanalyzer manufacturers and clinical laboratories calibrate serum creatinine assays using an international standard."
+        },
+        {
+            "parent": 0,
+            "text": "In most cases, measurement of creatinine clearance using a timed (e.g., 24-hour) urine collection for assessment of the GFR is not more reliable than estimation using a prediction equation.1,2However, a 24-hour urine sample provides information that is useful for estimating GFR in patients with exceptional dietary intake (vegetarian diet, creatine supplementation) or muscle mass (amputation, malnutrition, muscle wasting), assessing diet and nutritional status, and determining the need to start dialysis."
+        },
+        {
+            "parent": 0,
+            "text": "In clinical practice, GFR usually is estimated from the creatinine clearance or the serum creatinine concentration. Measurement of creatinine clearance requires the collection of a timed urine sample, which is inconvenient for the patient as well as frequently inaccurate. The serum creatinine concentration is affected by factors other than the GFR, including creatinine secretion, generation, and extrarenal excretion.7,8Thus, there is a relatively wide range for serum creatinine levels in normal persons, and the GFR must decline to about one half of the normal level before the serum creatinine concentration rises above the upper limit of normal. This situation regarding a declining GFR with “normal” creatinine is especially important in elderly patients, in whom the age-related decline in GFR is not reflected by an increase in the serum creatinine level because of a concomitant age-related decline in creatinine production."
+        },
+        {
+            "parent": 0,
+            "text": "Table 31shows the range of serum creatinine values corresponding with an estimated GFR of 60 mL per minute per 1.73 m2, depending on age, sex, and race. Note that the NKF definition of chronic kidney disease includes a GFR level below 60 mL per minute per 1.73 m2for three months or more (seeTable 2in part I3). The data inTable 3demonstrate that minor elevations of the serum creatinine concentration may represent a substantial reduction in the GFR. Thus, with use of only the serum creatinine as the measure of kidney function, it is difficult to estimate the level of kidney function and detect earlier stages of chronic kidney disease."
+        },
+        {
+            "parent": 0,
+            "text": "The estimate of GFR from the serum creatinine concentration can be improved by using a prediction equation that also takes into account the patient’s age, sex, race, and body size (e.g., the equations shown inTable 24–6). In patients with a GFR below about 90 mL per minute per 1.73 m2, the abbreviated MDRD study equation appears to be more accurate and precise than the Cockcroft-Gault equation, but is more complicated to compute."
+        },
+        {
+            "parent": 0,
+            "text": "GFR calculators for use of the abbreviated MDRD study equation and the Cockcroft-Gault equation are available on the NKF Web site (http://www.kidney.org/kls/professionals/gfr_calculator.cfm). These equations can be programmed or imported into laboratory systems, personal computers, and hand-held calculators. As part of the implementation of the NKF guidelines1,2and in cooperation with the National Institutes of Health (NIH), efforts are underway to have clinical laboratories report GFR in conjunction with the serum creatinine measurement."
+        },
+        {
+            "parent": 0,
+            "text": "Guideline 4 provides useful information for family physicians. Evidence is convincing that 24-hour urine collections for creatinine are not superior to prediction equations that are based on the serum creatinine level and other patient characteristics. Thus, it is possible to perform a straightforward serum collection, rather than subject a patient to the inconvenience of a 24-hour urine collection that then must be returned to the laboratory. Furthermore, a urine collection performed over 24 hours may be incomplete, even if the volume appears to be reasonable, leading to incorrect values for calculated creatinine clearance and possibly to inappropriate decisions about patient care. On the other hand, if the volume of urine collected over 24 hours obviously is smaller than reasonable, the laboratory value will be dismissed, resulting in wasted time and effort."
+        },
+        {
+            "parent": 0,
+            "text": "It is unlikely that the GFR will become the standard measure used by physicians until clinical laboratories begin reporting estimated GFR values. If GFR values are to be computed and reported, the laboratory request will require patient information that not always is reported (e.g., weight, race); however, if these additional data become an expected part of the laboratory request, physicians will not have to calculate GFRs. Patients can be given their GFR “number” more dependably, and the GFR value will become a permanent part of the laboratory record."
+        },
+        {
+            "parent": 0,
+            "text": "Cooperation with the local clinical laboratory is important in another way. Differences among clinical laboratories in the calibration of serum creatinine assays can result in an error rate as high as 20 percent in GFR estimates. Consideration of differences in the calibration of creatinine assays is especially important in patients with nearly normal serum creatinine concentrations. Estimation of GFR using a prediction equation should take into account differences in creatinine calibration between the local laboratory and the laboratory where the prediction equation was developed. The National Kidney Disease Education Program, operating under the NIH, is working with clinical laboratories and autoanalyzer manufacturers to calibrate serum creatinine assays using an international standard and to build GFR reporting into the systems."
+        },
+        {
+            "parent": 0,
+            "text": "The practical implication of having the GFR readily available goes beyond the issue of classification of chronic disease: it allows adjustment of drug doses to the level of kidney function."
+        },
+        {
+            "parent": 1,
+            "text": "Urine normally contains small amounts of protein. However, a persistent increase in protein excretion usually is a sign of kidney damage. The type of protein, such as low-molecular-weight globulins or albumin, depends on the type of kidney disease. Increased excretion of low-molecular-weight globulins is a sensitive marker of some types of tubulointerstitial disease. Increased excretion of albumin is a sensitive marker of chronic kidney disease resulting from diabetes mellitus, glomerular disease, or hypertension."
+        },
+        {
+            "parent": 1,
+            "text": "In the NKF guidelines,1,2the term “proteinuria” refers to increased urinary excretion of albumin, other specific proteins, or total protein. The term “albuminuria” refers exclusively to the increased urinary excretion of albumin. The term “microalbuminuria” refers to albumin excretion that is above the normal range but below the level of detection by tests for total protein excretion in urine."
+        },
+        {
+            "parent": 1,
+            "text": "Evaluation of proteinuria or microalbuminuria generally does not require a timed (overnight or 24-hour) urine collection (NKF grades R and C).1In most circumstances, untimed (spot) urine samples should be used to detect and monitor proteinuria (NKF grades R and C).1First-morning urine specimens are preferred; if these specimens are not available, use of random urine specimens is acceptable (NKF grades R and O).1"
+        },
+        {
+            "parent": 1,
+            "text": "In most patients, urine dipstick tests are acceptable for detecting proteinuria (NKF grades R and O).1Standard urine dipsticks may be used to detect increased total urine protein excretion, and albumin-specific dipsticks may be used to detect albuminuria."
+        },
+        {
+            "parent": 1,
+            "text": "If a urine dipstick test is positive (1+ or greater), proteinuria should be confirmed by a quantitative measurement (protein-to-creatinine ratio or albumin-to-creatinine ratio) within three months. If two or more quantitative tests performed one to two weeks apart are positive, persistent proteinuria should be diagnosed, and the patient should undergo further evaluation for chronic kidney disease (see guideline 2 in part I3)."
+        },
+        {
+            "parent": 1,
+            "text": "In adults with chronic kidney disease, proteinuria should be monitored with the albumin-to-creatinine ratio (NKF grade O).1Use of the total protein-to-creatinine ratio is acceptable if the albumin-to-creatinine ratio is high (500 to 1,000 mg of albumin to 1 g of creatinine)."
+        },
+        {
+            "parent": 1,
+            "text": "Just as a 24-hour urine collection for creatinine has been the gold standard for determining creatinine clearance, a 24-hour urine collection for protein has been the gold standard for quantitative evaluation of proteinuria. An alternative method is measurement of the ratio of protein or albumin to creatinine in an untimed urine specimen. These ratios correct for variations in urinary protein concentration related to hydration and are more convenient than timed urine collections. Evidence indicates that the ratio of protein or albumin to creatinine in a spot urine sample provides an accurate estimate of the excretion rate.1,2In most patients, spot urine samples should be used to detect and monitor proteinuria. It usually is unnecessary to obtain a timed urine collection (overnight or 24-hour) for these evaluations."
+        },
+        {
+            "parent": 1,
+            "text": "Albumin measurements may be more costly and technically difficult than total protein measurements. Therefore, the total protein-to-creatinine ratio is an acceptable alternative if the albumin-to-creatinine ratio is high."
+        },
+        {
+            "parent": 1,
+            "text": "The proposed algorithm for the evaluation of proteinuria distinguishes between patients who are at increased risk for kidney disease and asymptomatic, healthy patients who are not at increased risk(Figure 1).1In at-risk adults, the evaluation begins with testing of a random spot urine sample with an albumin-specific dipstick. Alternatively, testing can begin with a spot urine test for the albumin-to-creatinine ratio. A positive test should be repeated using a quantitative measurement. Only patients with persistent proteinuria are diagnosed with chronic kidney disease."
+        },
+        {
+            "parent": 1,
+            "text": "This guideline is useful to family physicians because it eliminates the need for patients to provide a 24-hour urine sample for quantification of proteinuria. The suggestion to measure albumin excretion, rather than total protein excretion, is a departure from current clinical practice. Note, however, that albumin assays may not be available at all clinical laboratories."
+        },
+        {
+            "parent": 2,
+            "text": "In addition to proteinuria, markers of damage to the kidneys include abnormalities in the urinary sediment and abnormal findings on imaging studies. Some types of chronic kidney disease are defined by constellations of markers. For other types of chronic kidney disease, new markers are needed to identify kidney damage that occurs before a reduction in the GFR."
+        },
+        {
+            "parent": 2,
+            "text": "Examination of urinary sediment or dipstick testing for red and white blood cells should be performed in patients with chronic kidney disease and in patients who are at risk for the disease. Imaging studies of the kidneys also should be obtained in these patients."
+        },
+        {
+            "parent": 2,
+            "text": "Several new urinary markers, including tubular and low-molecular-weight proteins and specific mononuclear cells, show promise. At present, however, they should not be used for clinical decision-making (NKF grade C).1,2"
+        },
+        {
+            "parent": 2,
+            "text": "As discussed in guideline 5, abnormal urinary albumin or total protein excretion is a highly sensitive marker of glomerular diseases, including diabetic kidney disease. Urinary sediment examination, kidney imaging studies, and specific clinical presentations also can suggest the type of chronic kidney disease."
+        },
+        {
+            "parent": 2,
+            "text": "A urinary sediment examination, especially when performed in conjunction with an assessment for proteinuria, is useful in detecting chronic kidney disease and identifying its type. Urine dipsticks include reagent pads that are sensitive for detecting red blood cells (hemoglobin), white blood cells (leukocyte esterase), and bacteria (nitrites). The dipsticks cannot detect tubular epithelial cells, fat, or casts, crystals, fungi, or parasites. The decision to perform a urinary sediment examination or urine dipstick test depends on the type of kidney disease that is being considered."
+        },
+        {
+            "parent": 2,
+            "text": "Abnormal imaging studies can suggest the cause of chronic kidney disease, such as arterial disease or a urologic condition. Imaging studies are recommended in all patients with chronic kidney disease, and in patients who are at risk for chronic kidney disease because of renal artery stenosis, serious systemic and complicated urinary tract infections, urinary tract stones or obstruction, vesicoureteral reflux, or polycystic kidney disease. Ultrasonography is particularly useful for detecting several of these conditions, and it does not involve exposure to radiation or contrast media."
+        },
+        {
+            "parent": 2,
+            "text": "The detailed text of the NKF K/DOQI guidelines1,2describes guideline 6 as a “review.” Only the material on new markers underwent evidence-based review before the guideline was developed. The recommendations for evaluation of at-risk patients may be problematic for family physicians. At this time, it is not clear which at-risk patients might be evaluated, and the risk-benefit ratio and cost of evaluation also are uncertain."
+        },
+        {
+            "parent": 3,
+            "text": "The remainder of the NKF guidelines fall into two categories: association of the GFR level with the complications of chronic kidney disease in adults and stratification of risk for the progression of kidney disease and the development of cardiovascular disease. After chronic kidney disease has been diagnosed, several of these guidelines can be useful in outpatient follow-up and treatment."
+        },
+        {
+            "parent": 4,
+            "text": "Guidelines 1 through 6 of the NKF K/DOQI guidelines1,2help family physicians appreciate the magnitude of the problem of chronic kidney disease. The new definition and staging system facilitate better identification and classification of kidney damage and chronic kidney disease, and also help guide evaluation and treatment. Patients can be evaluated more effectively and efficiently using the serum creatinine concentration and prediction equations to estimate GFR, and protein or albumin-specific dipsticks and total protein-to-creatinine or albumin-to-creatinine ratios conducted on spot urine samples to determine the level of proteinuria. With these approaches, a 24-hour urine collection is not required."
+        },
+        {
+            "parent": 4,
+            "text": "On the other hand, concerns remain about areas of the guidelines1,2that could have a significant impact on clinical practice but are not evidence based. These areas include the testing of patients at risk for chronic kidney (guideline 3), as well as the use of urinary sediment examination and kidney imaging in selected at-risk patients (guideline 6). Research is needed to demonstrate the utility of testing patients who are at increased risk for chronic kidney disease."
+        },
+        {
+            "parent": 4,
+            "text": "In future guidelines, the NKF K/DOQI will use a system for grading both the level of evidence and the strength of recommendation. Although this new system is specific to the needs of the NKF K/DOQI, it mirrors the systems currently used byAFPand the U.S. Preventive Services Task Force."
+        }
+    ],
+    "locked": false
+}

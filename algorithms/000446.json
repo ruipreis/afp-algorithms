@@ -1,0 +1,217 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0915/p640.html#afp20110915p640-f1",
+    "title": "Evaluation of Syncope | AAFP",
+    "author": "ROBERT L. GAUER, MD",
+    "doi": "Am Fam Physician.2011;84(6):640-650",
+    "abstract": "Syncope is a transient and abrupt loss of consciousness with complete return to preexisting neurologic function. It is classified as neurally mediated (i.e., carotid sinus hypersensitivity, situational, or vasovagal), cardiac, orthostatic, or neurogenic. Older adults are more likely to have orthostatic, carotid sinus hypersensitivity, or cardiac syncope, whereas younger adults are more likely to have vasovagal syncope. Common nonsyncopal syndromes with similar presentations include seizures, metabolic and psychogenic disorders, and acute intoxication. Patients presenting with syncope (other than neurally mediated and orthostatic syncope) are at increased risk of death from any cause. Useful clinical rules to assess the short-term risk of death and the need for immediate hospitalization include the San Francisco Syncope Rule and the Risk Stratification of Syncope in the Emergency Department rule. Guidelines suggest an algorithmic approach to the evaluation of syncope that begins with the history and physical examination. All patients presenting with syncope require electrocardiography, orthostatic vital signs, and QT interval monitoring. Patients with cardiovascular disease, abnormal electrocardiography, or family history of sudden death, and those presenting with unexplained syncope should be hospitalized for further diagnostic evaluation. Patients with neurally mediated or orthostatic syncope usually require no additional testing. In cases of unexplained syncope, further testing such as echocardiography, grade exercise testing, electrocardiographic monitoring, and electrophysiologic studies may be required. Although a subset of patients will have unexplained syncope despite undergoing a comprehensive evaluation, those with multiple episodes compared with an isolated event are more likely to have a serious underlying disorder.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Classification and Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Initial Risk Stratification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "LABORATORY ASSESSMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ECHOCARDIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "GRADED EXERCISE TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ELECTROCARDIOGRAPHIC MONITORING",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "TILT-TABLE TESTING",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ELECTROPHYSIOLOGY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Approach to the Patient",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Specific Situations",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "CORONARY ARTERY DISEASE",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "NONISCHEMIC DILATED CARDIOMYOPATHY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "STRUCTURAL HEART DISEASE",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "INHERITED CARDIAC ION CHANNEL ABNORMALITIES",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "OLDER PATIENTS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Syncope is a transient and abrupt loss of consciousness with complete return to preexisting neurologic function. The cumulative incidence of syncope is 3 to 6 percent over 10 years, and 80 percent of patients have their first episode before 30 years of age.1The overall distribution of syncope is equal between men and women; however, women are more likely to have an event at the extremes of age. Compared with persons 50 to 59 years of age, the incidence increases two- and threefold, respectively, in persons 70 to 79 years of age and in persons 80 years or older.1Population-based studies indicate that approximately 40 percent of adults have experienced syncope, with women being more likely to report a syncopal event.2In the Framingham Heart Study, 44 percent of participants did not see a physician or visit the hospital after a syncopal event.1"
+        },
+        {
+            "parent": -1,
+            "text": "A retrospective study of more than 70,000 patients in the Netherlands compared the evaluation of syncope in the primary care setting versus the emergency department. The event rate for syncope in general practice exceeded the rate in the emergency department by a factor of 13 (9.3 versus 0.7 per 1,000 patient-years).3Patients presenting to the emergency department with syncope were older and had a higher prevalence of cardiovascular disorders. Patients younger than 40 years with no history of cardiac disease rarely had a life-threatening condition."
+        },
+        {
+            "parent": -1,
+            "text": "Patients with syncope create a difficult diagnostic dilemma. Physicians must determine the extent of evaluation, which diagnostic tests to order, whether hospital admission is needed, and the prognosis and risk of recurrent syncope. Approximately 20 to 50 percent of patients have unexplained syncope after intensive diagnostic evaluation.4,5Standardized clinical evaluations have been developed to stratify risk and determine which patients benefit from hospitalization and diagnostic evaluation."
+        },
+        {
+            "parent": 0,
+            "text": "Syncope is classified as neurally mediated (reflex), cardiac, orthostatic, or neurologic(Table 1). The prevalence of these classifications, based on five population-based studies with 1,002 unselected patients with syncope, is shown inTable 2.5Neurally mediated syncope is the most common and is seen primarily in young adults. A reflex response causes vasodilation, bradycardia, and systemic hypotension leading to decreased cerebral blood flow. Neurally mediated syncope includes vasovagal syncope, situational syncope, and carotid sinus syndrome/hypersensitivity."
+        },
+        {
+            "parent": 0,
+            "text": "Cardiac syncope is the second most common type of syncope. It results from arrhythmias, mechanical abnormalities, or structural abnormalities, and is generally seen in older adults. Cardiac causes of syncope often are unprovoked and are more likely to present in the emergency department. Sudden death in young adults with syncope is often the result of arrhythmias. Orthostatic hypotension can be caused by autonomic dysfunction, medications, or volume depletion resulting in syncope. It is rare in patients younger than 40 years, and is commonly seen in older patients with comorbid conditions.1,6"
+        },
+        {
+            "parent": 0,
+            "text": "Common nonsyncopal syndromes that do not involve impairment of consciousness include falls, cataplexy, drop attacks, pseudoseizures, psychogenic conditions (e.g., anxiety, hysterical fainting), and transient ischemic attacks (carotid in origin). Metabolic disorders (e.g., hypoglycemia, hypoxia, hyperventilation), seizures, acute intoxications, and vertebrobasilar insufficiency may present as syncope with partial or complete loss of consciousness."
+        },
+        {
+            "parent": 0,
+            "text": "Seizures often can be confused with syncope. In a study attempting to distinguish syncope from seizures, the features most suggestive of a seizure were tongue laceration, head turning, and witnessed abnormal posturing. Factors strongly predictive against seizure were presyncope spells before loss of consciousness, diaphoresis before a spell, and loss of consciousness with prolonged standing or sitting.7Any suspected seizure disorder should be confirmed by electroencephalography."
+        },
+        {
+            "parent": 1,
+            "text": "Patients with syncope have an increased risk of death from any cause (hazard ratio [HR] = 1.3; 95% confidence interval [CI], 1.1 to 1.5) and cardiovascular events (HR = 1.3; 95% CI, 1.0 to 1.6). When syncope is secondary to a cardiac etiology, the risk of death from any cause is more than twofold (HR = 2.0; 95% CI, 1.5 to 2.7). Neurally mediated and orthostatic syncope do not confer an increased risk of cardiovascular morbidity or mortality.1"
+        },
+        {
+            "parent": 1,
+            "text": "Several clinical decision rules have been developed to aid physicians in determining the short-term risk of death. A prospective cohort study applied the San Francisco Syncope Rule (SFSR) to 791 patients evaluated for syncope in the emergency department.8Participants were followed to determine serious outcome within 30 days of the visit. Predictors of serious outcomes were systolic blood pressure less than 90 mm Hg, shortness of breath, history of congestive heart failure, abnormal electrocardiography (ECG), and hematocrit level less than 30 percent. Eighteen percent of patients who had one or more predictors on the SFSR had at least one serious outcome compared with 0.3 percent when the SFSR result was negative (no predictors). The SFSR was 98 percent sensitive and 56 percent specific for syncope, with a negative predictive value of 99.7 percent.8However, two separate external validation studies of the SFSR have shown lower sensitivity rates (89 to 90 percent), thus challenging the reliability of the rule to safely discharge patients.9–11"
+        },
+        {
+            "parent": 1,
+            "text": "The most recent clinical decision rule used to predict one-month serious outcome is the Risk Stratification of Syncope in the Emergency Department (ROSE), a single-center, prospective, observational study of 550 adults with syncope. Independent predictors of the ROSE rule form the mnemonic BRACES, which includes brain natriuretic peptide (BNP) levels of 300 pg per mL (300 ng per L) or greater; bradycardia of 50 beats per minute or less; rectal examination with positive fecal occult blood test; anemia (hemoglobin of 9 g per dL [90 g per L] or less); chest pain with syncope; ECG with Q waves; and oxygen saturation of 94 percent or less on room air. Patients are considered high-risk if any of the seven criteria are present. The rule has an 87 percent sensitivity and a 98 percent negative predictive value for one-month serious outcome in patients with syncope presenting to the emergency department.12"
+        },
+        {
+            "parent": 1,
+            "text": "Risk stratification can aid in determining the need for hospitalization(Table 3).13,14A major justification for admission is the physician's concern that a patient is at increased risk of significant dysrhythmia or sudden death. Observation in a monitored setting may be of value in patients with clinical or ECG features suggestive of cardiac syncope. However, there is a lack of evidence showing which patients benefit from short-term observation to prevent future adverse events. The diagnostic yield of ECG monitoring during short-stay admissions to detect dysrhythmias may be only as high as 16 percent.15Despite this limitation, patients are high-risk and should be admitted if they have known structural heart or coronary artery disease (CAD), syncope in the supine position or during exertion, palpitations associated with syncope, family history of sudden cardiac death, nonsustained ventricular tachycardia, or an abnormal ECG. Patients with significant comorbid conditions or severe injury from syncope also should be hospitalized. Low-risk patients can be evaluated safely in the outpatient setting.16"
+        },
+        {
+            "parent": 2,
+            "text": "The history and physical examination are the most important tools in the initial evaluation of syncope. Details of the syncopal event must be investigated, including postural, exertional, or situational symptoms; palpitations or cardiac symptoms; use of medications; family history of sudden cardiac death; and personal history of cardiac disease(Table 4).2,5,6,13,17A study evaluating 341 consecutive patients referred to a syncope unit showed that history and examination established the diagnosis in 14 percent of cases, which was more significant than results from ECG (10 percent), Holter monitor (5 percent), electrophysiology (5 percent), or echocardiography (1 percent).6Physical examination should focus on vital signs (including orthostasis), as well as the cardiovascular (presence of murmur, arrhythmia), neurologic (muscle weakness/ paresthesia or cranial nerve abnormalities), vascular (bruits), and gastrointestinal (blood loss) systems."
+        },
+        {
+            "parent": 2,
+            "text": "Vasovagal syncope may be diagnosed if there is a common precipitating factor with associated prodromal symptoms. Patients who experience syncope with urination, defecation, cough, swallowing, or venipuncture have situational syncope. Documented or reproducible orthostatic hypotension in association with syncope is diagnostic for orthostatic syncope. Syncope related to ischemia is presumed when symptoms are present with ischemic ECG findings. Arrhythmia-related syncope is suspected in patients with severe bradycardia (less than 40 beats per minute), second- or third-degree blocks, ventricular tachycardia, or pacemaker malfunction. A neurologic etiology is suggested in patients with abnormal cognition, speech disturbance, or sensory-motor deficiencies. Young patients who have frequent syncopal events, multiple vague symptoms, and no injury history should be screened for psychiatric disorders."
+        },
+        {
+            "parent": 2,
+            "text": "Carotid sinus massage is useful for diagnosing carotid sinus hypersensitivity. The European Society of Cardiology guidelines recommend carotid sinus massage in patients older than 40 years presenting with syncope of unknown etiology.13In carotid sinus massage, the physician applies pressure over the carotid bifurcation, which produces bradycardia and a fall in blood pressure during continuous cardiovascular monitoring. Carotid sinus hypersensitivity is diagnostic when this maneuver produces a ventricular pause longer than three seconds or a decrease in systolic blood pressure of 50 mm Hg or more.13Contraindications for carotid sinus massage include the presence of a bruit or previous history of cerebrovascular accident or transient ischemic attack within the previous three months. Carotid sinus massage has a 39 percent false-positive rate in older patients with no history of syncope.18If the history is not suggestive of carotid sinus hypersensitivity despite a positive carotid sinus massage, another diagnosis should be considered."
+        },
+        {
+            "parent": 4,
+            "text": "Standardized testing (i.e., clinical evaluation, carotid sinus massage, ECG, and basic laboratory testing) has been shown to identify the etiology of syncope in 69 percent of patients(Table 513).4All patients presenting with syncope should have standard 12-lead ECG and QT interval monitoring.2,5,13,17,19However, the routine use of a broad panel of laboratory tests is not recommended; tests should be ordered as clinically indicated by the history and physical examination, because fewer than 2 to 3 percent of patients evaluated for syncope will have abnormal laboratory results.4,5In a population-based study, laboratory testing was diagnostic in only five (0.8 percent) of 650 consecutive patients (diagnosed with gastrointestinal hemorrhage or hypoglycemia) presenting to the emergency department with syncope.4A complete blood count is recommended for risk stratification in the SFSR and ROSE clinical decision rules to evaluate for anemia."
+        },
+        {
+            "parent": 4,
+            "text": "In a prospective cohort study (237 participants) evaluating syncope, 44 percent of patients had elevated d-dimer levels. However, it did not predict one-month serious outcomes or death, so the use of d-dimer levels in syncope evaluation is not recommended.20BNP has been studied as a marker for distinguishing cardiac from noncardiac causes of syncope. A retrospective study demonstrated 82 percent sensitivity and 92 percent specificity for identifying cardiac causes of syncope when the BNP level is elevated (positive likelihood ratio = 10; negative likelihood ratio = 0.2).21The ROSE study found that an elevated BNP level (300 pg per mL or higher) was an important independent predictor of serious cardiovascular outcomes; abnormal values were seen in patients with eight of 22 events and in eight of nine deaths.21Thus, a reasonable initial laboratory evaluation would include a serum glucose test, a pregnancy test for women of childbearing age, a complete blood count, and BNP measurement if the ROSE tool is used for risk stratification."
+        },
+        {
+            "parent": 5,
+            "text": "Echocardiography is used to measure ejection fraction and to identify the presence of hypertrophy and underlying cardiac lesions. Its role in the initial evaluation of syncope remains less clear, especially in patients with an unremarkable examination, unremarkable ECG, and no cardiac history. In a prospective study, a probable cause was found in 495 of the 650 consecutive patients with syncope who underwent a comprehensive evaluation.22The remaining 155 patients were considered to have unexplained syncope. Of these 155 patients, echocardiography was unremarkable in all 67 (43 percent) with a normal ECG and negative cardiac history. Of those with abnormal ECG or positive cardiac history, 27 percent had systolic dysfunction. The remainder of patients had minor echocardiographic findings that were not relevant. These results suggest that echocardiography is most useful in patients with unexplained syncope and a positive cardiac history or abnormal ECG.22"
+        },
+        {
+            "parent": 6,
+            "text": "Graded exercise testing is useful to evaluate patients at risk of cardiovascular disease, those with unexplained syncope, and those with syncope during or shortly after exercise. In addition to the evaluation of ischemia, exercise testing can also provide blood pressure and pulse response to exercise. In patients younger than 40 years, an inadequate blood pressure response to exercise suggests severe CAD or hypertrophic cardiomyopathy.23A similar response in older patients suggests CAD or autonomic failure. Observance of ventricular arrhythmia during exercise requires immediate cardiology consultation."
+        },
+        {
+            "parent": 7,
+            "text": "Electrocardiographic monitoring is indicated when there is a high pretest probability of identifying an arrhythmia associated with syncope. Patients with an unremarkable cardiovascular evaluation (echocardiography and ischemic evaluation) but who are at high risk of syncope recurrence should undergo electrocardiographic monitoring. Ambulatory monitors have evolved from the Holter monitor to implantable loop recorders designed to monitor for more than 12 months. The overall diagnostic yield of ambulatory monitoring is low, but is increased with longer surveillance. Previous studies have demonstrated a 22 percent overall yield for symptom-rhythm correlation with a Holter monitor compared with 50 to 85 percent for loop recorders.24When patients had 14-month symptom-free surveillance with loop recorders, 92 percent of the patients remained free of syncope in the following two years.25"
+        },
+        {
+            "parent": 8,
+            "text": "Tilt-table testing is useful to confirm the diagnosis of suspected neurally mediated syncope in the absence of structural heart disease or ischemia. Patients are supine in the pre-tilt phase and then placed at 60 to 70 degrees for 20 to 45 minutes. If no event is reproduced and vital signs remain normal, then testing is repeated with pharmacologic provocation. The most common protocol is infusion of isoproterenol (Isuprel) or sublingual nitroglycerin. The test is considered positive if the patient has a symptomatic decrease in systolic blood pressure or bradycardia. Overall sensitivity ranges from 26 to 80 percent, and specificity is 90 percent.17"
+        },
+        {
+            "parent": 9,
+            "text": "The American Heart Association/American College of Cardiology Foundation (AHA/ACCF) indications for electrophysiology include CAD and syncope, CAD with an ejection fraction less than 35 percent, and possibly nonischemic dilated cardiomyopathy.17The European Society of Cardiology guidelines recommend electrophysiology in patients with structural heart disease.13In a 2009 study, patients with unexplained syncope underwent noninvasive electrocardiographic and electrophysiologic evaluation.26Noninvasive testing (ECG and 24-hour Holter monitor) was used to predict electrophysiologic outcomes. Among patients with an abnormal ECG, 82 percent had an abnormal electrophysiologic result, compared with 9 percent when patients had a normal ECG and normal 24-hour Holter monitor.26"
+        },
+        {
+            "parent": 10,
+            "text": "The AHA/ACCF Scientific Statement on the Evaluation of Syncope,17the European Society of Cardiology Task Force on Syncope,13and the American College of Emergency Physicians19clinical policy offer guidelines for the evaluation of patients with syncope. The AHA/ACCF outlines an algorithmic approach to syncope(Figure 1).17If the initial evaluation (history, physical examination, and ECG) is nondiagnostic, echocardiography and ischemic evaluation are recommended. Patients with syncope unexplained by this evaluation may require additional tests, such as electrocardiographic monitoring, electrophysiologic studies, tilt-table testing, neurologic assessment, and psychiatric assessment based on suspected etiology and frequency of syncope. Younger patients with an initial normal evaluation, symptoms consistent with vasovagal or orthostatic syncope, no history of heart disease, and no family history of sudden death are at low risk of an adverse event and may be safely followed without further intervention or treatment.13,17,19"
+        },
+        {
+            "parent": 12,
+            "text": "Syncope in patients with CAD requires evaluation for arrhythmia and ischemia. The evaluation includes exercise stress testing, myocardial perfusion imaging, or cardiac catheterization, depending on the patient's level of risk and specific findings. Ventricular arrhythmia remains a risk despite revascularization, and an arrhythmia evaluation must be completed. Electrophysiology is recommended when the left ventricular ejection fraction is less than 35 percent. An implantable cardioverter-defibrillator (ICD) improves overall survival in patients with an ejection fraction less than 35 percent.27"
+        },
+        {
+            "parent": 13,
+            "text": "Electrophysiology is usually performed in patients with nonischemic dilated cardiomyopathy to rule out arrhythmia, because recurrence of syncope is usually secondary to ventricular tachyarrhythmias. An ICD may be offered to patients with a negative electrophysiologic study result. Patients randomized to prophylactic ICD and standard medical therapy versus standard medical therapy alone had fewer deaths from arrhythmias (1.3 versus 7.4 percent;P= .006; number needed to treat = 17) and lower overall mortality at two years (7 versus 14 percent).28"
+        },
+        {
+            "parent": 14,
+            "text": "Hypertrophic cardiomyopathy and arrhythmogenic right ventricular dysplasia/cardiomyopathy are genetic syndromes associated with increased sudden death from arrhythmia. Syncope is an ominous sign for patients with arrhythmogenic right ventricular dysplasia/cardiomyopathy and confers a fivefold risk of sudden cardiac death in hypertrophic cardiomyopathy when associated with exercise. For both of these conditions, ICD may be appropriate to decrease the risk of sudden death.17"
+        },
+        {
+            "parent": 15,
+            "text": "The two most common inherited cardiac ion channel abnormalities are Brugada syndrome and long QT syndrome. Both conditions are caused by a genetic mutation not typically associated with structural heart disease. For patients with long QT syndrome, the risk of syncope and sudden death is associated with the degree of QT prolongation. Syncope results from ventricular tachycardia or torsade de pointes, which may lead to sudden cardiac death. Treatment options are chronic beta-blocker therapy or an ICD. Medications known to prolong the QT interval should be avoided (a list of medications is available athttp://www.azcert.org/medical-pros/drug-lists/drug-lists.cfm)."
+        },
+        {
+            "parent": 15,
+            "text": "Brugada syndrome is a disorder of the sodium channel. ECG findings are ST-segment elevation in V1 through V3 and/or right bundle branch block(Figure 2).29Symptomatic Brugada syndrome has a high rate of malignant arrhythmias and a two-year mortality rate of 30 percent.30An ICD is recommended to protect against fatal arrhythmias."
+        },
+        {
+            "parent": 16,
+            "text": "The incidence of syncope increases sharply after 70 years of age and poses special consideration in light of multiple comorbid conditions, age-related changes, atypical presentation, and concomitant medication use. The most common causes of syncope in this population are orthostatic hypotension (often occurring in the morning after taking medications), carotid sinus hypersensitivity, and cardiac causes."
+        },
+        {
+            "parent": 16,
+            "text": "Syncope in older persons generally has more than one etiology, making the diagnosis more difficult. Pertinent information includes medication history in relationship to syncope, level of cognitive impairment, and physical frailty. The observation of a gait disturbance or balance instability places patients at increased risk of falls, irrespective of a syncopal event. The approach to syncope remains the same in this population but with a lower threshold for hospitalization."
+        },
+        {
+            "parent": 16,
+            "text": "Data Sources:The following sources were searched for this article: National Guideline Clearinghouse, Essential Evidence Plus, European Society of Cardiology Clinical Practice Guidelines, American College of Cardiology: Statements and Clinical Practice Guidelines, American College of Emergency Physicians Clinical Policies Committee, and UpToDate. Key terms included the following: syncope (epidemiology, etiology, history, mortality), clinical guidelines, echocardiography (utilization, standards), vasovagal, tilt-table test, orthostatic syncope, Brugada syndrome, ICD, electrophysiologic monitoring, carotid sinus massage, mortality, hypertrophic cardiomyopathy, vasovagal (neurocardiogenic), orthostatic hypotension, carotid sinus hypersensitivity, and nonischemic dilated cardiomyopathy. Search date: October 19, 2010."
+        }
+    ],
+    "locked": false
+}

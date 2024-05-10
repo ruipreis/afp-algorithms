@@ -1,0 +1,123 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/1101/p533.html#afp20201101p533-f1",
+    "title": "Gout: Rapid Evidence Review | AAFP",
+    "author": "KARL T. CLEBAK, MD, ASHLEY MORRISON, MD, AND JASON R. CROAD, DO",
+    "doi": "Am Fam Physician.2020;102(9):533-538",
+    "abstract": "Gout is caused by monosodium urate crystal deposition in joints and tissues. Risk factors include male sex; obesity; hypertension; alcohol intake; diuretic use; a diet rich in meat and seafood; chronic kidney disease; a diet heavy in fructose-rich food and beverages; being a member of certain ethnic groups, including Taiwanese, Pacific Islander, and New Zealand Maori; and living in high-income countries. Gout is characterized by swelling, pain, or tenderness in a peripheral joint or bursa, including the development of a tophus. Diagnosis of gout can be made using several validated clinical prediction rules. Arthrocentesis should be performed when suspicion for an underlying septic joint is present; synovial fluid or tophus analysis should be performed if the diagnosis is uncertain. Colchicine, nonsteroidal anti-inflammatory drugs, and corticosteroids relieve pain in adults with acute gout episodes. Indications for long-term urate-lowering therapy include chronic kidney disease, two or more flare-ups per year, urolithiasis, the presence of tophus, chronic gouty arthritis, and joint damage. Allopurinol and febuxostat are used to prevent flare-ups, although febuxostat is associated with an increase in all-cause and cardiovascular mortality and is therefore not routinely recommended.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "LIFESTYLE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PHARMACOLOGIC THERAPY:ACUTE EPISODE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PHARMACOLOGIC THERAPY: CHRONIC MANAGEMENT AND PROPHYLAXIS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CORTICOSTEROID INJECTIONS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "COMPLEMENTARY THERAPIES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Gout, caused by monosodium urate crystal deposition in joints and tissues, is commonly encountered in primary care. This article provides a review of patient-oriented evidence to guide the diagnosis and management of gout."
+        },
+        {
+            "parent": 0,
+            "text": "In western high-income countries, the prevalence of gout is 3% to 6% in men and 1% to 3% in women.1In 2015 and 2016, the incidence of gout was 3.9% among U.S. adults (2.7% in women and 5.2% in men).2Gout is rare before the age of 20; prevalence increases linearly until plateauing after the age of 80.3Risk factors are summarized inTable 1.1–14Consumption of purine-rich foods is a risk factor for gout. These include some fish (e.g., anchovies, sardines, scallops, mussels) and meats (e.g., bacon, beef, liver, turkey, veal, venison).Beer is associated with a larger increase in risk of gout compared with wine or hard liquor.14Use of loop or thiazide diuretic or tacrolimus (Prograf) is associated with increased risk of gout.14Consumption of two or more sugar-sweetened soft drinks per day, fruits high in fructose, or any fruit juices is associated with an increased risk of gout in men. Consumption of diet soft drinks does not appear to increase risk.14"
+        },
+        {
+            "parent": 1,
+            "text": "The differential diagnosis of gout is summarized inTable 2.1,15"
+        },
+        {
+            "parent": 2,
+            "text": "Swelling, pain, and tenderness in a peripheral joint or bursa, most commonly the first metatarsophalangeal joint (56% to 78% of patients), are symptoms associated with gout. Other joints, including the midfoot (25% to 50%), ankle (18% to 60%), upper limb (13% to 46%), and interphalangeal joints (6% to 25%), may be involved.16Draining of a chalk-like substance from a subcutaneous nodule under transparent skin, often with overlying vascularity, indicates the presence of a tophus.1Typical locations are the ear, olecranon bursa, and the finger pulps.Several validated clinical prediction rules do not require joint fluid analysis.17,18One was derived in 338 patients presenting to their primary care physician with monoarthritis suspected to be gout; it was then prospectively validated in another 338 patients17,19(Table 317).The American College of Rheumatology/European League Against Rheumatism 2015 gout classification criteria20are available in an online tool (https://www.mdcalc.com/acr-eular-gout-classification-criteria)."
+        },
+        {
+            "parent": 3,
+            "text": "Diagnosis of gout is made clinically unless a septic joint is suspected based on acute onset of a hot, painful, red, tender, swollen joint with systemic symptoms such as fever or elevated white blood cell count.21Synovial fluid or tophus analysis demonstrating monosodium urate crystals by polarized light microscopy is the definitive test for gout but is recommended only when the diagnosis is uncertain (i.e., intermediate risk on acute gout diagnosis tool) or a septic joint is suspected.21If septic arthritis is suspected, blood culture and arthrocentesis with synovial fluid analysis (Gram stain and culture) should be performed.22,23Serum uric acid levels are usually elevated in people with gout; however, they may be lower during an acute episode and therefore should not be measured in this circumstance.24In a pooled study of two randomized controlled trials (N = 339), 14% of patients had a serum uric acid level of less than 6 mg per dL (0.36 mmol per L) during an acute gout episode.25Ultrasonography and dual-energy computed tomography (CT) aid in the diagnosis of gout, whereas radiography and CT assess structural damage.26In a study of 824 patients, the presence of any one of three ultrasound findings (double contour sign, tophus, and snowstorm appearance) was moderately accurate when synovial fluid analysis was the reference standard (positive likelihood ratio = 4.8; negative likelihood ratio = −0.27).27Radiography of the affected joint is often normal with nonspecific soft tissue swelling.26Conventional CT may be used to visualize and measure tophi and to assess bony erosions.28Dual-energy CT can aid in detection of monosodium urate deposits in patients with gout. A diagnostic study of 40 patients with crystal-proven nontophaceous gout and 41 patients with other rheumatic diseases found that dual-energy CT was 90% sensitive and 83% specific.26,29"
+        },
+        {
+            "parent": 4,
+            "text": "Figure 1presents a suggested approach to the treatment of gout."
+        },
+        {
+            "parent": 5,
+            "text": "The Dietary Approaches to Stop Hypertension (DASH) diet was associated with a lower risk of developing gout in a prospective cohort study in men during 26 years of follow-up (N = 44,444; adjusted relative risk when comparing the highest fifth to the lowest fifth of the DASH dietary pattern score = 0.68; 95% CI, 0.57 to 0.80).30Behavior modifications should be recommended, including a low-fat, low-purine diet; avoidance of alcohol; weight loss if overweight; increased exercise; and avoidance of soft drinks and foods containing fructose. Consumption of skim milk and low-fat yogurt, vegetables, soybeans, vegetable sources of protein, and cherries is recommended.31Local ice therapy reduces pain in acute gouty arthritis.32"
+        },
+        {
+            "parent": 6,
+            "text": "Colchicine, nonsteroidal anti-inflammatory drugs, and corticosteroids relieve pain in adults with acute gout.33Nonsteroidal anti-inflammatory drugs are first-line treatment unless use is contraindicated (e.g., cardiovascular disease, cerebrovascular disease, chronic kidney disease, history of gastric bypass, history of gastrointestinal bleeding, inflammatory bowel disease, peptic ulcer disease, pregnancy).8Oral prednisolone (35 mg once daily) is equal to naproxen (500 mg twice daily) in the treatment of acute gout, with no significant difference in pain relief or adverse effects.34In acute gout, low-dose colchicine (1.2 mg orally followed by 0.6 mg one hour later) was as effective as high-dose colchicine (1.2 mg followed by 0.6 mg every hour for six hours) and had fewer adverse effects. Nearly 77% of patients treated with high-dose colchicine reported adverse effects (mostly diarrhea) compared with 36% in the low-dose colchicine group and 27% in the placebo group.35Further investigation is required to support routine use of interleukin-1 inhibitors (anakinra [Kineret], canakinumab [Ilaris], or rilonacept [Arcalyst]).36Interleukin-1 inhibitors may benefit select patients, including those with frequent gout flare-ups resistant to standard treatments or in whom current therapies are contraindicated."
+        },
+        {
+            "parent": 7,
+            "text": "The 2017 American College of Physicians guideline endorsed by the American Academy of Family Physicians recommends a discussion of the benefits, harms, costs, and individual preferences with patients who experience recurrent gout episodes before starting prophylactic treatment and urate-lowering therapy.21,37There are several indications for urate-lowering therapy31,37–39(Figure 1).Allopurinol is the drug of choice for patients choosing urate-lowering therapy. The dosage of allopurinol will vary with the severity of disease, with a typical initial dosage of 100 mg orally once per day. The daily dosage should be titrated gradually (100-mg increments each week) to avoid precipitating a flare-up. Dosages of more than 300 mg per day are given in divided doses after meals, with a maximum of 800 mg per day.40Febuxostat (Uloric) is noninferior to allopurinol in preventing acute gout episodes.41,42However, in a randomized, double-blind trial comparing allopurinol and febuxostat (N = 6,190), cardiovascular mortality was increased in the febuxostat group (4.3% vs. 3.2%;P= .03; number needed to harm over 2.7 years = 90). Similarly, all-cause mortality was higher in the febuxostat group compared with the allopurinol group (7.8% vs. 6.4%;P= .04; number needed to harm over 2.7 years = 71).41The American College of Physicians does not recommend monitoring 24-hour urinary excretion of uric acid or serum uric acid levels in patients taking standard doses of allopurinol or febuxostat.21The British Society for Rheumatology recommends treating serum uric acid to less than 0.3 mmol per L (5 mg per dL) to prevent further uric acid crystal formation and to prevent recurrent flare-ups.31The European League Against Rheumatism and the American College of Rheumatology recommend prophylaxis while initiating urate-lowering therapy, although the recommended regimens differ.38,39,43Specialty organizations (the American College of Rheumatology and the Clinical Pharmacogenetics Implementation Consortium) recommend that the allopurinol hypersensitivity assay, or HLA-B*58:01 test, be considered in Korean adults with stage 3 or higher chronic kidney disease and in all adults of Han or Thai descent before initiating allopurinol therapy.39This test is not recommended for other patients.44The U.S. Food and Drug Administration has approved pegloticase (Krystexxa), a pegylated recombinant form of urate-oxidase enzyme that converts uric acid to an inactive water-soluble form, for use in cases of refractory gout. Further study is needed to evaluate patient-oriented outcomes and adverse effects.45"
+        },
+        {
+            "parent": 8,
+            "text": "There is no evidence from clinical trials to support the use of intra-articular corticosteroid injection in the treatment of acute gout.46It could be considered in patients for whom nonsteroidal anti-inflammatory drugs or oral steroids are contraindicated."
+        },
+        {
+            "parent": 9,
+            "text": "Vitamin C has little effect on serum uric acid levels in patients with gout.47Acupuncture may decrease pain and lower uric acid levels in patients with acute gout; however, evidence is of limited quality.48"
+        },
+        {
+            "parent": 10,
+            "text": "Acute episodes are usually self-limited, with complete resolution of symptoms occurring within one to two weeks.1A meta-analysis (18 studies; N = 7,757) found no evidence that urate-lowering therapy decreases the risk of cardiovascular events.49"
+        },
+        {
+            "parent": 10,
+            "text": "This article updates previous articles byHainer, et al.8;Eggebeen9;Pittman and Bross50; andHarris, et al.10"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources:A PubMed search was completed using the MeSH terms gout and gout suppressants. This search included meta-analyses, randomized controlled trials, and reviews. The authors also searched the Cochrane database, Dynamed, and Essential Evidence Plus. Reference lists were also searched for additional articles. Search dates: February 24, 2020; April 25, 2020; and September 13, 2020."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,182 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/1101/p2001.html#afp19991101p2001-f1",
+    "title": "Exercise-Related Syncope in the Young Athlete: Reassurance, Restriction or Referral? | AAFP",
+    "author": "FRANCIS G. O'CONNOR, LTC, MC, USA, RALPH G. ORISCELLO, M.D., AND BENJAMIN D. LEVINE, M.D.",
+    "doi": "Am Fam Physician.1999;60(7):2001-2008",
+    "abstract": "A common event in young adults, syncope is usually benign and only rarely requires more than simple reassurance. However, exercise-related syncope always requires investigation because it may be the only symptom that precedes a sudden cardiac death. Syncope that occurs during exercise tends to be more ominous than that occurring in the postexertional state. During the physical examination, the cardiovascular system should be evaluated carefully. An electrocardiogram is mandatory and requires close scrutiny, with further testing ordered as indicated. The investigation of syncope should specifically exclude known pathologic diagnoses before a complete return to activity is permitted. In cases where a diagnosis is not clearly established, consultation or referral may be warranted.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "NEUROCARDIOGENIC SYNCOPE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ELECTROCARDIOGRAM",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "SPECIAL TESTS AND REFERRAL",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Syncope is a common event in which there is a transient loss of consciousness and postural tone. Although syncope is generally a benign event in young adults (less than 35 years of age) and, in many cases, never reaches the attention of a physician, exercise-related syncope can signal sudden death.1,2"
+        },
+        {
+            "parent": -1,
+            "text": "The family physician is often the first clinician to evaluate and manage patients with syncope and must quickly assess the risk and expedite an appropriate work-up. Several questions must be addressed immediately: should the athlete be allowed to exercise while the evaluation is under way? What tests should be scheduled and in what order? When is referral warranted and to whom? This article reviews the differential diagnosis of exercise-related syncope in young athletes and outlines a format for evaluation and management."
+        },
+        {
+            "parent": 0,
+            "text": "Syncope is best defined as a sudden and temporary loss of consciousness, in the absence of head trauma, that is associated with a loss of postural tone with spontaneous recovery not requiring electric or chemical cardioversion.3Consciousness is dependent on proper functioning of the reticular activating system and both cerebral hemispheres. Dysfunction leading to syncope, while multi-factorial and complex, is most commonly thought to be metabolic in nature or secondary to insufficient cerebral cellular perfusion, or both."
+        },
+        {
+            "parent": 0,
+            "text": "Exercise-related syncope occurs either during or immediately after a period of exercise. The sports medicine literature also recognizes the term exercise-associated collapse (EAC) to describe athletes who are unable to stand or walk unaided as a result of light-headedness, faintness, dizziness or syncope.4,5EAC specifically excludes orthopedic injuries (e.g., sprained ankle, leg cramps) that would preclude completing a sports event."
+        },
+        {
+            "parent": 1,
+            "text": "Although the literature on exercise-related syncope is limited, several themes are consistent. First, exertion is associated with a minority of syncopal events, representing only 3 to 20 percent of cases.1,6Second, although the great majority of cases of syncope are benign and have a favorable outcome, young and otherwise healthy adults who present with exertional (rather than nonexertional) syncope have a greater probability of organic etiology (such as hypertrophic cardiomyopathy or arrhythmogenic right ventricular dysplasia).1–3,7Accordingly, most authors conclude that exertional syncope warrants a higher index of suspicion and a thorough investigation for a pathologic etiology.1–3,6,8–10"
+        },
+        {
+            "parent": 1,
+            "text": "Finally, one study evaluated the characteristics of ultramarathon runners who collapsed.4The researchers found that 85 percent of cases of EAC occurred after the runners crossed the finish line and tended to occur more commonly in persons who were nearing cutoff times for medals and race closure times. The 15 percent of runners collapsing during the event were much more likely to have a readily identifiable medical condition, such as heat stroke or hyponatremia. This study confirmed long-held anecdotal observations made by sports medicine professionals indicating that collapse occurring before the finish line is a much more ominous event than that occurring after the finish line."
+        },
+        {
+            "parent": 2,
+            "text": "While syncope has an extensive differential diagnosis with many classification systems, exercise-related syncope in young athletes suggests a more limited set of possibilities.Figure 1outlines a differential diagnosis based on the concept that the majority of cases of exercise-induced syncope occur secondary to deficits in cerebral metabolism or cerebral perfusion.10Table 1summarizes common etiologies, with clinical clues and suggested diagnostic testing. The most common cause of exercise-related syncope is neurocardiogenic syncope."
+        },
+        {
+            "parent": 3,
+            "text": "Neurally mediated, or neurocardiogenic syncope, is generally regarded as the most common cause of syncope in young adults. Neurocardiogenic syncope occurs when there is a loss of consciousness secondary to a sudden reflex vasodilation or bradycardia, or both. While most causes of neurally mediated syncope in young adults are triggered by situational stressors, neurocardiogenic mechanisms are also implicated in the majority of exercise-related syncopal events, particularly those that occur after exercise."
+        },
+        {
+            "parent": 3,
+            "text": "During exercise, increases in heart rate and stroke volume result in a dramatic rise in cardiac output. Muscular activity is crucial to maintaining this cardiac output because muscle contractions are the driving pressure that sustains venous return. After exercise, without the muscular activity to increase venous return, cardiac filling may decrease dramatically because of the reduction in left ventricular end-diastolic volume and stroke volume. Circulating catecholamines and forceful ventricular contractions against a diminished ventricular volume are postulated to stimulate ventricular mechanoreceptors excessively. Afferent vagal C-fibers subsequently transmit these signals to the central nervous system with efferent reflexes, resulting in vasodilation and bradycardia, and leading to hypotension and syncope. Neurocardiogenic syncope occurring during exercise, while much less common, is thought to result from a similar mechanism."
+        },
+        {
+            "parent": 3,
+            "text": "Athletes are believed to be particularly predisposed to neurocardiogenic syncope. High levels of resting vagal tone found in well-trained athletes may sensitize the efferent limb of the neurocardiogenic reflex. In addition, hemodynamic changes that are beneficial during training may put athletes at greater risk for orthostatic intolerance.11Neurocardiogenic syncope in athletes is generally benign and has a favorable long-term prognosis.12"
+        },
+        {
+            "parent": 3,
+            "text": "Diagnosis of neurocardiogenic syncope requires an astute clinician to perform a thorough history and physical examination and incorporate selected testing to specifically exclude known pathologic entities.2,13Discussions with witnesses, or videotape analysis if available, may be useful because differentiation of specific features of the syncopal event may be difficult. Upright tilt-table testing, which is frequently used in the evaluation of patients with syncope of undetermined etiology, is not useful in well-trained athletes because orthostatic stress may cause a positive result in many athletes with no clinical history of syncope.10,14In fact, reliance on tilt-table testing to make a diagnosis of neurocardiogenic syncope in an athlete may provide a false sense of security with potentially catastrophic consequences."
+        },
+        {
+            "parent": 3,
+            "text": "Management of neurocardiogenic syncope in competitive athletes is controversial. The condition is optimally managed by a consultant who is familiar with this population. While pharmacologic therapy may be warranted in carefully selected cases,15nonpharmacologic therapy that is focused on training techniques and behavior modification should be attempted first."
+        },
+        {
+            "parent": 4,
+            "text": "Exercise-related syncope, while generally a benign event, may sometimes be a precursor to sudden death and thus requires a thorough investigation. No definitive diagnostic test has been clearly identified.16"
+        },
+        {
+            "parent": 5,
+            "text": "Patients who present with a history of “passing out with exercise” require a careful medical history to differentiate pathologic from benign etiologies. The evaluating physician must first distinguish between true syncope involving a loss of consciousness and collapse associated with exhaustive effort."
+        },
+        {
+            "parent": 5,
+            "text": "In cases of true syncope associated with hemodynamic causes, athletes typically recover quickly with restoration of arterial pressure unless resuscitation is required. After collapse associated with an exhaustive effort, athletes usually will have prolonged periods of semi-consciousness, even while in the supine position with normal heart rate and blood pressure. This is in contrast to patients with syncope associated with heat stress, who are universally hypotensive and tachycardic. Athletes who describe being “unconscious” but are able to assist in their own evacuation are unlikely to be in immediate danger of a life-threatening arrhythmia, although metabolic abnormalities may be present (e.g., hyponatremia)."
+        },
+        {
+            "parent": 5,
+            "text": "Directly after the event, important clues to the etiology, such as seizure activity, incontinence and immediate vital signs (including body temperature), should be sought. Seizures commonly occur as a result of hypotension and reduced cerebral perfusion and, therefore, do not always indicate that epilepsy is the underlying cause of syncope."
+        },
+        {
+            "parent": 5,
+            "text": "The second critical distinction is whether the syncopal event occurred during or immediately after exercise. Orthostatic hypotension that occurs after exercise, usually in association with sudden cessation of activity, is much less ominous than the sudden loss of consciousness that occurs during exercise (which suggests an arrhythmic or cardiac etiology). Prodromal symptoms occurring during exercise, including palpitations (suggesting arrhythmia), chest pain (ischemia, aortic dissection), nausea (ischemia or high levels of vagal activity), wheezing and pruritis (anaphylaxis), are also significant. As in the evaluation of syncope in nonathletes, it is also important to identify whether syncope or dizziness occurs only in the upright position (orthostatic hypotension) or also during sitting or supine positions (arrhythmia or nonhemodynamic cause)."
+        },
+        {
+            "parent": 5,
+            "text": "The practice of high-risk behaviors such as recreational drug use or eating disorders should be carefully investigated, although athletes may not always openly acknowledge such activity. A comprehensive medication list, including over-the-counter medications and ergogenic aids, is necessary for evaluation. Finally, a family history of sudden death is critical and, if present, may identify very-high-risk subgroups with hypertrophic cardiomyopathy, long QT syndrome or arrhythmogenic right ventricular dysplasia."
+        },
+        {
+            "parent": 6,
+            "text": "Vital signs, including orthostatic blood pressure, should be obtained initially. Blood pressure should be measured in the arms and legs as well as after at least five minutes of standing to check for orthostatic hypotension. The general body habitus should be assessed for Marfan's features, including pectus deformity, high-arched palate, arm span greater than height and kyphoscoliosis (Marfan's syndrome is a common cause of exercise-related sudden death, but it rarely presents with exercise-related syncope). Careful evaluation of the carotid or radial pulse may demonstrate the bifid pulse (two systolic peaks) of hypertrophic cardiomyopathy or the slow rising pulse (pulsus parvus et tardus) of aortic stenosis."
+        },
+        {
+            "parent": 6,
+            "text": "The cardiac examination begins with chest palpation in an attempt to identify the point of maximal impulse, as well as any thrills or heaves that may identify pathologic conditions. Auscultation should be performed with the patient in the supine, seated and standing positions. Murmurs, gallops and pathologic splitting should all be noted. Echocardiography should be performed for the evaluation of murmurs that are diastolic, continuous, holosystolic or of intensity grade 3 or greater. Listening to the patient during squatting, while standing and during a Valsalva maneuver helps to rule out dynamic outflow obstruction. A systolic murmur that gets louder with standing or during a Valsalva maneuver suggests the obstruction of hypertrophic cardiomyopathy."
+        },
+        {
+            "parent": 7,
+            "text": "The electrocardiogram (ECG) should be carefully evaluated for rate, rhythm and repolarization abnormalities, specifically looking for the long QT syndrome, pre-excitation (e.g., Wolff-Parkinson-White syndrome), left or right ventricular hypertrophy, and the complications of ischemic heart disease. Although not uncommon in athletes, electrocardiographic evidence of left ventricular hypertrophy or ventricular extrasystoles may represent subtle clues to hypertrophic cardiomyopathy or arrhythmogenic right ventricular dysplasia, respectively. Conversely, a completely normal ECG is rare in patients with hypertrophic cardiomyopathy. ECG clues to common pathologic conditions that present with syncope are listed inTable 1."
+        },
+        {
+            "parent": 8,
+            "text": "Numerous special tests may be warranted in the evaluation of young athletes with exercise-induced syncope. The two most fundamental tests, however, are the echocardiogram and the exercise stress test."
+        },
+        {
+            "parent": 8,
+            "text": "Echocardiography, which should precede exercise stress testing, allows the clinician to assess ventricular size and function, estimate pulmonary pressures and rule out valvular dysfunction. In young athletes, echocardiography can specifically assist in making the diagnosis of hypertrophic cardiomyopathy, aortic stenosis and pulmonary hypertension. The echocardiogram should be specifically examined for the presence of the left coronary ostium, which should arise from the left sinus of Valsalva. If present, it excludes an important congenital coronary anomaly often reported to cause sudden cardiac death. If the left coronary ostium is not clearly identified, further testing may be required."
+        },
+        {
+            "parent": 8,
+            "text": "The exercise stress test should be performed after the echocardiogram. Rather than using a standard Bruce protocol, a test should be designed to reproduce the conditions that provoked the specific syncopal event and challenge the individual athlete. For example, a stuttering start-stop test for a basketball or soccer player or a prolonged high-intensity test for a runner might be performed. The exercise electrocardiogram should also be examined for appropriate shortening of the QT interval."
+        },
+        {
+            "parent": 8,
+            "text": "A complete review of all of the advanced cardiac diagnostic tests available for the evaluation of exertional syncope is beyond the scope of this article. However, several observations are important. Numerous mechanisms are available to detect pathologic arrhythmias, including Holter monitors, looping event recorders and implantable recorders, as well as electrophysiologic studies. Images of the coronary arteries may require cardiac catheterization or, if available, noninvasive magnetic resonance imaging. However, tilt-table testing should not be used to evaluate athletes with recurrent syncope.9,12The exact sequencing of these studies, as well as the decision about whether an athlete can return to full activity while the evaluation is under way, requires individualization and consideration of referral to a consultant."
+        },
+        {
+            "parent": 8,
+            "text": "The clinician is also reminded that not all syncope is cardiogenic. Athletes whose history suggests seizure activity may require an electroencephalogram and imaging of the brain to exclude a structural lesion. Hematologic and metabolic abnormalities require testing as indicated. Diabetic patients taking insulin, athletes with eating disorders and patients taking beta-blockers should be assessed for hypoglycemia. Black athletes with a history of collapse associated with high altitude training, dehydration or hyperthermia should be screened for sickle cell trait."
+        },
+        {
+            "parent": 9,
+            "text": "Figure 2provides a framework for primary care physicians evaluating young athletes presenting with a history of exercise-related syncope. After a careful history, physical examination, ECG and selected laboratory tests, the clinician categorizes the patient's syncopal etiology as diagnostic, suggestive or unexplained. The diagnostic/suggestive category includes diagnoses in which the clinician clearly has identified or suspects an etiology based on careful review, and management follows as appropriate, which may include reassurance, restriction and/or referral."
+        },
+        {
+            "parent": 9,
+            "text": "In cases where the physician clearly suspects that a post-race, exercise-associated collapse occurred secondary to an exhaustive effort, a diagnosis of a non–life-threatening neurocardiogenic syncopal event may be concluded, with management as appropriate. The clinician is reminded that this diagnosis is the result of a carefully conducted history and physical examination, along with electrocardiographic analysis. The history of the event is critical to establishing the diagnosis, as previously discussed. Mandatory diagnostic features for post-race exercise collapse include: postexertional occurrence, nonrecurrent collapse, unremarkable family history, normal cardiac examination and normal electrocardiogram. Any doubt in the clinician's assessment would identify the athlete's syncopal event as unexplained and warranting further diagnostic evaluation."
+        },
+        {
+            "parent": 9,
+            "text": "Unexplained exercise-related syncope warrants restriction and an evaluation beginning with echocardiography preceding exercise stress testing. A diagnosis made with the preceding tests should be managed as appropriate, while negative testing may warrant either careful observation or referral to a cardiologist for consideration of more advanced testing."
+        },
+        {
+            "parent": 9,
+            "text": "In patients with an unremarkable echocardiogram and exercise stress test, a presumptive diagnosis of neurocardiogenic syncope may be the conclusion. If the event was clearly postexertional by history, nonrecurrent and associated with a normal physical examination (and a family history unremarkable for early sudden death or recurrent syncope) and a normal ECG, patients may safely return to vigorous activity with careful observation. Athletes whose clinical pictures do not meet these criteria, on the other hand, warrant further evaluation by a cardiologist."
+        }
+    ],
+    "locked": false
+}

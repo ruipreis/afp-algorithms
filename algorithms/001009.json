@@ -1,0 +1,248 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0515/p2365.html#afp19980515p2365-f1",
+    "title": "Chronic Bronchitis: Primary Care Management | AAFP",
+    "author": "JOHN M. HEATH, M.D., AND RUPA MONGIA, M.D.",
+    "doi": "Am Fam Physician.1998;57(10):2365-2372",
+    "abstract": "Chronic bronchitis is a clinical diagnosis characterized by a cough productive of sputum for over three months' duration during two consecutive years and the presence of airflow obstruction. Pulmonary function testing aids in the diagnosis of chronic bronchitis by documenting the extent of reversibility of airflow obstruction. A better understanding of the role of inflammatory mediators in chronic bronchitis has led to greater emphasis on management of airway inflammation and relief of bronchospasm. Inhaled ipratropium bromide and sympathomimetic agents are the current mainstays of management. While theophylline has long been an important therapy, its use is limited by a narrow therapeutic range and interaction with other agents. Oral steroid therapy should be reserved for use in patients with demonstrated improvement in airflow not achievable with inhaled agents. Antibiotics play a role in acute exacerbations but have been shown to lead to only modest airflow improvement. Strengthening of the respiratory muscles, smoking cessation, supplemental oxygen, hydration and nutritional support also play key roles in long-term management of chronic bronchitis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Microbiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Blood Tests",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Chest Radiograph",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Electrocardiogram",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Sputum Cultures",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Overall Management",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Smoking Cessation",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Other Management Considerations",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Pharmacologic Measures",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Metered-Dose Inhalers",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Theophylline",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Steroid Therapy",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Antibiotic Therapy",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Adjunctive Measures",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Optimizing Functional Capacity",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Chronic bronchitis is one of the principal manifestations of chronic obstructive pulmonary disease (COPD), the fourth leading cause of death in the United States. About 10 million Americans are affected by some degree of COPD; it causes 40,000 deaths annually.1"
+        },
+        {
+            "parent": -1,
+            "text": "Chronic bronchitis is a clinical diagnosis characterized by a cough productive of sputum for over three months' duration during two consecutive years and airflow obstruction. These requisites exclude more transient causes of cough associated with sputum production, such as acute bronchitis. The airflow obstruction in chronic bronchitis is caused by excessive tracheobronchial mucus production and is distinct from the anatomic findings of distal air space distention and alveolar septa destruction, which define emphysema.2"
+        },
+        {
+            "parent": -1,
+            "text": "Cigarette smoking is the most important risk factor for the development of chronic bronchitis. Over 90 percent of patients with chronic bronchitis have a smoking history, although only 15 percent of all cigarette smokers are ultimately diagnosed with some form of obstructive airway disease.1Studies have demonstrated persistent markers of active airway inflammation in bronchial biopsy specimens from symptomatic ex-smokers, even after they had been smoke-free for 13 years.2"
+        },
+        {
+            "parent": -1,
+            "text": "The overall 10-year mortality rate following the diagnosis of chronic bronchitis is 50 percent,3with respiratory failure following an acute exacerbation being the most frequent terminal event. Such acute exacerbations are often precipitated by bacterial infection, manifested by purulent sputum, fever and a worsening of the symptoms of poor ventilation. Other known precipitants include viral upper respiratory infections, seasonal changes in the weather, medications and exposure to irritant inhalants."
+        },
+        {
+            "parent": 0,
+            "text": "Streptococcus pneumoniae, Haemophilus influenzaeandMoraxella catarrhalisare the three leading bacterial pathogens isolated from the lower bronchi of patients with chronic bronchitis, in contrast to the causative organisms of acute bronchitis, which includeMycoplasma pneumoniaeandChlamydia trachomatis. However, studies of acutely symptomatic patients with COPD have failed to reveal definite organisms in over 50 percent of patients.4Nonbacterial pathogens (such as viruses) and Chlamydia and Mycoplasma species are also, rarely, isolated in patients with chronic bronchitis, although their role in either causing symptoms directly or triggering the characteristic inflammatory response is poorly understood."
+        },
+        {
+            "parent": 0,
+            "text": "One speculative explanation of the interaction between infection and chronic bronchitis is that low-intensity colonization of the lower respiratory tract by infectious agents can set up an inflammatory reaction that itself triggers subsequent acute exacerbations.5Documentation supporting this concept comes from studies in which patients with chronic bronchitis were found to have circulating bacteria-specific IgE that triggered release of histamine following exposure to the same bacteria cultured from their lower respiratory tracts.6,7Additional mechanisms, such as neurogenic inflammation, may then develop, and the symptomatic flare-up of chronic bronchitis may continue by means of sustained inflammatory mediators.8,9These and similar studies are the reason for greater therapeutic emphasis on reducing airway inflammation in chronic bronchitis."
+        },
+        {
+            "parent": 1,
+            "text": "Documentation of airflow obstruction by pulmonary function testing is critical for the diagnosis of chronic bronchitis and provides valuable therapeutic information about the patient's responsiveness to inhaled bronchodilator therapy. A measured forced expiratory volume in one second (FEV1) of less than 70 percent of the total forced vital capacity (FVC)—the FEV1/FVC ratio—defines obstructive airway disease. An FEV1/FVC ratio of less than 50 percent indicates end-stage obstructive airway disease."
+        },
+        {
+            "parent": 1,
+            "text": "In most adults beyond the mid-life years, age-related physiologic changes in the elasticity of the lungs cause a 30 mL per year decline in the FEV1, so that progressive rates of decline in the FEV1that exceed this amount represent true disease progression. Airflow obstruction in the presence of chronic sputum production confirms the clinical diagnosis of chronic bronchitis."
+        },
+        {
+            "parent": 1,
+            "text": "Evidence of obstructive airflow changes on pulmonary function tests in patients without the characteristic symptom of sputum production is often accompanied by radiographic findings consistent with emphysema. Younger patients with emphysematous obstructive pulmonary findings, especially those without a smoking history, should be evaluated for alpha1antitrypsin deficiency. The median survival for patients with an FEV1of less than 1 L is four years.1"
+        },
+        {
+            "parent": 2,
+            "text": "Hypoxemia is a common finding on arterial blood gas sampling in patients with advanced chronic bronchitis and ventilatory failure secondary to bronchospasm and inflammation. Concomitant hypercapnia is associated with worsening ventilatory gas exchange as the illness progresses. Blood tests may reveal mild polycythemia secondary to the hypoxia."
+        },
+        {
+            "parent": 3,
+            "text": "Radiographic findings correlate poorly with symptoms in most patients with chronic bronchitis. Common, but nonspecific, findings include hyperinflation, bullae, blebs, diaphragmatic flattening and peribronchial markings."
+        },
+        {
+            "parent": 4,
+            "text": "Electrocardiographic findings can sometimes include supraventricular rhythm disturbances, such as multifocal atrial tachycardia, atrial fibrillation or atrial flutter with “P” pulmonale. Findings on airway biopsy include goblet cell hyperplasia, mucosal and submucosal inflammation, and increased smooth muscle at the level of the small non-cartilaginous airways.2These changes can be quantitated pathologically as the Reid index."
+        },
+        {
+            "parent": 5,
+            "text": "The role of sputum cultures remains limited in nonhospitalized patients who present with acute exacerbation of chronic bronchitis, since cultures of expectorated samples do not reflect the organism(s) present at distal bronchial levels. Gram stain of sputum is often suggested as a means of directing initial antibiotic therapy. But because of the likelihood of multiple organisms, the role of Gram stain in acute decision-making is de-emphasized.10For expectorated sputum samples to be considered valid, conventional wisdom is that there should be fewer than 10 squamous cells and more than 25 white blood cells per high-power microscopic field."
+        },
+        {
+            "parent": 5,
+            "text": "Patients with a history of chronic bronchitis and the onset of new symptoms while hospitalized may have acquired a nosocomial infection. For these patients and for others in whom atypical organisms are suspected as the cause of an exacerbation, “protected-tip” cultures of samples obtained from the airway level that appears the most inflamed on bronchoscopy offer the best chance of identifying causative infectious agents."
+        },
+        {
+            "parent": 6,
+            "text": "Figure 1provides an overview of the management of chronic bronchitis.1"
+        },
+        {
+            "parent": 7,
+            "text": "Smoking cessation is the single most effective way to reduce the risk of future morbidity from chronic bronchitis. The documentation of an accelerated rate of decline in the FEV1—greater than the normal decline of 30 mL per year—may provide an important motivation for smokers who continue to deny that their persistent smoking will cause future symptoms."
+        },
+        {
+            "parent": 7,
+            "text": "Once the patient makes a commitment to stop smoking, use of various smoking cessation tools, such as nicotine replacement systems, behavior modification training and support groups, can be helpful. Such tools are most effective when a supportive primary care physician sees the patient regularly throughout the smoking cessation period. Primary care physicians should enlist and educate available family members to aid in the patient's smoking cessation efforts, which may require repeated commitments before the patient ultimately succeeds."
+        },
+        {
+            "parent": 8,
+            "text": "Reduction or elimination of exposure to environmental inhaled irritants, such as aerosolized hair and deodorant products in the home and organic dusts or noxious gases in the workplace, and of prolonged exposure to outside air pollution with high sulfur dioxide levels is also a prudent management suggestion.2"
+        },
+        {
+            "parent": 8,
+            "text": "Educating the patient and family caregivers about the progressive nature of chronic bronchitis and its potential impact on future lifestyle and function is another important aspect for the primary care physician to oversee. Realistic goal setting and advance directives focused on terminal management issues (e.g., ventilatory support, hospitalization), as well as day-to-day medication management and oxygen compliance, should be addressed early in the illness. A multidisciplinary approach, using nurses, respiratory therapists and others to teach the patient about the disease (e.g., inhaler utilization, pulmonary rehabilitation), is encouraged."
+        },
+        {
+            "parent": 9,
+            "text": "Figure 2summarizes the current stepwise approach for the pharmacologic management of chronic bronchitis.11"
+        },
+        {
+            "parent": 9,
+            "text": "Inhaled ipratropium bromide (Atrovent) and sympathomimetic agents are for most patients the mainstays of therapy to provide relief of bronchospasm.10In addition to evidence of symptomatic benefit, airway response can be objectively determined by spirometry. The anticholinergic aerosol agent ipratropium produces greater bronchodilation and has a slower onset of action than sympathomimetic drugs, although the effects last longer with ipratropium than with sympathomimetic agents. Sympathomimetic agents such as albuterol (Proventil, Ventolin) provide more rapid bronchodilation but have a shorter duration of action than ipratropium, except for the long-acting agent salmeterol (Serevent). However, salmeterol should only be used as maintenance therapy, not as a rescue bronchodilator. Oral sympathomimetic agents are rarely tolerated in the dosages required for sustained, adequate relief of bronchospasm, and these agents can worsen concomitant cardiovascular disease."
+        },
+        {
+            "parent": 9,
+            "text": "The combination of ipratropium and a sympathomimetic agent, initially administered by a metered-dose inhaler, two puffs of each agent every six hours, allows adequate, sustained relief of bronchospasm while minimizing the adrenergic side effects associated with higher dosages of the beta agonists alone."
+        },
+        {
+            "parent": 9,
+            "text": "The future development of additional inhaled anticholinergic or anti-inflammatory agents may broaden management options. In addition, the potential applications of the new leukotriene receptor antagonists currently approved for asthma therapy, such as zafirlukast (Accolate), or leukotriene inhibitors (5-lipoxygenase blockers), such as zileuton (Zyflo), may offer new strategies for the management of chronic bronchitis."
+        },
+        {
+            "parent": 10,
+            "text": "While both ipratropium and beta-agonist agents are available in solutions for nebulized aerosol administration, the use of a small, hand-held metered-dose inhaler greatly simplifies administration and allows greater mobility than is possible with bulky nebulizer units that require electricity to operate. Optimal use of a metered-dose inhaler for administration of these agents, as well as steroid preparations, requires considerable patient education and training."
+        },
+        {
+            "parent": 10,
+            "text": "The use of an inhaler with a spacing device held between the patient's lips reduces the need for the patient to tightly coordinate inhalation and activation of the inhaler. Proper training and consistent use of a spacing device greatly increase drug effectiveness and reduce the amount of wasted medication. Adaptive devices, often available through occupational therapists, may permit easier administration by patients with impaired hand function."
+        },
+        {
+            "parent": 11,
+            "text": "Theophylline has long been a mainstay of therapy for chronic bronchitis, although a narrow therapeutic range and relatively common medication interactions limit its use. Its actions include improved collateral ventilation, improved respiratory muscle contractile function and improved mucociliary clearance. A long-acting theophylline preparation, taken in the evening, is especially useful in patients whose symptoms worsen at night and in whom more frequent inhaler use would further disrupt sleep."
+        },
+        {
+            "parent": 11,
+            "text": "An increased dosage of theophylline is required in patients who continue to smoke and in patients receiving hepatically cleared medications such as rifampin (Rifadin), phenytoin (Dilantin) and other drugs. A dosage reduction is necessary in patients with hepatic failure or congestive heart failure, and in patients receiving macrolide antibiotics, quinolone antibiotics, allopurinol (Zyloprim), oral contraceptives, histamine H2-receptor blocking agents and other drugs. Monitoring serum theophylline levels following dosage adjustment is important for maintenance of a therapeutic drug level."
+        },
+        {
+            "parent": 12,
+            "text": "Steroids can be delivered by inhalation using a metered-dose inhaler (as is more commonly used in asthma management) or by systemic therapy with oral or parenteral preparations. While therapy with short bursts of high-dose parenteral steroids is a mainstay of hospital management of acute exacerbations, rapid dosage reduction to the lowest oral dosage possible for long-term management is necessary to minimize long-term side effects."
+        },
+        {
+            "parent": 12,
+            "text": "Long-term oral steroid therapy in chronic bronchitis should be reserved for use in patients with documented symptomatic improvement in airflow that was not achievable with inhaled preparations. Potential risks of therapy include steroid myopathy, which can worsen ventilatory muscle strength, and steroid-induced osteoporotic vertebral compression fractures. Therefore, the benefits of prolonged systemic steroid therapy should be carefully documented."
+        },
+        {
+            "parent": 13,
+            "text": "Antibiotics are probably helpful only in acute exacerbations of chronic bronchitis. The role of antibiotic therapy in the routine management of chronic bronchitis is poorly defined. A meta-analysis of studies of antibiotic therapy for chronic bronchitis, conducted during the past 40 years, identified only six acceptable controlled trials in which any documented improvement in peak expiratory respiratory flow occurred with antibiotic use compared with placebo.12While the mean airflow improvement was quite modest, patients with more severe symptoms seemed to benefit the most."
+        },
+        {
+            "parent": 13,
+            "text": "Common current clinical practice is to promptly use antibiotics empirically in patients who demonstrate a fever or a change in sputum character. Such therapy should be directed against streptococcal species, Haemophilus species andMoraxella catarrhalis. Local resistance patterns in these organisms to ampicillin and other first-line antibiotics, such as tetracyclines (including doxycycline), trimethoprim-sulfamethoxazole (Bactrim, Septra, etc.) and the second-generation macrolides, guide initial therapy. All of these agents generally have good activity against these lower respiratory pathogens and penetrate well into bronchial tissues."
+        },
+        {
+            "parent": 13,
+            "text": "Broader antibiotic coverage is required when acute exacerbations develop in the hospital setting. Such patients may be candidates for bronchoscopic protected-tip culture techniques."
+        },
+        {
+            "parent": 13,
+            "text": "A role for antibiotic prophylaxis in patients having four or more repeated acute exacerbations per year has been suggested, although the effectiveness of this approach in preventing hospitalizations or morbidity has not yet been documented.13A more defined role exists for yearly influenza immunizations, since post-influenza bacterial infections are a significant cause of exacerbations of chronic bronchitis. All patients with chronic bronchitis should receive the polyvalent pneumococcal vaccine at least once. Re-vaccination with the pneumococcal vaccine should be considered after seven years in patients with renal impairment. Unfortunately, the currently available Haemophilus b conjugate vaccine (Acthib, Comvax, Hibtiter) is not expected to be helpful in patients with chronic bronchitis, since most strains of Haemophilus isolated from the lower respiratory tracts of symptomatic patients are non-typable.4"
+        },
+        {
+            "parent": 14,
+            "text": "Correcting the hypoxia associated with chronic bronchitis is an important part of improving both survival and quality of life.Table 1summarizes indications for chronic oxygen therapy. While oxygen must be used for at least 18 hours daily to produce any reduction in mortality, use during sleep can improve the quality of sleep and decrease the frequency of nocturnal arrhythmias."
+        },
+        {
+            "parent": 14,
+            "text": "Oxygen can be provided in a variety of forms, including economic oxygen concentrators for patients who require only low flow rates. Because the monthly expense of oxygen therapy is substantial, selected patients may benefit from oxygen-conserving devices, which are triggered by respiration to deliver a fixed dose of oxygen only during inhalation."
+        },
+        {
+            "parent": 14,
+            "text": "Expectorant mucolytic therapy is generally regarded as unhelpful in most patients with chronic bronchitis. Cough suppressants and sedatives should be avoided as routine measures. Increased mobilization of secretions may be accomplished through adequate systemic hydration and the use of effective cough methods and postural drainage. One effective method of coughing up retained secretions is to lean forward and “huff” repeatedly; the huffing is interspersed with relaxed breaths. Forceful paroxysms of coughing are to be discouraged. Opiates may increase exercise tolerance, although they are not considered standard treatment in most patients."
+        },
+        {
+            "parent": 14,
+            "text": "Surgical approaches for the treatment of chronic bronchitis are limited to use in those rare patients with coexisting bullous emphysema, in whom a bullectomy may allow greater respiratory expansion, or in those patients who might tolerate reduction pneumoplasty, in which bilateral resection of 20 to 30 percent of the lung volume is performed. Lung transplantation remains an expensive ($300,000 the first year) and extraordinary consideration for only highly selected patients with emphysema and very limited functional status despite exhaustive medical management. Patients being considered for lung transplantation should have an established social support network to cope with the emotional and functional stresses of this surgery."
+        },
+        {
+            "parent": 15,
+            "text": "Pulmonary rehabilitative efforts for patients with chronic bronchitis can improve airway function and allow greater mobility. In addition to exercise conditioning of the respiratory and associated muscles, nutrition and hydration support and psychologic and vocational services are necessary."
+        },
+        {
+            "parent": 15,
+            "text": "Common strategies for attaining respiratory muscle conditioning include graded aerobic exercise such as walking or bicycling over progressively longer durations three times a week, with oxygen supplementation as needed. Instruction regarding pursed-lip breathing—taking deep breaths and breathing out slowly through pursed lips—can help patients reduce the exhausting rapid respiratory rate that many develop. Training the inspiratory muscles to inhale against progressively larger resistance loads can improve exercise tolerance, especially when this conditioning technique is accompanied by abdominal breathing exercises to relieve thoracic respiratory muscle fatigue. The increased respiratory muscle work associated with these pulmonary rehabilitative efforts often requires enhanced nutritional support. Improved hydration through greater fluid intake and provision of airway humidity can also facilitate sputum mobilization, more so than pharmacologic expectorants or mucolytic agents."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/1015/od4.html#afp20121015od4-f1",
+    "title": "Evaluation of Elevated Serum Transaminase Levels | AAFP",
+    "author": "MICHAEL GROVER, DO, AND RICHARD RUTKOWSKI, MD",
+    "doi": "Am Fam Physician.2012;86(8):online",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Question",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evidence-Based Answer",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Evidence Summary",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Recommendations from Others",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "What is the best approach to the evaluation of patients with elevated serum transaminase levels?"
+        },
+        {
+            "parent": 1,
+            "text": "The evaluation of patients with elevated transaminase levels should be individualized based on the presence of symptoms or physical examination findings that suggest serious disease or hepatic decompensation. (Strength of Recommendation [SOR]: C, expert opinion.) The initial evaluation should determine specific etiologies, such as exposure to alcohol or hepatotoxic medications, viral hepatitis, or hemochromatosis. In patients with reassuring initial test results, lifestyle modification can reverse presumed nonalcoholic fatty liver disease (NAFLD), the most common cause of persistently elevated liver transaminase levels. (SOR: B, based on cohort trials.) Transaminase levels that are elevated for longer than six months warrant additional investigation, which may include ultrasonography, additional serology, and possible liver biopsy. (SOR: C, expert opinion.)"
+        },
+        {
+            "parent": 2,
+            "text": "The National Health and Nutrition Examination Survey determined the incidence and etiology of chronic liver disease in 9,670 adults.1The cohort was weighted by race, ethnicity, sex, age, and education to be representative of the U.S. population. Investigators conducted household interviews, including medical and social histories; physical examinations; and laboratory studies (e.g., hepatitis serology; transferrin saturation; and glucose, lipid, and transaminase levels). Overall, 14.8 percent had chronic liver disease; of these, 74 percent had NAFLD, 14 percent had alcoholic liver disease, 13 percent had hepatitis C, 11 percent had iron overload, and 0.3 percent had hepatitis B (some patients had more than one of these conditions). Compared with earlier data, the prevalence of chronic liver disease has increased over the past 20 years from 12 to 15 percent, with a greater percentage being attributed to NAFLD (from 47 to 74 percent).2"
+        },
+        {
+            "parent": 2,
+            "text": "A prospective controlled trial of 152 patients with elevated liver enzyme levels, central obesity, and multiple metabolic risk factors found that weight loss and exercise significantly improved enzyme elevations.3Investigators randomized participants to moderate-intensity interventions (six patient-centered lifestyle counseling sessions over 10 weeks focused on increasing physical activity and losing weight), low-intensity interventions (three sessions over four weeks), or a control group. Compared with those in the control group, fewer patients in the exercise groups had elevated alanine transaminase (ALT) levels after three months (78 to 48 percent with moderate-intensity exercise;P< .05; odds ratio [OR] = 0.28; 95% confidence interval [CI], 0.10 to 0.83; 71 to 44 percent with low-intensity exercise;P< .05; OR = 0.27; 95% CI, 0.08 to 0.92). ALT levels decreased by an average of 19 U per L (0.32 μkat per L) in the moderate-intensity group (P< .01 compared with baseline;P< .05 compared with control group), 15 U per L (0.25 μkat per L) in the low-intensity group (P< .01 compared with baseline;P< .05 compared with control group), and 7 U per L (0.12 μkat per L) in the control group (P< .05 compared with baseline).3"
+        },
+        {
+            "parent": 2,
+            "text": "Because 2.5 percent of reported values will be falsely elevated, a normal result on repeat enzyme testing may constitute adequate evaluation and obviate further workup for patients in whom a false-positive result is suspected.4,5If six months of lifestyle intervention does not produce improvements in transaminase levels, physicians should consider testing for Wilson disease, α1-antitrypsin deficiency, celiac disease, and autoimmune hepatitis.6"
+        },
+        {
+            "parent": 2,
+            "text": "A case series with 81 adult patients who had persistently elevated ALT without serologic explanation found that 90 percent had steatosis or steatohepatitis on liver biopsy.7All patients had negative serum tests for infectious, metabolic, autoimmune, or hereditary liver disease; no history of alcohol or hepatotoxic drug use; and no signs of chronic liver disease."
+        },
+        {
+            "parent": 3,
+            "text": "The American Gastroenterological Association recommends performing an initial diagnostic evaluation on patients with marked elevations of transaminase levels or signs or symptoms of hepatic decompensation.4Asymptomatic patients with reassuring findings on physical and serologic examination should have a period of lifestyle modification for presumed NAFLD. Physicians should counsel patients to stop drinking alcohol and reduce hepatotoxic medication use when possible. In patients with risk factors or persistently abnormal test results, serologic testing for viral hepatitis and evaluation for hemochromatosis are recommended.5,8Ultrasonography and testing for uncommon causes of chronic liver disease in low-risk patients are not recommended. Physicians should consider liver biopsy if the diagnosis remains uncertain(Figure 1)."
+        }
+    ],
+    "locked": false
+}

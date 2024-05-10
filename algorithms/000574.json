@@ -1,0 +1,115 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/0815/p483.html#afp20080815p483-f2",
+    "title": "Atypical Presentations of Gastroesophageal Reflux Disease | AAFP",
+    "author": "JOEL J. HEIDELBAUGH, MD, ARVIN S. GILL, MD, R.VAN HARRISON, PhD, AND TIMOTHY T. NOSTRANT, MD",
+    "doi": "Am Fam Physician.2008;78(4):483-488",
+    "abstract": "Gastroesophageal reflux disease typically manifests as heartburn and regurgitation, but it may also present with atypical or extraesophageal symptoms, including asthma, chronic cough, laryngitis, hoarseness, chronic sore throat, dental erosions, and noncardiac chest pain. Diagnosing atypical manifestations of gastroesophageal reflux disease is often a challenge because heartburn and regurgitation may be absent, making it difficult to prove a cause-and-effect relationship. Upper endoscopy and 24-hour pH monitoring are insensitive and not useful for many patients as initial diagnostic modalities for evaluation of atypical symptoms. In patients with gastroesophageal reflux disease who have atypical or extraesophageal symptoms, aggressive acid suppression using proton pump inhibitors twice daily before meals for three to four months is the standard treatment, although some studies have failed to show a significant benefit in symptomatic improvement. If these symptoms improve or resolve, patients may step down to a minimal dose of antisecretory therapy over the following three to six months. Surgical intervention via Nissen fundoplication is an option for patients who are unresponsive to aggressive antisecretory therapy. However, long-term studies have shown that some patients still require antisecretory therapy and are more likely to develop dysphagia, rectal flatulence, and the inability to belch or vomit.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Atypical or Extraesophageal Symptoms of GERD",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "RESPIRATORY SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "NASOPHARYNGEAL SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "NONCARDIAC CHEST PAIN SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Treatment of Atypical GERD",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "RESPIRATORY T REATMENT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "NONCARDIAC CHEST PAIN T REATMENT",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Gastroesophageal reflux disease (GERD) is a complex, chronic, and relapsing condition that carries a risk of morbidity and the potential for resultant complications. A population-based study revealed that 44 percent of U.S. adults experience the hallmark symptoms of heartburn and regurgitation at least once per month, 14 percent experience them weekly, and 7 percent experience them daily.1Symptoms of GERD result in 4.6 million ambulatory office visits each year and account for over $10 billion in direct costs for pharmacotherapy.2Most patients with GERD do not seek medical attention and will self-medicate with over-the-counter histamine receptor antagonists and the proton pump H2inhibitor (PPI) omeprazole (Prilosec).3"
+        },
+        {
+            "parent": -1,
+            "text": "Classic reflux symptoms are not always present in patients with GERD. A significant number of patients with GERD present with atypical or extraesophageal symptoms(Table 1).4These patients are the focus of this review."
+        },
+        {
+            "parent": 0,
+            "text": "GERD may manifest atypically as respiratory, nasopharyngeal, or cardiac symptoms. Classic reflux symptoms are absent in 40 to 60 percent of patients with asthma, 57 to 94 percent of patients with ear, nose, and throat (ENT) symptoms, and 43 to 75 percent of patients with chronic cough in whom reflux is suspected as the primary etiology.4Therefore, GERD should be strongly considered in the differential diagnosis of patients presenting with atypical symptoms5,6when alternative diagnoses have been excluded.4Patients with alarm symptoms(Table 27)should undergo prompt endoscopy regardless of whether other symptoms are typical or atypical."
+        },
+        {
+            "parent": 0,
+            "text": "Although cause-and-effect relationships between GERD and atypical symptoms are not always clear, one proposed explanation involves direct contaTable 2Alarm Symptoms of GERD Suggesting Complicated DiseaseBlack or bloody stoolsChokingChronic coughDysphagiaEarly satietyHematemesisHoarsenessIron deficiency anemiaOdynophagiaWeight lossGERD = gastroesophageal reflux disease.Information from reference7ct and microaspiration of small amounts of noxious gastric contents into the larynx and upper bronchial tree, which triggers local irritation and cough.5,6Another proposed explanation involves acid stimulation of vagal afferent neurons in the distal esophagus, causing noncardiac chest pain and vagally mediated bronchospasm and asthma.5,6"
+        },
+        {
+            "parent": 1,
+            "text": "Fifty to 80 percent of patients with asthma also have GERD, and up to 75 percent of patients with asthma have abnormal 24-hour pH levels.8The causal relationship between asthma and GERD is difficult to establish because either condition can induce the other. Only 30 percent of patients who have both conditions have GERD that is caused by asthma.8Asthma can cause increased reflux by creating negative intrathoracic pressure and overcoming the lower esophageal sphincter barrier. Additionally, medications used to treat asthma (e.g., bronchodilators) may worsen reflux.9"
+        },
+        {
+            "parent": 1,
+            "text": "Signs of GERD-related asthma include regurgitation, as well as asthma symptoms that worsen after eating large meals, drinking alcohol, or lying in the supine position. Adult-onset asthma and medically refractory asthma may also be caused by GERD. However, diagnostic testing with 24-hour pH monitoring and upper endoscopy have limited utility in establishing causality in this population.9"
+        },
+        {
+            "parent": 1,
+            "text": "When GERD is the primary cause of chronic cough, there are no identifiable gastrointestinal symptoms in up to 75 percent of cases.10Asthma, postnasal drip, and GERD—alone or in combination—are responsible for 94 percent of cases of chronic cough.11"
+        },
+        {
+            "parent": 2,
+            "text": "Reflux is the cause of 10 percent of hoarseness, up to 60 percent of chronic laryngitis and refractory sore throat, and 25 to 50 percent of globus sensation in patients presenting with ENT symptoms.12However, upper endoscopy and 24-hour pH monitoring are often normal in this population.12Reflux laryngitis is commonly diagnosed based on the laryngoscopic findings of laryngeal erythema and edema, posterior pharyngeal cobblestoning, contact ulcers, granulomas, and interarytenoid changes. A recent study, though, found that these signs are nonspecific for GERD; at least one sign was present in 87 percent of healthy persons who did not have reflux or laryngeal symptoms.13Many of these signs may be the result of laryngeal irritants, such as alcohol, smoking, postnasal drip, viral illness, voice overuse, or environmental allergens. Therefore, the presence of these signs may contribute to the misdiagnosis of GERD. This may explain why up to 40 to 50 percent of patients with laryngeal signs do not respond favorably to aggressive antisecretory therapy.14Posterior laryngitis, medial erythema of the false or true vocal cords, and contact changes (e.g., ulcers and granulomas) are more common in patients with GERD and predict a better response to acid reduction.15"
+        },
+        {
+            "parent": 3,
+            "text": "All patients, especially those with coronary risk factors, should undergo a thorough evaluation to rule out an acute coronary event before considering a GERD-related cause of chest pain. Approximately 20 to 30 percent of patients with chest pain and insignificant cardiac catheterization findings are classified as having noncardiac chest pain, of which GERD is the most common cause.16The mechanism by which acid reflux causes heartburn in some patients and chest pain in others is poorly understood and further complicated because some patients may have both symptoms.17Esophageal factors that may contribute to noncardiac chest pain include GERD, esophageal dysmotility disorders, visceral hypersensitivity, and psychological comorbidity. Up to 50 percent of patients with noncardiac chest pain have abnormal acid exposure.18"
+        },
+        {
+            "parent": 4,
+            "text": "Patients with atypical GERD are often more challenging to treat than those with typical GERD because they often have unpredictable responses to antisecretory therapy. Aggressive acid reduction using PPIs twice daily before meals for three to four months is the standard treatment for atypical GERD after other causative factors have been excluded(Figure 1).19An initial therapeutic trial of PPIs is more acceptable to the patient than pH testing, which can be uncomfortable and cumbersome to the patient and unreliable in clinical correlation. PPIs can also demonstrate a cause-and-effect relationship. If atypical symptoms improve or resolve, expert opinion is to taper antisecretory therapy to once-daily PPIs or H2-receptor antagonists at the lowest effective dose over three to six months.19This regimen may be the best way to demonstrate a causal relationship between GERD and extraesophageal symptoms, with most treatment trials demonstrating a 50 to 70 percent overall response rate.4"
+        },
+        {
+            "parent": 4,
+            "text": "To determine whether they have adequate acid control, patients who do not respond to empiric PPI therapy should undergo pH monitoring while continuing to take the medication.19At equivalent doses, PPIs are therapeutically equivalent for treatment of reflux symptoms.20However, randomized trials have not shown significant benefit of twice-daily PPI treatment for laryngeal symptoms, most likely because of misdiagnosis of GERD as the cause of laryngeal signs and symptoms.21–23Similar trials in patients with asthma have shown marginal benefits in rates of forced expiratory volume in one second when nocturnal GERD symptoms are also present.8"
+        },
+        {
+            "parent": 4,
+            "text": "Surgical intervention via Nissen fundoplication is an option for patients who are unresponsive to aggressive antisecretory therapy. One study found that 96.5 percent of patients were satisfied with results of the procedure after 6.4 years, although 14 percent were still taking continuous PPI therapy, and 27 percent had GERD-related symptoms (e.g., regurgitation, dysphagia, bloating, noncardiac chest pain).24Another study found that after seven years, antireflux surgery was more effective than PPI therapy for long-term control of symptoms; however, obstructive symptoms (e.g., dysphagia, rectal flatulence, inability to belch or vomit) were significantly more common in patients who underwent surgery.25"
+        },
+        {
+            "parent": 5,
+            "text": "In adult patients with moderate to severe persistent asthma and symptoms of GERD, lansoprazole (Prevacid) at a dosage of 30 mg twice daily for 24 weeks does not significantly improve asthma symptoms, improve pulmonary function, or reduce albuterol (Ventolin) use.8This regimen does, however, significantly reduce asthma exacerbations and improve quality of life, particularly in patients taking more than one asthma medication.8"
+        },
+        {
+            "parent": 5,
+            "text": "In patients with both GERD and asthma, Nissen fundoplication was found to have no significant effect on pulmonary function, pulmonary medication requirements, or survival.26However, compared with pharmacotherapy with an H2-receptor antagonist (ranitidine [Zantac] 150 mg three times daily), patients who underwent a Nissen fundoplication did experience a significant improvement in asthma symptoms and overall clinical status.26"
+        },
+        {
+            "parent": 5,
+            "text": "In patients with chronic cough, 24-hour pH monitoring should be considered when the cough does not resolve or improve with PPI therapy. Monitoring will help assess whether more intensive therapy is needed or whether medical therapy has failed. Thus, when empiric therapy fails, it cannot be assumed that GERD has been ruled out as a cause of chronic cough."
+        },
+        {
+            "parent": 5,
+            "text": "The American College of Chest Physicians states that patients with chronic cough have a high likelihood of having GERD and should be prescribed a trial of antisecretory therapy, even when they have no reportable gastrointestinal symptoms(Table 3).10In contrast, a recent Cochrane review found that there is insufficient evidence to conclude that treatment with a PPI is beneficial for chronic cough associated with GERD.27"
+        },
+        {
+            "parent": 6,
+            "text": "In patients with chest pain known not to be cardiac in origin, response to treatment with a PPI will identify most patients with GERD and can be the first step in explaining the chest pain.28An empiric trial with PPIs reduces symptoms of heartburn and reflux in most patients with GERD-related non-cardiac chest pain and may be useful as a diagnostic test in identifying abnormal esophageal reflux(Figure 229).17,30In the absence of a favorable response to empiric PPI therapy, esophageal manometry can evaluate non-GERD esophageal causes of noncardiac chest pain. Therapy should be directed toward esophageal pain modulation with muscle relaxants (e.g., nitrates, calcium channel blockers, phosphodiesterase type 5 inhibitors [e.g., sildenafil (Viagra)]) or pain modulators (e.g., tricyclic antidepressants, trazodone [Desyrel], selective serotonin reuptake inhibitors, benzodiazepines, 5-hydroxytryptamine agonists and antagonists), or via endoscopic (botulinum toxin) or surgical (Nissen fundoplication) modalities.17,29"
+        }
+    ],
+    "locked": false
+}

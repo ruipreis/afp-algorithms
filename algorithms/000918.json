@@ -1,0 +1,393 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2000/0315/p1759.html#afp20000315p1759-f1",
+    "title": "Update on Colorectal Cancer | AAFP",
+    "author": "DAVID R. RUDY, M.D., M.P.H., AND MICHAEL J. ZDON, M.D.",
+    "doi": "Am Fam Physician.2000;61(6):1759-1770",
+    "abstract": "An estimated 129,400 new cases of colorectal cancer occurred in the United States during 1999. The lifetime risk of developing this cancer is 2.5 to 5 percent in the general population but two to three times higher in persons who have a first-degree relative with colon cancer or an adenomatous polyp. Between 70 and 90 percent of colorectal cancers arise from adenomatous polyps, whereas only 10 to 30 percent arise from sessile adenomas. Tumors or polyps that develop proximal to the splenic flexure carry a poorer prognosis than those that arise more distally, in part because of delayed diagnosis secondary to later development of symptoms. The Dukes system is the classic staging method for colorectal cancer; the TNM staging system is more detailed and therefore more useful for surgical purposes. Although screening guidelines vary, most agree that colorectal cancer screening should begin at 50 years of age in patients without a personal or family history of colorectal cancer.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Polyps and Colorectal Cancer",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Inflammatory Bowel Disease and Colorectal Cancer",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Genetic Factors and Colorectal Cancer",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Inherited Colon Cancer Syndromes",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "FAMILIAL ADENOMATOUS POLYPOSIS SYNDROMES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "HEREDITARY NONPOLYPOSIS COLON CANCER",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Staging of Colorectal Cancer and Survival",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Prevention and Screening Methods",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "DIGITAL RECTAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "FECAL OCCULT BLOOD TESTING",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "RIGID SIGMOIDOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "FLEXIBLE SIGMOIDOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "FECAL OCCULT BLOOD TESTING AND FLEXIBLE SIGMOIDOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "DOUBLE-CONTRAST BARIUM ENEMA",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "DOUBLE-CONTRAST BARIUM ENEMA AND FLEXIBLE SIGMOIDOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "COLONOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "Screening Guidelines for Colorectal Cancer",
+            "level": 2
+        },
+        {
+            "id": 19,
+            "name": "Ulcerative Colitis and Surveillance for Colorectal Cancer",
+            "level": 2
+        },
+        {
+            "id": 20,
+            "name": "Primary Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Colorectal cancer is a disease for which screening and preventive measures have proven effectiveness. This malignancy has a significant incidence, is life-threatening and has a long asymptomatic period during which it can be diagnosed in an early stage that is amenable to treatment."
+        },
+        {
+            "parent": -1,
+            "text": "A number of colorectal screening tests are available. The expense, invasiveness and risks associated with these interventions vary in direct proportion to their sensitivity and specificity. Furthermore, patient and physician compliances vary inversely with the sensitivity and specificity of the screening tests. Thus, the methods negotiated between physician and patient must be a compromise between effectiveness and ongoing compliance."
+        },
+        {
+            "parent": -1,
+            "text": "In 1996, the U.S. Preventive Services Task Force recommended annual fecal occult blood testing or periodic flexible sigmoidoscopy for persons 50 years of age and older.1During the next year, investigators at the Centers for Disease Control and Prevention (CDC) analyzed data from the Behavioral Risk Factor Surveillance System on the use of home-collected fecal occult blood tests or sigmoidoscopy. Overall, only 39.7 percent of respondents reported ever having had a fecal occult blood test, and only 41.7 percent reported having undergone sigmoidoscopy.2The CDC report provides information that can help family physicians match screening methods to individual patients, with consideration for compliance and a reasonable reduction of mortality."
+        },
+        {
+            "parent": 0,
+            "text": "In the United States, the expected incidence of colorectal cancer was 129,400 cases for 1999. Of these cases, approximately 94,700 would be colon cancer and 34,700 would be rectal cancer.3These figures are slightly lower than those reported for 1998. The expected mortality rates for 1999 were 50.1 percent for colon cancer (47,900 deaths) and 25.1 percent for rectal cancer (8,700 deaths).3The age-specific incidence of colorectal cancer increases from 15 new cases per 100,000 persons 40 to 50 years of age to more than 400 cases per 100,000 persons in those more than than 80 years of age.4"
+        },
+        {
+            "parent": 0,
+            "text": "In the population at large, the most common malignancies (excluding skin cancer) are, in descending order, cancers of the prostate, breast, lung, and colon and rectum. Breast cancer is the most common cancer in women, followed by lung and colorectal cancers. Among men, the descending order of malignancy incidence is prostate, lung and colorectal cancers."
+        },
+        {
+            "parent": 0,
+            "text": "Colorectal cancer ranks second to lung cancer as the overall most common cause of cancer mortality. Cancer of the colon and rectum is the third most common cause of cancer death in women (after lung and breast cancers) and the third most common cause of cancer death in men (after lung and prostate cancers).3"
+        },
+        {
+            "parent": 0,
+            "text": "The lifetime risk of sporadic colorectal cancer is 2.5 to 5 percent in the general population but is two to three times higher in persons who have a first-degree relative with an adenomatous colon polyp or colon cancer. Thus, a family history confers a 5 to 10 percent lifetime risk of colon cancer. The risk of colon cancer in specific genetic syndromes is much higher.3However, 75 percent of colorectal cancer cases are sporadic.5"
+        },
+        {
+            "parent": 0,
+            "text": "Patients over 70 years of age are more likely to present in the early stages of colorectal cancer (Dukes stage A or B) than are younger patients. Moreover, younger patients have more aggressive disease for a given stage of presentation."
+        },
+        {
+            "parent": 0,
+            "text": "Compared with white persons, blacks and Hispanics are less likely to present in the early stages of colorectal cancer, and they have a 50 percent greater chance of dying of the disease. This is partially explained by a tendency toward a more proximal location of cancers in blacks and the later entrance of blacks and Hispanics into the health care system (i.e., at a more advanced stage of disease). Asians have disease presentation patterns similar to those of non-Hispanic whites.6The mortality rate for colorectal cancer is relatively low in some American Indians but relatively high in others and in native Alaskans.6,7Colorectal cancer is significantly more prevalent in Ashkenazi Jews than in the general U.S. and European populations.5,8,9"
+        },
+        {
+            "parent": 0,
+            "text": "Colorectal cancer mortality rates declined from 1974 through 1992. Most experts attribute this decline to the increased use of screening and earlier diagnosis of cancers of the colon and rectum. Studies on the effectiveness of the four most commonly used screening methods indirectly support these findings."
+        },
+        {
+            "parent": 1,
+            "text": "Between 70 and 90 percent of colorectal cancers arise from adenomatous polyps, and 10 to 30 percent arise from sessile adenomas. The larger the polyp, the greater the potential for malignancy. Diminutive polyps (5 mm or less in diameter) have a negligible malignant potential. Polyps with a diameter of 5 to 10 mm are considered small, whereas polyps greater than 10 mm in diameter are considered large. Polyps larger than 2 cm in diameter have a 50 percent chance of becoming malignant over time.6"
+        },
+        {
+            "parent": 1,
+            "text": "Polyps may be hyperplastic or adenomatous. From 15 to 30 percent of persons in the U.S. population ultimately develop polyps. About 15 percent of these polyps are hyperplastic and have no malignant potential. Hyperplastic polyps are usually diminutive or small and cannot be identified without biopsy and histologic examination.6"
+        },
+        {
+            "parent": 1,
+            "text": "Among adenomatous polyps, those with a tubular histologic pattern are the least likely to become malignant(Table 1).10They are also the most common adenomatous polyps (the villous pattern is the least common). Adenomatous polyps with this pattern have the highest potential for malignancy. Tubulovillous polyps constitute 12 percent of adenomatous polyps and have an intermediate malignant potential.6,10"
+        },
+        {
+            "parent": 1,
+            "text": "Tubular polyps are pedunculated, whereas villous adenomatous polyps have broad bases and are larger. Tubulovillous polyps are pedunculated, with villous projections extending from the free ends. Tubular polyps do not change into villous polyps and vice versa. High-grade dysplasia is correlated with polyp size and with the chance that cancer or other adenomatous polyps will be present elsewhere in the colon.6"
+        },
+        {
+            "parent": 1,
+            "text": "Approximately one third of polyps and one half of colorectal cancers occur proximal to the splenic flexure.6Proximal lesions carry a poorer prognosis than distal cancers, in part because of possible delayed diagnosis secondary to the later development of hematochezia or obstruction. The rate of carcinomatous degeneration of polyps is low (approximately 2.5 cases per 1,000 polyps per year).6"
+        },
+        {
+            "parent": 1,
+            "text": "The average time from onset of a polyp to onset of carcinoma, termed the “dwell time,” is 10 to 15 years. However, dwell time appears to vary with the location of the cancer. It is longer in the distal colon than in the proximal colon, and it is shortest in the rectosigmoid segment.11Although rectosigmoid cancer develops more rapidly, it presents earlier because of associated stool changes and hematochezia. This explains the lower mortality rate for rectosigmoid cancers compared with colon cancers."
+        },
+        {
+            "parent": 1,
+            "text": "Sessile adenomas occur particularly in patients with hereditary nonpolyposis colon cancer. These adenomas account for 20 to 25 percent of the 2.5 to 5 percent lifetime risk of colorectal cancer.12"
+        },
+        {
+            "parent": 1,
+            "text": "Colorectal cancer is a multicentric disease. If multiple adenomas are found, the risk of subsequent carcinoma is 4.8 times greater than the expected risk. A patient who has had a colorectal cancer is 1.45 times more likely than expected to develop metachronous cancer (i.e., cancer at another site subsequent to an index cancer). This translates to a risk that increases by 0.35 percent per year. The risk reaches 6.3 percent at 18 years after removal of the index lesion."
+        },
+        {
+            "parent": 2,
+            "text": "The cumulative risk of colorectal cancer is between 7 and 10 percent in a patient who has had ulcerative colitis for 20 years. Different studies have found that at 30 years, this risk is about 16 percent. The risk increases by nearly 1 percent per year for each year after 15 to 20 years of disease. The risk of colorectal cancer in patients with Crohn's disease is unclear.6"
+        },
+        {
+            "parent": 3,
+            "text": "The gene most implicated in colorectal cancer is the APC (adenomatous polyposis coli) gene, which might better be termed the “APC tumor suppressor gene.” This gene occurs on the long arm of chromosome 5q. Absence of this gene increases the susceptibility to development of adenomatous polyps and, hence, colon cancer. Mutation of the APC gene is present in 75 percent of adenomatous polyps."
+        },
+        {
+            "parent": 3,
+            "text": "The DCC (deleted in colorectal cancer) gene is a separate suppressor gene. This gene is located on chromosome 18. Other colon cancer suppressor genes include the MCC (mutated in colorectal cancer) gene and the p53 gene. All three of these genes appear to be involved in series for the development of colon cancer in patients with familial adenomatous polyposis syndromes.12"
+        },
+        {
+            "parent": 3,
+            "text": "Some reports indicate that colon cancer is four times more likely to develop in persons who have mutant BRCA1, the suppressor gene that has been associated with breast cancer.13True oncogenes for colon cancer also exist. They include theras, srcandmyconcogenes."
+        },
+        {
+            "parent": 4,
+            "text": "Between 5 and 10 percent of colorectal cancers occur in definite hereditary patterns. Adenomatous polyposis syndromes account for about 15 to 20 percent of these tumors, or 1 to 2 percent of all colon cancers.6"
+        },
+        {
+            "parent": 5,
+            "text": "Familial adenomatous polyposis is an autosomal dominant syndrome in which hundreds to more than a thousand polyps develop in the colon and other parts of the gastrointestinal tract, beginning early in life. By the age of 40 years, almost all persons with this syndrome develop colon cancer."
+        },
+        {
+            "parent": 5,
+            "text": "Gardner's syndrome is a broader expression of familial adenomatous polyposis in which numerous polyps develop in the colon. This syndrome carries an increased risk of colorectal cancer and associated osteomas, epidermoid cysts and sesmoid tumors."
+        },
+        {
+            "parent": 5,
+            "text": "Turcot's syndrome is an association of familial polyposis of the colon with central nervous system tumors. In this syndrome, one to many polyps may be present throughout the colon. Patients with Turcot's syndrome can be divided into two groups: one group manifests an association with medulloblastoma, and the second group has a propensity to form glioblastoma multiforme. Analysis of mutations suggests that Turcot's syndrome is a variant of familial adenomatous polyposis."
+        },
+        {
+            "parent": 6,
+            "text": "In hereditary nonpolyposis colon cancer, a strongly inherited tendency for colon cancer is associated with far fewer polyps than occur in familial adenomatous polyposis. Furthermore, many of the cancers associated with the syndrome arise from sessile polyps and non-polypoid adenomas. Up to 6 percent of colon cancers (more in some populations) occur in association with this autosomal dominant disorder, which is also called Lynch syndrome.14"
+        },
+        {
+            "parent": 6,
+            "text": "The syndrome has been subdivided into Lynch syndromes I and II. In both types, colon cancers tend to occur before the age of 50 years and are located predominantly in the proximal colon. In Lynch syndrome type II, also called “family cancer syndrome,” additional cancers occur as adenocarcinomas in the uterus, ovary, breast, stomach and pancreas. Lynch syndrome type II cancers are associated with significantly greater 10-year survival than sporadic cancers at all stages.14–16"
+        },
+        {
+            "parent": 6,
+            "text": "The diagnosis of hereditary nonpolyposis colon cancer is based on the Amsterdam criteria17: (1) colon cancer in conjunction with a cancer associated with hereditary nonpolyposis colon cancer (Lynch syndrome I or II) in at least three first-degree relatives within two generations, and (2) the occurrence of at least one of these cancers in a person younger than 50 years of age."
+        },
+        {
+            "parent": 6,
+            "text": "Various cancer risks for Lynch syndrome have been determined. It is likely that 68 to 75 percent of patients with the syndrome will have colon cancer by the age of 65 years. The average age at diagnosis is 45 years. The risk of a metachronous cancer is 30 percent at 10 years after resection and 50 percent at 15 years after resection. The cumulative risk of uterine (endometrial) carcinoma is between 30 and 39 percent by the age of 70 years, compared with a 3 percent expected risk in persons who do not have the syndrome.15"
+        },
+        {
+            "parent": 7,
+            "text": "The classic staging system for colorectal cancer has been the Dukes classification. This is still the most useful staging system for family physicians to employ in defining the extent of and prognosis for colorectal cancer. The modified Dukes staging system for colon and rectal cancers is presented inTable 2.6,18"
+        },
+        {
+            "parent": 7,
+            "text": "On occasion, Roman numerals I through IV are used in colorectal cancer staging. These numerals correspond with Dukes classes A through D."
+        },
+        {
+            "parent": 7,
+            "text": "The TNM (tumor, node, metastasis) staging system is more detailed than the Dukes system. This system is most useful for surgical purposes, such as providing guidelines on the extent of resection. The Dukes system and corresponding TNM classifications are presented inTable 3.6"
+        },
+        {
+            "parent": 8,
+            "text": "Unless colon cancer has metastasized to the liver, symptoms tend to be one or more of the following: hematochezia, melena, anemia resulting from occult blood loss and change in bowel habits."
+        },
+        {
+            "parent": 8,
+            "text": "The mortality rate in patients who present with hematochezia is only 19 percent, compared with 83 percent in patients with any other presenting symptom. Hematochezia as the presenting symptom tends to be associated with tumors located in the descending colon. Fewer than 25 percent of malignancies located in the ascending colon are in Dukes stage A at the time of discovery, whereas 90 percent of rectosigmoid cancers are found in this early stage.4"
+        },
+        {
+            "parent": 8,
+            "text": "In colon cancer, melena or maroon-colored stools tend to be a symptom of tumors in the ascending or transverse colon. These malignancies are likely to be in Dukes stage B or C at discovery."
+        },
+        {
+            "parent": 8,
+            "text": "Patients with low-grade bleeding (excluding bleeding that is discovered on screening as occult blood) are likely to present with iron deficiency anemia. Cancers that cause this type of bleeding are most likely to be diagnosed at Dukes stage C."
+        },
+        {
+            "parent": 8,
+            "text": "A change in bowel habits is associated with a worse prognosis than any symptoms of bleeding, except perhaps anemia. Constipation may be constant or may alternate with diarrhea. In colorectal cancer, alternating constipation and diarrhea signify the leakage of liquid stool around the lower level of a tumor that is partially obstructing the bowel. Frequently, the tumor has progressed to occupy a large portion of the lumen, taking the form of a napkin ring. The stage at diagnosis is nearly always at least Dukes stage C."
+        },
+        {
+            "parent": 8,
+            "text": "Liver metastasis presents as abdominal fullness and hepatomegaly with irregular or knobby edges to the organ. Jaundice may occur. Despite new palliative techniques, the five-year survival rate in patients with Dukes stage D tumors is only 5 percent.19"
+        },
+        {
+            "parent": 9,
+            "text": "For at least two decades, preemptive removal of colon polyps has been the standard approach to cancer prevention. Aggressive screening and polypectomy can reduce the rate of colon cancer development by approximately 80 percent.6"
+        },
+        {
+            "parent": 9,
+            "text": "Screening methods for colorectal cancer are discussed in the following sections and compared inTable 4.6"
+        },
+        {
+            "parent": 10,
+            "text": "The digital rectal examination is a time-honored screening method. Given the fact that rectosigmoid cancers have a shorter dwell time than colon cancers, the digital examination is an inexpensive, easily performed technique for early diagnosis of a proportion of these cancers."
+        },
+        {
+            "parent": 10,
+            "text": "Because fewer than 10 percent of tumors are within reach of the examiner's digit, the digital rectal examination has only a 5 to 10 percent sensitivity for colorectal cancer.6Consequently, this technique is not recommended as a sole screening tool. In addition, no prospective studies have shown that screening by digital rectal examination reduces the mortality rate for colorectal cancer."
+        },
+        {
+            "parent": 11,
+            "text": "Findings from the most important study on fecal occult blood testing were published in 1993.20In this study, guaiac testing for occult blood was performed at two sites on each of three stools on three different days. The cumulative mortality rate in subjects who underwent yearly screening was 5.88 percent, compared with 8.33 in subjects who were screened every two years and 8.88 percent in subjects in the control group. Yearly screening resulted in a 33.4 percent reduction in colorectal cancer mortality. Approximately one half of the reduction in mortality may be attributed to the fortuitous discovery of nonbleeding cancers because of “false-positive” tests.21"
+        },
+        {
+            "parent": 11,
+            "text": "The sensitivity of the test for colorectal cancer was 80.8 percent before rehydration of dried occult blood slides and 92.9 percent after the rehydration of slides.20The specificity was 97.7 percent before rehydration and 90.4 after rehydration. The positive predictive value for cancer (as opposed to neoplasm) was 5.6 percent before rehydration and 2.2 percent after rehydration. The positive predictive value for other significant lesions, such as inflammatory bowel disease or upper gastrointestinal tract bleeding sources, is much higher.22–24"
+        },
+        {
+            "parent": 11,
+            "text": "The American Gastroenterological Association (AGA) proposed a computer simulation model for evaluating the potential results of screening in a population of 100,000 persons.6Based on this model, annual screening for fecal occult blood would reduce the annual incidence of colorectal cancer by about 50 percent, from 4,988 to 2,610 cases. Colorectal cancer deaths would be reduced from 2,391 to 1,061. Approximately 52 deaths would occur as a result of complications from follow-up colonoscopy, bringing the total number of deaths to 1,112. Thus, yearly screening would reduce the mortality rate by 53.5 percent."
+        },
+        {
+            "parent": 11,
+            "text": "Fecal occult blood testing has a number of advantages. The test is relatively inexpensive, and compliance is greater than with more invasive tests, particularly for repeat testing. In addition, cancers are detected in earlier stages than nonscreened cancers (i.e., those that present with symptoms)."
+        },
+        {
+            "parent": 11,
+            "text": "Screening by fecal occult blood testing has some disadvantages. Colorectal cancers often do not bleed in the earliest (i.e., most curable) stage. Thus, cancers diagnosed by fecal occult blood testing are more apt to be found in Dukes stage C or D than are those found by sigmoidoscopy or colonoscopy. However, this disadvantage may be more than offset by the difficulty in obtaining ongoing patient compliance with the more invasive tests."
+        },
+        {
+            "parent": 11,
+            "text": "Another disadvantage of fecal occult blood testing is its deceptively large net cost, which is due to the work-up of false-positive findings. Using the aforementioned 5.6 percent positive predictive value (nonrehydrated slides),20it appears that for every cancer detected by fecal occult blood testing at a cost of perhaps $50, nearly 18 patients will undergo a colonoscopic examination that is negative for cancer. Each colonoscopic examination costs at least $635: a $225 approved Medicare charge for the endoscopist and a $410 charge for the facility (Frederick Rosenberg, M.D., unpublished data, July 1, 1999). However, many of the “needless” colonoscopies unearth significant pathology, some of which will be premalignant polyps."
+        },
+        {
+            "parent": 11,
+            "text": "Regardless of the potentially large net cost, the cost of saving one year of life using fecal occult blood testing appears to be comparable to the cost of saving one year of life using flexible sigmoidoscopy, double-contrast barium enema or colonoscopy. As of 1990, figures from the Office of Technical Assessment of the U.S. Congress indicated that the cost was less than $20,000 per year of life saved.6"
+        },
+        {
+            "parent": 12,
+            "text": "Only 15 to 30 percent of cancers are within 20 cm of the rectum (i.e., within reach of the rigid sigmoidoscope). Nevertheless, rigid sigmoidoscopy can reduce the risk of mortality from distal colon and rectal cancers.4,25Like fecal occult blood testing, rigid sigmoidoscopy is not recommended as a sole screening test for colorectal cancer."
+        },
+        {
+            "parent": 13,
+            "text": "According to the AGA simulation model (based on screening in 100,000 persons),6screening by flexible sigmoidoscopy every five years would reduce the incidence of colorectal cancer from 4,988 to 3,013 cases and the number of deaths from 2,390 to 1,423, with nine additional deaths occurring from complications of colonoscopy. The net reduction in mortality would be 40.1 percent."
+        },
+        {
+            "parent": 13,
+            "text": "The unit cost of flexible sigmoidoscopy is $150 (Rosenberg, unpublished data). Any finding of cancer or a polyp must be followed by colonoscopy. Thus, the cost of saving one year of life remains similar to that for other methods of screening."
+        },
+        {
+            "parent": 14,
+            "text": "Based on the AGA simulation model,6screening with annual fecal occult blood testing combined with flexible sigmoidoscopy every five years would reduce the incidence of colorectal cancer from 4,988 to 1,901 cases and the number of colorectal cancer deaths from 2,391 to 782. With an additional 53 deaths resulting from complications of colonoscopy, the net mortality would be 834 deaths, or a 64.9 percent reduction in colorectal cancer deaths."
+        },
+        {
+            "parent": 15,
+            "text": "Double-contrast barium enema misses about 25 percent of tumors and polyps in the rectosigmoid segment, or roughly 2 percent of all colorectal cancers. With this screening test, the false-positive rate is less than 1 percent for cancers, 5 to 10 percent for large polyps and 50 percent for small polyps.6"
+        },
+        {
+            "parent": 15,
+            "text": "The AGA simulation model (based on screening in 100,000 persons)6predicts that double-contrast barium enema every five years would reduce the incidence of colorectal cancer from 4,988 to 1,594 cases and the number of colorectal cancer deaths from 2,391 to 728. Adding 16 deaths associated with the complications of colonoscopy, the total number of deaths would be 743. This would represent a net reduction in mortality of 68.1 percent."
+        },
+        {
+            "parent": 15,
+            "text": "Using the AGA simulation model,6screening by double-contrast barium enema every 10 years would reduce the incidence of colorectal cancer from 4,988 to 2,176 cases and the number of deaths from 2,391 to 948. Deaths from colonoscopy complications would add another 24 deaths, for a total of 972 deaths. Thus, the net reduction in mortality would be 59.3 percent."
+        },
+        {
+            "parent": 15,
+            "text": "The unit cost of double-contrast barium enema is estimated to be $200 (Rosenberg, unpublished data). Again, positive findings constitute an indication for colonoscopy. The cost of saving one year of life using double-contrast barium enema is comparable to the costs associated with other screening methods."
+        },
+        {
+            "parent": 16,
+            "text": "A study conducted in Sweden found that the combination of double-contrast barium enema and flexible sigmoidoscopy had a 98 percent sensitivity for cancers and a 99 percent sensitivity for adenomas in the rectosigmoid segment.26Based on the AGA simulation model (screening performed in 100,000 persons),6the combined use of double-contrast barium enema and flexible sigmoidoscopy every five years would reduce the incidence of colorectal cancer from 4,988 to 1,113 cases. Furthermore, this approach would reduce the number of deaths from 2,390 to 501, with complications of colonoscopy adding 46 deaths. The net reduction in mortality would be 77.1 percent."
+        },
+        {
+            "parent": 17,
+            "text": "Generally considered the gold standard for diagnosing colorectal cancer, colonoscopy has the main advantage of allowing diagnosis and definitive treatment of adenomatous polyps. Colonoscopy has a sensitivity of 90 percent for small polyps but only 75 percent for diminutive polyps.6"
+        },
+        {
+            "parent": 17,
+            "text": "In 1995, the average cost of screening and treating earlier bowel cancer was established at $834 per person screened. The average cost per person potentially screened, of treating advanced bowel cancer, was $1,134.27"
+        },
+        {
+            "parent": 17,
+            "text": "According to the AGA simulation model (based on screening in 100,000 persons),6the use of colonoscopy every 10 years would reduce the incidence of colorectal cancer from 4,988 to 1,418 cases. The number of deaths from colorectal cancer would be reduced from 2,390 to 627, with an additional 73 deaths occurring because of complications related to the procedure. Consequently, the net reduction in mortality would be 70.7 percent."
+        },
+        {
+            "parent": 18,
+            "text": "The American Cancer Society's recommendations for colorectal cancer screening are provided inTable 5.1A supplemental recommendation covers screening in patients with a family history of hereditary nonpolyposis colon cancer.12"
+        },
+        {
+            "parent": 18,
+            "text": "The AGA recommends colorectal cancer screening in all men and women at average risk, starting at 50 years of age. Any of the methods listed inTable 46may be used. An algorithm for colorectal cancer screening and surveillance in persons at average or increased risk is provided inFigure 1.6"
+        },
+        {
+            "parent": 18,
+            "text": "The U.S. Preventive Services Task Force recommends screening for colorectal cancer using fecal occult blood testing and/or sigmoidoscopy in all persons 50 years of age and older.1In addition, persons with a family history of hereditary syndromes associated with a high risk for colon cancer should be referred for further evaluation.The Guide to Clinical Preventive Servicesstates that “there is insufficient evidence to recommend for or against routine screening with digital rectal examination, barium enema, or colonoscopy, although recommendations against such screening in average-risk persons may be made on other grounds.”1p89"
+        },
+        {
+            "parent": 18,
+            "text": "The American Academy of Family Physicians recommends one of the following screening regimens beginning at the age of 50 years: fecal occult blood testing annually or sigmoidoscopy, colonoscopy or barium enema, without recommendations for specific frequency pending more definitive evidence to support particular screening intervals.28"
+        },
+        {
+            "parent": 19,
+            "text": "Surveillance for colorectal cancer in patients with inflammatory bowel disease should begin after symptoms have been present for eight years and the entire colon is affected (pancolitis) or after 15 years if only the descending colon is involved.6,29Surveillance consists of colonoscopy every three years, with directed biopsy of chronically inflamed sites."
+        },
+        {
+            "parent": 20,
+            "text": "The regular use of aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) has been shown to provide some degree of protection against colorectal cancer.30,31NSAIDs are effective in reducing the severity of polyposis in Gardner's syndrome."
+        },
+        {
+            "parent": 20,
+            "text": "Evidence that a lack of dietary fiber causes colorectal cancer is derived only from ecologic studies, rather than prospective, controlled observational or interventional data. Nevertheless, it appears that increasing the fiber content in the Western diet would be useful in the primary prevention of colorectal cancer."
+        }
+    ],
+    "locked": false
+}

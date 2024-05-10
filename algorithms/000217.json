@@ -1,0 +1,181 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/1001/p453.html#afp20171001p453-f1",
+    "title": "Secondary Hypertension: Discovering the Underlying Cause | AAFP",
+    "author": "LESLEY CHARLES, MD, JEAN TRISCOTT, MD, AND BONNIE DOBBS, PhD",
+    "doi": "Am Fam Physician.2017;96(7):453-461",
+    "abstract": "Most patients with hypertension have no clear etiology and are classified as having primary hypertension. However, 5% to 10% of these patients may have secondary hypertension, which indicates an underlying and potentially reversible cause. The prevalence and potential etiologies of secondary hypertension vary by age. The most common causes in children are renal parenchymal disease and coarctation of the aorta. In adults 65 years and older, atherosclerotic renal artery stenosis, renal failure, and hypothyroidism are common causes. Secondary hypertension should be considered in the presence of suggestive symptoms and signs, such as severe or resistant hypertension, age of onset younger than 30 years (especially before puberty), malignant or accelerated hypertension, and an acute rise in blood pressure from previously stable readings. Additionally, renovascular hypertension should be considered in patients with an increase in serum creatinine of at least 50% occurring within one week of initiating angiotensin-converting enzyme inhibitor or angiotensin receptor blocker therapy; severe hypertension and a unilateral smaller kidney or difference in kidney size greater than 1.5 cm; or recurrent flash pulmonary edema. Other underlying causes of secondary hypertension include hyperaldosteronism, obstructive sleep apnea, pheochromocytoma, Cushing syndrome, thyroid disease, coarctation of the aorta, and use of certain medications.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "General Approach to the Patient and Identifying Potential Causes of Secondary Hypertension",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Common Causes of Secondary Hypertension",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "RENOVASCULAR HYPERTENSION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "RENAL DISEASES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PRIMARY HYPERALDOSTERONISM",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "OBSTRUCTIVE SLEEP APNEA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Uncommon Causes of Secondary Hypertension",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "PHEOCHROMOCYTOMA",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CUSHING SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "COARCTATION OF THE AORTA",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "THYROID AND PARATHYROID DISEASE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "CHEMOTHERAPEUTIC AGENTS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ORAL CONTRACEPTIVES",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hypertension is common, affecting nearly 30% of U.S. adults and increasing to 65% of persons 60 to 69 years of age.1The annual cost of treatment for hypertension in the United States is $47.5 billion.2"
+        },
+        {
+            "parent": -1,
+            "text": "Secondary hypertension is a type of hypertension with an underlying and potentially reversible cause. It makes up only a small fraction (5% to 10%) of hypertensive cases.3–5The prevalence of secondary hypertension varies by age and is more common in younger persons, with a prevalence close to 30% in those 18 to 40 years of age with hypertension.3Extensive testing for secondary hypertension is not warranted in all patients with hypertension because of cost, low yield, and the potential for false-positive results; however, testing is recommended in patients younger than 30 years.6,7"
+        },
+        {
+            "parent": 0,
+            "text": "Secondary hypertension should be considered in the presence of suggestive signs and symptoms such as severe or resistant hypertension, onset before 30 years of age (especially before puberty), malignant or accelerated hypertension, and an acute rise in blood pressure from previously stable readings(Table 1).3,7–17Figure 1provides a suggested approach to the initial evaluation of patients with suspected secondary hypertension.10"
+        },
+        {
+            "parent": 0,
+            "text": "Accurate measurement of blood pressure, including the use of a correctly sized and appropriately positioned blood pressure cuff, is the most critical aspect of the diagnosis of hypertension.3At least two or three blood pressure readings taken on two separate visits are recommended to make the diagnosis.18For patients who have blood pressure variability or possible white coat hypertension, 24-hour ambulatory blood pressure monitoring is recommended."
+        },
+        {
+            "parent": 0,
+            "text": "All patients with newly diagnosed hypertension should undergo basic testing, including electrocardiography; urinalysis; fasting blood glucose; measurement of hematocrit, electrolyte, creatinine (or the corresponding estimated glomerular filtration rate), and calcium levels; and a lipid profile.3,19"
+        },
+        {
+            "parent": 0,
+            "text": "It also is important to review the patient's diet and medication use for other potential causes of elevated blood pressure. A list of drug classes and common examples to be considered as a cause of hypertension is provided inTable 2.3,10,14,20,21Excessive consumption of sodium (2.4 g or more per day),3licorice (3 g or more per day),22or alcohol (300 g or more per week)20is known to increase blood pressure.14,20Of note, licorice is commonly found in chewing tobacco and licorice root tea."
+        },
+        {
+            "parent": 0,
+            "text": "If these potential contributors to hypertension have been excluded and concern for secondary hypertension remains, the physician can investigate for potential physiologic causes. Suggested diagnostic tests for causes of secondary hypertension are provided inTable 3.3,9,10,13,23–28"
+        },
+        {
+            "parent": 1,
+            "text": "Likely etiologies of secondary hypertension are different in children compared with adults. A summary of the most common causes of secondary hypertension by age is provided inTable 4.4,10,14,29Preadolescent children with hypertension should be evaluated for possible secondary hypertension.16Across all adult ages, renovascular hypertension, renal disease, aldosteronism, and obstructive sleep apnea (OSA) represent the most common causes of secondary hypertension.30"
+        },
+        {
+            "parent": 2,
+            "text": "Renovascular hypertension is a common, potentially reversible cause of secondary hypertension. Although it may contribute to only 1% of mild hypertension cases, it accounts for 10% to 45% of severe or malignant hypertension cases in white patients.29,31Renovascular hypertension often is found in patients with coronary or peripheral atherosclerosis, including renal artery stenosis (RAS).3,31,32In young adults, especially women, renovascular hypertension can be caused by fibromuscular dysplasia(Figure 233). For patients with signs of possible renovascular hypertension, the American College of Cardiology/American Heart Association recommends considering diagnostic testing if they are healthy enough and willing to undergo revascularization32(Table 53,32,34–37)."
+        },
+        {
+            "parent": 2,
+            "text": "Randomized controlled trials have shown that medical therapy is equal to revascularization, with similar rates of blood pressure control and cardiovascular deaths, and without the associated complications of surgery.34,38–41Noting that most studies have concentrated on patients with less severe atherosclerotic RAS, a systematic review was unable to determine whether revascularization or medical management is preferable.42Because revascularization remains a treatment option for patients with hypertension related to fibromuscular dysplasia and possibly for those with rapidly declining renal function, detection of RAS is important in these groups.36,43"
+        },
+        {
+            "parent": 2,
+            "text": "The preferred imaging method for patients who have suspected RAS is controversial. Although the diagnostic standard is angiography, the technique is invasive and should not be used as an initial diagnostic test. Doppler ultrasonography is inexpensive and has a 75% sensitivity and a 90% specificity,44although magnetic resonance angiography (MRA) with gadolinium contrast media and computed tomography (CT) angiography are equally accurate in visualizing stenosis and give better sensitivity, specificity, and anatomic detail than Doppler ultrasonography.23,44Accurate assessment with standard noninvasive techniques, such as Doppler ultrasonography, can be limited because they provide only indirect evidence of the presence of RAS; however, invasive techniques, although more accurate, have the potential of nephrotoxicity. A glomerular filtration rate must be calculated and patients must be counseled on the risks of nephrotoxicity when physicians order contrast CT angiography or MRA with gadolinium. Alternatively, a captopril renal isotope nuclear scan is noninvasive, with a 90% sensitivity and specificity.45Invasive imaging should be pursued only in patients who would consider intervention, whether surgical or radiographic."
+        },
+        {
+            "parent": 2,
+            "text": "Patients with RAS should be treated with angiotensin-converting enzyme inhibitors or angiotensin receptor blockers unless there are contraindications to their use. In RAS secondary to fibromuscular dysplasia, the cure rates for angioplasty and surgery are 36% and 54%, respectively.43Young adults thought to have secondary hypertension should be assessed for fibromuscular dysplasia of the renal artery with MRA or CT angiography.43"
+        },
+        {
+            "parent": 3,
+            "text": "Hypertension can be a major cause of renal failure in older adults, which in turn leads to worsening hypertension.12Secondary hypertension in these cases is suggested by an elevated serum creatinine level or proteinuria on urinalysis. Renal parenchymal disease is the most common cause of hypertension in preadolescent children. In this age group, causes of secondary hypertension include glomerulonephritis, congenital abnormalities, and reflux nephropathy. Renal ultrasonography should be the first choice of imaging in this age group."
+        },
+        {
+            "parent": 4,
+            "text": "Once thought to be rare, primary hyperaldosteronism is now considered one of the more common causes of secondary hypertension. Primary hyperaldosteronism is excess production of aldosterone independent of the renin-angiotensin system and is caused by an adrenal adenoma, unilateral or bilateral adrenal hyperplasia, or adrenocortical carcinoma. Hyperaldosteronism also can be secondary to excessive growth hormone, as in acromegaly. Hypokalemia due to urinary potassium wasting is the most prominent feature of hyperaldosteronism. However, one-half of patients with hyperaldosteronism have a normal potassium level.46The prevalence of hyperaldosteronism in patients with hypertension is 6%.47"
+        },
+        {
+            "parent": 4,
+            "text": "Hyperaldosteronism is the most common cause of drug-resistant hypertension.48If hypokalemia is found, the next step is a urinary potassium test. The best initial test for primary hyperaldosteronism is measurement of the ratio of the plasma aldosterone concentration to plasma renin activity after potassium repletion.23The aldosterone-to-renin ratio is the most sensitive test to detect primary hyperaldosteronism because approximately 25% of patients with the condition have normal aldosterone levels. The ratio should be measured in the morning two hours after waking and in the upright position; abnormal test results should prompt referral to an endocrinologist.23This is the best initial test to determine whether a patient with hypertension should have further evaluation for hyperaldosteronism.24"
+        },
+        {
+            "parent": 4,
+            "text": "Agents that may affect the aldosterone-to-renin ratio should be discontinued four weeks before testing, including nonsteroidal anti-inflammatory drugs, aldosterone antagonists (spironolactone and eplerenone [Inspra]), amiloride (Midamor), triamterene (Dyrenium), potassium-wasting diuretics, and licorice. If the ratio is normal, it may be necessary to withdraw other antihypertensives that can interfere with the aldosterone-to-renin ratio two weeks before testing. These antihypertensives include beta blockers, central alpha2agonists, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, renin inhibitors, and dihydropyridine calcium channel blockers. If it is necessary to maintain hypertensive control, other less-interfering agents can be started, such as extended-release verapamil, hydralazine, prazosin (Minipress), doxazosin (Cardura), or terazo-sin.24Inappropriate elevation of aldosterone is common in patients who are obese.30After the diagnosis of primary hyperaldosteronism has been confirmed by demonstrating inappropriate aldosterone secretion, adrenal CT should be performed.24"
+        },
+        {
+            "parent": 5,
+            "text": "OSA is a leading treatable cause of secondary hypertension.3,49,50OSA is common in men 40 to 59 years of age who are obese and who snore, leading to apneic episodes.29Other symptoms include headache, fatigue, daytime somnolence, confusion, difficulty concentrating, depression, personality changes, hypertension, and cardiac arrhythmias. Patients who are obese and who have signs or symptoms of OSA and hypertension should be assessed with polysomnography.51Although polysomnography is the standard diagnostic test, clinical assessment tools (e.g., Epworth Sleepiness Scale [https://www.aafp.org/afp/2009/0301/p391.html#afp20090301p391-f1], Sleep Apnea Clinical Score)52,53with nighttime pulse oximetry may be sufficient for the diagnosis of moderate to severe OSA.25,51Patients with OSA retain sodium and do not respond to hypertensive medication.54They also lose the normal circadian rhythm in blood pressure, thus 24-hour ambulatory measurements are often needed to detect nighttime increases that will not be noted in the office.55Treatment of OSA may improve blood pressure control, sleep quality, daytime sleepiness, and mortality.56"
+        },
+        {
+            "parent": 7,
+            "text": "Pheochromocytoma should be suspected when there are paroxysmal elevations in blood pressure. Other symptoms include the classic triad of headache, palpitations, and sweating.57Because pheochromocytoma is rare, only patients with these symptoms or adrenal incidentaloma should be evaluated for pheochromocytoma.4The investigation of adrenal incidentaloma is important because there are associated cardiovascular sequelae, and the hypertension is largely reversible with treatment. Testing for pheochromocytoma can be done by measuring metanephrines in a 24-hour urine sample or by measuring plasma free metanephrines, followed by CT if results are abnormal.26"
+        },
+        {
+            "parent": 8,
+            "text": "Cushing syndrome has classical features of moon facies, central obesity, proximal muscle weakness, and ecchy-mosis. Most cases are iatrogenic from prescribed corticosteroids. Only 20% of patients with iatrogenic Cushing syndrome have hypertension.28Although tumors causing Cushing syndrome are rare, 80% or more of these patients develop hypertension.28Evaluation for Cushing syndrome should be done only if there are suggestive symptoms or if adrenal incidentaloma is suspected. First-line testing for Cushing syndrome includes any two of the following: 24-hour urinary free cortisol, low-dose dexamethasone suppression, or late-night salivary cortisol tests. If any test result is abnormal or if there is a high suspicion of Cushing syndrome despite normal results, referral to an endocrinologist is needed.28"
+        },
+        {
+            "parent": 9,
+            "text": "Coarctation of the aorta is a common cause of secondary hypertension in children, especially males, but may not be detected until adulthood because it is often asymptomatic.58Classic signs of coarctation of the aorta include upper extremity hypertension, delayed or decreased femoral pulses (brachial-femoral delay) and low or unobtainable blood pressure in the lower extremities, and murmur.13In younger patients with coarctation of the aorta, chest radiography may be nonspecific, whereas in adults, the classic figure three sign or rib notching may be evident. Transthoracic echocardiography is sufficient for diagnosing coarctation of the aorta in children, although MRA is the preferred imaging method in adults.16,59Surgery is recommended for those with a transcoarctation pressure gradient of more than 30 mm Hg.57"
+        },
+        {
+            "parent": 10,
+            "text": "Hypothyroidism can cause an elevation in diastolic blood pressure, whereas hyperthyroidism can cause an elevation of systolic blood pressure, leading to a widened pulse pressure.9As thyroid disease occurs across the age spectrum, testing for hypo- and hyperthyroidism should be considered if there are any suggestive symptoms of either condition. Thyroid-stimulating hormone is a sensitive marker used for the initial diagnosis of hypo- or hyperthyroidism. Primary hyperparathyroidism, diagnosed by unexplained hypercalcemia, can affect vascular reactivity, circadian blood pressure rhythm, and renal function."
+        },
+        {
+            "parent": 11,
+            "text": "Several chemotherapeutic agents can cause secondary hypertension and kidney injury. Examples include those that cause microvascular injury and those that inhibit vascular endothelial growth factor.20,21Additional examples are provided inTable 6.14,20,21"
+        },
+        {
+            "parent": 12,
+            "text": "Oral contraceptives can raise blood pressure within the normal range but can also cause secondary hypertension.20,21,60Hypertension is induced in 5% of patients taking combined oral contraceptives with at least 50 mcg of estrogen and 1 to 4 mg of progestin. Risk factors for secondary hypertension with oral contraceptive use include pregnancy-induced hypertension, a family history of hypertension, smoking, black race, obesity, increased body mass index, renal disease, and diabetes mellitus.20"
+        },
+        {
+            "parent": 12,
+            "text": "This article updates a previous article on this topic byViera and Neutze.10"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:Nine databases were identified and searched, including Medline, PubMed, PsycINFO, Biomedical Reference Collection, CINAHL, Health Source: Nursing/Academic, Psychology and Behavioral Sciences Collection, iMediSearch, and Essential Evidence Plus. Key words: hypertension, secondary hypertension, resistant hypertension, and malignant hypertension. Search dates: December 7, 2015, and February 15, 2017."
+        },
+        {
+            "parent": 12,
+            "text": "The authors thank Peter Tian, MD, for reviewing the manuscript."
+        }
+    ],
+    "locked": false
+}

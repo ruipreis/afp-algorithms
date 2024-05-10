@@ -1,0 +1,164 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0601/p680.html#afp20210601p680-f1",
+    "title": "Polycythemia Vera: Rapid Evidence Review | AAFP",
+    "author": "STEVEN FOX, MD, LESLIE GRIFFIN, MD, AND DOMINIQUE ROBINSON HARRIS, MD",
+    "doi": "Am Fam Physician.2021;103(11):680-687",
+    "abstract": "Polycythemia vera is one of three stem-cell–derived myeloid malignancies commonly known as myeloproliferative neoplasms. It is characterized by erythrocytosis, often with associated leukocytosis and thrombocytosis. It has a significant negative impact on overall mortality and morbidity in the form of arterial and venous clots, symptoms of fatigue and pruritus, and conversion to leukemia and myelofibrosis. The World Health Organization's major diagnostic criteria include an elevated hemoglobin or hematocrit level, abnormal results on bone marrow biopsy, and presence of the Janus kinase 2 genetic mutation, which is present in approximately 98% of cases. The only minor criterion is a subnormal erythropoietin level, which helps differentiate polycythemia vera from common causes of secondary erythrocytosis such as smoking, sleep apnea, and testosterone use. First-line treatments, such as low-dose aspirin and goal-directed phlebotomy to a hematocrit level of less than 45% to reduce thrombotic events, improve quality of life and prolong survival. When indicated, cytoreductive therapy, primarily with hydroxyurea, can be added with consideration of second-line agents such as pegylated interferon-alfa, busulfan, and ruxolitinib, depending on the clinical scenario. Smoking cessation and cardiometabolic disease are modifiable risk factors that should be addressed to reduce the risk of thrombosis. Currently, no medications have been shown to cure the disease or to reduce the risk of conversion to leukemia and myelofibrosis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "PHLEBOTOMY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "THROMBOPROPHYLAXIS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CYTOREDUCTIVE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Hydroxyurea",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Pegylated Interferon-Alfa",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Busulfan (Busulfex)",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Ruxolitinib (Jakafi)",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "PRURITUS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "TREATMENT IN PREGNANCY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Follow-up and Monitoring",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Polycythemia vera (PV) is one of three common myeloproliferative neoplasms that will likely be encountered during the career of a primary care physician.1This article summarizes the best, most recent evidence to guide the diagnosis and treatment of PV."
+        },
+        {
+            "parent": 0,
+            "text": "The annual incidence of PV is 0.01 to 2.61 per 100,000 people, and the prevalence is 0.49 to 46.88 per 100,000.2,3Median age at diagnosis is 64 years (range = 19 to 95 years), and up to 25% of diagnoses occur before 50 years of age.4,5Nonmodifiable risk factors for PV include older age, male sex, White race, and European descent.2,6,7Modifiable risk factors for PV include smoking, obesity, hypertension, diabetes mellitus, and hyperlipidemia.8,9"
+        },
+        {
+            "parent": 1,
+            "text": "Patients who have PV typically present with elevated hemoglobin and hematocrit levels found incidentally or after laboratory evaluation for patients' reported symptoms, physical examination findings, or thrombotic/bleeding events.5,10,11The differential diagnosis of PV includes other myeloproliferative neoplasms and secondary erythrocytosis from smoking, sleep apnea, and androgen use and, rarely, erythropoietin-producing tumors(Table 1).12Table 2presents the 2016 World Health Organization's diagnostic criteria for PV.13A suggested approach to evaluation is summarized inFigure 1.14"
+        },
+        {
+            "parent": 2,
+            "text": "Table 3lists the typical laboratory findings,5andTable 4describes the frequency of the most common signs and symptoms at the time of diagnosis.5,10,11Fatigue, insomnia, and difficulty concentrating are the most common presenting symptoms in patients with PV.11"
+        },
+        {
+            "parent": 3,
+            "text": "If PV is suspected after an elevated hemoglobin/hematocrit level is found, Janus kinase 2 (JAK2) V617F mutation and erythropoietin testing should be performed.12Bone marrow biopsy with fluorescence in situ hybridization testing and karyotyping can be helpful to confirm the diagnosis and to stratify risk.12"
+        },
+        {
+            "parent": 4,
+            "text": "The goals of therapy are to improve survival and to improve quality of life by decreasing hematocrit levels, symptom burden, bleeding, and clotting complications.15No treatments have been shown to reduce the risk of transformation to leukemia or myelofibrosis.Figure 2presents a suggested approach to the treatment of PV.12,16,17"
+        },
+        {
+            "parent": 5,
+            "text": "All patients should receive phlebotomy with a goal hematocrit level of less than 45%.18–20A randomized controlled trial of 365 patients who had PV with an average age of 65 years showed a decreased incidence of death from cardiovascular events and thrombotic events if phlebotomy was used to keep the hematocrit level at less than 45% vs. 45% to 50% over a median follow-up period of 31 months (1.1 events vs. 4.4 events per 100 person-years; number needed to treat = 30).18In a retrospective cohort study, 820 predominantly White patients with Medicare, a median age of 77 years, and a low rate of previous thrombosis (13%) were followed for 2.8 years. The study found that phlebotomy used a median of 2.3 times per year was associated with significantly improved survival compared with no phlebotomy (6.3 years vs. 4.5 years). The risk of thrombosis was also significantly lower with phlebotomy use (29% vs. 46%).19"
+        },
+        {
+            "parent": 6,
+            "text": "All patients should receive daily low-dose aspirin (40 to 100 mg) in the absence of contraindications.20,21A multicenter randomized controlled trial of 518 patients with a median age of 61 years showed that 100 mg of aspirin used daily over a five-year period significantly reduced the risk of nonfatal myocardial infarction, nonfatal stroke, pulmonary embolism, major venous thrombosis, or death from cardiovascular causes compared with placebo (3.2% vs. 7.9%; number needed to treat = 21 over five years).21Low-dose aspirin reduces vasomotor symptoms such as headache, erythromelalgia, and pruritus in conjunction with phlebotomy.22Aspirin use should be avoided in people with extreme thrombocytosis (greater than 1,000 × 109per L [1,000 × 103per μL]) because of increased risk of bleeding from acquired von Willebrand disease.10"
+        },
+        {
+            "parent": 8,
+            "text": "Hydroxyurea is the first-line agent for cytoreductive therapy in PV.20The previously mentioned retrospective cohort study of 820 patients with a median age of 77 years found that use of hydroxyurea was associated with significantly improved survival compared with nonusers (6.0 years vs. 5.3 years). The risk of thrombosis was significantly lower in those using hydroxyurea (27.6% vs. 45.4%).19A retrospective analysis of 1,042 patients followed over approximately 30 years compared use of hydroxyurea to phlebotomy only and found that fewer cardiovascular events occurred with hydroxyurea (3.0 vs. 5.8 per 100 person-years).23A 2019 systematic review and meta-analysis of 3,236 high-risk patients who had PV and were treated with hydroxyurea found that the incidence of leukemic transformation was 0.4% of persons per year, and the rate of myelofibrosis was 5.0% at five years and 33.7% at 10 years.24Up to 24% of patients may be resistant or intolerant to hydroxyurea(Table 525), and common adverse effects include anemia, neutropenia, oral ulcers, skin ulcers, hyperpigmentation, and nail changes.1,25In patients younger than 40 years, caution with hydroxyurea use is recommended because of leukemogenic concerns with long-term use.26"
+        },
+        {
+            "parent": 9,
+            "text": "A disease-oriented, uncontrolled study of 40 patients with high-risk PV reported that when pegylated interferon-alfa was used as first-line therapy, complete hematologic response (76% to 95%) and molecular response (18%) could be achieved over a 36-month period.27The hematologic and molecular responses were defined by a hematocrit level of less than 45% in men and less than 42% in women without phlebotomy, absence of splenomegaly, normal leukocyte and platelet counts, and undetectable JAK2V617F levels.27Up to 20% of patients discontinued the drug because of toxicity (e.g., skin toxicities possibly resulting in rash over more than 50% of body surface area or needing urgent treatment), asthenia, and hematologic abnormalities.27"
+        },
+        {
+            "parent": 10,
+            "text": "A disease-oriented, retrospective study of 19 patients with PV and a median age of 76 years who had hydroxyurea resistance or intolerance(Table 525)and were started on busulfan as second-line therapy reported that 75% of patients had complete or partial hematologic response over a median of 3.8 years.28Adverse effects such as cytopenias caused 15% of patients to discontinue the medication.28Busulfan should be avoided in younger patients because of a higher association with leukemogenicity based on observational data.29"
+        },
+        {
+            "parent": 11,
+            "text": "A disease-oriented, randomized trial was conducted involving patients who were hydroxyurea resistant or intolerant. In these patients, ruxolitinib achieved better hematocrit control and spleen volume improvement (decrease in volume greater than 35%) compared with other single-drug alternatives selected by the investigator, such as hydroxyurea (tolerable doses), pegylated interferon-alfa, pipobroman (not available in the United States), anagrelide (Agrylin), immunomodulators, or no medication (busulfan was prohibited) over a 32-week period (21% with ruxolitinib vs. 0.9% with other single-drug alternatives;P< .001; number needed to treat = 5).30Immunosuppressive adverse effects made herpes zoster infection more likely (6% with ruxolitinib vs. 0% with other single-drug alternatives).30"
+        },
+        {
+            "parent": 12,
+            "text": "Pruritus may be present in up to 68% of patients and is severe in up to 15% of patients.10First-line therapy includes aspirin, antihistamines, and paroxetine (Paxil).22,31,32Other treatment options include ruxolitinib, interferon-alfa, and narrow-band ultraviolet B phototherapy.33–35"
+        },
+        {
+            "parent": 13,
+            "text": "PV during pregnancy is rare, with a prevalence of less than 0.03 per 100,000.36A multidisciplinary team, including an obstetrician, maternal-fetal medicine specialist, and hematologist, is recommended.37Potentially teratogenic medications should be stopped in men and women at least three months before conception.36,37All pregnant patients who have PV should receive low-dose aspirin, avoid iron supplementation in the absence of actual depletion, maintain gestational age-appropriate hematocrit levels, and be treated with enoxaparin (Lovenox) for six weeks postpartum if no contraindications occur.36Interferon-alfa is the drug of choice for cytoreductive therapy if needed.36"
+        },
+        {
+            "parent": 14,
+            "text": "Follow-up appointments every three to six months are recommended for routine history, physical examination, and complete blood count.15"
+        },
+        {
+            "parent": 15,
+            "text": "Poor prognostic features include age older than 60 years, history of thrombosis, leukocytosis, high JAK2 burden, abnormal karyotype, and established cardiovascular risk factors such as smoking, hypertension, diabetes, obesity, and hyperlipidemia.5,9,38Smoking cessation decreases the risk of thrombosis.39Without treatment, death typically occurs within two years, mostly from thrombotic events.40Median survival of patients with PV using standard-of-care treatment, including aspirin and hydroxyurea, is 13.5 years.4For those diagnosed before 60 years of age, median survival is 24 years.4The risk of blast transformation to acute myeloid leukemia or myelodysplastic syndrome over 15 years is 5.5% to 18.7%.4,41Progression to myelofibrosis over 15 years is 6% to 14%.4,41A practical tool to calculate survival has been developed and is shown inTable 6.5"
+        },
+        {
+            "parent": 15,
+            "text": "This article updates a previous article on this topic byStuart and Viera.1"
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources:We searched Essential Evidence Plus, Cochrane Database of Systematic Reviews, and PubMed with the key words polycythemia vera, myeloproliferative neoplasms, epidemiology, diagnosis, treatment, therapy, prognosis, risk stratification, management, pregnancy, randomized controlled trial, meta-analysis, systematic review, aspirin, hydroxyurea, phlebotomy, interferon-alpha, busulfan, ruxolitinib, and JAK2 kinase inhibitors. Search dates: October 2019 and January 2021."
+        }
+    ],
+    "locked": false
+}

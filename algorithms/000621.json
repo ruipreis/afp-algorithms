@@ -1,0 +1,130 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0515/p1513.html#afp20070515p1513-f1",
+    "title": "Acute Pancreatitis: Diagnosis, Prognosis, and Treatment | AAFP",
+    "author": "JENNIFER K. CARROLL, MD, MPH, BRIAN HERRICK, MD, TERESA GIPSON, MD, AND SUZANNE P. LEE, MD",
+    "doi": "Am Fam Physician.2007;75(10):1513-1520",
+    "abstract": "Mild acute pancreatitis has a low mortality rate, but patients with severe acute pancreatitis are more likely to develop complications and have a much higher death rate. Although serum amylase and lipase levels remain the most widely used diagnostic assays for acute pancreatitis, other biomarkers and inflammatory mediators such as trypsinogens are being investigated for clinical use. Ranson's criteria, the Imrie scoring system, the Acute Physiology and Chronic Health Evaluation (APACHE II) scale, and the Computed Tomography Severity Index are systems for classifying severity of this disease; the Atlanta classification is widely used to compare these systems and standardize clinical trials. New developments in imaging modalities such as endoscopic ultrasonography and magnetic resonance cholangiopancreatography increase the options available to physicians for determining the cause of pancreatitis and assessing for complications. Enteral nutrition is preferred to parental nutrition for improving patient outcomes. Clinical trials are ongoing to evaluate the role, selection, and timing of antibiotics in patients with infected necrosis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Prognosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Advances in Radiologic Imaging Techniques",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Treatment Issues for Acute Pancreatitis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute pancreatitis is a reversible inflammatory process of the pancreas. Although the disease process may be limited to pancreatic tissue, it also can involve peripancreatic tissues or more distant organ sites. Acute pancreatitis may occur as an isolated attack or may be recurrent. It has a variety of causes and can range in severity from mild to severe and life threatening. Some patients may require brief hospitalization, whereas others may be critically ill with multiple organ dysfunction requiring intensive care monitoring. Mild acute pancreatitis has a very low mortality rate (less than 1 percent),1,2whereas the death rate for severe acute pancreatitis can be 10 to 30 percent depending on the presence of sterile versus infected necrosis.3In the United States, up to 210,000 patients per year are admitted to a hospital for acute pancreatitis.1,4"
+        },
+        {
+            "parent": 0,
+            "text": "The most common risk factors for acute pancreatis are gallbladder disease (often caused by choledocholithiasis) and chronic alcohol consumption.Table 1lists risk factors for acute pancreatitis.5Given newly emerging diagnostic modalities, recent guidelines have recommended against the diagnosis of “idiopathic acute pancreatitis.”6"
+        },
+        {
+            "parent": 1,
+            "text": "The hallmark symptom of acute pancreatitis is the acute onset of persistent upper abdominal pain, usually with nausea and vomiting. The usual locations of the pain are the epigastric and periumbilical regions. The pain may radiate to the back, chest, flanks, and lower abdomen. Patients are usually restless and bend forward (the knee-chest position) in an effort to relieve the pain because the supine position may exacerbate the intensity of symptoms.7Physical examination findings are variable but may include fever, hypotension, severe abdominal tenderness, guarding, respiratory distress, and abdominal distention.2,8"
+        },
+        {
+            "parent": 2,
+            "text": "No single laboratory or clinical sign is pathognomonic for acute pancreatitis; many bio-markers and inflammatory mediators for predicting the severity of acute pancreatitis are being evaluated. The initial laboratory evaluation should include amylase and lipase levels; complete blood count with differential; metabolic panel (blood urea nitrogen, creatinine, glucose, and calcium levels); triglyceride level; urinalysis; and arterial blood gases.9"
+        },
+        {
+            "parent": 2,
+            "text": "Amylase and lipase, secreted by the acinar cells of the pancreas, are the most common laboratory markers used to establish the diagnosis of acute pancreatitis5,10(Table 25,11). Elevated amylase and lipase levels can be non-specific, depending on the time since onset of pain, other intra-abdominal processes, and concomitant chronic diseases such as renal insufficiency.11,12Amylase levels may be normal in patients with alcoholism who present with acute pancreatitis, especially if they have had previous attacks of alcoholic pancreatitis; thus, serial testing may not be helpful. Plasma lipase is more sensitive and specific than plasma amylase.11,13"
+        },
+        {
+            "parent": 2,
+            "text": "Recent research has examined potential biologic markers for predicting the severity and prognosis of pancreatitis(Table 25,11). Trypsinogens and pancreatic proteases involved in the autodigestive processes of acute pancreatitis appear promising. Other investigational serologic markers include trypsinogen activation peptide, C-reactive protein, procalcitonin, phospholipase A2, and the cytokines interleukin-6 and inter-leukin-8.11,12,14,15Currently, these markers have limited clinical availability, but there is significant interest in better understanding markers of immune response and pancreatic injury because these could be valuable tools for reliably predicting the severity of acute pancreatitis and supplementing imaging modalities."
+        },
+        {
+            "parent": 3,
+            "text": "Early evaluation and risk stratification for patients with acute pancreatitis are important to differentiate patients with mild versus severe disease because patients with severe disease often need intensive care treatment. Several scoring systems can predict the severity of pancreatitis, and recent work has attempted to compare their relative predictive values."
+        },
+        {
+            "parent": 3,
+            "text": "Ranson's criteria,16the Imrie scoring system,17the Acute Physiology and Chronic Health Evaluation (APACHE II) scale,18and the Computed Tomography (CT) Severity Index19have been developed and validated to predict adverse outcomes, including mortality, in patients with pancreatis(Table 316–19)."
+        },
+        {
+            "parent": 3,
+            "text": "Research has shown some advantages of the CT Severity Index in predicting the severity of acute pancreatitis compared with the other systems. One study found that a CT Severity Index score of 5 or greater correlated with prolonged hospitalization and higher rates of mortality and morbidity.20A CT Severity Index score of 5 or greater was associated with a mortality rate 15 times higher than in those with a score of less than 5. No association was found between Ranson's criteria and APACHE II scale scores and mortality or length of hospitalization.20"
+        },
+        {
+            "parent": 3,
+            "text": "Another study demonstrated that the CT Severity Index was a stronger predictor of severe acute pancreatitis than Ranson's criteria or the APACHE II scale; however, the CT Severity Index was conducted 72 hours after admission, whereas the APACHE II scale and Ranson's criteria scores were calculated at 24 and 48 hours, respectively.21"
+        },
+        {
+            "parent": 3,
+            "text": "An observational study showed that CT Severity Index scores, when obtained within 48 hours, correlated better with complications and mortality than Ranson's criteria.22Because of the number of available scoring systems, the Atlanta Classification of Severe Acute Pancreatitis has become widely used as a means of comparing scores (Ranson's criteria, APACHE II scale, and contrast–enhanced CT) to define severe acute pancreatitis,23which has helped standardize clinical research trials."
+        },
+        {
+            "parent": 3,
+            "text": "Table 4summarizes evidence comparing these prognostic systems and patient-related outcomes such as ruling out severe acute pancreatitis.8,21,24The higher the prognostic score, the poorer the clinical outcome, including mortality. Irrespective of scoring criteria, signs of organ failure within 24 hours of admission significantly increase the risk of death; and thus, physiologic response to treatment needs to be monitored closely.25"
+        },
+        {
+            "parent": 4,
+            "text": "Radiologic imaging is used to confirm or exclude the clinical diagnosis, establish the cause, assess severity, detect complications, and provide guidance for therapy. In recent years, the range of imaging modalities has greatly expanded. Traditional imaging modalities include plain film radiography, abdominal ultrasonography, CT scans, and endoscopic retrograde cholangiopancreatography (ERCP); newer options include endoscopic ultrasonography and magnetic resonance cholangiopancreatography (MRCP). Recent research in this area has focused on development of these tests and the better understanding of their application to clinical care."
+        },
+        {
+            "parent": 4,
+            "text": "Transabdominal ultrasonography is used to determine cholelithiasis.9Bowel gas can limit the accuracy of pancreatic imaging, but if the pancreas is visualized, then imaging can reveal pancreatic enlargement, echotextural changes, and peripancreatic fluid.26Contrast-enhanced CT is the standard imaging technique for detection of acute pancreatitis.27CT generally is not indicated for patients with mild, uncomplicated pancreatitis but should be reserved for cases of clinical or biologic worsening.13It is controversial whether routine use of CT increases length of hospital stay,28and the potential risk of contrast media-induced morbidity limits its use in certain patients. Magnetic resonance imaging is not commonly used but may be indicated if better visualization of peripancreatic inflammation, necrosis, or fluid collections is needed.13"
+        },
+        {
+            "parent": 4,
+            "text": "ERCP is helpful in evaluating less-common causes of pancreatitis (e.g., microlithiasis; sphincter of Oddi dysfunction; pancreas divisum; and pancreatic duct strictures, which can be benign or malignant).29Urgent ERCP is indicated in patients at risk of or with evidence of biliary sepsis, severe pancreatitis with biliary obstruction, cholangitis, elevated bilirubin, worsening and persistent jaundice, or signs of worsening pain in the setting of an abnormal ultrasound examination because these patients may need more immediate surgical or gastroenterologic intervention.30,31In patients with severe gallstone pancreatitis, morbidity and mortality is reduced with the use of early selective ERCP.32"
+        },
+        {
+            "parent": 4,
+            "text": "MRCP is a newer, noninvasive technique that has been referred to as “the pancreato-gram.”33MRCP can be used preoperatively to determine which patients would benefit from ERCP.27MRCP has been found to be as accurate as contrast-enhanced CT in predicting the severity of pancreatitis and identifying pancreatic necrosis.32Unlike ERCP, MRCP does not have interventional capability for stone extraction, stent insertion, or biopsy. MRCP is less sensitive for detection of small stones (i.e., smaller than 4 mm), small ampullary lesions, and ductal strictures.33MRCP can assess pancreatic and peripancreatic cysts.34It is helpful in patients when ERCP is not possible or is unsuccessful.32"
+        },
+        {
+            "parent": 4,
+            "text": "Another new technology is endoscopic ultrasonography, which is highly accurate in documenting stones and tumors but is used less often than ERCP. Endoscopic ultrasonography is useful in obese patients and patients with ileus, and can help determine which patients with acute pancreatitis would benefit most from therapeutic ERCP.31Endoscopic ultrasonography can assist with endoscopic transmural cyst and abscess drainage. Endoscopic ultrasonography and MRCP show promise in increasing the range of options available to search for the cause of acute pancreatitis.Table 5compares the sensitivity and specificity of various imaging techniques.8,13,26,32"
+        },
+        {
+            "parent": 5,
+            "text": "Aggressive volume repletion, pain control, close monitoring of hemodynamic and volume statuses, attention to nutritional needs, and monitoring for complications are essential in patients with acute pancreatitis. Because several clinical guidelines and reviews describe these management issues in detail,6,9,35this article only provides a brief update based on recent developments in two important aspects of management: nutrition and the role of antibiotics."
+        },
+        {
+            "parent": 5,
+            "text": "Physicians often find the decision about nutritional management in patients with acute pancreatitis challenging because historically it was believed that pancreatic rest was needed. However, total enteral nutrition, when compared with total parenteral nutrition, has been shown to have clear benefits in patients with severe acute pancreatitis. A meta-analysis concluded that total enteral nutrition is equal to if not better than total parenteral nutrition.36However, more research is needed to clarify which type of total enteral nutrition (i.e., oral, nasogastric, or nasojejunal feeding) most benefits patient outcomes. Several randomized studies have shown that nasojejunal feeding prevents morbidity and mortality, possibly by preventing development of infected necrosis by inhibiting bacterial translocation from the gut.15It is often the preferred option in patients with severe pancreatitis but may not be possible if ileus is present."
+        },
+        {
+            "parent": 5,
+            "text": "One of the late complications of severe acute pancreatitis is pancreatic necrosis. Mortality increases when necrosis becomes infected. Antibiotics have been shown to improve patient outcomes in severe acute pancreatitis. A recent, double-blind, randomized controlled trial of 114 patients with acute necrotic pancreatitis receiving ciprofloxacin (Cipro), metronidazole (Flagyl), or placebo found no significant difference in the rate of infected pancreatic necrosis, systemic complications, or mortality.37Yet, meta-analyses of studies of acute necrotic pancreatitis conclude that prophylactic antibiotics can decrease pancreatic sepsis, mortality, extra-pancreatic infections, and surgical rates.38Because evidence is mixed on the issue of prophylactic antibiotics for necrotic pancreatitis, the aforementioned benefits must be weighed carefully with risks (e.g., adverse effects, fungal infections, drug resistance)."
+        },
+        {
+            "parent": 5,
+            "text": "Surgical debridement also may be indicated for infected necrosis. Surgery for sterile necrosis is indicated only if the patient clinically deteriorates or if there is no improvement. Surgery is usually performed no earlier than two weeks after the onset of symptoms. When compared with immediate surgery, this delay has been shown to decrease the mortality rate.9,39Surgical techniques are evolving, and ongoing research is evaluating the effectiveness of various approaches."
+        },
+        {
+            "parent": 5,
+            "text": "Figure 1is an overview and summary of the key principles and steps involved in the diagnostic evaluation, differential diagnosis, prognostic evaluations, and treatment of mild and severe acute pancreatitis.4,7–9,11,15,35"
+        }
+    ],
+    "locked": false
+}

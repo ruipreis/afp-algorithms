@@ -1,0 +1,172 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/1201/p679.html#afp20201201p679-f1",
+    "title": "Parkinson Disease | AAFP",
+    "author": "ANNE D. HALLI-TIERNEY, MD, JACQUELYNN LUKER, MD, AND DANA G. CARROLL, PharmD",
+    "doi": "Am Fam Physician.2020;102(11):679-691",
+    "abstract": "Parkinson disease is a progressive neurodegenerative disorder with significant morbidity and mortality. Most patients consult with their primary care physician about Parkinson disease symptoms before seeking care from a specialist. The diagnosis of Parkinson disease is clinical, and key disease features are bradykinesia, rigidity, and tremor. The main diagnostic signs of Parkinson disease are motor symptoms; however, Parkinson disease is also associated with nonmotor symptoms, including autonomic dysfunction, depression, and hallucinations, which can make the initial diagnosis of Parkinson disease difficult. Disease progression is variable and clinical signs cannot be used to predict progression accurately. Therapies, including levodopa, have not demonstrated the ability to slow disease progression. Motor symptoms are managed with carbidopa/levodopa, monoamine oxidase-B inhibitors, and nonergot dopamine agonists. Prolonged use and higher doses of levodopa result in dyskinesias and motor symptom fluctuations over time. Deep brain stimulation surgery is performed for patients who do not achieve adequate control with levodopa therapy. Deep brain stimulation is most effective for significant motor fluctuations, dyskinesias, and tremors. Nonmotor symptom therapies target patient-specific conditions during the disease course. Interdisciplinary team care can alleviate multiple symptoms of Parkinson disease.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pharmacologic Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "INITIAL DRUG THERAPY SELECTION FOR MOTOR SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PROGRESSIVE MOTOR SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "NONMOTOR SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Nonpharmacologic Treatment",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PHYSICAL ACTIVITY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "DIET",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "INTERPROFESSIONAL CARE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Parkinson disease is a progressive neurodegenerative disorder with significant morbidity and mortality. Approximately 60,000 people are diagnosed with Parkinson disease each year in the United States; it is the 14th leading cause of death, with most patients dying from complications of the disease.1Most patients consult with their primary care physician about Parkinson disease symptoms before seeking care from a specialist. Primary care physicians are often the most accessible to patients and caregivers coping with this disease."
+        },
+        {
+            "parent": 0,
+            "text": "Parkinson disease is characterized by a progressive loss of dopamine-producing neurons in the basal ganglia, particularly in the substantia nigra,2and development of Lewy bodies in the dopaminergic neurons. Lewy bodies are the pathologic feature of Parkinson disease.3However, Lewy bodies are nonspecific for Parkinson disease and are found in multiple neurodegenerative diseases; therefore, Parkinson disease represents a disease syndrome with different clinical subtypes.4"
+        },
+        {
+            "parent": 1,
+            "text": "The diagnosis of Parkinson disease is clinical, and key features include bradykinesia, rigidity, and tremor. The most common presenting symptom in Parkinson disease is a unilateral resting tremor, often localized to the distal muscles of the hand, causing a pill-rolling motion. Some patients note an internal tremulousness sensation before the manifestation of the pill-rolling tremor.5Rigidity usually starts on the side of the body affected by the tremor and can affect gait, contribute to muscle pain, and impair posture. Cogwheel rigidity, in which affected muscles ratchet or alternate rapidly between rigidity and relaxation when moved passively, is the most common type in Parkinson disease. A small number of patients with Parkinson disease present with lead pipe rigidity, in which affected muscles stay rigid throughout the passive motion."
+        },
+        {
+            "parent": 1,
+            "text": "The main diagnostic signs of Parkinson disease are motor symptoms; however, nonmotor symptoms are also common and debilitating. Nonmotor symptoms that often present before motor symptoms include rapid eye movement sleep disorder, depression, constipation, fatigue, and olfactory dysfunction. A large survey of patients with Parkinson disease found that almost all patients reported nonmotor symptoms, with psychiatric symptoms occurring most often.6Associated nonmotor symptoms that can occur later in the disease can include autonomic dysfunction such as orthostatic hypotension and urinary dysfunction, which can impact quality-of-life and level-of-care issues for patients. Some nonmotor symptoms such as dementia and psychosis occur with advanced Parkinson disease but are notably debilitating."
+        },
+        {
+            "parent": 1,
+            "text": "A physical examination should include assessment for decreased spontaneous or uncontrollable movements, tremors, or flat or masked facial expressions. A gait examination should assess for shuffling gait, stooped posture, en bloc turns, freezing (i.e., sudden transient arrests of movement), or postural instability. Bradykinesia, or the overall slowing of movement, includes decreased manual dexterity, shuffling steps, freezing gait, and festinating gait (i.e., involuntary gait acceleration). For a video illustrating common Parkinson disease movements, seehttps://www.youtube.com/watch?v=pFLC9C-xH8E. The neurologic examination should focus on muscle tone (e.g., cogwheel, lead pipe) and bradykinesia through rapid alternating movements testing."
+        },
+        {
+            "parent": 1,
+            "text": "Misdiagnosis often occurs because of the multiple symptoms associated with Parkinson disease and the notable clinical overlap with other diseases. Careful examination of the tremor can differentiate between Parkinson disease and other causes. Whole hand tremor is usually an essential tremor or it can be attributed to cerebellar causes. Features supporting a diagnosis of Parkinson disease are asymmetric clinical motor presentation, gradual onset, and bradykinesia. Motor symptom response to levodopa also supports the diagnosis. Insidious progression of symptoms and postural instability are hallmarks of later stages of Parkinson disease. Factors indicating another diagnosis are rapid disease progression, early or symmetric bilateral body involvement, and inadequate response to levodopa.7Although upper extremity tremor is the more common presenting symptom in Parkinson disease, the development of lower extremity tremor favors a diagnosis of Parkinson disease over essential tremor.8,9Essential tremor, progressive supranuclear palsy, drug-induced parkinsonism, and Lewy body dementia are often mistaken for Parkinson disease."
+        },
+        {
+            "parent": 3,
+            "text": "Guidelines recommend treating motor symptoms when they impact the functions of daily life or decrease quality of life.10–12Treatment options for early Parkinson disease include carbidopa/levodopa (Sinemet, Rytary), monoamine oxidase-B (MAOB) inhibitors, nonergot dopamine agonists, anticholinergic agents, or amantadine.10–12Table 1summarizes the pharmacologic management of motor symptoms in Parkinson disease.10–19First-line therapy for motor symptom management in Parkinson disease is carbidopa/levodopa because of its effectiveness in managing tremors, rigidity, and bradykinesias.10–12Levodopa is the active component that crosses the blood-brain barrier, and carbidopa inhibits peripheral metabolism of levodopa.13Levodopa is most effective when taken on an empty stomach; however, this can cause difficulty with medication tolerance.13Challenges with the prolonged use of levodopa in Parkinson disease are motor fluctuations with dyskinesias (i.e., choreiform movements) during peak medication levels and freezing or “off effects” during lower levels. Continuous use may lead to more off periods, during which Parkinson disease symptoms return because of low dopamine levels, and decreased medication effectiveness per dosing interval.14–16,20,21Patients with Parkinson disease can experience dystonia or pain from lack of levodopa or dyskinesias caused by levodopa administration.22"
+        },
+        {
+            "parent": 3,
+            "text": "One-third to one-half of patients being treated with levodopa develop dyskinesias within four to six years of initiation, and 100% experience dyskinesias after 20 years.14,15Risk factors for dyskinesias include young age at the onset of Parkinson disease, longer duration of Parkinson disease, increased disease severity, higher levodopa doses, and prolonged levodopa use.15,17,21Carbidopa/levodopa is the first-line choice for initial therapy in adults older than 65 years and patients with significant motor dysfunction at diagnosis.10–12Table 2,10–12Table 3,10–12andFigure 110–12describe treatment considerations for the management of motor symptoms in Parkinson disease."
+        },
+        {
+            "parent": 3,
+            "text": "MAOB inhibitors are considered first-line therapies in younger patients and those with mild motor symptoms at diagnosis.10–12,21MAOB inhibitors (i.e., selegiline [Zelapar], rasagiline [Azilect], and safinamide [Xadago]), and nonergot dopamine agonists (i.e., pramipexole [Mirapex], ropinirole [Requip XL], and rotigotine [Neupro]) are not as effective as carbidopa/levodopa for motor symptoms, but they do not cause the motor fluctuations and dyskinesias associated with levodopa.14Physicians should be aware of possible serotonin syndrome when using MAOB inhibitors with other serotonergic agents. Selective MAOB inhibitors are less likely to cause serotonin syndrome than are nonselective MAOB inhibitors. Rasagiline is the preferred MAOB inhibitor because of its safety profile.14,16[corrected]"
+        },
+        {
+            "parent": 3,
+            "text": "Nonergot dopamine agonists may be more effective for the management of motor symptoms than MAOB inhibitors, but they have a higher likelihood of causing somnolence, hallucinations, and impulse control disorder. Patients with psychiatric disorders should avoid dopamine agonists if possible. All nonergot dopamine agonists have similar effectiveness and adverse effect profiles; therefore, drug selection is based on cost, insurance coverage, and the preferred administration route. Ergot dopamine agonists (i.e., bromocriptine [Parlodel]) should be avoided in Parkinson disease management because of the association with pulmonary fibrosis and heart valve issues.14,16"
+        },
+        {
+            "parent": 3,
+            "text": "Anticholinergic agents (i.e., benztropine and trihexyphenidyl) and amantadine can be initial therapy for patients younger than 65 years with tremors only. Because of significant adverse effects and limited effectiveness, these medications are reserved for certain patients with early Parkinson disease.16,20"
+        },
+        {
+            "parent": 4,
+            "text": "Multiple medications are needed to manage motor symptoms as Parkinson disease progresses. Medications are typically added to the existing regimen unless there is a concern for adverse effects with medications such as dopamine agonists in older adults and anticholinergics. Medication selection or adjustment depends on symptoms, patient characteristics (e.g., preexisting psychosis or hallucinations, depression, impulse control disorder, hypotension), and preferences.MAOB inhibitors, dopamine agonists, and carbidopa/levodopa are added to initial therapy for motor symptom management with disease progression.10–14,20After either an MAOB inhibitor or a dopamine agonist is initiated, the other may be added before levodopa to minimize motor fluctuations and dyskinesias. As motor symptoms progress, levodopa should be considered to minimize symptom burden and maximize quality of life.10–12"
+        },
+        {
+            "parent": 4,
+            "text": "Levodopa should be adjusted to address progressive motor symptoms through increasing doses (i.e., administer lowest doses possible to manage symptoms) or adding dosing intervals; however, when dopamine agonists or catecholO-methyltransferase (COMT) inhibitors are added, levodopa doses should be decreased up to 30% to minimize adverse effects.10–12Immediate-release carbidopa/levodopa is preferred because of more predictable pharmacokinetics and product availability. Controlled-release products may be considered for certain patients who have difficulty adhering to frequent dosing intervals. However, higher doses are usually needed for controlled-release formulations compared with immediate-release formulations because of erratic pharmacokinetics, resulting in dyskinesias, freezing, and off periods.2Rytary is an immediate-release/extended-release product with a more consistent extended-release profile than older controlled-release formulations.18"
+        },
+        {
+            "parent": 4,
+            "text": "Several medications can be added to manage the effects of levodopa during off periods.10–12,14–16,21MAOB inhibitors, dopamine agonists, or COMT inhibitors may be added to levodopa if not already prescribed. One agent from each class should be added in a stepwise approach. The preferred COMT inhibitor is carbidopa/entacapone/levodopa (Stalevo) because of the safety profile and product availability.15One agent in the COMT inhibitor class, tolcapone, is associated with fulminant hepatic failure; use should be limited.18Istradefylline (Nourianz) is the newest drug on the market for the treatment of off-period effects."
+        },
+        {
+            "parent": 4,
+            "text": "In patients with advanced Parkinson disease who are experiencing wearing-off effects and are unresponsive to treatment, administering carbidopa/levodopa with an intrajejunal pump may be helpful. Pump therapy is reserved for patients experiencing more off effects and dyskinesias to carbidopa/levodopa over time because of the higher cost and complexity of administration."
+        },
+        {
+            "parent": 4,
+            "text": "For patients experiencing freezing episodes, several options exist such as apomorphine (Apokyn) subcutaneous injections, inhaled carbidopa/levodopa, and low-dose immediate-release carbidopa/levodopa. Apomorphine works quickly to resolve freezing but is poorly tolerated secondary to severe nausea, vomiting, and orthostasis. Inhaled carbidopa/levodopa is better tolerated than apomorphine but has a slower onset. Apomorphine and inhaled carbidopa/levodopa are costly. Immediate-release carbidopa/levodopa is well-tolerated and affordable but takes much longer to resolve freezing."
+        },
+        {
+            "parent": 4,
+            "text": "If levodopa-associated dyskinesias become too disruptive, the first approach should be to decrease the dose of levodopa or the dopamine agonist.21However, decreased dosing often leads to more significant waning effects, which may require more frequent administration.Other options for the management of dyskinesias include changing levodopa administration to a pump during the day or adding amantadine.10–12,21,23The adverse effect profile of amantadine can limit its long-term use.23"
+        },
+        {
+            "parent": 5,
+            "text": "Unfortunately, the evidence base for managing nonmotor symptoms is limited.11,20,24–26Table 4summarizes the most common nonmotor symptoms and potential therapies to consider when treating a patient with Parkinson disease.11,24–26Nonmotor symptoms of Parkinson disease should be reviewed and addressed at each visit.24"
+        },
+        {
+            "parent": 7,
+            "text": "Deep brain stimulation (DBS) is the surgical implantation of an intracranial electrode device in the subthalamic nucleus or the globus pallidus interna.15DBS should be used for patients who do not achieve adequate control of symptoms with levodopa. DBS is most effective for patients with significant motor fluctuations, dyskinesias, and tremors.27,28Earlier referral is useful for patients with severe symptoms. DBS is not ideal for patients with dementia, untreated depression, severe postural instability, and atypical Parkinson disease.16Potential adverse effects of DBS include stroke; infection; cognition changes; changing or worsening psychological symptoms; impacts on speech, gait, and vision; and new-onset parasthesias.15"
+        },
+        {
+            "parent": 8,
+            "text": "Patients should be encouraged to be physically active to their functional ability because exercise has been shown to improve functionality and motor skills.15Community-based classes designed for patients with Parkinson disease, such as boxing programs and Parkinson disease–specific speech therapy programs, can help improve quality of life and possibly slow disease progression. Adequate hydration is necessary to avoid the common symptom of constipation."
+        },
+        {
+            "parent": 9,
+            "text": "Patients with Parkinson disease are at higher risk of sarcopenia and osteoporosis.16Levodopa should be administered at least 30 to 45 minutes before a high-protein meal because levodopa competes with amino acids in the gut for transport to the brain.13Adequate amounts of vitamin D and calcium should be consumed in the diet or via supplementation. Adequate protein and calorie intake can be difficult because of feeding challenges associated with tremors and rigidity, and decreased appetite from delayed gastrointestinal transit. At this time no data show that antioxidants are useful for the treatment of Parkinson disease.29"
+        },
+        {
+            "parent": 10,
+            "text": "Patients with Parkinson disease often require an interprofessional care team to provide comprehensive care throughout the various stages of disease. Care from a multidisciplinary team improves motor scores and quality of life, and lowers depression scores.30In addition to the patient's primary care physician and neurologist, members of the care team may include a social worker, physical therapist, occupational therapist, psychologist, pharmacist, dietitian, and speech therapist14(eTable A)."
+        },
+        {
+            "parent": 11,
+            "text": "Parkinson disease progression is variable, and there is currently no available method to predict how it will progress. No therapies, including levodopa, have demonstrated the ability to slow progression.14,20A 2012 study showed approximately 77% of patients had poor outcomes (i.e., death, postural instability, or dementia) 10 years after disease onset.31The transition from disease impairment (i.e., difficulty with activities but maintaining independence) to disability (i.e., loss of independence) happens between three and seven years after the onset of Parkinson disease.32Risk factors for rapid motor function decline include advanced age and bradykinesia or rigidity as presenting symptoms. A prominent tremor at presentation may predict slower disease progression rates.7Indicators of limited life expectancy and hospice eligibility for patients with Parkinson disease include swallowing issues, aspiration pneumonia, and weight loss attributed to anorexia and difficulty feeding.19The prevalence of dementia in Parkinson disease is 40% and increases with the duration of disease and age of onset. Psychosis, most commonly auditory and visual hallucinations, and paranoid delusions occur in 20% to 40% of patients with Parkinson disease and are the most influential risk factors for a patient's placement in a nursing home.33"
+        },
+        {
+            "parent": 11,
+            "text": "This article updates previous articles on this topic byYoung34;Rao, et al.35; andGazewood, et al.7"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:A PubMed search was completed using the key terms Parkinson disease, motor symptoms, nonmotor symptoms, dyskinesias, and motor fluctuations. The search included randomized controlled trials, clinical trials, reviews, meta-analyses, case reports, and evidence-based guidelines. Also searched were Essential Evidence Plus, the Cochrane database, UpToDate, DynaMed, the National Institute for Health and Care Excellence, the American Academy of Neurology, and International Parkinson and Movement Disorder Society guideline recommendations. Search dates: August 19, September 9, October 7, and November 18, 2019; and June 26, 2020."
+        }
+    ],
+    "locked": false
+}

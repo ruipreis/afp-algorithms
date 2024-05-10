@@ -1,0 +1,147 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/1115/p1138.html#afp20111115p1138-f1",
+    "title": "Chronic Kidney Disease: Detection and Evaluation | AAFP",
+    "author": "MARGARET BAUMGARTEN, MD, AND TODD GEHR, MD",
+    "doi": "Am Fam Physician.2011;84(10):1138-1148",
+    "abstract": "Chronic kidney disease affects an estimated 27 million adults in the United States, and is associated with significantly increased risk of cardiovascular disease and stroke. Patients should be assessed annually to determine whether they are at increased risk of developing chronic kidney disease based on clinical and sociodemographic factors. Diabetes mellitus, hypertension, and older age are the primary risk factors that warrant screening. Other risk factors include cardiovascular disease, family history of chronic kidney disease, and ethnic and racial minority status. Serum creatinine levels can be used to estimate the glomerular filtration rate, and spot urine testing can detect proteinuria. After the diagnosis of chronic kidney disease is made, staging based on estimated glomerular filtration rate determines prognosis, evaluation, and management. Further evaluation should focus on the specific type of kidney disease and on identifying complications related to the disease stage. Patients should be assessed for risk factors leading to the further loss of kidney function and cardiovascular disease. Patients with estimated glomerular filtration rates less than 30 mL per minute per 1.73 m2, significant proteinuria, or rapid loss of kidney function should be referred to a nephrologist for further evaluation and management.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Detection of CKD",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "INDICATIONS FOR SCREENING",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "SCREENING TESTS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ESTIMATING GFR",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Markers of Kidney Damage",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "PROTEINURIA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ALBUMINURIA",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OTHER MARKERS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CKD Staging",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Evaluation of CKD",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Indications for Nephrology Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Chronic kidney disease (CKD) affects an estimated 27 million adults in the United States and is associated with increased mortality, morbidity, and health care costs.1,2CKD is also associated with significantly increased risks of cardiovascular disease3and stroke.4The incidence and prevalence of CKD among U.S. adults have increased dramatically since 1991.5More than 500,000 Americans were treated for end-stage renal disease in 2007.6The increases are partly explained by the increasing prevalence of diabetes mellitus and hypertension, the leading risk factors for CKD. Awareness of CKD among patients has modestly increased in recent years, but remains low. According to the 2003–2004 National Health and Nutrition Examination Survey, less than 5 percent of patients with stage 1 or 2 CKD and less than 10 percent with stage 3 reported having been diagnosed with CKD; only 45 percent of patients with stage 4 were aware of their condition.7Although clinical laboratories report estimated glomerular filtration rate (GFR) directly to physicians, CKD recognition remains low.8In 2002, the National Kidney Foundation's Kidney Disease Outcomes Quality Initiative published practice guidelines to help primary care physicians identify patients with early CKD and improve health outcomes.9"
+        },
+        {
+            "parent": -1,
+            "text": "CKD is defined by the presence of structural or functional abnormalities of the kidney with or without an accompanying reduction in GFR. Persons with CKD may have one or more of the following: pathologic abnormalities, markers of kidney damage (i.e., imaging abnormalities and abnormalities in serum or urine, including proteinuria and abnormal urinary sediment), or GFR less than 60 mL per minute per 1.73 m2for at least three months. If the duration of the abnormality is unknown, the possibility of acute kidney injury should be considered and appropriate evaluation performed for reversible causes. Most persons who have received kidney transplants are considered to have CKD."
+        },
+        {
+            "parent": 1,
+            "text": "Annual CKD screening is recommended by the American Diabetes Association,10by the National Kidney Foundation for patients at risk,9,11by the Joint National Committee on Hypertension12for patients with diabetes and hypertension, and by the American Heart Association for patients with cardiovascular disease.13The U.S. Preventive Services Task Force has not examined the evidence or made recommendations for screening. Cardiovascular disease, a family history of CKD, and ethnic or racial minority status do not significantly increase the risk of CKD in adults older than 60 who have diabetes and hypertension.14Risk factors are listed inTable 1.9"
+        },
+        {
+            "parent": 2,
+            "text": "CKD is typically detected by measuring serum creatinine levels to calculate the GFR and by measuring the urinary albumin/creatinine ratio to detect proteinuria.15Although the most common causes of CKD are diabetes and hypertension(Table 29,16), the disease can be caused by many other conditions. Urinalysis can detect signs of glomerulonephritis, tubulointerstitial disease, vasculitis, hereditary nephritis, and lupus nephritis; however, it is not routinely recommended in otherwise healthy patients."
+        },
+        {
+            "parent": 3,
+            "text": "The GFR is the best measure of kidney function. Normal GFR varies by age, sex, and body size. GFR is approximately 120 to 130 mL per minute per 1.73 m2in young adults, and decreases by an average of 1 mL per minute per 1.73 m2per year after 30 years of age.9A GFR less than 60 mL per minute per 1.73 m2represents a loss of at least one-half of normal kidney function; below this level, there is an increased prevalence of CKD complications."
+        },
+        {
+            "parent": 3,
+            "text": "Creatinine clearance is used to estimate the GFR. Because creatinine is filtered and secreted by the proximal tubules, the creatinine clearance exceeds the GFR. Generation of creatinine is determined by muscle mass and diet, whereas tubular secretion could be decreased by the use of medications such as trimethoprim and cimetidine (Tagamet)."
+        },
+        {
+            "parent": 3,
+            "text": "The serum creatinine level is an insensitive marker of GFR early in the course of CKD. A 33 percent decrease in GFR may raise the creatinine level from 0.8 to only 1.2 mg per dL (70.72 to 106.08 μmol per L). If the prior creatinine level is not known, this decrease in GFR may go unrecognized. When estimated GFR is suspected to be inaccurate—for example, in patients with severe malnutrition or paraplegia—a 24-hour urine collection should be performed to evaluate creatinine clearance."
+        },
+        {
+            "parent": 3,
+            "text": "Three equations are typically used to estimate GFR: the Cockcroft-Gault equation,17the Modification of Diet in Renal Disease (MDRD) equation,18and the more accurate Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI)19formula(Table 3).17–19The Cockcroft-Gault equation systematically overestimates GFR. The MDRD is reasonably accurate in patients with CKD, but it underestimates GFR when it is greater than 60 mL per minute per 1.73 m2, and it may misidentify persons with normal kidney function as having CKD. The MDRD can also be affected by fluctuations in creatinine production and fluid balance; it gives falsely elevated estimated GFRs in malnourished and overhydrated patients and falsely decreased GFRs due to increased serum creatinine levels in patients taking trimethoprim and cimetidine.20The CKD-EPI formula provides better GFR estimation in patients with reduced and normal kidney function.19In a recent study, the CKD-EPI was found to be the most accurate formula in estimating GFR.21"
+        },
+        {
+            "parent": 5,
+            "text": "Proteinuria refers to increased excretion of any urinary protein, including albumin and other serum proteins (tubular proteins). A normal urinary protein/creatinine ratio is less than 200 mg per g; proteinuria is a predictor of total mortality and CKD progression, and can help determine the type of CKD. A normal urinary albumin/creatinine ratio is less than 30 mg per g. Patients with albumin/creatinine ratios of 30 to 300 mg per g are classified as having microalbuminuria, and those with ratios greater than 300 mg per g are classified as having macroalbuminuria.10,11"
+        },
+        {
+            "parent": 5,
+            "text": "Urine dipstick testing is insensitive for the measurement of small amounts of albumin and is not recommended for CKD screening in patients at risk. This test is positive when a large amount (greater than 500 to 1,000 mg per day) of protein is excreted. Patients with positive urine dipstick results should repeat the test in the absence of urinary tract infection, ketosis, and hypovolemia. If the second result is positive, the urinary protein/creatinine ratio should be obtained within three months. Persistent proteinuria can be diagnosed by two positive protein/creatinine ratios one to two weeks apart.9Diabetes, the leading cause of nephrotic syndrome in the United States, is diagnosed when the protein/creatinine ratio is greater than 3,000 mg (3.0 g) per g."
+        },
+        {
+            "parent": 6,
+            "text": "Albumin is a sensitive marker of CKD caused by diabetes, hypertension, and glomerular diseases. Microalbuminuria was the most common abnormality associated with the diagnosis of stages 1 and 2 CKD in the National Health and Nutrition Examination Survey.5Microalbuminuria is an inherent part of the diabetes disease process but also can be present with nonrenal conditions (e.g., obesity, inflammation, cancer).22Microalbuminuria may indicate increased vascular permeability rather than kidney injury.23"
+        },
+        {
+            "parent": 6,
+            "text": "Patients with diabetes and microalbuminuria who progress to macroalbuminuria are more likely to progress to end-stage renal disease. Diabetic kidney disease can be diagnosed based on the urinary albumin/creatinine ratio, duration of diabetes, and presence of diabetic retinopathy(Table 4).11When albuminuria reaches the range of macroalbuminuria, albumin becomes the dominant urinary protein, and the advantage of measuring albuminuria over proteinuria is generally lost.9Two out of three abnormal readings are required to confirm persistent albuminuria(Figure 1).9,15,24"
+        },
+        {
+            "parent": 7,
+            "text": "Other markers of kidney damage include hematuria, cellular casts, serum markers, and imaging abnormalities. Clinical judgment based on the assessment of CKD risk factors should be used to determine if measurement of other markers of kidney damage is indicated."
+        },
+        {
+            "parent": 8,
+            "text": "Staging is an important step for determining the prognosis, evaluation, and management of CKD. Staging is based on the level of estimated GFR, irrespective of diagnosis(Table 5).9Markers of kidney damage are required for stages 1 and 2. Using the current classification system, nearly 50 percent of U.S. adults older than 70 years have stage 3 CKD, and most have no evidence of albuminuria.5Older patients with stage 3 CKD without proteinuria and stable creatinine levels on repeat testing at three to six months are unlikely to progress to end-stage renal disease and do not have increased mortality risk. Physicians may choose to defer further evaluation in such patients, avoid the use of nephrotoxic medications(Table 625), and adjust the dosages of those that are excreted by the kidneys20(Table 79,26)."
+        },
+        {
+            "parent": 8,
+            "text": "CKD staging does not include risk-modifying parameters such as degree of albuminuria, age, sex, and cardiovascular risk factors. Revised guidelines, currently under development, will address those issues."
+        },
+        {
+            "parent": 9,
+            "text": "A thorough initial investigation includes determining the etiology and type of CKD and evaluating for comorbidities. The patient and family histories, physical examination, and blood pressure and weight measurements are the most valuable parts of the CKD evaluation(Table 8).9,27,28Laboratory tests should include measurement of serum electrolytes and glucose, and a fasting lipid panel. Urinalysis should be performed to evaluate urinary sediment and the urinary albumin/creatinine or protein/creatinine ratio9(Table 99,11,29). Additional testing may be required to identify rare causes of CKD. Renal ultrasonography is recommended to evaluate kidney size and assess for possible structural abnormalities.9"
+        },
+        {
+            "parent": 9,
+            "text": "Cardiovascular disease risk assessment—especially smoking status and lipid levels—is important because death is more likely than progression to dialysis in any stage of CKD.9Electrocardiography is recommended to identify left ventricular hypertrophy."
+        },
+        {
+            "parent": 9,
+            "text": "Patients with an estimated GFR of less than 60 mL per minute per 1.73 m2require further evaluation to assess for complications. Evaluation for anemia is recommended in women with hemoglobin levels less than 12 g per dL (120 g per L) and in men with levels less than 13.5 g per dL (135 g per L), in addition to nutritional assessment and evaluation for bone disease(Table 10).9,30,31"
+        },
+        {
+            "parent": 9,
+            "text": "Short-term risks of GFR reduction (e.g., volume depletion, urinary tract obstruction, use of nephrotoxic agents) require immediate recognition to prevent irreversible deterioration of renal function. High cumulative exposure to nonsteroidal anti-inflammatory drugs is associated with rapid progression of CKD.32Acetaminophen is the analgesic of choice for short-term treatment of mild to moderate pain in patients with stage 3 to 5 CKD.33Nonsteroidal anti-inflammatory drugs may be used in patients with stage 3 CKD for short-term therapy with regular renal function monitoring.33"
+        },
+        {
+            "parent": 10,
+            "text": "Nephrology consultation is indicated when the estimated GFR is less than 30 mL per minute per 1.73 m2, or earlier if necessary(Table 11).9,15Partnership between primary care physicians and nephrologists is key to successful CKD management. The National Kidney Foundation's suggested multidisciplinary clinical action plan for CKD is available at http://www.kidney.org/professionals/KDOQI/cap.cfm."
+        }
+    ],
+    "locked": false
+}

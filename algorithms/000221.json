@@ -1,0 +1,209 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0715/p87.html#afp20170715p87-f1",
+    "title": "Epilepsy: Treatment Options | AAFP",
+    "author": "GERALD LIU, MD, NICOLE SLATER, PharmD, AND ALLEN PERKINS, MD, MPH",
+    "doi": "Am Fam Physician.2017;96(2):87-96",
+    "abstract": "The occurrence of a single seizure does not always require initiation of antiepileptic drugs. Risk of recurrent seizures should guide their use. In adults, key risk factors for recurrence are two unprovoked seizures occurring more than 24 hours apart, epileptiform abnormalities on electroencephalography, abnormal brain imaging, nocturnal seizures, or an epileptic syndrome associated with seizures. In children, key risk factors are abnormal electroencephalography results, an epileptic syndrome associated with seizures, severe head trauma, and cerebral palsy. The risk of adverse effects from antiepileptic drugs is considerable and includes potential cognitive and behavioral effects. In the absence of risk factors, and because many patients do not experience recurrence of a seizure, physicians should consider delaying use of antiepileptic drugs until a second seizure occurs. Delaying therapy until a second seizure does not affect one- to two-year remission rates. Treatment should begin with monotherapy. The appropriate choice of medication varies depending on seizure type. Routine monitoring of drug levels is not correlated with reduction in adverse effects or improvement in effectiveness and is not recommended. When patients have been seizure free for two to five years, discontinuation of antiepileptic drugs may be considered. For patients with seizures that are not controlled with these agents, alternative treatments include surgical resection of the seizure focus, ketogenic diets, vagus nerve stimulators, and implantable brain neurostimulators. Patients who have had a recent seizure within the past three months or whose seizures are poorly controlled should refrain from driving and certain high-risk physical activities. Patients planning for pregnancy should know that antiepileptic drugs are possibly teratogenic.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Decision to Begin Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "ADULTS AT HIGH RISK OF RECURRENCE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ADULTS AT LOW RISK OF RECURRENCE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SUDDEN UNEXPECTED DEATH IN EPILEPSY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Pharmacotherapy",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "DRUG SELECTION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MONITORING ANTIEPILEPTIC DRUG LEVELS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "TREATMENT GOALS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Surgical Intervention",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Other Approaches to Treatment",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Further Considerations",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "CONTRACEPTION AND PREGNANCY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "SCREENING FOR COGNITIVE IMPAIRMENT",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "DRIVING",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "PHYSICAL ACTIVITY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The lifetime risk of developing epilepsy is 3.9%, with males having a slightly higher risk.1However, because many persons (particularly children) become seizure free, at any given time epilepsy affects less than 1% of the U.S. population, with a disproportionate impact on infants and older adults.2Total annual health care costs associated with epilepsy are an estimated $15.5 billion.3Illness-related absences from work or school occur more commonly in patients with epilepsy, further increasing the economic burden.4"
+        },
+        {
+            "parent": -1,
+            "text": "A single seizure may occur for a number of reasons and is not necessarily diagnostic of epilepsy.5Although diagnosis of epilepsy requires the occurrence of at least one epileptic seizure, predisposing factors to recurrent seizures must also be present.5"
+        },
+        {
+            "parent": -1,
+            "text": "Seizures are typically characterized as generalized (tonic-clonic, involving both hemispheres and multiple structures) or focal. Focal seizures are limited to one hemisphere and may be discretely localized or more widely distributed. Further seizure classification can be found inTable 1.6–11"
+        },
+        {
+            "parent": 0,
+            "text": "Diagnosis of epilepsy is dependent on history, physical and neurologic examination, laboratory testing as indicated, and electroencephalography and neuroimaging findings. The history should include events directly preceding the seizure, number of seizures in the past 24 hours, length and description of the seizure, focal aspects, and length of the postictal period. The need for laboratory testing is based on clinical context and may include blood glucose, blood counts, electrolyte panels (particularly sodium), lumbar puncture in febrile patients, and urine toxicology(Figure 1). Electroencephalography should be used to confirm, but not to exclude, a diagnosis of epilepsy.12,13Evaluation of a patient who has experienced a first seizure has previously been reviewed, including inAmerican Family Physician.12–14"
+        },
+        {
+            "parent": 1,
+            "text": "The occurrence of a single seizure does not always require initiation of antiepileptic drug (AED) therapy, and the decision to initiate long-term therapy should be made in consultation with a physician who specializes in seizure management. Referral for any unexplained initial seizure, especially when high-risk characteristics are identified or multiple seizures occur, is reasonable to help determine the risk of recurrence and the risks and benefits of treatment as opposed to watchful waiting.8,15"
+        },
+        {
+            "parent": 2,
+            "text": "Adults at high risk of recurrent seizures should receive AED therapy. High-risk characteristics include two unprovoked seizures occurring more than 24 hours apart; one unprovoked seizure and an assessment that predicts an increased probability of further seizures based on underlying cause and seizure characteristics; or a diagnosis of an epilepsy syndrome in which recurrent seizures are a prominent feature (http://www.epilepsy.com/learn/types-epilepsy-syndromes). Epileptiform abnormalities on electroencephalography also predict a high risk of recurrence (60% over 10 years), as does abnormal brain imaging or a nocturnal seizure.8–10,15–18Adults should be counseled that the cumulative risk of a recurrent seizure after a first unprovoked seizure is approximately 50% over five years, with one-third of the risk accruing in the first year. In persons 65 years and older, the risk of recurrence following a first unprovoked seizure is 53% within one year (lifetime risk is 80%).16Initiating AED therapy after the first seizure decreases the absolute risk of recurrence by 35% over the next two years. AED therapy is almost always indicated after two unprovoked seizures occurring more than 24 hours apart because of the high recurrence rate (32% at three months, 57% at one year, 73% at four years). AEDs may not improve quality of life and prognosis for sustained seizure remission. The risk of an adverse effect from an AED ranges from 7% to 31%.16–18"
+        },
+        {
+            "parent": 3,
+            "text": "In adults who have had a single seizure and who lack high-risk characteristics, delaying AED therapy until a second seizure does not affect one- to two-year seizure remission rates. AEDs are associated with significant adverse effects, including subtle cognitive and behavioral effects occurring in up to 50% of treated patients; therefore, delaying their use until a second seizure is reasonable.16"
+        },
+        {
+            "parent": 4,
+            "text": "With the exception of children with febrile seizures, the risk of a recurrent seizure after a first unprovoked seizure is more than 20% in the first year and more than 50% at 10 years. One in five children who have had a nonfebrile seizure will have four or more seizures, and one in 10 will have 10 or more seizures.19Predictors of recurrence include abnormal electroencephalography results, the presence of a syndrome predisposing to seizures, and an etiology such as severe head trauma or cerebral palsy."
+        },
+        {
+            "parent": 4,
+            "text": "In the absence of such risk factors, there is generally no difference in one- to two-year seizure remission rates between starting AED therapy after the first childhood seizure and starting it after a second seizure. Additionally, the risk of an adverse effect associated with treatment is considerable—as high as 50% in some studies—and includes subtle cognitive and behavioral effects.19In the absence of relevant risk factors, AED therapy is not indicated after a first unprovoked childhood seizure. Such treatment is reasonable, however, in children with relevant risk factors if the benefits of reducing the risk of a second seizure are thought to outweigh the risks of an adverse effect.19"
+        },
+        {
+            "parent": 5,
+            "text": "Early initiation of AED therapy may reduce the risk of sudden unexpected death in epilepsy (SUDEP), which is death in a person with epilepsy in whom no other cause of death is found. A significant risk factor for SUDEP is nocturnal seizures. Although rare in children, SUDEP is the leading cause of epilepsy-related death among young adults with uncontrolled epilepsy, occurring in nine per 1,000 persons with epilepsy overall, but as many as one in 150 persons with poor seizure control.20,21The risk of SUDEP can be decreased by optimizing seizure control.22,23"
+        },
+        {
+            "parent": 7,
+            "text": "Choice of AED should be individualized in consultation with a neurologist, and based on factors such as seizure type, presence of an epilepsy syndrome, other medications, comorbidities, lifestyle, and patient preference. Quality of evidence and treatment recommendations vary among seizure types(Table 16–11)."
+        },
+        {
+            "parent": 7,
+            "text": "Monotherapy with all indicated AEDs should be attempted before initiating combination therapy.8,10,24Although each AED has its own unique adverse effect profile, effects on the central nervous system are prominent and can affect quality of life(Table 2).10,13,24,25"
+        },
+        {
+            "parent": 8,
+            "text": "Routine monitoring of AED levels does not reduce adverse effects or improve effectiveness and is not recommended. Clinical indications for monitoring AED levels include establishment of individual therapeutic concentrations when desired clinical outcomes have been reached, diagnosing clinical toxicity, assessing compliance, and guiding dosage adjustment in situations with increased pharmacokinetic variability (e.g., in children or in patients who are very old, when drug formulation changes occur, during pregnancy).13,26,27"
+        },
+        {
+            "parent": 9,
+            "text": "Treatment goals, medication adherence, and adverse effects of AEDs should be reviewed at least annually with attention to seizure frequency, medication effects, preconception counseling, if indicated, and the need for referral to specialized centers for persistent symptoms.28Discontinuation of AEDs can be considered in children with focal seizures once they have been seizure free for two years on monotherapy, and for children with all other seizure types after they have been seizure free for five years on monotherapy. Plans for discontinuation should be developed and executed in consultation with a neurologist.13,29"
+        },
+        {
+            "parent": 10,
+            "text": "Up to 30% of patients with epilepsy can have medically refractory epilepsy. These patients have continued seizures despite appropriate AED therapy.30Surgical resection of the seizure focus in appropriately selected patients often results in decreased frequency or elimination of seizures with improvement in quality of life. Seizure freedom is achieved in up to 76% of patients after resection.31"
+        },
+        {
+            "parent": 10,
+            "text": "Factors associated with seizure freedom after surgery include seizures without loss of consciousness, complete or extensive resection of the lesion, and prolonged febrile seizures. The possibility of recurrence decreases with increasing postoperative seizure-free intervals. Factors associated with postoperative recurrence include nonlesional (non-structural) epilepsy, normal magnetic resonance imaging, preoperative generalized tonic-clonic seizures, and infantile spasms or tonic seizures. Also, the need for invasive intracranial electroencephalography monitoring to determine seizure focus predicts a worse outcome.31"
+        },
+        {
+            "parent": 10,
+            "text": "Cognitive deficits are common following surgery and depend on the site of the resection. Left temporal lobe resection is associated with verbal memory deficits (44%) and naming deficits (34%). After a right temporal lobe resection, verbal memory deficits are also common (20%). Operative mortality in most centers is below 0.5%. Lower mortality is associated with procedures limited to the temporal lobe. Other adverse effects include neurologic deficits (5%), medical complications (e.g., intracerebral infection, hydrocephalus; 1.5%), cerebrospinal fluid leak (8.5%), aseptic meningitis (3.6%), and noncerebral bacterial infections (3%). Other medical problems such as hemorrhage, pneumonia, and deep venous thrombosis are uncommon (2.5%).13,21,32"
+        },
+        {
+            "parent": 11,
+            "text": "Nonpharmacologic approaches may be useful adjuncts in patents with difficult-to-control seizures or who find medication difficult to tolerate. They require a team-based approach for implementation."
+        },
+        {
+            "parent": 11,
+            "text": "The ketogenic diet, a high-fat, low-carbohydrate, and low-protein diet, induces ketone body formation. Proponents claim a 10% seizure-free rate and seizure-reduction rates of up to 60%. Supporting evidence is of poor quality. The many adverse effects include gastrointestinal symptoms (vomiting, constipation, diarrhea, abdominal pain), metabolic abnormalities (hyperuricemia, hypocalcemia, hypomagnesemia, decreased amino acid levels, acidosis), renal calculi, and cardiac abnormalities (cardiomyopathy and prolonged QT interval).13,33,34"
+        },
+        {
+            "parent": 11,
+            "text": "Vagus nerve stimulation may increase seizure-free time in patients with medically refractory epilepsy who are not candidates for surgery or in whom surgery has been ineffective. It is approved by the U.S. Food and Drug Administration for use in persons older than 12 years. In this procedure, a battery-powered vagus nerve stimulator is implanted with the leads around the left vagus nerve and attached to a programmable pacemaker. The exact mechanism of action is unclear but likely due to vagal afferent activity that suppresses the electrical circuits in the brain that lead to seizures.13,35–38"
+        },
+        {
+            "parent": 11,
+            "text": "Responsive neurostimulation is another approach to treating medically refractory partial-onset seizures. This recently approved system is different from the vagus nerve stimulator in that the leads are implanted directly into the seizure-onset zone, which may be cortical or subcortical. In response to abnormal electrical activity, the neurostimulator delivers electrical stimulation to the target seizure-onset zone. Adverse effects include implant site pain, implant site infection, headache, and dysesthesia.39,40"
+        },
+        {
+            "parent": 11,
+            "text": "Complementary and alternative therapies such as acupuncture, traditional Chinese medicine, cannabinoids, melatonin, vitamin supplementation, and yoga have been investigated, but none have sufficient evidence.41–47"
+        },
+        {
+            "parent": 13,
+            "text": "Women of childbearing age should be counseled, in consultation with a neurologist, about the potential decrease in effectiveness of AEDs when using estrogen-based contraception and offered alternative contraceptive methods. The potential teratogenicity of AEDs, potential adverse neurodevelopmental outcomes, and the potential increased risk of complications during pregnancy and labor should also be discussed, and genetic counseling offered before conception.8,47–50The incidence of major birth defects among infants born to women receiving AED monotherapy is 4% to 7%, almost twice the rate observed in the general population.3,13,48–51"
+        },
+        {
+            "parent": 14,
+            "text": "Self-management education increases adherence and reduces seizure frequency in patients who are capable of medication self-management.13,52,53Cognitive impairment and mood disorders have a high prevalence in epilepsy; screening for these and other mental health issues is recommended at diagnosis.54"
+        },
+        {
+            "parent": 15,
+            "text": "Patients should be counseled not to drive until they have been seizure free for at least three months.55,56Most states mandate a seizure-free period (three to 12 months) before resuming driving; some require physicians to report the diagnosis or treatment of epilepsy to the licensing agency. A database of driving laws related to seizure disorders is available athttp://www.epilepsy.com/driving-laws. Physicians should routinely check with their state licensing agency for accurate and current information."
+        },
+        {
+            "parent": 16,
+            "text": "Patients with epilepsy should be encouraged to participate in physical activity and sports. Regular physical activity, in addition to providing cardiovascular and psychological benefits, may decrease seizure frequency.57Patients may participate in most sports, including bicycling, contact sports, and swimming, assuming seizures are well controlled and supervision is available. High-risk sports where a seizure may result in severe injury or death, such as hang-gliding, scuba diving, and free climbing, are not recommended.58Information about sports activities for children with epilepsy is available athttp://www.epilepsy.com/learn/seizures-youth/about-kids/playing-sports-and-other-activities."
+        },
+        {
+            "parent": 16,
+            "text": "This article updates previous articles byVélez, et al.59;Morrell60;Benbadis, et al.61; andMarks, et al.62"
+        },
+        {
+            "parent": 16,
+            "text": "Data Sources:PubMed was searched using the MeSH function and the key phrase epilepsy treatment. Meta-analyses, randomized controlled trials, clinical trials, and reviews were included. Also searched were Essential Evidence Plus, the Cochrane Database of Systematic Reviews, the U.S. Preventive Services Task Force website, and recommendations from the International League Against Epilepsy and the American Academy of Neurology. Search dates: December 15, 2015, to November 1, 2016."
+        }
+    ],
+    "locked": false
+}

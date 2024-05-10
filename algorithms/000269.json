@@ -1,0 +1,161 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0115/p121.html#afp20160115p121-f1",
+    "title": "Hypertensive Disorders of Pregnancy | AAFP",
+    "author": "LAWRENCE LEEMAN, MD, MPH, LEE T. DRESANG, MD, AND PATRICIA FONTAINE, MD, MS",
+    "doi": "Am Fam Physician.2016;93(2):121-127",
+    "abstract": "Elevated blood pressure in pregnancy may represent chronic hypertension (occurring before 20 weeks' gestation or persisting longer than 12 weeks after delivery), gestational hypertension (occurring after 20 weeks' gestation), preeclampsia, or preeclampsia superimposed on chronic hypertension. Preeclampsia is defined as hypertension and either proteinuria or thrombocytopenia, renal insufficiency, impaired liver function, pulmonary edema, or cerebral or visual symptoms. Proteinuria is not essential for the diagnosis and does not correlate with outcomes. Severe features of preeclampsia include a systolic blood pressure of at least 160 mm Hg or a diastolic blood pressure of at least 110 mm Hg, platelet count less than 100 × 103per μL, liver transaminase levels two times the upper limit of normal, a doubling of the serum creatinine level or level greater than 1.1 mg per dL, severe persistent right upper-quadrant pain, pulmonary edema, or new-onset cerebral or visual disturbances. Preeclampsia without severe features can be managed with twice-weekly blood pressure monitoring, antenatal testing for fetal well-being and disease progression, and delivery by 37 weeks' gestation. Preeclampsia with any severe feature requires immediate stabilization and inpatient treatment with magnesium sulfate, antihypertensive drugs, corticosteroids for fetal lung maturity if less than 34 weeks' gestation, and delivery plans. Preeclampsia can worsen or initially present after delivery. Women with hypertensive disorders should be monitored as inpatients or closely at home for 72 hours postpartum.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Chronic Hypertension",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Gestational Hypertension",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Preeclampsia",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HELLP Syndrome",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Eclampsia",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Postpartum Management of Preeclampsia",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hypertensive disorders affect up to 10% of pregnancies in the United States.1Elevated blood pressure (BP) in pregnancy may represent chronic hypertension (occurring before 20 weeks' gestation or persisting longer than 12 weeks after delivery), gestational hypertension (occurring after 20 weeks' gestation), preeclampsia, or preeclampsia superimposed on chronic hypertension.1National guidelines eliminate the requirement for proteinuria in the diagnosis of preeclampsia, recommend delivery at 37 weeks in women who have gestational hypertension or preeclampsia without severe features, recommend seizure prophylaxis with magnesium sulfate (MgSO4) only when preeclampsia has severe features, and call for increased awareness of postpartum hypertension risks.1"
+        },
+        {
+            "parent": -1,
+            "text": "The U.S. Preventive Services Task Force recommends that pregnant women at high risk of preeclampsia take low-dose aspirin (81 mg per day) after 12 weeks' gestation."
+        },
+        {
+            "parent": -1,
+            "text": "Delivery is generally indicated at 37 weeks' gestation for women who have gestational hypertension or preeclampsia without severe features."
+        },
+        {
+            "parent": 0,
+            "text": "Chronic hypertension is diagnosed by BP of at least 140/90 mm Hg on two occasions taken at least four hours apart at 20 weeks' gestation or earlier. Chronic hypertension is associated with preeclampsia, intrauterine growth restriction, and placental abruption. However, treating mild to moderately elevated BP does not benefit the fetus or prevent preeclampsia.2–4Overtreatment may cause adverse perinatal outcomes resulting from placental hypoperfusion,5so medication is reserved for women with BP persistently greater than 150/100 mm Hg.1,6,7Women with chronic hypertension should be monitored for intrauterine growth restriction with serial ultrasonography after fetal viability, with intervals dependent on the severity of hypertension, comorbidities, and obstetric history.1"
+        },
+        {
+            "parent": 0,
+            "text": "Methyldopa, labetalol, and nifedipine are the most commonly used oral agents to treat severe chronic hypertension in pregnancy.1Angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers are contraindicated because of their association with intrauterine growth restriction, neonatal renal failure, oligohydramnios, and death.1The beta blocker atenolol also may cause intrauterine growth restriction.1Thiazide diuretics that were used before pregnancy may be continued, but should be stopped if preeclampsia develops to avoid worsening intravascular volume depletion.8,9Women in active labor with uncontrolled severe chronic hypertension require rapid treatment, traditionally intravenous labetalol or hydralazine.9Oral nifedipine may also be used; a small randomized controlled trial showed that it induces a faster response than intravenous labetalol.9,10"
+        },
+        {
+            "parent": 1,
+            "text": "Women who develop hypertension after 20 weeks' gestation and who do not have proteinuria or other criteria for preeclampsia are diagnosed with gestational hypertension. This is a provisional diagnosis that includes women who eventually develop preeclampsia, those with unrecognized chronic hypertension (diagnosed by persistently elevated BP beyond 12 weeks postpartum), and women with transient hypertension of pregnancy. Approximately 50% of women diagnosed with gestational hypertension between 24 and 35 weeks' gestation ultimately develop preeclampsia.11Management of gestational hypertension is similar to that of preeclampsia, with expectant monitoring and labor induction at 37 weeks' gestation(Figure 1).1"
+        },
+        {
+            "parent": 2,
+            "text": "Preeclampsia is a multiorgan disease process characterized by hypertension and proteinuria or one of the following features, which are diagnostic when they develop in the setting of new-onset hypertension after 20 weeks' gestation: thrombocytopenia, renal insufficiency, impaired liver function, pulmonary edema, or cerebral or visual symptoms. The etiology is becoming clearer with our understanding of the central role of placental angiogenic proteins, which negatively affect maternal endothelial function1,12(Table 113–17). Biomarkers and risk factors are only modestly predictive18–20(Table 218,19)."
+        },
+        {
+            "parent": 3,
+            "text": "Diagnosis of preeclampsia requires a systolic BP of at least 140 mm Hg or a diastolic BP of at least 90 mm Hg on at least two occasions, taken at least four hours apart, plus new-onset proteinuria or a severe feature1(Table 321). A single severe feature in combination with hypertension is sufficient for the diagnosis. Diagnostic criteria for proteinuria include at least 300 mg of protein in a 24-hour urine sample or a urinary protein/creatinine ratio of 0.3 or greater.1Significant proteinuria is excluded if the protein/creatinine ratio is less than 0.19.22Two urine dipstick measurements of at least 1+ (30 mg per dL) taken six hours apart suggest preeclampsia-level proteinuria; however, quantitative methods are preferred. Proteinuria is not essential for diagnosis if a severe feature is present. Urinary protein levels do not correlate with outcome severity and are not considered a severe feature.1"
+        },
+        {
+            "parent": 3,
+            "text": "Severe headache, visual disturbances, and hyperreflexia may signal impending eclamptic seizure. Increasing peripheral vascular resistance or myocardial dysfunction may lead to pulmonary edema. Decreased glomerular filtration rate may progress to oliguria and renal failure. Liver manifestations include elevated transaminase levels, subcapsular hemorrhage with right upper-quadrant pain, and capsular rupture with life-threatening intraabdominal bleeding. Preeclampsia-related coagulopathies include HELLP (hemolysis, elevated liver enzymes, and low platelet count) syndrome and disseminated intravascular coagulation. Obstetric complications include intrauterine growth restriction, placental abruption, and fetal demise."
+        },
+        {
+            "parent": 4,
+            "text": "Expectant management of preeclampsia without severe features may include twice-weekly BP monitoring, weekly laboratory tests (complete blood count and monitoring of creatinine levels, alanine transaminase, and/or aspartate transaminase levels), twice-weekly fetal nonstress testing, weekly amniotic fluid indices, and fetal growth ultrasonography every three weeks.1,6Fetal umbilical artery Doppler ultrasonography is recommended if intrauterine growth restriction is present.1Seizure prophylaxis with MgSO4is not required unless severe features develop1(number needed to treat [NNT] = 400 for asymptomatic women with BP less than 160/110 mm Hg, assuming that 50% of seizures are preventable23,24). Delivery timing involves balancing the risks of prematurity against worsening preeclampsia. To improve maternal outcomes, delivery is generally indicated at 37 weeks' gestation for women who have preeclampsia without severe features.1,25,26Immediate delivery between between 34 weeks and 36 weeks, six days is not recommended because of an increase risk of neonatal respiratory distress syndrome.27"
+        },
+        {
+            "parent": 4,
+            "text": "Women who have preeclampsia with severe features require hospitalization for careful monitoring. Treatment goals are fluid management, seizure prevention, lowering BP to prevent maternal end-organ damage, and expediting delivery based on disease severity and gestational age.1Excessive fluid administration can result in pulmonary edema and ascites, whereas too little fluid can exacerbate intravascular volume depletion and end-organ ischemia. Urine output should be maintained above 30 mL per hour, and a Foley catheter should be used to monitor urine output if MgSO4is administered.28Total intravenous intake should be less than 100 mL per hour, and total combined oral and intravenous fluids should be less than 125 mL per hour.28"
+        },
+        {
+            "parent": 4,
+            "text": "MgSO4for Seizure Prophylaxis. MgSO4helps prevent eclamptic seizures (NNT = 100) and placental abruption (NNT = 100) in women who have preeclampsia with severe features.29It is more effective for preventing recurrent eclamptic seizures and decreasing maternal mortality than phenytoin (Dilantin), diazepam (Valium), or a combination of chlorpromazine, promethazine, and meperidine (Demerol).30–32BP is only mildly elevated in 30% to 60% of women with eclampsia.33Those with preeclampsia without severe features should be monitored closely, and MgSO4should be started if severe features develop1(eTable A)."
+        },
+        {
+            "parent": 4,
+            "text": "Women with normal renal function do not require routine serum magnesium testing; however, testing should be performed every six hours in those with absent reflexes, elevated creatinine levels, or decreased urine output.33Magnesium toxicity can lead to respiratory paralysis, central nervous system depression, and cardiac arrest. Vital functions are lost in a predictable sequence: if deep tendon reflexes are present, magnesium levels are rarely toxic. MgSO4infusion should be discontinued and the serum magnesium level checked immediately if deep tendon reflexes are lost, respiratory rate decreases to less than 12 breaths per minute, or urine output is less than 30 mL per hour.33Overdoses and maternal deaths have resulted from improper MgSO4administration.34The antidote for MgSO4overdose is 1 g calcium gluconate administered intravenously over two minutes.28"
+        },
+        {
+            "parent": 4,
+            "text": "Blood Pressure Management. The optimal BP for women with severe preeclampsia is unknown. Excessive lowering of BP may lead to uteroplacental insufficiency.2It is recommended that systolic BP be maintained at less than 160 mm Hg and diastolic at less than 110 mm Hg. A retrospective review of 28 women with preeclampsia who had a stroke showed that more than 90% had systolic BP greater than 160 mm Hg, and 12.5% had diastolic BP greater than 110 mm Hg, which demonstrates the importance of pharmacologic treatment when either BP threshold is reached.35Intravenous labetalol and hydralazine are commonly used for acute management and are equally effective36(eTable B). Oral nifedipine is recommended as an alternative, particularly when urgent lowering of BP is needed and intravenous access has not been achieved.1,9,36"
+        },
+        {
+            "parent": 4,
+            "text": "Expectant Management. Antenatal testing in women who have preeclampsia with severe features may include daily nonstress tests, amniotic fluid assessment, and periodic ultrasonography to assess fetal growth. Between 24 and 34 weeks' gestation, fetal lung maturity may be accelerated by the use of betamethasone (two 12-mg intramuscular doses given 24 hours apart) or dexamethasone (four 6-mg intramuscular doses given 12 hours apart).37"
+        },
+        {
+            "parent": 4,
+            "text": "Delivery route and timing are based on maternal factors (e.g., disease progression, parity, cervical examination findings) and fetal considerations (e.g., gestational age, antenatal testing).38,39Data are limited about expectant management of women who have preeclampsia with severe features between 24 and 34 weeks' gestation.40Expectant management in a hospital with perinatal and neonatology services decreases neonatal morbidity and intensive care unit stay. However, many women are not candidates for expectant management and require urgent delivery.40Delivery is indicated after maternal stabilization without waiting 48 hours after corticosteroid administration in women with resistant severe hypertension, eclampsia, pulmonary edema, abruption, or other maternal or fetal deterioration. Delivery should occur after 48 hours of antenatal corticosteroid administration in women with thrombocytopenia (platelet count less than 100 × 103per μL [100 × 109per L]), transaminase levels two times the upper limit of normal, intrauterine growth restriction (less than 5th percentile), severe oligohydramnios, umbilical artery reversed end-diastolic flow, or new or worsening renal dysfunction. If maternal and fetal conditions allow, corticosteroids should be administered to women with preeclampsia and preterm labor or rupture of membranes before 34 weeks' estimated gestational age.1"
+        },
+        {
+            "parent": 4,
+            "text": "Attempted vaginal delivery is recommended in women who have preeclampsia with severe features if it is not otherwise contraindicated.6Indications for cesarean delivery include recurrent seizures refractory to medical management, severely elevated BP that is resistant to antihypertensive medications, and maternal or fetal deterioration remote from delivery. Some experts recommend cesarean delivery in preeclamptic patients with severe features and an unfavorable cervix who require delivery before 30 weeks' gestation.37"
+        },
+        {
+            "parent": 5,
+            "text": "HELLP syndrome occurs in less than 1% of all pregnancies, but in 20% of pregnancies complicated by pre-eclampsia with severe features.1,41,42HELLP syndrome may present at term (18%), preterm (53%, including 11% before 27 weeks' gestation), or postpartum (30%).41Diagnosis is challenging because symptoms can mimic those of other illnesses.38,43Clinicians must consider HELLP syndrome in patients who do not have classic preeclampsia symptoms because 12% to 18% of women with the condition are normotensive and 13% do not have proteinuria.39Although HELLP syndrome may be considered a subtype of preeclampsia, atypical HELLP syndrome can be diagnosed without meeting the BP criteria for the diagnosis of preeclampsia.1,39Evaluation includes a complete blood count and liver transaminase testing38(eTable C). A disseminated intravascular coagulation workup (fibrinogen, prothrombin time, partial thromboplastin time) should be ordered for women with abnormal bleeding or a platelet count less than 50 × 103per μL (50 × 109per L)."
+        },
+        {
+            "parent": 5,
+            "text": "Women with HELLP syndrome should receive MgSO4from admission until 24 to 48 hours postpartum.39Platelets are indicated for those with counts less than 20 × 103per μL (20 × 109per L) before vaginal delivery or less than 50 × 103per μL before cesarean delivery or in women with abnormal bleeding. Regional anesthesia is safe when the platelet count is greater than 100 × 103per μL, but should be avoided if the count is less than 50 × 103per μL. Corticosteroids increase platelet counts in women with HELLP syndrome,44,45but they have not been shown to improve fetal or maternal outcomes except for the proven benefit on fetal lung maturation before 34 weeks' gestation."
+        },
+        {
+            "parent": 6,
+            "text": "Eclamptic seizures are a life-threatening emergency and can occur antepartum (53%), intrapartum (19%), or postpartum (28%).46Eclampsia before 20 weeks' gestation is rare in the absence of gestational trophoblastic disease. Eclampsia may be preceded by central nervous system symptoms such as headache (80%) and visual changes (45%).47However, seizures can occur without other severe features of preeclampsia and with a normal BP; 15% of women with eclampsia have a diastolic BP less than 90 mm Hg.46Eclamptic seizures are usually generalized 60- to 90-second seizures. Postictal confusion, agitation, or combativeness may follow. During an eclamptic seizure, the fetus often manifests hypoxia-related bradycardia, but usually recovers.Table 4presents principles for management of eclamptic seizures.33"
+        },
+        {
+            "parent": 7,
+            "text": "After delivery, most women with preeclampsia experience diuresis, a decrease in BP, and general improvement. The greatest risk of post-partum eclampsia is in the first 48 hours33; hypertension may worsen after delivery as third space fluid returns to the vasculature. MgSO4should be continued for 12 to 24 hours after delivery.33,37,48Inpatient observation or close home monitoring is recommended for 72 hours postpartum in women with gestational hypertension or preeclampsia.1The postpartumtreatment threshold is a systolic BP of 150 mm Hg or greater, or a diastolic BP of 100 mm Hg or greater on two occasions at least four hours apart. Women with a systolic BP of 160 mm Hg or greater or diastolic BP of 110 mm Hg or greater should be rechecked within 15 minutes, and antihypertensive treatment should be started within 60 minutes if BP is still elevated.9"
+        },
+        {
+            "parent": 7,
+            "text": "Women with hypertension that persists for more than 24 hours after delivery should not take nonsteroidal anti-inflammatory drugs because they may worsen BP.1Although data on postpartum hypertensive management are lacking,49oral nifedipine or labetalol and intravenous labetalol or hydralazine are commonly used.9,37Patients should be rechecked seven to 10 days after discharge, or earlier if symptomatic.1Preeclampsia may begin postpartum, so all women should receive information about symptoms before discharge. Preeclampsia is a risk factor for future cardiovascular disease, especially if it occurs in multiple pregnancies or is associated with intrauterine growth restriction or required delivery before 37 weeks' gestation.1Prevention or treatment of comorbidities for cardiovascular disease is recommended."
+        },
+        {
+            "parent": 8,
+            "text": "The use of low-dose aspirin (80 mg) has a small to moderate effect on the prevention of preeclampsia (NNT = 72); the effect is greatest (NNT = 19) in women at highest risk of developing preeclampsia.50The American College of Obstetricians and Gynecologists (ACOG) recommends low-dose aspirin starting in the late first trimester for women with a previous delivery before 37 weeks' gestation due to preeclampsia or in more than one previous pregnancy.1The U.S. Preventive Services Task Force (USPSTF) expands the recommendation to include women with multifetal pregnancies, chronic hypertension, type 1 or 2 diabetes mellitus, renal disease, autoimmune diseases, or several moderate risk factors.51Calcium supplementation may prevent hypertension, preeclampsia, and maternal death in high-risk women with low calcium intake, which is rare in developed countries.1,52A decision model analysis demonstrated that using the broader USPSTF criteria would decrease the rate of preeclampsia from 4.18% to 3.83% through treatment of 23.5% of women compared with a decrease to 4.17% through the treatment of 0.35% of women with the ACOG criteria.53"
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using key terms including preeclampsia, eclampsia, and gestational hypertension. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Cochrane database, UpToDate, Essential Evidence Plus, the National Guideline Clearing-house, and clinical guidelines and evidence reports from the Agency for Healthcare Research and Quality. Search date: November 15, 2014, and November 15, 2015."
+        },
+        {
+            "parent": 8,
+            "text": "This article is one in a series on “Advanced Life Support in Obstetrics (ALSO),” initially established by Mark Deutchman, MD, Denver, Colo. The coordinator of this series is Larry Leeman, MD, MPH, ALSO Managing Editor, Albuquerque, N.M."
+        },
+        {
+            "parent": 8,
+            "text": "This review updates aprevious articleon this topic by Leeman and Fontaine.54"
+        }
+    ],
+    "locked": false
+}

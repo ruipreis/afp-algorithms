@@ -1,0 +1,235 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/0701/p194.html#afp19990701p194-f1",
+    "title": "Prevention of Osteoporosis and Fractures | AAFP",
+    "author": "PAUL ULLOM-MINNICH, M.D., M.P.H.",
+    "doi": "Am Fam Physician.1999;60(1):194-202",
+    "abstract": "Osteoporosis and low bone density are associated with a risk of fracture as a result of even minimally traumatic events. The estimated lifetime risk of osteoporotic fracture is as high as 50 percent, especially in white and Asian women. The use of caffeine, tobacco and steroids is associated with a decrease in bone density. Cognitive impairment, vision problems and postural instability increase the risk of falling and sustaining a fracture. Medications such as long-acting sedative hypnotics, anticonvulsants and tricyclic antidepressants also increase this risk. Combinations of clinical and radiographic findings can predict fracture risk more effectively than bone densitometry, but often only after the first fracture has occurred. The addition of dietary calcium and/or vitamin D is clearly both cost-effective and significant in reducing the likelihood of fractures. Bisphosphonates reduce fracture risk but at a cost that may be prohibitive for some patients. Estrogen and estrogen-receptor modulators have not been well studied in randomized trials evaluating the reduction of fractures, but they are known to increase bone density. Pharmacologic therapy and the reduction of sensory and environmental hazards can prevent osteoporotic fractures in some patients.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Osteoporosis and Osteopenia",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Impact of Osteoporotic Fractures",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "RISK FACTORS FOR FRACTURE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ROLE OF FALLS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Clinical Diagnosis of Low Bone Density",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Bone Density Measurement",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Nonpharmacologic Reduction of Fracture Risk",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "LIFESTYLE MODIFICATIONS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "REDUCTION OF MEDICATION EFFECTS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MEDICAL CONDITIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Pharmacologic Prevention of Osteoporotic Fractures",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "CALCIUM AND VITAMIN D",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "BISPHOSPHONATES",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "ESTROGEN REPLACEMENT THERAPY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "OTHER TREATMENT OPTIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Osteoporosis and low bone density are significant risk factors for morbidity and mortality in older adults. These conditions are characterized by poor bone strength and are associated with an increased risk of fractures from even slightly traumatic events, such as falls from standing height or lower. Vertebral fractures are the hallmark of osteoporosis, but hip, Colles' and other fractures are also common.1Low bone density may be a silent condition until a complication occurs."
+        },
+        {
+            "parent": -1,
+            "text": "Increased attention is being given to the early diagnosis and treatment of low bone density as well as the prevention of fractures. Several medications have recently been labeled for the treatment of osteoporosis, but their marginal benefits require careful consideration of their cost."
+        },
+        {
+            "parent": 0,
+            "text": "As commonly defined, osteoporosis is a condition in which bone mineral density is 2.5 standard deviations below the average bone density in gender-matched young adults. Osteopenia is a less advanced state of low bone mineral density. The risk of fracture increases two to three times for every 10 percent drop in bone density.2,3"
+        },
+        {
+            "parent": 0,
+            "text": "Because bone mass declines after menopause and with increasing age, osteoporosis is a common problem in elderly persons.2From30 to 40 percent of persons over 60 years old probably have osteoporosis, and nearly 66 percent have some degree of osteopenia.2The use of substances such as tobacco, caffeine and steroids is also associated with decreased bone density.4"
+        },
+        {
+            "parent": 1,
+            "text": "Low bone density is manifested in fractures. The lifetime risk of sustaining an osteoporotic fracture has been estimated at 50 percent, compared with 9 percent for breast cancer and 31 percent for coronary artery disease.2,5White women are at higher risk for osteoporotic fractures than white men and African Americans of both sexes.5Asian women are also at increased risk."
+        },
+        {
+            "parent": 1,
+            "text": "Hospitalization is one measure of the morbidity and cost of osteoporotic fractures. Admissions for vertebral and hip fractures climb 10-fold between the ages of 65 and 90 years.6Each year, 1 percent of persons over 90 years of age are hospitalized for osteoporotic fractures. Thus, the cost of managing osteoporotic fractures is quite high."
+        },
+        {
+            "parent": 1,
+            "text": "Elderly persons are rightfully concerned about the loss of independence associated with fractures. Six months after a hip fracture, many older persons still require assistance with the activities of daily living.7Furthermore, over 10 percent of persons with hip fractures die. In the United States alone, hip fractures are responsible for 31,000 deaths each year.8"
+        },
+        {
+            "parent": 2,
+            "text": "Risk factors for fractures are listed inTable 1. Identification of these factors is critical to stratification of a patient's fracture risk.9To this end, the history and physical examination may be directed at identifying risk factors based on the patient's medical, social and family history, personal demographics and available radiologic findings."
+        },
+        {
+            "parent": 2,
+            "text": "Tobacco use, sensory deficits, previous vertebral fractures and combinations of clinical features identified during the physical examination all seem to better predict fracture risk than one standard deviation difference in bone density(Table 2).3,10–15Other risk factors have achieved statistical significance in cohort studies. Thus, fractures clearly have a complex web of causes, with low bone density, falls and environmental influences being the three major categories of risk."
+        },
+        {
+            "parent": 3,
+            "text": "Fractures occur in only 3 to 6 percent of older persons who fall, even though at least 30 to 40 percent of the elderly have osteoporosis.2,16The relatively low incidence of fractures may be partially due to the circumstances of the fall. Persons with the ability to break a fall may not sustain as much trauma as their less dexterous counterparts."
+        },
+        {
+            "parent": 3,
+            "text": "Even with the fracture of weak bone, some type of traumatic event is usually present. A fall of just a few feet may cause a fracture in a person with low bone density. Falling is as common as osteoporosis in the elderly. At least one fall per year occurs in 30 percent of persons 70 years of age or older.16,17Factors such as age, cognitive impairment, syncope, postural instability, medications, vision problems, weakness and chronic illnesses are associated with falls. Inability to tandem walk, delayed rising from a sitting position and parkinsonian symptoms greatly magnify the odds of falling.16,17"
+        },
+        {
+            "parent": 3,
+            "text": "Even in the presence of documented osteoporosis, fractures seldom occur in elderly persons who do not fall. In contrast, those who have both low bone density and multiple risk factors for falling are 27 times more likely to experience an osteoporotic fracture.10"
+        },
+        {
+            "parent": 4,
+            "text": "Low bone density may be identified clinically. Osteoporosis is associated with several physical features, including kyphosis, height loss and fractures.11,18Kyphosis is mediated by fracture and collapse of the anterior aspect of the thoracic and lumbar vertebrae. Resultant curvature of the spine produces the classic dowager's hump. Similarly, diminished height is a result of the collapse of both anterior and posterior aspects of the vertebrae."
+        },
+        {
+            "parent": 4,
+            "text": "A history of minimally traumatic fractures may also suggest that a patient has low bone density. Vertebral, hip and Colles' fractures are typical osteoporotic fractures, although any bone fractures more easily when bone density is low.1Vertebral fractures suggest the diagnosis of osteoporosis. One vertebral fracture is associated with a four to five times greater risk of subsequent fracture; two coincident fractures increase the fracture risk nearly 12 times.11"
+        },
+        {
+            "parent": 5,
+            "text": "Bone mineral density indicates the relative concentration of nonorganic material in living bone tissue and reflects, with other factors, the amount of force required for fracture. Low bone density is diagnostic of osteoporosis."
+        },
+        {
+            "parent": 5,
+            "text": "After significant osteopenia has occurred, the presence of low bone mineral density can be inferred based on plain radiographs. However, dual energy x-ray absorptiometry (DEXA) is a more sensitive method of assessing bone mineral density and more accurately reflects the bone's true mineral content.2Ultrasonography and quantitative computed tomography are being evaluated as alternative diagnostic procedures."
+        },
+        {
+            "parent": 5,
+            "text": "The clinical role of bone densitometry is unclear. When this type of scanning was introduced, it was prohibitively expensive,19but it has become more affordable with the use of peripheral DEXA measurement. Some investigators argue that bone densitometry can cost-effectively improve the management of both osteoporotic patients20,21and a certain population of healthy patients.22The National Osteoporosis Foundation recently advocated screening densitometry in all women more than 65 years old.23An alternative approach employs bone densitometry in a select subgroup of patients (Figure 1)."
+        },
+        {
+            "parent": 6,
+            "text": "Many of the risk factors listed inTables 1and2can be modified or eliminated. In particular, measures directed at reducing the incidence of falls should lead to fewer fractures. This approach is supported by prospective trials but not yet by randomized trials."
+        },
+        {
+            "parent": 7,
+            "text": "Habits such as tobacco and caffeine use and moderate to heavy alcohol consumption increase the risk of osteoporotic fractures. A sedentary lifestyle is also a risk factor. Weight-bearing exercise is associated with increases in bone density.4Alcohol and tobacco use can be eliminated, and physical activity can be increased in most elderly patients. These lifestyle modifications can reduce the risk of fractures."
+        },
+        {
+            "parent": 7,
+            "text": "Exercise, smoking cessation and fluoride supplementation have been advanced as adjunctive measures. However, these measures have not yet demonstrated a reduction in fractures."
+        },
+        {
+            "parent": 8,
+            "text": "Prospective studies have found that some medications affect perception and balance, thereby making falls and subsequent fractures more likely. In particular, long-acting sedative hypnotics (e.g., antihistamines, benzodiazepines), tricyclic antidepressants, antipsychotics and anticonvulsants are associated with a significant increase in the incidence of fractures.10,24(Sedatives with a shorter half-life do not seem to increase the risk of fractures.10,25) The discontinuation of therapy with long-acting sedative-hypnotics may reduce the risk of drug side effects that contribute to falls resulting in fractures.25Randomized trials evaluating the efficacy of medication weaning are lacking."
+        },
+        {
+            "parent": 9,
+            "text": "Various medical conditions may exacerbate the risk of fractures. Theoretically, improving a patient's visual acuity can reduce the risk of falling. Regular physical activity can increase strength and mobility in some patients. Parkinsonism can be treated. Weaning patients from chronic glucocorticoid therapy (when possible) has theoretic benefits. Although thiazide diuretics appear to be associated with increased bone density, resultant orthostasis may increase the risk of falling. Judicious use of diuretics and antihypertensive agents may minimize the risk of falls. In theory, the treatment of hyperthyroidism may also reduce the risk of falling. To date, however, no randomized trials have demonstrated the impact of these modifications on the subsequent risk of fracture."
+        },
+        {
+            "parent": 10,
+            "text": "The pharmacologic management of low bone density may reduce the risk of fractures in both osteoporotic and healthy older patients. Randomized, prospective studies of fracture risk have addressed the potential of this approach, especially in postmenopausal white women (Table 3).20,26–33Some studies have simply assessed changes in bone density, but the impact on fracture prevention is clearly the outcome of greatest interest."
+        },
+        {
+            "parent": 11,
+            "text": "Calcium and vitamin D are integral to bone mineralization. In one study,34the risk of symptomatic fractures was significantly reduced in healthy postmenopausal women who received calcium supplementation rather than placebo. One fracture was prevented for every 33 patient-years of treatment, with the risk of fracture reduced from 17.5 percent to 5.3 percent (an absolute risk reduction of 12.2 percent)."
+        },
+        {
+            "parent": 11,
+            "text": "A three-year study in postmenopausal women with osteoporosis35compared the effects of 0.25 mg per day of calcitriol (Rocaltrol; vitamin D) and 1,000 mg per day of elemental calcium. Calcitriol was found to prevent one more fracture for every 36 patient-years of treatment. This finding represented a risk reduction from 10 percent to 5.2 percent (an absolute risk reduction of 4.8 percent)."
+        },
+        {
+            "parent": 11,
+            "text": "The use of combined calcium (500 mg per day of elemental calcium) and vitamin D (700 to 800 IU per day of cholecalciferol) was evaluated in two studies.26,27,36One study26,36included 3,200 healthy female residents of nursing homes and assisted living facilities, and the other study27assessed a community population of 389 men and women over the age of 65 years. In both studies, at least one fracture was prevented for every 45 patient-years of treatment. This corresponded to a reduction in fracture risk from 31.8 percent to 25 percent in the residential study (an absolute risk reduction of 6.8 percent)26,36and from 12.9 percent to 5.9 percent among the community dwellers (an absolute risk reduction of 7 percent).27"
+        },
+        {
+            "parent": 11,
+            "text": "Based on current average wholesale prices, the cost of combined calcium and vitamin D therapy would be less than $1,000 for every fracture prevented.33The efficacy of this approach and the low incidence of associated side effects constitute convincing evidence for recommending the use of this preventive therapy in all postmenopausal women and in older men. The studies demonstrated significant clinical benefits in patients with documented osteoporosis, as well as healthy older men and women. The potential benefits of this therapy in younger persons seem likely but are as yet unproved. Because combined calcium and vitamin D therapy is both efficacious and cost-effective, it should be the first-line treatment in patients at risk for osteoporotic fractures."
+        },
+        {
+            "parent": 12,
+            "text": "Etidronate (Didronel) and its newer counterpart, alendronate (Fosamax), are bisphosphonates that inhibit osteoclast activity and reduce bone turnover.37Prospective, randomized trials20,28,29showed more modest fracture prevention with these agents than with combined calcium and vitamin D therapy. The benefits of both bisphosphonates were in addition to the benefits of calcium supplementation."
+        },
+        {
+            "parent": 12,
+            "text": "One three-year trial20evaluated the efficacy of alendronate (10 mg per day) in 881 post-menopausal, osteoporotic women. The results indicated that one vertebral fracture was avoided for every 99 patient-years of treatment. Nonspinal fractures were then studied in 2,027 women with previous vertebral fracture.28In this trial, one vertebral or nonspinal fracture was prevented per 63 patient-years enrolled. This corresponds to a risk reduction from 18.2 percent to 13.6 percent (an absolute risk reduction of 4.6 percent)."
+        },
+        {
+            "parent": 12,
+            "text": "Etidronate (400 mg per day for two weeks out of every three months) was compared with placebo in a relatively small study of 363 postmenopausal women with osteoporosis.29No significant change in total fractures was found in the three-year period of the study; however, vertebral fractures were reduced to a rate of one fracture per 96 patient-years of treatment."
+        },
+        {
+            "parent": 12,
+            "text": "The modest clinical effect of alendronate must be weighed against its expense. Alendronate therapy costs $696 per year and $58,300 per fracture prevented in this average-risk group of osteoporotic patients.33Because the cost per fracture prevented is nearly 60 times the cost of treatment with combined calcium and vitamin D, alendronate should be considered for adjunctive therapy when cost is not a factor. Patients at extremely high risk for fractures might also represent a more cost-effective population for this therapy."
+        },
+        {
+            "parent": 13,
+            "text": "For postmenopausal women, estrogen replacement therapy has been considered the gold standard for the treatment of both coronary artery disease and osteoporosis.21Based on retrospective studies and small, randomized trials, estrogen replacement may reduce the relative risk of fractures by an estimated 30 to 50 percent.38–41If the data from these trials hold up to further study, one nonspinal fracture might be prevented per 110 patient-years of estrogen therapy.38One randomized trial in 78 post-menopausal women with previous vertebral fracture revealed that one such fracture was prevented for every 3.3 patient-years enrolled.41Another small trial42showed that the combination of estrogen and etidronate was more effective in reducing vertebral fractures than was the use of either intervention alone."
+        },
+        {
+            "parent": 13,
+            "text": "Estrogen appears to reduce vertebral fractures. However, its impact on nonspinal fractures has not yet been demonstrated."
+        },
+        {
+            "parent": 13,
+            "text": "Recommendations favoring the use of estrogen replacement in all postmenopausal women have been proposed, but convincing evidence to support these recommendations is still accumulating. Data from the trials38mentioned previously are consistent with a cost per fracture prevented of about $25,800 but, in one extremely high-risk group, vertebral fractures were prevented at a cost of only $840 each.33,41"
+        },
+        {
+            "parent": 13,
+            "text": "Randomized trials may further elucidate the extent to which breast and uterine cancers may complicate therapy. Aside from the cardiovascular benefit, the therapeutic use of hormone replacement as an adjunctive approach to fracture reduction may be reasonable, although the cost per fracture prevented may be somewhat high. Combining estrogen with a bisphosphonate may also be reasonable."
+        },
+        {
+            "parent": 14,
+            "text": "A large prospective study of raloxifene (Evista), a new selective estrogen receptor modulator, may soon be released. To date, however, no published evidence has shown a reduction in fractures related to use of raloxifene. As with estrogen replacement, bone mineral studies support the benefits of raloxifene in preventing osteoporosis.32At present, raloxifene costs three times more than traditional estrogen-progesterone combinations.33Thus, the cost per fracture prevented could be $69,400 with raloxifene."
+        },
+        {
+            "parent": 14,
+            "text": "Definitive studies on other treatment options are also lacking. Calcitonin (Calcimar) seems to improve the pain of vertebral fractures, but it has not been shown to reduce the risk for future fracture.43"
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,169 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/1115/p1889.html#afp20021115p1889-f1",
+    "title": "Preoperative Cardiac Risk Assessment | AAFP",
+    "author": "BERNARD M. KARNATH, M.D.",
+    "doi": "Am Fam Physician.2002;66(10):1889-1897",
+    "abstract": "Heart disease is the leading cause of mortality in the United States. An important subset of heart disease is perioperative myocardial infarction, which affects approximately 50,000 persons each year. The American College of Cardiology (ACC) and American Heart Association (AHA) have coauthored a guideline on preoperative cardiac risk assessment, as has the American College of Physicians (ACP). The ACC/AHA guideline uses major, intermediate, and minor clinical predictors to stratify patients into different cardiac risk categories. Patients with poor functional status or those undergoing high-risk surgery require further risk stratification via cardiac stress testing. The ACP guideline also starts by screening patients for clinical variables that predict perioperative cardiac complications. However, the ACP did not feel there was enough evidence to support poor functional status as a significant predictor of increased risk. High-risk patients would sometimes merit preoperative cardiac catheterization by the ACC/AHA guideline, while the ACP version would reserve catheterization only for those who were candidates for cardiac revascularization independent of their noncardiac surgery. A recent development in prophylaxis of surgery-related cardiac complications is the use of beta blockers perioperatively for patients with cardiac risk factors.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Preoperative Cardiac Risk Index",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "American College of Cardiology/American Heart Association Guideline",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "CLINICAL PREDICTORS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "FUNCTIONAL CAPACITY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "SURGERY-SPECIFIC RISK",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "American College of Physicians Guideline",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "LOW-RISK VARIABLES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Two Separate Guidelines and Algorithms",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "TYPE OF ANESTHESIA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "NONINVASIVE TESTING",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Exercise Treadmill Testing",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Dipyridamole-Thallium Imaging and Dobutamine Stress Echocardiography",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Perioperative Beta Blockers",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Perioperative management of the elderly patient is increasingly important as the elderly population continues to grow. Currently, there are more than 34 million elderly persons in the United States.1Heart disease is the leading cause of mortality in the United States, accounting for nearly half a million deaths in 1998.2"
+        },
+        {
+            "parent": -1,
+            "text": "Each year, approximately 50,000 patients have perioperative myocardial infarctions (MIs) and about 40 percent will die.3Most perioperative MIs occur without the typical chest pain. Factors that may contribute to the silent nature of perioperative MI include use of analgesics after surgery, residual effects from the anesthesia, and other perioperative painful stimuli.3Risk factors for perioperative cardiac complications include coronary artery disease (CAD), previous MI, heart failure, aortic stenosis, and age older than 70 years. Other clinical predictors are diabetes, poorly controlled hypertension, and poor functional capacity.4"
+        },
+        {
+            "parent": -1,
+            "text": "Two studies5,6have evaluated the incidence of MI after general anesthesia in patients with previous MI. A reinfarction rate of 27 to 37 percent occurred in patients who underwent surgery within three months of infarction. The reinfarction rate was 11 to 16 percent in patients who underwent surgery between three and six months of MI. The reinfarction rate remained stable (5 percent) for patients who underwent surgery more than six months after MI."
+        },
+        {
+            "parent": 0,
+            "text": "Goldman and colleagues7were the first to develop a preoperative cardiac risk index with multifactorial predictors. They evaluated 1,001 consecutive patients undergoing non-cardiac surgery and reported nine variables associated with an increased risk for perioperative cardiac complications. Each risk factor was assigned a point score, and patients were stratified into four risk categories based on their total points."
+        },
+        {
+            "parent": 0,
+            "text": "In 1986, Detsky and colleagues8modified the original multifactorial index by adding variables such as angina and pulmonary edema(Table 17,8). With this index, patients are stratified into three risk categories based on their total points. The modified index also adds predictive information for patients undergoing major and minor surgery. Major surgeries include vascular, orthopedic, intra-thoracic, intraperitoneal, and head and neck surgery. Examples of minor surgeries are cataract procedures and prostate surgery."
+        },
+        {
+            "parent": 1,
+            "text": "In a joint effort, the American College of Cardiology (ACC) and the American Heart Association (AHA) produced a guideline for preoperative cardiovascular evaluation for noncardiac surgery. The guideline incorporates clinical predictors and functional status into the preoperative risk-assessment algorithm(Figure 1).4The guideline was updated in early 2002 with an emphasis on optimizing the assessment of cardiac risk without subjecting the patient to unnecessary intervention that would otherwise not be indicated.9Patients are stratified according to major, intermediate, or minor “clinical predictors” of increased cardiac risk. Those who have had coronary revascularization within five years or a favorable result on coronary angiography or cardiac stress testing within two years may proceed to surgery without further cardiac evaluation."
+        },
+        {
+            "parent": 2,
+            "text": "Recommendations for preoperative testing are based on the clinical predictors identified by the patient's history and physical examination(Table 24). Major clinical predictors include unstable angina, recent MI, decompensated congestive heart failure (CHF), significant arrhythmias, and severe valvular disease. The presence of major predictors may justify a delay or cancellation of elective surgery or warrants preoperative coronary angiography if surgery is still deemed necessary."
+        },
+        {
+            "parent": 2,
+            "text": "Intermediate clinical predictors include mild angina, previous MI, compensated or previous CHF, diabetes, and renal insufficiency. The presence of intermediate predictors warrants careful assessment of the patient's functional capacity when deciding whether preoperative cardiac testing is needed(Table 3).10,11Minor clinical predictors include advanced age, abnormal results on electrocardiography, rhythm other than sinus on electrocardiography, poor functional capacity, history of stroke, and uncontrolled hypertension. Patients who have minor or no clinical predictors do not require further cardiac testing unless functional capacity is poor."
+        },
+        {
+            "parent": 3,
+            "text": "Poor functional capacity is associated with increased cardiac complications in noncardiac surgery.12A patient's functional capacity can be expressed in metabolic equivalents (METs).10,11One MET equals the oxygen consumption of a 70-kg, 40-year-old man in a resting state."
+        },
+        {
+            "parent": 4,
+            "text": "Surgical procedures are classified as high, intermediate, or low risk.4Emergency surgery is considered a high-risk procedure and is associated with significantly increased risk compared with elective surgery.7,8Other high-risk surgical procedures include aortic surgery, peripheral vascular surgery, and anticipated prolonged surgical procedures associated with large fluid shifts or blood loss.4Intermediate-risk surgical procedures include orthopedic, urologic, and uncomplicated abdominal, thoracic, or head and neck surgeries. Examples of low-risk surgical procedures include endoscopic and dermatologic procedures, breast surgery, and cataract resection."
+        },
+        {
+            "parent": 5,
+            "text": "The American College of Physicians (ACP) guideline recommends that all patients first be evaluated with the modified cardiac risk index by Detsky.13[Evidence level C, expert opinion] Patients stratified as Class I are considered low risk but should be further stratified with low-risk variables identified in separate studies.14,15[Reference 14—Evidence level B, retrospective study] Patients stratified as Class II or Class III on the modified cardiac risk index are at high risk for perioperative cardiac events(Figure 2).8,13–15"
+        },
+        {
+            "parent": 6,
+            "text": "Eagle and colleagues identified five clinical predictors of perioperative cardiac events.14These clinical predictors included Q waves on electrocardiography, history of ventricular ectopic beats, diabetes, advanced age, and angina. Patients with no clinical predictors had a 3 percent incidence of perioperative ischemic events. Having one or two clinical predictors meant a 16 percent incidence of perioperative ischemic events. Patients with three or more clinical predictors had a 50 percent incidence of perioperative ischemic events."
+        },
+        {
+            "parent": 6,
+            "text": "Vanzetto and colleagues identified a similar set of clinical predictors of perioperative cardiac events.15These clinical predictors included those cited by Eagle, but Vanzetto and colleagues added history of MI, ST-segment abnormalities on electrocardiography, hypertension with left ventricular hypertrophy, and history of CHF."
+        },
+        {
+            "parent": 7,
+            "text": "The ACC/AHA preoperative guideline and algorithm were first published in 1996. The ACC/AHA algorithm instructs the physician to evaluate the patient for the presence or absence of CAD before clinical predictors factor into the decision. The ACP preoperative guideline was published in 1997 and incorporates the Detsky criteria as the initial screening method for stratifying patients into low- or high-risk categories. The similarities and differences between the guidelines are outlined inTable 4.7,8,14,15Both preoperative guidelines are evidence-based."
+        },
+        {
+            "parent": 8,
+            "text": "The general consensus among experts is to allow the anesthesiologist to choose the type of anesthesia. Evidence from studies done before publication of the guidelines suggested that general anesthesia and epidural anesthesia did not differ significantly in their rates of perioperative cardiac complications.16,17[Reference16—Evidence level A, randomized controlled trial (RCT). Reference17—Evidence level A, RCT]"
+        },
+        {
+            "parent": 8,
+            "text": "Three studies18–20comparing regional versus general anesthesia have been published since the release of the ACC/AHA and ACP guidelines. In one study, researchers were unable to demonstrate a significant difference in the cardiac complication rate for regional versus general anesthesia.18[Evidence level B, retrospective study] However, two other studies demonstrated a lower incidence of MI in patients who received regional or spinal anesthesia.19,20[Reference19—Evidence level A, systematic review of RCTs. Reference20—Evidence level A, meta-analysis]"
+        },
+        {
+            "parent": 9,
+            "text": "According to the ACC/AHA guideline, patients with minor clinical predictors do not require noninvasive testing unless they have poor functional capacity and are undergoing a high-risk procedure. Patients with intermediate clinical predictors require noninvasive testing if they are undergoing a high-risk procedure or have poor functional capacity. The ACP advocates noninvasive stress testing for intermediate-risk patients undergoing vascular surgery; otherwise, stress testing is not mentioned in the algorithm. Several studies regarding noninvasive testing have been published since the release of the ACC/AHA and ACP guidelines."
+        },
+        {
+            "parent": 10,
+            "text": "The ACP recommends against exercise stress testing to predict perioperative risk, stating that it cannot be performed in a significant proportion of patients who are undergoing vascular surgery or in patients with diseases that impair the ability to ambulate."
+        },
+        {
+            "parent": 10,
+            "text": "One study21evaluated exercise testing in predicting cardiac complications after vascular surgery. According to the study results, patients who achieved more than 85 percent of their predicted maximum heart rate had a 6 percent rate of cardiac complications, whereas patients who did not achieve 85 percent of their predicted maximum heart rate had a 24 percent rate of cardiac complications."
+        },
+        {
+            "parent": 11,
+            "text": "The ACP recommends using either dipyri-damole-thallium imaging (DTI) or dobuta-mine stress echocardiography (DSE) for further risk stratification in intermediate-risk patients who are undergoing vascular surgery. Eagle and colleagues14evaluated the effectiveness of preoperative DTI in predicting ischemic events after vascular surgery. The study results showed that preoperative DTI was most useful for stratifying vascular patients at intermediate risk. Patients with one or two Eagle criteria were considered intermediate risk. Within this group, 3 percent of patients without thallium redistribution had perioperative cardiac complications, compared with 30 percent of patients with thallium redistribution."
+        },
+        {
+            "parent": 11,
+            "text": "According to the ACP, DTI or DSE may not reliably predict perioperative cardiac complications in patients undergoing nonvascular surgery.13However, a recent study22evaluated 530 patients who underwent DSE before non-vascular surgery. DSE results showed 60 percent of patients with no ischemic changes, 32 percent of patients with ischemic changes at high levels of cardiac stress, and 8 percent of patients with ischemic changes at low levels of cardiac stress.22Perioperative cardiac event rates were zero percent, 9 percent, and 43 percent, respectively."
+        },
+        {
+            "parent": 12,
+            "text": "In a randomized, double-blind, placebo-controlled trial involving 200 patients who were undergoing elective noncardiac surgery that required general anesthesia, the effect of atenolol on perioperative cardiac complications was evaluated.23[Evidence level A, RCT] Patients were eligible for beta-blocker therapy if they had known CAD or two or more risk factors. Atenolol was not used if the resting heart rate was less than 55 beats per minute, systolic blood pressure was less than 100 mm Hg, or if there was evidence of CHF, third-degree heart block, or bronchospasm. A 5-mg dose of intravenous atenolol was given 30 minutes before surgery and then again immediately after surgery. Atenolol (50 to 100 mg) was given orally until hospital discharge or seven days postoperatively. The results of the study showed that mortality from cardiac causes was 65 percent lower in the patients receiving atenolol."
+        },
+        {
+            "parent": 12,
+            "text": "A similar study evaluated the effect of biso-prolol on perioperative cardiac complications.24[Evidence level A, RCT] Treatment with bisoprolol in a dosage of 5 to 10 mg once daily was started one week before surgery and continued for 30 more days. The incidence of serious cardiac complications was 34 percent in the placebo group and only 3 percent in the patients receiving bisoprolol. Use of perioperative beta blockers reduced cardiac-related mortality in patients with known or suspected coronary heart disease."
+        }
+    ],
+    "locked": false
+}

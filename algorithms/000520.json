@@ -1,0 +1,84 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0515/p1239.html#afp20100515p1239-f2",
+    "title": "Diagnosis and Initial Management of Acute HIV Infection | AAFP",
+    "author": "CAROLYN CHU, MD, MSc, AND PETER A. SELWYN, MD, MPH",
+    "doi": "Am Fam Physician.2010;81(10):1239-1244",
+    "abstract": "Recognition and diagnosis of acute human immunodeficiency virus (HIV) infection in the primary care setting presents an opportunity for patient education and health promotion. Symptoms of acute HIV infection are nonspecific (e.g., fever, malaise, myalgias, rash), making misdiagnosis common. Because a wide range of conditions may produce similar symptoms, the diagnosis of acute HIV infection involves a high index of suspicion, a thorough assessment of HIV exposure risk, and appropriate HIV-related laboratory tests. HIV RNA viral load testing is the most useful diagnostic test for acute HIV infection because HIV antibody testing results are generally negative or indeterminate during acute HIV infection. After the diagnosis of acute HIV infection is confirmed, physicians should discuss effective transmission risk reduction strategies with patients. The decision to initiate antiretroviral therapy should be guided by consultation with an HIV specialist.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Testing for Acute HIV Infection",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Initial Management of Acute HIV Infection",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute human immunodeficiency virus (HIV) infection, also known as primary HIV infection or acute retroviral syndrome, is the period just after initial HIV infection, generally before seroconversion. Although some patients remain asymptomatic, acute HIV infection often manifests with transient symptoms related to high levels of HIV viral replication and the subsequent immune response. Because symptoms of acute HIV infection (e.g., fever, rash, malaise, sore throat) mimic other, more prevalent conditions, such as influenza, misdiagnosis is common. Furthermore, patterns of care for patients seeking medical attention for acute HIV infection are largely unknown. One study based on a national probability sample of patients presenting to physician offices, emergency departments, and hospital out-patient clinics estimated rates of acute HIV infection to be 0.13 to 0.66 percent among symptomatic ambulatory patients,1making detection a clinical and public health challenge."
+        },
+        {
+            "parent": -1,
+            "text": "Acute HIV infection provides a unique opportunity for patient education, health promotion, and prevention; primary care physicians must be able to recognize and diagnose it. This article provides an update to previously published reviews of acute HIV syndrome.2–4"
+        },
+        {
+            "parent": 0,
+            "text": "In the Centers for Disease Control and Prevention's most recent HIV/AIDS surveillance report, the number of new adult and adolescent HIV infections in the United States during 2006 was estimated to be 56,300 (a rate of 22.8 per 100,000 persons).5There were notable disparities and trends among certain subgroups. The incidence rate in non-Hispanic blacks versus non-Hispanic whites was 83.7 versus 11.5 per 100,000 persons. Also, persons 40 to 49 years of age accounted for 25 percent of all new infections, whereas those 50 years and older accounted for 10 percent. Persons infected through high-risk heterosexual contact represented 31 percent of new infections, compared with 12 percent for those infected through injection drug use. Although such patterns indicate that certain populations are at higher risk of infection, HIV continues to affect every ethnic, age, and risk group and every geographic area in the United States. Physicians must keep acute HIV infection in the differential diagnosis of any patient with otherwise unexplained symptoms."
+        },
+        {
+            "parent": 1,
+            "text": "At least 50 (and up to 90) percent of patients with acute HIV infection develop symptoms consistent with acute infection,6,7although timing and duration are variable. For most symptomatic patients, acute illness develops within one to four weeks after transmission, and symptoms usually persist for two to four weeks. Acute HIV infection is often described as mononucleosis-or influenza-like, with the most prevalent symptoms being fever, fatigue, myalgias/arthralgias, rash (typically an erythematous maculopapular exanthem), and headache6–10(Tables 18,9and2). Patients also may experience anorexia, pharyngitis, lymphadenopathy, mucocutaneous ulcerations, diarrhea, or a combination of these symptoms. Severe manifestations of acute HIV infection (e.g., meningoencephalitis, myelitis), although rare, have been described.11CD4 lymphocyte counts exhibit a marked transient decrease during acute infection. There have been case reports of patients with acute infection presenting with opportunistic infections, such as esophageal candidiasis.12Physical examination is nondiagnostic but may be notable for hepatosplenomegaly."
+        },
+        {
+            "parent": 1,
+            "text": "Because symptoms are nonspecific, symptom-based algorithms are generally not useful in detecting acute HIV infection in the general U.S. population. However, such algorithms are being combined with clinical risk factors to develop targeted testing strategies in high-risk and high-prevalence groups, such as populations in sub-Saharan Africa.13,14Physicians should be aware of current HIV transmission patterns in their communities (e.g., men who have sex with men, persons who share needles) but should retain a low threshold to consider acute infection in anyone presenting with any constellation of suggestive symptoms. Evaluation should include a thorough and accurate assessment of all activities that potentially involve HIV exposure, including heterosexual intercourse with a long-term partner."
+        },
+        {
+            "parent": 2,
+            "text": "With the evolution of HIV enzyme-linked immunosorbent assays (ELISA) from first to third generation tests, the window period (i.e., the time between transmission and production of HIV antibodies when an HIV ELISA test result may be falsely negative) for confirming HIV infection through antibody testing has narrowed from approximately 56 to 21 days. However, because acute HIV infection occurs before the appearance of HIV antibodies, it can be diagnosed only by demonstrating the presence of p24 antigen or HIV viral RNA, which can be detected as early as 14 to 15 days and 11 to 12 days after infection, respectively (Table 315andFigure 116)."
+        },
+        {
+            "parent": 2,
+            "text": "The usefulness of p24 testing for acute HIV infection is somewhat limited because (1) HIV viral load assays are now more widely available in the United States, and (2) the level of sufficiently detectable p24 antigenemia in patients is inconsistent and short-lived (i.e., serum p24 levels typically decrease as HIV antibody titers increase and immune complexes develop). However, some new rapid HIV tests, which are generally HIV antibody–based, may also include p24 antigen testing. This makes them potentially valuable for point-of-care detection of acute HIV infection.17"
+        },
+        {
+            "parent": 2,
+            "text": "Because of the limitations of p24 antigen testing, HIV RNA viral load is arguably the most useful diagnostic marker for acute HIV infection. It has a sensitivity close to 100 percent and a specificity from 95 to 98 percent, depending on the type of assay.8In patients with acute HIV infection, RNA levels typically rise above 100,000 copies per mL. Low viral loads (particularly 1,000 RNA copies per mL or less) in a person with suspected acute HIV infection may indicate a false-positive result.18To confirm the diagnosis of acute HIV infection (or rule out infection in patients with a low but detectable RNA level), viral load testing should be repeated with ELISA and Western blot test within four to six weeks.19,20"
+        },
+        {
+            "parent": 3,
+            "text": "One of the most important clinical considerations for patients with acute HIV infection is psychosocial evaluation and stabilization, including a domestic violence screen and referral to counseling or support services if available. Physicians should educate patients about their potentially heightened infectiousness,21,22and discuss effective transmission risk reduction strategies.23,24These include consistent and effective condom use, limiting drug and alcohol intake (which may impair the ability to negotiate safe sex), and the incorporation of alternative sexual practices that do not involve the exchange of body fluids. Patients, particularly men who have sex with men, should be warned of the risks of serosorting, which is the identification of sex partners based on their HIV status that may lead to unprotected intercourse.25Partner notification should be discussed with all patients with acute HIV infection and carried out promptly per local health department guidelines."
+        },
+        {
+            "parent": 3,
+            "text": "Because symptoms of acute infection are usually self-limited, specific management is often supportive. Treatment may include antipyretics, nonsteroidal anti-inflammatory drugs, and close follow-up of significant laboratory abnormalities (e.g., anemia, thrombocytopenia, elevated transaminases). A proportion of patients with severe symptoms or laboratory abnormalities may require hospitalization; steroids have not been consistently effective in these patients.11,26"
+        },
+        {
+            "parent": 3,
+            "text": "Several additional laboratory tests should be performed once acute HIV infection is diagnosed: two sets of CD4 lymphocyte counts and HIV viral load levels within four to six weeks to monitor the level of immune suppression and viremia; screening for other sexually transmitted infections (e.g., chlamydia, gonorrhea, syphilis) and hepatitis B and C; and skin testing for tuberculosis.27Given the prevalence of primary antiretroviral drug resistance that has been described in some populations,28an HIV genotype should be strongly considered to detect transmitted mutations that may cause resistance to future antiretroviral treatment.27,29A repeat HIV antibody test should also be performed within four to six weeks to document seroconversion(Figure 218–20,23,24,27,29–31)."
+        },
+        {
+            "parent": 3,
+            "text": "There is ongoing debate about the role of combination, highly active antiretroviral therapy in acute HIV infection. The relationships between symptom severity, level of viremia, and CD8 lymphocyte activation response in acute infection are complicated. Research suggests these factors are major determinants of subsequent HIV disease progression by affecting the rate of CD4 lymphocyte loss and the viral set point (the rate of HIV virus replication that stabilizes and remains at a particular level after acute infection).32–34It has been theorized that treatment of acute HIV infection may alter the natural course of HIV infection or delay the need for chronic antiretroviral therapy by preserving immune function.35Treatment may also have wider public health implications by reducing transmission.36Longitudinal studies have sought to identify the virologic, immunologic, and clinical benefits of antiretroviral therapy initiation during acute infection, but results from these studies have been inconclusive. Current evidence suggests there is not significant long-term or clinically meaningful improvement despite short-term viral suppression and CD4 lymphocyte restoration.37–40Therefore, antiretroviral therapy for patients with acute HIV infection should be initiated only after consultation with an HIV specialist.30,31"
+        },
+        {
+            "parent": 3,
+            "text": "If therapy is initiated, specific guidelines for recommended antiretroviral combinations and follow-up can be found on the U.S. Department of Health and Human Services AIDSinfo Web site athttp://www.aidsinfo.nih.gov/guidelines/. Physicians may also refer patients to clinical trials on the natural history and treatment outcomes of acute HIV infection. Information on these trials may be found on the AIDSinfo Web site athttp://www.aidsinfo.nih.gov/clinicaltrials/or by calling 800-HIV-0440."
+        }
+    ],
+    "locked": false
+}

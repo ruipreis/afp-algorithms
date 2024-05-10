@@ -1,0 +1,171 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0501/p1583.html#afp20060501p1583-f1",
+    "title": "Diagnosing Rhinitis: Allergic vs. Nonallergic | AAFP",
+    "author": "DAVID M. QUILLEN, M.D., AND DAVID B. FELLER, M.D.",
+    "doi": "Am Fam Physician.2006;73(9):1583-1590",
+    "abstract": "Allergic rhinitis, the most common type of rhinitis, generally can be differentiated from the numerous types of nonallergic rhinitis through a thorough history and physical examination. Allergic rhinitis may be seasonal, perennial, or occupational. The most common cause of nonallergic rhinitis is acute viral infection. Other types of nonallergic rhinitis include vasomotor, hormonal, drug-induced, structural, and occupational (irritant) rhinitis, as well as rhinitis medicamentosa and nonallergic rhinitis with eosinophilia syndrome. Since 1998, three large expert panels have made recommendations for the diagnosis of allergic and nonallergic rhinitis. Allergy testing (e.g., percutaneous skin testing, radioallergosorbent testing) is not necessary in all patients but may be useful in ambiguous or complicated cases.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Allergy Testing",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Allergic Rhinitis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Nonallergic Rhinitis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ACUTE VIRAL RHINITIS AND RHINOSINUSITIS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "VASOMOTOR RHINITIS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "HORMONAL AND DRUG-INDUCED RHINITIS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "RHINITIS MEDICAMENTOSA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "NONALLERGIC RHINITIS WITH EOSINOPHILIA SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Conditions That Can Mimic Rhinitis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Rhinitis is an inflammation of the nasal mucosa. Associated clinical symptoms include excessive mucus production, congestion, sneezing paroxysm, watery eyes, and nasal and ocular pruritus. The differential diagnosis of rhinitis is extensive(Table 11). Allergic rhinitis is considered a systemic illness and may be associated with constitutional symptoms such as fatigue, malaise, and headache. It also may be a comorbidity in patients with asthma, eczema, or chronic sinusitis. Differentiating allergic rhinitis from other causes of rhinitis can be difficult because the diagnostic criteria for various forms of rhinitis are not always clear-cut. Accurate diagnosis is important because therapies that are effective for allergic rhinitis (i.e., antihistamines and nasal corticosteroids) may be less effective for other types of rhinitis.2"
+        },
+        {
+            "parent": -1,
+            "text": "Since 1998, three expert panels1–3have published reviews of rhinitis. The first report1was created by the American Academy of Allergy, Asthma, and Immunology (AAAAI) as a complete guideline for the diagnosis and management of rhinitis."
+        },
+        {
+            "parent": -1,
+            "text": "The second report,3coordinated by the World Health Organization (WHO), focuses on allergic rhinitis and asthma but includes an extensive section on the differential diagnosis of rhinitis. This report is intended to be a complete evidence-based guideline on the diagnosis and management of allergic rhinitis and asthma. The authors proposed a new classification for allergic rhinitis, arguing that the current subdivisions (i.e., seasonal and perennial) were not satisfactory. Traditionally, pollens and molds were considered possible causes of seasonal allergic rhinitis. However, in some places, such as California and Florida, these allergens are present year-round. The WHO authors suggested a classification system based on the symptoms of intermittent, persistent, mild, and moderate-severe rhinitis."
+        },
+        {
+            "parent": -1,
+            "text": "The third report2was coordinated by the Agency for Healthcare Research and Quality (AHRQ) in collaboration with the American Academy of Family Physicians and the AAAAI. Unlike the first two reports, the AHRQ report is not a clinical guideline but an evaluation of the evidence on rhinitis. The report did not identify any studies differentiating allergic rhinitis and nonallergic rhinitis based on clinical symptoms, physical examination findings, or associated comorbidities. The AHRQ report noted that the treatment conclusions may have been biased because pharmaceutical companies supported many of the trials.2"
+        },
+        {
+            "parent": 0,
+            "text": "Although few studies exist on how to differentiate among types of rhinitis, a thorough and comprehensive history usually suggests the correct diagnosis. Physicians should focus on symptoms (i.e., duration, exposures, magnitude of reaction, patterns, and chronicity); triggers; seasonal variation; environmental influences; allergies; medical history (i.e., trauma, family, and treatment histories); and current treatments(Table 21andFigure 1). An acute onset of one week or less has a limited differential and usually suggests a viral etiology; an acute exacerbation of allergic rhinitis; or, less commonly, a foreign body (more common in children, particularly when symptoms are unilateral with purulent discharge). The differential diagnosis for chronic symptoms is broader."
+        },
+        {
+            "parent": 0,
+            "text": "Allergic rhinitis or an environmental cause usually is suggested if triggers are identified. Chronic symptoms accompanied by seasonal variations suggest seasonal allergic rhinitis. Constitutional symptoms such as headache, malaise, and fatigue are also common presentations. Medical history can be helpful (e.g., the patient's age at onset of symptoms). Allergic rhinitis usually develops at a young age (80 percent before 20 years of age).1Family history also is helpful, because allergic symptoms and asthma tend to be hereditary. Finally, the success of past and current treatments may help identify the cause and direct future treatment."
+        },
+        {
+            "parent": 0,
+            "text": "A focused physical examination should follow the history(Table 21). Acute illness with a viral infection will cause more generalized symptoms and occasional fevers. Patients with chronic allergic symptoms may have allergic shiners (i.e., blue-gray or purple discoloration under the lower eyelids), or they may breathe through their mouths. Conjunctivitis can be a component of allergic rhinitis or acute viral upper respiratory infection (URI). A careful examination of the nose is important to identify structural abnormalities, obvious polyps, mucosal swelling, and discharge. Fiberoptic visualization provides the best evaluation, but it is not always available or necessary. Examining the pharynx for enlarged tonsils or pharyngeal postnasal drip also can help identify viral causes or chronic drainage from chronic rhinitis. Lymphadenopathy with associated symptoms may suggest a viral or bacterial cause of rhinitis, and wheezing or eczema suggests an allergic cause.Table 34compares allergic and nonallergic rhinitis."
+        },
+        {
+            "parent": 1,
+            "text": "None of the three reports1–3on rhinitis provides specific recommendations on when to perform allergy testing for patients with rhinitis. General recommendations for allergy testing vary.5–7An extensive systematic review7of the evidence on allergy testing showed that in general, physicians should select tests that will change outcomes or treatment plans; that empiric treatment is appropriate in patients with classic symptoms; that diagnostic tests may be appropriate if severe symptoms or an unclear diagnosis is present, or if the patient is a potential candidate for allergen avoidance treatment or immunotherapy; and that observation may be appropriate for patients with mild symptoms or an unclear history."
+        },
+        {
+            "parent": 2,
+            "text": "The most common diagnostic tests for allergic rhinitis are the percutaneous skin test and the allergen-specific immunoglobulin E (IgE) antibody test. Less common diagnostic tools include nasal provocation testing, nasal cytology (e.g., blown secretions, scraping, lavage, biopsy), nasolaryngoscopy, and intra-dermal skin testing. The WHO report3offers limited recommendations on when to use these tests but notes that they generally are used by subspecialists or in research and do not play a role in the routine evaluation of rhinitis. The AHRQ report2did not include the less common tests, and the authors could not make a conclusion regarding the minimum amount of testing needed to achieve a diagnosis. The AAAAI report1included the less common tests but noted that many are unproved or inappropriate."
+        },
+        {
+            "parent": 2,
+            "text": "Skin testing involves introducing controlled amounts of allergen and control substances into the skin. Percutaneous testing is the most common type of skin testing and is preferred in primary care. It is convenient, safe, and widely accepted.8Occasionally, intradermal testing is used (mostly by researchers and allergy subspecialists); it is more sensitive but less specific than percutaneous testing.2,7It is unclear which method is superior; however, increased safety concerns exist with intradermal skin testing.9"
+        },
+        {
+            "parent": 2,
+            "text": "Allergic rhinitis can have an immediate or delayed response.1Skin testing elicits both types of responses; however, the primary goal of skin testing is to detect the immediate allergic response caused by the release of mast cell or basophil IgE-specific mediators, which create the classic wheal and flare reaction after 15 minutes. The delayed response occurs four to eight hours after exposure to the sensitizing allergen and is less useful in clinical diagnosis."
+        },
+        {
+            "parent": 2,
+            "text": "Allergen-specific IgE antibody testing (radioallergosorbent testing [RAST]) is particularly useful in primary care if percutaneous testing is not practical (e.g., problems with reagent storage, expertise, frequency of use, staff training) or if a patient is taking a medication that interferes with skin testing (e.g., tricyclic antidepressants, antihistamines).10RAST is highly specific but generally not as sensitive as skin testing.2,7Although the available commercial RAST products generally are reliable, they do not always provide reproducible, accurate data.11RAST is useful for identifying common allergens (e.g., pet dander, dust mites, pollen, common molds), but it is less useful for identifying food, venom, or drug allergies."
+        },
+        {
+            "parent": 2,
+            "text": "Allergy testing in children has its own challenges. Authors of a large literature review12provided evidence-based recommendations for allergy testing in children with various allergic diseases (e.g., rhinitis, asthma, food allergy). The review demonstrated that percutaneous skin testing is appropriate for children three years and older and that RAST testing is appropriate at any age. The authors recommend that physicians base testing decisions on clinical history and, similar to the adult recommendations, perform tests only when needed to change therapy or to clarify a diagnosis.12"
+        },
+        {
+            "parent": 3,
+            "text": "Allergic rhinitis can be categorized into three basic subgroups: seasonal, perennial, and occupational. IgE mediates seasonal, perennial, and occupational responses to different allergens. Tree, grass, and weed pollens generally cause seasonal symptoms. Mold spores may cause seasonal and perennial symptoms. Indoor allergens such as dust mites, pet dander, and molds usually cause perennial symptoms."
+        },
+        {
+            "parent": 3,
+            "text": "Occupational rhinitis is triggered by exposure to irritants and allergens. Allergen-related occupational rhinitis clearly is in the allergic rhinitis category, whereas irritant-related occupational rhinitis is better categorized as nonallergic rhinitis. Causes of the allergen subtype include laboratory animals (e.g., rats, mice, guinea pigs), grains, coffee beans, and wood dust. Causes of the irritant subtype include tobacco smoke, cold air, formaldehyde, and hair spray."
+        },
+        {
+            "parent": 3,
+            "text": "Allergic rhinitis symptoms include early and late responses similar to those of allergic response to skin testing. Early and late allergic rhinitis present as sneezing, congestion, and rhinorrhea; however, the late response tends to include more congestion. Seasonal and perennial allergic rhinitis can be associated with systemic symptoms including malaise, weakness, and fatigue. Patients with seasonal and perennial allergic rhinitis also may have allergic conjunctivitis, asthma, and eczema."
+        },
+        {
+            "parent": 4,
+            "text": "The diagnosis of nonallergic rhinitis is made after eliminating allergic or IgE-mediated causes. The most common cause of nonallergic rhinitis is an acute viral infection. Less common chronic causes include vasomotor rhinitis, hormonal rhinitis, non-allergic rhinitis with eosinophilia syndrome, occupational rhinitis (irritant subtype), gustatory rhinitis, rhinitis medicamentosa, and drug-induced rhinitis."
+        },
+        {
+            "parent": 4,
+            "text": "Controversy surrounds nonallergic rhinitis because the epidemiology and diagnostic criteria are confusing. The main controversy is how to differentiate allergic rhinitis from nonallergic rhinitis. Furthermore, current research appears to delineate a third category that includes characteristics of both allergic and nonallergic rhinitis. Research shows that the prevalence of pure allergic rhinitis in the adult population with symptoms is 43 percent, combination allergic rhinitis and nonallergic rhinitis is 34 percent, and pure nonallergic rhinitis is 23 percent.13Management of allergic and nonallergic rhinitis is slightly different; therefore, as more clinical data become available, determining the difference between the two types will become more important.13"
+        },
+        {
+            "parent": 4,
+            "text": "A patient-administered screening tool (Patient Rhinitis Screen) to help physicians identify patients with combination rhinitis is not commonly discussed in the literature.14,15Because of the lack of published research, the tool's use beyond gathering demographic data is unclear.4"
+        },
+        {
+            "parent": 5,
+            "text": "Viral URIs are the leading cause of acute rhinitis. Viruses known to cause acute viral rhinitis include rhinoviruses, respiratory syncytial virus, parainfluenza, influenza, and adenoviruses. In most patients, viral infections are self-limited and require only symptomatic treatment. Occasionally, a bacterial superinfection exists or the patient develops rhinosinusitis. In these patients, symptoms generally worsen (e.g., facial pain, nasal obstruction, fever). Sinusitis is best diagnosed through history, physical examination, and prediction rules, and not through computed tomography.16–18Common bacteria includeStreptococcus pneumoniae, group A beta-hemolytic streptococci, andHaemophilus influenzae."
+        },
+        {
+            "parent": 6,
+            "text": "Vasomotor rhinitis is not thought to be related to a specific allergen, infection, or causation. It includes patients with perennial symptoms that are associated with temperature changes, humidity, alcohol ingestion, and odors. Vasomotor rhinitis is diagnosed through exclusion; patients should have normal serum IgE levels, negative skin testing or RAST, and no inflammation on nasal cytology.13The term vasomotor implies an increased blood supply to the nasal mucosa, although this suggestion has not been proven. Symptoms mainly consist of congestion; hypersecretion; and, less commonly, pruritus and sneezing. Because some patients with vasomotor rhinitis present after eating hot or spicy foods (gustatory rhinitis), the vagus nerve may be involved."
+        },
+        {
+            "parent": 7,
+            "text": "Hormonal causes of rhinitis include pregnancy, oral contraceptive use, and hypothyroidism. Pregnancy-induced rhinitis generally improves after delivery. Symptom improvement after hypothyroidism treatment remains unclear. These types of rhinitis are difficult to diagnose, and the medical literature documenting them is limited."
+        },
+        {
+            "parent": 7,
+            "text": "Numerous medications have been associated with rhinitis; these include angiotensin-converting enzyme inhibitors, reserpine, guanethidine, phentolamine (Rogitine, not available in the United States), methyldopa (Aldomet), prazosin (Minipress), beta blockers, chlorpromazine (Thorazine), topical nasal decongestants, aspirin, and nonsteroidal anti-inflammatory drugs."
+        },
+        {
+            "parent": 8,
+            "text": "Repetitive use of topical alpha-adrenergic decongestant sprays (for five to seven consecutive days) may induce rebound nasal congestion after withdrawal (rhinitis medicamentosa). Extensive use may cause inflammatory mucosal hypertrophy and chronic congestion. The mucosa becomes red and inflamed with occasional bleeding. Discontinuation of the topical decongestant resolves the problem, although many patients find this process difficult."
+        },
+        {
+            "parent": 9,
+            "text": "Nonallergic rhinitis with eosinophilia syndrome presents as congestion and nasal eosinophilia with no obvious allergic source detected on skin testing or RAST. The cause of eosinophilia is unclear; however, the prevalence of nonallergic rhinitis with eosinophilia in adults may be 15 to 33 percent.13The condition may be associated with non-IgE–mediated asthma, aspirin intolerance, rhinitis with eosinophilia is characterized by eosinophilic infiltration on nasal cytology. A subtype of this condition is blood eosinophilia nonallergic rhinitis syndrome. It is unclear whether these two conditions differ from other non-allergic rhinitis syndromes or if they are simply variants of allergic rhinitis without identifiable allergens."
+        },
+        {
+            "parent": 10,
+            "text": "A number of conditions can produce the same signs and symptoms as rhinitis. Some of these conditions are relatively rare. Structural conditions that may mimic rhinitis include deviated septum, nasal tumors, enlarged adenoids, and hypertrophic turbinates. Immunologic conditions include Wegener's granulomatosis, sarcoidosis, relapsing polychondritis, Sjögren's syndrome, and midline granuloma.2"
+        }
+    ],
+    "locked": false
+}

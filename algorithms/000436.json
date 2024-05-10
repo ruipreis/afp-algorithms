@@ -1,0 +1,143 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/1115/p1111.html#afp20111115p1111-f1",
+    "title": "Anaphylaxis: Recognition and Management | AAFP",
+    "author": "JAMES J. ARNOLD, DO, AND PAMELA M. WILLIAMS, COL, LT, USAF, MC",
+    "doi": "Am Fam Physician.2011;84(10):1111-1118",
+    "abstract": "Anaphylaxis is a severe, life-threatening, systemic allergic reaction that is almost always unanticipated and may lead to death by airway obstruction or vascular collapse. Anaphylaxis occurs as the result of an allergen response, usually immunoglobulin E–mediated, which leads to mast cell and basophil activation and a combination of dermatologic, respiratory, cardiovascular, gastrointestinal, and neurologic symptoms. Dermatologic and respiratory symptoms are most common, occurring in 90 and 70 percent of episodes, respectively. The three most common triggers are food, insect stings, and medications. The diagnosis of anaphylaxis is typically made when symptoms occur within one hour of exposure to a specific antigen. Confirmatory testing using serum histamine and tryptase levels is difficult, because blood samples must be drawn with strict time considerations. Allergen skin testing and in vitro assay for serum immunoglobulin E of specific allergens do not reliably predict who will develop anaphylaxis. Administration of intramuscular epinephrine at the onset of anaphylaxis, before respiratory failure or cardiovascular compromise, is essential. Histamine H1receptor antagonists and corticosteroids may be useful adjuncts. All patients at risk of recurrent anaphylaxis should be educated about the appropriate use of prescription epinephrine autoinjectors.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Triggers and Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Management of Acute Anaphylaxis",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Postanaphylaxis Care",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Anaphylaxis is a life-threatening, systemic hypersensitivity reaction.1It is the most severe form of allergic reaction and is almost always unexpected.2Delay in clinical diagnosis and treatment may result in death by airway obstruction or vascular collapse.1The incidence of anaphylaxis in the United States is 49.8 cases per 100,000 person-years.2Lifetime prevalence is 0.05 to 2 percent, with a mortality rate of 1 percent.2,3Compared with that of the general population, the risk of anaphylaxis is doubled in patients with mild asthma and tripled in those with severe disease.4The true prevalence and mortality rates may be higher because of the unexpected nature of the disease, the lack of reliable confirmatory testing, confusion over the clinical definition, and underreporting by physicians.4,5Patients may arrive at a physician's office remote from an event or with active symptoms, or they may develop anaphylaxis after administration of common treatments used in the clinic. Family physicians and patients need to be prepared to recognize and quickly treat anaphylaxis to prevent potentially catastrophic outcomes.5,6"
+        },
+        {
+            "parent": 0,
+            "text": "Anaphylaxis is a systemic response to a specific allergen, usually occurring within one hour of exposure. The most common triggers are food, insect stings, and medications(Table 1).5,6Food-related reactions are most common in children up to four years of age, and medication reactions are most common in patients older than 55 years.2"
+        },
+        {
+            "parent": 0,
+            "text": "Most cases of anaphylaxis are immunoglobulin E (IgE)–mediated. Antibodies exposed to a particular allergen attach to mast cells and basophils, resulting in their activation and degranulation. A variety of chemical mediators are released including histamine, heparin, tryptase, kallikrein, platelet-activating factor, bradykinin, tumor necrosis factor, nitrous oxide, and several types of interleukins.5,6"
+        },
+        {
+            "parent": 0,
+            "text": "Historically, anaphylaxis-type reactions triggered by the direct activation of the mast cell (e.g., radiocontrast media reactions) were referred to as anaphylactoid reactions. Currently, immune and nonimmune anaphylaxis are the preferred terms to differentiate between IgE-mediated reactions and direct activation reactions.1,5This distinction matters little in the acute clinical setting, because the treatment is the same for both types of reactions. However, the difference is important when deciding on prevention strategies, such as immunomodulation therapy.5,6"
+        },
+        {
+            "parent": 2,
+            "text": "Table 2lists possible manifestations of anaphylaxis for each body system.5,7Signs and symptoms usually develop within five to 30 minutes of exposure to the offending allergen, but may not develop for several hours.3,5,6A biphasic reaction is a second acute anaphylactic reaction occurring hours after the first response and without further exposure to the allergen.5,8One to 20 percent of patients with anaphylaxis experience biphasic reactions, which usually occur within eight hours of the initial reaction, but may occur as late as 24 to 72 hours after exposure.8,9"
+        },
+        {
+            "parent": 2,
+            "text": "In 2004, the Second Symposium on the Definition and Management of Anaphylaxis developed clinical criteria for diagnosing anaphylaxis in the acute setting(Table 3).10The presence of one of three criteria predicts diagnosis of anaphylaxis 95 percent of the time.3,10The clinical history is the most important tool to determine whether a patient has had an anaphylactic reaction and the cause of the episode.1,3,5,6"
+        },
+        {
+            "parent": 2,
+            "text": "Skin involvement, predominantly urticaria and angioedema, occurs in 90 percent of episodes.1,3,5,6Respiratory manifestations are present in 70 percent of episodes, primarily with signs and symptoms of upper airway obstruction.1,3,5,6Lower airway obstruction may occur, especially in patients with a history of asthma. Cardiovascular involvement, which could lead to life-threatening hypotension, occurs in 45 percent of patients.1,3,5,6Gastrointestinal and neurologic involvement occur 45 and 15 percent of the time, respectively.1,3,5,6"
+        },
+        {
+            "parent": 3,
+            "text": "Any condition that may result in the sudden, dramatic collapse of the patient, such as myocardial ischemia, pulmonary embolism, foreign body aspiration, acute poisoning, hypoglycemia, and seizure, can be confused with severe anaphylaxis. However, a vasovagal event is the most common condition confused with anaphylaxis.5,6Bradycardia helps differentiate vasovagal events from anaphylaxis, because tachycardia is typical in the latter.3However, tachycardia can transition into bradycardia during the end stages of a severe anaphylactic reaction when vascular collapse occurs.5,6"
+        },
+        {
+            "parent": 3,
+            "text": "Additional diagnostic considerations include flushing syndromes in postmenopausal women, spicy food consumption, metastatic carcinoid tumors, and alcohol use in persons with aldehyde dehydrogenase deficiency.3,5,6Mastocytosis, a rare condition involving overpropagation of mast cells to the point of organ infiltration, may present as anaphylaxis without a trigger.5Psychiatric disorders, such as panic attack or severe generalized anxiety, can also be confused with anaphylaxis. Finally, patients may have urticaria, angioedema, and reactive airway symptoms occurring individually, without fulfilling the criteria for anaphylaxis.3,5,6,10"
+        },
+        {
+            "parent": 4,
+            "text": "Anaphylaxis is a clinical diagnosis.1,7The value of confirmatory blood testing is limited.11Two tests that have been evaluated for use in the acute setting are serum histamine and tryptase levels; elevations from baseline levels may be helpful in confirming anaphylaxis.7,11Histamine levels must be obtained within one hour of symptom onset, and samples require special handling because histamine breaks down with any movement. Tryptase levels do not increase until 30 minutes after the onset of symptoms and peak at one to two hours; therefore, serial levels are sampled on presentation, one to two hours after presentation, and 24 hours after presentation to assess for a return to baseline.5–7,11"
+        },
+        {
+            "parent": 4,
+            "text": "Allergen skin testing and in vitro assay for serum IgE of specific allergens do not reliably predict who will develop anaphylaxis.5,6Allergen testing identifies sensitivity to an allergen, but not whether the patient will have a systemic reaction. Testing is more helpful after an episode of anaphylaxis to identify which allergen most likely caused the reaction and to promote future avoidance.1,3"
+        },
+        {
+            "parent": 5,
+            "text": "In the management of anaphylaxis, administering intramuscular epinephrine and ensuring proper oxygenation and effective circulation are key.3A suggested office-based protocol is shown inFigure 1,9,12–15and recommended equipment is listed inTable 4.9,12–15Performing a primary survey and providing supportive care for the patient's airway, breathing, and circulation (with administration of epinephrine) are the critical initial steps. Patients should have easy access to commercially made, nonexpired epinephrine autoinjectors, which are preferred for delivering this therapy.9,12,16"
+        },
+        {
+            "parent": 5,
+            "text": "Securing the airway and providing 100 percent oxygen, when available, are crucial.9,12–15Intravenous fluid administration is critical for all patients whose hypotension does not respond to epinephrine.1,3,5,6,9,12–15Because of vascular dilation and increased permeability, with up to 35 percent of intravascular fluid shifting into the extravascular space,16intravenous fluids should be administered through two large-bore catheters. In adults and adolescents, 2 L of normal saline are usually administered initially; more may be required in severe cases.9Children should receive boluses of 10 to 20 mL per kg until hypotension is controlled.9,12–15Even in the presence of upper airway obstruction, placing a patient in the recumbent position with the lower extremities raised is preferred over elevating the head of the patient's bed, because the vascular collapse during anaphylaxis can be devastating.9,15"
+        },
+        {
+            "parent": 5,
+            "text": "The medications most commonly used for treatment of anaphylaxis are epinephrine, histamine H1receptor antagonists, and corticosteroids.17,18Current practice guidelines unanimously identify the timely administration of epinephrine, at initial diagnosis and ideally before respiratory failure or cardiovascular compromise, as the most important treatment for anaphylaxis.1,5–7,9,10,15–19Epinephrine activates the α1adrenergic receptors and β1and β2adrenergic receptors, leading to immediate vasoconstriction, increased peripheral resistance, decreased mucosal edema, increased cardiac inotropy/chronotropy, and bronchodilation, reversing the airway obstruction and vascular collapse.16In a retrospective review of food-induced anaphylaxis in 13 children, all seven of the surviving patients received epinephrine within five minutes of severe respiratory symptoms, whereas the six who died did not.20"
+        },
+        {
+            "parent": 5,
+            "text": "The window of therapeutic benefit of epinephrine is likely narrow, with several retrospective reviews demonstrating that delayed administration leads to poor outcomes.16–18Common adverse effects of epinephrine at recommended doses include agitation, anxiety, tremulousness, headache, dizziness, pallor, and palpitations.16Although concern may be warranted when giving epinephrine to older patients and patients with known coronary artery disease, there are no controlled studies that have weighed the risk,17and at this time, best evidence shows that benefits far outweigh the risk.16,17"
+        },
+        {
+            "parent": 5,
+            "text": "The preferred route of administration for epinephrine is intramuscular injection because it provides more reliable and quicker rise to effective plasma levels than the subcutaneous route.16–18An intramuscular 1:1,000 aqueous solution of epinephrine at a dose of 0.01 mg per kg (maximal dose of 0.3 mg in children and 0.5 mg in adults) is given every five to 15 minutes until the patient is without symptoms of respiratory or vascular compromise.9,12–15The onset of action is usually three to five minutes. The use of a commercially made autoinjector is preferred, because dosing errors are common when drawing epinephrine from a vial.21Commercial devices allow for a set dose with the correct dilution (e.g., 0.15 mg for patients weighing less than 66 lb [30 kg]; 0.3 mg for patients weighing more than 66 lb).22,23Intravenous epinephrine may be used to manage refractory anaphylaxis in consultation with an intensivist, because dosing requires close cardiovascular monitoring.17"
+        },
+        {
+            "parent": 5,
+            "text": "Adjunct therapies include H1receptor antagonists and systemic corticosteroids. H1receptor antagonists are not effective first-line agents for anaphylaxis. Although they improve cutaneous erythema and decrease pruritus in the acute setting, they have not been shown to reverse upper airway obstruction or improve hypotension.24With an onset of action of one to two hours, receptor antagonists, if given, should be used only as an adjunct to epinephrine and management of airway, breathing, and circulation. The limited benefits of H1receptor antagonists need to be weighed against the risk of sedation in a potentially compromised patient.24Because the onset of action is approximately six hours from administration, corticosteroids should not be used as a first-line treatment.15,20Corticosteroids may be beneficial in preventing biphasic reactions.16,19,25"
+        },
+        {
+            "parent": 5,
+            "text": "Patients with reactive airways disease and active bronchoconstriction require special consideration. If wheezing and coughing do not respond fully to epinephrine, these patients may benefit from receiving beta2agonist nebulizers.1,5,6Another population requiring special consideration includes patients on long-term beta-blocker therapy. These patients may have a blunted response to epinephrine and could benefit from glucagon (Glucagen; 3.5 to 5 mg intravenously once, repeat if no blood pressure response within 10 minutes).1,3,5,6"
+        },
+        {
+            "parent": 5,
+            "text": "If a patient with anaphylaxis develops significant respiratory or circulatory symptoms (e.g., hypoxia, respiratory distress, hypotension), transport to a hospital must be arranged for continued therapy and monitoring. This is especially important when epinephrine administration is delayed and the patient's hypotension or airway obstruction does not resolve.1,5,6,10"
+        },
+        {
+            "parent": 5,
+            "text": "In most cases of anaphylaxis, symptoms completely abate with intramuscular epinephrine. The physician will need to determine the length of postreaction monitoring. The unpredictable nature of biphasic reactions makes this decision difficult, and no guidelines address this issue.8Reaction severity is not a predictor of biphasic reactions.9The patient's ability to recognize symptoms and to self-administer epinephrine using an autoinjector should drive this decision. Ten hours of observation is probably adequate in most situations, but some investigators recommend a minimum of 24 hours.8,9"
+        },
+        {
+            "parent": 6,
+            "text": "Following an anaphylactic reaction, appropriate education may be helpful for preventing and ameliorating future events. If a physician feels inadequately trained to provide such education, referral to an allergy specialist may be appropriate.9,16Sometimes the patient presents remote from the event, and the offending allergen may be in question. In such cases, an allergy specialist may also be helpful in determining possible causes. Patients may choose to undergo allergy testing in a controlled environment to find the specific allergen to ensure avoidance and consideration for immunotherapy.1,3,5,6Table 5provides a list of preventive measures to reduce the risk of repeat episodes of anaphylaxis.9,12"
+        },
+        {
+            "parent": 6,
+            "text": "Allergen avoidance is the mainstay of prevention, but may not be completely attainable, especially with insect and food allergies.1,3,10A commercially made epinephrine autoinjector should be prescribed to all patients who have experienced anaphylactic reactions.9,12When properly used, these devices can allow for early administration of epinephrine before refractory anaphylaxis develops.21Patients should be instructed to call 911 or go to the nearest hospital for monitoring if they use their self-injectable device.9,12The three commercially made devices in the United States are the Epipen, Twinject, and Adrenaclick. Physicians and patients should be familiar with their proper use. Several retrospective reviews have shown no permanent sequelae, and only rare need for any invasive treatment when injected inappropriately or in the wrong location.26–28"
+        },
+        {
+            "parent": 6,
+            "text": "Figure 2provides step-by-step instructions on how to use the current Epipen (released in 2008).29A video can be viewed athttp://www.youtube.com/watch?v=pgvnt8YA7r8&amo;playnext=1&amo;list=PLB36920D65D63755C."
+        },
+        {
+            "parent": 6,
+            "text": "Data Sources:A PubMed search was completed in Clinical Inquires using the key terms anaphylaxis, epinephrine, epinephrine autoinjector, antihistamine, and steroids. The search included meta-analyses, systematic reviews, clinical guidelines, and clinical reviews. Also searched were the Agency for Healthcare Research and Quality evidence reports, Cochrane database, National Guideline Clearinghouse, Institute for Clinical Systems Improvement, MD Consult, and the U.S. Preventive Services Task Force. Search date: April 2, 2011."
+        }
+    ],
+    "locked": false
+}

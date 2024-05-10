@@ -1,0 +1,173 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/1015/p1492.html#afp20051015p1492-f1",
+    "title": "Evaluation of Syncope | AAFP",
+    "author": "THOMAS H. MILLER, M.D., AND JERRY E. KRUSE, M.D., M.S.P.H.",
+    "doi": "Am Fam Physician.2005;72(8):1492-1500",
+    "abstract": "Though relatively common, syncope is a complex presenting symptom defined by a transient loss of consciousness, usually accompanied by falling, and with spontaneous recovery. Syncope must be carefully differentiated from other conditions that may cause a loss of consciousness or falling. Syncope can be classified into four categories: reflex mediated, cardiac, orthostatic, and cerebrovascular. A cardiac cause of syncope is associated with significantly higher rates of morbidity and mortality than other causes. The evaluation of syncope begins with a careful history, physical examination, and electrocardiography. Additional testing should be based on the initial clinical evaluation. Older patients and those with underlying organic heart disease or abnormal electrocardiograms generally will need additional cardiac evaluation, which may include prolonged electrocardiographic monitoring, echocardiography, and exercise stress testing. When structural heart disease is excluded, tests for neurogenic reflex-mediated syncope, such as head-up tilt-table testing and carotid sinus massage, should be performed. The use of tests such as head computed tomography, magnetic resonance imaging, carotid and transcranial ultrasonography, and electroencephalography to detect cerebrovascular causes of syncope should be reserved for those few patients with syncope whose history suggests a neurologic event or who have focal neurologic signs or symptoms.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "REFLEX-MEDIATED CAUSES",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "CARDIAC CAUSES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ORTHOSTATIC CAUSES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "CEREBROVASCULAR CAUSES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Initial Assessment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ADDITIONAL TESTING",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Approximately 1 to 3 percent of emergency department visits and 6 percent of hospital admissions involve syncope, and 20 to 50 percent of adults experience one or more episodes during their lives.1More than 75 percent of persons older than 70 years will experience syncope at least once, 20 percent will have two episodes, and a small subset will have three or more episodes.2–5"
+        },
+        {
+            "parent": -1,
+            "text": "The defining characteristics of syncope include rapid onset with transient loss of consciousness usually accompanied by falling, followed by spontaneous, complete, and usually prompt recovery without intervention.2,5–7Because some patients use the term dizziness to describe syncopal events, it is important to ask patients exactly what they mean by dizziness and whether loss of consciousness occurred."
+        },
+        {
+            "parent": -1,
+            "text": "Syncope must be differentiated from vertigo, coma, drop attacks, dizziness, sudden cardiac death, and seizures. Vertigo (i.e., sensation of movement) does not include loss of consciousness. Coma involves loss of consciousness without spontaneous recovery. Drop attacks involve sudden falls without loss of consciousness or warning and with immediate recovery. Drop attacks may be idiopathic but also have several specific causes (e.g., underlying cardiovascular disease, spondylotic osteophytes or colloidal cysts that transiently block the vertebral arteries or cerebral aqueduct, vertebrobasilar stroke). The typical signs of epileptic seizures include déjàvu, tongue lacerations, limb jerking, and postictal confusion but not common signs of syncope, such as prodromal diaphoresis, palpitations, or provocation by prolonged sitting or standing.8Although limb jerking is noted in 15 percent of syncopal patients, the other typical signs of seizures are absent.8"
+        },
+        {
+            "parent": -1,
+            "text": "Decreased cerebral perfusion is common to all causes of syncope. Positional change from supine to erect causes a 300- to 800-mL shift in blood volume from the thoracic cavity to the lower extremities. Cerebrovascular autoregulation ensures that cerebral blood flow remains within a narrow range independent of systemic blood pressure. Healthy adults tolerate a drop in systolic blood pressure to 70 mm Hg without incident; however, older patients and those with chronic hypertension are susceptible to syncope when a relatively small decrease in systemic blood pressure occurs."
+        },
+        {
+            "parent": 0,
+            "text": "The underlying cause of syncope remains unidentified in 13 to 31 percent of patients even after a thorough evaluation.2,6,9–11Although underlying causes are reported in various ways, this review uses four causal categories: reflex mediated (36 to 62 percent), cardiac (10 to 30 percent), orthostatic (2 to 24 percent), and cerebrovascular (about 1 percent).3,5The major underlying causes for syncope are listed inTable 1.6,12"
+        },
+        {
+            "parent": 1,
+            "text": "Reflex-mediated syncope has three common variations: vasovagal (i.e., common faint), carotid sinus, and situational. There is no increased risk for cardiovascular morbidity or mortality associated with reflex-mediated syncope.2"
+        },
+        {
+            "parent": 1,
+            "text": "Upon positional change, a series of complex neurohormonal events maintain cerebral perfusion in healthy persons. Normally, decreased venous return and subsequent decreased left ventricular filling result in increased sympathetic tone and a hypercontractile left ventricle. However, overly sensitive left ventricular receptors may misinterpret hypercontractility as volume overload and falsely inhibit sympathetic stimulation while promoting parasympathetic drive,6resulting in hypotension, brachycardia, and syncope."
+        },
+        {
+            "parent": 1,
+            "text": "Vasovagal syncope has three distinct phases: a prodrome, loss of consciousness, and a postsyncopal phase. A precipitating event or situation (e.g., emotional stress, trauma, pain, sight of blood, prolonged standing) usually is identifiable. The prodrome, characterized by diaphoresis, epigastric discomfort, extreme fatigue, weakness, yawning, nausea, dizziness, and vertigo, results from increased parasympathetic tone and may last seconds to several minutes. Lying down or removing the stimulus may abort the syncopal episode. The postsyncopal phase may last hours or, rarely, days and may include protracted confusion, disorientation, nausea, dizziness, and a general sense of poor health.9,13A prolonged postsyncopal phase may be associated with causes more serious than vasovagal stimulation and should prompt a more extensive evaluation."
+        },
+        {
+            "parent": 1,
+            "text": "Carotid sinus syncope is suggested by a history of syncope after head turning, shaving, or wearing a tight collar, particularly in older patients. Carotid sinus massage should be considered in older patients with unexplained presyncope, syncope, or falls when cardiovascular or neurologic investigations are nondiagnostic. The procedure and diagnostic criteria for carotid sinus massage are found inTable 2.9,14"
+        },
+        {
+            "parent": 1,
+            "text": "Situational syncope is related to micturition, defecation, coughing, or gastrointestinal stimulation. The history is diagnostic. The mechanism involves a similar vagal stimulation in addition to the decreased venous return associated with the Valsalva maneuver.7"
+        },
+        {
+            "parent": 1,
+            "text": "Glossopharyngeal neuralgia is an uncommon pain syndrome that can cause syncope. Swallowing, talking, sneezing, and touching trigger points in the tonsils, ear, pharynx, and larynx produce painful stimuli interpreted as increased pressure in the carotid sinus. This leads to parasympathetic stimulation and can cause syncope.15Trigeminal neuralgia is uncommonly accompanied by syncope, and the pathophysiologic mechanism of syncope in this condition is unclear.16"
+        },
+        {
+            "parent": 2,
+            "text": "Coronary artery disease, congestive heart failure, ventricular tachycardia, and myocarditis may be precursors to arrhythmia and syncope. Patients with underlying cardiac disease are at greater risk for recurrent syncopal events than are other patients with syncope.2,9,11Patients with syncope are more likely to have coronary artery or cerebrovascular disease and to take cardiac or antihypertensive medications than patients without syncope.1Medications that affect cardiac conduction are a potential cause of syncope, and arrhythmias may be induced despite nontoxic blood levels. Compared with all other patients with syncope, patients with cardiac-induced syncope have almost double the risk of all-cause mortality and an increased risk of fatal and nonfatal cardiovascular events.2,11Patients with underlying cardiac disease, particularly older patients, also are more likely to require hospital admission.17Indications for hospitalization of patients with syncope are shown inTable 3.4A cardiac cause is found in only 3 percent of patients with syncope who have no previous diagnosis of heart disease.9"
+        },
+        {
+            "parent": 3,
+            "text": "Orthostatic hypotension is defined as a drop in blood pressure of at least 20 mm Hg systolic or 10 mm Hg diastolic within three minutes of standing.18Tachycardia and a heart rate greater than 100 beats per minute during testing indicate volume depletion. Minimal cardiac acceleration suggests baroreflex impairment that may occur normally in older patients. Medications associated with orthostatic hypotension include antihypertensives, antidepressants, and diuretic agents. Autonomic insufficiency secondary to diabetes mellitus or alcohol abuse also may cause orthostasis."
+        },
+        {
+            "parent": 4,
+            "text": "In patients without focal neurologic symptoms and signs, syncope from cerebrovascular disease is extremely rare. Transient ischemia may result from vertebrobasilar insufficiency and may cause syncope. Concurrent neurologic symptoms including vertigo, ataxia, or sensory disturbance often will be found.7Headache, vertigo, dysarthria, and diplopia also are suggestive of syncope resulting from neurologic causes. Neurologic causes should be suspected if headache or dizziness occurs during recovery from syncopal episodes."
+        },
+        {
+            "parent": 5,
+            "text": "The cause of syncope can be identified by history and physical examination alone in more than 60 percent of patients.3,10Assessment should focus on verification of a syncopal event, presence of heart disease, presence of other life-threatening causes, and clinical features of the history that suggest a diagnosis. An algorithm for the evaluation of patients with syncope is shown inFigure 1.6"
+        },
+        {
+            "parent": 6,
+            "text": "Syncope may be a symptom of a life-threatening condition such as aortic dissection, pulmonary embolism, acute myocardial infarction, or outflow tract obstruction, all of which require immediate identification and treatment.4"
+        },
+        {
+            "parent": 6,
+            "text": "The history should focus on circumstances immediately before the attack, its onset, the attack, the end of the attack, and the patient’s background (Table 42,4,6)."
+        },
+        {
+            "parent": 6,
+            "text": "Prior awareness of syncopal events or syncope in association with micturition, defecation, painful stimuli, or the sight of blood suggests a reflex-mediated mechanism. Syncope associated with exertion or palpitations suggests cardiac causes. Positional syncope may indicate orthostatic hypotension. Drug-related syncope is associated with cardiovascular, neurologic, antiparkinsonian, and antidepressant medications.6Drug-to-drug interactions also may induce syncopal events.19For example, the plasma concentration of tricyclic antidepressants may be increased by the concomitant use of cytochrome P450 enzyme inhibitors such as itraconazole (Sporanox), resulting in hypotension and syncope.20Syncope also may result from the interaction of antihypertensive agents and many other classes of medications."
+        },
+        {
+            "parent": 7,
+            "text": "The physical examination should focus on vital signs, including measures of orthostatic and bilateral blood pressure and the cardiovascular and neurologic systems. The cardiac examination should assess volume status, valvular heart disease, and rhythm disturbance. The neurologic examination should seek signs of focal neurologic deficit. Signs of occult blood loss should be assessed."
+        },
+        {
+            "parent": 8,
+            "text": "Cerebrovascular causes of syncope are rare, and tests to detect cerebrovascular disease, such as head computed tomography (CT), magnetic resonance imaging (MRI), electroencephalography (EEG), and carotid ultrasonography are overused and they tend to displace the higher yield cardiovascular tests, which are not used enough.11,21Head CT, MRI, EEG, and carotid ultrasonography should be ordered only when history or physical examination suggests a neurologic cause or after testing for cardiac or neurally mediated causes of syncope has been completed."
+        },
+        {
+            "parent": 8,
+            "text": "An electrocardiogram (ECG) should be ordered for all patients with syncope.4,6Although the cost-effectiveness of ECG has been questioned,3it is risk free and inexpensive.6Abnormal ECG findings are common in patients with syncope.3,10Abnormal ECG findings occur in about 90 percent of patients with cardiac-induced syncope but in only 6 percent of patients with neurally mediated syncope.10ECG findings suggestive of cardiac-induced syncope are shown inTable 5.4A normal ECG in a patient with syncope also is important. In one study,22none of the 67 patients with syncope who had a negative cardiac history and a normal ECG had an abnormal echocardiogram."
+        },
+        {
+            "parent": 8,
+            "text": "Twenty-four hour (Holter) electrocardiographic monitoring is indicated when there is an increased probability of identifying an arrhythmic cause for syncope. This includes syncope with the electrocardiographic abnormalities listed inTable 5, patients with known or suspected heart disease, patients with syncope preceded by palpitations, syncope when supine or during exertion, and patients with a family history of sudden death.4Holter monitoring may document syncopal symptoms without arrhythmia, thus discounting arrhythmic causes, or may document instances of arrhythmia without syncope. Uncommonly, asymptomatic arrhythmias such as prolonged sinus pauses, Mobitz type II block, and nonsustained ventricular tachycardia suggest the need for further treatment. If no arrhythmias are found and no syncope occurs during monitoring, prolonged electrocardiographic monitoring (i.e., event monitor) is indicated.23,24"
+        },
+        {
+            "parent": 8,
+            "text": "Echocardiography is unlikely to be helpful in the absence of known cardiac disease, a history suggestive of cardiac disease, or an abnormal ECG.3,22However, in patients with syncope who have a history of heart disease or an abnormal ECG, echocardiography is useful.22Patients presenting with exercise-associated syncope, particularly those with a heart murmur, should have an echocardiogram to exclude hypertrophic or valvular causes of cardiac disease.23Finally, for patients with syncope unexplained by history, physical examination, or ECG, the diagnosis of arrhythmia is twice as likely in patients with systolic dysfunction compared with those who have normal systolic function.22"
+        },
+        {
+            "parent": 8,
+            "text": "Exercise testing can diagnose ischemia and exercise-induced tachyarrhythmias or reproduce exercise-associated and exertional syncope. Postexertional syncope, as distinct from exertional syncope, results from autonomic failure and reflex-mediated mechanisms.4"
+        },
+        {
+            "parent": 8,
+            "text": "Intracardiac electrophysiologic studies (EPS) use electric stimulation and monitoring to discover conduction abnormalities that predispose patients to ventricular or supraventricular tachyrhythmias. The diagnostic yield of EPS is significantly greater in patients with heart disease; it is only rarely indicated in patients with clinically normal hearts and normal ECGs. Patients with underlying organic heart disease and non-diagnostic prolonged electrocardiographic monitoring, and older patients with conduction disease or those at high risk for injury-causing accidents are candidates for EPS testing.25Recently, subcutaneous recorders have been investigated for the diagnosis of recurrent unexplained syncope or presyncope following inconclusive EPS results.23,24"
+        },
+        {
+            "parent": 8,
+            "text": "Head-up tilt-table (HUTT) testing(Table 65,26)is used widely for the evaluation of patients with unexplained syncope and is particularly important in those with structurally normal hearts.5HUTT testing uses changes in position to reproduce the symptoms of the syncopal event by inducing bradycardia or hypotension suggestive of reflex-mediated syncope. After arrhythmias have been excluded as the cause of syncope, the specificity of a positive HUTT test is such that it is considered diagnostic for reflex-mediated vasovagal syncope.11For patients in whom HUTT testing provokes loss of consciousness despite no change in blood pressure or heart rate, psychiatric disorders should be considered.27"
+        },
+        {
+            "parent": 8,
+            "text": "Tests for cerebrovascular disease such as EEG, CT, MRI, and carotid or transcranial Doppler and ultrasound studies are indicated only when the history and physical examination suggest a cerebrovascular cause. This includes a history of seizure activity, prolonged loss of consciousness, disturbance in vision (e.g., diplopia), headache and postictal symptoms; or focal neurologic signs or bruit upon physical examination."
+        },
+        {
+            "parent": 8,
+            "text": "Although hematocrit and the serum level of glucose may be useful when initially evaluating syncope,10other blood tests rarely yield useful information.3,6Syncope caused by bleeding usually can be clinically diagnosed.6"
+        },
+        {
+            "parent": 8,
+            "text": "Abnormal serotonin metabolism may play a role in neurally mediated syncope,5,28and generalized anxiety disorder, panic disorder, major depression, and alcohol dependence have been reported more commonly in patients with syncope. Patients with psychiatric illness generally do not have underlying heart disease, have more frequent syncope, and have a higher frequency of recurrent syncope than those with other disorders.25"
+        }
+    ],
+    "locked": false
+}

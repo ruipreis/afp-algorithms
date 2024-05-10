@@ -1,0 +1,81 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/1215/p1874.html#afp20071215p1874-f1",
+    "title": "ACCP Updates Guidelines for the Treatment of PAH | AAFP",
+    "author": "SHERRI DAMLO",
+    "doi": "Am Fam Physician.2007;76(12):1874-1878",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "FUNCTIONAL CLASS II",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "FUNCTIONAL CLASS III",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "FUNCTIONAL CLASS IV",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Conclusions",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:American College of Chest Physicians"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Chest, June 2007"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.chestjournal.org/content/vol131/issue6/index.shtml"
+        },
+        {
+            "parent": -1,
+            "text": "Pulmonary arterial hypertension (PAH) is often a progressive disorder that results in right ventricular dysfunction and impairment in activity tolerance, and it can lead to right-heart failure and death. PAH can occur in patients with other underlying medical conditions. Although the pathogenesis is complex and not fully understood, it includes environmental and genetic factors that alter vascular function and structure. In response to dramatic advances in the treatment of PAH in recent years, the American College of Chest Physicians (ACCP) has updated its 2004 guidelines with evidence-based treatment recommendations for the management of this disorder."
+        },
+        {
+            "parent": 0,
+            "text": "Developments in the treatment of PAH are rapidly advancing, so physicians should consider a variety of factors for patients with the disorder(Figure 1), including cardiopulmonary hemodynamics, signs and symptoms of right-heart failure, drug-drug interactions, side effects, and New York Heart Association functional class(Table 1). Quantifying functional class may be difficult because it varies among patients and among health care professionals, and it may not always correlate with other indices of disease severity. However, functional class does correlate with outcomes in patients with idiopathic PAH."
+        },
+        {
+            "parent": 1,
+            "text": "Sildenafil (Revatio) and intravenous and subcutaneous treprostinil (Remodulin) are the only therapies approved for functional class II patients with PAH. The ACCP recommends sildenafil as the first choice for most of these patients because of its relative effectiveness and ease of administration."
+        },
+        {
+            "parent": 2,
+            "text": "The U.S. Food and Drug Administration has approved five drugs for the treatment of functional class III patients with PAH: bosentan (Tracleer), sildenafil, intravenous epoprostenol (Flolan, brand no longer available in the United States), iloprost (Ventavis), and subcutaneous and intravenous treprostinil. The ACCP recommends that bosentan or sildenafil be considered for “early” functional class III patients. Therapeutic decisions must be based on clinical judgment, and the relative toxicities of each drug and the specific situation and preferences of the patient should be considered (e.g., patients with liver abnormalities may respond better to sildenafil; those with ocular disease may be better candidates for bosentan). Patients with more advanced PAH may require treatment with a prostanoid (e.g., intravenous epoprostenol, treprostinil), iloprost, or subcutaneous treprostinil."
+        },
+        {
+            "parent": 3,
+            "text": "All currently labeled therapies are approved for patients with functional class IV PAH, but the ACCP recommends treatment with intravenous epoprostenol for patients who are critically ill. Because there are limited data on which to base treatment decisions for patients with functional class IV symptoms, oral, inhaled, or subcutaneous agents generally should not be used as first-line therapy."
+        },
+        {
+            "parent": 4,
+            "text": "To determine the appropriate therapy, recommendations should be based on each patient's specific situation. Cost may also be a factor when considering choice of therapy. Physicians should look for contributing factors and underlying causes, and a thorough diagnostic evaluation should be performed in these patients. However, because of the complexity of the diagnostic evaluation and treatment options, the ACCP recommends that physicians consider referring patients with PAH to a specialized health care facility."
+        }
+    ],
+    "locked": false
+}

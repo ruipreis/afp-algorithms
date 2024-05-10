@@ -1,0 +1,67 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/1001/p1338.html#afp20021001p1338-uf1",
+    "title": "Obstructive Sleep Apnea Syndrome in Children | AAFP",
+    "author": "BARRETT M. SCHROEDER",
+    "doi": "Am Fam Physician.2002;66(7):1338-1344",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Obstructive Sleep Apnea Syndrome",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Recommendations",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Research Recommendations",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "A subcommittee for the American Academy of Pediatrics (AAP) recently developed an evidence-based clinical practice guideline on the diagnosis and management of obstructive sleep apnea syndrome in children. This guideline was published in the April 2002 issue ofPediatrics."
+        },
+        {
+            "parent": -1,
+            "text": "The AAP guideline focuses on uncomplicated obstructive sleep apnea syndrome in otherwise healthy children with adenotonsillar hypertrophy and/or obesity who are being treated by primary care physicians. The subcommittee prepared an algorithm for the diagnosis and management of the syndrome in these patients(see Figure)."
+        },
+        {
+            "parent": -1,
+            "text": "The guideline specifically excludes complex, high-risk patients (defined in a footnote to accompanyingFigure). Children with life-threatening obstructive sleep apnea syndrome who present with cardiorespiratory failure are also excluded."
+        },
+        {
+            "parent": 0,
+            "text": "The American Thoracic Society defines obstructive sleep apnea syndrome as “a disorder of breathing during sleep characterized by prolonged partial upper airway obstruction and/or intermittent complete obstruction (obstructive apnea) that disrupt normal ventilation during sleep and normal sleep patterns.” The syndrome needs to be distinguished from primary snoring (i.e., snoring without obstructive apnea, frequent arousals from sleep, or gas-exchange abnormalities)."
+        },
+        {
+            "parent": 0,
+            "text": "Obstructive sleep apnea syndrome occurs in children of all ages, but it is thought to be most common in preschool-aged children. Risk factors include adenotonsillar hypertrophy, obesity, neuromuscular disease, and craniofacial anomalies. The AAP guideline discusses the first two risk factors."
+        },
+        {
+            "parent": 0,
+            "text": "Untreated obstructive sleep apnea syndrome can result in serious complications. Reported sequelae have included neurocognitive impairment, behavior problems, failure to thrive, cor pulmonale, and death. Early diagnosis and treatment have reduced the incidence of severe complications."
+        },
+        {
+            "parent": 1,
+            "text": "The following AAP recommendations accompany theFigure. The recommendations refer to evidence evaluated in another AAP technical report on childhood obstructive sleep apnea syndrome (www.pediatrics.org)."
+        },
+        {
+            "parent": 1,
+            "text": "Screening for snoring should be part of routine health maintenance visits in all children; if snoring is present, a more detailed evaluation should follow (good evidence; strong recommendation). NOTE: Obstructive sleep apnea syndrome is unlikely in children who do not have habitual snoring.Complex, high-risk patients should be referred to a subspecialist (good evidence for increased surgical risk in these patients and consequent need for more complex management; strong recommendation).Patients who have cardiorespiratory failure cannot wait for elective evaluation. These patients are not covered in the AAP guideline because it is expected that they will be in an intensive care setting and managed by a subspecialist.The diagnostic evaluation should be thorough. The history and physical examination have been shown to be poor in differentiating between primary snoring and obstructive sleep apnea syndrome (strong evidence). Polysomnography is the diagnostic method of choice; it is the only test that quantifies sleep and ventilatory abnormalities. Other screening techniques, such as videotaping, audiotaping, nocturnal pulse oximetry, and daytime nap polysomnography, may be helpful if the results are positive. However, these tests have high false-negative rates, and they do not assess the severity of the syndrome (disease severity is useful in determining treatment and follow-up). When the results of other diagnostic tests are negative, polysomnography should be performed; additional audiotaping is necessary (strong evidence; strong recommendation).In most children, adenotonsillectomy is a first-line treatment for obstructive sleep apnea syndrome; continuous positive airway pressure is an option in patients who are not surgical candidates or do not respond to surgical treatment (strong evidence; strong recommendation). NOTE: Potential complications of adenotonsillectomy include anesthetic-related medical problems, pain and poor oral intake in the immediate postoperative period, and hemorrhage. Patients with obstructive sleep apnea syndrome may have respiratory complications (e.g., worsening of the syndrome, pulmonary edema); death attributable to severe respiratory complications has been reported in patients with severe obstructive sleep apnea syndrome. Risk factors for complications after adenotonsillectomy in children with obstructive sleep apnea syndrome include age younger than three years, cardiac complications of the syndrome (e.g., right ventricular hypertrophy), severe obstructive sleep apnea syndrome determined by polysomnography, failure to thrive, obesity, prematurity, recent respiratory infection, craniofacial anomalies, and neuromuscular disorders (the last two risk factors are not discussed in the AAP guideline).High-risk patients should be hospitalized overnight after surgery and monitored continuously with pulse oximetry (strong evidence for increased risk of postoperative complications; strong recommendation).After surgery, patients should be reevaluated to determine whether they need additional treatment; clinical reevaluation should be performed in all patients, and objective testing should be performed in high-risk patients (good evidence; strong recommendation)."
+        },
+        {
+            "parent": 2,
+            "text": "The following areas require additional investigation:"
+        },
+        {
+            "parent": 2,
+            "text": "Accurate prevalence data for obstructive sleep apnea syndrome.Risk factor identification for complications of the syndrome (e.g., relationship of disease severity to specific outcomes).Development and evaluation of screening methods with low cost, high sensitivity, and high specificity.Delineation of the natural history of untreated and treated primary snoring and obstructive sleep apnea syndrome.Assessment of the long-term effectiveness of adenotonsillectomy, continuous positive airway pressure, and other treatments."
+        }
+    ],
+    "locked": false
+}

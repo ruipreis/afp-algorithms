@@ -1,0 +1,167 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0615/p2187.html#afp20060615p2187-f1",
+    "title": "Esophageal Cancer: A Review and Update | AAFP",
+    "author": "JOHN C. LAYKE, D.O., AND PETER P. LOPEZ, M.D.",
+    "doi": "Am Fam Physician.2006;73(12):2187-2194",
+    "abstract": "Although significant advancements have been made in the treatment of esophageal cancer, this aggressive malignancy commonly presents as locally advanced disease with a poor prognosis. Despite improvements in the detection of premalignant pathology, newer preventative strategies, and the development of more effective combination therapies, the overall incidence of esophageal carcinomas has risen. A clear association has been established between the development of esophageal cancer andHelicobacter pyloriinfection, gastroesophageal reflux disease, smoking, and heavy alcohol use. However, the growing number of newly diagnosed esophageal adenocarcinomas, despite widespread treatments with proton pump inhibitors and the eradication ofH. pylori,leaves the medical community searching for more answers. There is a potential link between esophageal adenocarcinoma and obesity. Common presenting symptoms of esophageal cancer are dysphagia, odynophagia, and progressive weight loss. The initial assessment for patients with these symptoms is made with double-contrast barium esophagraphy. Treatment modalities include surgery, chemotherapy, radiation therapy, or a combination of modalities. Prevention strategies include smoking and alcohol cessation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Staging",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "SINGLE MODALITIES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Radiation Therapy",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Chemotherapy",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Surgical Resection",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MULTIPLE MODALITIES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Palliation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Epithelial tumors of the esophagus (i.e., squamous cell and adenocarcinoma) are responsible for more than 95 percent of all esophageal carcinomas, with an estimated 14,520 newly diagnosed cases and 13,570 deaths in 2005.1Nonepithelial cell carcinomas of the esophagus (e.g., metastatic tumors, lymphomas, sarcomas) are rare, and no evidence has suggested an increasing trend."
+        },
+        {
+            "parent": -1,
+            "text": "A large portion of new patients with esophageal cancer will present with advanced disease (i.e., stages III and IV). Of this group, 90 percent will have had vague symptomatology for approximately two to four months.2There is a need for early detection, aggressive evaluation, and timely referral to an appropriate subspecialist."
+        },
+        {
+            "parent": 0,
+            "text": "Epidemiologic data have shown considerable variability in determining trends in incidence of gastrointestinal malignancies worldwide, emphasizing that multifactorial etiologies are responsible. A strong association consistently has been demonstrated betweenHelicobacter pyloriinfection and gastric cancer.3The overall worldwide decrease in the incidence of gastric cancer may be attributed to the aggressive treatment ofH. pylori,but the overall incidence of esophageal cancer is on the rise."
+        },
+        {
+            "parent": 0,
+            "text": "The rising incidence of esophageal cancer over the past two decades coincides with a change in histologic type and primary tumor location. Adenocarcinoma of the esophagus has slowly replaced squamous cell carcinoma as the most common type of esophageal malignancy in the United States and Western Europe.4Within the United States, the reported mean incidence of esophageal cancer in patients younger than 80 years is 3.2 per 100,000 persons, with an overall male-to-female ratio of 3:1.5"
+        },
+        {
+            "parent": 0,
+            "text": "Table 12,6,7lists the major risk factors for esophageal squamous cell carcinoma and adenocarcinoma. Squamous cell carcinoma occurs more commonly in black than white patients and more commonly in men than women, although the prevalence in women has been increasing steadily. Smoking and alcohol ingestion are proven etiologic factors in the development of squamous cell carcinoma, and there is an association between other esophageal irritants such as lye ingestion, rapidly consumed high-starch diets without fruits and vegetables, and radiation therapy.2There also may be a causal relationship between esophageal tumors and diseases affecting the esophagus and nearby structures such as achalasia, previous head and neck cancer, and Plummer-Vinson syndrome (i.e., esophageal webs associated with iron deficiency anemia)."
+        },
+        {
+            "parent": 0,
+            "text": "In contrast to squamous cell carcinoma, it is unclear to what extent, if any, smoking and alcohol contribute to the development of esophageal adenocarcinoma. There is a proven association between adenocarcinoma and Barrett’s esophagus, a condition in which metaplastic columnar epithelium replaces normal stratified squamous mucosa that appears to arise in response to chronic inflammation from gastroesophageal ref lux disease (GERD).6,8–10In the United States, the rapidly growing problem of obesity has been shown to have a causal relationship to GERD, thus increasing the risk of developing esophageal adenocarcinoma.7,11,12Results from the 1999–2002 National Health and Nutrition Examination Survey indicate that about 65 percent of U.S. adults are overweight or obese.13This represents a 16 percent increase since 1994, paralleling a rise in the incidence of esophageal adenocarcinoma. Other risk factors for esophageal adenocarcinoma include scleroderma, myotomytreated achalasia, and Zollinger-Ellison syndrome, each of which has been associated with esophagitis."
+        },
+        {
+            "parent": 1,
+            "text": "The typical patient with squamous cell carcinoma of the esophagus is male, between 60 and 70 years of age, with a history of cigarette or excessive alcohol use. Adenocarcinoma of the esophagus typically presents in white men between 50 and 60 years of age, usually from the middle or upper socioeconomic class. A history of smoking or alcohol use may not be present, and a hiatal hernia leading to reflux and chronic antacid use often is reported.2"
+        },
+        {
+            "parent": 1,
+            "text": "Progressive dysphagia (i.e., difficulty swallowing) or odynophagia (i.e., pain with swallowing) are the most common presenting complaints of patients with esophageal cancer. These symptoms usually have been present for several months before seeking medical treatment and initially present as difficulty or pain when swallowing dry foods or breads. An unintentional loss of 10 percent of normal body weight occurs over a short time (i.e., less than six months). Later signs and symptoms include chest or back pain when swallowing, halitosis, or clubbing. Hoarseness from recurrent laryngeal nerve involvement, Horner syndrome (i.e., miosis, ptosis, absence of sweating on the ipsilateral face and neck), supraclavicular adenopathy, persistent substernal chest pain unrelated to swallowing, a tracheoesophageal fistula, or sudden onset of hiccups are signs indicating possible transmural disease involving the mediastinum or diaphragm."
+        },
+        {
+            "parent": 1,
+            "text": "The diagnostic evaluations of adenocarcinoma and squamous cell carcinoma are essentially identical.Figure 1is an algorithm for the evaluation of suspicious esophageal symptoms. The first step in diagnosing esophageal cancer is double-contrast barium esophagraphy. The double-contrast technique involves the use of solid preparations (e.g., barium-soaked bread) and liquid barium for a more complete evaluation of dysphagia. An abnormal study would reveal filling defects or esophageal narrowing, and should be followed by endoscopy and cytologic brushings of the involved area. In the presence of suspicious symptoms and normal study results, endoscopy with biopsy and brushings of any questionable areas is indicated. Studies indicate that multiple biopsies of suspicious lesions are required for accurate diagnosis because visible tissue may reveal only inflammation.14–16An upper gastrointestinal endoscopy also may be used in the initial evaluation of patients suspected of having esophageal pathology."
+        },
+        {
+            "parent": 1,
+            "text": "Once a tumor is identified and the histopathology is established, evaluation of the extent of invasion is necessary for staging and for selecting therapeutic options. This work-up includes computed tomography (CT) of the chest to exclude lung parenchyma or mediastinal involvement. CT of the abdomen to assess liver metastases or celiac, aortic, or retroperitoneal lymph node spread should be performed for lesions of the lower third of the esophagus. For lesions that occur in the middle or upper third of the esophagus, bronchoscopy should be performed to rule out tracheal involvement. Liver function tests may be elevated with metastases, and alkaline phosphatase may be elevated if bone metastases are present. If bone metastases are suspected, a bone scan is recommended."
+        },
+        {
+            "parent": 1,
+            "text": "To improve preoperative staging following CT, several adjunctive modalities have been suggested.17–21Transesophageal endoscopic ultrasonography has been recommended for tumornode staging following a CT scan that has excluded distant metastases and local nodal involvement precluding surgery. Transesophageal endoscopic ultrasonography has been shown to accurately determine the extent of tumor invasion into the esophageal wall and can more effectively assess the degree of local lymph node involvement than CT alone, resulting in an overall accuracy of 89 percent.18Bronchoscopy is used primarily in upper- or middle-third lesions to confirm or reject the possible tracheobronchial involvement.19Laparoscopy and thoracoscopy are minimally invasive modalities that are being investigated for effectiveness in preoperative staging, and they have been shown to more accurately determine staging by detecting small lymph node metastases missed by CT.20,21Positron emission tomography, although still under clinical investigation, has been used to accurately stage potentially operable esophageal cancers and to predict and assess responsiveness to chemotherapy regimens and induction radiochemotherapy.22–24"
+        },
+        {
+            "parent": 2,
+            "text": "At initial diagnosis, assessment of disease extent is important for determining optimal management, subsequent therapy outcomes, and prognosis. In 1988, a revised tumor-node-metastases (TNM) classification was used to closely correlate stage and disease prognosis; however, recent literature indicated that this TNM system did not fully discriminate staging according to survival. The depth of wall penetration and lymph node metastases were shown to be better prognostic indicators, and in 2002, the American Joint Committee on Cancer revised the staging system to include these prognostic variables(Table 2).25"
+        },
+        {
+            "parent": 3,
+            "text": "Several modifiable environmental, dietary, and habitual risk factors have been associated with the development of esophageal carcinoma.2History—including chewing tobacco, cigarette smoking, and excessive alcohol use—must be known; dietary habits and the presence or absence of GERD-associated symptoms must be addressed."
+        },
+        {
+            "parent": 3,
+            "text": "Cessation of modifiable risk factors (e.g., smoking, excessive alcohol ingestion), appropriate treatment of premalignant conditions (e.g., GERD, achalasia, strictures), and aggressive monitoring may significantly improve morbidity and mortality associated with late diagnosis. Causal relationships between tobacco usage and gastrointestinal malignancies have been demonstrated for several decades, emphasizing the importance of smoking cessation strategies. Acid suppression with proton pump inhibitors and histamine receptor blockers are thought to indirectly reduce the incidence of esophageal cancer. A recent prospective study26concluded that the use of proton pump inhibitors after the diagnosis of Barrett’s esophagus was independently associated with a reduced risk of dysplasia."
+        },
+        {
+            "parent": 3,
+            "text": "Dietary modifications seem to play a role in the reduction of cancers of the upper aerodigestive tract, suggesting a benefit from a diet high in fruits and vegetables. Scientists believe that fruits and vegetables contain high levels of phytochemicals that may modify carcinogenesis through their antioxidant properties, suppressing the abnormal proliferation of early, preneoplastic lesions.27"
+        },
+        {
+            "parent": 4,
+            "text": "Treatment options include surgery, chemotherapy, and radiation therapy. These therapies can be used individually or, in some instances, together to improve outcomes."
+        },
+        {
+            "parent": 6,
+            "text": "Radiation therapy alone has been used for inoperable squamous cell carcinoma in the past; however, it had little effect on the relatively radioinsensitive adenocarcinomas. Short- and long-term morbidity (e.g., gastric irritation, strictures, or perforations) have been associated with radiation therapy as a single therapy, which has not been clearly shown to decrease overall mortality.28"
+        },
+        {
+            "parent": 7,
+            "text": "Alone, chemotherapy has been shown to have a positive tumor response in up to 50 percent of patients with esophageal cancer; however, five-year survival rates were not affected.29Cisplatin (Platinol) with fluorouracil remains the most commonly used regimen, and the combination has been shown to be an integral part of primary management of patients with locally defined disease, as well as palliation. Recent data suggest that multimodal therapy is superior to single chemotherapy, and newer active agents (e.g., vinorelbine [Navelbine], taxanes) offer hope of more effective regimens.30"
+        },
+        {
+            "parent": 8,
+            "text": "In the absence of widespread metastases, surgical resection of the esophagus for squamous cell and adenocarcinoma is preferred in most centers. Besides the benefit of restoring esophagogastric continuity, improvements in operative technique and perioperative management have resulted in a surgical mortality rate as low as 3 percent. However, surgery alone maintains a five-year survival rate between 15 and 20 percent.2Because the anatomy of the esophageal lymphatics favors longitudinal spread, a total esophagectomy, although controversial, has become a suggested approach."
+        },
+        {
+            "parent": 8,
+            "text": "Early referral to an experienced surgeon is vital for successful patient outcomes. Although most general surgeons are trained in thoracic and abdominal surgery, only surgical centers with large volumes should perform esophageal surgery for malignant disease because operative statistics vary widely. High-volume centers must perform at least 20 esophagectomies per year to achieve lower operative mortality rates.31"
+        },
+        {
+            "parent": 9,
+            "text": "The combination of medical and surgical therapies used for the treatment of esophageal cancer varies by clinical staging, and some form of multimodal regimen has been recommended for each scenario. The location and size of the lesion, presence or absence of metastases, cell type, and patient goals are all factors to consider in developing a treatment plan. With these parameters in mind, recent literature has focused on neoadjuvant chemoradiation to improve locoregional control and survival."
+        },
+        {
+            "parent": 9,
+            "text": "In patients with adenocarcinoma of the esophagus, a single-institution phase III trial32demonstrated a modest survival benefit (16 versus 11 months) for patients treated with induction chemoradiotherapy plus surgery over resection alone. However, another single-institution trial33that randomized patients to chemoradiotherapy plus resection versus esophagectomy alone concluded that there was no significant difference with respect to median survival, overall survival, or disease-free survival. Another randomized trial34evaluated preoperative cisplatin with fluorouracil followed by surgery versus surgery alone and revealed significant improvement in median survival and overall two-year survival in the neoadjuvant therapy group. Higher overall five-year survival rates occur in patients who receive preoperative chemotherapy in those responding to the chemotherapy dose.35,36Although preoperative chemotherapy for esophageal cancer may provide some benefit, the literature does not provide clear evidence that preoperative radiotherapy improves survival rates in patients with resectable disease.37"
+        },
+        {
+            "parent": 9,
+            "text": "Another potential option for preoperative treatment of localized esophageal cancer is the combination of chemotherapy and radiotherapy. Review of the literature has found that, for localized disease, the combination of chemotherapy and radiotherapy before surgery provides more benefit than radiotherapy alone.28This combination is accompanied by significant toxicities, so the patient must be in good general health before this option is considered.28"
+        },
+        {
+            "parent": 10,
+            "text": "Many modalities are being investigated and used in the palliative treatment of esophageal cancer. Each method has advantages and disadvantages, and it is important to remember that tumor characteristics, the institution’s capabilities, cost, and—most importantly—patient preferences will tailor definitive therapies. External beam and intraluminal radiotherapy (brachytherapy), chemoradiotherapy, esophageal dilatation, stent placement, laser fulguration, and surgical resection are just a few of the palliative options available. In certain cases, a percutaneous gastrotomy can be performed to provide feeding alternatives and, in the case of obstruction, used to decompress the stomach."
+        },
+        {
+            "parent": 10,
+            "text": "Surgical resection in the treatment of advanced disease remains controversial; however, palliative surgery provides lasting relief of symptoms in spite of inherent operative risks. Because late-stage esophageal carcinomas usually obstruct the esophageal lumen, therapy is focused on restoring esophagogastric continuity and swallowing function. In one large study,3889 percent of survivors could eat a normal diet, and 82 percent continued to have complete and lasting relief of dysphagia after resection."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,199 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0915/p907.html#afp19980915p907-f1",
+    "title": "Constipation in the Elderly | AAFP",
+    "author": "DAVID C. SCHAEFER, M.D., PH.D., AND LAWRENCE J. CHESKIN, M.D.",
+    "doi": "Am Fam Physician.1998;58(4):907-914",
+    "abstract": "Constipation affects as many as 26 percent of elderly men and 34 percent of elderly women and is a problem that has been related to diminished perception of quality of life. Constipation may be the sign of a serious problem such as a mass lesion, the manifestation of a systemic disorder such as hypothyroidism or a side effect of medications such as narcotic analgesics. The patient with constipation should be questioned about fluid and food intake, medications, supplements and homeopathic remedies. The physical examination may reveal local masses or thrombosed hemorrhoids, which may be contributing to the constipation. Visual inspection of the colon is useful when no obvious cause of constipation can be determined. Treatment should address the underlying abnormality. The chronic use of certain treatments, such as laxatives, should be avoided. First-line therapy should include bowel retraining, increased dietary fiber and fluid intake, and exercise when possible. Laxatives, stool softeners and nonabsorbable solutions may be needed in some patients with chronic constipation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definition",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "History",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Diagnostic Procedures",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Imaging Studies",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Bowel Retraining",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Diet",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Laxatives",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Special Considerations",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "More than 2,500 years ago, Hippocrates noted that “the intestines tend to become sluggish with age.”1Constipation, defined as decreased or difficult evacuation of the feces, has both functional and organic causes. It is a problem that occurs in fewer than 2 percent of persons in the nonelderly population but affects as many as 26 percent of men and 34 percent of women over 65 years of age.2,3At least 75 percent of elderly hospitalized patients and nursing home residents use laxatives for bowel regulation.4"
+        },
+        {
+            "parent": -1,
+            "text": "Complaints related to constipation account for over 2.5 million physician visits every year.5In addition, persons seeking symptomatic relief of constipation spend more than $400 million per year on laxatives.6"
+        },
+        {
+            "parent": -1,
+            "text": "Constipation is more than an annoying problem. Persons with chronic constipation have been shown to have a diminished perception of their quality of life.7Fecal impaction, incontinence, colonic dilatation and even perforation can complicate constipation. In addition, constipation may signal more troubling underlying problems, such as colonic dysmotility or mass lesions."
+        },
+        {
+            "parent": 0,
+            "text": "Patients and medical professionals frequently define constipation differently. Patients often define the condition based on the degree of straining associated with defecation or the consistency of their stools rather than the frequency of stooling. Normal stooling frequency ranges from three times a day to three times a week. A stooling frequency of fewer than three times per week may still be considered normal if the pattern does not represent a change in the patient's baseline stooling frequency and defecation is not associated with discomfort. Furthermore, it has been shown that patients are apt to underestimate their stool frequency.8"
+        },
+        {
+            "parent": 0,
+            "text": "A rule of thumb for physicians is that a patient has constipation if defecations decrease sufficiently to cause discomfort. Another way to define constipation is by mechanism, such as functional causes versus rectosigmoid outlet impedance(Table 1).9Most cases of chronic constipation (i.e., those lasting months or longer) are caused by underlying motility disorders or the use of constipating drugs."
+        },
+        {
+            "parent": 0,
+            "text": "Delay in transit within the colon is the most frequent nonobstructive cause of constipation. In animal models, colonic transit times are significantly delayed with aging. Although some human studies have noted similar findings,10other investigations have found no difference in colonic transit time between younger and older subjects.11Colonic motility can be altered by many factors, including endocrine abnormalities, neurogenic causes and medical therapy. Consequently, a wide variety of possible causes should be considered in the constipated patient(Table 2)."
+        },
+        {
+            "parent": 2,
+            "text": "The history provides useful information about what the problem of constipation means to the patient. In addition, possible contributing factors can be identified. The patient's dietary history and activity level should be reviewed, because low fiber intake and a sedentary lifestyle are predisposing factors for constipation. The patient should be asked specific questions about intake of noncaffeinated fluids. In the elderly, diminished sensitivity to thirst may lead to decreased fluid delivery to the gut and consequent constipation."
+        },
+        {
+            "parent": 2,
+            "text": "Questions about the patient's use of both prescription medications and over-the-counter preparations can identify agents with side effect profiles that contribute to constipation (Table 2). This inquiry is especially important in older patients who may be taking more than a dozen medications and supplements. The content of health food supplements, vitamins and homeopathic remedies is not regulated, and these items may contain agents that contribute to constipation (e.g., anticholinergic agents)."
+        },
+        {
+            "parent": 2,
+            "text": "Acute or chronic symptoms of constipation suggest that the mechanism may be a motility disorder, an obstructive process or a medication. Concomitant systemic symptoms may indicate a systemic process such as hypothyroidism, hyperparathyroidism or scleroderma."
+        },
+        {
+            "parent": 2,
+            "text": "The patient should also be asked about rectal bleeding, abdominal pain or narrowed stool caliber. The patient with any of these symptoms should be evaluated for mass lesions or other organic problems."
+        },
+        {
+            "parent": 3,
+            "text": "The physical examination should focus on identifying the underlying cause(s) of the patient's constipation. Obvious signs of systemic illness or an abdominal mass must be specifically investigated. A careful examination of the rectal area can detect local masses, external hemorrhoids or stigmata of recent bleeding. A digital rectal examination may identify redundant or thrombosed internal hemorrhoids, fissures, a stenosis or a mass. During the digital examination, external anal tone and voluntary control can be approximated. (Note, however, that unless the rectal vault is clearly patulous, little concordance exists between this estimation and actual anal manometry measurements of rectal tone.) The digital examination can also detect a rectocele. Finally, the stool should be screened for occult blood in all patients with constipation."
+        },
+        {
+            "parent": 4,
+            "text": "Flexible sigmoidoscopy should be performed in the patient who has recently become constipated without an obvious cause. Even if a benign distal process is identified, the colon must be examined thoroughly because a change in an elderly patient's stool habits may be caused by an underlying neoplasm."
+        },
+        {
+            "parent": 4,
+            "text": "Flexible sigmoidoscopy with a barium enema is readily available to primary care physicians and is a good first-line evaluation. Colonoscopy is an alternative diagnostic procedure. When colonoscopy is the choice, the patient only undergoes one procedure, and intervention (e.g., biopsy or polypectomy) is possible if a lesion is identified. All mass lesions should be biopsied because gross appearance may not correlate with pathologic findings."
+        },
+        {
+            "parent": 4,
+            "text": "Inflamed hemorrhoids and fissures found during an examination may explain a patient's constipation. Painful defecation may cause the patient to “hold back” stool (functional constipation). The endoscopic examination may reveal brown to black leopard-like spotting of the colonic mucosa. This condition, known as melanosis coli, is a benign, reversible process resulting from anthraquinone laxative abuse (e.g., cascara, senna or aloe products). Either viral or syphilitic condyloma is another anorectal condition that can cause constipation."
+        },
+        {
+            "parent": 5,
+            "text": "Radiographic studies may be helpful in pinpointing the cause of a patient's constipation. Plain abdominal films can determine the extent of fecal retention and can detect bowel obstructions, megacolon, volvulus and mass lesions."
+        },
+        {
+            "parent": 5,
+            "text": "An enema with the contrast agent diatrizoate meglumine (Gastrografin) is useful in the patient with suspected megarectum. This study may be done without prior bowel preparation because the enema preparation contains a wetting agent that enables it to pass an impaction. Barium enemas require bowel preparation but may reveal a point of obstruction or narrowed segment. Radiographic transit studies using ingested radiopaque polyvinyl chloride (Sitzmark) are useful in patients suspected of having a colonic dysmotility syndrome."
+        },
+        {
+            "parent": 5,
+            "text": "Defecography (radiographs or videotapes of contrast medium expelled from the rectum) can demonstrate rectocele, deangulation of the rectal muscular sling during defecation or paradoxic external anal sphincteric contraction with attempted defecation. This procedure has the added benefit of not requiring bowel preparation. However, defecography is not routinely performed in all radiology departments.Figure 1provides an algorithm for the evaluation of constipation in the elderly."
+        },
+        {
+            "parent": 5,
+            "text": "A few tertiary medical centers perform complete specialized tests for colonic motility. These tests may be particularly useful when the cause of a patient's constipation is not successfully diagnosed with traditional studies or if the constipation does not respond to empiric treatment. Motility studies are performed by placing pressure transducers in the rectum and sigmoid colon. Variations in intracolonic pressures and sensitivity thresholds induced by rectal balloon insufflation can identify specific subclasses of constipation. High-amplitude phasic contractions occur spontaneously (as well as in response to stimulation) and are sometimes associated with pain. This pain may cause constipation by impeding the distal flow of luminal contents. Alternatively, in a patient with an atonic motility pattern, decreased response to stimulation and loss of resistance to distention can lead to constipation.12"
+        },
+        {
+            "parent": 6,
+            "text": "The availability of many different pharmacologic agents for constipation makes symptomatic treatment alluring. When possible, however, treatment should be directed at correcting the underlying abnormality. The chronic use of laxatives, especially stimulant laxatives, should be strongly discouraged."
+        },
+        {
+            "parent": 6,
+            "text": "Successful therapy must include a discussion of the broad range of normal stooling function and the patient's own concepts of normal stooling. Often, identifying misconceptions and providing information to patients about normal stooling patterns are therapeutic interventions in themselves. It may be helpful to identify the patient's expectations for treatment. Compared with placebo, laxatives and fiber have been shown to increase stool frequency. Other agents, such as lactulose, improve stool consistency.13"
+        },
+        {
+            "parent": 7,
+            "text": "Bowel retraining is essentially a form of behavior modification and is particularly useful in the patient who does not have a readily identifiable cause of constipation. The patient should be encouraged to have a regular daily routine, with time set aside for having a bowel movement. Preferably this time should be within five to 10 minutes after a meal, thereby taking advantage of the gastrocolic reflex. Such a routine encourages the patient to attend to signals and respond to the urge to defecate."
+        },
+        {
+            "parent": 7,
+            "text": "In the chronically constipated patient, enemas or suppositories may occasionally be required to aid in the defecatory urge. These interventions generally work by distending the rectal ampulla, which stimulates the defecatory urge and process. Lukewarm tap-water enemas are the ideal because all other solutions irritate the colonic mucosa if used repeatedly. Carbon dioxide–releasing suppositories (sodium bicarbonate–potassium bitartrate; Ceo-two) distend the rectal ampulla. Bisacodyl suppositories (Dulcolax) are generally more effective than glycerin-based suppositories. Unfortunately, chronic use of bisacodyl suppositories eventually irritates colonic tissues."
+        },
+        {
+            "parent": 8,
+            "text": "Diet plays a critical role in bowel function, especially in the elderly. Strong epidemiologic evidence has shown that greater amounts of crude dietary fiber are associated with a lesser prevalence of constipation and other gastrointestinal disorders, including diverticular disease and colorectal cancer.14Fiber appears to increase stool bulk and weight and to speed intestinal transit time.15Several mechanisms may account for these observations:"
+        },
+        {
+            "parent": 8,
+            "text": "Fiber may act as a bulk-forming agent.Fiber may bind fecal bile salts, which have a pronounced cathartic effect.Fiber is metabolized by colonic bacteria to nonabsorbable, volatile fatty acids, which may act as an osmotic cathartic."
+        },
+        {
+            "parent": 8,
+            "text": "The low-fiber diet generally consumed in the United States, along with other variables such as sedentary lifestyle and poor fluid intake in some elderly persons, may account for the large number of older patients who complain of constipation. As an initial step in treatment, the patient should be advised to follow a diet rich in fiber(Table 3).16It may also be reasonable to add a commercial fiber preparation (e.g., psyllium; Metamucil) to the high-fiber diet."
+        },
+        {
+            "parent": 8,
+            "text": "To ensure that fiber itself does not become constipating, adequate fluid intake is necessary. This is especially true in the patient who is already taking a diuretic. The recommended daily requirement for water (or noncaffeinated fluids) is eight 8-oz glasses, assuming that the patient has no cardiac or renal problems that prohibit intake of this amount of fluid."
+        },
+        {
+            "parent": 9,
+            "text": "Clearly, many physicians and patients consider laxatives the mainstay of constipation treatment. Pharmaceutical companies have responded to this demand, as evidenced by the more than 700 commercially available products touted to relieve the symptoms of constipation. These formulations are not without side effects, some of them quite significant(Table 4)."
+        },
+        {
+            "parent": 9,
+            "text": "Bulk-forming laxatives are natural or synthetic polysaccharide or cellulose derivatives that cause water to be retained in the colon and thereby increase stool bulk. These laxatives have few potential adverse effects and are effective in slowly reversing the symptoms of constipation. In fact, their use is essentially the same as increasing fiber in the diet. However, a number of bulking agents, psyllium in particular, at least initially result in gas formation and bloating. These problems may be partially overcome by starting a bulk-forming laxative at less than the recommended dosage and gradually increasing to the recommended level over a few weeks."
+        },
+        {
+            "parent": 9,
+            "text": "Stool softeners such as docusate (Colace) decrease surface tension and therefore allow stool to absorb more water. Stool softeners are generally well tolerated but are ineffective if fluid intake is inadequate."
+        },
+        {
+            "parent": 9,
+            "text": "Saline laxatives (e.g., Fleet Phospho-Soda) create an osmotic gradient within the gut, thereby attracting fluid into the intestinal lumen. They may also trigger the release of cholecystokinin, which, among other effects, causes colonic prokinesis. However, in patients with renal insufficiency, saline laxatives may lead to hypermagnesemia or to hypocalcemia from hyperphosphatemia. Commercially available cleansing preparations used before colonoscopy, such as polyethylene glycol (Golytely), act as nonabsorbed osmotic agents and therefore are preferable in patients with renal failure. Sorbitol and lactulose are also osmotic agents. They are broken down into nonabsorbable organic acids in the gut. Lactulose is considerably more expensive than sorbitol but is the agent of choice in patients with hepatic failure."
+        },
+        {
+            "parent": 9,
+            "text": "Stimulant laxatives are by far the most frequently prescribed and purchased class of laxatives. These agents promote stooling by altering electrolyte transport in the intestinal mucosa and increasing colonic motility. With chronic use, however, stimulant laxatives may damage the myenteric plexus and result in colonic dysmotility. As previously noted, anthraquinone derivatives such as senna, cascara and aloe may cause colonic mucosal pigmentation and are thought to directly damage the myenteric nerves. Phenolphthalein, a common ingredient in some over-the-counter laxative preparations, has been associated with photosensitivity, dermatitis and the Stevens-Johnson syndrome. (Phenolphthalein is no longer on the market in the United States but is still available elsewhere in the world.)"
+        },
+        {
+            "parent": 10,
+            "text": "Patients with extreme chronic constipation have been treated with a variety of surgical procedures, including hemicolectomies and semicolectomies. For example, subtotal colectomy with ileorectal anastomosis has been used to treat patients with severe, idiopathic slow-transit constipation that did not respond to medical treatment. Patient satisfaction with the outcome of this procedure is reported to be high.17Unless constipation is caused by mass obstruction or recurrent volvulus, however, surgery has little role in the elderly."
+        },
+        {
+            "parent": 10,
+            "text": "The bedridden or chair-bound patient presents special problems. The use of potent laxatives may lead to fecal soiling because the patient may not be able to identify or rapidly respond to the defecatory urge. However, bulking agents may promote regularity and soft stools. Behavioral programs (i.e., stool training or timing) are especially important. Positioning the patient over the toilet and using tap-water enemas may also be successful."
+        }
+    ],
+    "locked": false
+}

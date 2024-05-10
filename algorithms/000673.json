@@ -1,0 +1,54 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0115/p293.html#afp20060115p293-f1",
+    "title": "Treating Adult Women with Suspected UTI | AAFP",
+    "author": "MARK H. EBELL, M.D., M.S., Athens, Georgia",
+    "doi": "Am Fam Physician.2006;73(2):293-296",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Question",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evidence Summary",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "What is the best way to manage urinary tract infections in adult women?"
+        },
+        {
+            "parent": 1,
+            "text": "More than 7 million women are diagnosed with urinary tract infections (UTIs) annually, making it one of the most commonly seen conditions in primary care.1At least one half of women who suspect that they have UTI actually do.2Because of the high pretest probability and the low risk of complications with delayed diagnosis in otherwise healthy women, treating select patients through telephone consultation is a reasonable option that has been validated in prospective studies.3,4"
+        },
+        {
+            "parent": 1,
+            "text": "However, many patients present to their physicians’ offices with UTI symptoms. For these patients, a systematic approach can help ensure proper treatment. A systematic review2confirmed that the following clinical examination findings increase the likelihood of UTI in otherwise healthy women: dysuria (likelihood ratio [LR] = 1.5), frequency of urination (LR = 1.8), hematuria (LR = 2.0), and costovertebral angle tenderness or back pain (LR = 1.7). Findings that significantly decrease the likelihood of UTI are: patient complaint of vaginal discharge (LR = 0.3), vaginal discharge on examination (LR = 0.7), vaginal irritation (LR = 0.2), and the absence of dysuria (LR = 0.5).2"
+        },
+        {
+            "parent": 1,
+            "text": "A meta-analysis5examining the use of urinalysis to diagnose UTI showed that a positive urinalysis (defined as the presence of nitrites or leukocyte esterase) is 75 percent sensitive and 82 percent specific (positive LR = 4.2, negative LR = 0.3) for UTI.5Therefore, given a 50 percent pretest probability, 81 percent of women with a positive urinalysis will have a UTI and 77 percent with a negative urinalysis will not; a negative urinalysis in an average- or high-risk patient cannot rule out UTI."
+        },
+        {
+            "parent": 1,
+            "text": "Validated clinical decision rules have combined patient history, physical examination, and urinalysis to assist in the diagnosis of UTI. For example, Wigton and colleagues developed a rule6using 216 women, 14 to 78 years of age (mean age 27 years), presenting with suspected UTI in an emergency department. The authors validated the rule in a second group of 236 women with similar demographics.6Five variables predicted UTI: (1) previous UTI, (2) back pain, (3) more than 15 white blood cells per high-powered field (HPF), (4) more than a few bacteria in the urine, and (5) more than five red blood cells per HPF. Patients had up to an 86 percent probability of UTI depending on the number of variables present."
+        },
+        {
+            "parent": 1,
+            "text": "UTIs are typically classified as “complicated” in pregnant women and in those with comorbidities (e.g., diabetes mellitus, recent urinary tract instrumentation, chronic renal disease, urinary tract abnormalities, immunosuppression). For these women, urine culture and empiric therapy are recommended to confirm UTI diagnosis and to determine antibiotic sensitivities.2,7Women with complicated UTIs require longer courses of broader-spectrum antibiotics. Women with uncomplicated UTIs can be treated with a three-day course of trimethoprim/sulfamethoxazole (Bactrim, Septra), or with a three-day course of a quinolone antibiotic if resistance toEscherichia coliis greater than 10 to 20 percent.7"
+        },
+        {
+            "parent": 1,
+            "text": "It is unclear whether age alone increases the risk of a complicated infection, and few studies have evaluated shorter antibiotic courses in older patients. One study8showed that a three-day course of ciprofloxacin (Cipro) is effective in otherwise healthy women with UTI who are younger than 82 years; however, the number of participants who were between 65 and 82 years of age is unknown.8Physicians should use their own judgment to decide if otherwise healthy women older than 65 years with uncomplicated infections can be treated for only three days or whether a longer course is indicated. Physicians should follow up with patients after three days by telephone or in person to ensure clinical improvement."
+        },
+        {
+            "parent": 1,
+            "text": "A systematic review2included an algorithm for the evaluation of adult women with suspected UTI.Figure 12,6,7is based on this algorithm and can be printed on the back ofthe accompanying patient encounter formfor decision making at the point of care. The algorithm is useful even if microscopic urinalysis is unavailable. A nurse can complete much of the encounter form before the physician sees the patient. Diagnostic and treatment recommendations are consistent with the Institute for Clinical Systems Improvement practice guideline,7the only published evidence-based guideline on the subject. The patient encounter form does not apply to institutionalized women, non-ambulatory women, children, or men."
+        }
+    ],
+    "locked": false
+}

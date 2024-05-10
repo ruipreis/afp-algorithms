@@ -1,0 +1,134 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0215/p776.html#afp19980215p776-f1",
+    "title": "Subclinical Hypothyroidism: Deciding When to Treat | AAFP",
+    "author": "VICTOR ADLIN, M.D.",
+    "doi": "Am Fam Physician.1998;57(4):776-780",
+    "abstract": "While screening patients for thyroid disease, physicians often find increased thyrotropin-stimulating hormone (TSH) levels in patients whose free thyroxine (T4) levels are not below normal. This state, termed “subclinical hypothyroidism,” is most commonly an early stage of hypothyroidism. Although the condition may resolve or remain unchanged, within a few years in some patients, overt hypothyroidism develops, with low free T4levels as well as a raised TSH level. The likelihood that this will happen increases with greater TSH elevations and detectable antithyroid antibodies. Because patients with subclinical hypothyroidism sometimes have subtle hypothyroid symptoms and may have mild abnormalities of serum lipoproteins and cardiac function, patients with definite and persistent TSH elevation should be considered for thyroid treatment. Levothyroxine, in a dosage that maintains serum TSH levels within the normal range, is the preferred therapy in these patients.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Subclinical Hypothyroidism",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Causes",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Course",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Manifestations",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Symptoms",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Serum Lipids",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Cardiac Function",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Should We Treat Subclinical Hypothyroidism?",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hypothyroidism is quite common in older persons. In one study,1thyrotropin-stimulating hormone (TSH) levels greater than 10 μU per mL (10 mU per L) were found in 7 percent of women and 3 percent of men who were 60 to 89 years of age, living active lives in the community (normal range: approximately 0.5 to 4.5 μU per mL [0.5 to 4.5 mU per L]). Clinical suspicion of hypothyroidism may be delayed in elderly patients because symptoms such as fatigue and constipation, and other early manifestations of thyroid failure may be attributed to aging itself. The high prevalence of thyroid failure and the difficulty of making an early clinical diagnosis in older persons suggest that screening for hypothyroidism might be useful in this group, especially since a simple test, the serum TSH level, is available."
+        },
+        {
+            "parent": -1,
+            "text": "Recommendations about thyroid screening, however, have been inconsistent. Currently, no organizations recommend routine universal screening. For example, the U.S. Preventive Services Task Force2has recommended that asymptomatic adults not be screened because evidence of clinical benefit is insufficient. More recently, some authors3have recommended testing in women more than 40 years of age and in patients in geriatric facilities. Danese and co-workers4demonstrated through a decision model that TSH screening every five years, starting at age 35, was cost-effective because progression to overt hypothyroidism was prevented, serum cholesterol levels were reduced and symptoms were relieved with early treatment of hypothyroidism."
+        },
+        {
+            "parent": -1,
+            "text": "In the absence of definitive guidelines, some clinicians may elect to perform routine screening with serum TSH measurement or to measure TSH in patients with persistent non-specific complaints, especially women, the elderly and persons with risk factors for thyroid failure(Table 1)."
+        },
+        {
+            "parent": 0,
+            "text": "Measurement of serum TSH is generally considered the best screening test for thyroid disease; increased values usually indicate hypothyroidism, and decreased values usually indicate hyperthyroidism. This test has proved to be both sensitive and specific. Its very sensitivity, however, may create a dilemma, since some patients are found to have elevated serum TSH levels, suggesting hypothyroidism, but have normal levels of thyroid hormone, whether measured as free thyroxine (T4) or free T4index."
+        },
+        {
+            "parent": 0,
+            "text": "This state—an elevated TSH level with a normal free T4level—is referred to as subclinical hypothyroidism. The term “subclinical” may not be strictly correct, since some of these patients may have clinical symptoms, but no better term has been proposed. The elevation of TSH levels reflects the sensitivity of the hypothalamic-pituitary axis to small decreases in circulating thyroid hormone; as the thyroid gland fails, the TSH level may rise above the upper limit of normal when the free T4level has fallen only slightly and is still within the normal range. Clinical manifestations, if present, may be explained by assuming that a T4level of 6 or 7 μg per dL (77 to 90 nmol per L), although not outside the normal range of 4.5 to 12.5 μg per dL (58 to 160 nmol per L), may represent a significant fall from an original level of 9 or 10 μg per dL (116 to 129 nmol per L) and, thus, is low for this particular patient."
+        },
+        {
+            "parent": 1,
+            "text": "Subclinical hypothyroidism is caused by the same disorders of the thyroid gland as those that cause overt hypothyroidism(Table 2). Chief among these is chronic autoimmune thyroiditis (Hashimoto's disease), which is commonly associated with increased titers of antithyroid antibodies, such as antithyroid microsomal antibodies (antithyroid peroxidase) and antithyroglobulin antibodies.5This disorder is suspected when thyroid enlargement is observed, but antithyroid antibodies may also be associated with atrophy of the thyroid and hypothyroidism."
+        },
+        {
+            "parent": 1,
+            "text": "Another common cause of hypothyroidism is the treatment of Graves' disease. Thyroid failure is most common after radioactive iodine treatment, but hypothyroidism may eventually occur in 5 to 25 percent of patients treated with surgery or antithyroid drugs.6,7Less common causes of hypothyroidism include use of medications such as lithium and amiodarone (Cordarone). Pituitary failure is a cause of secondary hypothyroidism but since, in this circumstance, the TSH level is low rather than high (and thus the direct cause of the thyroid failure), this condition cannot be diagnosed with certainty until thyroid hormone levels fall below normal, and subclinical hypothyroidism as usually defined would not be detected."
+        },
+        {
+            "parent": 2,
+            "text": "What happens to patients who are found to have an elevated TSH level without other findings? In some cases, the TSH level will be normal if measured again several months later; we would then attribute the initial elevation to laboratory error or, perhaps, to an episode of silent thyroiditis with a transient hypothyroid phase. In other cases, the subclinical hypothyroidism remains unchanged. The third possibility, progression to overt hypothyroidism, occurs at a rate of about 5 percent per year in patients with raised TSH levels and detectable antithyroid antibodies.8In selected cases (e.g., elderly patients with high titers of antithyroid antibodies), the risk of progression to overt disease may be closer to 20 percent per year.9Consideration of these possible outcomes affects the decision about whether to treat or to observe without treatment."
+        },
+        {
+            "parent": 4,
+            "text": "The clinical signs and symptoms of hypothyroidism(Table 3)are manifest when the disease is fully developed. But even in the earliest (subclinical stage), one or more of these findings may occur. In one study,10symptoms in 33 patients with subclinical hypothyroidism were compared with symptoms in 20 euthyroid patients in the same thyroid clinic. Dry skin, cold intolerance and easy fatigability were significantly more common in the patients with raised TSH levels, and these symptoms improved after treatment with thyroid hormone. In another study11of 69 female patients with subclinical hypothyroidism, a clinical index based on symptoms and physical signs was shown to be more abnormal in patients with higher TSH levels, even though all patients had normal serum levels of T4and free T4. These studies suggest that some patients with subclinical hypothyroidism do indeed have clinical manifestations of mild thyroid failure."
+        },
+        {
+            "parent": 5,
+            "text": "In patients with full-blown hypothyroidism, serum levels of triglycerides, total cholesterol and low-density lipoprotein (LDL) cholesterol are elevated. In patients with subclinical hypothyroidism, not surprisingly, the same changes are present but are less marked and less consistent. This pattern of lipid abnormalities, of course, is important because it is a risk factor for atherosclerotic cardiovascular disease. Some studies,12,13but not others,10have shown a decrease in LDL cholesterol and total cholesterol levels after treatment with levothyroxine (Levoxyl, Levothroid, Synthroid)."
+        },
+        {
+            "parent": 6,
+            "text": "In several studies, a sensitive measure of myocardial contractility, the ratio of pre-ejection period to left ventricular ejection time (PEP:LVET) was shown to improve significantly in patients with subclinical hypothyroidism who were treated with levothyroxine, compared with patients who were treated with placebo.10,14"
+        },
+        {
+            "parent": 7,
+            "text": "Indications for treatment in subclinical hypothyroidism are not established, but general guidelines can be offered. Greater magnitude and duration of TSH elevation and higher titers of antithyroid antibodies increase the probability that the condition will progress to overt hypothyroidism and, therefore, increase the potential benefit of treatment with levothyroxine. The presence of symptoms that might be related to mild hypothyroidism also increases the potential benefit of treatment. Risk of harm to the patient, against which this potential benefit must be balanced, is quite small, since the use of the sensitive TSH assay provides assurance that we are not raising the blood thyroid hormone levels too much as long as TSH levels do not fall below the normal range. In patients with coronary artery disease and minimal elevations of TSH, however, it may be advisable to follow the TSH level rather than subject the patient to the small risk of levothyroxine therapy."
+        },
+        {
+            "parent": 7,
+            "text": "In short, it seems reasonable to treat patients who have a TSH level that is consistently elevated above 10 μU per mL (10 mU per L), especially if titers of antithyroid antibodies are increased. Also, patients who complain of fatigue, dry skin, constipation, muscle cramps or other common symptoms of hypothyroidism may possibly benefit from treatment even if their TSH level is elevated only into the 5 to 10 μU per mL (5 to 10 mU per L) range. An algorithm summarizing this approach is presented inFigure 1."
+        },
+        {
+            "parent": 8,
+            "text": "Treatment is similar to that recommended in patients with overt hypothyroidism. Levothyroxine is the agent of choice, rather than a preparation containing tri-iodothyronine (T3), since T3has a short half-life and requires multiple daily doses to maintain blood levels in the normal range. Levothyroxine, however, has a long half-life (approximately seven days) and is partially converted to T3in the body, resulting in a constant physiologic blood level of both T4and T3with a single daily dose.15"
+        },
+        {
+            "parent": 8,
+            "text": "In patients with overt hypothyroidism, the average daily replacement dosage of levothyroxine is 75 to 125 μg, or 50 to 100 μg in the elderly, or about 1.6 μg per kg per day. Treatment is commonly initiated with 25 to 50 μg daily and raised by increments of 25 to 50 μg, according to TSH measurements at six- to eight-week intervals. In patients who are elderly or debilitated, or who have heart disease, lower starting dosages and slower increases are advisable."
+        },
+        {
+            "parent": 8,
+            "text": "Patients with subclinical hypothyroidism, because of the minimal extent of the thyroid hormone deficiency, may be controlled with total daily dosages of levothyroxine as low as 25 to 50 μg. This initial dosage should be maintained for six to eight weeks before a TSH measurement is repeated to guide adjustment of the levothyroxine dosage. The goal is to maintain the TSH level within normal limits; the dosage of levothyroxine should be increased if the TSH level remains above normal and should be decreased if the TSH level falls below normal. Once the correct dosage of thyroxine is established, the frequency of TSH measurement may be decreased to every six to 12 months."
+        },
+        {
+            "parent": 8,
+            "text": "A common error is the failure to decrease the levothyroxine dosage if the TSH level is suppressed below the normal range, which may occur without the free T4level rising above normal. This state is considered to represent “subclinical hyperthyroidism,” and although formerly it was thought to be harmless, it is now believed to be associated with undesired effects on bone density (osteoporosis) and cardiac function, and to be a possible cause of neuropsychologic symptoms and other mild manifestations of hyperthyroidism.16,17"
+        },
+        {
+            "parent": 9,
+            "text": "At this juncture, evidence does not support routine universal screening for hypothyroidism, but ongoing studies may provide support for screening in selected populations, especially women, the elderly and those at higher risk. However, when a patient presents with nonspecific complaints such as depression or fatigue, the TSH level is often screened, and an elevated TSH level with a normal T4level may or may not account for the clinical findings. Under these circumstances, retesting at regular intervals or treatment with low doses of levothyroxine may be warranted."
+        }
+    ],
+    "locked": false
+}

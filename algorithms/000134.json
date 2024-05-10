@@ -1,0 +1,204 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0901/p278.html#afp20200901p278-f1",
+    "title": "Urinary Tract Infections in Young Children and Infants: Common Questions and Answers | AAFP",
+    "author": "BRIAN VEAUTHIER, MD, AND MICHAEL V. MILLER, DO",
+    "doi": "Am Fam Physician.2020;102(5):278-285",
+    "abstract": "Urinary tract infections (UTIs) are common in children and are associated with significant short- and long-term morbidity. They have a high recurrence rate and are associated with anatomic and functional abnormalities. The decision to test for UTI is based on risk factors and the child's age. Urinalysis is valuable to rule out UTI and to help decide when to start antibiotics; however, urine culture is needed for definitive diagnosis. Urine specimens collected via perineal bagging should not be used for culture because of high false-positive rates. Diagnosis of UTI requires pyuria and bacterial growth in the urine culture. Prompt treatment of UTIs reduces renal scarring. Antibiotic selection should be based on local sensitivity patterns and adjusted once culture results are available. In most cases, oral antibiotics are as effective as intravenous agents. When intravenous antibiotics are used, early transition to an oral regimen is as effective as longer intravenous courses. Kidney and bladder ultrasonography is helpful to identify acute complications and anatomic abnormalities. Voiding cystourethrography is indicated when ultrasound findings are abnormal and in cases of recurrent febrile UTIs. The use of antibiotic prophylaxis for recurrent UTIs is controversial. Identification and treatment of bowel and bladder dysfunction can prevent UTI recurrence. (Am Fam Physician. 2020; 102(5):278–285. Copyright © 2020 American Academy of Family Physicians.)",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Which Children Should Be Tested for a UTI?",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "EVIDENCE SUMMARY",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "How Accurate Are Urine Microscopy and Dipstick Testing for UTI Diagnosis?",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "EVIDENCE SUMMARY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "What Are the Diagnostic Criteria for UTIs in Children?",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "EVIDENCE SUMMARY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "What Are the Most Effective Antibiotic Regimens for UTIs in Children?",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "EVIDENCE SUMMARY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "When Should Imaging Be Considered for a Child with a UTI?",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "EVIDENCE SUMMARY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "What Is the Role of Antibiotic Prophylaxis for Children with UTIs?",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "EVIDENCE SUMMARY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Urinary tract infections (UTIs) are common in children and are associated with significant morbidity. Up to 7% of girls and 2% of boys have had a UTI by six years of age.1The recurrence rate is 30%.2One in six febrile neonates has a UTI,3and it is the most common serious bacterial infection in children younger than three months.4Short-term complications may include sepsis, renal abscess, and acute kidney injury5; potential long-term sequelae include renal scarring, recurrent infection, impaired renal function, hypertension, end-stage renal disease, and preeclampsia.2,5Prophylactic antibiotics are commonly prescribed, but their use has questionable benefit and contributes to microbial resistance.6–9"
+        },
+        {
+            "parent": 0,
+            "text": "A urine sample should be obtained for testing before antibiotic therapy is initiated in clinically unstable children who do not have a clear source of infection. In other children, age and clinical findings can be used to determine the need for testing. The physician's overall clinical impression for UTI often misses the diagnosis."
+        },
+        {
+            "parent": 1,
+            "text": "Because antibiotics can rapidly sterilize urine and thereby limit the ability to diagnose UTI, a urine sample should be obtained using an age-appropriate method before antibiotic therapy is initiated.2,10,11For children who do not require urgent antibiotic therapy, clinical characteristics can identify those at higher risk of UTI who require testing(Figure 1).1–3,5,10–15"
+        },
+        {
+            "parent": 1,
+            "text": "Urine testing is indicated for all acutely ill infants (both febrile and afebrile) who are younger than three months.4,12For febrile children two to 24 months of age,the 2011 American Academy of Pediatrics (AAP) guideline recommended basing testing decisions on risk factors and absence of alternative sources of infection. However, this guideline was retired in 2021 because of improper use of race as a risk factor and potential for missed diagnoses in Black and non-White children.10,16,17.The UTICalc, a tool developed by the University of Pittsburgh (https://uticalc.pitt.edu), uses similar risk factors (excluding race) to estimate the risk of UTI in febrile children two to 23 months of age. Testing is recommended when the risk is 2% or greater."
+        },
+        {
+            "parent": 1,
+            "text": "Two observational studies in the United Kingdom raise concern for UTI in unwell but afebrile children. In one study of 597 children younger than five years, absence of fever did not sufficiently rule out UTI.12A particularly high rate of UTIs was noted in infants younger than three months (12.5%); thus, the authors recommend that all acutely ill children in this age group be tested regardless of symptoms. A second observational study of 2,740 children younger than five years found that the following clinical findings were associated with an increased risk of UTI: pain or crying with urination, malodorous urine, history of UTI, absence of cough, severe illness, lack of ear abnormalities, and abdominal tenderness on examination.14Lack of fever was not useful for ruling out UTI. This study was limited by underrepresentation of children younger than two years, who comprised only 6.5% of the study population."
+        },
+        {
+            "parent": 1,
+            "text": "A study evaluating the diagnostic accuracy of UTI symptoms found that the decision to perform urine testing in verbal children older than 24 months should be based on sex, circumcision status, and symptoms.15In girls and uncircumcised boys with urinary frequency, dysuria, abdominal pain or tenderness, back pain, or new-onset incontinence, the probability of UTI is 18% to 30%, and urine testing should be performed. If these symptoms are not present, the probability of UTI is low, and testing is not indicated. The baseline probability of UTI in circumcised boys is less than 1%, and testing is indicated only when at least three of these symptoms are present."
+        },
+        {
+            "parent": 2,
+            "text": "Urine microscopy and dipstick testing for leukocyte esterase, nitrites, or blood are useful to rule out UTI. A positive result supports empiric antibiotic treatment, but a urine culture should be obtained to confirm the diagnosis."
+        },
+        {
+            "parent": 3,
+            "text": "Although individual components of dipstick urinalysis have low sensitivity and specificity for the diagnosis of UTI, their accuracy improves when these components are combined.10A positive result for leukocyte esterase has a sensitivity of 83% (range: 67% to 94%) and specificity of 78% (64% to 92%), and a positive result for nitrites has a sensitivity of 53% (15% to 82%) and specificity of 98% (90% to 100%). When both are positive, sensitivity improves to 93% (90% to 100%), but specificity decreases to 72% (58% to 91%). When these results are combined with microscopy findings of bacteria or white blood cells (at least 25 per mL or 5 per high-power field), sensitivity increases to 99.8% (99% to 100%) with a specificity of 70% (60% to 92%). Thus, when all components of dipstick testing and urine microscopy are negative, the negative predictive value is high."
+        },
+        {
+            "parent": 3,
+            "text": "Studies published since the AAP's 2011 guidelines found similar results. A 2017 retrospective review of 262 children in Ireland found that the sensitivities of nitrites, blood, and leukocyte esterase individually were 54%, 74%, and 86% (95% CIs, 0.46 to 0.62, 0.68 to 0.80, and 0.82 to 0.91, respectively).18The presence of at least 100 white blood cells per mL had a sensitivity of 92% (95% CI, 0.89 to 0.95), but when this was combined with a positive dipstick result the sensitivity increased to 97%. Thus, a combination of dipstick urinalysis and microscopy was suggested as more useful for diagnosing UTI."
+        },
+        {
+            "parent": 3,
+            "text": "A review of urine testing methods in infants younger than 60 days found that a positive result for leukocyte esterase, nitrites, or white blood cells had a sensitivity of 94% (95% CI, 91% to 97%) and specificity of 91% (95% CI, 90% to 91%).19When dipstick urinalysis and/or microscopy findings are positive, the AAP recommends obtaining a urine culture to confirm the diagnosis of UTI.10"
+        },
+        {
+            "parent": 4,
+            "text": "To diagnose UTI in a symptomatic child, urine testing must show pyuria and the culture must show significant bacterial growth. Urine specimens should be collected using techniques that minimize contamination, such as suprapubic aspiration, bladder catheterization, or midstream clean catch. Perineal bagging is not acceptable when the risk of UTI is high and empiric therapy will be initiated."
+        },
+        {
+            "parent": 5,
+            "text": "The diagnosis of UTI requires findings of both pyuria (i.e., positive leukocyte esterase on dipstick urinalysis or white blood cells on urine microscopy) and significant bacterial growth on urine culture. The recommended techniques for urine collection and the minimum uropathogen count required for diagnosis vary by guideline(Table 1).2,10,11The AAP recommends urine collection by suprapubic aspiration or bladder catheterization in febrile infants, and it requires at least 50,000 colony-forming units of uropathogen per mL of urine.10,11The European Society of Pediatric Urology (ESPU) criteria also require pyuria and bacterial growth, but midstream clean catch is acceptable in toilet-trained children, and the uropathogen criteria are lower than the AAP's.2"
+        },
+        {
+            "parent": 5,
+            "text": "Urine specimens obtained via perineal bagging have an unacceptably high false-positive culture rate, which the AAP estimates ranges from 88% to 99%.10,11For this reason, bagged specimens are useful only when dipstick urinalysis, microscopy, and culture results are all negative. Thus, these specimens are useful for ruling out UTI, but not for diagnosis."
+        },
+        {
+            "parent": 6,
+            "text": "Prompt antibiotic treatment is important to reduce the risk of renal scarring in children with UTIs. Initial antibiotic selection is based on local sensitivity patterns and the risk of resistant bacteria. Once available, culture results should be used to adjust the initial antibiotic selection. Pyelonephritis (i.e., febrile UTI) does not necessitate intravenous antibiotics; the route of administration should be based on the severity of illness, presence of renal abnormalities, response to therapy, and the child's age and ability to take oral medications. When intravenous antibiotics are used, a shorter course with transition to an oral agent is as effective as a longer intravenous regimen. Children with cystitis (i.e., afebrile UTI) should receive antibiotics for two to four days, whereas those with pyelonephritis should receive a seven- to 14-day course."
+        },
+        {
+            "parent": 7,
+            "text": "Figure 2details the management of UTIs in young children.2,10,11,20–23Early treatment is associated with reduced renal scarring, and delaying treatment beyond 48 hours has deleterious effects. The AAP recommends prompt treatment for UTI and medical evaluation within 48 hours for children with recurrent symptoms.10,11"
+        },
+        {
+            "parent": 7,
+            "text": "Table 2lists antibiotics commonly used to treat UTIs in children.5,24–26Cochrane reviews have not found evidence to support the use of specific agents in children with lower UTIs or pyelonephritis.20,21Antibiotic selection should be based initially on local sensitivity patterns and the risk of resistant bacteria, then adjusted once culture results are available.10,11Antibiotics that do not reach therapeutic concentrations in the bloodstream (e.g., nitrofurantoin) are not recommended for the treatment of pyelonephritis in children.10"
+        },
+        {
+            "parent": 7,
+            "text": "A 2014 Cochrane review found that oral antibiotics alone are as effective as a regimen of intravenous followed by oral antibiotics in children with pyelonephritis.21It also found that shorter courses (two to four days) of intravenous antibiotics followed by transition to an oral regimen are as effective as longer courses of an intravenous agent. There were not enough data to apply these findings to infants younger than one month or to children with grades III to V vesicoureteral reflux. The ESPU recommends intravenous therapy for infants younger than two months because of increased rates of bacteremia and severe pyelonephritis.2A 2019 study found no difference in the rates of recurrent UTI or hospital readmittance in infants younger than 60 days who received short (up to seven days) vs. longer courses of intravenous antibiotics for UTI and bacteremia.22Thus, shorter courses of intravenous antibiotics followed by oral therapy can be considered for infants younger than 60 days."
+        },
+        {
+            "parent": 7,
+            "text": "A 2003 Cochrane review (with reaffirmation in 2010) found that two- to four-day courses of antibiotics are as effective as seven- to 14-day courses in children with cystitis.27Although there are no data to support a specific duration of therapy in children with pyelonephritis, the AAP recommends seven to 14 days.10,11"
+        },
+        {
+            "parent": 8,
+            "text": "Kidney and bladder ultrasonography is indicated for children with atypical UTIs to identify acute complications. Children with pyelonephritis who are 24 months or younger should undergo ultrasonography within six months of the acute infection. Ultrasonography should be performed in children older than 24 months who have recurrent UTIs. Voiding cystourethrography is also indicated for children with recurrent UTIs and for those with abnormal ultrasound findings. Dimercaptosuccinic acid (DMSA) imaging is not part of standard screening in the United States."
+        },
+        {
+            "parent": 9,
+            "text": "Imaging can identify acute complications of UTIs and screen for anatomic or physiologic abnormalities that may cause chronic complications.Kidney and bladder ultrasonography can detect complications such as renal abscess or obstruction in children with atypical UTIs(e.g., those with severe illness, infection with non–Escherichia coliorganisms, or an unexpected clinical course).10,11,23Abnormal findings identify children who are at increased risk of renal scarring.10,11When performed routinely in febrile infants with UTIs, ultrasonography identifies almost all abnormalities that require intervention, with the exception of some cases of vesicoureteral reflux.10,11However, this is not a significant limitation because the benefit of antibiotic prophylaxis for this condition is uncertain."
+        },
+        {
+            "parent": 9,
+            "text": "Voiding cystourethrography exposes children to radiation, and its value for detecting vesicoureteral reflux in patients with uncomplicated UTIs is questionable.10,11Therefore, this imaging modality is reserved for children whose ultrasound findings suggest vesicoureteral reflux or obstructive uropathy, and for those with recurrent UTIs.10,11,23Although British guidelines incorporate DMSA imaging to detect renal parenchymal defects, the AAP recommends against this modality except for research purposes.10,23"
+        },
+        {
+            "parent": 10,
+            "text": "Antibiotic prophylaxis has been used to prevent recurrent UTIs and renal scarring. However, its benefit is unclear, and it promotes antimicrobial resistance. Patients most likely to benefit from antibiotic prophylaxis include children with a high risk of recurrent UTIs and those most likely to have adverse effects from recurrent UTIs. Nitrofurantoin is the preferred antibiotic for prophylaxis unless adverse effects limit its use. Bowel and bladder dysfunction (lower urinary tract symptoms concurrent with constipation) is associated with UTIs, and treatment of this condition can reduce UTI recurrence. Evidence does not support the use of probiotics or cranberries for UTI prophylaxis."
+        },
+        {
+            "parent": 11,
+            "text": "Evidence is mixed on the role of antibiotic prophylaxis to prevent recurrent UTIs.A Cochrane review and a systematic review suggest that long-term use of prophylactic antibiotics may reduce UTI recurrence; however, the benefit is small at best.6,7The Randomized Intervention for Children with Vesicoureteral Reflux (RIVUR) trial showed that antibiotic prophylaxis reduced recurrent UTIs in children with grades I to IV reflux.8However, a Cochrane review showed little to no effect on rates of recurrent UTIs.9"
+        },
+        {
+            "parent": 11,
+            "text": "There is also conflicting evidence that antibiotic prophylaxis reduces renal scarring in children with recurrent UTIs. A Cochrane review found that antibiotic prophylaxis has little to no effect on the risk of new or progressive renal damage.9The RIVUR trial also found no difference in renal scarring when antibiotic prophylaxis was used8; however, a systematic review and subanalysis of the RIVUR trial showed that antibiotic prophylaxis prevented scarring.7,28"
+        },
+        {
+            "parent": 11,
+            "text": "All of these studies show increased antimicrobial resistance when antibiotic prophylaxis is used to prevent recurrent UTIs.6–9Compared with other prophylactic antibiotics, nitrofurantoin results in less resistance and is more effective, but it has more adverse effects, such as nausea, vomiting, and stomachache.6,7"
+        },
+        {
+            "parent": 11,
+            "text": "Rates of recurrent UTIs can be as high as 51% in children with bowel and bladder dysfunction.29,30Guidelines from the AAP and the ESPU emphasize the significance of bowel and bladder dysfunction as a risk factor for UTIs and the importance of treating this condition to prevent recurrent UTIs.2,11"
+        },
+        {
+            "parent": 11,
+            "text": "Studies investigating the use of probiotics and cranberries to prevent UTIs did not find evidence to support the use of either of these treatments.31–33"
+        },
+        {
+            "parent": 11,
+            "text": "This article updates previous articles on this topic byWhite,34Alper and Curry,1andHellerstein.35"
+        },
+        {
+            "parent": 11,
+            "text": "Data Sources:We searched Clinical Queries using various combinations of the key terms urinary tract infection, UTI, children, prevalence, antibiotics, and imaging. We also searched the Cochrane database and the National Guideline Clearinghouse, and used the Essential Evidence summary provided by theAFPeditors. Search dates: February 21, 2019; December 12, 2019; and May 8, 2020."
+        },
+        {
+            "parent": 11,
+            "text": "Editor's Note:In May 2021, the AAP retired its guideline “Urinary Tract Infection: Clinical Practice Guideline for the Diagnosis and Management of the Initial UTI in Febrile Infants and Children 2 to 24 Months”1, due to its improper use of race as a risk factor.2The guideline suggested that “White race” is a risk factor for UTI in girls and “non-Black race” is a risk factor in boys, which ignores the complexities of race and could result in inappropriate underdiagnosis of UTI in Black and non-White children.3This article, which was largely based on the AAP guideline1, was corrected to remove the text and algorithms that used race as a risk factor for diagnosing UTI in children.—Sumi Sexton, MD, Editor-in-Chief"
+        },
+        {
+            "parent": 11,
+            "text": "1. Roberts KB; Subcommittee on Urinary Tract Infection, Steering Committee on Quality Improvement and Management. Urinary tract infection: clinical practice guideline for the diagnosis and management of the initial UTI in febrile infants and children 2 to 24 months.Pediatrics. 2011;128(3):595-610."
+        },
+        {
+            "parent": 11,
+            "text": "2. American Academy of Pediatrics Board of Directors and Executive Committee. AAP perspective: race-based medicine.Pediatrics.2021;148(4):e2021053829."
+        },
+        {
+            "parent": 11,
+            "text": "3. Kowalsky RH, Rondini AC, Platt SL. The case for removing race from the American Academy of Pediatrics clinical practice guideline for urinary tract infection in infants and young children with fever.JAMA Pediatr. 2020;174(3):229-230."
+        }
+    ],
+    "locked": false
+}

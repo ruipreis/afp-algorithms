@@ -1,0 +1,338 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0201/p457.html#afp19980201p457-f1",
+    "title": "Preventing Bacterial Endocarditis: American Heart Association Guidelines | AAFP",
+    "author": "KATHRYN A. TAUBERT, PH.D., AND ADNAN S. DAJANI, M.D.",
+    "doi": "Am Fam Physician.1998;57(3):457-468",
+    "abstract": "The American Heart Association recently revised its guidelines for the prevention of bacterial endocarditis. These guidelines are meant to aid physicians, dentists and other health care providers, but they are not intended to define the standard of care or to serve as a substitute for clinical judgment. In the guidelines, cardiac conditions are stratified into high-, moderate- and negligible-risk categories based on the potential outcome if endocarditis develops. Procedures that may cause bacteremia and for which prophylaxis is recommended are clearly specified. In addition, an algorithm has been developed to more clearly define when prophylaxis is recommended in patients with mitral valve prolapse. For oral and dental procedures, the standard prophylactic regimen is a single dose of oral amoxicillin (2 g in adults and 50 mg per kg in children), but a follow-up dose is no longer recommended. Clindamycin and other alternatives are recommended for use in patients who are allergic to penicillin. For gastrointestinal and genitourinary procedures, the prophylactic regimens have been simplified. The new recommendations are meant to more clearly define when prophylaxis is or is not recommended, to improve compliance, to reduce cost and the incidence of gastrointestinal side effects, and to approach more uniform worldwide recommendations.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Cardiac Conditions and Endocarditis Prophylaxis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Procedures That Can Cause Bacteremia",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Dental and Oral Procedures",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Respiratory, Gastrointestinal and Genitourinary Tract Procedures",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Recommended Prophylactic Regimens",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Dental, Oral, Respiratory Tract and Esophageal Procedures",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Genitourinary and Nonesophageal Gastrointestinal Procedures",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Specific Situations",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Antibiotic Not Taken or Unanticipated Bleeding Occurs",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Patient Is Already Receiving an Antibiotic",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Procedure Involves Infected Tissues",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Patient Is Receiving Anticoagulant Drug Therapy",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Cardiac Surgery Patients",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Prophylaxis at the Time of Cardiac Surgery",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Prophylaxis After Cardiovascular Procedures",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "Other Considerations",
+            "level": 2
+        },
+        {
+            "id": 16,
+            "name": "Determining the Cause of Endocarditis",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "Patient and Practitioner Education",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Bacterial endocarditis is a relatively uncommon, life-threatening infection of the endothelial surface of the heart, including the heart valves. Despite advances in antimicrobial therapy and the diagnosis and treatment of complications, bacterial endocarditis continues to be responsible for substantial morbidity and mortality."
+        },
+        {
+            "parent": -1,
+            "text": "While anyone can contract endocarditis, the infection usually develops in individuals with underlying structural cardiac defects. It can occur whenever these persons develop bacteremia with the organisms likely to cause endocarditis. Bacteremia may occur spontaneously (i.e., caused by organisms introduced through food chewing or tooth brushing), or it may develop as a complication of a focal infection, such as a periodontal or periapical infection, a urinary tract infection, pneumonia or cellulitis. Selected surgical and dental procedures and instrumentations, especially those involving mucosal surfaces or contaminated tissue, can cause a transient bacteremia that rarely persists for more than a few minutes."
+        },
+        {
+            "parent": -1,
+            "text": "For endocarditis to develop, two independent events are normally required: an area of endothelium must be damaged, and a bacteremia caused by adherent organisms must occur. If endothelium is damaged but a bacteremia does not occur, bacterial endocarditis will not develop. Conversely, if a bacteremia occurs, normal undamaged heart endothelium is not conducive to bacterial colonization. In congenital or acquired cardiac lesions, endothelium can be damaged by an abnormally high-velocity jet-stream–like flow that results in turbulent, rather than laminar, blood flow."
+        },
+        {
+            "parent": -1,
+            "text": "A model was developed to delineate the hemodynamic mechanisms for the development of endocarditis.1This model showed that endothelial damage and bacterial deposition occur in the low-pressure area immediately distal to an obstruction, such as coarctation of the aorta, a regurgitant mitral or aortic valve, or a ventricular septal defect. Thus, endothelium on the ventricular side of a regurgitant aortic valve would be damaged, and the right ventricular wall (or right heart valves) would be damaged from the jet-stream–like blood flow created by a ventricular septal defect. Endothelium can also be damaged by direct trauma caused by a device (e.g., an indwelling cardiac catheter) or by intracardiac surgery."
+        },
+        {
+            "parent": -1,
+            "text": "Trauma to the endothelium of a cardiac valve or to the endocardium can induce thrombogenesis (deposition of fibrin and platelets), which leads to a nonbacterial, thrombotic endocardial lesion. This lesion is more susceptible to bacterial colonization than is normal, undamaged endothelium."
+        },
+        {
+            "parent": -1,
+            "text": "Although bacteremia is a frequent problem after many invasive procedures, only certain bacteria commonly cause endocarditis. Vegetation can develop following a bacteremia with one of these organisms. This vegetation is composed of fibrin, platelets, red blood cells, a few white blood cells and the infecting microorganisms."
+        },
+        {
+            "parent": -1,
+            "text": "The incidence of endocarditis following most procedures is low in patients with underlying cardiac disease. According to the American Heart Association (AHA),2a reasonable approach to endocarditis prophylaxis should consider the following points:"
+        },
+        {
+            "parent": -1,
+            "text": "The degree to which the patient's underlying condition creates a risk of endocarditis.The apparent risk of bacteremia with the procedure.The potential adverse effects of the prophylactic antimicrobial agent to be used.The cost-benefit aspects of the recommended prophylactic regimen."
+        },
+        {
+            "parent": -1,
+            "text": "It is not always possible to predict which patients will develop bacterial endocarditis and which procedure will be responsible. In fact, most cases of endocarditis are not attributable to a specific invasive procedure. Nonetheless, certain bacteria are known to be associated with endocarditis in at-risk patients. Consequently, recommendations for the prevention of endocarditis have been issued by various organizations throughout the world. The AHA developed the recommendations that are most widely followed in the United States. These recently revised guidelines serve as a point of reference for the discussion in this article.2"
+        },
+        {
+            "parent": -1,
+            "text": "The AHA recommendations are designed to assist in the rational use of prophylaxis for the prevention of bacterial endocarditis. The guidelines take into account both the patient's underlying cardiac condition and the risk of an endocarditis-producing bacteremia during a surgical or dental procedure. The recommendations are not intended to be the standard of care for all patients or to serve as a substitute for clinical judgment. Physicians and dentists must use their own judgment in selecting an antibiotic and determining the number of doses that are to be administered in individual patients or in special circumstances."
+        },
+        {
+            "parent": -1,
+            "text": "Even with appropriate antibiotic prophylaxis, endocarditis may occur. Consequently, physicians and dentists should maintain a high index of suspicion regarding any unusual clinical events that occur following procedures in which antibiotic prophylaxis was administered. Particular attention should be given to unexplained fever, night chills, weakness, myalgia, arthralgia, lethargy or malaise in a patient who has had a dental or surgical procedure."
+        },
+        {
+            "parent": 0,
+            "text": "Endocarditis is associated with some cardiac conditions more often than with others.3Furthermore, when endocarditis develops in patients with underlying cardiac conditions, disease severity and ensuing morbidity can be variable. Thus, endocarditis prophylaxis is recommended for use in patients who are at higher risk for endocarditis than persons in the general population. Prophylaxis is particularly important for patients in whom endocardial infection would be most likely to cause severe morbidity or even mortality."
+        },
+        {
+            "parent": 0,
+            "text": "Cardiac conditions for which prophylaxis is or is not recommended are listed inTable 1.2These conditions are stratified into high-, moderate- and negligible-risk categories based primarily on the potential outcome if endocarditis occurs. The negligible-risk category includes cardiac conditions in which endocarditis develops no more often than in the general population."
+        },
+        {
+            "parent": 0,
+            "text": "Compared with persons in the general population, patients in the high-risk category are much more likely to develop a severe endocardial infection resulting in morbidity and mortality. Patients in this category include those with prosthetic heart valves, a history of endocarditis (even in the absence of other heart disease), complex cyanotic congenital heart disease or surgically constructed systemic-pulmonary shunts or conduits.3,4"
+        },
+        {
+            "parent": 0,
+            "text": "Patients with most congenital and acquired cardiac malformations and valvular dysfunction fall into the moderate-risk category.3–5Compared with the general population, these patients are at higher risk for bacterial endocarditis. However, the risk of endocarditis is greater with some of these cardiac and valvular conditions than with others."
+        },
+        {
+            "parent": 0,
+            "text": "In patients with mitral valve prolapse, it can be difficult to determine when endocarditis prophylaxis is needed. This common condition represents a spectrum of valvular changes and occurs in approximately 4 to 8 percent of the general population.6Only a small percentage of patients with documented mitral valve prolapse develop complications at any age.6–8Patients with prolapsing and leaking mitral valves, as evidenced by audible clicks and murmurs of mitral regurgitation or by Doppler-demonstrated mitral insufficiency, are considered to be at increased risk for endocarditis.8–12Consequently, they are listed in the moderate-risk category. On the other hand, patients in whom regurgitation has not been documented are at no higher risk for endocarditis than persons in the general population and therefore do not need prophylaxis."
+        },
+        {
+            "parent": 0,
+            "text": "A detailed discussion of the pathophysiology of mitral valve prolapse is found in the AHA guidelines.2A clinical approach to determining the need for endocarditis prophylaxis in the patient with suspected mitral valve prolapse is presented inFigure 1.2Details about the role of echocardiography in the diagnosis of mitral valve prolapse are provided elsewhere.13"
+        },
+        {
+            "parent": 0,
+            "text": "Although endocarditis can occur in anyone, including persons with no underlying cardiac defects, the negligible-risk category includes cardiac conditions in which the risk of endocarditis is no higher than in the general population. Patients with these cardiac conditions do not require endocarditis prophylaxis."
+        },
+        {
+            "parent": 1,
+            "text": "Bacteremias commonly occur during activities of daily living, such as routine tooth brushing or food chewing. With respect to endocarditis prophylaxis, significant bacteremias are caused only by the organisms commonly associated with endocarditis and attributable to identifiable procedures."
+        },
+        {
+            "parent": 1,
+            "text": "Prophylaxis is recommended for procedures that are known to induce significant bacteremias with the organisms commonly associated with endocarditis and attributable to identifiable procedures. Invasive procedures performed through surgically scrubbed skin are not likely to produce such bacteremias."
+        },
+        {
+            "parent": 2,
+            "text": "Both the incidence and the magnitude of bacteremias of oral origin are proportional to the degree of oral inflammation and infection.14,15Therefore, it is important that patients at risk for endocarditis maintain good oral health to reduce potential sources of bacterial seeding. Oral maintenance includes regular brushing (with manual or powered toothbrushes) and flossing at home, as well as regular visits to the dentist. Some authorities recommend the use of an antiseptic mouth rinse, such as chlorhexidine (Peridex) or povidone-iodine (Betadine), immediately before dental procedures to help reduce the incidence and magnitude of bacteremia.2,14"
+        },
+        {
+            "parent": 2,
+            "text": "Dental and oral procedures for which antimicrobial prophylaxis is or is not recommended are listed inTable 2.2In general, prophylaxis is recommended for procedures associated with significant bleeding from hard or soft tissues, including periodontal surgery, scaling and professional teeth cleaning. Prophylaxis is also recommended for tonsillectomy or adenoidectomy. Antimicrobial prophylaxis is not recommended for procedures in which significant bleeding is not anticipated."
+        },
+        {
+            "parent": 3,
+            "text": "Respiratory, gastrointestinal and genitourinary tract procedures for which prophylaxis is or is not recommended are listed inTable 3.2Antimicrobial prophylaxis is recommended for surgical procedures that involve the respiratory mucosa and for bronchoscopy with a rigid bronchoscope but not with a flexible scope."
+        },
+        {
+            "parent": 3,
+            "text": "The AHA recommendations regarding prophylaxis for gastrointestinal procedures were developed in conjunction with the American Society of Gastrointestinal Endoscopy. Unlike the previous recommendations,16prophylaxis is now only recommended for patients in the high-risk category(Table 1).2Prophylaxis for patients in the moderate-risk category is optional."
+        },
+        {
+            "parent": 3,
+            "text": "Procedures for which endocarditis prophylaxis is recommended include sclerotherapy for esophageal varices, esophageal stricture dilation, endoscopic retrograde cholangiography with biliary obstruction, biliary tract surgery and surgical operations involving the intestinal mucosa. An in-depth discussion of prophylaxis for gastrointestinal procedures is provided in the AHA guidelines.2"
+        },
+        {
+            "parent": 3,
+            "text": "The risk of endocarditis as a direct result of an endoscopic procedure, with or without gastrointestinal biopsy, is small, and the organisms recovered are not likely to cause endocarditis.17–20Therefore, antimicrobial prophylaxis is not recommended for endoscopic procedures, although physicians may choose to administer antibiotics to patients who fall into the high-risk category."
+        },
+        {
+            "parent": 3,
+            "text": "The genitourinary tract is second only to the oral cavity as a portal of entry for organisms that cause endocarditis.21,22Many procedures involving the urethra and the prostatic bed, including surgery, instrumentation and diagnostic measures, are associated with high rates of bacteremia.22,23The incidence of bacteremia following urinary tract procedures is high in patients with urinary tract infection. Therefore, sterilization of the urinary tract with antimicrobial therapy should be considered before these patients undergo elective procedures, including lithotripsy. Physicians can choose the appropriate antibiotic based on the organisms identified by urine culture obtained before the procedure."
+        },
+        {
+            "parent": 3,
+            "text": "Bacteremia, usually with various Streptococcus species, occurs after about 3 percent of vaginal deliveries.22Few well-documented cases of endocarditis following normal vaginal delivery have been reported.24Therefore, antibiotic prophylaxis for normal vaginal delivery is not recommended. If an unanticipated bacteremia is suspected during vaginal delivery, intravenous antibiotics can be administered."
+        },
+        {
+            "parent": 3,
+            "text": "In the absence of obvious infection, no cases of bacteremia have been reported following cervical biopsy or the manipulation of an intrauterine device.22In the presence of infection, bacteremia may occur following other genitourinary procedures, such as the insertion or removal of an intrauterine device, and prophylaxis may be warranted."
+        },
+        {
+            "parent": 4,
+            "text": "Prophylactic regimens are directed at the organisms most likely to result in bacteremia during a procedure. Endocarditis prophylaxis is most effective when an antibiotic is given perioperatively in a dose sufficient to ensure an adequate serum concentration of the drug during and after the procedure. To reduce the likelihood of microbial resistance, prophylactic antibiotic therapy should be used only during the perioperative period."
+        },
+        {
+            "parent": 4,
+            "text": "The antimicrobial regimens listed inTable 42are designed to be initiated shortly (hours to days) before a procedure. A follow-up dose is recommended in only a few situations."
+        },
+        {
+            "parent": 4,
+            "text": "Special prophylaxis may be needed for procedures that involve infected tissue, because these procedures can cause a bacteremia with the organism causing the infection. Therefore, if a procedure requires endocarditis prophylaxis(Tables 2and3),2the patient should be given antibiotics effective against the established infection along with the appropriate endocarditis prophylactic regimen. While most of the organisms that cause tissue infections are unlikely to result in endocarditis, they could cause life-threatening sepsis. An example is the gram-negative bacillus that causes urinary tract infection."
+        },
+        {
+            "parent": 5,
+            "text": "Alpha-hemolytic streptococci are the most common cause of endocarditis following dental and oral procedures, certain upper respiratory tract procedures, bronchoscopy with a rigid scope, esophageal procedures and surgical procedures involving the respiratory mucosa. The recommended standard prophylactic regimen for all of these procedures is a single dose of oral amoxicillin (2.0 g in adults and 50 mg per kg in children). A follow-up dose is no longer recommended, both because of the prolonged serum levels above the minimal inhibitory concentration of most oral streptococci25and the prolonged serum inhibitory activity induced by amoxicillin against such strains (six to 14 hours).26"
+        },
+        {
+            "parent": 5,
+            "text": "Although amoxicillin, ampicillin and penicillin V are equally effective in vitro against alpha-hemolytic streptococci, amoxicillin is recommended because it is better absorbed from the gastrointestinal tract and because it provides higher and more sustained serum antimicrobial levels. Parenterally administered ampicillin is recommended in patients who are unable to take or to absorb oral medications. Amoxicillin for parenteral administration is not available in the United States."
+        },
+        {
+            "parent": 5,
+            "text": "Patients who are allergic to penicillin should be treated with one of the alternative oral regimens: clindamycin (Cleocin), the first-generation cephalosporins cefadroxil (Duricef) or cephalexin (Biocef, Keflex), or the newer macrolides azithromycin (Zithromax) or clarithromycin (Biaxin). Cephalosporins should not be used in patients who have previously had an immediate local or systemic IgE-mediated anaphylactic allergic reaction to penicillin."
+        },
+        {
+            "parent": 5,
+            "text": "The AHA no longer recommends erythromycin for endocarditis prophylaxis. The drug has been eliminated from the guidelines because of its gastrointestinal adverse effects and the complicated pharmacokinetics of the various formulations. Physicians and dentists who have successfully used erythromycin for prophylaxis in individual patients may choose to continue with this antibiotic."
+        },
+        {
+            "parent": 6,
+            "text": "Recommended prophylactic regimens for genitourinary and gastrointestinal tract procedures (excluding esophageal procedures) are presented inTable 5.2Bacterial endocarditis that occurs following genitourinary and gastrointestinal tract surgery or instrumentation is most often caused byEnterococcus faecalis. Although such procedures may be followed by bacteremia with gram-negative bacilli, these organisms are only rarely responsible for endocarditis. Thus, antibiotic prophylaxis to prevent endocarditis that occurs following genitourinary or gastrointestinal procedures should be directed primarily against enterococci."
+        },
+        {
+            "parent": 6,
+            "text": "Parenterally administered antibiotics are recommended, particularly in high-risk patients. The recommended regimen includes both ampicillin and gentamicin (Garamycin). Either parenterally administered ampicillin or orally administered amoxicillin should be given to patients who are at medium risk for endocarditis and require prophylaxis. Vancomycin (Vancoled, Vancocin) should be given to penicillin-allergic patients."
+        },
+        {
+            "parent": 7,
+            "text": "Certain situations may require some deviation from the normal antimicrobial regimens. Some common situations for which questions arise are addressed below."
+        },
+        {
+            "parent": 8,
+            "text": "After a procedure has been performed, patients occasionally report that they did not take the prophylactic antibiotic before the procedure. Also, unanticipated bleeding may occur during a procedure that does not routinely warrant prophylaxis. In both of these situations, experimental animal model data suggest that effective prophylaxis can be achieved when the appropriate antibiotic is administered within two hours after the procedure.27Antibiotics administered more than four hours after the procedure probably provide no prophylactic benefit."
+        },
+        {
+            "parent": 9,
+            "text": "Occasionally, patients who require endocarditis prophylaxis may already be taking an antibiotic. If a patient is taking an antibiotic normally used for endocarditis prophylaxis, the dosage should not be increased; instead, a drug from a different class should be selected. In particular, antibiotic regimens used to prevent the recurrence of acute rheumatic fever are inadequate for the prevention of bacterial endocarditis."
+        },
+        {
+            "parent": 9,
+            "text": "The oral cavities of patients who are taking an oral penicillin for the secondary prevention of rheumatic fever or for other purposes may contain alpha-hemolytic streptococci that are relatively resistant to penicillin, amoxicillin or ampicillin. These patients should be given one of the alternative antibiotics for endocarditis prophylaxis(Table 4).2Because of possible cross-resistance, the cephalosporins should be avoided."
+        },
+        {
+            "parent": 10,
+            "text": "Special prophylaxis may be needed for a procedure that involves infected tissue, because of the potential for a bacteremia with the organism causing the tissue infection. Before the procedure is performed, antimicrobial prophylaxis, including antibiotics effective against the established infection, should be given to patients who are at high and moderate risk for endocarditis(Table 1).2"
+        },
+        {
+            "parent": 10,
+            "text": "For nonoral soft-tissue infections (cellulitis) or bone and joint infections (osteomyelitis and pyogenic arthritis), an antistaphylococcal penicillin or a first-generation cephalosporin is an appropriate choice."
+        },
+        {
+            "parent": 10,
+            "text": "Clindamycin is an acceptable alternative in patients who are allergic to penicillins. Intravenously administered vancomycin is the drug of choice in patients who are unable to take oral antibiotics or who are known to have methicillin-resistantStaphylococcus aureusbacteremia."
+        },
+        {
+            "parent": 10,
+            "text": "Patients with urinary tract infection should be given antibiotics active against enteric gram-negative bacilli, such as an aminoglycoside or a third-generation cephalosporin."
+        },
+        {
+            "parent": 10,
+            "text": "If the procedure is one that requires endocarditis prophylaxis(Tables 2and3), the patient should also receive the appropriate antibiotic regimen based on situation and risk(Tables 4and5).2"
+        },
+        {
+            "parent": 11,
+            "text": "Intramuscular antibiotic injections for endocarditis prophylaxis should be avoided in patients who are receiving heparin therapy. The use of warfarin (Coumadin) is a relative contraindication to intramuscular injections. Intravenous or oral regimens should be used whenever possible."
+        },
+        {
+            "parent": 12,
+            "text": "A careful preoperative dental evaluation is recommended in patients undergoing cardiac surgery, so that, whenever possible, required dental treatment can be completed before the surgery. Such measures may decrease the incidence of late postoperative endocarditis."
+        },
+        {
+            "parent": 13,
+            "text": "Patients with cardiac conditions that predispose them to endocarditis are at risk for bacterial endocarditis when they undergo open-heart surgery. Patients who undergo surgery for the placement of prosthetic heart valves or prosthetic intravascular or intracardiac materials are also at risk for bacterial endocarditis. Because endocarditis is known to cause severe morbidity and even death in such patients, perioperative prophylactic antibiotics are recommended."
+        },
+        {
+            "parent": 13,
+            "text": "Endocarditis associated with open-heart surgery is most often caused by staphylococci. Therefore, prophylaxis at the time of cardiac surgery should be directed primarily against staphylococci and should be of short duration. While first-generation cephalosporins are most often used, the selection of an antibiotic should be influenced by the susceptibility patterns at the particular hospital."
+        },
+        {
+            "parent": 13,
+            "text": "Prophylaxis with the chosen antibiotic should be started immediately before the procedure, repeated during a prolonged procedure to maintain serum levels intraoperatively and continued for no more than 24 hours postoperatively to minimize the emergence of resistant organisms. The effects of cardiopulmonary bypass and compromised postoperative renal function on serum antibiotic levels should be considered, and doses should be timed appropriately before and during the procedure."
+        },
+        {
+            "parent": 14,
+            "text": "Many reparative cardiac procedures do not modify the patient's long-term risk for infective endocarditis, which continues indefinitely(Table 1). With valve replacement surgery, the risk of endocarditis increases postoperatively. In other conditions, such as closure of a ventricular septal defect or patent ductus arteriosus without residual leak, the risk of endocarditis diminishes, after a six-month healing period, to the level in the general population. Data are insufficient to make recommendations for prophylactic therapy following closure of these lesions by transcatheter devices."
+        },
+        {
+            "parent": 14,
+            "text": "No evidence exists showing that coronary artery bypass graft surgery introduces a risk for endocarditis. Therefore, antibiotic prophylaxis is not needed in patients who have previously undergone this procedure. Noncoronary vascular grafts may merit antibiotic prophylaxis for the first six months after implantation."
+        },
+        {
+            "parent": 14,
+            "text": "Data are insufficient to make specific recommendations for patients who have had heart transplants. However, these patients are known to be at risk for acquired valvular dysfunction, especially during episodes of rejection. Because of the risk of valvular dysfunction and the continuous use of immunosuppression in these patients, most transplant physicians administer prophylaxis according to regimens for the moderate-risk category."
+        },
+        {
+            "parent": 16,
+            "text": "Careful analysis is required when endocarditis is perceived to be the result of failure to administer a recommended prophylactic regimen. The time period between the putatively responsible invasive procedure and the onset of clinical symptoms compatible with endocarditis must be considered. Most cases of procedure-related endocarditis occur two weeks or less after the procedure. A longer incubation period between the invasive procedure and the onset of symptoms significantly lessens the likelihood that the procedure was the proximate cause of the endocarditis."
+        },
+        {
+            "parent": 16,
+            "text": "It is also important to consider the etiologic organism that is causing the endocarditis and the likelihood that the putative invasive procedure caused the bacteremia. For example, it is unlikely that endocarditis due to alpha-hemolytic streptococcal infection would complicate invasive nonesophageal gastrointestinal or genitourinary procedures. Similarly, enterococcal endocarditis would be a very unusual consequence of dental procedures."
+        },
+        {
+            "parent": 17,
+            "text": "Patients need to be aware of the presence and severity of their underlying lesion. This information also should be communicated to the treating physician or dentist before a procedure is performed. A national registry established by the AHA in the early 1980s analyzed 52 patients in whom endocarditis prophylaxis apparently failed.28Only six (12 percent) of these patients had received the prophylactic regimens then recommended by the AHA."
+        },
+        {
+            "parent": 17,
+            "text": "The use of prophylactic antibiotics to prevent joint prostheses from becoming infected during potentially bacteremia-inducing procedures is beyond the scope of this article. Guidelines for prophylaxis of these patients before dental procedures have been published by the American Dental Association.29"
+        }
+    ],
+    "locked": false
+}

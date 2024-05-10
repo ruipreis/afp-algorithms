@@ -1,0 +1,318 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0601/p2675.html#afp19980601p2675-f1",
+    "title": "Diagnostic Evaluation of Urinary Incontinence in Geriatric Patients | AAFP",
+    "author": "BARRY D. WEISS, M.D.",
+    "doi": "Am Fam Physician.1998;57(11):2675-2684",
+    "abstract": "In most cases, the evaluation of urinary incontinence requires only a history, a physical examination, urinalysis and measurement of postvoid residual urine volume. The initial purposes of the evaluation are to identify conditions requiring referral or specialized work-up and to detect and treat reversible causes that may be present. If the patient does not appear to require referral and a reversible cause is not identified, the next step is to categorize the patient's symptoms as typical of either urge or stress incontinence and treat the patient accordingly. If treatment fails or a presumptive diagnosis of urge or stress incontinence cannot be reached, the final step would be to perform more sophisticated tests or refer the patient for testing to define the cause and determine the best treatment.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Prevalence",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Implications of Incontinence",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Physiology of Micturition",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Detrusor Mechanism",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Sphincter Mechanism",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Basic Mechanisms",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Urge Incontinence",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Stress Incontinence",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Overflow Bladder",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Evaluation of Incontinence",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "History",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Physical Examination",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Urinalysis",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Postvoid Residual Urine Volume",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Simple Tests of Lower Urinary Tract Function",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Office Cystometry",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "Office Stress Testing",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "Putting it all Together",
+            "level": 2
+        },
+        {
+            "id": 18,
+            "name": "Treating the Presumptive Diagnosis",
+            "level": 3
+        },
+        {
+            "id": 19,
+            "name": "Mixed Incontinence",
+            "level": 3
+        },
+        {
+            "id": 20,
+            "name": "When No Presumptive Diagnosis Can Be Made",
+            "level": 3
+        },
+        {
+            "id": 21,
+            "name": "Treatment Failure",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Urinary incontinence, the unintentional leakage of urine at inappropriate times, is a classic syndrome in geriatric medicine. It affects approximately 13 million persons in the United States, most of whom are older adults.1This article describes the evaluation of urinary incontinence in geriatric patients, focusing on a diagnostic approach for use by primary care physicians. A more detailed discussion of the diagnosis and management of urinary incontinence can be found in the revised clinical practice guideline recently published by the U.S. Agency for Health Care Policy and Research (AHCPR).1"
+        },
+        {
+            "parent": 0,
+            "text": "Studies on the prevalence of incontinence have yielded varying results, largely because each study has used different populations and criteria to define incontinence.2–6Overall, however, estimates indicate that about one half of the homebound and institutionalized elderly are incontinent, as are 25 to 30 percent of older patients discharged after hospitalization for acute medical illnesses. Among community-dwelling, ambulatory, non-homebound persons over 60 years of age, approximately 10 to 15 percent of men and 20 to 35 percent of women have incontinent episodes. Continuous or daily incontinence occurs in about 5 percent of community-dwelling older persons(Table 1).2–6"
+        },
+        {
+            "parent": 0,
+            "text": "Although urinary incontinence is common, it frequently is not identified because fewer than 50 percent of affected patients report the problem to their physicians.7Many patients believe incontinence is a normal result of aging—that nothing can be done about it or that nothing can be done except surgery (and they are not interested in surgery).8Thus, if urinary incontinence is to be detected, often physicians must ask about it."
+        },
+        {
+            "parent": 1,
+            "text": "Urinary incontinence has important medical, psychosocial and economic implications. Medically, incontinence is associated with decubitus ulcers, urinary tract infections, sepsis, renal failure and increased mortality. The social implications of incontinence include loss of self-esteem, restriction of social and sexual activities, depression and, in severe cases, dependence on caregivers.9Incontinence is often a key factor in the decision to place elderly persons in nursing homes. In the United States, the cost of managing urinary incontinence and its complications exceeds $1.5 billion per year.10"
+        },
+        {
+            "parent": 2,
+            "text": "The physiologic systems that control micturition (urination) are quite complex. However, family physicians with a general understanding of the detrusor and sphincter mechanisms can manage most patients with urinary incontinence."
+        },
+        {
+            "parent": 3,
+            "text": "The detrusor muscle is the multilayered contractile muscle of the urinary bladder. The detrusor mechanism involves the detrusor muscle, the pelvic nerves, the spinal cord and the cerebral centers that control micturition. When a person's bladder begins to fill with urine, neural impulses are transmitted through the pelvic nerves and spinal cord to subcortical and cortical cerebral centers. The subcortical centers (in the basal ganglia and the cerebellum) cause the bladder to relax (subconsciously) so that it can fill without causing the person to experience an urge to void. As filling continues, the sensation of bladder distention reaches consciousness, and the cortical centers (in the frontal lobe) permit volitional delay of urination. Impairment of these cortical or subcortical centers by medication or disease can diminish the ability to postpone urination."
+        },
+        {
+            "parent": 3,
+            "text": "When urination is desired, neural impulses from the cortex are transmitted through the spinal cord and pelvic nerves to the detrusor muscle. The cholinergic action of the pelvic nerves then causes the detrusor muscle to contract and the bladder to empty. Interference with the cholinergic activity of the pelvic nerves results in diminished contractility of this muscle."
+        },
+        {
+            "parent": 3,
+            "text": "Detrusor muscle contraction does not depend solely on cholinergic innervation by the pelvic nerves. The detrusor muscle also contains receptors for prostaglandins. Hence, prostaglandin-inhibiting drugs can impair detrusor contractions. Bladder contractions are also calcium channel dependent. Therefore, calcium channel blockers can also impair bladder contractions."
+        },
+        {
+            "parent": 4,
+            "text": "Innervation of the internal and external urethral sphincters is also complex. However, to prescribe effective medications for the treatment of incontinence, family physicians need to understand the basic adrenergic innervation of these sphincters as well as the anatomic relationships of the urethra and the bladder."
+        },
+        {
+            "parent": 4,
+            "text": "Alpha-adrenergic activity causes the urethral sphincter to contract. Therefore, medications with alpha-adrenergic agonist activity (e.g., pseudoephedrine) can strengthen sphincter contractions, whereas alpha-blocking agents (e.g., terazosin [Hytrin]) can impair sphincter closure. Beta-adrenergic innervation causes relaxation of the urethral sphincter. Therefore, beta-adrenergic blocking agents (e.g., propranolol [Inderal]) can interfere with urethral relaxation and leave alpha-adrenergic contractile activity unopposed."
+        },
+        {
+            "parent": 4,
+            "text": "The other important component of the sphincter mechanism is the anatomic relationship of the urethra to the bladder and the abdominal cavity. A continent sphincter mechanism requires proper angulation between the urethra and the bladder. Normal urethral sphincter function also depends on proper positioning of the urethra so that increases in intra-abdominal pressure are effectively transmitted to the urethra. When the urethra is in the correct position, urine is not lost with straining, coughing and other maneuvers that increase intra-abdominal pressure."
+        },
+        {
+            "parent": 5,
+            "text": "Three basic mechanisms serve as “final common pathways” in nearly all causes of incontinence: (1) urge incontinence, also referred to as “hyperactive bladder” or “irritable bladder,” (2) stress incontinence, which results from poor urethral sphincter function (primary urethral incompetence) and (3) overflow bladder."
+        },
+        {
+            "parent": 5,
+            "text": "Urge incontinence is a common problem that increases in frequency and severity with advancing age and cognitive dysfunction. Overall, however, stress incontinence is the most prevalent form of incontinence in geriatric patients, largely because women predominate in this group.11,12Many elderly persons, particularly women, have “mixed incontinence,” in which urge and stress incontinence coexist.13"
+        },
+        {
+            "parent": 5,
+            "text": "Overflow bladder is relatively uncommon. However, it is an important problem because without treatment it can lead to hydronephrosis and renal damage. Urinary incontinence due to overflow bladder is more common in men because of the prevalence of obstructive prostate gland enlargement."
+        },
+        {
+            "parent": 6,
+            "text": "Urge incontinence results from bladder contractions that overwhelm the ability of the cerebral centers to inhibit them. These uncontrollable contractions can occur because of inflammation or irritation within the bladder resulting from calculi, malignancy, infection or atrophic vaginitis-urethritis. They can also occur when the brain centers that inhibit bladder contractions are impaired by neurologic conditions such as stroke, Parkinson's disease or dementia, drugs such as hypnotics or narcotics, or metabolic disorders such as hypoxemia and encephalopathy."
+        },
+        {
+            "parent": 6,
+            "text": "Patients with uncontrolled bladder contractions can also develop incontinence when high urine volumes are introduced rapidly into the bladder (e.g., diuretic therapy, glycosuria-induced osmotic diuresis). Finally, urge incontinence can occur when mobility is impaired (for example, in patients with arthritis), making it difficult for patients to get to the bathroom in time. This condition is sometimes referred to as “functional” incontinence."
+        },
+        {
+            "parent": 7,
+            "text": "Stress incontinence is caused by a malfunction of the urethral sphincter that causes urine to leak from the bladder when intra-abdominal pressure increases, such as during coughing or sneezing. Classic or genuine stress incontinence is caused by pelvic prolapse, urethral hypermobility or displacement of the urethra and bladder neck from their normal anatomic alignment. Stress incontinence can also occur as a result of intrinsic sphincter deficiency, in which the sphincter is weak because of a congenital condition or denervation resulting from alpha-adrenergic blocking drugs, surgical trauma or radiation damage."
+        },
+        {
+            "parent": 8,
+            "text": "Overflow bladder incontinence occurs because of urine retention with bladder distention. Urine accumulates in the bladder until maximum bladder capacity is reached. It then leaks through the urethra by “overflow,” usually manifesting as dribbling. However, increased intra-abdominal pressure may also cause loss of urine, so that overflow incontinence sometimes mimics stress incontinence."
+        },
+        {
+            "parent": 8,
+            "text": "In addition, overflow incontinence can be caused by underactive bladder contractions secondary to medications that relax the bladder detrusor muscle (e.g., anticholinergic agents, calcium channel blockers). It can also be caused by denervation of the detrusor resulting from a neurologic abnormality that affects bladder innervation (e.g., diabetic neuropathy) or because of damage to bladder innervation (e.g., tumors, radiation, surgery). Finally, overflow bladder can be caused by obstructed urinary outflow resulting from prostate enlargement, fecal impaction, urethral stricture or urethral constriction related to alpha-adrenergic agonist medications."
+        },
+        {
+            "parent": 9,
+            "text": "Keeping urge, stress and overflow incontinence in mind, family physicians can undertake the basic evaluation of patients with incontinence. In most patients, the evaluation requires only a medical history, a physical examination, urinalysis and measurement of postvoid residual (PVR) urine volume. Occasionally, simple office tests of lower urinary tract function are helpful. The AHCPR guideline panel concluded that sophisticated tests such as cystoscopy and imaging studies, and formal urodynamic studies like cystometrography are not routinely required to evaluate incontinence.1"
+        },
+        {
+            "parent": 9,
+            "text": "The first goal of the basic evaluation is to identify transient (i.e., easily reversible) causes of incontinence so that effective treatments can be instituted. The second goal is to identify conditions that may require special evaluation or referral to a urologist or a urogynecologist. After transient causes and indications for special evaluation or referral have been excluded, the third goal is to decide if the patient's symptoms are more indicative of urge incontinence or stress incontinence and initiate treatment accordingly(Figure 1).1If treatments are ineffective, the patient should then undergo a more specialized evaluation."
+        },
+        {
+            "parent": 9,
+            "text": "Transient causes are responsible in about one half of hospitalized patients with incontinence and about one third of incontinent persons in the community.14Some of these causes are listed inTable 2. If none of these conditions is identified or suspected after a history, physical examination, urinalysis and PVR urine volume determination, the incontinence probably does not have a transient cause."
+        },
+        {
+            "parent": 9,
+            "text": "Conditions requiring specialized evaluations(Table 3)are relatively uncommon in primary care practice. The diagnosis and treatment of incontinence may not be straightforward when these conditions are present. Frequently, patients with such conditions require evaluation by a urologist or urogynecologist."
+        },
+        {
+            "parent": 9,
+            "text": "The following sections review the components of the basic evaluation of incontinence. As noted inFigure 1, these components are the history, the physical examination, urinalysis and measurement of PVR urine volume."
+        },
+        {
+            "parent": 10,
+            "text": "The patient's medical history can be helpful in identifying transient incontinence caused by medication side effects, prostatectomy and medical conditions with central nervous system dysfunction or impaired mobility. Of these, medication side effects are probably the most important causes of transient incontinence(Table 4). If the medication can be discontinued or changed, incontinence may improve. Incontinence sometimes occurs after transurethral resection of the prostate. This urge incontinence, which may persist for a variable period of time, may be alleviated with behavioral therapies.15A more complete list of transient conditions that can be detected or suspected based on the medical history is provided inTable 2. Suggested treatments for these conditions are also included."
+        },
+        {
+            "parent": 10,
+            "text": "The medical history can also help physicians identify conditions that require specialized evaluation or referral(Table 3). Such conditions include previous anti-incontinence surgery, previous radical pelvic surgery, incontinence associated with recurrent symptomatic urinary infections and recent onset (within two months) of urge incontinence caused by irritative bladder symptoms, which may indicate bladder neoplasm and require cystoscopy for evaluation."
+        },
+        {
+            "parent": 10,
+            "text": "If the history does not suggest a transient cause for incontinence or provide reasons for specialized evaluation, the patient should be asked specific questions directed at distinguishing the symptoms of stress incontinence from those of urge incontinence."
+        },
+        {
+            "parent": 10,
+            "text": "The principal symptom of urge incontinence is loss of urine associated with a strong desire to void (i.e., urgency). The patient may also complain about needing to void at frequent intervals or being unable to get to a bathroom quickly enough after first feeling the urge to void. Patients with urge incontinence often have the sensation that their bladder has not fully emptied after urination."
+        },
+        {
+            "parent": 10,
+            "text": "Symptoms of stress incontinence include momentary leakage of urine with sneezing, coughing, laughing or other actions that increase intra-abdominal pressure. The loss of urine occurs when the bladder is full or partly full, and it stops when intra-abdominal pressure returns to normal (i.e., sustained urination does not occur). Sustained leakage of urine in situations such as coughing suggests “pseudo” stress incontinence, which is actually a manifestation of urge incontinence. With this form of incontinence, an irritable, poorly inhibited bladder is stimulated to contract by repetitive transient increases in intra-abdominal pressure from coughing or other actions. Formal urodynamic tests may be needed to diagnose pseudo stress incontinence.12"
+        },
+        {
+            "parent": 11,
+            "text": "The initial physical examination should focus on finding fecal impaction or atrophic vaginitis, both of which are potentially reversible causes of urinary incontinence. In patients with fecal impaction, a mass of stool in the rectum puts extrinsic pressure on the urethra, with resultant obstruction and overflow incontinence. Disimpaction may relieve incontinence. Atrophic vaginitis causes urinary incontinence because, in many women, the estrogen-sensitive mucosa of the vagina extends into the urethra and bladder trigone. If atrophic vaginitis is present, atrophic urethritis and trigonitis may also be present, with the three conditions causing inflammation-induced bladder contractions. Topical or systemic estrogen is the usual treatment."
+        },
+        {
+            "parent": 11,
+            "text": "Physical findings that warrant referral or specialized testing include prostate nodules or asymmetry, gross pelvic prolapse (beyond the hymen) and abnormalities suggesting systemic neurologic disorders or a spinal cord lesion."
+        },
+        {
+            "parent": 11,
+            "text": "While the physical examination may suggest a transient cause for urinary incontinence or reasons for specialized testing, it cannot distinguish between urge and stress incontinence. Although findings such as cystocele suggest the possibility of stress incontinence, they are not specific for this problem. Urge incontinence has no specific physical findings."
+        },
+        {
+            "parent": 12,
+            "text": "Urinalysis can identify acute urinary tract infection and diabetes-induced glycosuria, both of which can cause or aggravate urge incontinence. These conditions are reversible with treatment. If appropriate, a urine culture should also be obtained."
+        },
+        {
+            "parent": 13,
+            "text": "As part of the basic evaluation of urinary incontinence, all patients should undergo measurement of PVR urine volume to detect urinary retention (i.e., overflow bladder). PVR volume measurement can detect retention caused by potentially reversible factors (e.g., anticholinergic or other drugs, fecal impaction). Urinary retention not obviously resulting from a transient cause generally requires specialized evaluations, including cystometrography, to determine why the bladder does not empty properly."
+        },
+        {
+            "parent": 13,
+            "text": "The PVR urine volume can be measured by one of two methods. The first and most common method is “in and out” urethral catheterization within a few minutes after the patient has urinated to empty the bladder. The quantity of urine obtained is noted. PVR volume can also be measured with pelvic ultrasonography, using portable devices designed for office use.16Ultrasonography is a useful alternative to catheterization, especially for measuring the PVR volume in men with suspected prostate obstruction, because catheterizing these patients may cause urinary infection or obstruction."
+        },
+        {
+            "parent": 13,
+            "text": "Normally, less than 50 mL of residual urine is present after voiding. Volumes of more than 200 mL are abnormal. Intermediate volumes (50 to 200 mL) are considered equivocal, and the test should be repeated. Clinical judgment is needed to interpret repeatedly equivocal results."
+        },
+        {
+            "parent": 14,
+            "text": "Sometimes the basic evaluation reveals neither transient causes nor indications for specialized testing, and the history and physical examination do not permit distinction between urge and stress incontinence. In this situation, simple tests of lower urinary tract function may be helpful. These tests mimic formal cystometrographic studies but can easily be performed in the family physician's office."
+        },
+        {
+            "parent": 15,
+            "text": "Simple office cystometry is a test for urge incontinence.17In this test, a French nonballooned urinary catheter, no. 12 to no. 14, is inserted into the bladder. Catheterization can be performed at the same time that PVR urine volume is measured."
+        },
+        {
+            "parent": 15,
+            "text": "After the bladder empties, the plunger is removed from a bayonet-tipped 50-mL syringe, and the tip is inserted into the end of the catheter(Figure 2). With the physician holding the center of the syringe about 15 cm above the urethra, 50 mL of sterile water is poured into the open end of the syringe and allowed to flow into the bladder. Keeping track of the total amount of water used, the physician continues to instill water in 50-mL increments until the patient experiences the urge to urinate."
+        },
+        {
+            "parent": 15,
+            "text": "At this point, water instillation is continued in 25-mL increments until the patient experiences severe urgency (“I can't hold it anymore”) or bladder contractions occur. Contractions are detected by monitoring the fluid level that appears in the syringe after several aliquots of water have been instilled. A rise and fall in the fluid level indicates pressure changes (i.e., contractions) within the bladder."
+        },
+        {
+            "parent": 15,
+            "text": "Severe urgency or bladder contractions at less than 300 mL of bladder volume constitute a presumptive diagnosis of urge incontinence. For the diagnosis of urge incontinence, simple cystometry has a 75 to 100 percent sensitivity, a 69 to 89 percent specificity, and a 74 to 91 percent positive predictive value, using formal multichannel cystometrography as the gold-standard comparison.17"
+        },
+        {
+            "parent": 16,
+            "text": "Several maneuvers can be used in conjunction with simple cystometry to test for stress incontinence in women.17These maneuvers can be performed immediately after the bladder is filled during simple cystometry, and after the catheter is removed. The patient lies supine on the examination table with a full bladder and coughs forcefully. The physician places a gauze pad in front of the perineum. If urine leaks onto the gauze pad during coughing, a presumptive diagnosis of stress incontinence is made. Next, the physician places his or her fingers on either side of the patient's urethra and elevates the structure. The patient is then asked to cough. In patients with stress incontinence, urethral elevation prevents further urine leakage."
+        },
+        {
+            "parent": 16,
+            "text": "If no incontinence is demonstrated in the supine position, the maneuvers should be repeated with the patient in a standing position.18If no incontinence occurs in either position, the patient probably does not have stress incontinence."
+        },
+        {
+            "parent": 18,
+            "text": "If the basic evaluation identifies transient causes of incontinence, these causes should be treated(Table 2). Similarly, if the basic evaluation reveals reasons for referral or specialized testing(Table 3), these measures should be undertaken."
+        },
+        {
+            "parent": 18,
+            "text": "If neither of the above situations occurs and the physician can make a presumptive diagnosis of stress or urge incontinence (if necessary, by performing simple tests of lower urinary tract function), appropriate treatments can be instituted. While a detailed discussion of treatments for urinary incontinence is beyond the scope of this article, the basic treatments are outlined inTable 5.19,20In general, behavioral therapies are first-choice treatments. For urge incontinence in particular, behavioral therapies are the most effective treatments available.1,19Medication is used secondarily, often as an adjunct to behavioral treatments. Surgical interventions are an option in properly selected patients, especially those with stress incontinence."
+        },
+        {
+            "parent": 19,
+            "text": "At times, patients have symptoms or findings suggesting both stress and urge incontinence. When mixed incontinence is identified, the physician should treat the type of incontinence for which symptoms predominate (i.e., stress or urge incontinence)."
+        },
+        {
+            "parent": 20,
+            "text": "If no presumptive diagnosis can be made, the patient should undergo a more sophisticated evaluation. Useful tests include formal multichannel or subtracted cystometrography, urine flowmetry, urethral pressure profiles and urethral sphincter electromyography.21Endoscopic and imaging tests may be helpful in selected patients. These tests are usually conducted by a urologist or urogynecologist."
+        },
+        {
+            "parent": 21,
+            "text": "If a presumptive diagnosis is identified and treated, the patient should be monitored for improvement. If the desired clinical result does not occur, the patient should undergo further evaluation to ensure that the presumptive diagnosis was correct and that prescribed treatments are optimal. More sophisticated tests may reveal an unsuspected basis for the patient's incontinence and thereby further dictate treatment."
+        },
+        {
+            "parent": 21,
+            "text": "In some patients who have not responded to treatment, further testing reveals that the presumptive diagnosis was correct but the appropriate treatments were simply ineffective in alleviating the incontinence. When this occurs, the patient may be managed with various measures, including pads, adult artificial sphincters and, in some situations, intermittent or indwelling urethral catheterization."
+        }
+    ],
+    "locked": false
+}

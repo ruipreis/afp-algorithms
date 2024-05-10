@@ -1,0 +1,107 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0301/p291.html#afp20210301p291-f1",
+    "title": "Initiating Hormonal Contraception | AAFP",
+    "author": "RUTH LESNEWSKI, MD",
+    "doi": "Am Fam Physician.2021;103(5):291-300",
+    "abstract": "Most patients can safely begin using hormonal contraception at any point in their menstrual cycle. An evidence-based, flexible, patient-centered approach to initiating contraception promotes health and enhances patients' reproductive autonomy. A recent Papanicolaou test is not necessary before prescribing hormonal contraception. Most patients can begin using progestin-only contraceptives immediately after childbirth. Patients can begin any appropriate contraceptive method immediately after an abortion or early pregnancy loss, except for an intrauterine device following septic abortion. Delaying contraception to wait for the next menses or for an appointment creates unnecessary barriers for patients. Clinicians can facilitate the use of hormonal contraception by providing anticipatory guidance about common side effects (e.g., spotting, other menstrual cycle changes), giving comprehensive information about available contraceptive choices, honoring patients' preferences, and eliminating office-related barriers. Prescribing or dispensing a one-year supply of contraceptives lowers costs and improves adherence. Counseling via telemedicine or a patient portal eliminates unnecessary office visits.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Office Visits Between Menses",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Postpartum",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Lactation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Postabortion",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Clinical Evaluation Before and After Initiating Contraception",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Route of Administration",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Addressing Office Barriers",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Although the rate of unintended pregnancy in the United States has decreased to less than 50% in recent years, it remains much higher than in other industrialized countries, with widening disparities by race, income, and education level.1Younger people, in particular, may face multiple barriers to timely access to primary care and hormonal contraception.2,3To address this problem, family physicians should make hormonal contraception easily and safely available."
+        },
+        {
+            "parent": 0,
+            "text": "When a patient requests contraception during an office visit that occurs between menses, some clinicians delay starting hormonal contraceptives until the next menses to ensure that the patient is not pregnant. This practice began before studies showed that hormonal contraceptives do not cause birth defects, pregnancy loss, or fetal growth problems.4Concern that hormones may mask the symptoms of early pregnancy, thus delaying diagnosis, can be addressed through appropriate use of urine pregnancy tests, emergency contraception, and a barrier method during the first week of hormonal contraceptive use.4The Centers for Disease Control and Prevention (CDC) has published medical eligibility criteria and selected practice recommendations for contraceptive use to address these issues in detail; a smart-phone app and other tools are available to help clinicians manage hormonal contraception safely and efficiently.4,5"
+        },
+        {
+            "parent": 0,
+            "text": "The quick start method allows most patients to begin using contraceptive pills, patches, injections, implants, vaginal rings, or an intrauterine device (IUD) at any point during the menstrual cycle6,7(Figure 1,Figure 2, andFigure 38). This strategy reduces delays and cost. Patients who begin using a new method more than five to seven days after the first day of their last menses should use a backup method during the first week.7Patients who have had unprotected sex within five days of their office visit can take hormonal emergency contraception that day (levonorgestrel [Plan B], a progestin; or ulipristal [Ella], a progesterone agonist/antagonist).7,9Ulipristal is more effective than levonorgestrel in patients who are overweight or who had unprotected sex within the past three to five days. Because progestins may decrease the effectiveness of ulipristal, patients should wait five days after taking ulipristal before starting hormonal contraception.9Patients can begin hormonal contraception immediately after taking levonorgestrel."
+        },
+        {
+            "parent": 0,
+            "text": "The copper IUD can be used for emergency contraception and for long-term contraception; it is nearly 100% effective when inserted up to five days after unprotected sex.9A randomized trial showed that the levonorgestrel IUD was noninferior to the copper IUD for emergency contraception.25[updated] Patients with a low risk of pregnancy who choose a hormonal contraceptive that is difficult to discontinue (e.g., injections, implants, progestin-releasing IUD) may choose to wait until a scheduled office visit to begin the chosen method. Because an IUD can complicate pregnancy, clinicians must carefully counsel patients who choose to have an IUD inserted the same day despite a low risk of undiagnosed pregnancy, making sure they understand the risk and the need to remove the IUD if pregnancy occurs."
+        },
+        {
+            "parent": 0,
+            "text": "Patients may have spotting and other menstrual cycle changes for the first few months after starting hormonal contraception. Those who start oral contraceptives between menses have no more menstrual pattern disruption than those who wait until their next menses.10Counseling about side effects, including anticipatory guidance about spotting, may improve adherence to hormonal contraception.11"
+        },
+        {
+            "parent": 1,
+            "text": "Estrogen-containing hormonal contraceptives are often withheld after childbirth because of concerns about postpartum hypercoagulability. The CDC concluded that the risks of estrogen-containing contraceptives may outweigh the benefits during the first three to six weeks postpartum.4After six weeks, the risk of thrombosis returns to normal, and postpartum patients who are not breastfeeding can take estrogen-containing oral contraceptives without additional restrictions.4Because low-dose progestins are not associated with thrombosis, progestin-only contraceptives may be initiated immediately postpartum.4A copper or progestin-releasing IUD can be inserted immediately after childbirth, preferably within 10 minutes of placental delivery.12Detailed guidance on the timing of postpartum IUD insertion is available inTable 113and in the CDC's medical eligibility criteria and selected practice recommendations for contraceptive use.4,5"
+        },
+        {
+            "parent": 2,
+            "text": "Lactation is up to 98% effective for preventing pregnancy in the first six months postpartum if the patient remains amenorrheic and the infant receives at least 90% of calories from breast milk.7Receiving structured education in lactational amenorrhea does not improve the effectiveness of lactation as a contraceptive method.14"
+        },
+        {
+            "parent": 2,
+            "text": "The choice of hormonal contraceptive for patients who are lactating depends on the length of time since childbirth and the type of hormone. Although estrogen-containing contraceptives have not been proven to have consistent effects on breastfeeding continuation or infant health, studies may not be adequate to ensure safety.4,15Studies of progestin-only contraceptives show no effects on breast milk volume or composition. The CDC concluded that the benefits of progestin-only methods for breastfeeding patients may outweigh risks during the first six weeks after childbirth, and that progestin-only contraceptives can be used without restriction after six weeks postpartum.4"
+        },
+        {
+            "parent": 3,
+            "text": "Patients may safely begin hormonal contraception immediately after early pregnancy loss, medical abortion, or aspiration abortion. The only exception is IUD insertion immediately after septic abortion, which is contraindicated.4Hormonal contraceptives do not adversely affect bleeding after medical abortion.16Copper and progestin-releasing IUDs can be safely inserted immediately after aspiration abortion17or at the follow-up visit after medical abortion.7Implanted contraceptives can be inserted on the day of an aspiration abortion or on the day the patient takes mifepristone (Mifeprex) for medical abortion.7Immediate postabortion initiation of contraception eliminates the need for patients to use backup contraception after starting the new method."
+        },
+        {
+            "parent": 4,
+            "text": "To rule out contraindications to hormonal contraception, clinicians should obtain a thorough medical history, including cardiovascular risk factors, concurrent medications, allergies, smoking status, hypertension, and migraine(Table 1).13Body mass index affects the choice of contraceptive, as does blood pressure; estrogen-containing methods are contraindicated in patients at high risk of thromboembolic disease (e.g., those with blood pressure above 160/100 mm Hg or a history of deep venous thrombosis, those 35 years and older who smoke at least 15 cigarettes per day)."
+        },
+        {
+            "parent": 4,
+            "text": "The physical examination contributes little to the contraception visit.5Although Papanicolaou testing is important for cervical cancer screening, it has minimal effect on the decision to initiate contraception.4,18Patients whose medical history and vital signs have been evaluated recently and who choose a method other than an IUD or implant can safely begin any contraceptive method without an office visit. Counseling can occur remotely via telemedicine or a patient portal. Requiring an office visit creates unnecessary expense and delay.2,19Clinicians should advise patients to contact them with questions or concerns about the new method, and they should routinely assess the patient's satisfaction with the method at future visits. Except for blood pressure measurement in patients taking estrogen-containing contraceptives, no other specific follow-up is needed.5"
+        },
+        {
+            "parent": 5,
+            "text": "Hormonal contraceptives can be taken orally, transdermally, vaginally, subdermally, by injection, and through an IUD. These products' individual characteristics may enhance or diminish their safety and acceptability in various clinical situations. Estrogen-containing contraceptives have similar contraindications, regardless of their route of administration. The estrogen/progestin patch and vaginal ring avoid the first-pass effect on the liver. However, the precautions relating to liver disease and liver-mediated drug interactions apply to these newer products as well as to older oral products.4In general, progestin-only contraceptives have fewer contraindications than estrogen-containing products, although the route of administration affects clinical use. Because depot-progestin injections produce measurable blood levels of progestin for months after discontinuation, injected progestin is less appropriate than progestin-only pills for patients with unstable clinical conditions (e.g., uncontrolled hypertension) and for those who desire pregnancy in the next year. In contrast, progestin-releasing implants and IUDs stop releasing hormone immediately after removal.4"
+        },
+        {
+            "parent": 6,
+            "text": "Limited access to primary care presents a barrier to obtaining hormonal contraception, especially for uninsured and non–English-speaking populations.2Even patients who have a primary care clinician may avoid office visits because of concern about cost: a 2019 survey found that 51% of respondents delayed seeking medical care because of financial concerns.20Clinicians can make contraception less expensive and more accessible by prescribing generics, avoiding unnecessary office visits, and offering contraception via telemedicine or a patient portal.Prescribing or dispensing a one-year supply of hormonal contraceptives lowers costs and improves adherence.21Clinicians can facilitate the use of hormonal contraception by providing anticipatory guidance about common side effects, offering a full range of appropriate choices, and honoring patients' preferences.11,22Confidentiality concerns may be a barrier for young patients, even those older than 18 years. An office visit for contraception may generate an explanation-of-benefits document for the patient's parent, thereby compromising privacy.3,23Routinely asking about contraceptive needs demonstrates clinicians' willingness to explore this important topic with patients at any type of office visit. An evidence-based, flexible, patient-centered approach to initiating contraception may help to improve health and enhance patients' reproductive autonomy."
+        },
+        {
+            "parent": 6,
+            "text": "This article updates previous articles on this topic byLesnewski and Prine.24"
+        },
+        {
+            "parent": 6,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms contraception, unintended pregnancy, adherence, and counseling. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. The Cochrane database, Essential Evidence Plus, and DynaMed were also searched. Search dates: December 19, 2019, to May 22, 2020."
+        }
+    ],
+    "locked": false
+}

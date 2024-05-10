@@ -1,0 +1,151 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0415/p528.html#afp20150415p528-f1",
+    "title": "Diagnosis of Acute Stroke | AAFP",
+    "author": "KENNETH S. YEW, MD, MPH, AND ERIC M. CHENG, MD, MS",
+    "doi": "Am Fam Physician.2015;91(8):528-536",
+    "abstract": "Stroke can be categorized as ischemic stroke, intracerebral hemorrhage, or subarachnoid hemorrhage. Awakening with or experiencing the abrupt onset of focal neurologic deficits is the hallmark of the diagnosis of ischemic stroke. The most common presenting symptoms of ischemic stroke are speech disturbance and weakness on one-half of the body. The most common conditions that can mimic a stroke are seizure, conversion disorder, migraine headache, and hypoglycemia. Taking a patient history and performing diagnostic studies will usually exclude stroke mimics. Neuroimaging is required to differentiate ischemic stroke from intracerebral hemorrhage, as well as to diagnose entities other than stroke. The choice of neuroimaging depends on availability of the method, the patient's eligibility for thrombolysis, and presence of contraindications. Subarachnoid hemorrhage presents most commonly with sudden onset of a severe headache, and noncontrast head computed tomography is the imaging test of choice. Cerebrospinal fluid inspection for bilirubin is recommended if subarachnoid hemorrhage is suspected in a patient with a normal computed tomography result. Public education about common presenting stroke symptoms may improve patient knowledge and clinical outcomes.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Classifying Stroke",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "STROKE MIMICS AND DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Diagnostic Tests and Imaging",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Training Patients to Recognize Stroke Symptoms",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The symptoms of acute stroke can be misleading and misinterpreted by clinicians and patients. Family physicians are on the front line to recognize and manage acute cerebrovascular diseases. Rapid, accurate examination of persons with stroke symptoms can reduce disability and help prevent recurrences."
+        },
+        {
+            "parent": 0,
+            "text": "Stroke can be classified by pathologic process and vascular distribution affected. Defining the overall pathologic process is critical for decisions on thrombolysis, antithrombotic therapy, and prognosis. Hemorrhagic stroke has a higher mortality rate than ischemic stroke.1In the United States, 87% of all strokes are ischemic secondary to large-artery atherosclerosis, cardioembolism, small-vessel occlusion, or other and undetermined causes.1,2The remaining 13% of strokes are hemorrhagic in intracerebral or subarachnoid locations.1"
+        },
+        {
+            "parent": 1,
+            "text": "Although there are many risk factors for stroke, such as age, family history, diabetes mellitus, chronic kidney disease, and sleep apnea, the major modifiable risk factors include hypertension, atrial fibrillation, smoking, symptomatic carotid artery disease, and sickle cell disease.1Physical inactivity; regular consumption of sweetened beverages; and low daily consumption of fish, fruits, or vegetables are also associated with an increased risk of stroke.1In women, current use of oral contraceptives, migraine with aura, the immediate postpartum period, and preeclampsia confer small absolute increases in risk of stroke.1"
+        },
+        {
+            "parent": 3,
+            "text": "In a community-based study, primary care physicians practicing in an emergency setting had a 92% sensitivity for diagnosing stroke and transient ischemic attack based on history and examination.3The overall reliability of a clinician's diagnosis of stroke is moderate to good, with lower reliability in less experienced or less confident examiners.4The most common historical feature of an ischemic stroke is awakening with or acute onset of symptoms, whereas the most common physical findings are unilateral weakness and speech disturbance.5The most common and reliable symptoms and signs of ischemic stroke are listed inTable 1.4–7The most common symptoms and signs of posterior circulation stroke are listed inTable 2.8"
+        },
+        {
+            "parent": 3,
+            "text": "Figure 1provides an algorithm for stroke diagnosis. A critical piece of information is the time of onset. This value does not assist in diagnosing stroke, but it determines whether a patient meets the 3- or 4.5-hour eligibility windows for thrombolysis among persons with a diagnosis of ischemic stroke.9"
+        },
+        {
+            "parent": 3,
+            "text": "Physicians managing acute stroke should become familiar with the National Institutes of Health Stroke Scale (NIHSS). The NIHSS is a 15-item scale that can be performed in about five minutes. Although it can help distinguish stroke from stroke mimics,10its chief use is to reliably evaluate stroke severity to determine whether tissue plasminogen activator administration is appropriate. It is also used to predict prognosis. Reliable use of the NIHSS requires training,11which can produce excellent inter-rater reliability of scoring across physicians and nurses.12Free online training is available from the National Stroke Association athttp://www.stroke.org/site/PageServer?pagename=nihss.13"
+        },
+        {
+            "parent": 3,
+            "text": "Studies of missed stroke diagnosis have found weakness and fatigue, altered mental status, syncope, altered gait and dizziness, and hypertensive urgency to be the most common presenting symptoms in patients admitted for a diagnosis other than stroke who were later confirmed to have had a stroke.14,15However, such nonspecific symptoms are not usual presentations of stroke. The history and physical examination for common stroke symptoms should uncover the diagnosis of stroke even in uncommon presentations."
+        },
+        {
+            "parent": 3,
+            "text": "Posterior circulation strokes may be challenging to diagnose. One potential area of confusion is when patients present with dizziness, which is a common concern in general but an uncommon presentation for stroke. In a population-based study of adults older than 44 years presenting to the emergency department or directly admitted to the hospital with a principal concern of dizziness, only 0.7% of patients with isolated dizziness symptoms had an ultimate diagnosis of stroke or transient ischemic attack, although their stroke was missed by the initial examiner 44% of the time.16"
+        },
+        {
+            "parent": 3,
+            "text": "However, in patients presenting with acute vestibular syndrome17defined by one hour or more of acute, persistent, continuous vertigo or dizziness with spontaneous or gaze-evoked nystagmus, plus nausea or vomiting, head motion intolerance, and new gait unsteadiness, one-fourth or more have a posterior circulation stroke.18,19As many as two-thirds of patients with acute vestibular syndrome caused by stroke have no obvious neurologic findings.19A battery of three bedside tests of eye movement is more sensitive than early magnetic resonance imaging (MRI) for diagnosing posterior stroke in this setting and is highly specific.18,20Table 3describes the conduct and operating characteristics of each test and the battery.18–20A video demonstrating these tests is available athttp://content.lib.utah.edu/cdm/singleitem/collection/ehsl-dent/id/6/rec/5."
+        },
+        {
+            "parent": 3,
+            "text": "Reliably distinguishing between hemorrhagic and ischemic stroke can be done only through neuroimaging. Patients with hemorrhagic stroke are more likely to have headache, vomiting, diastolic blood pressure greater than 110 mm Hg, meningismus, or coma, but none of these findings alone or in combination is reliable enough to ascertain a diagnosis.21"
+        },
+        {
+            "parent": 3,
+            "text": "Subarachnoid hemorrhage (SAH) presents differently from intracerebral hemorrhage or ischemic stroke. About 80% of patients with aneurysmal SAH report a sudden onset of what they describe as the worst headache of their life.22A previous sentinel headache two to eight weeks before aneurysmal rupture is a critical historical finding present in up to 40% of patients with SAH.22Findings accompanying the headache can include vomiting, photophobia, seizures, meningismus, focal neurologic signs, and decreased level of consciousness.22,23Funduscopy should be performed because intraocular hemorrhages are present in one in seven patients with aneurysmal SAH.24Because the bleeding occurs outside the brain, persons with SAH may not have focal neurologic signs."
+        },
+        {
+            "parent": 4,
+            "text": "Clinicians should consider a broad differential diagnosis when evaluating suspected stroke (Table 47,9,10,16,19,25–34). Seizure, conversion or somatoform disorder, migraine headache, and hypoglycemia are the most common stroke mimics.10,25–30Checklists to ascertain eligibility for intravenous thrombolysis explicitly include detection of hypoglycemia, hyperglycemia, and recent seizures."
+        },
+        {
+            "parent": 4,
+            "text": "The rates of misdiagnosis of stroke in studies of consecutive patients not treated with thrombolysis vary from 25% to 31%.10,25,35Of patients receiving thrombolysis, 1.4% to 16.7% are found to have a stroke mimic.26–31Factors associated with greater risk of a stroke mimic are younger age, lower baseline NIHSS scores, history of cognitive impairment, and nonneurologic abnormal physical findings.10,26–31Patients with a stroke mimic are more likely to present with global aphasia without hemiparesis than patients demonstrated to have a stroke.26,31"
+        },
+        {
+            "parent": 5,
+            "text": "Table 5lists initial diagnostic studies recommended by current guidelines for patients with suspected stroke.9The purpose of these studies is to uncover stroke mimics, diagnose critical comorbidities such as myocardial ischemia, and detect contraindications to thrombolytic therapy. No combination of stroke biomarkers has been shown to give additional diagnostic certainty over that of clinical history and examination alone.36"
+        },
+        {
+            "parent": 5,
+            "text": "All patients with stroke symptoms should undergo urgent neuroimaging with noncontrast computed tomography (CT) or MRI.9,37The primary purpose of neuroimaging in a patient with suspected ischemic stroke is to rule out the presence of nonischemic central nervous system lesions and to distinguish between ischemic and hemorrhagic stroke.Figures 2and3show examples of intracerebral and subarachnoid hemorrhages on non-contrast CT.7Noncontrast CT is considered sufficiently sensitive for detecting mass lesions, such as a brain mass or abscess, as well as for detecting acute hemorrhage. However, less than two-thirds of strokes are detected by noncontrast CT at three hours postinfarction.38Noncontrast CT has even lower sensitivity for small or posterior fossa strokes.9"
+        },
+        {
+            "parent": 5,
+            "text": "Multimodal MRI sequences, particularly diffusion-weighted images, have better resolution than noncontrast CT, and therefore have a greater sensitivity for detecting acute ischemic stroke.37,38MRI sequences (particularly gradient recalled echo and diffusion-weighted sequences) are as sensitive as noncontrast CT for detecting intracerebral hemorrhagic stroke.9,37,38Figure 4shows the head noncontrast CT and diffusion-weighted MRI of a patient with a previous stroke and a new acute stroke."
+        },
+        {
+            "parent": 5,
+            "text": "MRI has better resolution than noncontrast CT, but noncontrast CT is faster, more available, less expensive, and can be performed in persons with implanted devices (e.g., pacemakers) and in persons with claustrophobia. If a patient is within the time window of intravenous thrombolytic therapy, guidelines recommend that noncontrast CT or MRI be performed to exclude intracerebral hemorrhage and evaluate for ischemic changes.9In patients younger than 55 years presenting with stroke-like symptoms, MRI yields a lower rate of misdiagnosis than noncontrast CT because of a lower prevalence of vascular risk factors and a higher prevalence of central nervous system stroke mimics in this age group.39,40Patients presenting with acute vestibular syndrome or suspected posterior infarction should undergo acute diffusion-weighted MRI.37Because MRI may miss up to 15% of posterior strokes in the first 48 hours,18a negative MRI result should be followed by a repeat MRI in three to seven days or bedside oculomotor testing to exclude a false-negative result."
+        },
+        {
+            "parent": 5,
+            "text": "Although acute neuroimaging is essential, it may be possible to efficiently obtain imaging of the carotid arteries to detect carotid stenosis, such as when MRI of the brain is combined with magnetic resonance angiography of the neck. Current guidelines do not address acute imaging of cervical vessels, but it is recommended as part of the subsequent evaluation of patients with confirmed stroke or transient ischemic attack,9which is beyond the scope of this article. Acute intracranial vascular imaging is recommended if intravascular therapy is being considered, as long as it does not delay intravenous thrombolysis.9"
+        },
+        {
+            "parent": 5,
+            "text": "Unlike ischemic stroke and intracerebral hemorrhage, diagnosing SAH requires a different diagnostic approach. The frequency of misdiagnosis of SAH is about 12%.22Noncontrast CT is the imaging test of choice for persons with suspected SAH.22Noncontrast CT has a sensitivity of nearly 100% for detecting subarachnoid blood in the first 72 hours.22The sensitivity of noncontrast CT to detect subarachnoid blood declines over time, whereas MRI remains highly sensitive to intracranial blood for up to 30 days, making it the preferred test for delayed presentations.22,23"
+        },
+        {
+            "parent": 5,
+            "text": "Persons with suspected SAH and a normal noncontrast CT result should undergo a lumbar puncture to detect bilirubin, a breakdown product of red blood cells in the cerebrospinal fluid.23Because red blood cell breakdown can take up to 12 hours, the lumbar puncture should be delayed until 12 hours after the initial onset of symptoms to accurately distinguish SAH from a traumatic tap.23,41The yellow color caused by bilirubin, which is called xanthochromia, can be detected by visual inspection or spectrophotometry.23,41Spectrophotometry is more sensitive than visual inspection, but is not widely available.23,41Bilirubin can be detected up to two weeks after the initial onset of symptoms. If SAH is detected, persons should immediately undergo CT, MRI, or catheter angiography to look for an aneurysm."
+        },
+        {
+            "parent": 6,
+            "text": "Patients and family members should be educated about stroke symptoms and the need for urgent evaluation.9Consistent data show considerable room for improvement in stroke knowledge in the general population.42However, there are limited data to support the effectiveness of public media campaigns to improve stroke knowledge and to link improved knowledge of stroke symptoms to behavior or clinical outcomes.43,44A recent study showed that knowledge of two warning signs of stroke was associated with activation of emergency medical services, which suggests a goal for public education campaigns.45The American Stroke Association is promoting the F.A.S.T. (face drooping, arm weakness, speech difficulty, time to call 9–1–1) campaign to improve patient knowledge about stroke and to expedite activation of 9–1–1 services.46"
+        },
+        {
+            "parent": 6,
+            "text": "Data Sources: A PubMed search using a filter for diagnostic studies detailed in the Cochrane Database of Systematic Reviews (Beynon R, Leeflang MM, McDonald S, et al. Search strategies to identify diagnostic accuracy studies in Medline and Embase.Cochrane Database Syst Rev. 2013;(9):MR000022) was performed using the MeSH stroke terms stroke; stroke, lacunar; infarction, posterior cerebral artery; brain stem infarctions; infarction, middle cerebral artery; infarction, anterior cerebral artery; anterior spinal artery stroke crossed with sensitivity and specificity#[MESH] OR diagnos* OR predict* OR accura* with limits of human, English, adult and publication date after June 1, 2008 (the end date of the literature search for the previousAFParticle on this topic). Also searched were Essential Evidence Plus, the National Guideline Clearinghouse, the Institute for Clinical Systems Improvement “Diagnosis and Initial Treatment of Ischemic Stroke” guideline, 10th ed., and article bibliographies. Search dates: July 10, 2014, and February 13, 2015."
+        },
+        {
+            "parent": 6,
+            "text": "note: This review updates aprevious articleon this topic by the authors.7"
+        },
+        {
+            "parent": 6,
+            "text": "The authors thank Dr. James Smirniotopoulos for assistance with MedPix, and Mrs. Robin Yew for editorial assistance."
+        },
+        {
+            "parent": 6,
+            "text": "The views expressed in this article are those of the authors and do not necessarily reflect the official position of the Department of Defense or the U.S. government."
+        },
+        {
+            "parent": 6,
+            "text": "Dr. Cheng received funding from Cooperative Agreement Award U54 NS08164 from the National Institute of Neurological Disorders and Stroke."
+        }
+    ],
+    "locked": false
+}

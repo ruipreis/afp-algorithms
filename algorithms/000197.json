@@ -1,0 +1,174 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/0501/p575.html#afp20180501p575-f1",
+    "title": "Croup: Diagnosis and Management | AAFP",
+    "author": "DUSTIN K. SMITH, DO, ANDREW J. MCDERMOTT, MD, AND JOHN F. SULLIVAN, DO",
+    "doi": "Am Fam Physician.2018;97(9):575-580",
+    "abstract": "Croup is a common respiratory illness affecting 3% of children six months to three years of age. It accounts for 7% of hospitalizations annually for fever and/or acute respiratory illness in children younger than five years. Croup is a manifestation of upper airway obstruction resulting from swelling of the larynx, trachea, and bronchi, leading to inspiratory stridor and a barking cough. Many patients experience low-grade fevers, but fever is not necessary for diagnosis. Less commonly, stridor can be associated with acute epiglottitis, bacterial tracheitis, and foreign body airway obstruction. Laboratory studies are seldom needed for diagnosis of croup. Viral cultures and rapid antigen testing have minimal impact on management and are not routinely recommended. Radiography and laryngoscopy should be reserved for patients in whom alternative diagnoses are suspected. Randomized controlled trials have demonstrated that a single dose of oral, intramuscular, or intravenous dexamethasone improves symptoms and reduces return visits and length of hospitalization in children with croup of any severity. In patients with moderate to severe croup, the addition of nebulized epinephrine improves symptoms and reduces length of hospitalization.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Presentation and Clinical Course",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "CORTICOSTEROIDS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "EPINEPHRINE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Croup is a common respiratory illness of the larynx, trachea, and bronchi that leads to inspiratory stridor and a barking cough. Laryngotracheitis, laryngotracheobronchitis, and laryngotracheobronchopneumonitis are included in the croup spectrum and affect 3% of children six months to three years of age.1,2Each year in the United States, croup accounts for 7% of hospitalizations for fever and/or acute respiratory illness in children younger than five years.3,4"
+        },
+        {
+            "parent": -1,
+            "text": "A community-based randomized trial of children with mild to moderate croup found no difference in symptom scores between a single dose of dexamethasone and three daily doses of prednisolone."
+        },
+        {
+            "parent": -1,
+            "text": "In patients with more than two croup episodes per year, clinically significant bronchoscopy findings are associated with risk factors such as prior intubation, age younger than three years, and prematurity. Although gastroesophageal reflux disease and asthma are highly prevalent in patients with recurrent croup, neither is associated with significant bronchoscopy findings."
+        },
+        {
+            "parent": 0,
+            "text": "Croup is typically self-limited in immuno-competent children, occurring predominantly during the fall and winter. It is more common in boys than in girls (1.5:1 ratio). Although the incidence of croup is highest between six months and three years of age, it can occur in children up to six years of age, or earlier than six months in atypical cases.5–7Approximately 85% of cases are defined as mild, and less than 1% meet criteria for severe croup, which can be distinguished by signs of hypoxia.8,9Less than 5% of all children with croup are hospitalized, and of those only 1% to 3% require intubation.10"
+        },
+        {
+            "parent": 0,
+            "text": "In patients with recurrent croup (more than two episodes per year), clinically significant bronchoscopy findings are associated with risk factors such as prior intubation, prematurity, and age younger than three years. Although gastroesophageal reflux disease and asthma are highly prevalent in patients with recurrent croup, neither is associated with significant bronchoscopy findings.11"
+        },
+        {
+            "parent": 0,
+            "text": "Outcomes are favorable; croup has a mortality rate of less than 0.5%, even for intubated patients.10"
+        },
+        {
+            "parent": 1,
+            "text": "Viruses are detected in up to 80% of patients who have croup with identifiable pathogens.12Parainfluenza virus (types 1 to 3) accounts for 75% of all cases, and human parainfluenza virus 1 is the most common type.9,13Other viral etiologies include influenza A and B, adenovirus, respiratory syncytial virus, rhinovirus, and enterovirus. Viral infection of the subglottic region and laryngeal mucosa causes inflammation and edema, which significantly decrease air movement and lead to respiratory distress and stridor.9,13Bacterial croup is less common and may be caused byMycoplasma pneumoniaeandCorynebacterium diphtheriae.8,12The type of infectious agent does not affect outcomes or initial management."
+        },
+        {
+            "parent": 2,
+            "text": "Viral croup often presents similarly to an upper respiratory infection, with 12 to 72 hours of low-grade fever and coryza. Narrowing of the larynx leads to stridor, increased respiratory rate, respiratory retractions, and a barking cough. Symptoms may be exacerbated by emotional distress, are worse at night, and peak between 24 and 48 hours. Croup typically resolves spontaneously within 48 hours to one week; however, the abrupt onset and harsh cough can be concerning.5,6"
+        },
+        {
+            "parent": 4,
+            "text": "Croup is primarily a clinical diagnosis, with typical findings of abrupt onset of a barking cough, inspiratory stridor, and hoarseness (https://www.youtube.com/watch?v=RXJxtAHtkcs). Many patients will also have dyspnea and fever,5,6but the absence of fever should not reduce suspicion for croup."
+        },
+        {
+            "parent": 4,
+            "text": "Respiratory rate is often increased in patients with croup. Clinicians should use age-appropriate rates; for patients six months to three years of age, a normal rate is 20 to 30 breaths per minute. Additionally, patients can present with tachycardia. If pulse oximetry is performed, low oxygen levels may be noted in patients with more severe cases.12–15"
+        },
+        {
+            "parent": 4,
+            "text": "Visual inspection can reveal clues to the severity of illness. Retractions and nasal flaring may indicate more severe cases. Although cyanosis is absent in most patients with croup, its presence suggests severe disease.12,13,16"
+        },
+        {
+            "parent": 4,
+            "text": "The most common auscultatory finding is overt inspiratory stridor in the neck. If wheezing is present, it is typically mild; substantial wheezing should prompt evaluation for alternate diagnoses. Rhonchi may be present but are not typical. Rales are generally not present in croup, so this finding should prompt further evaluation.12,13,16"
+        },
+        {
+            "parent": 5,
+            "text": "More than 99% of children with abrupt stridor have croup, but the differential diagnosis is broad6(Table 12,5,6,14,16–18). Differentiating croup from other acute illnesses can be challenging. Specifically, distinguishing it from epiglottitis is important because the treatment and prognosis of these conditions are substantially different.7Although both conditions commonly present as cough, fever, and dyspnea, epiglottitis is 10 times more likely to present as sore throat.7The incidence of epiglottitis has decreased 10-fold with widespreadHaemophilus influenzaetype B vaccination, but it is still important to distinguish it from croup because of potentially rapid deterioration in patients with epiglottitis.19In patients admitted to the intensive care unit, cough is highly sensitive and specific for distinguishing croup from epiglottitis, whereas drooling is highly sensitive and specific for distinguishing epiglottitis.20"
+        },
+        {
+            "parent": 6,
+            "text": "Laboratory studies are seldom needed to diagnose croup. Viral cultures and rapid antigen testing should be reserved for patients in whom initial treatment is ineffective.6A complete blood count may help distinguish croup from bacterial etiologies of stridor (e.g., bacterial tracheitis, epiglottitis, peritonsillar abscess, retropharyngeal abscess), but it is nonspecific. Lymphocytosis may suggest a viral etiology.5,6A carboxyhemoglobin level may be helpful in identifying cases of thermal injury/smoke inhalation, but the history alone is typically sufficient for this diagnosis."
+        },
+        {
+            "parent": 6,
+            "text": "Although radiographic imaging is not routinely indicated, croup is often associated with the steeple sign, which indicates glottic and subglottic narrowing (seehttp://www.aafp.org/afp/2004/0201/p535.html#afp20040201p535-f1). However, this finding is neither specific nor sensitive for croup and may be present in patients with epiglottitis, bacterial tracheitis, neoplasm, or thermal injury.18Computed tomography of the neck can be considered for patients with suspected abscess, tumor, or foreign body aspiration.5"
+        },
+        {
+            "parent": 6,
+            "text": "Laryngoscopy should be reserved for atypical presentations or when alternate diagnoses are suspected.16If epiglottitis is suspected, laryngoscopy should be performed with caution because of concern for rapid airway obstruction.6"
+        },
+        {
+            "parent": 7,
+            "text": "Management of croup is based on the severity of illness. Although a scoring system is not necessary, the most widely studied and commonly used is the Westley Croup Score(Table 2).15"
+        },
+        {
+            "parent": 7,
+            "text": "Figure 1provides an outpatient management algorithm for children with croup.6,14,21–26Minimizing agitation in a symptomatic child can help improve symptoms. Placing the child in a comfortable position may help improve the evaluation and treatment process."
+        },
+        {
+            "parent": 7,
+            "text": "Oxygen should be administered to children with hypoxemia or severe respiratory distress. Although humidified air inhalation has been historically used for management of croup, a meta-analysis of three studies (N = 125) found no statistically significant effect on croup scores or hospital admission in patients with moderate croup.27Treatment with specifically designed humidity droplets that deposit in the larynx is no better than controlled delivery of 40% humidity or humidity via blow-by administration.28"
+        },
+        {
+            "parent": 7,
+            "text": "Heliox is a helium and oxygen mixture used for respiratory conditions that theoretically improves airflow resistance by decreasing gas density (helium is a low-density gas). Data are limited on the benefit of heliox in the treatment of croup, and based on a Cochrane review of three conflicting trials, it is not recommended.29"
+        },
+        {
+            "parent": 8,
+            "text": "Corticosteroids should be used in patients with croup of any severity. Treatment with dexamethasone results in faster resolution of symptoms and decreased return to medical care.21Corticosteroids are thought to work by decreasing laryngeal mucosal edema through their anti-inflammatory effects. A Cochrane review showed improved symptom scores at six and 12 hours after treatment with a corticosteroid (dexamethasone, budesonide [Rhinocort], or methylprednisolone).22Patients treated with corticosteroids have a lower rate of return visits, as well as decreased length of stay in the emergency department or hospital. There is no statistically significant difference between corticosteroids and epinephrine, although patients treated with corticosteroids require less epinephrine.22Another review showed that corticosteroids are safe to use in children with acute respiratory conditions.23"
+        },
+        {
+            "parent": 8,
+            "text": "Dexamethasone is the preferred corticosteroid because it is given as a single dose and can be given orally, intramuscularly, or intravenously. Although the optimal dose is unclear, 0.6 mg per kg is the most commonly used.13,24Dexamethasone is superior to budesonide for improving symptoms scores, but there is no significant difference in return visits or readmissions. Compared with prednisolone, dexamethasone use in the emergency department or hospital may decrease rates of return visits or readmissions.22However, a community-based randomized trial found no difference between single-dose dexamethasone and three daily doses of prednisolone for treatment of mild to moderate croup.24"
+        },
+        {
+            "parent": 9,
+            "text": "Epinephrine is thought to improve symptoms in patients with croup through arteriole vasoconstriction in the upper airway mucosa, which eventually leads to decreased edema. Epinephrine is typically used in conjunction with corticosteroids because it has a quick onset of action but a short half-life, whereas corticosteroids have a slower onset of action but a longer half-life. Epinephrine decreases symptom scores in children with moderate or severe croup and should be given at the recommended dose of 0.05 mL per kg of racemic epinephrine 2.25% (maximum dose = 0.5 mL) or 0.5 mL per kg of L-epinephrine 1:1,000 via nebulizer (maximum dose = 5 mL).25,26"
+        },
+        {
+            "parent": 9,
+            "text": "A Cochrane review showed that nebulized epinephrine reduces symptom scores at 30 minutes, but not at two and six hours; however, it is associated with reduced length of hospitalization.25There was no initial difference between nebulized racemic epinephrine and L-epinephrine, although L-epinephrine was more effective at two hours because of its longer effects. The effects of epinephrine wane after one to two hours, so patients should be monitored for at least two hours after administration before they are discharged.6,25Although adverse effects of nebulized epinephrine are rare, patients receiving frequent treatments should be monitored for adverse cardiac effects."
+        },
+        {
+            "parent": 9,
+            "text": "This article updates previous articles on this topic byZoorob, et al.,14and byKnutson and Aring.17"
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources:A PubMed search was completed using the key terms croup and pediatric respiratory infection. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. We also searched the Cochrane database, Essential Evidence Plus, and the National Guideline Clearinghouse. In addition, references in these resources were searched. Search dates: November 7, 2016; July 19, 2017; and December 27, 2017."
+        },
+        {
+            "parent": 9,
+            "text": "The views expressed in this article are those of the authors and do not necessarily reflect the official policy or position of the Department of the Navy, Department of Defense, or the U.S. government."
+        },
+        {
+            "parent": 9,
+            "text": "We are military service members. This work was prepared as part of our official duties. Title 17 U.S.C. 105 provides that “Copyright protection under this title is not available for any work of the United States Government.” Title 17 U.S.C. 101 defines United States Government work as a work prepared by a military service member or employee of the United States Government as part of that person's official duties."
+        }
+    ],
+    "locked": false
+}

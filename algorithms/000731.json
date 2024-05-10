@@ -1,0 +1,263 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/1201/p2157.html#afp20041201p2157-f1",
+    "title": "Outpatient Treatment of Systolic Heart Failure | AAFP",
+    "author": "JOHN R. MCCONAGHY, M.D., AND STEVEN R. SMITH, M.S., R.PH., B.C.P.S.",
+    "doi": "Am Fam Physician.2004;70(11):2157-2164",
+    "abstract": "Optimal outpatient treatment of systolic heart failure has three goals that should be pursued simultaneously: (1) control of risk factors for the development and progression of heart failure, (2) treatment of heart failure, and (3) education of patients. Control of risk factors includes treating hypertension, diabetes, and coronary artery disease, and eliminating the use of alcohol and tobacco. All patients with heart failure should be taking an angiotensin-converting enzyme (ACE) inhibitor or angiotensin-receptor blocker. In the absence of contraindications, an ACE inhibitor is preferred. In most patients, physicians should consider adding a beta blocker to ACE-inhibitor therapy. In patients with severe heart failure, spironolactone is a useful addition to baseline drug therapy, as is carvedilol (substitute carvedilol if patient is already taking a beta blocker). Patients with stable heart failure should be encouraged to begin and maintain a regular aerobic exercise program. Digoxin therapy may reduce the likelihood of hospitalization but does not reduce mortality. It must be monitored closely, with a target dosage level of 0.5 to 1.1 ng per mL. Symptoms may be controlled with the use of diuretics and restricted dietary sodium. Finally, patient education, with the patient’s active participation in the care, is a key strategy in the management of heart failure. Periodic follow-up between scheduled office visits, which is essential in the long-term management of heart failure, may include telephone calls from the office nurse, maintenance of a daily symptom and weight diary, and participation in a disease-management program.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Data Sources",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pharmacologic Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "ACE INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ANGIOTENSIN-RECEPTOR BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SPIRONOLACTONE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "HYDRALAZINE PLUS ISOSORBIDE DINITRATE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "DIGOXIN",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "DIURETICS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ANTIPLATELET THERAPY AND ANTICOAGULATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Nonpharmacologic Management",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "DIETARY SODIUM RESTRICTION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "EXERCISE",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "MULTIDISCIPLINARY, DISEASE-MANAGEMENT APPROACH",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Treatments that Have No Benefit or Are Harmful",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "CCBS",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "POSITIVE INOTROPIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "Prognosis",
+            "level": 2
+        },
+        {
+            "id": 18,
+            "name": "Suggested Management of Heart Failure",
+            "level": 2
+        },
+        {
+            "id": 19,
+            "name": "RISKS FOR THE DEVELOPMENT AND PROGRESSION OF HEART FAILURE",
+            "level": 3
+        },
+        {
+            "id": 20,
+            "name": "TREATMENT OF HEART FAILURE",
+            "level": 3
+        },
+        {
+            "id": 21,
+            "name": "CONTROL OF SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 22,
+            "name": "CLOSE FOLLOW-UP",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Heart failure affects nearly 5 million adults in the United States1and more than 10 percent of persons older than 65 years.2It is a diagnosis commonly encountered in family physicians’ offices and is responsible for nearly 4 million outpatient visits per year.3In 1991, the cost of treating heart failure consumed more than 5 percent of the national health care budget, with expenditures exceeding $38 billion.4"
+        },
+        {
+            "parent": -1,
+            "text": "Major advances in the outpatient treatment of heart failure have emerged in recent years and are summarized inTable 1.4–29Although rigorous intervention trials provide clear guidance for the treatment of heart failure associated with left ventricular systolic dysfunction, no data have shown a preferred treatment strategy for diastolic dysfunction. Nonetheless, four treatments have been advocated for diastolic dysfunction: diuretics to decrease fluid volume; calcium channel blockers (CCBs) to promote left ventricular relaxation; angiotensin-converting enzyme (ACE) inhibitors to promote the regression of left ventricular hypertrophy; and beta blockers or antiarrhythmic agents to control heart rate or maintain atrial contraction.30Dosages for recommended medications are listed inTable 2.31All of the rigorous intervention trials reviewed here enrolled patients with a left ventricular ejection fraction of less than 40 percent. Strategies for pharmacologic and nonpharmacologic management of systolic heart failure in the ambulatory setting, including the identification of ineffective treatments, are discussed in this article. The inpatient treatment of critically ill patients with heart failure is beyond the scope of this article."
+        },
+        {
+            "parent": 0,
+            "text": "Articles were identified through an English-language search of MEDLINE and Cochrane databases from 1995 to January 2004, using the terms “heart failure” and “congestive heart failure.” Randomized controlled trials (RCTs), systematic reviews, and evidence-based clinical practice guidelines were included in this review."
+        },
+        {
+            "parent": 2,
+            "text": "ACE inhibitors decrease the rate of mortality in all patients with systolic heart failure.5Twenty-four patients would need to be treated for more than 90 days to prevent one death. There also is a reduction in the combined end points of death and hospitalization caused by heart failure (number needed to treat [NNT], 11) over four to five years, regardless of severity, although this benefit seems to favor patients in the more severe New York Heart Association (NYHA) classes. Several studies6,7have demonstrated good tolerability to ACE-inhibitor therapy, with dropout rates of 15 to 30 percent, mainly because of dizziness, altered taste, hypotension, hyperkalemia, and cough."
+        },
+        {
+            "parent": 3,
+            "text": "Angiotensin-receptor blockers (ARBs) are comparable to ACE inhibitors in reducing all-cause mortality and heart failure–related hospitalizations in patients with NYHA classes II and III heart failure.8,9ARBs are more expensive than ACE inhibitors, but because they do not cause cough, they are a reasonable alternative in patients who are unable to tolerate ACE-inhibitor therapy."
+        },
+        {
+            "parent": 3,
+            "text": "One recent study10suggests that adding an ARB to ACE-inhibitor therapy provides further mortality benefit in selected patients. In this trial of patients with NYHA classes II to IV heart failure, candesartan added to existing ACE-inhibitor therapy reduced cardiovascular deaths (NNT, 28 over 3.5 years) and heart failure–related hospital admissions (NNT, 27 over 3.5 years). However, in a second study32of patients with myocardial infarction complicated by heart failure, no benefit was found from this combination over use of an ACE inhibitor alone."
+        },
+        {
+            "parent": 4,
+            "text": "Three beta blockers, bisoprolol (Zebeta), metoprolol (Toprol XL), and carvedilol (Coreg), reduce mortality in patients with heart failure who already are taking an ACE inhibitor and/or a diuretic.11–13Smaller studies of older beta blockers suggest that, in patients with NYHA classes I to II heart failure and ischemic heart disease, mortality is reduced with propranolol therapy,14and worsening heart failure is reduced, with a trend toward improved survival in patients taking atenolol who have an ejection fraction of less than 25 percent.15"
+        },
+        {
+            "parent": 4,
+            "text": "Pooled results of six RCTs that included more than 9,000 patients already taking ACE inhibitors showed a significant reduction in total mortality and sudden death (NNT, 24 and 35, respectively, over one to two years), regardless of severity as measured by the NYHA classification.16"
+        },
+        {
+            "parent": 4,
+            "text": "Although carvedilol has been shown to be beneficial in patients with mild to moderate heart failure, it also has been studied specifically in patients with chronic, severe heart failure.17When added to existing heart failure treatment, carvedilol, in an average dosage of 37 mg per day, decreased mortality (NNT, 18 for 10 months) and lowered the combination of mortality and hospitalization in patients with worsening heart failure (NNT, 13 for 10 months)."
+        },
+        {
+            "parent": 4,
+            "text": "The choice of beta blocker remains uncertain. In a recent trial,33patients with NYHA classes II to IV heart failure who were treated with carvedilol had greater reductions in mortality (NNT, 18 over five years) and cardiovascular mortality (NNT, 16 over five years) than those treated with metoprolol, but hypotension was more common among the carvedilol group (14 versus 11 percent). However, the target dosage of metoprolol used in this study was 100 mg per day rather than the more commonly studied dosage of 200 mg per day."
+        },
+        {
+            "parent": 5,
+            "text": "Adding spironolactone (Aldactone), a nonselective aldosterone inhibitor, to standard care can benefit patients with moderate to severe heart failure (NYHA classes III to IV).18Spironolactone in dosages ranging from 25 mg every other day to 50 mg a day reduces mortality (NNT, nine for two years) and hospitalization for worsening heart failure (NNT, three for two years). The most common serious adverse event among patients taking spironolactone is hyperkalemia, especially in the setting of chronic renal insufficiency, and 10 percent of men taking spironolactone experience breast pain and gynecomastia."
+        },
+        {
+            "parent": 5,
+            "text": "Eplerenone (Inspra) is a new, more selective aldosterone inhibitor that has been shown to reduce all-cause mortality following myocardial infarction with left ventricular dysfunction (NNT, 43 for 16 months). This medication has not been studied in patients with chronic heart failure who are not in the postmyocardial infarction period.19"
+        },
+        {
+            "parent": 6,
+            "text": "The combination of hydralazine (Apresoline) and isosorbide dinitrate (Sorbitrate) reduces mortality in patients with heart failure, but tolerability is an issue. In earlier trials,20men with symptoms of heart failure that were controlled with digoxin and diuretics and treated with hydralazine (average dosage, 270 mg per day) plus isosorbide dinitrate (average dosage, 136 mg per day) had a decrease in all-cause mortality of 28 percent (NNT, 19 for six years)."
+        },
+        {
+            "parent": 6,
+            "text": "A more recent trial21comparing this combination with enalapril in a dosage of 20 mg per day showed no difference in all-cause mortality between these two groups over three years. However, more than 30 percent of the patients stopped taking the hydralazine, the nitrate, or both, because of side effects."
+        },
+        {
+            "parent": 7,
+            "text": "Digoxin is effective in relieving symptoms of heart failure in the absence of dysrhythmias, but no studies have demonstrated that it reduces mortality. Patients taking digoxin are less likely to be hospitalized for worsening heart failure (NNT, 27 to 114 over three years),22and their heart failure symptoms may worsen if digoxin is withdrawn.23Compared with patients receiving placebo, patients taking digoxin are twice as likely to be hospitalized for suspected digoxin toxicity (number needed to harm [NNH], 52).24Further analysis of these data suggests that achieving a serum digoxin level of 0.5 to 0.8 ng per mL (0.6 to 1.0 nmol per L) may be most beneficial; levels from 1.1 to 1.5 ng per mL (1.4 to 1.9 nmol per L) were associated with increased heart failure–related mortality.25Similarly, post hoc analysis of these data by sex suggests that while there was no difference in all-cause mortality in men, women randomized to digoxin actually had a higher rate of all-cause mortality (NNH, 18 over three years).34"
+        },
+        {
+            "parent": 8,
+            "text": "Diuretics are a mainstay of the symptomatic treatment of heart failure. Short-term studies have shown that diuretics improve the symptoms of sodium and fluid retention, and increase exercise tolerance and cardiac function, regardless of NYHA classification.4,35No studies have examined the effects of diuretics on morbidity and mortality."
+        },
+        {
+            "parent": 9,
+            "text": "Although patients with heart failure have an increased risk of thromboembolic events (i.e., stroke, pulmonary embolism, and deep venous thrombosis) of 1.6 to 3.2 percent per year,36results of a systematic review37showed that antiplatelet therapy (primarily aspirin) is not useful in preventing thromboembolism in patients with heart failure in sinus rhythm and may even be harmful. This review also raised a concern that use of aspirin may mitigate the benefit of ACE inhibitors."
+        },
+        {
+            "parent": 9,
+            "text": "Published data do not support the routine use of anticoagulants (e.g., warfarin [Coumadin]) in patients with heart failure and sinus rhythm who do not have demonstrated left ventricular thrombus; the clinical decision should be based on individual risks and benefits.26Anticoagulation is recommended for use in patients with heart failure and concomitant atrial fibrillation or a previous thromboembolic event.4"
+        },
+        {
+            "parent": 11,
+            "text": "Restricting sodium intake to 2 g or less per day can aid in the control of fluid status and the symptoms of heart failure.4,27No studies have examined the effect of dietary sodium restriction, alone or in combination with pharmacologic treatments, on morbidity or mortality."
+        },
+        {
+            "parent": 12,
+            "text": "Moderate exercise (i.e., at 60 percent of maximum exercise capacity on a stationary bicycle for two to three hours per week) improves quality of life, decreases mortality (NNT, four for 14 months), and decreases hospital readmissions for heart failure (NNT, five for 14 months) in patients with stable chronic heart failure.28"
+        },
+        {
+            "parent": 13,
+            "text": "A multidisciplinary, disease-management approach to heart failure includes intensive patient education about the condition and its treatment, dietary assessment and instruction, medication analysis, and follow-up by telephone and home visits. Usually it also includes aggressive management of comorbidities and risk factors, including control of blood glucose levels in patients with diabetes, treatment of hypertension to a target measurement of 140/90 mm Hg (130/80 mm Hg in patients with diabetes and those with chronic renal insufficiency), and lipid management to a target low-density lipoprotein level of less than 100 mg per dL (1 g per L) in high-risk patients and less than 70 mg per dL for very high-risk patients.38This approach results in fewer hospitalizations (NNT, five for three months) and reduced cost of care.39It also decreases the frequency of unplanned and repeat hospitalizations, and increases functional status and quality of life.40"
+        },
+        {
+            "parent": 15,
+            "text": "While some of the newer, long-acting CCBs such as amlodipine (Norvasc) appear to be safe in the treatment of heart failure,41,42no trials have demonstrated that they lower mortality, decrease hospitalizations, or improve quality of life in patients with a failing heart. Older, short-acting CCBs can worsen heart failure.4,43"
+        },
+        {
+            "parent": 16,
+            "text": "Intermittent positive inotropic therapy should not be used in patients with heart failure in the outpatient setting. RCTs of oral milrinone (Primacor) demonstrate an increase in mortality, an increase in hospitalizations for worsening heart failure, and more serious side effects.44"
+        },
+        {
+            "parent": 17,
+            "text": "Despite the increased rate of survival in patients with coronary heart disease in recent decades, the overall prognosis related to heart failure has not improved.45Mortality data derived from several different studies, the largest of which was the Framingham Heart Study,46have shown that heart failure remains highly lethal, with a five-year survival rate of 25 percent in men and 38 percent in women with NYHA classes II to IV heart failure. Mortality data from the placebo arms of intervention trials show an average 18 percent one-year mortality."
+        },
+        {
+            "parent": 17,
+            "text": "A recent population-based study47of patients with a new diagnosis of heart failure showed survival rates of only 62 percent at 12 months and 57 percent at 18 months. Although predicting the likelihood of survival in patients with heart failure remains challenging, a recent validated clinical prediction rule provides some guidance. This rule offers a prediction of 30-day and one-year mortality for patients hospitalized with heart failure based on a scoring system that takes into account such factors as age, systolic blood pressure, and renal function.48"
+        },
+        {
+            "parent": 18,
+            "text": "Although the optimal sequence of pharmacologic interventions in the treatment of heart failure has not been examined in RCTs, recommendations can be made based on the existing evidence in heart failure management(Figure 1).29This approach can be divided into the following four categories that should be addressed simultaneously."
+        },
+        {
+            "parent": 19,
+            "text": "Although they are not specifically discussed in this article, the risks for the development and advancement of heart failure should be addressed.4This step includes identifying and treating hypertension, diabetes, thyroid disease, hyperlipidemia, atherosclerotic and coronary artery disease, and myocardial ischemia, and eliminating the use of alcohol and tobacco."
+        },
+        {
+            "parent": 20,
+            "text": "All patients with heart failure should receive one or more medications that affect the disease process, based on the preponderance of evidence that they decrease morbidity and mortality. These medications include ACE inhibitors (or ARBs) and beta blockers. In most patients, ACE inhibitors should be the initial baseline treatment in heart failure if they are tolerated—regardless of NYHA class. This recommendation is based on the proven track record of ACE inhibitors and the observation that most recent heart failure trials include patients already taking these medications."
+        },
+        {
+            "parent": 20,
+            "text": "ARBs have efficacy similar to that of ACE inhibitors and are an adequate alternative. Beta blockers (i.e., metoprolol and bisoprolol) also are useful as a baseline treatment added to ACE inhibitors in most patients with heart failure and may be especially useful in the settings of tachydysrhythmias and following myocardial infarction."
+        },
+        {
+            "parent": 20,
+            "text": "For severe heart failure (NYHA classes III to IV), spironolactone and carvedilol are useful additions to baseline drug therapy that improve patient survival. Carvedilol may be added if a beta blocker is not used currently. If the patient is taking a beta blocker and is clinically stable, a careful plan should be followed while switching the patient to carvedilol.49Alternatives are presented inTable 3.49The dosage of carvedilol should be increased every two weeks as the patient tolerates or to a maximum dosage of 25 mg twice daily."
+        },
+        {
+            "parent": 20,
+            "text": "Patients with stable heart failure should be encouraged to begin and maintain a regular aerobic exercise program. The level of exercise can range from brief, symptom-limited exercise to moderate exercise (at 60 percent of capacity) for three or more hours per week."
+        },
+        {
+            "parent": 20,
+            "text": "The role of digoxin in the treatment of a failing heart without dysrhythmias is unclear. Patients already receiving digoxin probably should be maintained on this agent. Initiating therapy with digoxin is unlikely to affect mortality but may improve symptoms and reduce the risk of hospitalization for heart failure. If used, a target serum level of 0.5 to 0.8 ng per mL is appropriate."
+        },
+        {
+            "parent": 21,
+            "text": "The symptomatic treatment of heart failure includes the use of diuretics and restriction of dietary sodium to control fluid volume status. Symptom control should be accomplished concomitantly with the basic pharmacologic disease management outlined above."
+        },
+        {
+            "parent": 22,
+            "text": "Comprehensive follow-up, with the patient as an active participant, is a key strategy in the long-term care of patients with heart failure. This aspect of management should include educating patients about their disease process; teaching them about their dietary and pharmacologic treatments; showing them how to monitor their weight, symptoms, and blood pressure; educating them about when to seek care; and providing periodic telephone follow-up between scheduled office visits. This sort of comprehensive, systematic follow-up can be part of a formal disease-management program or may be implemented in a well-organized primary care practice. No data exist to indicate the appropriate timing of referral to a cardiologist, but referral should be considered in patients with more complex conditions."
+        }
+    ],
+    "locked": false
+}

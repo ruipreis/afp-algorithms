@@ -1,0 +1,203 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/1101/p582.html#afp20171101p582-f1",
+    "title": "Heart Failure with Preserved Ejection Fraction: Diagnosis and Management | AAFP",
+    "author": "JOHN D. GAZEWOOD, MD, MSPH, AND PATRICK L. TURNER, MD",
+    "doi": "Am Fam Physician.2017;96(9):582-588",
+    "abstract": "Heart failure with preserved ejection fraction, also referred to as diastolic heart failure, causes almost one-half of the 5 million cases of heart failure in the United States. It is more common among older patients and women, and results from abnormalities of active ventricular relaxation and passive ventricular compliance, leading to a decline in stroke volume and cardiac output. Heart failure with preserved ejection fraction should be suspected in patients with typical symptoms (e.g., fatigue, weakness, dyspnea, orthopnea, paroxysmal nocturnal dyspnea, edema) and signs (S3 heart sound, displaced apical pulse, and jugular venous distension) of chronic heart failure. Echocardiographic findings of normal ejection fraction with impaired diastolic function confirm the diagnosis. Measurement of natriuretic peptides is useful in the evaluation of patients with suspected heart failure with preserved ejection fraction in the ambulatory setting. Multiple trials have not found medications to be an effective treatment, except for diuretics. Patients with congestive symptoms should be treated with a diuretic. If hypertension is present, it should be treated according to evidence-based guidelines. Exercise and treatment by multidisciplinary teams may be helpful. Atrial fibrillation should be treated using a rate-control strategy and appropriate anticoagulation. Revascularization should be considered for patients with heart failure with preserved ejection fraction and coronary artery disease. The prognosis is comparable to that of heart failure with reduced ejection fraction and is worsened by higher levels of brain natriuretic peptide, older age, a history of myocardial infarction, and reduced diastolic function.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DIAGNOSTIC CRITERIA",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CARDIAC IMAGING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "SUGGESTED APPROACH TO DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "GUIDELINE RECOMMENDATIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "DATA FROM CLINICAL TRIALS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "TREATMENT OF COMORBID ATRIAL FIBRILLATION AND CAD",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ACUTE HEART FAILURE",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "SUMMARY OF TREATMENT RECOMMENDATIONS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Heart failure with preserved ejection fraction (HFpEF), also referred to as diastolic heart failure, is characterized by signs and symptoms of heart failure and a left ventricular ejection fraction (LVEF) greater than 50%. Heart failure associated with intermediate reductions in LVEF (40% to 49%) is also commonly grouped into this category."
+        },
+        {
+            "parent": -1,
+            "text": "A systematic review found that jugular venous distention, an S3 heart sound, and displaced apical impulse significantly increased the likelihood of heart failure."
+        },
+        {
+            "parent": -1,
+            "text": "In the absence of hypertension, evidence does not support treating heart failure with preserved ejection fraction with any medication except diuretics. Additionally, trials of angiotensin receptor blockers, digoxin, nitrates, and spironolactone raised concerns about adverse effects."
+        },
+        {
+            "parent": 0,
+            "text": "The pathogenesis of diastolic dysfunction involves abnormalities of active ventricular relaxation and passive ventricular compliance, which lead to ventricular stiffness and higher diastolic pressures.1These pressures are transmitted through atrial and pulmonary venous systems, reducing lung compliance. A combination of decreased lung compliance and cardiac output leads to symptoms. Physiologic stressors, such as a hypertensive crisis, can overcome compensatory mechanisms and result in pulmonary edema.2"
+        },
+        {
+            "parent": 1,
+            "text": "Approximately 5 million persons in the United States have been diagnosed with heart failure, with an incidence of more than 650,000 new diagnoses per year.3Almost one-half of patients with heart failure have preserved ejection fraction. Risk factors include older age, female sex, obesity, hypertension, tobacco use, diabetes mellitus, coronary artery disease (CAD), valvular heart disease, and atrial fibrillation.4In 2013, health care expenditures directly attributed to heart failure totaled approximately $30 billion.3"
+        },
+        {
+            "parent": 2,
+            "text": "The diagnosis of HFpEF requires clinical symptoms and/or signs of heart failure, as well as evidence of preserved LVEF and diastolic dysfunction.5Hypertension, CAD, and valvular disease are the most common causes.4Identification of other underlying causes may lead to treatment that can optimize outcomes(Table 1).3–5The first step in the diagnosis of HFpEF is recognition of possible heart failure and subsequent referral for two-dimensional transthoracic echocardiography (TTE) to confirm the diagnosis."
+        },
+        {
+            "parent": 3,
+            "text": "Common symptoms of HFpEF include fatigue, weakness, dyspnea, orthopnea, paroxysmal nocturnal dyspnea, and edema. A systematic review found that jugular venous distention (positive likelihood ratio [LR+] = 4.4, negative likelihood ratio [LR–] = 0.88), an S3 heart sound (LR+ = 7.4, LR– = 0.92), and displaced apical impulse (LR+ = 16, LR– = 0.58) significantly increased the likelihood of heart failure.6Two reviews showed that the absence of historical or physical examination findings was not useful in excluding heart failure (LR – = 0.31 to 0.98).6,7"
+        },
+        {
+            "parent": 4,
+            "text": "Guidelines from the American College of Cardiology/American Heart Association (ACC/AHA) and European Society of Cardiology (ESC) recommend the use of natriuretic peptides for assessment of patients with symptoms of heart failure.3,5A brain natriuretic peptide (BNP) level less than 100 pg per mL (100 ng per L) or N-terminal pro-BNP (NT pro-BNP) level less than 300 pg per mL (300 ng per L) can reliably rule out acute heart failure in the emergency department setting (LR – = 0.1).8"
+        },
+        {
+            "parent": 4,
+            "text": "Because the spectrum of illness is different and often milder in the primary care setting, lower cutoffs are needed to rule out HFpEF. The ESC guidelines recommend cutoffs of 35 pg per mL (35 ng per L) for BNP and 125 pg per mL (125 ng per L) for NT pro-BNP.5Three systematic reviews of primary care studies showed that normal BNP and NT pro-BNP levels were useful for excluding heart failure in low-risk patients, but they were not useful for confirming the diagnosis6,7,9(Table 26,7)."
+        },
+        {
+            "parent": 4,
+            "text": "A systematic review found that normal electrocardiography findings reduced the likelihood of heart failure (pooled LR– = 0.19).7However, normal chest radiography was less helpful for excluding heart failure (LR – = 0.38), and moderately helpful for confirming it (LR+ = 4.1).7Neither electrocardiography nor chest radiography significantly improved the accuracy of diagnostic models when natriuretic peptide results were available.9,10Nonetheless, electrocardiography is necessary in patients with suspected heart failure to assess for evidence of CAD, left ventricular hypertrophy, and dysrhythmia.3,5"
+        },
+        {
+            "parent": 5,
+            "text": "A large, prospective, primary care–based study compared seven sets of diagnostic criteria in patients who had heart failure with preserved or reduced ejection fraction.11It showed that most criteria had LRs+ that increased the likelihood of diagnosing heart failure, but none reliably excluded it. The Framingham criteria were helpful for ruling in heart failure(Table 3).12"
+        },
+        {
+            "parent": 5,
+            "text": "Two diagnostic rules were developed using data from primary care settings that included patients with heart failure with preserved or reduced ejection fraction. The Male, Infarction, Crepitations, Edema (MICE) diagnostic rule was derived from one data set and validated in four other data sets.10It has excellent accuracy, with an area under the receiver operating characteristic curve of 0.9. The MICE rule states that in patients with suspected heart failure, echocardiography is recommended for those with a history of myocardial infarction and basilar lung crackles, or in any male with ankle edema. Other patients should undergo echocardiography if the BNP level is greater than 35 pg per mL or if the NT pro-BNP level is greater than 125 pg per mL."
+        },
+        {
+            "parent": 5,
+            "text": "Investigators from the Netherlands prospectively evaluated 721 patients with suspected heart failure who were referred by family physicians to specialized diagnostic clinics.13They derived a diagnostic rule that was validated using different data sets and found to have excellent accuracy, with an area under the receiver operating characteristic curve of 0.85. Using a combination of clinical findings and BNP, a score less than 13 excludes heart failure in a primary care setting."
+        },
+        {
+            "parent": 6,
+            "text": "TTE is the preferred test to confirm HFpEF. TTE should include an assessment of LVEF, left ventricular mass, the presence of valvular disease, and abnormal left atrial size. The combined finding of normal left ventricular systolic function and diastolic dysfunction confirms HFpEF.14,15Transesophageal echocardiography is not recommended for routine evaluation of HFpEF.5"
+        },
+        {
+            "parent": 7,
+            "text": "Patients presenting with symptoms concerning for heart failure should undergo clinical evaluation. If physical examination findings suggest heart failure (jugular venous distention, S3 heart sound, or displaced apical impulse) or fulfill the clinical criteria for the MICE or Framingham rules, the patient should be referred for TTE.3,5BNP or NT pro-BNP should be measured in patients who do not meet these criteria, and the patient should be referred for TTE if the BNP level is 35 pg per mL or greater, the NT pro-BNP level is 125 pg per mL or greater, or the score on the Netherlands rule is 13 or greater. TTE assessment of LVEF and diastolic function can confirm HFpEF5(Figure 1)."
+        },
+        {
+            "parent": 9,
+            "text": "In contrast with treatment of heart failure with reduced ejection fraction, there are fewer randomized controlled trials (RCTs) of patients with HFpEF. The ACC/AHA recommends using a stage-based approach to guide treatment of HFpEF(Table 4).3,18"
+        },
+        {
+            "parent": 9,
+            "text": "The ESC recommends diuretics for treating fluid overload in patients with HFpEF.5However, it makes no recommendation regarding other medications for treatment. It recommends identifying and treating cardiovascular and noncardiovascular comorbidities, because most deaths and hospitalizations in patients with HFpEF are not due to chronic heart failure."
+        },
+        {
+            "parent": 9,
+            "text": "The ACC/AHA and ESC recommend combined endurance and resistance training for patients with HFpEF to improve exercise capacity, physical functioning, and diastolic function.3,5"
+        },
+        {
+            "parent": 10,
+            "text": "Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers.RCTs have investigated the effectiveness of several medication classes in patients with HFpEF(eTable A). Two large trials examining candesartan (Atacand) and irbesartan (Avapro) failed to show reductions in mortality or all-cause hospitalization.16,17A Cochrane meta-analysis found no difference in total hospitalizations or mortality in patients treated with an angiotensin receptor blocker, and noted an increased rate of adverse events (number need to harm = 33).18A trial comparing perindopril (Aceon) with placebo showed no difference in all-cause mortality, heart failure hospitalization, or all-cause hospitalization at 2.1 years.19"
+        },
+        {
+            "parent": 10,
+            "text": "Beta Blockers.An RCT of nebivolol (Bystolic) in patients 70 years and older who had heart failure with preserved or reduced ejection fraction showed no difference in all-cause mortality or all-cause hospitalization.20There was no difference in any outcome among the 752 patients with HFpEF who underwent randomization.21A smaller study of carvedilol (Coreg) found no difference in mortality or heart failure hospitalization.22"
+        },
+        {
+            "parent": 10,
+            "text": "Other Drugs.A one-year RCT of spironolactone showed a reduced six-minute walk distance in the treatment group compared with those who received placebo (P= .02).23However, a larger trial found no difference in all-cause hospitalizations.24A randomized crossover trial of isosorbide mononitrate found that patients randomized to isosorbide mononitrate had lower activity levels and fewer minutes of daily physical activity.25An RCT of digoxin showed no difference in all-cause or heart failure hospitalization, or in heart failure mortality.26A post hoc analysis of this study in patients older than 65 years found a higher rate of all-cause hospitalization in the 30 days after randomization in patients who received digoxin (number needed to harm = 20;P= .026).27An RCT of sildenafil (Revatio) found no difference in exercise capacity or clinical status in patients with HFpEF.28"
+        },
+        {
+            "parent": 10,
+            "text": "Nonmedical Therapy.A meta-analysis of five RCTs of exercise training found that it improved exercise capacity (P< .0001), mean six-minute walking distance (P= .022), and quality of life.29"
+        },
+        {
+            "parent": 11,
+            "text": "Atrial fibrillation is common in patients with HFpEF. The ACC/AHA and ESC guidelines recommend treatment of atrial fibrillation in these patients.3,5Management includes identification and treatment of underlying causes (e.g., thyrotoxicosis), anticoagulation guided by appropriate risk stratification, and rate-control strategies using beta blockers, calcium channel blockers, and digoxin. No evidence supports a rhythm-control strategy unless rate control does not control symptoms.3,5Complete revascularization is associated with improved mortality in patients with HFpEF and CAD who meet criteria for revascularization.3,30"
+        },
+        {
+            "parent": 12,
+            "text": "Hospitalized patients with HFpEF should be treated similarly to those with heart failure with reduced ejection fraction (diuretics and supportive measures). Family physicians caring for patients with HFpEF should consider using a multidisciplinary team for follow-up and care coordination, an approach shown to decrease mortality and hospitalizations in patients with heart failure and reduced ejection fraction.3No evidence supports the use of intensive interventions (e.g., inotropic support, cardiac resynchronization therapy).3,5"
+        },
+        {
+            "parent": 13,
+            "text": "Patients with HFpEF and symptoms of volume overload should be treated with diuretics.31Hypertension should be treated according to appropriate guidelines.3Although RCTs of several medications showed fewer heart failure hospitalizations, this benefit was offset by increases in hospitalizations for other reasons. Thus, in the absence of hypertension, the evidence does not support treating patients with HFpEF with any medication except diuretics. Additionally, RCTs of angioten-sin receptor blockers, nitrates, and spironolactone raise concerns about adverse effects, and physicians should avoid using these medications, if possible.18,23–25Similarly, physicians should avoid the use of digoxin in patients 65 years and older.27Physicians should consider referring patients with HFpEF who can exercise safely for exercise training or cardiac rehabilitation. Comorbid atrial fibrillation or CAD should be treated."
+        },
+        {
+            "parent": 14,
+            "text": "Diastolic dysfunction of any severity is associated with increased mortality, even in asymptomatic patients. One population-based study found that after four years, 3.3% of patients with diastolic dysfunction on baseline echocardiography developed symptomatic heart failure, 23% had worsened diastolic dysfunction, and 9% had improved diastolic dysfunction.32Over the subsequent six years of follow-up, 3% of patients with normalized diastolic dysfunction, 8% with mild diastolic dysfunction, and 12% of those with moderate to severe diastolic dysfunction developed clinical heart failure. Older age, hypertension, diabetes, and CAD increased the risk of heart failure."
+        },
+        {
+            "parent": 14,
+            "text": "Prognosis after the first hospitalization for HFpEF is poor, with one-year mortality rates as high as 25% among older patients and five-year mortality rates of 24% among patients older than 60 years and 54% among those older than 80 years.33,34Patients with HFpEF fare worse than age- and sex-matched controls and have reported mortality rates similar to or better than patients with heart failure with reduced ejection fraction.35,36Factors associated with worse prognosis include higher levels of NT pro-BNP, older age, diabetes, history of myocardial infarction or chronic obstructive pulmonary disease, reduced glomerular filtration rate and diastolic function, and right ventricular remodeling.36–38"
+        },
+        {
+            "parent": 14,
+            "text": "This article updates previous articles on this topic byKing, et al.39;Satpathy, et al.40; andGutierrez and Blanchard.41"
+        },
+        {
+            "parent": 14,
+            "text": "Data Sources: We searched the Cochrane Database of Systematic Reviews, evidence-based guidelines from the National Guideline Clearinghouse, the Institute for Clinical Systems Improvement, the Database of Abstracts of Reviews of Effects, Essential Evidence Plus, and Dynamed using the term diastolic heart failure. We searched Ovid Medline using the search terms diastolic heart failure, diagnosis, prognosis, and controlled clinical trials. Search date: October 2016."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,273 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2001/0401/p1329.html#afp20010401p1329-f1",
+    "title": "Diagnosis and Initial Management of Kidney Stones | AAFP",
+    "author": "ANDREW J. PORTIS, M.D., AND CHANDRU P. SUNDARAM, M.D.",
+    "doi": "Am Fam Physician.2001;63(7):1329-1339",
+    "abstract": "The diagnosis and initial management of urolithiasis have undergone considerable evolution in recent years. The application of noncontrast helical computed tomography (CT) in patients with suspected renal colic is one major advance. The superior sensitivity and specificity of helical CT allow urolithiasis to be diagnosed or excluded definitively and expeditiously without the potential harmful effects of contrast media. Initial management is based on three key concepts: (1) the recognition of urgent and emergency requirements for urologic consultation, (2) the provision of effective pain control using a combination of narcotics and nonsteroidal anti-inflammatory drugs in appropriate patients and (3) an understanding of the impact of stone location and size on natural history and definitive urologic management. These concepts are discussed with reference to contemporary literature, with the goal of providing tools that family physicians can use in the emergency department or clinic.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Presentation and Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Confirmation of the Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "ABDOMINAL ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "PLAIN-FILM RADIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "INTRAVENOUS PYELOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "NONCONTRAST HELICAL CT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Management",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "EMERGENCY SITUATIONS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ANALGESIA",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "MANAGEMENT STRATEGY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Stone Size",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Stone Location",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Urolithiasis is a problem that has confronted clinicians since the time of Hippocrates, and many family physicians have extensive experience in its clinical management. In recent years, technological advancements have greatly facilitated the diagnosis of stone disease. Physicians can now conclusively identify and, perhaps more importantly, exclude stone disease within minutes of considering the diagnosis. The management of urolithiasis is also becoming increasingly well defined. Clear indications for urologic referral are based on a recognition of the few urgent situations and a solid understanding of the natural history of stone progression."
+        },
+        {
+            "parent": 0,
+            "text": "The prevalence of urolithiasis is approximately 2 to 3 percent in the general population, and the estimated lifetime risk of developing a kidney stone is about 12 percent for white males.1Approximately 50 percent of patients with previous urinary calculi have a recurrence within 10 years.2"
+        },
+        {
+            "parent": 0,
+            "text": "Stone disease is two to three times more common in males than in females. It occurs more often in adults than in elderly persons, and more often in elderly persons than in children. Whites are affected more often than persons of Asian ethnicity, who are affected more often than blacks. In addition, urolithiasis occurs more frequently in hot, arid areas than in temperate regions."
+        },
+        {
+            "parent": 0,
+            "text": "Decreased fluid intake and consequent urine concentration are among the most important factors influencing stone formation. Certain medications, such as triamterene (Dyrenium), indinavir (Crixivan) and acetazolamide (Diamox), are also associated with urolithiasis. Dietary oxalate is another possible cause, but the role of dietary calcium is less clear, and calcium restriction is no longer universally recommended.3"
+        },
+        {
+            "parent": 1,
+            "text": "Urolithiasis should always be considered in the differential diagnosis of abdominal pain. The classic presentation of renal colic is excruciating unilateral flank or lower abdominal pain of sudden onset that is not related to any precipitating event and is not relieved by postural changes or nonnarcotic medications. With the exception of nausea and vomiting secondary to stimulation of the celiac plexus, gastrointestinal symptoms are usually absent."
+        },
+        {
+            "parent": 1,
+            "text": "The pain of renal colic often begins as vague flank pain. Patients frequently dismiss this pain until it evolves into waves of severe pain. It is generally believed that a stone must at least partially obstruct the ureter to cause pain. The pain is commonly referred to the lower abdomen and to the ipsilateral groin. As the stone progresses down the ureter, the pain tends to migrate caudally and medially(Table 1)."
+        },
+        {
+            "parent": 1,
+            "text": "Distal ureteral stones may be manifested by bladder instability, urinary frequency, dysuria and/or pain radiating to the tip of the penis, or the labia or vulva. Increasingly, however, calculi are encountered in asymptomatic patients and are found incidentally on imaging studies or during the evaluation of microhematuria."
+        },
+        {
+            "parent": 1,
+            "text": "Symptoms similar to those of renal colic can be caused by noncalculus conditions. In women, gynecologic processes that must be considered include ovarian torsion, ovarian cyst and ectopic pregnancy. In men, symptoms of testicular processes, such as a tumor, epididymitis or prostatitis, may mimic the symptoms of distal ureteral stones."
+        },
+        {
+            "parent": 1,
+            "text": "Other general causes of abdominal pain, such as appendicitis, cholecystitis, diverticulitis, colitis, constipation, hernias or even arterial aneurysms, may elicit similar discomfort. Symptoms mimicking those of urolithiasis also occur with urologic lesions such as congenital ureteropelvic junction obstruction, renal or ureteral tumors, and other causes of ureteral obstruction."
+        },
+        {
+            "parent": 1,
+            "text": "Many family physicians have had experience with patients whom they suspect of having factitious colic. Frequently, these patients claim to be “allergic” to intravenous contrast media.4Noncontrast helical computed tomography (CT) is a relatively new modality with the capability to exclude calculi in such problem patients."
+        },
+        {
+            "parent": 2,
+            "text": "The diagnosis of urinary tract calculi begins with a focused history. Key elements include past or family history of calculi, duration and evolution of symptoms, and signs or symptoms of sepsis. The physical examination is often more valuable for ruling out nonurologic disease."
+        },
+        {
+            "parent": 2,
+            "text": "Urinalysis should be performed in all patients with suspected calculi. Aside from the typical microhematuria, important findings to note are the urine pH and the presence of crystals, which may help to identify the stone composition. Patients with uric acid stones usually present with an acidic urine, and those with stone formation resulting from infection have an alkaline urine. Identification of bacteria is important in planning therapy, and a urine culture should be routinely performed. Limited pyuria is a fairly common response to irritation caused by a stone and, in absence of bacteriuria, is not generally indicative of coexistent urinary tract infection."
+        },
+        {
+            "parent": 2,
+            "text": "Because of the various presentations of renal colic and its broad differential diagnosis, an organized diagnostic approach is useful(Figure 1). Symptomatic stones essentially present as abdominal pain. Renal colic may be suspected based on the history and physical examination, but diagnostic imaging is essential to confirm or exclude the presence of urinary calculi. Several imaging modalities are available, and each has advantages and limitations(Table 2)."
+        },
+        {
+            "parent": 3,
+            "text": "Abdominal ultrasonography has limited use in the diagnosis and management of urolithiasis. Although ultrasonography is readily available, quickly performed and sensitive to renal calculi, it is virtually blind to ureteral stones (sensitivity: 19 percent), which are far more likely to be symptomatic than renal calculi.5However, if a ureteral stone is visualized by ultrasound, the finding is reliable (specificity: 97 percent)."
+        },
+        {
+            "parent": 3,
+            "text": "The ultrasound examination is highly sensitive to hydronephrosis, which may be a manifestation of ureteral obstruction, but it is frequently limited in defining the level or nature of obstruction. It is also useful in assessing renal parenchymal processes, which may mimic renal colic. Abdominal ultrasonography is the preferred imaging modality for the evaluation of gynecologic pain, which is more common than urolithiasis in women of child-bearing age."
+        },
+        {
+            "parent": 4,
+            "text": "Plain-film radiography of the kidneys, ureters and bladder (KUB) may be sufficient to document the size and location of radiopaque urinary calculi. Stones that contain calcium, such as calcium oxalate and calcium phosphate stones, are easiest to detect by radiography. Less radiopaque calculi, such as pure uric acid stones and stones composed mainly of cystine or magnesium ammonium phosphate, may be difficult, if not impossible, to detect on plain-film radiographs."
+        },
+        {
+            "parent": 4,
+            "text": "Unfortunately, even radiopaque calculi are frequently obscured by stool or bowel gas, and ureteral stones overlying the bony pelvis or transverse processes of vertebrae are particularly difficult to identify. Furthermore, nonurologic radiopacities, such as calcified mesenteric lymph nodes, gallstones, stool and phleboliths (calcified pelvic veins), may be misinterpreted as stones."
+        },
+        {
+            "parent": 4,
+            "text": "Although 90 percent of urinary calculi have historically been considered to be radiopaque, the sensitivity and specificity of KUB radiography alone remain poor (sensitivity: 45 to 59 percent; specificity: 71 to 77 percent).6KUB radiographs are useful in the initial evaluation of patients with known stone disease and in following the course of patients with known radiopaque stones."
+        },
+        {
+            "parent": 5,
+            "text": "Intravenous pyelography has been considered the standard imaging modality for urinary tract calculi. The intravenous pyelogram provides useful information about the stone (size, location, radiodensity) and its environment (calyceal anatomy, degree of obstruction), as well as the contralateral renal unit (function, anomalies). Intravenous pyelography is widely available, and its interpretation is well standardized. With this imaging modality, ureteral calculi can be easily distinguished from nonurologic radiopacities."
+        },
+        {
+            "parent": 5,
+            "text": "The accuracy of intravenous pyelography can be maximized with proper bowel preparation, and the adverse renal effects of contrast media may be minimized by ensuring that the patient is well hydrated. Unfortunately, these preparatory steps require time and often cannot be accomplished when a patient presents in an emergency situation."
+        },
+        {
+            "parent": 5,
+            "text": "Compared with abdominal ultrasonography and KUB radiography, intravenous pyelography has greater sensitivity (64 to 87 percent) and specificity (92 to 94 percent) for the detection of renal calculi. However, the intravenous pyelogram can be confusing in the presence of nonobstructing radiolucent stones, which may not always generate a “filling defect.”7,8Furthermore, in patients with high-grade obstruction, even prolonged reimaging at 12 to 24 hours may not demonstrate the level of obstruction because of inadequate concentration of the contrast medium."
+        },
+        {
+            "parent": 5,
+            "text": "The contrast media used in intravenous pyelography carry the potential for adverse effects.9Foremost is their well-documented nephrotoxic effect. Serum creatinine levels must be measured before contrast media are administered. Although a creatinine level greater then 1.5 mg per dL (130 μmol per L) is not an absolute contraindication, the risks and benefits of using contrast media must be carefully weighed, particularly in patients with diabetes mellitus, cardiovascular disease or multiple myeloma. These risks may be minimized by adequately hydrating the patient, minimizing the amount of contrast material that is infused, and maximizing the time interval between consecutive contrast studies. Nonetheless, it is prudent to avoid the use of contrast media when an alternative imaging modality can provide equivalent information."
+        },
+        {
+            "parent": 5,
+            "text": "The role of nonionic contrast media continues to evolve. Use of these materials may decrease reactions such as nausea, flushing and bradycardia, but there is no apparent reduction of anaphylactic reactions or nephrotoxicity."
+        },
+        {
+            "parent": 5,
+            "text": "A new concern has emerged because of reports of fatal metabolic acidosis after radiologic procedures using intravenous contrast media in patients with diabetes with preexisting renal failure and who were taking metformin (Glucophage). The basic mechanism of this interaction involves impairment of renal metformin excretion by contrast media–induced nephrotoxicity that results in elevated serum metformin levels.10,11The current recommendation from the U.S. Food and Drug Administration is to discontinue metformin at the time of or before a procedure using contrast material and to withhold the drug for 48 hours after the procedure. Metformin therapy is reinstituted only after renal function has been reevaluated and found to be normal."
+        },
+        {
+            "parent": 6,
+            "text": "Noncontrast helical CT is being used increasingly in the initial assessment of renal colic.12,13This imaging modality is fast and accurate, and it readily identifies all stone types in all locations. Its sensitivity (95 to 100 percent) and specificity (94 to 96 percent) suggest that it may definitively exclude stones in patients with abdominal pain.14–17"
+        },
+        {
+            "parent": 6,
+            "text": "Associated signs, such as renal enlargement, perinephric or periureteral inflammation or “stranding,” and distension of the collecting system or ureter, are sensitive indicators of the degree of ureteral obstruction.18Hounsfield density of calculi may be used to distinguish cystine and uric acid stones from calcium-bearing stones and is capable of further subtyping the calcium stones into calcium phosphate, calcium oxalate monohydrate and calcium oxalate dihydrate stones.19Noncontrast helical CT is also useful in diagnosing nonurologic causes of abdominal pain, such as abdominal aortic aneurysms and cholelithiasis."
+        },
+        {
+            "parent": 6,
+            "text": "The estimated sizes of renal calculi determined using this imaging technique vary slightly from those obtained with KUB radiography."
+        },
+        {
+            "parent": 6,
+            "text": "Noncontrast helical CT is generally more expensive than intravenous pyelography, but the increased cost is certainly balanced by more definitive, faster diagnosis. In one study,14the cost of noncontrast helical CT was reported as $600 compared with $400 for intravenous pyelography; cost obviously varies from institution to institution and by accounting methods."
+        },
+        {
+            "parent": 6,
+            "text": "In the future, noncontrast helical CT may become the imaging technique of choice and the standard of care. Its emergence as the definitive initial imaging modality for urolithiasis may allow intravenous pyelography to be reserved for therapeutic planning in complex stone cases."
+        },
+        {
+            "parent": 7,
+            "text": "The management of patients with urolithiasis is becoming increasingly well defined. An algorithm for the initial management of radiologically confirmed stones is presented inFigure 2."
+        },
+        {
+            "parent": 8,
+            "text": "The first step is to identify patients who require emergency urologic consultation. For example, sepsis in conjunction with an obstructing stone represents a true emergency. In patients with sepsis, adequate drainage of the system must be established with all possible speed by means of percutaneous nephrostomy or retrograde ureteral stent insertion. Other emergency conditions are anuria and acute renal failure secondary to bilateral obstruction, or unilateral obstruction in a patient with a solitary functioning kidney."
+        },
+        {
+            "parent": 8,
+            "text": "Hospital admission may be required for patients who are unable to maintain oral intake because of refractory nausea, debilitated medical status or extremes of age, or for patients with severe pain that does not respond to outpatient narcotic therapy. Placement of a retrograde ureteral stent or percutaneous nephrostomy tube may be a useful temporizing measure in patients with refractory symptoms."
+        },
+        {
+            "parent": 8,
+            "text": "For all other patients, ambulatory management of renal calculi should be adequate. Complications of urolithiasis are listed inTable 3. The cornerstones of ambulatory management are adequate analgesia, timely urologic consultation and close follow-up."
+        },
+        {
+            "parent": 9,
+            "text": "Numerous medical strategies have been attempted to control colic, which can be attributed to ureteral spasm. Although narcotics such as codeine, morphine and meperidine (Demerol) are effective in suppressing pain, they do nothing to treat its underlying cause, and they have the side effects of dependence and disorientation."
+        },
+        {
+            "parent": 9,
+            "text": "As a result of combined anti-inflammatory and spasmolytic effects, nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin, diclofenac (Voltaren) and ibuprofen (e.g., Motrin) can be effective in managing the pain of renal colic. Of these agents, ketorolac (Toradol) merits special mention. In one emergency department study, the narcotic-like analgesic effects of this agent were superior to the effects of meperidine.20Unfortunately, the antiplatelet effects of NSAIDs (including ketorolac) are a contraindication to the use of extracorporeal shock wave lithotripsy, because of the increased risk of perinephric bleeding.21,22"
+        },
+        {
+            "parent": 9,
+            "text": "The cyclooxygenase-2 inhibitors, a new class of NSAIDs, may prove to be effective agents in the management of renal colic. Theoretically, these drugs do not impair platelet function. To date, however, there have been no reports of their use in patients with renal colic."
+        },
+        {
+            "parent": 9,
+            "text": "At present, an effective approach to outpatient management is to use both an oral narcotic drug and an oral NSAID. Patients are instructed not to take NSAIDs for three days before anticipated extracorporeal shock wave lithotripsy; they are also told to avoid taking aspirin for seven days before the procedure."
+        },
+        {
+            "parent": 9,
+            "text": "Spasmolytic medications, such as calcium channel blockers and glucagon, have no value in the management of acute colic.23,24"
+        },
+        {
+            "parent": 10,
+            "text": "After emergency situations have been ruled out and adequate analgesia has been achieved, the next step is to formulate a strategy for managing the stone. Clinical experience with urolithiasis has been refined with statistical analysis to provide sound principles for definitive management.25The two major prognostic factors are stone size and location(Table 4).26,27"
+        },
+        {
+            "parent": 11,
+            "text": "The likelihood that a ureteral stone will pass appears to be determined by its size (i.e., greatest diameter). Stones less than 5 mm in size should be given an opportunity to pass. Patients can be advised that stones less than 4 mm in size generally pass within one to two weeks. With stones of this size, 80 percent of patients require no intervention beyond analgesia.28"
+        },
+        {
+            "parent": 11,
+            "text": "Patients with a radiopaque ureteral stone who elect a conservative approach should be advised to have regular follow-up KUB radiographs at one- to two-week intervals. They should also strain their urine to capture stones or stone fragments, because stone composition provides important information for the prevention of future stones."
+        },
+        {
+            "parent": 11,
+            "text": "Patients should be cautioned to seek immediate medical attention if they develop signs of sepsis. The principal message should be that medical surveillance must be continued until stone passage is documented. Although unlikely with small calculi, asymptomatic complete ureteral obstruction may destroy renal function in as little as six to eight weeks."
+        },
+        {
+            "parent": 11,
+            "text": "As stones increase in size beyond 4 mm, the need for urologic intervention increases exponentially. Referral to a urologist is indicated for patients with a stone greater than 5 mm in size. Referral is also indicated for patients with a ureteral stone that has not passed after two to four weeks of observation. The complication rate for ureteral calculi has been reported to almost triple (to 20 percent) when symptomatic stones are left untreated beyond four weeks.29"
+        },
+        {
+            "parent": 12,
+            "text": "Renal stones, which are generally asymptomatic, may be followed conservatively. However, patients can be advised that about 50 percent of small renal calculi become symptomatic within five years of detection.27"
+        },
+        {
+            "parent": 12,
+            "text": "Persons in some occupations, most notably airplane pilots, are not permitted to work with even an asymptomatic renal stone, for fear of the unpredictable onset of incapacitating pain while they are involved in a crucial task. These patients obviously require early definitive therapy."
+        },
+        {
+            "parent": 12,
+            "text": "Staghorn renal calculi, which are frequently the result of, and a persistent focus for, chronic infection are clearly associated with renal damage.30These large stones should be treated when they are detected."
+        },
+        {
+            "parent": 12,
+            "text": "Renal calculi less than 2 cm in size can generally be treated with extra corporeal shock wave lithotripsy. Stones in a lower pole calyx are an exception, as they are associated with poor clearance rates after extra corporeal shock wave lithotripsy, and 1 cm is the generally recommended upper limit for this treatment.31Larger stones are generally amenable to percutaneous nephrolithotomy."
+        },
+        {
+            "parent": 12,
+            "text": "Extracorporeal shock wave lithotripsy is also effective for ureteral stones, with an upper size limit of approximately 1 cm. Unknown ovarian effects are the basis for a relative contraindication to the use of extracorporeal shock wave lithotripsy in women of child-bearing age who have middle or distal ureteral stones. Percutaneous nephrolithotomy remains a safe and reliable method of removing large renal and proximal ureteral stones."
+        },
+        {
+            "parent": 12,
+            "text": "Advances in ureteroscopic techniques now allow calculi that are not good candidates for extracorporeal shock wave lithotripsy or percutaneous nephrolithotomy to be treated virtually anywhere within the ureter or kidney.32The urologist's judgment and experience, with consideration of the patient's preferences, should dictate the treatment approach(Table 5)."
+        }
+    ],
+    "locked": false
+}

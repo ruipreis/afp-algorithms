@@ -1,0 +1,67 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0301/p603.html#afp20110301p603-f1",
+    "title": "Evaluation of Chest Pain in Primary Care Patients | AAFP",
+    "author": "MARK H. EBELL, MD, MS",
+    "doi": "Am Fam Physician.2011;83(5):603-605",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Question",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evidence Summary",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Applying the Evidence",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "How can the clinical examination be used to guide evaluation of patients presenting with chest pain in the primary care setting?"
+        },
+        {
+            "parent": 1,
+            "text": "Chest pain can be caused by conditions that range from benign and self-limited (e.g., chest wall pain) to serious (e.g., anxiety disorder) or life-threatening (e.g., unstable angina, aortic dissection, pulmonary embolism). Accurate identification of life-threatening and serious causes of chest pain must be accomplished without overtesting and overtreating patients with less serious causes. The first step in clinical diagnosis is knowing the pretest probability of different causes of chest pain.Table 1summarizes data from three studies in the primary care setting.1–4Based on these studies, approximately 40 percent of patients presenting with chest pain have musculoskeletal causes, 12 percent have stable angina, 3 percent have acute cardiac ischemia (including myocardial infarction [MI]), and less than 1 percent have pulmonary embolism. No cases of aortic dissection were reported in these three large series of primary care out-patients. Because of the severity of symptoms associated with aortic dissection, patients with this condition are likely to present to the emergency department."
+        },
+        {
+            "parent": 1,
+            "text": "Musculoskeletal conditions (e.g., costochondritis, Tietze syndrome, costosternal syndrome) are the least serious causes of chest pain. A recent study identified 1,212 consecutive adults older than 35 years who presented to a primary care practice with chest pain, and followed them for six months to determine the final diagnosis.3The study showed that age and sex are not useful in predicting whether pain is musculoskeletal. The four best independent predictors are absence of cough, stinging pain, pain that is reproducible on palpation, and localized muscle tension. In patients with three or four of these factors, there is a likelihood ratio of 3.0 that chest wall pain is the cause."
+        },
+        {
+            "parent": 1,
+            "text": "In the same study, complete data for a multivariate model were available for 773 patients.3These data were used to develop a simple point score, which was then validated using data from a similar study of 672 patients.4The point score was equally accurate in that study population, so data from both groups were combined into a five-item clinical decision rule(Table 2).2Patients were classified as low, moderate, and high risk based on whether their risk of having coronary artery disease (CAD) as the cause of pain was less than 1 percent, 12 percent, or 63 percent, respectively."
+        },
+        {
+            "parent": 1,
+            "text": "In another study, the researchers whose data was used to validate the five-item score inTable 22developed an eight-item clinical decision rule.5This rule was accurate in the derivation group: 62 percent of patients had a score of less than 5, and of these patients, CAD was the cause of chest pain in only 0.5 percent. Of the 85 patients with CAD, 83 had a score of at least 5. However, in attempting to validate this score using the German data,3it did not perform as well (negative predictive value of 95 percent; 86 percent sensitivity, 47 percent specificity). Because this score has no clear advantage over the five-item score, it is not presented in detail."
+        },
+        {
+            "parent": 1,
+            "text": "Findings from electrocardiography (ECG) can also be used to predict acute MI. A systematic review found that the most important predictors are new ST segment elevation greater than 1 mm (likelihood ratio [LR] = 6 to 54), new left bundle branch block (LR = 6.3), Q wave (LR = 3.9), and hyperacute T waves (LR = 3.1).6"
+        },
+        {
+            "parent": 1,
+            "text": "A clinical decision rule has also been developed and validated for diagnosis of acute MI in outpatients with chest pain and normal or near-normal ECG findings (i.e., nonspecific ST or T wave changes not suggestive of ischemia or strain).7Key predictors of acute MI were male sex; age older than 60 years; pressure-type pain; and pain radiating to the arm, shoulder, neck, or jaw. Patients with none or one of these findings had a less than 1 percent risk of acute MI. A clinical rule validated in the emergency department setting for triage of patients with chest pain found that patients without bibasilar rales, hypotension, unstable angina, or ECG changes are at low risk and can be triaged to an observation unit.8However, this rule has not been validated prospectively in a primary care population."
+        },
+        {
+            "parent": 1,
+            "text": "Figure 1presents an algorithm that integrates information from the above clinical decision rules with ECG findings. Low-risk patients are unlikely to have chest pain resulting from acute or chronic cardiac disease, although other serious causes (e.g., anxiety disorder, reflux disease, peptic ulcer, pulmonary embolism) should be considered. Patients at high risk of CAD require urgent evaluation and, in many cases, hospitalization. For patients at moderate risk, ECG and clinical findings can be used to identify those who are at high or low risk. Cardiac troponin testing can be used for risk stratification if it is available (e.g., in urgent care settings). A normal troponin level at least six hours after the onset of chest pain in combination with normal or near-normal ECG findings is a good prognostic sign; only one in 300 patients with this combination of findings have a cardiovascular event within 30 days.9Although this algorithm has not been prospectively validated, it is based on prospectively validated diagnostic data."
+        },
+        {
+            "parent": 2,
+            "text": "A 58-year-old man presents with sharp chest pain of several days' duration. He has no history of CAD or cerebrovascular disease. The pain is not reproduced by chest pressure, and it is not worse with exertion. He is worried that the pain may be cardiogenic. What is the risk that his chest pain has a serious cause?"
+        },
+        {
+            "parent": 2,
+            "text": "Answer: According to the clinical decision rule inTable 2,2he receives a score of 3, with points for age, for pain that is not reproduced by chest pressure, and for his concern that the pain may be cardiogenic. He is therefore at moderate risk. ECG reveals a new left bundle branch block, and you admit him to the hospital to rule out MI."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,165 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/0415/p490.html#afp20190415p490-f1",
+    "title": "Kidney Stones: Treatment and Prevention | AAFP",
+    "author": "LEONARDO FERREIRA FONTENELLE, MD, MPH, PhD, AND THIAGO DIAS SARTI, MD, MPH, PhD",
+    "doi": "Am Fam Physician.2019;99(8):490-496",
+    "abstract": "Kidney stones are a common disorder, with an annual incidence of eight cases per 1,000 adults. During an episode of renal colic, the first priority is to rule out conditions requiring immediate referral to an emergency department, then to alleviate pain, preferably with a nonsteroidal anti-inflammatory drug. The diagnostic workup consists of urinalysis, urine culture, and imaging to confirm the diagnosis and assess for conditions requiring active stone removal, such as urinary infection or a stone larger than 10 mm. Conservative management consists of pain control, medical expulsive therapy with an alpha blocker, and follow-up imaging within 14 days to monitor stone position and assess for hydronephrosis. Asymptomatic kidney stones should be followed with serial imaging, and should be removed in case of growth, symptoms, urinary obstruction, recurrent infections, or lack of access to health care. All patients with kidney stones should be screened for risk of stone recurrence with medical history, basic laboratory evaluation, and imaging. Lifestyle modifications such as increased fluid intake should be recommended for all patients, and thiazide diuretics, allopurinol, or citrates should be prescribed for patients with recurrent calcium stones. Patients at high risk of stone recurrence should be referred for additional metabolic assessment, which can serve as a basis for tailored preventive measures.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis and Acute Management",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "ACUTE MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DIAGNOSTIC WORKUP",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "FOLLOW-UP",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Further Evaluation in the Subacute Setting",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Special Considerations",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "ASYMPTOMATIC KIDNEY STONES",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "PREGNANT WOMEN",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "LIFESTYLE MODIFICATIONS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "CITRATE SUPPLEMENTATION AND MEDICATIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The prevalence of nephrolithiasis (kidney stones) is increasing in the United States, from one in 20 adults in 1994 to one in 11 adults in 2010.1,2Worldwide, it is also increasing in Europe and is even higher in the hot-climate “stone belt” extending from the southeastern United States to northern Australia.3,4Table 1lists the incidence of different types of kidney stones among children and adults in developed countries.3–8Most are of noninfectious etiology and are associated with low fluid intake, hot climate, and certain comorbidities and risk factors (e.g., hypertension; gout; obesity; nonalcoholic fatty liver disease; excessive intake of protein, carbohydrates, and sodium).1,4,9–11Increasing exposure to these risk factors may explain the rising incidence of kidney stones and their prevalence in men, non-Hispanic whites, and persons with low socioeconomic status.1,3,4,9The annual incidence of kidney stones is about eight cases per 1,000 adults and peaks around midlife in developed countries.3"
+        },
+        {
+            "parent": 1,
+            "text": "Acute renal colic presents as cramping and intermittent abdominal and flank pain as kidney stones travel down the ureter from the kidney to the bladder.2Pain is often accompanied by nausea, vomiting, and malaise; fever and chills may also be present.2Similarity with a previous episode should increase confidence in the diagnosis, although the value of personal or family history during an episode of renal colic is not known. The physical examination should be directed toward excluding differential diagnoses (e.g., urinary tract infection, musculoskeletal inflammation or spasm, ectopic pregnancy, testicular torsion, malignancy;Table 2).2,12–14The initial workup of a patient with suspected kidney stones in the primary care setting should include point-of-care urinalysis to detect blood, because hematuria helps confirm the diagnosis2,5,13,15(Figure 1)."
+        },
+        {
+            "parent": 2,
+            "text": "Pain relief is the priority in the acute management of renal colic.5,13Nonsteroidal anti-inflammatory drugs (e.g., ketorolac, 30 to 60 mg intramuscularly) are more effective and have fewer adverse effects than opioids.5,13,16,17If an opioid is used, meperidine (Demerol) should be avoided because of the significant risk of nausea and vomiting.17,18Neither scopolamine nor increased fluid intake alleviates renal colic.16,19"
+        },
+        {
+            "parent": 2,
+            "text": "Immediate referral to a urologist or emergency department is warranted when medical analgesia is insufficient; when sepsis is suspected; when anuria, bilateral obstruction, urinary tract infection with renal obstruction, or obstruction of the sole functioning kidney are present; in women who are pregnant or have delayed menstruation (because of the risk of ectopic pregnancy); and in patients who have potential comorbidities or are older than 60 years, especially those with arteriopathy (because of the risk of leaking abdominal aortic aneurysm).5,13,14"
+        },
+        {
+            "parent": 3,
+            "text": "When immediate referral is not indicated, urine culture and urinalysis (if not already done) should be ordered to rule out infection, as well as imaging to confirm the diagnosis of kidney stones and assess for hydronephrosis and stone size and position.2,5,13,15Although non–contrast-enhanced computed tomography (CT) of the abdomen and pelvis has superior sensitivity and specificity and is commonly performed in the emergency department,5,20–22first-line ultrasonography has acceptable performance and is more cost-effective.5,13,20Intravenous urography with plain radiography has limited accuracy and is no longer the preferred diagnostic imaging modality for kidney stones.5There is no direct evidence for the optimal timing of diagnostic workup for acute renal colic in the primary care setting. However, a 2002 evidence-based consensus review from the United Kingdom recommended that ultrasonography be performed within one week of symptom onset.13Referral to a urologist for active stone removal is warranted when the stone is larger than 10 mm or if significant hydronephrosis is present.5,13"
+        },
+        {
+            "parent": 4,
+            "text": "Conservative management is indicated if referral is not necessary. Patients should receive pain medication as needed, and follow-up imaging (ultrasonography and possibly plain radiography) should be obtained once within 14 days to monitor evolving stone position and assess for hydronephrosis.5,23Complete urinary obstruction causes irreversible loss of kidney function, but patients with well-controlled pain and no significant degree of hydronephrosis have only partial obstruction and can be followed for about four to six weeks.5,13,23–26If the stone does not pass spontaneously, the patient should be referred to a urologist for active stone removal."
+        },
+        {
+            "parent": 4,
+            "text": "Approximately 86% of kidney stones pass spontaneously; this proportion is lower for stones larger than 6 mm (59% vs. 90% for smaller stones).24Although stones larger than 6 mm in diameter are often removed by urologists,5these are the stones that have greatest benefit from medical expulsive therapy.27Medical expulsive therapy with alpha blockers (e.g., tamsulosin [Flomax], 0.4 mg per day; doxazosin [Cardura], 4 mg per day) hastens and increases the likelihood of stone passage, reduces pain, and prevents surgical interventions and hospital admissions.5,27These medications should be offered to patients with distal ureteral stones 5 to 10 mm in diameter.27Tamsulosin is the most studied medication, but other alpha blockers seem equally effective.27Calcium channel blockers (e.g., nifedipine) are less effective and may be no more effective than placebo.28–30Coadministration of oral corticosteroids or increasing fluid intake does not hasten stone passage or alleviate renal colic.5,19"
+        },
+        {
+            "parent": 5,
+            "text": "Patients with newly diagnosed kidney stones should receive a basic evaluation consisting of a detailed medical history, serum chemistry, and urinalysis/urine culture. Patients at risk of stone recurrence(Table 331andTable 42,32–35)should be referred for additional metabolic testing (e.g., 24-hour urine collection for total volume, pH, and calcium oxalate, uric acid, citrate, sodium, potassium, and creatinine levels) and individualized preventive measures.15,31The medical history should review the stone history (including family history of kidney stones), diet, current medications, and conditions associated with an increased risk of kidney stones.2,15,31–34"
+        },
+        {
+            "parent": 5,
+            "text": "The patient should be instructed to strain his or her urine to catch the stone, then send the stone in a urine specimen cup or a clean, dry container for analysis; non–calcium oxalate stones require additional metabolic testing.15,31Recurrent stones should also be considered for analysis because their composition may differ from the initial stone.15,31When stone analysis is not available, ultrasonography should be ordered to look for renal abnormalities if it was not performed before the stone was passed. Non–contrast-enhanced CT should be considered if residual stone is suspected; this modality may help identify stone composition.31"
+        },
+        {
+            "parent": 5,
+            "text": "Basic laboratory evaluations include creatinine (for renal function), ionized calcium (for hyperparathyroidism), and uric acid (for hyperuricemia); parathyroid hormone should be measured only if the serum calcium level is high.15,31If a stone was not retrieved for analysis, additional tests should be considered: urine pH (for nephrocalcinosis and other metabolic abnormalities), microscopy of sediment from morning urine (for urine crystals that may suggest stone composition), and a test for cystinuria (especially in children because it is an inherited metabolic disorder).31"
+        },
+        {
+            "parent": 7,
+            "text": "Many kidney stones are asymptomatic and found on imaging; each year, 10% to 25% become symptomatic or require intervention.5Conservative management is an option for adults who are healthy, unfit for surgery, or pregnant, and who have access to health care and can adhere to active surveillance (imaging after six months, then annually).5,36The patient should be referred for stone removal if symptoms, obstruction, or recurrent infection develops, or if the stone grows larger.5,36Stone removal should be considered if the patient prefers removal to conservative management; plans to conceive in the near future; has calyceal diverticular stones, stones larger than 10 mm (possibly larger than 4 mm), or renal pathology; or is unsuited for conservative management.36"
+        },
+        {
+            "parent": 8,
+            "text": "Kidney stones are becoming more prevalent in children because of increasing rates of diabetes mellitus, obesity, and hypertension in this population.2–4,9Increasing age is a risk factor for kidney stones; therefore, adolescents are more likely to form stones than younger children.2Children with kidney stones are more likely to have a metabolic, neurologic, or congenital urinary system structural abnormality; to have concomitant urinary infection; and to have recurrent stones.2,3,9,31"
+        },
+        {
+            "parent": 9,
+            "text": "Urinary stasis, increased glomerular filtration rate, and elevated urine pH affect kidney stone formation in pregnant women. Up to 75% of stones in pregnant women are composed of calcium phosphate, in contrast with other adults, in whom calcium oxalate stones are most common.5Diagnostic and treatment options are limited during pregnancy because of risk to the fetus.5Kidney stones may increase the risk of preterm labor and other maternal and fetal complications.37"
+        },
+        {
+            "parent": 10,
+            "text": "Measures to prevent recurrence of kidney stones include lifestyle modifications, citrate supplementation, and medications.2,15,31,38,39Lifestyle modifications are the cornerstone of prevention after a first kidney stone in patients with low risk of recurrence, whereas citrate supplementation and medications are reserved for patients with recurrent stones.15,31,38,39Patients at high risk of stone recurrence should receive preventive measures tailored to the results of the metabolic assessment."
+        },
+        {
+            "parent": 11,
+            "text": "The most important lifestyle modification to prevent recurrent kidney stones is to increase fluid intake to 2.5 to 3 L per day to guarantee diuresis of 2 to 2.5 L per day and a urine specific gravity lower than 1.010.15,31,38–40Fluids should be consumed throughout the day and should consist of beverages with a neutral pH.31Collection of urine over 24 hours may be necessary to ensure that the diuresis target is met. Decreasing intake of carbonated drinks, especially those acidified with phosphoric acid (e.g., colas), further reduces risk of stone recurrence.38,39"
+        },
+        {
+            "parent": 11,
+            "text": "Overall, a balanced diet is ideal for preventing stone recurrence.15,31The diet should be high in fiber and vegetables, with normal calcium content (1.0 to 1.2 g per day) and limited sodium (4 to 5 g per day) and animal protein (0.8 to 1.0 g per kg per day).15,31Patients who are obese or over-weight should pursue a normal body weight through dietary modification and increased physical activity.2,15,31Although there is limited evidence to support lifestyle modifications for the prevention of kidney stone recurrence, these changes are important for preventing comorbidities."
+        },
+        {
+            "parent": 12,
+            "text": "Thiazide diuretics, allopurinol, and citrate supplementation are effective in preventing calcium stones that recur despite lifestyle modification, even in the absence of hyperuricemia, urinary acidosis, hypocitraturia, or hyperuricosuria.15,31,38,39,41The effectiveness of thiazide diuretics has been documented only with high dosages (e.g., hydrochlorothiazide, 50 mg per day; chlorthalidone, 25 to 50 mg per day; indapamide, 2.5 mg per day); lower dosages have fewer adverse effects, but their effectiveness is unknown.38,39"
+        },
+        {
+            "parent": 12,
+            "text": "Allopurinol should be started at 100 mg once per day and increased gradually to 100 mg three times per day.31There is no evidence that combination therapy with thiazide diuretics or alkaline citrates is more effective than monotherapy.15,31,38,39Allopurinol is one of the mainstays of therapy for patients with calcium stones, but most patients with uric acid stones have acidic urine that requires treatment with alkaline citrates.15,31"
+        },
+        {
+            "parent": 12,
+            "text": "Citrate supplementation is used not only for calcium stones, but also for uric acid (urine pH target 6.0 to 7.5 or greater) and cystine stones (urine pH target of 7.0 to 7.5 or greater).15,31The preferred salt for supplementation is potassium citrate at a target dosage of 5 to 12 g per day.15,31,38,41The initial dosage should be 9 g per day, divided into three doses and taken within 30 minutes of meals or a bedtime snack. The most common adverse effects are gastrointestinal symptoms. Potassium citrate supplementation may correct low serum potassium levels caused by thiazide diuretics, but there is no evidence that combination therapy is more effective than monotherapy with either agent.15,31,38,39Sodium citrate is an alternative for citrate supplementation, but the resulting excretion of sodium and calcium may partially counteract the intended effect.15,31,38Unsweetened lemonade is a more palatable and less expensive alternative for citrate supplementation. Although there is no direct evidence of its effectiveness in preventing stone recurrence, the dilution of lemon juice in water should help patients meet the recommended fluid intake.42"
+        },
+        {
+            "parent": 12,
+            "text": "If medication or citrate supplementation is prescribed, serum potassium levels (for patients taking thiazide diuretics or potassium citrate) and liver enzymes (allopurinol) should be monitored to detect potentially serious adverse effects.15Potassium levels should be monitored before prescription, within two weeks of prescription, and then every 12 months (earlier if illness occurs or another medication is added).43There are no recommendations on the frequency of monitoring for hepatotoxicity."
+        },
+        {
+            "parent": 12,
+            "text": "This article updates previous articles on this topic byFrassetto and Kohlstadt2;Pietrow and Karellas12;Goldfarb and Coe44; andPortis and Sundaram.45"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:We searched PubMed (using PubMed Clinical Queries, ACCESSSS, and Essential Evidence Plus), LILACS (using Virtual Health Library), Essential Evidence, and the Cochrane Database of Systematic Reviews (through PubMed, LILACS, Essential Evidence Plus, and the Cochrane Library) using the key terms kidney calculi, ureterolithiasis, urinary calculi, urolithiasis, or nephrolithiasis. Search dates: November 2017 to December 2018."
+        }
+    ],
+    "locked": false
+}

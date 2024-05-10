@@ -1,0 +1,232 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0501/p746.html#afp20160501p746-f8",
+    "title": "Nonoperative Management of Cervical Radiculopathy | AAFP",
+    "author": "MARC A. CHILDRESS, MD, AND BLAIR A. BECKER, MD",
+    "doi": "Am Fam Physician.2016;93(9):746-754",
+    "abstract": "Cervical radiculopathy describes pain in one or both of the upper extremities, often in the setting of neck pain, secondary to compression or irritation of nerve roots in the cervical spine. It can be accompanied by motor, sensory, or reflex deficits and is most prevalent in persons 50 to 54 years of age. Cervical radiculopathy most often stems from degenerative disease in the cervical spine. The most common examination findings are painful neck movements and muscle spasm. Diminished deep tendon reflexes, particularly of the triceps, are the most common neurologic finding. The Spurling test, shoulder abduction test, and upper limb tension test can be used to confirm the diagnosis. Imaging is not required unless there is a history of trauma, persistent symptoms, or red flags for malignancy, myelopathy, or abscess. Electrodiagnostic testing is not needed if the diagnosis is clear, but has clinical utility when peripheral neuropathy of the upper extremity is a likely alternate diagnosis. Patients should be reassured that most cases will resolve regardless of the type of treatment. Nonoperative treatment includes physical therapy involving strengthening, stretching, and potentially traction, as well as nonsteroidal anti-inflammatory drugs, muscle relaxants, and massage. Epidural steroid injections may be helpful but have higher risks of serious complications. In patients with red flag symptoms or persistent symptoms after four to six weeks of treatment, magnetic resonance imaging can identify pathology amenable to epidural steroid injections or surgery.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Anatomy",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "SPONDYLOSIS TYPES",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "DISK HERNIATION TYPES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "PROVOCATIVE MANEUVERS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Other Causes of Cervical Nerve Root Impingement",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Imaging",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "RADIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MRI",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "COMPUTED TOMOGRAPHIC MYELOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Electrodiagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Nonoperative Treatment",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "PHYSICAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "TRACTION",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "SOFT COLLAR",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "MASSAGE",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "ORAL MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "STEROID INJECTION",
+            "level": 3
+        },
+        {
+            "id": 19,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Cervical radiculopathy describes pain in one or both of the upper extremities, often in the setting of neck pain, secondary to compression or irritation of nerve roots in the cervical spine. It can be accompanied by motor, sensory, or reflex deficits.1The annual incidence is 107 per 100,000 men, and 64 per 100,000 women. It is most prevalent in persons 50 to 54 years of age.2"
+        },
+        {
+            "parent": -1,
+            "text": "The underlying pathology is typically degenerative, including spondylosis and disk herniation.2Osteoarthritis in these conditions causes bony hypertrophy, most commonly at the facet joints or uncovertebral joints.3In 22% of cases, nerve compression occurs as a result of disk herniation.2Nerve impingement occurs more rarely with trauma."
+        },
+        {
+            "parent": 0,
+            "text": "The cervical nerve roots exit the spine laterally through neural foramina. Each foramen is bordered by joints that are prone to degenerative arthritis, or spondylosis(Figure 1). Anterior to the foramen is the uncovertebral joint, and posterior to the foramen is the facet joint."
+        },
+        {
+            "parent": 0,
+            "text": "The intervertebral disk lies anterior and medial to the neural foramen, and in the setting of herniation, can protrude onto the exiting nerve root. Trauma can lead to instability that injures the nerve root proximally as well.3"
+        },
+        {
+            "parent": 0,
+            "text": "In a feature unique to the cervical spine, each nerve root from C1 to C7 exits above its corresponding vertebral level. The exception is the C8 nerve root, which exits below the seventh vertebra. The motor portion of the cervical nerves (ventral nerve root) exits the spinal cord anteriorly, whereas the sensory portion (dorsal nerve root) exits posteriorly before forming the dorsal root ganglion and joining the ventral nerve root to form a mixed spinal nerve."
+        },
+        {
+            "parent": 1,
+            "text": "Spondylosis leading to radiculopathy can occur at the uncovertebral and facet joints. The uncovertebral joint's location anterior to the nerve root means that bony hypertrophy here tends to affect the anterior aspect of the nerve root. Conversely, facet joint arthritis affects the posterior aspect of the nerve root. Degenerative loss of disk height and resulting arthritic hypertrophy can also decrease the diameter of the neural foramen and can contribute to nerve root impingement.3"
+        },
+        {
+            "parent": 2,
+            "text": "There are three main types of disk herniation that lead to nerve root impingement(Figure 2). The most common is intraforaminal, which results in predominantly sensory radicular symptoms. The next most common is posterolateral, which results in weakness and potentially muscle atrophy. Rarer midline herniations directly compress the spinal cord and result in symptoms of myelopathy, such as upper extremity numbness, weakness, gait disturbance, ataxia, and urinary incontinence.4"
+        },
+        {
+            "parent": 3,
+            "text": "Radicular pain is the most common symptom in cervical radiculopathy, followed by paresthesia. Weakness is reported by about 15% of patients.2The distribution of numbness should be noted. In most cases, the affected nerve root can be identified by the history and physical examination alone5(Figure 3). Some patients also report pain that radiates to the posterior shoulder and periscapular region, which is relatively nonspecific.3Patients may report worsening of symptoms with neck extension or lateral flexion to the affected side."
+        },
+        {
+            "parent": 3,
+            "text": "The patient should be asked about red flag signs and symptoms of myelopathy, malignancy, and spinal abscess that require immediate workup(Table 1)."
+        },
+        {
+            "parent": 4,
+            "text": "The most common physical examination findings in persons with cervical radiculopathy are painful neck movements and muscle spasm. Diminished deep tendon reflex is the most common objective neurologic finding, with triceps involvement being the most prevalent. Weakness is the next most common finding.2The most common nerve root affected is C7, followed by C6.2,6,7"
+        },
+        {
+            "parent": 4,
+            "text": "Knowledge of cervical myotomes and dermatomes is helpful(Table 28), but radicular pain may manifest outside classic dermatomal borders.4"
+        },
+        {
+            "parent": 5,
+            "text": "The Spurling test is a highly specific7,9–11and sensitive11,12maneuver validated by operative, magnetic resonance imaging (MRI), and electrodiagnostic findings. It involves passively moving the patient's neck into lateral flexion and extension, then applying gentle downward axial compression(Figure 4). The purpose of this maneuver is to constrict the neural foramen; a positive result is the reproduction of radicular symptoms."
+        },
+        {
+            "parent": 5,
+            "text": "The shoulder abduction test is similar in specificity to the Spurling test, based on electrodiagnostic correlation.7The test involves placing the palm of the affected limb on top of the patient's head. A positive result is the relief of radicular symptoms."
+        },
+        {
+            "parent": 5,
+            "text": "The more complicated upper limb tension test is less commonly used, but is the most sensitive test for ruling out cervical radiculopathy7,10,12(Figure 5). The maneuver can be thought of as a cervical nerve tension analog to the straight leg raise test for the lumbar spine. It consists of initially placing the patient in a supine position with the shoulder in a neutral position and the elbow and wrist flexed. The examiner then abducts the shoulder to 90 degrees, extends the elbow and fingers, and extends and supinates the wrist while the patient deviates the neck to the contralateral and then ipsilateral sides. A positive result is reproduction of pain at any step of the maneuver."
+        },
+        {
+            "parent": 5,
+            "text": "There have been reports that the Valsalva maneuver may provoke radicular symptoms, but the sensitivity and specificity of this test are not known.3"
+        },
+        {
+            "parent": 6,
+            "text": "Other causes of nerve root impingement often present with a unique constellation of symptoms(Table 3). Spinal tumors most often cause myelopathy, although osteochondromas and schwannomas can cause radiculopathy. Because these lesions tend to occur within the dura mater, the Valsalva maneuver can exacerbate symptoms. Tumors stemming from thyroid, esophageal, pharyngeal, and lung tissue have been reported to compress individual cervical nerves distal to the neural foramen, as have sarcoidosis and arteriovenous malformations.3"
+        },
+        {
+            "parent": 8,
+            "text": "Although plain radiographs of the cervical spine are useful for ruling out instability(Figure 6), they are relatively nonspecific for diagnosing cervical radiculopathy. About 65% of asymptomatic patients 50 to 59 years of age will have radiographic evidence of significant cervical spine degeneration, regardless of radiculopathy symptoms.13C5 to C6 is the most common level affected, followed closely by C6 to C7. Plain radiography should be ordered if there is a history of trauma, red flags for malignancy, or failure to improve at four to six weeks. The series should include an oblique view, which can sometimes reveal bony hypertrophy at the neural foramina."
+        },
+        {
+            "parent": 9,
+            "text": "MRI is indicated in patients with complex cervical radiculopathy(Figure 7), which is defined by a high suspicion for myelopathy or abscess, persistent or progressive objective neurologic findings, or failure to improve after four to six weeks of conservative treatment.1,14–18MRI is not helpful in most cases of cervical radiculopathy because of its significant rates of false-negative and false-positive findings. About 57% of patients older than 64 years who do not have symptoms of cervical radiculopathy have evidence of disk herniation, and 26% have spinal cord impingement.19"
+        },
+        {
+            "parent": 10,
+            "text": "MRI has mostly supplanted computed tomographic myelography as the first-line imaging modality for complex cervical radiculopathy.14However, computed tomographic myelography remains the test of choice to clarify clinically apparent nerve root impingement in patients with equivocal MRI findings.14,20"
+        },
+        {
+            "parent": 11,
+            "text": "There is insufficient evidence to support the routine use of electrodiagnostic testing in the workup of cervical radiculopathy.1Electromyelography does, however, have clinical utility when peripheral neuropathy of the upper extremity is a likely alternate diagnosis. It can be challenging to differentiate proximal from distal nerve root impingement, but a working knowledge of common peripheral neuropathies is useful(Table 4)."
+        },
+        {
+            "parent": 12,
+            "text": "Most patients with cervical radiculopathy will improve with nonoperative care2,15(Figure 8). However, no treatment modalities are supported by evidence from high-quality studies."
+        },
+        {
+            "parent": 13,
+            "text": "A Cochrane review found low-quality evidence to support cervical, shoulder, scapulothoracic, and upper arm strengthening and stretching in the acute phase for treatment of radicular pain.16,17A randomized controlled trial (RCT) showed significant improvement in patients receiving twice-weekly supervised physical therapy and home physical therapy compared with control patients in the first six weeks of cervical radiculopathy.18Several cohort studies and randomized trials drew similar conclusions.21,22"
+        },
+        {
+            "parent": 14,
+            "text": "Many physical therapy regimens for cervical radiculopathy include mechanical traction. Based on low-quality evidence, several systematic reviews and RCTs have concluded that traction is no better than placebo.23–28A more recent RCT found that 10 sessions of supervised mechanical traction over four weeks, in addition to physical therapy, were superior to physical therapy alone at six and 12 months.29There was also significant improvement at 12 months in a group treated with four weeks of physical therapy and home over-the-door traction. Two other studies reached similar conclusions.30,31"
+        },
+        {
+            "parent": 15,
+            "text": "Although one study found superior gains in function with a semi-hard collar compared with physical therapy and placebo, a systematic review and several RCTs found little improvement in pain with the use of soft and semi-hard collars for cervical radiculopathy.24,27,31"
+        },
+        {
+            "parent": 16,
+            "text": "A Cochrane review of 15 trials that included studies on neck pain with and without radiculopathy found low-quality evidence to support the use of classical, modified strain/counterstrain, and traditional Chinese massages for the improvement of pain and function compared with placebo or education alone.32Further studies are needed to establish the benefit of these treatments."
+        },
+        {
+            "parent": 17,
+            "text": "Nonsteroidal anti-inflammatory drugs and muscle relaxants are often prescribed for treatment of acute cervical radiculopathy. A Cochrane review concluded that there is limited evidence to support the use of these agents in the setting of acute neck pain, but did not specifically address radiculopathy.33A small RCT found that a short course of oral corticosteroids reduced radiculopathy-related pain in the short term.34"
+        },
+        {
+            "parent": 18,
+            "text": "Steroid injection can be considered for patients whose symptoms persist after four to six weeks of conservative management. A 2007 Cochrane review found low-quality evidence to support the use of epidural steroid injections in patients with chronic cervical radiculopathy.35A more recent systematic review found good-quality evidence to support steroid injections for cervical radiculopathy caused by disk herniation, but only fair evidence for radiculopathy caused by spondylosis.36An RCT showed significant benefit in pain and function with epidural steroid injections for at least one year in patients who had not improved with physical therapy and nonsteroidal anti-inflammatory drugs.37Several cohort studies showed significant improvements in recalcitrant radicular pain with epidural steroid injections, in most cases for at least one year.9,35,38–40Patients should be counseled about the risk of potential complications, including dural puncture, meningitis, epidural abscess, and nerve root injury."
+        },
+        {
+            "parent": 19,
+            "text": "Most patients with cervical radiculopathy will improve regardless of treatment modality.2In fact, roughly 88% will improve within four weeks of nonoperative management.15In a retrospective case series, 80% of those with objective weakness or reflex deficit improved within three weeks of conservative management.41Repeat examination at follow-up is crucial. Progression of an objective neurologic finding at any point may signify advancing nerve root compression and should trigger an MRI and referral to a spinal surgeon."
+        },
+        {
+            "parent": 19,
+            "text": "The optimal timing for referral in cases of recalcitrant but nonprogressive radiculopathy is not clear. There is evidence to support referral within four to eight weeks.15,42Radiography and MRI can be considered if there is no improvement at four to six weeks. If imaging reveals evidence of nerve root impingement that correlates with physical examination findings, referral to a spinal surgeon is recommended."
+        },
+        {
+            "parent": 19,
+            "text": "Data Sources: The terms cervical radiculopathy and non operative and cervical radiculopathy were searched through PubMed, Cochrane, Essential Evidence Plus, and the Agency for Healthcare Research and Quality National Guideline Clearinghouse. Search date: October 1, 2015."
+        }
+    ],
+    "locked": false
+}

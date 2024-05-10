@@ -1,0 +1,232 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/0415/p1460.html#afp20060415p1460-f1",
+    "title": "Guidelines Released for Investigation of Potential Contact with Infectious Tuberculosis | AAFP",
+    "author": "CARRIE A. MORANTZ",
+    "doi": "Am Fam Physician.2006;73(8):1460-1471",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Predictive Factors for Tuberculosis Transmission",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "ANATOMIC SITE OF DISEASE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "SPUTUM BACTERIOLOGY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "RADIOGRAPHIC FINDINGS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "BEHAVIORS THAT INCREASE AEROSOLIZATION OF RESPIRATORY SECRETIONS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "AGE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "HIV STATUS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ADMINISTRATION OF EFFECTIVE TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Initiating a Contact Investigation",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Diagnosis and Treatment of Contacts",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "TUBERCULIN SKIN TESTING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Postexposure Tuberculin Skin Testing",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "MEDICAL EVALUATION",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "EVALUATION AND FOLLOW-UP OF SPECIFIC GROUPS OF CONTACTS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "TREATMENT FOR CONTACTS WITH LATENT TUBERCULOSIS INFECTION",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "WINDOW-PERIOD PROPHYLAXIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The Centers for Disease Control and Prevention (CDC) and the National Tuberculosis Controllers Association have released guidelines for investigation of exposure and transmission of tuberculosis and prevention of future infections through contact investigations. The full report was published in the December 16, 2005, issue ofMorbidity and Mortality Weekly Reportand is available online athttp://www.cdc.gov/mmwr/preview/mmwrhtml/rr5415a1.htm."
+        },
+        {
+            "parent": -1,
+            "text": "Studies have confirmed that the extent of disease in the index patient, the duration that the source and the contact are together and their proximity, and local air circulation contribute to transmission of tuberculosis. Multiple observations have demonstrated that the likelihood of disease after an exposure is influenced by medical conditions that impair immunocompetence, and these conditions constitute a critical factor in assigning contact priorities. Other factors of undetermined importance include the infective burden ofMycobacterium tuberculosis, previous exposure and infection, virulence of theM. tuberculosisstrain, and the contact’s intrinsic predisposition for infection or disease."
+        },
+        {
+            "parent": -1,
+            "text": "No safe exposure time to airborneM. tuberculosishas been established. If a single bacterium can initiate an infection leading to disease, then even the briefest exposure entails a theoretic risk. However, public health officials must focus their resources on finding exposed persons who are more likely to be infected. These guidelines establish a standard framework for assembling information and using the findings to inform decisions for contact investigations, but they do not diminish the value of experienced judgment that is required. As a practical matter, these guidelines also take into consideration the scope of resources (primarily personnel) that can be allocated for the work."
+        },
+        {
+            "parent": 1,
+            "text": "With limited exceptions, only patients with pulmonary or laryngeal tuberculosis can transmit their infections. For contact investigations, pleural disease is grouped with pulmonary disease because sputum cultures can yieldM. tuberculosiseven when no lung abnormalities are apparent on radiography. Rarely, extrapulmonary disease causes transmission during medical procedures that release aerosols (e.g., autopsy, embalming, irrigation of a draining abscess)."
+        },
+        {
+            "parent": 2,
+            "text": "Relative infectiousness has been associated with positive sputum culture results and is highest when the smear results are also positive. The significance of results from respiratory specimens other than expectorated sputum (e.g., bronchial washings, bronchoalveolar lavage fluid) is undetermined. Experts recommend that these specimens be regarded as equivalent to sputum."
+        },
+        {
+            "parent": 3,
+            "text": "Patients who have lung cavities observed on chest radiographs typically are more infectious than patients with noncavitary pulmonary disease. This is an independent predictor after bacteriologic findings are taken into account. The importance of small lung cavities that are detectable with computed tomography (CT) but not with plain radiography is undetermined. Less commonly, instances of highly contagious endobronchial. tuberculosis in severely immunocompromised patients who temporarily had normal results on chest radiography have contributed to outbreaks. The frequency and relative importance of such instances are unknown, but in one group of patients with tuberculosis and human immunodeficiency virus (HIV) infection, 3 percent of those who had positive sputum smears had normal chest radiographs at the time of diagnosis."
+        },
+        {
+            "parent": 4,
+            "text": "Cough frequency and severity are not predictive of contagiousness; however, singing is associated with tuberculosis transmission. Sociability of the index patient might contribute to contagiousness because of the increased number of contacts and the intensity of exposure."
+        },
+        {
+            "parent": 5,
+            "text": "Transmission from children younger than 10 years is unusual, although it has been reported in association with the presence of pulmonary forms of disease typically reported in adults. Contact investigations in children should be undertaken only in such unusual circumstances."
+        },
+        {
+            "parent": 6,
+            "text": "Patients with tuberculosis and HIV infection with low CD4+T-cell counts often have chest radiographic findings that are not typical of pulmonary tuberculosis. In particular, these patients are more likely to develop mediastinal adenopathy and are less likely to have upper-lobe infiltrates and cavities than patients with tuberculosis who do not have HIV infection. Atypical radiographic findings increase the potential for delayed diagnosis, which increases transmission. However, patients with HIV infection who have pulmonary or laryngeal tuberculosis are, on average, as contagious as patients with tuberculosis who do not have HIV infection."
+        },
+        {
+            "parent": 7,
+            "text": "That patients with tuberculosis rapidly become less contagious after starting effective chemotherapy has been corroborated by measuring the number of viableM. tuberculosisorganisms in sputum and by observing infection rates in household contacts. However, the exact rate of decrease cannot be predicted for individual patients, and an arbitrary determination is required for each. Guinea pigs exposed to exhaust air from a tuberculosis ward with patients receiving chemotherapy were much more likely to become infected by drug-resistant organisms, which suggests that drug resistance can delay effective bactericidal activity and prolong contagiousness."
+        },
+        {
+            "parent": 8,
+            "text": "Health departments are responsible for conducting tuberculosis contact investigations. A contact investigation should be considered if the index patient has confirmed or suspected pulmonary, laryngeal, or pleural tuberculosis(Figure 1). An investigation is recommended if the sputum smear has acid-fast bacillus (AFB) on microscopy unless the result from an approved nucleic acid amplification test forM. tuberculosisis negative."
+        },
+        {
+            "parent": 8,
+            "text": "If AFB is not detected by microscopy of three sputum smears, an investigation still is recommended if the chest radiograph (i.e., the plain view or a simple tomograph) indicates the presence of cavities in the lung. Parenchymal cavities of limited size that can be detected only by computerized imaging techniques (i.e., CT, axial CT scan, or magnetic resonance imaging of the chest) are not included in this recommendation."
+        },
+        {
+            "parent": 8,
+            "text": "When sputum samples have not been collected, either because of an oversight or as a result of the patient’s inability to expectorate, results from other types of respiratory specimens (e.g., gastric aspirates, bronchoalveolar lavage) may be interpreted in the same way as in the above recommendations. However, whenever feasible, sputum samples should be collected (through sputum induction, if necessary) before initiating chemotherapy."
+        },
+        {
+            "parent": 8,
+            "text": "Contact investigations of persons with AFB smear or culture-positive sputum and cavitary tuberculosis are assigned the highest priority. However, even if these conditions are not present, contact investigations should be considered if chest radiography results are consistent with pulmonary tuberculosis. Whether to initiate other investigations depends on the availability of resources to be allocated and achievement of objectives for higher priority contact investigations. A positive result from an approved nucleic acid amplification test supports a decision to initiate an investigation. Because waiting for a sputum or respiratory culture result delays initiation of contact investigations, delay should be avoided if any contacts are especially vulnerable or susceptible to tuberculosis disease."
+        },
+        {
+            "parent": 8,
+            "text": "Investigations typically should not be initiated for contacts of index patients who have suspected tuberculosis disease and minimal findings in support of a diagnosis of pulmonary tuberculosis. Exceptions can be justified during outbreak investigations, especially when vulnerable or susceptible contacts are identified or during a source-case investigation."
+        },
+        {
+            "parent": 9,
+            "text": "On average, 10 contacts are listed for each person with infectious tuberculosis in the United States. Approximately 20 to 30 percent of all contacts have latent tuberculosis infection, and 1 percent have tuberculosis disease. Of those contacts who ultimately will have tuberculosis disease, approximately one half acquire the disease in the first year after exposure. For this reason, contact investigations constitute a crucial prevention strategy."
+        },
+        {
+            "parent": 9,
+            "text": "Efficiently identifying tuberculosis disease and latent tuberculosis infection requires identifying, locating, and evaluating high- and medium-priority contacts who are most at risk. Because they have legally mandated responsibilities for disease control, health departments should establish systems for comprehensive tuberculosis contact investigations. In certain jurisdictions, legal measures are in place to ensure that evaluation and follow-up of contacts occur. The use of existing communicable disease laws that protect the health of the community (if applicable to contacts) should be considered for contacts who decline examinations, with the least restrictive measures applied first."
+        },
+        {
+            "parent": 9,
+            "text": "In 2002, for the first time, the percentage of patients with tuberculosis who were born outside the United States was greater than 50 percent; this proportion continues to increase. Because immigrants are likely to settle in communities in which persons of similar origin reside, multiple contacts of foreign-born index patients also are foreign born. Contacts who come from countries where both bacille Calmette-Guèrin (BCG) vaccination and tuberculosis are common are more likely than other immigrants to have positive skin test results when they arrive in the United States. They also are more likely to demonstrate the booster phenomenon on a postexposure test. Although valuable in preventing severe forms of disease in young children in countries where tuberculosis is endemic, BCG vaccination provides imperfect protection and causes tuberculin sensitivity in certain recipients for a variable period. Tuberculin skin tests cannot distinguish reactions related to remote infection or BCG vaccination from those caused by recent infection withM. tuberculosis; boosting related to BCG or remote infection compounds the interpretation of positive results."
+        },
+        {
+            "parent": 9,
+            "text": "A positive tuberculin skin test result in a foreign-born or BCG-vaccinated person should be interpreted as evidence of recentM. tuberculosisinfection in contacts of persons with infectious disease. These contacts should be evaluated for tuberculosis disease and offered a course of treatment for latent tuberculosis infection."
+        },
+        {
+            "parent": 10,
+            "text": "All contacts classified as having high or medium priority who do not have a documented previous positive tuberculin skin test result or previous tuberculosis disease should receive a skin test at the initial encounter. If that is not possible, then the test should be administered within seven working days of listing high-priority contacts and within 14 days of listing medium-priority contacts. For interpreting the skin test reaction, an induration transverse diameter of at least 5 mm is positive for any contact."
+        },
+        {
+            "parent": 10,
+            "text": "Serial tuberculin testing programs routinely administer a two-step test at entry into the program. This detects boosting of sensitivity and can avoid misclassifying future positive results as new infections. The two-step procedure typically should not be used for testing contacts; a contact whose second test result is positive after an initial negative result should be classified as recently infected."
+        },
+        {
+            "parent": 11,
+            "text": "Among persons who have been sensitized byM. tuberculosisinfection, the intradermal tuberculin from the skin test can result in a delayed-type (cellular) hypersensitivity reaction. Depending on the source of recommendations, the estimated interval between infection and detectable skin test reactivity (referred to as the window period) is two to 12 weeks. However, reinterpretation of data collected previously indicates that eight weeks is the limit of this window period. Consequently, the National Tuberculosis Controllers Association and the CDC recommend that the window period be decreased to eight to 10 weeks after exposure ends. A negative test result obtained less than eight weeks after exposure is considered unreliable for excluding infection, and a follow-up test at the end of the window period is therefore recommended."
+        },
+        {
+            "parent": 11,
+            "text": "Low-priority contacts have had limited exposure to the index patient and a low probability of recent infection; a positive result from a second skin test among these contacts would more likely represent boosting of sensitivity. A single skin test, probably at the end of the window period, is preferred. However, diagnostic evaluation of any contact who has tuberculosis symptoms should be immediate, regardless of skin test results."
+        },
+        {
+            "parent": 11,
+            "text": "Nonspecific or remote delayed-type hypersensitivity response to tuberculin (purified protein derivative in the skin test) occasionally wanes or disappears over time. Subsequent tuberculin skin tests can restore responsiveness; this is called boosting or the booster phenomenon. For contacts who receive two skin tests, the booster phenomenon can be misinterpreted as evidence of recent infection. This misinterpretation is more likely to occur for foreign-born contacts than it is for those born in the United States."
+        },
+        {
+            "parent": 11,
+            "text": "Skin test conversion refers to a change from a negative to a positive result. To increase the relative certainty that the person has been infected withM. tuberculosisin the interval between tests, the standard U.S. definition for conversion includes a maximum time (two years) between skin tests and a minimum increase (10 mm) in reaction size. With the 5-mm cutoff size used for interpreting any single skin test result obtained in contact investigations, the standard definition for conversion typically is irrelevant. For these guidelines, contacts who have a positive result after a previous negative result are said to have had a change in tuberculin status from negative to positive."
+        },
+        {
+            "parent": 12,
+            "text": "All contacts whose skin test reaction induration diameter is at least 5 mm or who report any symptoms consistent with tuberculosis disease should undergo further examination and diagnostic testing for tuberculosis, typically starting with chest radiography. Collection of specimens for mycobacteriologic testing (e.g., sputum) is decided on a case-by-case basis and is not recommended for healthy contacts with normal chest radiography results. All contacts who are assigned a high priority because of special susceptibility or vulnerability to tuberculosis disease should undergo further examination and diagnostic testing regardless of whether they have a positive skin test result or are ill."
+        },
+        {
+            "parent": 13,
+            "text": "Because children younger than five years are more susceptible to tuberculosis disease and more vulnerable to invasive, fatal forms of tuberculosis disease, they are assigned a high priority as contacts and should receive a full diagnostic medical evaluation, including chest radiography. If an initial skin test induration diameter is less than 5 mm and the interval since last exposure is less than eight weeks, treatment for presumptiveM. tuberculosisinfection (i.e., window prophylaxis) is recommended after tuberculosis disease has been excluded by medical examination. After a second skin test administered eight to 10 weeks postexposure, the decision to treat is reconsidered. If the second test result is negative, treatment should be discontinued and the child, if healthy, should be discharged from medical supervision. If the second result is positive, the full course of treatment for latentM. tuberculosisinfection should be completed."
+        },
+        {
+            "parent": 13,
+            "text": "Contacts with immunocompromising conditions should receive similar care. In addition, even if a tuberculin skin test administered at least eight weeks after the end of exposure yields a negative result, a full course of treatment for latentM. tuberculosisinfection is recommended after a medical evaluation to exclude tuberculosis disease. The decision to administer complete treatment can be modified by other evidence concerning the estimated extent of transmission."
+        },
+        {
+            "parent": 13,
+            "text": "Most other high- or medium-priority contacts who are immunocompetent adults or children five years or older can be tested and evaluated as described inFigure 2. Treatment is recommended for contacts who receive a diagnosis of latentM. tuberculosisinfection."
+        },
+        {
+            "parent": 13,
+            "text": "Evaluation of low-priority contacts is more flexible. The skin test may be delayed until after the window period, thereby negating the need for a second test. Treatment also is recommended for these contacts if they are diagnosed with latentM. tuberculosisinfection."
+        },
+        {
+            "parent": 14,
+            "text": "One of the national health objectives for 2010 is to complete treatment in 85 percent of contacts who have latent tuberculosis infection. However, reported rates of treatment initiation and completion have fallen short of national objectives. To increase these rates, health department tuberculosis control programs must invest in systems for increasing the numbers of infected contacts who are completely treated. These include: (1) focusing resources on the contacts most in need of treatment; (2) monitoring treatment, including that of contacts who receive care outside the health department; and (3) providing directly observed therapy, incentives, and enablers."
+        },
+        {
+            "parent": 14,
+            "text": "Contacts identified as having a positive tuberculin skin test result are regarded as recently infected withM. tuberculosis, which puts them at heightened risk for tuberculosis disease. Moreover, contacts with greater durations or intensities of exposure are more likely to be infected and to have tuberculosis disease if infected. A focus first on high-priority and next on medium-priority contacts is recommended in allocating resources for starting and completing treatment of contacts."
+        },
+        {
+            "parent": 14,
+            "text": "Decisions to treat contacts who have documentation of a previous positive skin test result or tuberculosis disease for presumed latent tuberculosis infection must be individualized because their risk for tuberculosis disease is unknown. Considerations for the decision include previous treatment for latent tuberculosis infection, medical conditions putting the contact at risk for tuberculosis disease, and the duration and intensity of exposure. Treatment of presumed latent tuberculosis infection is recommended for all contacts with HIV infection in this situation (after tuberculosis disease has been excluded), whether they received treatment previously."
+        },
+        {
+            "parent": 15,
+            "text": "Treatment during the window period has been recommended for susceptible and vulnerable contacts to prevent rapidly emerging tuberculosis disease. The evidence for this practice is inferential, but all models and theories support it. Groups of contacts who are likely to benefit from a full treatment course (beyond just window-period treatment) include those with HIV infection, those taking immunosuppressive therapy for organ transplantation, and persons taking tumor necrosis factor-α antagonists. The risks for tuberculosis are less clear for patients who chronically take the equivalent of more than 15 mg per day of prednisone. Once tuberculosis disease has been ruled out, prophylactic treatment of presumedM. tuberculosisinfection is recommended as an option for all these groups. The decision of whether to treat individual contacts who have negative skin test results should take into consideration two factors:"
+        },
+        {
+            "parent": 15,
+            "text": "The frequency, duration, and intensity of exposure (even brief exposure in a confined space to a highly contagious patient with tuberculosis probably warrants the same concern as extended exposure to less contagious patients); andCorroborative evidence of transmission from the index patient (a substantial fraction of contacts having positive skin test results implies contagiousness)."
+        }
+    ],
+    "locked": false
+}

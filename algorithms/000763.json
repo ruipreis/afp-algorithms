@@ -1,0 +1,121 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0301/p1107.html#afp20040301p1107-f3",
+    "title": "An Approach to Interpreting Spirometry | AAFP",
+    "author": "TIMOTHY J. BARREIRO, D.O., AND IRENE PERILLO, M.D.",
+    "doi": "Am Fam Physician.2004;69(5):1107-1115",
+    "abstract": "Spirometry is a powerful tool that can be used to detect, follow, and manage patients with lung disorders. Technology advancements have made spirometry much more reliable and relatively simple to incorporate into a routine office visit. However, interpreting spirometry results can be challenging because the quality of the test is largely dependent on patient effort and cooperation, and the interpreter's knowledge of appropriate reference values. A simplified and stepwise method is key to interpreting spirometry. The first step is determining the validity of the test. Next, the determination of an obstructive or restrictive ventilatory patten is made. If a ventilatory pattern is identified, its severity is graded. In some patients, additional tests such as static lung volumes, diffusing capacity of the lung for carbon monoxide, and bronchodilator challenge testing are needed. These tests can further define lung processes but require more sophisticated equipment and expertise available only in a pulmonary function laboratory.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Background",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Spirometry Measurements and Terminology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Indications for Office Spirometry",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Interpreting Spirometry Results",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Chronic obstructive pulmonary disease (COPD) is the most common respiratory disease and the fourth leading cause of death in the United States.1Despite preventive efforts, the number of new patients with COPD has doubled in the past decade, and this trend is likely to continue.2,3Evidence indicates that a patient's history and physical examination are inadequate for diagnosing mild and moderate obstructive ventilatory impairments.4Although a complete pulmonary function test provides the most accurate objective assessment of lung impairment, spirometry is the preferred test for the diagnosis of COPD because it can obtain adequate information in a cost-effective manner."
+        },
+        {
+            "parent": -1,
+            "text": "A great deal of information can be obtained from a spirometry test; however, the results must be correlated carefully with clinical and roentgenographic data for optimal clinical application. This article reviews the indications for use of spirometry, provides a stepwise approach to its interpretation, and indicates when additional tests are warranted."
+        },
+        {
+            "parent": 0,
+            "text": "The National Health Survey of 1988 to 1994 found high rates of undiagnosed and untreated COPD in current and former smokers.5Population-based studies have identified vital capacity (VC) as a powerful prognostic indicator in patients with COPD. The Framingham study identified a low forced vital capacity (FVC) as a risk factor for premature death.6The Third National Health and Nutritional Examination Survey and the multicenter Lung Health Study showed potential benefits for patients with early identification, intervention, and treatment of COPD.7,8The Lung Health Study was the first study to show that early identification and intervention in smokers could affect the natural history of COPD.7These surveys also showed that simple spirometry could detect mild airflow obstruction, even in asymptomatic patients."
+        },
+        {
+            "parent": 0,
+            "text": "Increased public awareness of COPD led to the formation of the National Lung Health Education Program (NLHEP) as part of a national strategy to combat chronic lung disease.9The World Health Organization and the U.S. National Heart, Lung, and Blood Institute recently published the Global Initiative for Chronic Obstructive Lung Disease to increase awareness of the global burden of COPD and to provide comprehensive treatment guidelines aimed at decreasing COPD-related morbidity and mortality.10"
+        },
+        {
+            "parent": 1,
+            "text": "Spirometry measures the rate at which the lung changes volume during forced breathing maneuvers. Spirometry begins with a full inhalation, followed by a forced expiration that rapidly empties the lungs. Expiration is continued for as long as possible or until a plateau in exhaled volume is reached. These efforts are recorded and graphed. (A glossary of terms used in this article can be found inTable 1.)"
+        },
+        {
+            "parent": 1,
+            "text": "Lung function is physiologically divided into four volumes: expiratory reserve volume, inspiratory reserve volume, residual volume, and tidal volume. Together, the four lung volumes equal the total lung capacity (TLC). Lung volumes and their combinations measure various lung capacities such as functional residual capacity (FRC), inspiratory capacity, and VC.Figure 111shows the different volumes and capacities of the lung."
+        },
+        {
+            "parent": 1,
+            "text": "The most important spirometric maneuver is the FVC. To measure FVC, the patient inhales maximally, then exhales as rapidly and as completely as possible. Normal lungs generally can empty more than 80 percent of their volume in six seconds or less. The forced expiratory volume in one second (FEV1) is the volume of air exhaled in the first second of the FVC maneuver. The FEV1/FVC ratio is expressed as a percentage (e.g., FEV1of 0.5 L divided by FVC of 2.0 L gives an FEV1/FVC ratio of 25 percent). The absolute ratio is the value used in interpretation, not the percent predicted."
+        },
+        {
+            "parent": 1,
+            "text": "Some portable office spirometers replace the FVC with the FEV6for greater patient and technician ease. The parameter is based on a six-second maneuver, which incorporates a standard time frame to decrease patient variability and the risk of complications. One of the pitfalls of using this type of spirometer is that it must be calibrated for temperature and water vapor. It should be used with caution in patients with advanced COPD because of its inability to detect very low volumes or flows. However, the FEV1/FEV6ratio provides accurate surrogate measure for the FEV1/FVC ratio.12The reported FEV1and FEV6values should be rounded to the nearest 0.1 L and the percent predicted and the FEV1/FEV6ratio to the nearest integer.13"
+        },
+        {
+            "parent": 1,
+            "text": "Different spirographic and flow volume curves are shown inFigure 2.11It is important to understand that the amount exhaled during the first second is a constant fraction of the FVC, regardless of lung size. The significance of the FEV1/FVC ratio is twofold. It quickly identifies patients with airway obstruction in whom the FVC is reduced, and it identifies the cause of a low FEV1. Normal spirometric parameters are shown inTable 2.14"
+        },
+        {
+            "parent": 2,
+            "text": "Spirometry is designed to identify and quantify functional abnormalities of the respiratory system. The NLHEP recommends that primary care physicians perform spirometry in patients 45 years of age or older who are current or former smokers; in patients who have a prolonged or progressive cough or sputum production; or in patients who have a history of exposure to lung irritants.9Other indications for spirometry are to determine the strength and function of the chest, follow disease progression,15,16assess response to treatment,17,18and obtain baseline measurements before prescribing drugs that are potentially toxic to the lungs, such as amiodarone (Cordarone) and bleomycin (Blenoxane).19Spirometry also is helpful in preoperative risk assessment for many surgeries20–23and often is used in workers' compensation and disability claims to assess occupational exposure to inhalation hazards.24Tables 3and4list indications and contraindications for spirometry."
+        },
+        {
+            "parent": 3,
+            "text": "Spirometry requires considerable patient effort and cooperation. Therefore, results must be assessed for validity before they can be interpreted.17,25Inadequate patient effort can lead to misdiagnosis and inappropriate treatment. An algorithm for interpreting spirometry results is given inFigure 3."
+        },
+        {
+            "parent": 3,
+            "text": "The clinical context of the test is important because parameters in patients with mild disease can overlap with values in healthy persons.26Normal spirometry values may vary, and interpretation of results relies on the parameters used. The normal ranges for spirometry values vary depending on the patient's height, weight, age, sex, and racial or ethnic background.27,28Predicted values for lung volumes may be inaccurate in very tall patients or patients with missing lower extremities. FEV1 and FVC are greater in whites compared with blacks and Asians. FVC and VC values vary with the position of the patient. These variables can be 7 to 8 percent greater in patients who are sitting during the test compared with patients who are supine. FVC is about 2 percent greater in patients who are standing compared with patients who are supine."
+        },
+        {
+            "parent": 3,
+            "text": "To determine the validity of spirometric results, at least three acceptable spirograms must be obtained. In each test, patients should exhale for at least six seconds and stop when there is no volume change for one second. The test session is finished when the difference between the two largest FVC measurements and between the two largest FEV1measurements is within 0.2 L. If both criteria are not met after three maneuvers, the test should not be interpreted. Repeat testing should continue until the criteria are met or until eight tests have been performed.26"
+        },
+        {
+            "parent": 3,
+            "text": "Figure 425shows normal flow-volume and time-volume curves. Notice that the lines of the flow-volume curve are free of glitches and irregularities. The volume-time curve extends longer than six seconds, and there are no signs of early termination or cutoff."
+        },
+        {
+            "parent": 3,
+            "text": "If the test is valid, the second step is to determine whether an obstructive or restrictive ventilatory pattern is present. When the FVC and FEV1are decreased, the distinction between an obstructive and restrictive ventilatory pattern depends on the absolute FEV1/FVC ratio. If the absolute FEV1/FVC ratio is normal or increased, a restrictive ventilatory impairment may be present. However, to make a definitive diagnosis of restrictive lung disease, the patient should be referred to a pulmonary laboratory for static lung volumes. If the TLC is less than 80 percent, the pattern is restrictive, and diseases such as pleural effusion, pneumonia, pulmonary fibrosis, and congestive heart failure should be considered."
+        },
+        {
+            "parent": 3,
+            "text": "A reduced FEV1and absolute FEV1/FVC ratio indicates an obstructive ventilatory pattern, and bronchodilator challenge testing is recommended to detect patients with reversible airway obstruction (e.g., asthma). A bronchodilator is given, and spirometry is repeated after several minutes. The test is positive if the FEV1increases by at least 12 percent and the FVC increases by at least 200 mL. The patient should not use any bronchodilator for at least 48 hours before the test. A negative bronchodilator response does not completely exclude the diagnosis of asthma."
+        },
+        {
+            "parent": 3,
+            "text": "The mid-expiratory flow rate (FEF25–75%) is the average forced expiratory flow rate over the middle 50 percent of the FVC. It can help in the diagnosis of an obstructive ventilatory pattern. Because it is dependent on FVC, the FEF25–75%is highly variable. In the correct clinical situation, a reduction in FEF25–75%of less than 60 percent of that predicted and an FEV1/FVC ratio in the low to normal range may confirm airway obstruction.29"
+        },
+        {
+            "parent": 3,
+            "text": "The maximal voluntary ventilation (MVV) maneuver is another test that can be used to confirm obstructive and restrictive conditions. The patient is instructed to breathe as hard and fast as possible for 12 seconds. The result is extrapolated to 60 seconds and reported in liters per minute. MVV generally is approximately equal to the FEV1× 40. A low MVV can occur in obstructive disease but is more common in restrictive conditions. If the MVV is low but FEV1 and FVC are normal, poor patient effort, a neuromuscular disorder, or major airway lesion must be considered."
+        },
+        {
+            "parent": 3,
+            "text": "Once the ventilatory pattern is identified, the severity of the disease must be determined. The American Thoracic Society has developed a scale to rate the severity of disease based on predicted FEV1and TLC.29"
+        },
+        {
+            "parent": 3,
+            "text": "The final step in interpreting spirometry is to determine if additional testing is needed to further define the abnormality detected by spirometry. Measurement of static lung volumes, including FRC, is required to make a definitive diagnosis of restrictive lung disease."
+        },
+        {
+            "parent": 4,
+            "text": "Basic spirometry can be performed in the family physician's office with relative ease and inexpensive equipment. In most cases, office spirometry provides an adequate assessment of pulmonary function. In addition, spirometry may be used to address major issues in clinical management and health screening."
+        }
+    ],
+    "locked": false
+}

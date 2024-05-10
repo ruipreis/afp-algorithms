@@ -1,0 +1,171 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/1215/p1058.html#afp20151215p1058-f1",
+    "title": "Nonpharmacologic Management of Chronic Insomnia | AAFP",
+    "author": "DAVID L. MANESS, DO, MSS, AND MUNEEZA KHAN, MD",
+    "doi": "Am Fam Physician.2015;92(12):1058-1064",
+    "abstract": "Insomnia affects 10% to 30% of the population with a total cost of $92.5 to $107.5 billion annually. Short-term, chronic, and other types of insomnia are the three major categories according to theInternational Classification of Sleep Disorders, 3rd ed. The criteria for diagnosis are difficulty falling asleep, difficulty staying asleep, or early awakening despite the opportunity for sleep; symptoms must be associated with impaired daytime functioning and occur at least three times per week for at least one month. Factors associated with the onset of insomnia include a personal or family history of insomnia, easy arousability, poor self-reported health, and chronic pain. Insomnia is more common in women, especially following menopause and during late pregnancy, and in older adults. A comprehensive sleep history can confirm the diagnosis. Psychiatric and medical problems, medication use, and substance abuse should be ruled out as contributing factors. Treatment of comorbid conditions alone may not resolve insomnia. Patients with movement disorders (e.g., restless legs syndrome, periodic limb movement disorder), circadian rhythm disorders, or breathing disorders (e.g., obstructive sleep apnea) must be identified and treated appropriately. Chronic insomnia is associated with cognitive difficulties, anxiety and depression, poor work performance, decreased quality of life, and increased risk of cardiovascular disease and all-cause mortality. Insomnia can be treated with nonpharmacologic and pharmacologic therapies. Nonpharmacologic therapies include sleep hygiene, cognitive behavior therapy, relaxation therapy, multicomponent therapy, and paradoxical intention. Referral to a sleep specialist may be considered for refractory cases.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Comorbidities and Associated Conditions",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evaluation of Insomnia",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Nonpharmacologic (Behavioral) Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "SLEEP HYGIENE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "STIMULUS CONTROL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TEMPORAL CONTROL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "SLEEP RESTRICTION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CBT-I",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MULTICOMPONENT THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "PARADOXICAL INTENTION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Lifestyle and Complementary Approaches",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "TheInternational Classification of Sleep Disorders, 3rd ed., (ICSD-3) defines insomnia as difficulty falling asleep, difficulty staying asleep, or early awakening despite the opportunity for sleep that is associated with impaired daytime functioning and occurs at least three times per week for at least one month.1The full ICSD-3 criteria are included inTable 1.1,2Short-term, chronic, and other types of insomnia are the three major categories according to the ICSD-3. Insomnia can be acute (lasting up to three months) or chronic (lasting at least three months). Based on the severity of the disorder, all the criteria do not have to be met to begin therapy.1"
+        },
+        {
+            "parent": -1,
+            "text": "Although the combination of stimulus control and sleep restriction therapy leads to a similar treatment response compared with either therapy alone, multicomponent therapy is associated with higher remission rates (absence of insomnia posttreatment)."
+        },
+        {
+            "parent": -1,
+            "text": "Insomnia affects 10% to 30% of the U.S. population with a total estimated cost of $92.5 to $107.5 billion annually.2–5The condition is most common in women, especially following menopause and during late pregnancy, and in older adults.6A personal or family history of insomnia, chronic pain, easy arousability, and poor self-reported health are risk factors associated with the onset of insomnia."
+        },
+        {
+            "parent": -1,
+            "text": "Chronic insomnia can cause cognitive difficulties (e.g., problems with memory, attention, and concentration; confusion), anxiety and depression, poor quality of life, risk of suicide, substance use relapse, possible immune dysfunction, and increased risk of cardiovascular disease (e.g., hypertension, myocardial infarction, diabetes mellitus) and all-cause mortality.7–10Excessive daytime sleepiness can lead to diminished work performance, increased absenteeism, motor vehicle crashes, accidents at work, fewer promotions, increased accidents and falls in older persons, and other health-related problems.2,11,12"
+        },
+        {
+            "parent": 0,
+            "text": "Insomnia can occur alone or as a symptom complex associated with a comorbid condition (e.g., medical illness; psychiatric conditions, such as posttraumatic stress disorder; substance abuse). Patients with movement disorders (e.g., restless legs syndrome, periodic limb movement disorder), circadian rhythm disorders, or breathing disorders (e.g., obstructive sleep apnea) may present with insomnia; therefore, these conditions should be identified and treated.1,13Treatment of these conditions alone may not resolve the insomnia.14Pulmonary disease, chronic pain, heart failure, gastroesophageal reflux, and prostate problems are the medical conditions most commonly associated with insomnia.15Insomnia can also be caused by the use of illicit drugs, tobacco, alcohol, and some medications.15,16"
+        },
+        {
+            "parent": 0,
+            "text": "Table 2lists common comorbidities and conditions associated with insomnia.1,13–16"
+        },
+        {
+            "parent": 0,
+            "text": "Insomnia is a strong predictor for the development of depression, anxiety, and drug or alcohol abuse.17It is also highly predictive of relapse for depression and alcohol dependence. There is a bidirectional relationship between insomnia and depression and anxiety.18Depression improves more rapidly in patients with insomnia when both of the conditions are treated concomitantly.19"
+        },
+        {
+            "parent": 1,
+            "text": "Case: A 30-year-old woman presents to her primary care physician with insomnia that she has had for the past month. It is associated with fatigue and affects her work performance. She is anxious because she has gained a significant amount of weight. She has two young children and recently separated from her husband. She is treated for depression, advised to keep a sleep diary, and asked to return to the office in two weeks."
+        },
+        {
+            "parent": 1,
+            "text": "Insomnia is a clinical diagnosis; therefore, in addition to a medical and psychological history, a detailed sleep history should be obtained from the patient, the patient's partner, or a family member.16The sleep history includes the timing of insomnia, daytime effects and symptoms, sleep schedule, sleep environment, and sleep habits to identify symptoms of other sleep disorders (e.g., kicking during the night may suggest periodic limb movement disorder). Predisposing, precipitating, and perpetuating factors for insomnia(Table 320)should be explored, as well as any prior treatments.7,16,20–22Physical examination findings may offer clues to underlying disorders (e.g., a large neck in patients with obstructive sleep apnea). Additional testing, such as neuroimaging, actigraphy (measures cycles of activity and rest), or polysomnography, may be indicated for further evaluation of a suspected sleep or movement disorder, but is not part of the routine evaluation for insomnia.16Underlying problems must be appropriately treated, followed by reevaluation for symptom improvement."
+        },
+        {
+            "parent": 1,
+            "text": "A two-week sleep diary(Table 423)provides information regarding the patient's activities and bedtime routine, sleep quality, daytime symptoms, and use of causative substances. Information gained from the sleep diary can confirm insomnia and allows the physician to provide specific behavioral guidance. The sleep diary should be used before and during treatment or relapse because it is beneficial for reevaluation and in guiding further treatment. The ultimate treatment goal is to qualitatively and quantitatively improve sleep, decrease related distress, and improve daytime functioning.16"
+        },
+        {
+            "parent": 2,
+            "text": "Case continued: Upon follow-up, the primary care physician reviews several factors from the sleep diary that may be contributing to insomnia. He initiates nonpharmacologic measures in addition to ongoing medical treatment for depression. The patient is advised to continue maintaining a sleep diary and is counseled on sleep hygiene techniques, stimulus control, and sleep restriction therapy. She receives informational pamphlets and is advised to follow up in two weeks."
+        },
+        {
+            "parent": 2,
+            "text": "Behavioral interventions are effective and recommended as an initial approach to the treatment of chronic insomnia based on randomized controlled studies.16,24,25Treatment of insomnia should include at least one behavioral intervention.16,24The various approaches may overlap. If an initial behavioral intervention is ineffective, then cognitive behavior therapy for insomnia (CBT-I) or other therapies may be added.Table 5summarizes the nonpharmacologic options for insomnia.16,24,26–28Although behavioral interventions can be used by family physicians in the office setting, they are not commonly practiced. Barriers include lack of awareness, training, time, and reimbursement.9Subspecialist referral is indicated if the diagnosis is in doubt; there is no response to therapy; further testing for a comorbid condition, sleep disorder, circadian rhythm disturbance, or movement disorder is warranted; or formal CBT-I is necessary.29"
+        },
+        {
+            "parent": 2,
+            "text": "Figure 1is an algorithm for the management of insomnia.16"
+        },
+        {
+            "parent": 3,
+            "text": "Sleep hygiene is recommended as an initial intervention for all adults with insomnia so that personal habits and environmental factors that negatively impact sleep can be identified and corrected.26Patients should be advised to exercise regularly (not within four hours of bedtime); avoid large meals and limit fluid intake in the evenings; limit caffeine, tobacco, and alcohol intake four to six hours before bedtime; use the bedroom for sleep and sex only; maintain a regular sleep-wake cycle without daytime napping; and avoid negative stimuli at bedtime, such as loud noises, bright lights when not being used therapeutically, and extreme temperature variations.4,24,30The effectiveness of sleep hygiene as a single therapy is unclear, but it is superior to placebo.4,16,24,26"
+        },
+        {
+            "parent": 4,
+            "text": "Stimulus control therapy helps to establish a regular sleep-wake cycle and associate the bedroom with sleep. Specific recommendations include the following: lie down to sleep only when feeling sleepy, use the bedroom for sleep and sex only, do not watch television or eat in bed, leave the bed if unable to fall asleep within 20 minutes and return when sleepy, do not take daytime naps, and set the alarm for the same time every morning regardless of how much sleep occurs during the night so that a regular sleep cycle can be established.4,24,30"
+        },
+        {
+            "parent": 5,
+            "text": "Temporal control therapy also focuses on reestablishing a constant sleep-wake cycle.30The patient is instructed to wake up at the same time daily, regardless of how much he or she slept during the night, and to avoid daytime naps.4"
+        },
+        {
+            "parent": 6,
+            "text": "Sleep restriction therapy may be beneficial for patients who spend excessive amounts of time in bed trying to fall asleep. The patient is advised to limit time in bed to the number of hours he or she actually spends sleeping (e.g., six hours out of eight hours total). This time should not be less than five hours. As sleep efficiency improves, sleep time is gradually increased so that the patient is asleep most of the time he or she is in bed. There is a risk of excessive daytime sleepiness with this approach.4,16,26"
+        },
+        {
+            "parent": 7,
+            "text": "CBT-I significantly improves chronic insomnia and daytime functioning for up to two years.9,10,16,25It is recommended as first-line therapy in older adults and chronic hypnotic users.9,26A double-blind, randomized, placebo-controlled trial showed that CBT-I is significantly superior to zopiclone (not available in the United States) for the short- and long-term treatment of chronic insomnia in older patients.31Multiple randomized controlled trials noted improved mood and long-term sleep quality in patients with cancer who are undergoing CBT-I.27"
+        },
+        {
+            "parent": 7,
+            "text": "CBT-I is a combination of cognitive therapy, stimulus control therapy, and sleep restriction therapy with or without the incorporation of relaxation therapy. Cognitive therapy involves counseling and the patient writing down daily thoughts in a journal or diary. Writing down troubling thoughts and worries before bedtime may help to transfer those thoughts to paper and clear the mind, making it easier to fall asleep. The goal is to change the patient's misconceptions, beliefs, and attitudes that hinder sleep. There is insufficient evidence to recommend cognitive therapy as a single modality.24The behavioral portion of CBT-I incorporates stimulus control and sleep restriction with or without relaxation therapy.5Relaxation training uses techniques such as hypnosis, meditation, yoga, abdominal breathing, and progressive muscle relaxation to reduce somatic tension and anxious thoughts so that the patient can better cope with daily stressors and fall asleep faster. Autogenic and imagery training help the patient to focus on pleasant and calming images with comforting bodily perceptions, such as warmth and heaviness of the limbs. There are few data on imagery training alone or as combination therapy.24Visual and auditory biofeedback therapy reduce somatic arousal by controlling physiologic factors such as muscle tension."
+        },
+        {
+            "parent": 7,
+            "text": "Although CBT-I involves several sessions, an abbreviated two-session program proved more effective compared with generic sleep hygiene recommendations in a single-blind randomized study.28The program consists of two 25-minute sessions spaced two weeks apart. The patient's sleep diary is the foundation of the program and is used to facilitate discussions regarding sleep hygiene, sleep restriction, and stimulus control, and to identify problem areas. The patient receives psychoeducation and a packet of materials to review between sessions.28"
+        },
+        {
+            "parent": 7,
+            "text": "Behavioral health consultants and trained, supervised nurses have been shown to deliver effective CBT-I sessions in the office setting.10,28,32,33Self-help programs using manuals and online-based audio recordings or videos incorporate methods such as stimulus control, cognitive therapy, sleep restriction, sleep hygiene, and relaxation training.5,34Stepwise, team-based approaches have been proposed for office use.5,10,35Lower-intensity interventions, such as sleep hygiene, are initiated then gradually become more intensive in refractory cases.5,35Another approach initially starts with self-help techniques then gradually moves to a single session consultation, group treatment, and finally individual treatment; the first three steps can occur in the primary care setting, with individual treatment requiring a subspecialist referral.35"
+        },
+        {
+            "parent": 8,
+            "text": "Multicomponent therapy combines stimulus control, relaxation training, and/or sleep hygiene education.24,36A randomized controlled study involving older adults concluded that single therapies such as stimulus control therapy and sleep restriction therapy are as effective as multicomponent therapy. However, multicomponent therapy had higher remission rates and thus may be preferred over single component therapy.36"
+        },
+        {
+            "parent": 9,
+            "text": "Paradoxical intention is a cognitive method in which patients are taught to confront their fear of staying awake and reduce associated anxiety by accepting the state of quiet wakefulness until the onset of sleep.24"
+        },
+        {
+            "parent": 10,
+            "text": "Lifestyle and complementary approaches have had some benefit. Regular moderate-intensity exercise improves the quality of sleep in older patients.16,37A randomized controlled study concluded that tai chi and low-impact aerobic exercise reduce daytime sleepiness and improve sleep quality in older adults with moderate sleep problems.26,38Yoga, acupuncture, and acupressure, especially auricular therapy, have some benefit in improving sleep quality in older adults.26Massage therapy is beneficial in hospitalized older patients but has unclear benefits in the general older population.26Bright light therapy is beneficial and may be used to restore the normal circadian rhythm by providing timed exposure to a bright light source, which helps to delay sleep.26A study demonstrated that just two four-hour evening sessions of exposure to bright light can improve early-morning awakenings for up to one month following the treatment.39"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources: An online search was conducted using the key terms insomnia, acute and chronic insomnia, pharmacologic and nonpharmacologic treatment of insomnia, depression, anxiety, comorbid conditions, and medications. Initially, a broad overview of the topic was done on national websites such as National Sleep Foundation, National Guideline Clearinghouse, and Centers for Disease Control and Prevention. The search was then refined to identify major resources using the following databases: National Guideline Clearinghouse, PubMed, the Cochrane database, OVID, Essential Evidence Plus, USPSTF recommendation databases, and Agency for Healthcare Research and Quality evidence reports. Search dates: November 2014 to July 2015."
+        },
+        {
+            "parent": 10,
+            "text": "This review updates aprevious articleon this topic by Hardosa and Kessmann.40"
+        }
+    ],
+    "locked": false
+}

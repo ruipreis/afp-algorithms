@@ -1,0 +1,169 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/1215/p732.html#afp20201215p732-f1",
+    "title": "Peripheral Neuropathy: Evaluation and Differential Diagnosis | AAFP",
+    "author": "GREGORY CASTELLI, PharmD, BCPS, BC-ADM, KRISHNA M. DESAI, MD, AND REBECCA E. CANTONE, MD",
+    "doi": "Am Fam Physician.2020;102(12):732-739",
+    "abstract": "Peripheral neuropathy, a common neurologic problem encountered by family physicians, can be classified clinically by the anatomic pattern of presenting symptoms and, if indicated, by results of electrodiagnostic studies for axonal and demyelinating disease. The prevalence of peripheral neuropathy in the general population ranges from 1% to 7%, with higher rates among those older than 50 years. Common identifiable causes include diabetes mellitus, nerve compression or injury, alcohol use, toxin exposure, hereditary diseases, and nutritional deficiencies. Peripheral neuropathy is idiopathic in 25% to 46% of cases. Diagnosis requires a comprehensive history, physical examination, and judicious laboratory testing. Early peripheral neuropathy may present as sensory alterations that are often progressive, including sensory loss, numbness, pain, or burning sensations in a “stocking and glove” distribution of the extremities. Later stages may involve proximal numbness, distal weakness, or atrophy. Physical examination should include a comprehensive neurologic and musculoskeletal evaluation. If the peripheral nervous system is identified as the likely source of the patient's symptoms, evaluation for potential underlying etiologies should initially focus on treatable causes. Initial laboratory evaluation includes a complete blood count; a comprehensive metabolic profile; fasting blood glucose, vitamin B12, and thyroid-stimulating hormone levels; and serum protein electrophoresis with immunofixation. If the initial evaluation is inconclusive, referral to a neurologist for additional testing (e.g., electrodiagnostic studies, specific antibody assays, nerve biopsy) should be considered. Treatment of peripheral neuropathy focuses on managing the underlying etiology. Several classes of medications, including gabapentinoids and antidepressants, can help alleviate neuropathic pain.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Laboratory Testing",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Electrodiagnostic Studies and Imaging",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Indications for Referral",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Procedural Studies",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Principles of Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Peripheral neuropathy is one of the most common neurologic problems encountered by family physicians.1,2Peripheral neuropathy can be classified clinically by the anatomic pattern of presenting symptoms and, if indicated, by results of electrodiagnostic studies for axonal and demyelinating disease.2,3Peripheral nerves consist of motor, sensory, and autonomic nerve fibers. It is important to differentiate peripheral neuropathy from other disorders with similar presentations and to identify and address potential causes."
+        },
+        {
+            "parent": 0,
+            "text": "The prevalence of peripheral neuropathy in the general population ranges from 1% to 7%, with higher rates among those older than 50 years.4,5The most common identifiable causes of peripheral neuropathy include diabetes mellitus, nerve compression or injury, alcohol use, toxin exposure, hereditary diseases, and nutritional deficiencies."
+        },
+        {
+            "parent": 0,
+            "text": "Peripheral neuropathy affects 25% to 50% of patients with diabetes, depending on factors such as the patient's age, number of years with diabetes, and level of diabetes control.6,7Peripheral neuropathy is idiopathic in 25% to 46% of cases, and this is more common with increasing patient age.8,9"
+        },
+        {
+            "parent": 1,
+            "text": "The pathophysiology of peripheral neuropathy results from injury to small- or large-diameter nerve fibers. Damage can occur to the cell body, axon, myelin sheath, or a combination of these, leading to symptoms such as numbness, tingling, pain, and weakness.3,10Large nerve fibers mediate motor, sensory, vibration, and proprioception functions. Small nerve fibers mediate pain, temperature, and autonomic functions.1"
+        },
+        {
+            "parent": 1,
+            "text": "A systematic approach should be used to evaluate and manage patients with symptoms of peripheral neuropathy(Figure 1).11Distinguishing peripheral neuropathy from central nervous system (CNS) and other pathology is an important first step. CNS lesions should be suspected in patients with speech disturbance, ataxia, visual disturbance, cranial nerve involvement, or bowel and bladder incontinence. Evaluation for nerve compression, radiculopathy, or peripheral nerve root lesions should be considered in patients with symptoms that are asymmetrical; follow a dermatomal pattern; or are associated with numbness, imbalance, falls, ataxia, and paresthesias."
+        },
+        {
+            "parent": 1,
+            "text": "If peripheral neuropathy is suspected, a differential diagnosis should be formulated through a history and physical examination.12The anatomic distribution of peripheral neuropathy symptoms can be categorized as focal, multifocal, or symmetrical(Table 113). Symmetrical peripheral neuropathy can be further classified as distal or proximal. Less common patterns of peripheral neuropathy involve the cranial nerves, autonomic nerves, and nerves of the upper extremities."
+        },
+        {
+            "parent": 2,
+            "text": "A detailed history of symptoms is essential. Symptom onset and timing may be most helpful in narrowing the differential diagnosis. Location and distribution help distinguish focal, multifocal, and symmetrical patterns. Aggravating and remitting factors can be clues to exogenous causes, and a complete review of systems should be performed to evaluate for autonomic and vasomotor symptoms."
+        },
+        {
+            "parent": 2,
+            "text": "Early peripheral neuropathy may present as sensory alterations that are often progressive, including sensory loss, numbness, pain, or burning sensations in a “stocking and glove” distribution of the extremities.3Later stages may involve proximal numbness, distal weakness, or atrophy.3One-third of patients with peripheral neuropathy have neuropathic pain.1Other common presenting symptoms include a stabbing or electric shock sensation, allodynia, hyperalgesia, and hyperesthesia.1,4,13,14Patients may also report autonomic symptoms such as orthostatic intolerance, gastroparesis, changes in bowel and bladder function, erectile dysfunction, and blurry vision, or vasomotor symptoms such as dryness of the eyes, mouth, or skin, and burning or flushing.1"
+        },
+        {
+            "parent": 2,
+            "text": "The history should also include toxin and medication exposures(Table 2); illnesses that can cause neuropathy, such as Lyme disease or HIV; trauma; family history of neurologic diseases or skeletal deformities; and recent travel.3,10,15Recent travel could reveal compressive neuropathies or exposure to toxins or infections. Because vaccination against diseases such as influenza, meningococcus, shingles, and rabies rarely causes Guillain-Barré syndrome and associated neuropathy, immunization status should be reviewed as part of a thorough history. A history of childhood clumsiness, high arches, or difficulty with shoe fitting may suggest a hereditary neuropathy.1These inherited diseases warrant specialist referral.16"
+        },
+        {
+            "parent": 2,
+            "text": "A review of systems can identify weight loss associated with infections or malignancies, swallowing dysfunction, dysautonomia suggesting CNS involvement, skin and joint changes suggesting rheumatoid arthritis or other autoimmune disease, anemia consistent with conditions such as chronic kidney disease or vitamin B12deficiency, and symptoms of an underlying endocrinopathy or an autoimmune process.10,16"
+        },
+        {
+            "parent": 2,
+            "text": "Mimickers of peripheral neuropathy should also be considered. These include upper motor neuron diseases, myelopathies, syringomyelia, dorsal column disorders such as tabes dorsalis, and psychogenic symptoms.13"
+        },
+        {
+            "parent": 2,
+            "text": "The onset and timing of a neuropathy can provide diagnostic clues. Toxin exposures may have fulminant symptoms that progress more rapidly than other causes. Medication-induced peripheral neuropathy generally presents in a chronic pattern over weeks to months.17Neuropathic symptoms associated with trauma or ischemic infarction are usually acute and most severe at the onset of the event. Other possible causes of acute symptom onset include vasculitis, autoimmune disorders, or cryoglobulinemia.1,18Inflammatory and metabolic neuropathies are typically subacute or chronic with symptoms progressing over weeks to months.3"
+        },
+        {
+            "parent": 3,
+            "text": "The physical examination should include a comprehensive neurologic examination, testing of the cranial nerves, fundoscopy, assessment for muscle fasciculations (often evident in the tongue), and evaluation of muscle bulk and tone.1An underlying systemic illness should be considered if there are new changes in breathing or cardiac function, rashes or skin lesions, or lymphadenopathy.10Asymmetry and nonanatomic distribution warrant consideration of psychogenic etiologies or less common diagnoses, including vasculitis, myxedema, rheumatoid arthritis, sarcoidosis, or neoplastic infiltration(Table 113). Signs of long-standing neuropathy such as calf atrophy, hammer toes, and pes cavus should prompt concern for hereditary neuropathies.1"
+        },
+        {
+            "parent": 3,
+            "text": "Nerve compression or injury from trauma or medical procedures should be considered. Common areas of compression include the sciatic nerve, fibular nerve, and femoral cutaneous nerve.3Common compression peripheral neuropathies include carpal tunnel syndrome, cubital tunnel syndrome, and radiculopathy from spinal degeneration.1"
+        },
+        {
+            "parent": 3,
+            "text": "In up to 50% of cases, the cause of peripheral neuropathy may not be identified with a history and physical examination, especially if the symptoms are mild. Additional physical examination testing may be needed for certain high-risk patient populations, such as those with diabetes. Combining vibratory sensation testing with a 128-Hz tuning fork plus sensory testing with a 10-g Semmes-Weinstein monofilament increases the sensitivity and specificity for the diagnosis of peripheral neuropathy compared with either test alone in patients with diabetes.1,19However, without risk factors or clinical symptoms of peripheral neuropathy, a positive monofilament test cannot confirm the diagnosis and other factors must be considered.19"
+        },
+        {
+            "parent": 4,
+            "text": "Initial testing in patients with suspected peripheral neuropathy should include a complete blood count; comprehensive metabolic profile; and fasting blood glucose, thyroid-stimulating hormone, and vitamin B12levels.1,20Patients with peripheral neuropathy have a high prevalence of monoclonal proteins; therefore, the American Academy of Neurology recommends routine serum protein electrophoresis with immunofixation in these patients.21"
+        },
+        {
+            "parent": 4,
+            "text": "Guidelines from the American Academy of Neurology suggest that the highest-yield tests for identifiable symmetrical distal polyneuropathy include blood glucose level (elevated in 11% of patients), serum protein electrophoresis with immunofixation (findings are abnormal in 9% of patients), and vitamin B12level (low in 3.6% of patients).21Additional tests may be considered if indicated by history and physical examination findings(Table 311)."
+        },
+        {
+            "parent": 5,
+            "text": "Peripheral neuropathy is likely if the history and physical examination reveal corresponding neuropathic findings. The diagnosis may be confirmed with electrodiagnostic studies, including nerve conduction tests and electromyography, although the value of such testing is debated.1"
+        },
+        {
+            "parent": 5,
+            "text": "One retrospective study of patients with symmetrical distal polyneuropathy found that electrodiagnostic studies changed the diagnosis or management in only two of 368 patients.1,22Studies also show that electrodiagnostic tests have low utility as part of initial workup.1,23Given these findings, electrodiagnostic studies are not routinely indicated."
+        },
+        {
+            "parent": 5,
+            "text": "However, patients should be referred for electrodiagnostic studies if symptoms are worrisome (e.g., acute onset, asymmetrical, predominantly motor or autonomic symptoms, rapidly progressive clinical course) or if initial workup is normal and symptoms persist.1,20,22If demyelinating conditions are suspected, electrodiagnostic studies can be confirmatory. Normal findings on electrodiagnostic studies significantly decrease the likelihood of peripheral neuropathy but are more accurate in the larger, axonal fibers. Treatment of the suspected diagnosis should be initiated while electrodiagnostic studies are pending so that care is not delayed."
+        },
+        {
+            "parent": 5,
+            "text": "Unlike with radiculopathy (sensation changes) or myelopathy (motor changes), imaging is often not required for suspected peripheral neuropathy.23A systematic review did not show high sensitivity or specificity with magnetic resonance imaging and revealed significant heterogeneity among the studies.24In cases of polyradiculopathy, plexopathy, or radiculoplexus neuropathy, magnetic resonance imaging may help in localizing an atypical neuropathy.25Idiopathic peripheral neuropathy is the presumed diagnosis if electrodiagnostic studies performed in the setting of an unclear diagnosis show axonal, symmetrical neuropathy.26"
+        },
+        {
+            "parent": 6,
+            "text": "Referral to a neurologist should be considered when initial laboratory testing, history, and physical examination findings are unrevealing. More urgent referral is indicated for acute, subacute, severe, or progressive symptoms to prevent a delay in treatment.19Additionally, patients with polyradiculoneuropathy or multifocal neuropathy, as opposed to presentations that match anatomic distribution, may warrant specialist consultation.19Pure motor or autonomic signs in the absence of sensory changes may signal a less common cause, and referral may be beneficial.19In addition to skin and nerve biopsies, neurologists may perform additional serologic and procedural studies.14"
+        },
+        {
+            "parent": 7,
+            "text": "Rarely, procedural studies such as autonomic testing and nerve biopsies may be necessary to aid in the diagnosis and management of peripheral neuropathy. Autonomic testing may be indicated because dysfunction is challenging to identify on examination. Skin biopsies may also be considered in patients with a burning sensation, numbness, and pain. Autonomic testing and skin biopsies capture small, unmyelinated nerve fibers and can be important to a neurologist looking for a specific pathology early in the course of a disease."
+        },
+        {
+            "parent": 7,
+            "text": "Nerve biopsy, usually of the sural nerve, may be considered to confirm a diagnosis before starting aggressive treatments or if the diagnosis is uncertain despite appropriate workup.27,28In a recent study of older adults under the care of a neurologist, biopsies were classified as diagnostic in 24% of patients and as essential or helpful in 81% of patients.26Nerve biopsies are most helpful in diagnosing vasculitis, leprosy, amyloidosis, leukodystrophy, sarcoidosis, and some chronic inflammatory demyelinating neuropathies."
+        },
+        {
+            "parent": 8,
+            "text": "Treatment of peripheral neuropathy focuses on managing the underlying condition. In addition, treatment of the associated symptoms can significantly improve the patient's quality of life."
+        },
+        {
+            "parent": 8,
+            "text": "Nonpharmacologic strategies such as proper foot hygiene, wearing appropriate footwear, weight loss, and physical therapy and gait training can help improve symptoms in those with lower extremity peripheral neuropathy.1Several oral medications help alleviate neuropathic pain.1,20,29,30Gabapentinoids (gabapentin [Neurontin], pregabalin [Lyrica]) and antidepressants (amitriptyline, nortriptyline [Pamelor], venlafaxine, duloxetine [Cymbalta], bupropion [Wellbutrin]) appear to be moderately effective and are recommended as first-line options.29,30"
+        },
+        {
+            "parent": 8,
+            "text": "Topical medications, including lidocaine and capsaicin, can be added as adjuvants to oral medications. Opioids are reserved as a last-line option and should not be used routinely because of limited effectiveness, long-term safety concerns, and abuse potential."
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources:PubMed was searched using the terms peripheral neuropathy, diagnosis, evaluation, physical examination, and epidemiology. We excluded diabetic peripheral neuropathy and other terms that focused on one specific diagnosis or system. Results were from the preceding five years and published in English. References used in Essential Evidence Plus, DynaMed, and UpToDate were also reviewed. Search dates: July 19, 2019, and July 24, 2020."
+        }
+    ],
+    "locked": false
+}

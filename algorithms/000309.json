@@ -1,0 +1,154 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0401/p460.html#afp20150401p460-f1",
+    "title": "Screening, Diagnosis, and Management of Gestational Diabetes Mellitus | AAFP",
+    "author": "ANDREW GARRISON, MD",
+    "doi": "Am Fam Physician.2015;91(7):460-467",
+    "abstract": "Gestational diabetes mellitus (GDM) affects approximately 6% of pregnancies in the United States, and it is increasing in prevalence. Pregnant women without known diabetes mellitus should be screened for GDM after 24 weeks of gestation. Treatment of GDM results in a statistically significant decrease in the incidence of preeclampsia, shoulder dystocia, and macrosomia. Initial management includes glucose monitoring and lifestyle modifications. If glucose levels remain above target values, pharmacologic therapy with metformin, glyburide, or insulin should begin. Antenatal testing is customary for women requiring medications. Induction of labor should not occur before 39 weeks in women with GDM, unless glycemic control is poor or another indication for delivery is present. Unless otherwise indicated, scheduled cesarean delivery should be considered only in women with an estimated fetal weight greater than 4,500 g. Women with a history of GDM are at high risk of subsequently developing diabetes. These patients should be screened six to 12 weeks postpartum for persistently abnormal glucose metabolism, and should undergo screening for diabetes every three years thereafter.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "BENEFITS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "GLUCOSE MONITORING",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "LIFESTYLE CHANGES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ORAL MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "INSULIN",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Fetal Assessment",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Timing and Route of Delivery",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Intrapartum and Postpartum Management",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Gestational diabetes mellitus (GDM) is a condition of glucose intolerance with onset or first recognition in pregnancy that is not clearly overt diabetes.1,2Normal pregnancy is characterized by pancreatic β-cell hyperplasia resulting in higher fasting and postprandial insulin levels. Increased secretion of placental hormones leads to increasing insulin resistance, especially throughout the third trimester. GDM occurs when β-cell function is insufficient to overcome this insulin resistance.3"
+        },
+        {
+            "parent": -1,
+            "text": "Approximately 6% of pregnancies in the United States are affected by GDM,4with a range from 1% to 25% depending on the population and diagnostic criteria used.5Risk factors for GDM are listed inTable 1.6–10The prevalence of GDM is increasing and has health implications for the mother and fetus during pregnancy and later in life.6Complications of GDM are listed inTable 2.5,11,12"
+        },
+        {
+            "parent": 0,
+            "text": "Women at risk of preexisting diabetes should be tested at the first antenatal visit using the American Diabetes Association diagnostic criteria for nonpregnant adults. A body mass index of 25 kg per m2or greater plus an additional risk factor (e.g., physical inactivity, a first-degree relative with diabetes, high-risk ethnicity, previous GDM, hypertension) warrants early screening.1"
+        },
+        {
+            "parent": 0,
+            "text": "In 2014, the U.S. Preventive Services Task Force updated its 2008 statement to recommend that asymptomatic pregnant women be screened for GDM after 24 weeks of gestation (B recommendation). Most clinicians in the United States use a two-step approach, first administering a 50-g non-fasting oral glucose challenge test at 24 to 28 weeks, followed by a 100-g fasting test for women who have a positive screening result.13Alternatively, clinicians may use a one-step approach and administer only a 75-g two-hour fasting oral glucose tolerance test.Table 3presents screening and diagnostic criteria for GDM.1,13–16"
+        },
+        {
+            "parent": 0,
+            "text": "The optimal screening approach is controversial. Although women with elevated glucose levels on the 75-g test have an increased risk of adverse pregnancy outcomes,17no trials have demonstrated that treatment of GDM in these women improves outcomes. Most, but not all, U.S. guidelines favor a two-step approach.1,2,18"
+        },
+        {
+            "parent": 2,
+            "text": "In the largest single trial of GDM treatment, investigators randomized 1,000 women with GDM to no treatment or to intervention with lifestyle modifications, blood glucose self-monitoring, and insulin therapy, if needed. Adverse perinatal outcomes—defined as infant death, shoulder dystocia, bone fracture, and/or nerve palsy—were 4% in the no treatment group compared with 1% in the intervention group (P= .01).19A more recent systematic review and meta-analysis that included five randomized controlled trials and six cohort studies found that treating GDM results in a statistically significant decrease in the incidence of preeclampsia, shoulder dystocia, and macrosomia.20"
+        },
+        {
+            "parent": 3,
+            "text": "After receiving a diagnosis of GDM, patients should begin monitoring their blood glucose, initially with fasting levels and one- or two-hour postprandial levels. Fasting glucose levels should be less than or equal to 95 mg per dL (5.3 mmol per L), one-hour postprandial levels less than or equal to 140 mg per dL (7.8 mmol per L), and two-hour postprandial levels less than or equal to 120 mg per dL (6.7 mmol per L).2,21No data suggest the superiority of one-hour vs. two-hour postprandial monitoring, so either is acceptable. Less intensive glucose monitoring is appropriate for women with GDM that is well controlled with diet and exercise.1,2"
+        },
+        {
+            "parent": 4,
+            "text": "Initial treatment for GDM involves diet and activity modification. Women with GDM should receive individualized nutrition counseling from a registered dietitian, which commonly includes a recommendation to limit carbohydrate intake to 33% to 40% of calories.2No high-quality data exist on the optimal diet for women with GDM. A Cochrane review of nine small trials comparing different types of dietary advice did not demonstrate any significant differences in perinatal outcomes.22Some, but not all, trials suggest that a low glycemic index diet may result in improved glycemic control.23,24"
+        },
+        {
+            "parent": 4,
+            "text": "Although the few trials evaluating the effects of exercise on women with GDM have yielded inconsistent results,25,26aerobic exercise and resistance training clearly improve glycemic control in patients with diabetes.27Exercise for 30 minutes most days of the week is a reasonable goal for most patients with GDM."
+        },
+        {
+            "parent": 4,
+            "text": "Attention to maternal weight gain is also important in minimizing the risk of fetal macrosomia. Maternal obesity, excess gestational weight gain, and GDM are independent and additive risk factors for macrosomia. For example, among women with obesity, GDM, and gestational weight gain greater than 40 lb (18.1 kg), the risk of fetal macrosomia is nearly 40%.28Although no specific intervention has been shown to prevent excess gestational weight gain,29clinicians can counsel patients using the Institute of Medicine's 2009 recommendations on gestational weight gain,Weight Gain During Pregnancy: Reexamining the Guidelines.30"
+        },
+        {
+            "parent": 5,
+            "text": "An elevated blood glucose level despite lifestyle modifications is an indication for pharmacologic therapy. Although insulin has historically been the standard therapy for women with uncontrolled GDM, oral medications are now appropriate first-line therapies as well.2Options for oral medications include metformin (Glucophage) and glyburide. Although neither glyburide nor metformin has been approved by the U.S. Food and Drug Administration for the treatment of GDM, both are pregnancy category B. Metformin and glyburide cross the placenta but have not been associated with birth defects or short-term adverse neonatal outcomes.2,31,32However, data on long-term metabolic effects on children with in utero exposure are limited. Clinicians may consider counseling patients on the lack of long-term safety data for these medications."
+        },
+        {
+            "parent": 5,
+            "text": "No consensus exists on the threshold values above which medications should be prescribed; therefore, clinicians can consider gestational age, frequency and severity of blood glucose elevations, fetal growth, and patient preference. One approach is to begin pharmacologic therapy if more than two values at the same meal during a two-week period are above target by more than 10 mg per dL (0.6 mmol per L).33Another approach is to initiate medications if 50% of the values in a given week are elevated.34"
+        },
+        {
+            "parent": 5,
+            "text": "Glycemic control, maternal and neonatal outcomes, and adverse effects are similar among patients treated with oral hypoglycemic medications vs. insulin,35although glyburide may be associated with a lower failure rate (i.e., need for insulin therapy) than metformin.33Metformin is typically started at 500 mg once daily with food, and titrated to a maximum dosage of 2,500 mg per day (given in divided doses with meals).36Glyburide is initiated at 2.5 mg once per day one hour before eating, and increased to a maximum of 10 mg twice per day, as needed.33Between 15% and 40% of women initially prescribed oral medications for GDM ultimately require insulin.2"
+        },
+        {
+            "parent": 6,
+            "text": "Insulin is required in women who have uncontrolled blood glucose levels despite lifestyle changes and use of oral medications, and in women who elect to avoid a trial of oral medications. Insulin does not cross the placenta; rapid-, intermediate-, and long-acting insulins are considered safe for use in pregnancy.37–39"
+        },
+        {
+            "parent": 6,
+            "text": "One approach to starting insulin therapy is to calculate a total daily dosage of 0.7 to 1.0 units per kg. Half of the total daily requirement is administered as a single dose of long-acting insulin (e.g., glargine [Lantus], detemir [Levemir]), and the other half is administered in three divided doses at mealtimes as rapid-acting insulin (e.g., lispro [Humalog], aspart [Novolog]).2Insulin dosing should be individualized and adjusted as needed. An algorithm for the management of GDM is presented inFigure 1.1,2"
+        },
+        {
+            "parent": 7,
+            "text": "There is no consensus on the optimal approach to fetal surveillance in pregnancies complicated by GDM. Antenatal testing in women who have GDM that is well controlled without medications is not beneficial,40because the risk of stillbirth is not increased in this population.41Antenatal testing is commonly performed in women who require medication for GDM, although data supporting this practice are limited to older observational studies. The American College of Obstetricians and Gynecologists (ACOG) recommends that clinicians perform antenatal testing in accordance with local practice patterns.2Such testing could include twice-weekly nonstress tests or weekly modified biophysical profiles beginning at 32 to 34 weeks of gestation."
+        },
+        {
+            "parent": 7,
+            "text": "The role of ultrasonography in pregnancies complicated by GDM varies among clinicians and institutions. Some physicians obtain serial ultrasonography (separated by at least four weeks) to monitor fetal growth in patients with GDM. Several small trials have found that instituting tighter glycemic control for women with accelerated fetal growth may result in a lower incidence of large-for-gestational-age infants.42However, larger studies are needed before routine use of ultrasonography to guide management of GDM can be recommended, especially because undergoing third-trimester ultrasonography may be an independent risk factor for cesarean delivery.43"
+        },
+        {
+            "parent": 7,
+            "text": "Other physicians perform ultrasonography near the end of pregnancy to assess the risk of fetal macrosomia. However, a sonographically estimated fetal weight of greater than 4,000 g (8 lb, 13 oz) is only modestly predictive of an actual fetal weight greater than 4,000 g, with a positive likelihood ratio of 5.7 (95% confidence interval [CI], 4.3 to 7.6) and a negative likelihood ratio of 0.48 (95% CI, 0.38 to 0.60).44Among fetuses weighing more than 4,000 g, clinical estimates (using Leopold maneuvers and fundal height measurements) are as predictive of macrosomia as ultrasonography, and appear comparable to the estimates of parous women of their baby's size.45ACOG recommends that clinicians assess fetal growth in patients with GDM late in the third trimester, stating that ultrasonography or clinical examination is appropriate.2"
+        },
+        {
+            "parent": 8,
+            "text": "The optimal timing of delivery in pregnancies complicated by GDM is unclear. Given the neonatal risks associated with early term births, induction of labor before 39 weeks should occur only if glycemic control remains poor despite medication use, or if another indication for delivery is present.2,46Limited evidence suggests that induction of women with GDM at 39 weeks, compared with further expectant management, is associated with a lower risk of macrosomia and shoulder dystocia,47without increasing the risk of cesarean delivery.48Expectant management beyond 39 weeks is also associated with an increased risk of stillbirth (relative risk = 1.8; 95% CI, 1.2 to 2.6), although the absolute risk remains low (5.7 per 10,000 deliveries).49Although ACOG has not made an evidence-based recommendation on the ideal timing of delivery for patients with GDM, many physicians offer induction between 39 and 40 weeks, particularly for patients with other risks of stillbirth."
+        },
+        {
+            "parent": 8,
+            "text": "For women with GDM and an estimated fetal weight greater than 4,500 g (9 lb, 14 oz), scheduled cesarean delivery, compared with vaginal birth, reduces the risk of permanent brachial plexus injury, although the number needed to treat may be as high as 588.50It is reasonable to offer a scheduled cesarean delivery to these patients, although they should be counseled on the difficulty of accurately estimating fetal weight and the risks associated with cesarean delivery in the index pregnancy and future pregnancies.2"
+        },
+        {
+            "parent": 9,
+            "text": "Maintaining euglycemia during labor and delivery can minimize risks of neonatal hypoglycemia and acidosis.51Women with diet-controlled GDM rarely require intrapartum insulin.52A variety of protocols exist to guide intrapartum management of blood glucose among women receiving insulin, but in general, glucose levels should be monitored every one to two hours during active labor, and 5% dextrose or insulin infused as needed to maintain glucose levels between 70 and 110 mg per dL (3.9 and 6.1 mmol per L).51It may be reasonable to have women with GDM use only one-half of their usual dose of long-acting insulin the day of delivery. Clinicians should prepare to manage shoulder dystocia at the time of delivery and exercise caution when considering an operative vaginal delivery."
+        },
+        {
+            "parent": 9,
+            "text": "Women with GDM rarely need oral agents or insulin immediately after delivery. Before discharge, it is reasonable to confirm that fasting glucose values are normal. However, short- and long-term follow-up is critical. Women with GDM should undergo screening at six to 12 weeks postpartum with a fasting glucose measurement or 75-g two-hour glucose tolerance test; up to 36% of women with GDM may have persistently abnormal glucose tolerance.2,53GDM is a significant risk factor for subsequent development of diabetes. In high-risk populations, diabetes develops in up to 50% of women with GDM.54Women with a history of GDM should be screened every three years for overt diabetes.1Breastfeeding may reduce the subsequent risk of developing type 2 diabetes in women who had GDM.55Any form of contraception that is otherwise medically appropriate can be used by women with a history of GDM."
+        },
+        {
+            "parent": 9,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key term gestational diabetes. This search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Agency for Healthcare Research and Quality evidence reports, the U.S. Preventive Services Task Force, the Cochrane database, DynaMed, and Essential Evidence Plus. Search dates: January 2014, and December 19, 2014."
+        }
+    ],
+    "locked": false
+}

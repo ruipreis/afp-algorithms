@@ -1,0 +1,64 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2018/0515/p628.html#afp20180515p628-f2",
+    "title": "Eosinophilic Esophagitis: A Mimic of Gastroesophageal Reflux Disease | AAFP",
+    "author": "STEVEN CLAYTON, MD, FAAFP, FACP, AND JOHN F. EMERSON, MD, Greenville Health System, University of South Carolina School of Medicine, Greenville, South Carolina",
+    "doi": "Am Fam Physician.2018;97(10):628-629",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Eosinophilic Esophagitis vs. GERD",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Esophageal dysfunction, specifically gastroesophageal reflux disease (GERD), is commonly encountered in family medicine. However, additional pathologic diseases are becoming more prevalent and should be considered in the differential diagnosis of patients presenting with symptoms of esophageal dysfunction. One such condition is eosinophilic esophagitis, a chronic allergic inflammatory disease pathologically characterized by the presence of eosinophils in the esophageal tissue. Its overall prevalence in the United States is approximately 57 per 100,000 persons—specifically, 51 and 59 per 100,000 children and adults, respectively.1The increase in prevalence may represent a true change in the epidemiology of the disease, but it may also be because of increased awareness and detection."
+        },
+        {
+            "parent": 0,
+            "text": "Infants or small children with eosinophilic esophagitis present with failure to thrive, vomiting, abdominal pain, and reflux or heartburn. In adolescents and adults, the symptoms are solid food dysphagia, heartburn, chest pain, and food bolus impaction.2Physical examination may reveal signs of atopic disease such as wheezing on auscultation, eczematous skin findings, or stigmata of allergic rhinitis. Abdominal examination is typically benign, and many patients will have unremarkable findings."
+        },
+        {
+            "parent": 1,
+            "text": "Eosinophilic esophagitis is a clinicopathologic diagnosis requiring symptoms and pathologic changes in the esophageal mucosa. It should be considered in children and adults with symptoms related to esophageal dysfunction (i.e., dysphagia, upper abdominal pain, chest discomfort, and reflux). Biopsies from the proximal and distal esophagus reveal greater than 15 eosinophils per high-power field, without an alternative cause of eosinophilia. The persistence of esophageal eosinophilia on repeat biopsy after an adequate trial (eight weeks) of twice-daily proton pump inhibitor therapy confirms the diagnosis."
+        },
+        {
+            "parent": 2,
+            "text": "Eosinophilic esophagitis and GERD can present with symptoms of esophageal dysfunction, including regurgitation, chest pain, and dysphagia. GERD's pathogenesis is thought to be localized injury to the esophageal mucosa from retrograde acidic refluxate and not a systemic illness.3Eosinophilic esophagitis is a type 2 T-helper cell–mediated systemic response to food and environmental allergens. Symptoms do not improve with acid suppressive therapies. Failure of initial treatment with antisecretory medications, especially in young men with a history of atopic disease or in the presence of any red flags (i.e., weight loss, dysphagia, or food bolus impaction history), should bring eosinophilic esophagitis into question and prompt endoscopic evaluation."
+        },
+        {
+            "parent": 2,
+            "text": "Endoscopically, GERD and eosinophilic esophagitis vary significantly.Figure 1shows classic examples of severe GERD-related esophagitis vs. eosinophilic esophagitis. Appropriate diagnosis is imperative because the treatment of eosinophilic esophagitis is aimed at managing the underlying systemic pathophysiology."
+        },
+        {
+            "parent": 3,
+            "text": "Because eosinophilic esophagitis is a chronic disease, the goal of treatment is to reduce the inflammatory response. For first-line pharmacologic treatment, randomized controlled trials in children and adults support the off-label use of inhalant corticosteroids (e.g., fluticasone [Flovent]; for children, 88 to 440 mcg per day in a divided dose; for adults, 880 to 1,760 mcg per day in a divided dose) that are sprayed into the oral cavity without a spacer during a breath hold and then swallowed to minimize pulmonary deposition, or oral corticosteroid suspensions (e.g., budesonide [Pulmicort]; for children, 1 mg per day in a divided dose; for adults, 1 to 2 mg per day in a divided dose). The initial duration of treatment is eight weeks, but long-term maintenance is often required.4–7Topical steroid therapy is thought to be safe; however, long-term safety data are not yet available. Candida esophagitis is the most common complication.6"
+        },
+        {
+            "parent": 3,
+            "text": "Elimination diets and allergy testing to identify food allergies with subsequent avoidance of triggers have also shown evidence of benefit.8Patients with long-standing disease often develop a pattern of fibrous deposition and resultant esophageal stenosis. In patients with esophageal narrowing, which can result in food bolus impactions, weight loss, or refractory dysphagia, esophageal dilation may be warranted. Graduated dilation is safe and often needed to reduce symptoms of dysphagia and restore esophageal lumen patency.9"
+        },
+        {
+            "parent": 3,
+            "text": "Figure 2is a suggested clinical algorithm for the diagnostic evaluation and treatment of eosinophilic esophagitis."
+        }
+    ],
+    "locked": false
+}

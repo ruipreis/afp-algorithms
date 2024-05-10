@@ -1,0 +1,122 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0301/p469.html#afp20120301p469-f1",
+    "title": "Diagnosis and Management of Upper Gastrointestinal Bleeding | AAFP",
+    "author": "THAD WILKINS, MD, NAIMAN KHAN, MD, AKASH NABH, MD, AND ROBERT R. SCHADE, MD",
+    "doi": "Am Fam Physician.2012;85(5):469-476",
+    "abstract": "Upper gastrointestinal bleeding causes significant morbidity and mortality in the United States, and has been associated with increasing nonsteroidal anti-inflammatory drug use and the high prevalence ofHelicobacter pyloriinfection in patients with peptic ulcer bleeding. Rapid assessment and resuscitation should precede the diagnostic evaluation in unstable patients with severe bleeding. Risk stratification is based on clinical assessment and endoscopic findings. Early upper endoscopy (within 24 hours of presentation) is recommended in most patients because it confirms the diagnosis and allows for targeted endoscopic treatment, including epinephrine injection, thermocoagulation, application of clips, and banding. Endoscopic therapy results in reduced morbidity, hospital stays, risk of recurrent bleeding, and need for surgery. Although administration of proton pump inhibitors does not decrease mortality, risk of rebleeding, or need for surgery, it reduces stigmata of recent hemorrhage and the need for endoscopic therapy. Despite successful endoscopic therapy, rebleeding can occur in 10 to 20 percent of patients; a second attempt at endoscopic therapy is recommended in these patients. Arteriography with embolization or surgery may be needed if there is persistent and severe bleeding.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "PEPTIC ULCER BLEEDING",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "NASOGASTRIC TUBE LAVAGE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "RISK STRATIFICATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "RECURRENT HEMORRHAGE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Variceal Hemorrhage",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "According to estimates from U.S. studies, nonvariceal upper gastrointestinal bleeding results in 400,000 hospital admissions per year, costing more than $2 billion annually.1It has been associated with increasing nonsteroidal anti-inflammatory drug (NSAID) use and the high prevalence (64 percent) ofHelicobacter pyloriinfection in patients with peptic ulcer bleeding.2Upper gastrointestinal bleeding is twice as common in men as in women and increases in prevalence with age.3Despite advances in therapy, the in-hospital mortality rate remains high (13 percent) and rebleeding is common (15 percent).4,5This article focuses on acute nonvariceal upper gastrointestinal bleeding in adults, with a brief discussion of the management of variceal hemorrhage."
+        },
+        {
+            "parent": 0,
+            "text": "Upper gastrointestinal bleeding includes hemorrhage originating from the esophagus to the ligament of Treitz. Peptic ulcer bleeding causes more than 60 percent of cases of upper gastrointestinal bleeding, whereas esophageal varices cause approximately 6 percent.3Other etiologies include arteriovenous malformations, Mallory-Weiss tear, gastritis and duodenitis, and malignancy.Table 1lists common causes of upper gastrointestinal bleeding.3"
+        },
+        {
+            "parent": 1,
+            "text": "In the United States, duodenal ulcers are more common than gastric ulcers.6Patients with gastric ulcers (55.1 percent) are hospitalized more often than patients with duodenal ulcers (38.5 percent), but the mortality rate of patients with duodenal ulcers (3.7 percent) is higher than that of patients with gastric ulcers (2.1 percent).6Duodenal ulcers are more likely to erode into large vessels, causing more severe bleeding. In a meta-analysis of 16 studies involving 1,633 participants taking NSAIDs,H. pyloriinfection (odds ratio [OR] = 1.7) and NSAID use (OR = 4.8) increased the risk of upper gastrointestinal bleeding, with this risk increasing further when both factors are present (OR = 6.1).7H. pyloriadheres to the gastric epithelium and renders the underlying mucosa more vulnerable to damage by producing enzymes and toxins,8affecting gastrin levels and acid output. The risk of upper gastrointestinal bleeding varies based on the type of NSAID used(Table 2).9"
+        },
+        {
+            "parent": 2,
+            "text": "Rapid assessment and resuscitation should precede the diagnostic evaluation in unstable patients with severe bleeding. Some patients may require intubation to decrease the risk of aspiration. Patients with active bleeding resulting in hemodynamic instability should be admitted to an intensive care unit for resuscitation and close observation. The physician should consider transferring a patient with significant upper gastrointestinal bleeding to a tertiary medical center based on local expertise and the availability of facilities. Patients admitted primarily for upper gastrointestinal bleeding have lower mortality rates compared with patients admitted for other reasons who have subsequent upper gastrointestinal bleeding during their hospitalization.4,10Figure 1provides an algorithmic approach to the management of acute upper gastrointestinal bleeding."
+        },
+        {
+            "parent": 3,
+            "text": "Important historical information includes the presence of abdominal pain; coffee-ground–like emesis; dysphagia; black, tarry stools; bright red blood per rectum; hematemesis; and chest pain. Medication use should be elicited, especially previous use of clopidogrel (Plavix), warfarin (Coumadin), NSAIDs, aspirin, selective serotonin reuptake inhibitors (SSRIs), and corticosteroids because these medications increase the risk of upper gastrointestinal bleeding.11–13SSRIs inhibit platelet aggregation, and the concurrent use of NSAIDs or aspirin with SSRIs further increases the risk of upper gastrointestinal bleeding.13The physician should ascertain a history of peptic ulcer bleeding or surgery; previous episodes of upper gastrointestinal bleeding; and alcohol or illicit drug use. Other factors to consider include previous abdominal surgery; diabetes mellitus; coronary artery disease; chronic renal or liver disease; or chronic obstructive pulmonary disease."
+        },
+        {
+            "parent": 3,
+            "text": "Blood pressure and pulse may be normal. If bleeding is severe, patients may be hypotensive or tachycardic, or may exhibit orthostatic hypotension. Physical examination should assess for guarding, rebound tenderness, prior surgical scars, and sequelae of chronic liver disease. Rectal examination should be performed and stool color assessed (e.g., for melena or bright red blood). A stool specimen should be collected for occult blood testing."
+        },
+        {
+            "parent": 3,
+            "text": "Initial laboratory tests include measurement of hemoglobin, hematocrit, blood urea nitrogen, and creatinine; platelet count; prothrombin and partial thromboplastin time; international normalized ratio; liver function tests; and type and crossmatch. Patients with active bleeding and coagulopathy should be considered for transfusion with fresh frozen plasma, and those with active bleeding and thrombocytopenia should be considered for transfusion with platelets.4Blood transfusions generally should be administered to those with a hemoglobin level of 7 g per dL (70 g per L) or less; hemoglobin level should be maintained at 9 g per dL (90 g per L).4,14"
+        },
+        {
+            "parent": 4,
+            "text": "Evaluation should focus on determining whether the bleeding is from an upper or lower gastrointestinal source. Nasogastric tube lavage has a low sensitivity and poor negative likelihood ratio for upper gastrointestinal bleeding in patients with melena or hematochezia.15,16However, a positive nasogastric tube lavage that yields blood or coffee-ground–like material implies that upper gastrointestinal bleeding is much more likely, and predicts that the bleeding is caused by a high-risk lesion.15,16"
+        },
+        {
+            "parent": 5,
+            "text": "Risk stratification is based on clinical assessment and endoscopic findings. Clinical assessment includes age, presence of shock, systolic blood pressure, heart rate, and comorbid conditions. Mortality increases with older age and with increasing number of comorbid conditions.17Endoscopic findings, such as the cause of the bleeding and stigmata of recent hemorrhage, can be combined with clinical factors to predict mortality and risk of rebleeding using the Rockall risk scoring system(Tables 317,18and419)."
+        },
+        {
+            "parent": 6,
+            "text": "Early upper endoscopy (within 24 hours of presentation) is recommended in most patients with upper gastrointestinal bleeding because it confirms the diagnosis and allows for targeted endoscopic treatment, resulting in reduced morbidity, hospital stays, risk of recurrent bleeding, and need for surgery.4Figures 2through5are examples of endoscopic findings. Although prokinetic agents to evacuate the stomach are not recommended,20gastric lavage is commonly performed to clear the stomach of blood, increasing the success of endoscopic localization of the source of bleeding. Endoscopic therapies include epinephrine injection, thermocoagulation, application of clips, and banding. A Cochrane review of 18 studies involving 1,868 participants with peptic ulcer bleeding found that adding an additional endoscopic treatment after epinephrine injection significantly reduced rebleeding rates from 18.5 to 10 percent and reduced mortality rates from 4.7 to 2.5 percent.21Patients with low-risk peptic ulcer bleeding (e.g., clean ulcer base) based on clinical and endoscopic criteria can be safely discharged on the same day as endoscopy.4Most patients with high-risk peptic ulcer bleeding and stigmata of recent hemorrhage (e.g., active arterial bleeding, visible vessel, adherent clot) who have undergone endoscopic hemostasis should receive intravenous proton pump inhibitor (PPI) therapy and remain hospitalized for at least 72 hours because most rebleeding occurs in this time.4"
+        },
+        {
+            "parent": 6,
+            "text": "Although a systematic review of six randomized controlled trials involving 2,223 participants found no statistically significant differences in mortality, rebleeding within 30 days, or surgery between patients receiving PPIs and control treatment (placebo or histamine H2receptor antagonists),22patients treated with PPIs had significantly reduced stigmata of recent hemorrhage (37.2 versus 46.5 percent with control treatment; OR = 0.67) and reduced need for endoscopic therapy (8.6 versus 11.7 percent; OR = 0.68).22However, in a randomized controlled trial of 767 patients with peptic ulcer bleeding who were randomly assigned to intravenous PPI therapy or placebo, fewer patients receiving active treatment (5.9 percent) had recurrent bleeding within 72 hours than did those receiving placebo (10.3 percent;P= .026).23The difference in bleeding recurrence remained significant at seven days and 30 days (P= .010).23All patients admitted with significant upper gastrointestinal bleeding should be started on intravenous PPI therapy until the cause of bleeding has been confirmed with endoscopy.4,24Use of H2receptor antagonists is not recommended for patients with upper gastrointestinal bleeding."
+        },
+        {
+            "parent": 7,
+            "text": "Rebleeding after successful endoscopic therapy occurs in 10 to 20 percent of patients. The risk of rebleeding and mortality can be calculated with a clinical decision rule such as the Rockall risk scoring system.19,25If rebleeding occurs, a second attempt at endoscopic therapy is recommended. In patients at high risk of rebleeding, scheduled repeat endoscopy may reduce the rebleeding rate and be cost-effective.4However, in patients who are not considered to be at high risk of rebleeding, a routine second-look endoscopy the next day is not recommended.4Arteriography with embolization usually precedes surgical therapy because both are equally effective in treating patients with persistent bleeding.26Surgical therapy is usually recommended if endoscopy and arteriography with embolization have failed to control the bleeding or if interventional radiology expertise is not available after a failed endoscopic attempt. Surgical therapy is also indicated in patients with recurrent hemorrhage or hemodynamic instability despite fluid resuscitation and blood transfusion. In patients in whom no cause of upper gastrointestinal bleeding is identified, small bowel evaluation with enteroscopy or capsule endoscopy should be considered to look for a small bowel source of the bleeding.Table 5lists advantages and disadvantages of common tests used to assess for upper gastrointestinal bleeding."
+        },
+        {
+            "parent": 8,
+            "text": "H. pyloriinfection and NSAIDs are the major causes of peptic ulcer bleeding in the United States; therefore, preventive strategies should focus on these etiologies. Smoking and alcohol use impair ulcer healing, and patients should be counseled about smoking cessation and moderation of alcohol use. A systematic review of 41 randomized controlled trials of patients taking NSAIDs found that double-dose H2receptor antagonists (relative risk [RR] = 0.44) and PPIs (RR = 0.40) significantly reduced the risk of peptic ulcer bleeding.27In patients with a history of peptic ulcer bleeding, aspirin, clopidogrel, and NSAIDs should be avoided if possible. In patients taking aspirin who develop peptic ulcer bleeding, aspirin therapy with PPI therapy should be restarted as soon as the risk of cardiovascular complication is thought to outweigh the risk of rebleeding.1A Cochrane review of seven studies of 578 patients with peptic ulcer bleeding concluded that eradication ofH. pyloriinfection reduced the long-term rate of rebleeding (2.9 percent) compared with patients in the noneradication group (20 percent; number needed to treat = 7).28In patients with peptic ulcer bleeding associated withH. pyloriinfection, eradication is essential and should be confirmed by urea breath test, stool antigen test, or biopsy urease test.1A repeat upper endoscopy in eight to 12 weeks is recommended for patients with peptic ulcer bleeding secondary to gastric ulcers to assess for healing and to exclude malignancy, and for patients with severe esophagitis to exclude Barrett esophagus."
+        },
+        {
+            "parent": 9,
+            "text": "Patients with cirrhosis should be screened with upper endoscopy to rule out varices.29If patients have no varices on initial endoscopy, the procedure should be repeated in three years.29Physicians should consider starting nonselective beta blockers, (e.g., propranolol, nadolol [Corgard]) in patients with varices to reduce portal pressure and decrease the risk of future hemorrhage.29In patients with a history of varices who present with acute upper gastrointestinal bleeding, upper endoscopy should be performed within 12 hours to confirm the diagnosis and to treat variceal hemorrhage.29Endoscopic variceal ligation is the preferred endoscopic treatment for esophageal variceal hemorrhage and is superior to sclerotherapy.30"
+        },
+        {
+            "parent": 9,
+            "text": "A review of 12 trials involving 1,241 patients with variceal hemorrhage found that broad-spectrum antibiotics (e.g., ceftriaxone [Rocephin], norfloxacin [Noroxin], ciprofloxacin [Cipro]) reduced overall mortality (RR = 0.79) and risk of rebleeding (RR = 0.53).31A Cochrane review of 21 trials involving 2,588 patients with active variceal hemorrhage found no difference in mortality rate or risk of rebleeding with somatostatin and its derivatives (e.g., octreotide [Sandostatin]).32Octreotide is often administered to patients with variceal hemorrhage; however, its use is controversial. When medical and endoscopic treatment fail to control bleeding, salvage treatment with transjugular intrahepatic portosystemic shunt procedure or surgery should be considered, especially for patients with gastric varices.33The Model for End-stage Liver Disease score should be calculated to determine prognosis and to guide decision making about liver transplantation.34"
+        }
+    ],
+    "locked": false
+}

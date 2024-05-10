@@ -1,0 +1,139 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0701/p29.html#afp20170701p29-f1",
+    "title": "Insomnia: Pharmacologic Therapy | AAFP",
+    "author": "ERIC MATHESON, MD, AND BARRY L. HAINER, MD",
+    "doi": "Am Fam Physician.2017;96(1):29-35",
+    "abstract": "Insomnia accounts for more than 5.5 million visits to family physicians each year. Although behavioral interventions are the mainstay of treatment, pharmacologic therapy may be necessary for some patients. Understanding the risks and benefits of insomnia medications is critical. Controlled-release melatonin and doxepin are recommended as first-line agents in older adults; the so-called z-drugs (zolpidem, eszopiclone, and zaleplon) should be reserved for use if the first-line agents are ineffective. For the general population with difficulty falling asleep, controlled-release melatonin and the z-drugs can be considered. For those who have difficulty staying asleep, low-dose doxepin and the z-drugs should be considered. Benzodiazepines are not recommended because of their high abuse potential and the availability of better alternatives. Although the orexin receptor antagonist suvorexant appears to be relatively effective, it is no more effective than the z-drugs and much more expensive. Sedating antihistamines, antiepileptics, and atypical antipsychotics are not recommended unless they are used primarily to treat another condition. Persons with sleep apnea or chronic lung disease with nocturnal hypoxia should be evaluated by a sleep specialist before sedating medications are prescribed.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "GABA Agonists",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "BENZODIAZEPINES",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "NONBENZODIAZEPINE HYPNOTICS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Melatonin Agonists",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Other Hypnotic Drugs",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ANTIDEPRESSANTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "ANTIHISTAMINES",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ANTIPSYCHOTICS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "OREXIN RECEPTOR ANTAGONIST",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ANTIEPILEPTICS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Approach to the Patient",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Insomnia is among the most common problems encountered by the family physician, accounting for more than 5.5 million visits annually.1The American Academy of Sleep Medicine defines insomnia as the subjective perception of difficulty with sleep initiation, duration, consolidation, or quality that occurs despite adequate opportunity for sleep, and that results in some form of daytime impairment.2The recommended first-line therapies for insomnia are nonpharmacologic, such as stimulus control, relaxation training, or sleep restriction. However, this article focuses on pharmacologic treatment of insomnia; nonpharmacologic methods were discussed in an earlier review.3"
+        },
+        {
+            "parent": -1,
+            "text": "Women are more likely than men to experience insomnia and twice as likely to be diagnosed with insomnia.4,5The prevalence of insomnia in women increases with hormonal changes, such as in the third trimester of pregnancy and after menopause.5Insomnia can occur at any age but is particularly common in older adults, with symptoms present in as many as 65% of persons 65 years or older.5–7Patients with comorbidities such as pulmonary disease, heart failure, neurologic disease, and painful conditions are at increased risk.8An increased prevalence of insomnia is also associated with psychiatric disorders, including depression, anxiety, substance abuse, and posttraumatic stress disorder.9,10Population studies suggest that insomnia is more prevalent in persons who have experienced the death of a family member or are unemployed, divorced, widowed, separated, or of lower socioeconomic status.11,12Persons withdrawing from alcohol or opiates also report high levels of insomnia."
+        },
+        {
+            "parent": -1,
+            "text": "The number of prescriptions written for insomnia skyrocketed from 5.3 million in 1999 to 20.8 million in 2010.1Given the widespread use of medications for insomnia, understanding the benefits and risks of these agents is critical. Numerous classes of medications have been used for insomnia; the most commonly prescribed are reviewed inTable 1.13"
+        },
+        {
+            "parent": 1,
+            "text": "Benzodiazepines work through the modulation of the γ-aminobutyric acid (GABA)Areceptor in neurons, resulting in hyperpolarization of the cell.14GABA serves as an inhibitory neurotransmitter in the central nervous system, decreasing neuronal excitability. Through stimulation of GABA receptors, benzodiazepines cause sedation, decreased anxiety, muscle relaxation, and retrograde amnesia.15,16"
+        },
+        {
+            "parent": 1,
+            "text": "Although many benzodiazepines are used to treat insomnia, only five are approved by the U.S. Food and Drug Administration (FDA) for this indication. Several important differences must be taken into account when prescribing a benzodiazepine for insomnia, including onset and duration of action, and metabolism. Rate of metabolism is particularly important in patients with impaired liver and/or kidney function or advanced age because these agents can bioaccumulate, resulting in adverse effects such as memory impairment, loss of coordination, and daytime somnolence. Beyond the immediate effects, chronic benzodiazepine use disrupts the quality of sleep by distorting sleep architecture and diminishing deep sleep time, which may account for the fact that persons who take long-term benzodiazepines report much greater fatigue than self-reported good sleepers.17"
+        },
+        {
+            "parent": 1,
+            "text": "The risk of developing physical dependence to benzodiazepines is high18; 15% to 40% of long-term users report severe withdrawal symptoms after cessation.19Even after only a few weeks of benzodiazepine therapy, patients often have rebound insomnia and increased anxiety.20Benzodiazepines are contraindicated during pregnancy and breastfeeding (category D or X). They should not be used in patients with sleep apnea and/or chronic pulmonary disease because they may suppress respiratory drive. Because of their abuse potential, benzodiazepines are classified as schedule IV drugs."
+        },
+        {
+            "parent": 2,
+            "text": "The most commonly prescribed class of medication for insomnia is the so-called z-drugs, zaleplon (Sonata), zolpidem (Ambien), and eszopiclone (Lunesta).21Numerous trials have demonstrated the effectiveness of these drugs, including a recent meta-analysis that showed that they decreased sleep latency by an average of 42 minutes vs. 20 minutes for placebo.22Like benzodiazepines, the z-drugs bind to the GABAAreceptor, causing hyperpolarization of the cell. However, unlike benzodiazepines, the z-drugs bind more selectively to certain subunits of the GABAAreceptor, primarily targeting the sedative effect of the receptor rather than the anxiolytic effect.23Like benzodiazepines, the z-drugs have several adverse effects, particularly in higher dosages, including memory loss, dizziness, disinhibition, gastrointestinal upset, and hallucinations. Uncommonly, complex sleep-related behaviors (e.g., sleep driving, sleep eating) have been reported in patients taking high doses of z-drugs; this risk should be discussed with patients when these medications are initially prescribed.24–26The prescriber must be aware of the abuse potential of the z-drugs because they may cause stimulation, euphoria, and anxiolysis in some patients, particularly at high dosages.27"
+        },
+        {
+            "parent": 2,
+            "text": "The z-drugs have been used to treat a broad array of sleep problems without sacrificing sleep efficiency.18In addition to treating insomnia related to difficulty with sleep latency and sleep maintenance, zolpidem, an imidazopyridine agent, has been used to treat circadian rhythm misalignment and high-altitude insomnia.28–30Eszopiclone is a cyclopyrrolone drug that has been used to improve sleep latency, and it is particularly well suited for sleep maintenance given its long half-life.31One unique adverse effect of eszopiclone is unpleasant taste that affects nearly one-third of patients at the maximum recommended dosage. Zaleplon, a pyrazolopyrimidine drug, has an extremely short half-life and is indicated for improving sleep latency but not sleep maintenance. Each of the z-drugs has a slightly different pharmacologic profile, indications, effectiveness, and adverse effect profile(Tables 113and232). These agents should be used during pregnancy only if the benefits outweigh the risks. Because of their abuse potential, eszopiclone, zaleplon, and zolpidem are classified as schedule IV drugs."
+        },
+        {
+            "parent": 3,
+            "text": "Melatonin has a key role in regulating the sleep-wake cycle, and disruption of the timing of melatonin release or decreased melatonin production can contribute to insomnia. The problem is particularly pronounced when changing time zones or during shift work. Melatonin production also wanes with age, which may be partially responsible for the sleep difficulties experienced by older adults.33Ramelteon (Rozerem) is a melatonin agonist approved by the FDA for insomnia related to sleep latency. Although the effectiveness of ramelteon is modest, it has few adverse effects and is not habit forming.18One small study found that ramelteon decreased the risk of hospital-associated delirium in older adults, lowering the incidence from 32% to 3% compared with placebo.34Ramelteon should be used in pregnancy only if the benefits outweigh the risks."
+        },
+        {
+            "parent": 3,
+            "text": "Controlled-release melatonin is much less expensive and may work as well, if not better, than ramelteon for insomnia. A 2013 meta-analysis found that melatonin at doses of 0.1 mg to 5 mg decreased sleep latency by 7.1 minutes, increased total sleep time by 8.3 minutes, improved overall sleep quality, and had a favorable adverse effect profile.35Because melatonin is not regulated by the FDA and purity varies widely among products, reviewing third-party product evaluations is recommended to determine product quality."
+        },
+        {
+            "parent": 5,
+            "text": "Although antidepressants have been widely used for their sedative effects, only the tricyclic antidepressant doxepin (Silenor) has been FDA approved for the treatment of insomnia characterized by difficulties with sleep maintenance. The mechanism of action is not known but is likely related to antagonism of the histamine H1receptor. Compared with placebo, doxepin at doses of 3 and 6 mg improves sleep efficiency and total sleep time, and a 6-mg dose improves sleep latency.36The adverse effect profile of both doses is favorable in older adults and similar to placebo, even when used long term.18,37Doxepin is also available in a much less expensive generic formulation in 10-mg capsules. Although safe, this dosage has not been approved by the FDA for the treatment of insomnia. Doxepin should be used during pregnancy only if the benefits outweigh the risks. Several other antidepressants are also used off-label to treat insomnia, especially trazodone, which is typically prescribed at dosages of 50 to 100 mg at bedtime. However, the evidence for trazodone is weak, and it should not be considered as first-line therapy.38In addition to trazodone, mirtazapine (Remeron), amitriptyline (Elavil), and nortriptyline (Pamelor) are used off-label for the treatment of insomnia. The evidence for these medications is also limited, and they should be considered only if there is another indication besides insomnia. These medications have anticholinergic effects and should not be used in patients with glaucoma or difficulty with urinary retention."
+        },
+        {
+            "parent": 6,
+            "text": "Diphenhydramine (Benadryl) and doxylamine are available over the counter for the treatment of insomnia, but they are recommended only for the treatment of pregnancy-related insomnia. Although these medications are effective, the evidence for their use is limited compared to that for doxepin.39,40Doxylamine (category A) and diphenhydramine (category B) are first-line therapies for insomnia in pregnant women because they may be effective for nausea and insomnia and are generally considered safe during pregnancy. Hydroxyzine is another antihistamine with sedating qualities, but evidence for its use in the treatment of insomnia is lacking. Sedating antihistamines have significant anticholinergic effects and should be avoided in patients with glaucoma or difficulty with urinary retention."
+        },
+        {
+            "parent": 7,
+            "text": "Several antipsychotic medications are used off-label to treat insomnia, including olanzapine (Zyprexa), quetiapine (Seroquel), and risperidone (Risperdal). As with trazodone, the evidence for their use is weak, and these medications should be used only if the patient has some other indication, such as bipolar disorder.41"
+        },
+        {
+            "parent": 8,
+            "text": "Suvorexant (Belsomra) is the first orexin receptor antagonist approved for the treatment of insomnia. The orexin system regulates the sleep arousal cycle that promotes wakefulness.42Compared with placebo, suvorexant in doses of 10 and 20 mg decreased first-night sleep latency by an average of 3.4 and 9.4 minutes, respectively, but these times did not reach statistical significance.43–45At one month, the 10-mg dose still did not significantly improve sleep latency, but the 20-mg dose did (22.3 minutes compared with placebo). Both dosages reduced awakening after sleep by 21 and 25 minutes, respectively, on the first night of testing and continued during the entire four-week trial.46The most common adverse effect was daytime somnolence, but otherwise the medication was well tolerated. Suvorexant is thought to have moderate potential for addiction and is classified as a schedule IV drug. Given its high cost and addictive potential, suvorexant is not recommended as a first-line treatment for insomnia."
+        },
+        {
+            "parent": 9,
+            "text": "Gabapentin (Neurontin) and pregabalin (Lyrica) have been found to improve sleep, but the mechanism of action is not clear.47,48A randomized, double-blind, placebo-controlled trial of adults who reported occasional sleep disturbance found that taking 250 mg of gabapentin at bedtime improved total sleep time by 64 minutes on day 1 of the trial and 46 minutes on day 28.46Other trials found similar benefits in healthy participants with sleep disturbances and in those with depression and sleep disturbances.48,49Gabapentin is particularly useful for persons with insomnia due to restless legs syndrome.50Pregabalin may also improve sleep quality, but the evidence is too limited to recommend it for this indication.51–53"
+        },
+        {
+            "parent": 10,
+            "text": "Behavioral interventions are the mainstay of treatment for insomnia. If pharmacologic intervention becomes necessary, a tailored approach based on the type of insomnia is suggested(Figure 1). If the initial intervention is ineffective, a different agent in the same class or a different class of medication should be considered. Although some persons can tolerate multiple sedating agents, such as a sedating tricyclic antidepressant and a z-drug, extreme caution should be used when prescribing such combinations. Because of the risk of respiratory depression, patients at risk of sleep apnea or nocturnal hypoxia due to lung disease should be evaluated by a sleep specialist before sedating medication is prescribed. Benzodiazepines are generally not recommended because of their high risk of abuse. If benzodiazepines are prescribed, they should be used for the shortest possible time at the lowest possible dose. Benzodiazepines, z-drugs, atypical antipsychotics, and tricyclic antidepressants (other than low-dose doxepin and nortriptyline) should be avoided in older adults, patients with untreated sleep apnea, and those with chronic nocturnal hypoxia. Herbal medications have not been proven effective for the treatment of insomnia.13"
+        },
+        {
+            "parent": 10,
+            "text": "This article updates previous articles on this topic byRamakrishnan and Scheid54;Rajput and Bromley55; andEddy and Walbroehl.56"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms insomnia, medications, and pharmacological. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Agency for Healthcare Research and Quality evidence reports, Bandolier, Clinical Evidence, the Cochrane database, Database of Abstracts of Reviews of Effects, Essential Evidence Plus, the Institute for Clinical Systems Improvement, the National Guideline Clearinghouse database, the Trip database, and UpToDate. Search dates: December 15, 2015, and March 2017."
+        }
+    ],
+    "locked": false
+}

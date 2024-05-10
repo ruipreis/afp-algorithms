@@ -1,0 +1,192 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/0101/p17.html#afp20190101p17-f1",
+    "title": "Migraine Headache Prophylaxis | AAFP",
+    "author": "HIEN HA, PharmD, AND ANNIKA GONZALEZ, MD",
+    "doi": "Am Fam Physician.2019;99(1):17-24",
+    "abstract": "Migraines impose significant health and financial burdens. Approximately 38% of patients with episodic migraines would benefit from preventive therapy, but less than 13% take prophylactic medications. Preventive medication therapy reduces migraine frequency, severity, and headache-related distress. Preventive therapy may also improve quality of life and prevent the progression to chronic migraines. Some indications for preventive therapy include four or more headaches a month, eight or more headache days a month, debilitating headaches, and medication-overuse headaches. Identifying and managing environmental, dietary, and behavioral triggers are useful strategies for preventing migraines. First-line medications established as effective based on clinical evidence include divalproex, topiramate, metoprolol, propranolol, and timolol. Medications such as amitriptyline, venlafaxine, atenolol, and nadolol are probably effective but should be second-line therapy. There is limited evidence for nebivolol, bisoprolol, pindolol, carbamazepine, gabapentin, fluoxetine, nicardipine, verapamil, nimodipine, nifedipine, lisinopril, and candesartan. Acebutolol, oxcarbazepine, lamotrigine, and telmisartan are ineffective. Newer agents target calcitonin gene-related peptide pain transmission in the migraine pain pathway and have recently received approval from the U.S. Food and Drug Administration; however, more studies of long-term effectiveness and adverse effects are needed. The complementary treatments petasites, feverfew, magnesium, and riboflavin are probably effective. Nonpharmacologic therapies such as relaxation training, thermal biofeedback combined with relaxation training, electromyographic feedback, and cognitive behavior therapy also have good evidence to support their use in migraine prevention.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Identifying and Managing Triggers",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Initiating Preventive Therapy",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Preventive Medication",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ANTICONVULSANTS AND ANTIEPILEPTICS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "ANTIDEPRESSANTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CALCIUM CHANNEL BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ANGIOTENSIN-CONVERTING ENZYME INHIBITORS AND ANGIOTENSIN RECEPTOR BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ONABOTULINUMTOXINA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "CALCITONIN GENE-RELATED PEPTIDE THERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Complementary Therapy",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Nonpharmacologic Therapy",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Special Considerations",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "MENSTRUAL-ASSOCIATED MIGRAINE",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "PREGNANCY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The disabling nature of migraine headaches causes frequent visits to outpatient clinic and emergency department settings, imposing significant health and financial burdens. Headaches rank among the top five reasons for emergency department visits and top 20 reasons for outpatient visits.1The prevalence of migraines is an estimated 16%; they are more common in women, with a peak sex prevalence ratio of 3:1.1Approximately 38% of persons who have episodic migraines would benefit from prophylactic therapy, but only 3% to 13% obtain it.2"
+        },
+        {
+            "parent": -1,
+            "text": "Migraines are distinguished from other headache types by the following attributes: lasting four to 72 hours; unilateral location; pulsating quality; moderate to severe intensity; aggravated by physical activity; and associations with nausea, vomiting, phonophobia, or photophobia. Migraine headaches may be preceded by aura symptoms.3Episodic and chronic migraines are part of a spectrum of migraine disorders but are distinct clinical entities4(Table 13,4). Chronic migraines are less common (1% to 5% of patients with migraines) and are defined as having headaches at least 15 times a month for at least three months.3Limited data guide treatment for chronic migraines, which are associated with a poor quality of life.4Preventive therapy for episodic migraines may decrease headache frequency, severity, and prevent progression to chronic migraines."
+        },
+        {
+            "parent": 0,
+            "text": "Migraine triggers are specific to individuals. A headache diary is a helpful tool to aid patients in identifying particular triggers, monitoring the number of headache days, and documenting therapeutic response. Common triggers include delayed or missed meals, menstruation, stress, weather changes, alcohol, and certain odors. Common dietary triggers include chocolate, soft cheeses, red wine, and artificial sweeteners and additives such as monosodium glutamate.5,6Caffeine can be helpful in relieving headache pain, but acute withdrawal from daily consumption can be a trigger(Table 25,6). After triggers are identified, a physician can recommend ways to manage these triggers, such as avoiding certain foods, establishing regular mealtimes, managing stress, and evaluating and treating underlying sleep disorders or psychiatric conditions."
+        },
+        {
+            "parent": 1,
+            "text": "Considerations for starting prophylactic treatment include the following: having four or more headaches a month or at least eight headache days a month, debilitating attacks despite appropriate acute management, difficulty tolerating or having a contraindication to acute therapy, medication-overuse headache(Table 13,4), patient preference, or the presence of certain migraine subtypes (i.e., hemiplegic migraine; migraine with brainstem aura; migrainous infarction; or frequent, persistent, or uncomfortable aura symptoms)(Figure 17).8"
+        },
+        {
+            "parent": 1,
+            "text": "Once the need for prophylactic treatment is established, adhering to the following consensus-based principles of care may improve the success of preventive therapy.8"
+        },
+        {
+            "parent": 1,
+            "text": "Start therapy with medications that have the highest level of evidence-based effectiveness(Table 39andeTable A).Consider comorbid conditions when selecting a medication; choose medications that also treat these conditions. Avoid agents that are contraindicated or that may exacerbate coexisting conditions(Table 48,10andTable 58).Start with the lowest effective dose and titrate every two to four weeks until therapeutic effect or until patient develops adverse effects(Table 48,10andTable 58).Set realistic goals. Successful treatment is defined as a 50% reduction in the number of headache attacks or days, a significant decrease in the duration of attacks, or an improvement in response to acute therapy.Allow an adequate trial for each treatment. The patient may see improvement in six to eight weeks, but it may take up to six months for full effect.5Reevaluate therapy. Patient may have partial response and require dose titration. Consider changing therapy if no response occurs after two months.Discontinue therapy. If headaches are controlled for at least six to 12 months, consider slowly tapering and discontinuing therapy."
+        },
+        {
+            "parent": 2,
+            "text": "Several medications have been studied for the prevention of episodic migraines. Based on guidelines from the American Headache Society and the American Academy of Neurology, agents with the most quality evidence to support their use should generally be considered first for migraine prevention9,11(Table 39)."
+        },
+        {
+            "parent": 3,
+            "text": "Close to 60 trials confirm the effectiveness of propranolol.7,9Based on nine randomized placebo-controlled trials, the overall relative risk of response to propranolol was 1.94 (95% confidence interval [CI], 1.61 to 2.35).12Metoprolol is also effective. In four studies evaluating the use of metoprolol compared with placebo, the pooled mean difference in headaches per month was –0.94 (95% CI, –1.4 to –0.46).13Timolol has demonstrated effectiveness compared with placebo in three studies.7,9,11Atenolol and nadolol (Corgard) have adequate evidence to support their effectiveness.9"
+        },
+        {
+            "parent": 3,
+            "text": "Less Evidence-Based Options. Nebivolol (Bystolic) has one randomized controlled trial to support its use and is considered possibly effective. This study found that nebivolol and metoprolol were equally effective in reducing migraine attacks in the final four weeks of a 14-week trial.14There are not enough studies to determine the effectiveness of bisoprolol (Zebeta) and pindolol. Acebutolol (Sectral) is not considered effective for migraine prevention.9"
+        },
+        {
+            "parent": 4,
+            "text": "Ten clinical studies have consistently demonstrated that valproic acid in the form of valproate (not available in the United States) or divalproex (Depakote) is effective. In four trials evaluating divalproex and placebo, the risk ratio for responders was 2.18 (95% CI, 1.78 to 3.72).15A more recent study evaluated the use of extended-release divalproex compared with placebo in 239 patients. The divalproex group had a statistically greater mean reduction in four-week migraine headache rates from baseline when compared with placebo, 1.2 vs. 0.6 fewer headaches, respectively.16"
+        },
+        {
+            "parent": 4,
+            "text": "Topiramate (Topamax) is an antiepileptic supported by substantial data. Based on a Cochrane review including 17 trials, topiramate reduces the frequency of headaches and is two times more likely to reduce headache frequency by 50% or more when compared with placebo.17In head-to-head clinical studies, topiramate was as effective as amitriptyline and propranolol.17,18In one study, there was no significant difference in the reduction of mean monthly migraine episodes from baseline between topiramate and amitriptyline.18Based on pooled data from two trials comparing topiramate and propranolol, no significant difference in headache frequency occurred.17"
+        },
+        {
+            "parent": 4,
+            "text": "Less Evidence-Based Options. Carbamazepine (Tegretol) is an antiepileptic that has been studied for use in migraine prevention and is considered possibly effective. Gabapentin (Neurontin) has been compared with placebo in six randomized controlled trials with mixed results. Four studies found no differences in headache frequency or percent responders, whereas two found small, but statistically significant, differences in headache frequency or percent responders.19Because of these mixed results, guidelines do not support or discourage the use of gabapentin. Based on available studies, oxcarbazepine (Trileptal) is categorized as possibly ineffective, and lamotrigine (Lamictal) is considered ineffective.9"
+        },
+        {
+            "parent": 5,
+            "text": "Tricyclic antidepressants, including amitriptyline, doxepin, nortriptyline (Pamelor), and protriptyline, are used in migraine prevention, but only amitriptyline has substantial data from about 12 randomized trials that support its effectiveness.20However, because of a high incidence of adverse effects, it is classified as only probably effective.8,9Venlafaxine is considered probably effective based on two studies. One study was a randomized double-blind crossover study comparing venlafa xine and amitriptyline. Venlafa xine produced a significant decrease in the number of migraine attacks per month as well as a decrease in the duration and severity of attacks. There was no significant difference in effectiveness between venlafaxine and amitriptyline.21"
+        },
+        {
+            "parent": 5,
+            "text": "Less Evidence-Based Options. Studies of fluoxetine (Prozac) have demonstrated inconsistent results. Two placebo-controlled studies showed a significant reduction in headache and pain scores.9,22However, in another study, fluoxetine was not effective in reducing headache frequency or pain scores.23Because of the conflicting data, its use is not supported or discouraged by guidelines.9"
+        },
+        {
+            "parent": 6,
+            "text": "The quality of evidence for calcium channel blockers in migraine prevention is weak. Nicardipine (Cardene) is classified as possibly effective. In past guidelines, verapamil and nimodipine (Nimotop) were originally considered effective for migraine prophylaxis. However, on reevaluation of previous studies, supporting data for verapamil and nimodipine are now considered insufficient. Likewise, data regarding nifedipine are inadequate or conflicting.9"
+        },
+        {
+            "parent": 7,
+            "text": "Three studies have been conducted with angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for migraine prevention. One study demonstrated that patients taking lisinopril reported fewer days with migraines compared with those taking a placebo (14.5 days vs. 18.5 days [95% CI, 9 to 34 days]).24Studies for angiotensin receptor blockers have been conflicting. Candesartan (Atacand) was associated with reduced migraine days and hours as secondary end points in one study, whereas telmisartan (Micardis) failed to show a significant reduction in migraine days compared with placebo in another study.25,26Lisinopril and candesartan are possibly effective, and telmisartan is possibly ineffective for migraine prevention.9"
+        },
+        {
+            "parent": 8,
+            "text": "OnabotulinumtoxinA (Botox) is ineffective and should not be offered for preventing episodic migraine. However, there is evidence supporting the use of onabotulinumtoxinA in the prevention of chronic migraines.27"
+        },
+        {
+            "parent": 9,
+            "text": "Erenumab (Aimovig) was approved by the U.S. Food and Drug Administration in May 2018 for migraine prevention. Erenumab was the first approved monoclonal antibody; it binds to the calcitonin gene-related peptide receptor, which mediates migraine pain transmission. In a six-month study, subcutaneous erenumab, 70 mg and 140 mg given monthly, reduced the baseline mean migraine days per month of 8.3 by 3.2 and 3.7 days, respectively, compared with 1.8 days in the placebo group (P< .001). Injection site pain and constipation were more common in the groups taking erenumab, but no statistically significant differences in adverse effects vs. placebo occurred. More studies are needed to determine its long-term effectiveness and adverse effects.28Two additional monoclonal antibodies against calcitonin gene-related peptide (fremanezumab-vfrm [Ajovy] and galcanezumab-glnm [Emgality]) are approved for migraine prevention."
+        },
+        {
+            "parent": 10,
+            "text": "Petasites, an extract of the butterbur plant, is effective for the prophylactic treatment of migraines in dosages of 50 to 75 mg twice a day.29The most common adverse effects are gastrointestinal upset and belching; less often, hepatotoxicity may occur. Although the American Academy of Neurology retired their 2012 guidelines on complementary therapy secondary to serious safety concerns regarding butterbur,30the Canadian Headache Society still strongly recommends its use. The Canadian Headache Society cautions that only commercially prepared products that have passed federal health inspection should be used.29Other treatments that are probably effective are riboflavin (400 mg daily) and feverfew (Tanacetum parthenium). Coenzyme Q10, 100 mg three times a day, and magnesium dicitrate, 600 mg daily, are possibly effective.29,31"
+        },
+        {
+            "parent": 11,
+            "text": "A U.S. Headache Consortium meta-analysis concluded that relaxation training, thermal biofeedback combined with relaxation training, electromyographic biofeedback, and cognitive behavior therapy may be considered as treatment options for the prevention of migraine. Additionally, behavioral therapy (i.e., relaxation, biofeedback) may be combined with preventive drug therapy (i.e., propranolol, amitriptyline) for patients to achieve additional clinical improvement for migraine relief.11,32A 2016 Cochrane review suggests that adding acupuncture to symptomatic treatment decreases the frequency of headaches and was at least as effective as prophylactic medication.33"
+        },
+        {
+            "parent": 13,
+            "text": "For menstrual migraines, starting preventive therapy before the time of expected migraine onset can help prevent disability and reduce severity.34Frovatriptan (Frova), naratriptan (Amerge), and zolmitriptan (Zomig) all demonstrated effectiveness. Frovatriptan has the strongest evidence and is supported by two clinical studies. In one study, frovatriptan groups had a lower incidence of menstrual headaches during a six-day period vs. placebo (52% with frovatriptan, 2.5 mg daily, vs. 41% with frovatriptan, 2.5 mg two times a day, vs. 67% with placebo;P< .0001). Naratriptan and zolmitriptan have been found beneficial in one study.9,34"
+        },
+        {
+            "parent": 14,
+            "text": "Only flunarizine has sufficient evidence to be considered probably effective for migraine prevention in children, but it is not available in the United States. Agents commonly prescribed for children, such as propranolol and topiramate, have conflicting results in studies. Other agents, including cyproheptadine, amitriptyline, valproic acid (Depakene), and levetiracetam (Keppra), have insufficient data in children. More quality randomized controlled trials are needed in this population.35"
+        },
+        {
+            "parent": 15,
+            "text": "Guidelines on preventing migraines in pregnancy suggest considering nonpharmacologic options before drug therapy. If drug therapy is needed, an agent with the lowest risk of harm to the fetus can be considered at the lowest effective dose.11Although there have been reports of intrauterine growth retardation, beta blockers such as propranolol are generally considered safe in pregnancy.36,37Valproic acid should be avoided in pregnancy because of teratogenic risk. Topiramate and angiotensin-converting enzyme inhibitors should be avoided because of potential fetal harm."
+        },
+        {
+            "parent": 15,
+            "text": "This article updates a previous article on this topic byModi and Lowder.7"
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources:The National Guideline Clearinghouse was used and searched for the key words migraine prevention, migraine prophylaxis, and botulinum and migraines. The search included all relevant guidelines. A PubMed search was completed in Clinical Queries using the key words migraine prevention and migraine prophylaxis. A PubMed search was also completed using the key words author name/publication year for relevant trials noted in various guidelines. The aforementioned searches included randomized controlled trials, clinical trials, guidelines, and reviews. There were also searches using Essential Evidence Plus, the Agency for Healthcare Research and Quality evidence reports, Cochrane database, National Center for Complementary and Integrative Health, and UpToDate. Search dates: July 29, 2017; August 8–9, 2017; September 13–16, 2017; October 20–26, 2017; and October 10, 2018."
+        }
+    ],
+    "locked": false
+}

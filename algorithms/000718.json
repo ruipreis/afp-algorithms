@@ -1,0 +1,154 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0301/p913.html#afp20050301p913-f1",
+    "title": "Oral Analgesics for Acute Nonspecific Pain | AAFP",
+    "author": "CAROLYN J. SACHS, M.D., M.P.H.",
+    "doi": "Am Fam Physician.2005;71(5):913-918",
+    "abstract": "Physicians most often recommend or prescribe oral medication for relief of acute pain. This review of the available evidence supports the use of acetaminophen in doses up to 1,000 mg as the initial choice for mild to moderate acute pain. In some cases, modest improvements in analgesic efficacy can be achieved by adding or changing to a nonsteroidal anti-inflammatory drug (NSAID). The safest NSAID is ibuprofen in doses of 400 mg. Higher doses may offer somewhat greater analgesia but with more adverse effects. Other NSAIDs have failed to demonstrate consistently greater efficacy or safety than ibuprofen. Although they may be more expensive, these alternatives may be chosen for their more convenient dosing. Cyclooxygenase-2 inhibitors provide equivalent efficacy to traditional NSAIDs but lack a demonstrable safety advantage for the treatment of acute pain. For more severe acute pain, the evidence supports the addition of oral narcotic medications such as hydrocodone, morphine, or oxycodone. Specific oral analgesics that have shown poor efficacy and side effects include codeine, propoxyphene, and tramadol.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Search Strategy",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Acetaminophen",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Aspirin",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Traditional NSAIDs",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "EFFICACY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SAFETY AND ADVERSE EFFECTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "COX-2 Selective NSAIDs",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "EFFICACY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "SAFETY AND ADVERSE EFFECTS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Opiates",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "EFFICACY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "SAFETY AND ADVERSE EFFECTS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Tramadol",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Approach to the Patient with Acute Pain",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Approximately one half of the population reports pain or discomfort that persists continuously or intermittently for longer than three months. An even greater number of persons are likely to have acute pain at any one time.1Unfortunately, considerable confusion exists about the efficacy and safety of commonly used analgesics. This review provides a survey of the best available evidence regarding oral analgesia for acute pain, which is defined as pain associated with new tissue injury that typically lasts less than one month, but at times for as long as six months.2Acute pain generally does not involve the long-term, daily use of analgesics."
+        },
+        {
+            "parent": 0,
+            "text": "Much of the literature on oral analgesics defines the efficacy of a specific analgesic as the proportion of patients who need to take that analgesic to experience at least a 50 percent reduction in pain compared with placebo. The concept of number needed to treat (NNT) is a particularly helpful way to convey this outcome. It refers to the number of patients who have to use the treatment for one patient to benefit. For example, when acetaminophen is said to have an NNT of four compared with placebo, it means that for every four patients who take acetaminophen instead of placebo, at least one patient will experience a 50 percent decrease in pain. The other three patients may have a significant decrease in pain (e.g., 40 or 30 percent), but this is not reflected in the NNT. The lower the NNT, the greater the likelihood that a given patient will achieve a 50 percent reduction in pain.3Other measures of pain relief include average decreases on visual analog scales and functional outcome measures. A visual analog scale is a 100-mm line with no pain at one end and severe pain at the other. For meaningful analgesia of acute pain, patients must report at least a 13-mm difference between analgesic choices.4,5"
+        },
+        {
+            "parent": 0,
+            "text": "This review focuses on the most commonly used oral analgesics for acute pain available in the United States: acetaminophen, nonsteroidal anti-inflammatory drugs (NSAIDs), cyclooxygenase-2 (COX-2) inhibitors, tramadol (Ultram), and opiates."
+        },
+        {
+            "parent": 1,
+            "text": "Acetaminophen is a unique analgesic without a clearly defined mechanism. In a meta-analysis of 40 trials involving 4,171 patients comparing acetaminophen with placebo for postoperative pain, acetaminophen in a dose of 1,000 mg had an NNT of 4.6 (95 percent confidence interval [CI], 3.8 to 5.4) for at least 50 percent pain relief versus placebo. Lower doses were less effective.6"
+        },
+        {
+            "parent": 1,
+            "text": "Direct comparative studies between acetaminophen (1,000-mg dose) and NSAIDs show that NSAIDs are more effective than acetaminophen in some situations (e.g., dental and menstrual pain), but provide equivalent analgesia in others (e.g., orthopedic surgery and tension headache).7,8"
+        },
+        {
+            "parent": 2,
+            "text": "Aspirin is an effective analgesic for acute pain, but it has not proved more effective than equal doses of acetaminophen. It also has a worse safety profile than acetaminophen.9"
+        },
+        {
+            "parent": 4,
+            "text": "NSAIDs are excellent analgesics with no clinically important difference in efficacy among specific drugs.10They are superior to acetaminophen for some types of pain, and in many acute pain settings they provide analgesia equal to usual starting doses of narcotics.11However, unlike narcotics that lack a ceiling dose, NSAIDs have a maximum dose above which no additional analgesia is obtained. Higher doses of NSAIDs may be used for anti-inflammatory effects. However, this review focuses only on doses used for analgesia."
+        },
+        {
+            "parent": 4,
+            "text": "Strong evidence supports the use of nonprescription NSAIDs for dysmenorrhea and acute postpartum pain. In a meta-analysis12of randomized controlled trials (RCTs) of analgesics for dysmenorrhea, ibuprofen (Motrin) and naproxen (Aleve, Naprosyn) were equally effective, and both were better than acetaminophen and aspirin. For dysmenorrhea, acetaminophen was no better than placebo. Only naproxen had side effects worse than those of placebo.12Ibuprofen has shown similar effectiveness to a combination of acetaminophen, codeine, and caffeine for postpartum perineal pain with fewer side effects.13"
+        },
+        {
+            "parent": 5,
+            "text": "Side effects may limit the use of NSAIDs. The most serious side effects include gastrointestinal (GI) bleeding and perforation, renal dysfunction, and platelet dysfunction. Ibuprofen provides an excellent GI safety profile that is not significantly different from placebo in dosages of 800 to 1,200 mg per day.14Higher prescription doses of naproxen and ibuprofen are associated with increased GI side effects similar to other prescription NSAIDs.15Epidemiologic data also support the use of 400 mg of ibuprofen first when choosing an NSAID.16Data from studies of subacute and chronic pain (osteoarthritis of the hip) therapy suggest that higher doses may provide better analgesia, but have more adverse effects.17Histamine2blockers, misoprostol (Cytotec), and proton pump inhibitors have been shown to reduce the risk of duodenal ulcers with daily NSAID use.18Only misoprostol (800 mg per day) has been shown to reduce the risk of other serious upper GI injury (i.e., perforation and/or bleeding).19,20The NNT with misoprostol to prevent one serious GI side effect is 264 patients. Based on a cost-effectiveness analysis, researchers concluded that misoprostol should be used only in high-risk patients.21"
+        },
+        {
+            "parent": 7,
+            "text": "Traditional NSAIDs inhibit cyclooxygenase-1 (COX-1) and COX-2 enzymes. Most of the analgesic effects of NSAIDs have been attributed to their COX-2 inhibition, while their undesirable side effects have been attributed to their inhibition of COX-1 enzymes. In recent years, three new oral prescription medications (celecoxib [Celebrex], rofecoxib [Vioxx], and valdecoxib [Bextra]) have been marketed in the United States; they selectively inhibit COX-2 enzymes without inhibiting COX-1 enzymes. Theoretically, these medications could provide analgesia equal to that of traditional NSAIDs without many of the side effects. A meta-analysis of the oldest COX-2 inhibitor, celecoxib, showed fair to good efficacy for postoperative pain with an NNT of 4.5 (95 percent CI, 3.3 to 7.2) compared with placebo.22In several RCTs,23–26rofecoxib has shown good analgesic efficacy for some acute pain conditions (e.g., joint replacement surgery, dysmenorrhea), but not for others (e.g., tonsillectomy, prostate biopsy). Valdecoxib (20 mg and 40 mg) has been effective for acute postoperative pain of wisdom tooth extraction with an NNT of 1.6 to 1.7.27Valdecoxib also has demonstrated analgesia superior to that of placebo in postoperative knee surgery.28Comparative trials have confirmed that COX-2 inhibitors are no more or less effective than NSAIDs."
+        },
+        {
+            "parent": 8,
+            "text": "COX-2 inhibitors are associated with significantly greater numbers of thrombotic cardiovascular events, which offset the increased number of serious GI adverse effects observed with NSAIDs.29Rofecoxib, in particular, demonstrated a 3.9-fold increase in the incidence of serious thromboembolic adverse events compared with placebo after 18 months of use.30This cardiothrombotic risk led to the recent much-publicized recall of rofecoxib from the U.S. market.31Fewer safety data exist for the newest COX-2 inhibitor, valdecoxib. One RCT32found that dosages of 10 mg per day or less produce fewer endoscopically detected ulcers than naproxen (500 mg twice per day). Higher-dosage valdecoxib (20 mg per day) produced numbers of endoscopic ulcers similar to naproxen. In another trial,33valdecoxib (10 mg and 20 mg per day) produced fewer endoscopic ulcers than high-dose NSAIDs (800 mg of ibuprofen three times per day or 75 mg of diclofenac twice per day). Despite trials showing decreased endoscopic ulcers, no data have shown a decrease in meaningful or serious adverse effects with valdecoxib versus other NSAIDs. As with traditional NSAIDs, COX-2 inhibitors may impair renal function and have no benefit over NSAIDs in this area.34Initiation of COX-2 inhibitors in elderly patients with hypertension may be associated with significant edema and increased blood pressure. This is seen particularly with rofecoxib.35"
+        },
+        {
+            "parent": 10,
+            "text": "Opiates are potent and appropriate analgesics for moderate to severe acute pain. No substantial evidence supports the notion that any other narcotic has greater efficacy or fewer side effects than morphine (Duramorph). Regular oral morphine takes one hour to work while sustained-release formulations may take two to four hours. Although use of oral morphine plays a role in the treatment of chronic pain, oral narcotic treatment of acute pain most often involves codeine, propoxyphene (Darvon), hydrocodone (Vicodin), and oxycodone (Roxicodone). Hydrocodone generally is considered the most potent oral narcotic analgesic that does not require specialized prescribing documentation. However, no literature compares hydrocodone with other oral narcotics. The results of one RCT36found that hydrocodone in a dose of 15 mg with 400 mg of ibuprofen is significantly better than 400 mg of ibuprofen alone for postoperative pain. Another trial37found that the combination of 7.5 mg of hydrocodone and 750 mg of acetaminophen was highly effective for the relief of acute pain.37Single-dose oral oxycodone, with or without acetaminophen, appears to be comparable in efficacy to intramuscular morphine and NSAIDs. Side effects are similar to other narcotics.38"
+        },
+        {
+            "parent": 10,
+            "text": "Codeine, a prodrug, depends on P450 metabolism to morphine for its analgesic effect. In patients deficient in cytochrome P450 (up to 10 percent of white persons), the drug lacks efficacy. This may explain why the literature has shown it to be a relatively poor analgesic. A meta-analysis39of codeine in a dose of 60 mg for acute pain from surgery and dental extraction trials showed poor efficacy with an NNT of 16.7 (95 percent CI, 11 to 48)."
+        },
+        {
+            "parent": 10,
+            "text": "As with codeine, propoxyphene has poor efficacy and significant side effects. A meta-analysis40of 26 trials involving 2,231 patients compared the combination of acetaminophen and propoxyphene with acetaminophen alone or placebo. The narcotic combination offered little benefit over acetaminophen alone. Another systematic review41found that the NNT for a single 65-mg dose of propoxyphene to achieve at least 50 percent pain relief was 7.7 (95 percent CI, 4.6 to 22) when compared with placebo. For the combination of propoxyphene and acetaminophen (650 mg), the NNT was 4.4 (95 percent CI, 3.5 to 5.6) when compared with placebo, similar to the NNT for acetaminophen alone. Adverse effects of propoxyphene were similar to those reported in trials of codeine.41Thus, propoxyphene provides minimal if any additional analgesia to acetaminophen alone and is associated with significant adverse effects. It cannot be recommended for routine use."
+        },
+        {
+            "parent": 11,
+            "text": "At therapeutically equivalent doses, different narcotics are likely to produce similar levels of side effects such as constipation, respiratory and cardiovascular depression, nausea, and pruritus. While clinical trials have failed to show that any one narcotic has fewer side effects than another in the population as a whole, persons vary greatly with regard to their tolerance for narcotic side effects. Tolerance and physical dependence can occur with chronic use of all opioids, but these are not generally a concern in the treatment of acute pain. No evidence supports the use of agonist/antagonist medications (e.g., pentazocine [Talwin], butorphanol [Stadol]) to decrease opioid side effects. In fact, the literature suggests that these medications produce more side effects than more effective narcotics. One randomized, single-dose postoperative study42reported a 20 percent rate of dysphoria with pentazocine and butorphanol versus a 3 percent rate with other opioids."
+        },
+        {
+            "parent": 12,
+            "text": "Tramadol, a unique analgesic possessing both opiate and noradrenergic qualities, has been promoted as having improved safety and a decreased abuse potential. An RCT43comparing single doses of tramadol and hydrocodone-acetaminophen in 68 patients with soft-tissue pain found significantly lower pain scores in patients receiving hydrocodoneacetaminophen, even using an inadequate dose of 5 mg of hydrocodone with 500 mg of acetaminophen. Tramadol also has proved ineffective for postoperative orthopedic pain.44"
+        },
+        {
+            "parent": 12,
+            "text": "Tramadol can cause serious neurotoxicity in quantities just five times the usual dose. Symptoms reported with overdose in one case series45were the following: lethargy, 26 (30 percent); nausea, 12 (14 percent); tachycardia, 11 (13 percent); agitation, nine (10 percent); seizures, seven (8 percent); coma and hypertension, four each (5 percent); and respiratory depression, two (2 percent). Because of its inferior efficacy and no clear benefit regarding safety compared with other alternatives, tramadol should not be a first-line oral analgesic."
+        },
+        {
+            "parent": 13,
+            "text": "Overall points regarding drug classes are listed inTable 1,6–8,10,12–14,18–20,22–31,34–41and more specific prescribing information is given inTable 2.6,8,12,22,27,28,37–39,41,43,44,46,47When efficacy, side effects, and cost are balanced, the evidence supports a treatment algorithm for oral acute pain therapy that begins with acetaminophen or ibuprofen for mild to moderate pain and progresses to the use of narcotics (i.e., hydrocodone or oxycodone) in combination with acetaminophen or ibuprofen for severe pain. COX-2 inhibitors provide analgesia equal to traditional NSAIDs for many painful conditions, but lack a better safety profile in acute pain treatment and are significantly more expensive. They may be a choice for some patients in whom acetaminophen has been ineffective and NSAIDs are contraindicated because of previous episodes of GI bleeding.Figure 1summarizes this approach."
+        }
+    ],
+    "locked": false
+}

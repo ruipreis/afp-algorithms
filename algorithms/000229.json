@@ -1,0 +1,193 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0315/p373.html#afp20170315p373-f1",
+    "title": "Multiple Myeloma: Diagnosis and Treatment | AAFP",
+    "author": "THOMAS C. MICHELS, MD, MPH, AND KEITH E. PETERSEN, DO",
+    "doi": "Am Fam Physician.2017;95(6):373-383A",
+    "abstract": "Multiple myeloma accounts for 1.6% of all cancer cases and approximately 10% of hematologic malignancies in the United States. In 2015, an estimated 28,850 new cases of multiple myeloma were diagnosed in the United States, and the disease caused more than 11,000 deaths. Patients older than 65 years account for 85% of those diagnosed with multiple myeloma, and there is a twofold increased incidence in blacks compared with whites. Patients may present with bone pain or with symptoms that are often nonspecific, such as nausea, vomiting, malaise, weakness, recurrent infections, and weight loss. Many patients present with only laboratory abnormalities, such as anemia, renal disease, and elevated protein levels. The diagnosis of multiple myeloma requires increased numbers of immature, abnormal, or atypical plasma cells in the bone marrow; a monoclonal protein in the serum or urine; or characteristic bone lesions. The diagnostic workup in a patient with suspected multiple myeloma should include a complete blood count with differential; serum chemistries; creatinine, lactate dehydrogenase, and beta2-microglobulin tests; immunoglobulin studies; skeletal survey; and bone marrow evaluation. Initiation of chemotherapy and assessment of eligibility for autologous stem cell transplantation require referral to an oncologist. Most patients with multiple myeloma will receive thromboprophylaxis, bisphosphonate therapy, and prophylaxis against infection at some point in their treatment. Family physicians play a role in assessing these patients for infection, adverse treatment effects, and renal and thrombotic complications, and in managing issues related to pain, nutrition, and psychosocial support.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology and Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Presentation and Evaluation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Staging and Prognosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Specific Treatment Issues",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "RENAL DISEASE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "BONE DISEASE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "THROMBOEMBOLIC EVENTS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "INFECTION",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "OTHER COMPLICATIONS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Role of the Family Physician",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Multiple myeloma is a malignancy of plasma cells; these cells accumulate in bone marrow and overproduce a monoclonal protein. Plasma cell malignancies include a spectrum of diseases, from monoclonal gammopathy of undetermined significance (MGUS) to smoldering multiple myeloma (SMM), clinical multiple myeloma, and, rarely, plasma cell leukemia. The disease process is insidious, with end-organ damage occurring over years.1,2"
+        },
+        {
+            "parent": -1,
+            "text": "In 2014, the International Myeloma Working Group revised the diagnostic criteria for multiple myeloma. These new criteria add myeloma-defining events, the presence of any one of which is sufficient to diagnose multiple myeloma."
+        },
+        {
+            "parent": -1,
+            "text": "Intravenous zoledronic acid (Reclast) or pamidronate is recommended for all patients with multiple myeloma who are receiving treatment, regardless of the presence of bone lesions."
+        },
+        {
+            "parent": 0,
+            "text": "Multiple myeloma accounts for 1.6% of all cancer cases and approximately 10% of hematologic malignancies in the United States.3In 2015, there were an estimated 28,850 new cases of multiple myeloma diagnosed in the United States and more than 11,000 related deaths.3The median age of presentation is 70 years; only 15% of patients diagnosed with multiple myeloma are younger than 65 years. Blacks have a twofold higher incidence compared with whites and present at a younger age.4"
+        },
+        {
+            "parent": 0,
+            "text": "Cytogenetic abnormalities are detected in 90% of the plasma cells in patients with multiple myeloma, and multistep genetic alterations lead to the progression from MGUS to multiple myeloma in some persons.1,2The monoclonal protein produced by these plasma cells is an abnormal immunoglobulin (immunoglobulin G [IgG], IgM, or IgA, or, rarely, IgE or IgD) or light chain protein (kappa or lambda), either of which causes hyperviscosity and end-organ damage. Invasive bone lesions can cause pathologic fractures, bone pain, osteoporosis, and hypercalcemia. Bone marrow invasion leads to anemia, and immunologic changes cause recurrent infections.1,5"
+        },
+        {
+            "parent": 0,
+            "text": "Patients with MGUS develop multiple myeloma at a rate of approximately 1% per year. SMM progression occurs at a rate of 10% per year for the first five years, then at a lower rate. Risk factors for disease progression of these conditions include non-IgG subtype, higher levels of monoclonal protein, abnormal free light chain ratio, and certain gene alterations.2,6,7"
+        },
+        {
+            "parent": 1,
+            "text": "In asymptomatic patients, multiple myeloma is most likely to be identified through laboratory abnormalities such as hypercalcemia, anemia, or proteinuria.8Patients may present with nonspecific symptoms, such as nausea, vomiting, malaise, weakness, recurrent infections, or weight loss. Symptoms of bone disease (e.g., pain from fracture or plasmacytoma, spinal cord compression), peripheral neuropathy, or hyperviscosity (e.g., dyspnea, transient ischemic attack, retinal hemorrhage, deep venous thrombosis) can occur. Anemia is present in nearly all patients with multiple myeloma at some point in the disease(Table 1).9A detailed history focused on symptoms should be taken when any of these results or symptoms are reported."
+        },
+        {
+            "parent": 1,
+            "text": "Physical examination is primarily helpful for identifying other symptom causes. Most patients with multiple myeloma have normal physical examination findings on presentation.9Laboratory evaluation in a patient with suspected multiple myeloma has the highest diagnostic yield. Initial and follow-up tests are discussed inTable 210–12andFigure 1.1,2,6,12–19"
+        },
+        {
+            "parent": 2,
+            "text": "The differential diagnosis of multiple myeloma usually involves the spectrum of plasma cell proliferative disorders shown inTable 3.1,2,6,13,14,20A full evaluation will help classify where a patient falls in this spectrum. The differential diagnosis of bone lesions includes primary or metastatic cancer, benign bone lesions, osteoporotic compression fracture, and other bone conditions.21,22The full differential diagnosis for patients presenting with fatigue, unexplained weight loss, or hypercalcemia is broad and beyond the scope of this article.23–25"
+        },
+        {
+            "parent": 3,
+            "text": "The continuum of related plasma cell proliferative disorders and diagnostic criteria is presented inTable 3.1,2,6,13,14,20"
+        },
+        {
+            "parent": 3,
+            "text": "The classic definition of multiple myeloma required a clonal proliferation of plasma cells with evidence of end-organ damage.6,13,20Typically, the CRAB criteria are present: calcium (hypercalcemia), renal impairment, anemia, and bone involvement (osteolytic lesions such as those shown inFigure 2andeFigure A). Clinical judgment is used in discerning if these findings are attributable to the monoclonal proliferative disorder. In November 2014, the International Myeloma Working Group (IMWG) revised the diagnostic criteria for several reasons: imaging is now able to detect asymptomatic disease, biomarkers can better predict progression, and evidence has shown that treating asymptomatic disease is beneficial.26–28These new criteria add myeloma-defining events, the presence of any one of which is sufficient for diagnosis when clonal plasma cell proliferation or plasmacytoma has been detected20(Table 31,2,6,13,14,20)."
+        },
+        {
+            "parent": 3,
+            "text": "In patients who have been diagnosed with SMM, myeloma-defining events are associated with a very high risk of progression of multiple myeloma (80% within two years vs. 10% per year for the first five years in the absence of these features).20One implication of the new IMWG criteria is that patients being evaluated for SMM should undergo whole-body magnetic resonance imaging or positron emission tomography and computed tomography rather than a plain film skeletal survey because the latter is less sensitive for detecting bone lesions.29"
+        },
+        {
+            "parent": 4,
+            "text": "The International Staging System, which uses serum beta2-microglobulin and albumin levels, is the most widely adopted multiple myeloma staging system.30Recently, the IMWG developed the Revised International Staging System, using traditional staging criteria plus the presence of chromosomal abnormalities by fluorescence in situ hybridization and serum lactate dehydrogenase levels.31The newer staging system was found to predict progression-free and overall survival and has been recommended for use in future studies. Other guidelines recommend fluorescence in situ hybridization testing in all cases of newly diagnosed myeloma to identify high-risk patients.11,32In the future, gene expression profiling may have a role in staging, but currently this procedure is neither validated nor practical.11,30,31Table 4outlines traditional and newer staging systems.1,2,31,32"
+        },
+        {
+            "parent": 5,
+            "text": "Treatment for multiple myeloma has evolved, sequentially changing survival outlook. The development of proteasome inhibitors and immunomodulatory drugs has had the largest impact. Most recently, monoclonal antibodies have been approved for treatment of myeloma. Ancillary care for myeloma-related bone disease and other interventions have also resulted in improved survival. Median overall survival has increased, improving from a range of one to two years to seven to eight years, with a better quality of life and some patients achieving long-term survival. Five-year survival progressed from approximately 30% in 1990 to 45% in 2007.2,3,6,11,14"
+        },
+        {
+            "parent": 5,
+            "text": "In deciding on treatment options, oncologists take into account disease-specific parameters, such as stage and gene expression profile of the clonal plasma cells, and patient factors, including comorbid illnesses and functional status. The optimal treatment for multiple myeloma is two- or three-drug myeloablative chemotherapy, followed by autologous stem cell transplantation (ASCT). ASCT improves median survival in patients with multiple myeloma by approximately 12 months, with a 10% long-term survival rate in some studies.13–15,33Older patients and those with substantial comorbidities have typically not been candidates for this therapy and were offered alternative chemotherapy instead. However, more recent evidence indicates that age itself does not preclude benefit from this treatment, and healthy adults in their 70s are now offered this more aggressive management.33,34Assessment of older patients as fit, frail, or intermediate has been shown to predict discontinuation of therapy and overall survival.35"
+        },
+        {
+            "parent": 5,
+            "text": "Patients who are candidates for ASCT are typically treated with induction chemotherapy, followed by transplantation. After ASCT, short-term consolidation therapy is used, followed by maintenance therapy designed to prolong the response at minimal toxicity.11,12,14Patients who are not candidates for ASCT are initially treated with chemotherapy.16Based on good response rates to newer chemotherapeutic agents in patients not eligible for ASCT, some have questioned whether these treatments should replace transplantation; ongoing studies will clarify the answer to this question.6,15Different chemotherapeutic drugs and their main adverse effects are presented inTable 5.1,2,13,15,16,36The specific agents used at each stage of disease are beyond the scope of this article."
+        },
+        {
+            "parent": 5,
+            "text": "Select patients with SMM who are at increased risk of progression should be considered for treatment. These decisions involve discussion between the patient and oncologist; such patients should be considered for enrollment in ongoing clinical trials.12"
+        },
+        {
+            "parent": 7,
+            "text": "Impairment of renal function is common in patients with multiple myeloma and can occur for a number of reasons, including free light chain damage to the proximal tubules, hypercalcemia, hyperuricemia, volume depletion, infections, and adverse effects of nephrotoxic drugs. Renal toxic drugs and imaging studies with contrast media should be avoided in patients with myeloma. Patients presenting with an acute kidney injury need treatment directed at the underlying cause. Intravenous normal saline of at least 3 L per day is recommended. In patients with kidney injury and elevated serum light chains, dexamethasone is typically used with chemotherapy to reduce light chain load.11,12"
+        },
+        {
+            "parent": 8,
+            "text": "Bone disease develops in 80% to 90% of patients with myeloma and includes bone pain, pathologic fractures (40%), spinal cord compression (5%), and hypercalcemia. These skeletal-related events compromise mobility and independence, adversely affect quality of life, and are associated with decreased survival.2,37The 2013 IMWG consensus statement on the treatment of bone disease recommends intravenous zoledronic acid (Reclast) or pamidronate for all patients with multiple myeloma who are receiving treatment, regardless of the presence of bone lesions.37Both of these bisphosphonates have been shown to decrease vertebral compression fractures and other bone complications; zoledronic acid was shown to improve survival in one randomized controlled trial.37,38"
+        },
+        {
+            "parent": 8,
+            "text": "Patients with multiple myeloma should take calcium and vitamin D3supplements; calcium should be used cautiously in patients with renal insufficiency. For patients who have sustained a vertebral compression fracture, balloon kyphoplasty has been shown to improve pain and function. Patients with actual or impending spinal cord compression should receive orthopedic or neurosurgical consultation.12,37"
+        },
+        {
+            "parent": 9,
+            "text": "Without prophylaxis, thromboembolic events are extremely common in patients with multiple myeloma, especially those receiving immunomodulatory drugs. Prospective randomized trials have shown a reduction in the incidence of thromboembolic complications from 12% to 26% to rates of 5% to 8% or less with low-molecular-weight heparin, warfarin (Coumadin), or aspirin.39,40Patients treated for multiple myeloma, especially those receiving immunomodulatory drugs, should receive thromboprophylaxis for four to six months when first diagnosed or until their disease is controlled.41,42The American Society of Clinical Oncology recommends using low-molecular-weight heparin or warfarin (target international normalized ratio = 2 to 3).39The IMWG recommends stratification based on typical thromboembolic risk factors and that aspirin alone be considered for the lowest-risk patients.39,41"
+        },
+        {
+            "parent": 10,
+            "text": "Patients with multiple myeloma are at high risk of serious infections; prompt recognition and treatment are critical. Prophylactic antibiotics are recommended in certain situations; this includes use of trimethoprim/sulfamethoxazole or a fluoroquinolone for the first three months of treatment.16Prophylactic penicillin is prescribed only for recurrent pneumococcal infections; intravenous immune globulin is given for recurrent serious bacterial infections. Prophylactic antiviral treatment is recommended for patients taking proteasome inhibitors because of the risk of varicella-zoster virus reactivation.11,14Immunization against pneumococcal pneumonia,Haemophilus influenzae, and influenza virus is recommended, especially for patients receiving ASCT; vaccinations should be administered at diagnosis, after evaluation of the patient's immune status, or at least two weeks before or several months after the transplantation.12,42,43"
+        },
+        {
+            "parent": 11,
+            "text": "Patients with multiple myeloma often develop anemia. Evidence supports a restrictive transfusion policy (i.e., transfusion for hemoglobin levels less than 7 g per dL [70 g per L] in most patients); erythropoiesis-stimulating agents decrease the need for red blood cell transfusions, but increase the risk of thromboembolic complications and death.44High concentrations of serum paraproteins (e.g., IgG 4 to 10 g per dL) cause hyperviscosity syndrome, which is treated with urgent plasma exchange and antimyeloma chemotherapy.11"
+        },
+        {
+            "parent": 12,
+            "text": "Family physicians should have a high index of suspicion for multiple myeloma because presenting symptoms are often nonspecific. Patients with plasma cell disorders should be monitored for complications such as the development of bone pain, peripheral neuropathy, infections, thromboembolism, weight loss, fatigue, and treatment toxicity such as cytopenias and gastrointestinal symptoms. Patients with MGUS and SMM should also have regular monitoring of paraprotein and serum light chain levels. Addressing nutritional issues and pain control is an important concern. Pain management is multimodal with use of analgesic and neuropathic medications, radiation therapy, and psychological support. A regular exercise program has been shown to improve quality of life in patients with hematologic malignancies.45End-of-life care is a strength of family physicians and includes managing symptoms and addressing unmet holistic needs and caregiver support.46"
+        },
+        {
+            "parent": 12,
+            "text": "This article updates previous articles on this topic byGeorge and Sadovsky47and byNau and Lewis.5"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources: The authors searched for multiple myeloma in Essential Evidence Plus, the Cochrane Database of Systematic Reviews, National Guideline Clearinghouse, UpToDate, and DynaMed. Pubmed and Ovid searches were restricted to review articles. Specific journals, such asAmerican Family PhysicianandNew England Journal of Medicine, were searched for all articles on multiple myeloma published since 2010. Search dates: November 27, 2015; December 15, 2015; January 4, 2016; January 13, 2016; and May 10, 2016."
+        },
+        {
+            "parent": 12,
+            "text": "Figure 2andeFigure Acourtesy of David W. Grant, DO."
+        },
+        {
+            "parent": 12,
+            "text": "The authors would like to thank Ross Michels, MD, for his recommendations on revising the manuscript."
+        },
+        {
+            "parent": 12,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the U.S. Army Medical Department or the U.S. Army Service at large."
+        }
+    ],
+    "locked": false
+}

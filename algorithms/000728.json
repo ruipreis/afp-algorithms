@@ -1,0 +1,156 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/1215/p2325.html#afp20041215p2325-f2",
+    "title": "Diagnosis and Treatment of Hypothermia | AAFP",
+    "author": "LYNNE MCCULLOUGH, M.D., AND SANJAY ARORA, M.D.",
+    "doi": "Am Fam Physician.2004;70(12):2325-2332",
+    "abstract": "Although hypothermia is most common in patients who are exposed to a cold environment, it can develop secondary to toxin exposure, metabolic derangements, infections, and dysfunction of the central nervous and endocrine systems. The clinical presentation of hypothermia includes a spectrum of symptoms and is grouped into the following three categories: mild, moderate, and severe. Management depends on the degree of hypothermia present. Treatment modalities range from noninvasive, passive external warming techniques (e.g., removal of cold, wet clothing; movement to a warm environment) to active external rewarming (e.g., insulation with warm blankets) to active core rewarming (e.g., warmed intravenous fluid infusions, heated humidified oxygen, body cavity lavage, and extracorporeal blood warming). Mild to moderate hypothermia is treated easily with supportive care in most clinical settings and has good patient outcomes. The treatment of severe hypothermia is more complex, and outcomes depend heavily on clinical resources. Prevention and recognition of atypical presentations are essential to reducing the rates of morbidity and mortality associated with this condition.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Laboratory",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "REWARMING",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DISPOSITION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Although fever is the most commonly encountered disorder of thermoregulation, hypothermia has played a major role in shaping history and medicine for millennia. Hypothermia was the reported cause of death of 13,970 persons in the United States between 1979 and 1998, which is an average of approximately 700 persons per year. Almost one half of these deaths involved patients older than 65 years, with an overall male-to-female ratio of 2.5:1.1Important risk factors that predispose the body to poor temperature regulation include very young or advanced age, the presence of comorbid conditions, and intoxication."
+        },
+        {
+            "parent": -1,
+            "text": "In urban areas, hypothermia frequently occurs with chronic cold exposure as well as with immersion accidents involving intoxicants or mental illness.2,3In more rural environments, the incidence of hypothermia is higher among nonambulatory patients and those with significant comorbidities.4With a rapidly growing interest in wilderness exploration, and outdoor and water sports, the incidence of hypothermia secondary to accidental exposure may become more frequent in the general population."
+        },
+        {
+            "parent": 0,
+            "text": "Body heat is lost to the environment via five mechanisms: radiation, conduction, convection, evaporation, and respiration. Radiative heat loss is secondary to infrared heat emission, occurs primarily from the head and noninsulated areas of the body, is the most rapid, and accounts for more than 50 percent of heat loss. Conduction, which is the transfer of heat via direct contact, is an important mechanism in immersion incidents, because the thermal conductivity of water is approximately 30 times that of air."
+        },
+        {
+            "parent": 0,
+            "text": "Convective heat loss occurs with the movement of fluid or gas, carrying significantly more heat away from the body in windy conditions by rapidly removing the warm, insulating layer of air that initially is in direct contact with the skin. This mechanism also explains the significance of wind chill, because the amount of heat carried away from the body is proportional to wind speed. Evaporation and respiration work via the same mechanism involving water droplets, and contribute to hypothermia mostly in cool, dry, windy environments, because all liquid will vaporize as the humidity gradient decreases."
+        },
+        {
+            "parent": 0,
+            "text": "To maintain temperature homeostasis, the hypothalamus orchestrates a counterattack against heat loss via heat conservation and heat production. Heat conservation is achieved by peripheral vasoconstriction reducing heat conduction to the skin, and behavioral responses, such as the layering of warm clothing, to increase insulation. Heat production is accomplished by shivering, which can increase the normal basal metabolic rate by two to five times, and through nonshivering thermogenesis via increased levels of thyroxine and epinephrine. In a cold environment, homeostasis can be overwhelmed, heat production can cease, and the core body temperature can drop after only a few hours secondary to fatigue and glycogen depletion.5"
+        },
+        {
+            "parent": 1,
+            "text": "The causes of hypothermia are numerous (Table 1), but a few deserve special mention because failure to recognize atypical presentations and initiate early treatment of specific causes increases the rates of morbidity and mortality. The diagnosis of environmental hypothermia is obvious in patients found outdoors in cold climates, but may be overlooked in patients found indoors."
+        },
+        {
+            "parent": 1,
+            "text": "Patients who are indoors in warm environments may develop hypothermia secondary to air conditioning or ice baths. These indoor patients with hypothermia tend to be elderly, and they may present initially to their regular physician with vague complaints of mental and/or motor skill deterioration. The subtle symptoms of early mild to moderate hypothermia are less obvious in indoor Patients; however, indoor patients have a significantly higher mortality rate than their outdoor counterparts, most likely secondary to increased age and later time of discovery and diagnosis.6,7"
+        },
+        {
+            "parent": 1,
+            "text": "Other causes of hypothermia include metabolic disorders that are linked to a decreased basal metabolic rate and can be related to dysfunction of the thyroid, adrenal, or pituitary glands. In addition, ethanol can cause hypothermia by increasing heat loss via vasodilation and by impairing behavioral responses to cold. Sepsis may present with a low temperature, especially at the extremes of age, and heralds a poor outcome from bacteremia.8"
+        },
+        {
+            "parent": 2,
+            "text": "Although the pathophysiology and clinical findings of hypothermia occur along a continuum, the generally accepted definition divides the spectrum into three zones: mild, moderate, and severe (Table 2). As mentioned previously, mild hypothermia may present subtly, especially in elderly patients. When considering the diagnosis, a false sense of reassurance may be given by standard clinical thermometers, which measure only as low as 34.4°C (94°F). It is important to use special low-reading rectal thermometers or rectal thermistor probes, when available. Tympanic thermometry and bladder probes also have been used frequently in research, but further studies are needed to determine their accuracy in patients with hypothermia. Although the ideal mode of core temperature measurement is controversial, the best strategy is to simultaneously use as many methods as are available because the body contains temperature gradients during rewarming."
+        },
+        {
+            "parent": 3,
+            "text": "Renal failure secondary to rhabdomyolysis or acute tubular necrosis may occur. Electrolyte levels may change rapidly during resuscitation and should be checked frequently.2Potassium levels, in particular, fluctuate because of acid-base changes that occur during rewarming. Patients with hypothermia typically are coagulopathic because of temperature-dependent enzymes in the coagulation cascade, although the results of coagulation studies are frequently normal as the blood sample is heated to 37°C (98.6°F) before analysis."
+        },
+        {
+            "parent": 3,
+            "text": "Coagulopathies typically are self-limited and require no intervention.9Although previously controversial, research supports the use of uncorrected values of arterial blood gas measurements in clinical decision making.10Because the white blood cell count is inaccurate in identifying the presence of infection, high-risk groups such as neonates, elderly patients, and persons who are immunocompromised should be treated empirically with antibiotics while an infectious precipitant is pursued.11"
+        },
+        {
+            "parent": 4,
+            "text": "In addition to the case-specific therapies mentioned above, some general principles apply to all patients. If bedside glucose testing is unavailable, a trial of glucose is warranted because most patients have depleted their glycogen stores, and hypothermia masks the clinical signs of hypoglycemia. Thiamine also may be given empirically to all patients because a patient’s history of alcohol abuse may not be available and thiamine has minimal adverse effects. Wet clothing should be removed and replaced with blankets for insulation. Excessive movement and nasogastric tube placement should be avoided because these have been shown to precipitate ventricular fibrillation. Aggressive resuscitation with warmed fluid helps to overcome dehydration caused by cold diuresis."
+        },
+        {
+            "parent": 4,
+            "text": "In general, steroid supplementation should not be given empirically to all patients. Stress dose steroids should be restricted to patients with a history of known adrenal insufficiency and those whose body temperature fails to normalize despite the use of appropriate warming techniques."
+        },
+        {
+            "parent": 4,
+            "text": "The cardiovascular examination of patients with hypothermia is extremely difficult. Because pulses may be difficult to appreciate without Doppler ultrasonography, the American Heart Association (AHA) recommends palpating for pulses for at least 30 to 45 seconds before initiating cardiopulmonary resuscitation.12A myriad of electrocardiographic changes may be seen in patients with hypothermia, ranging from tachycardia to bradycardia to atrial fibrillation with slow ventricular response to ventricular fibrillation and asystole. Prolongation of PR, QRS, and QT intervals; J waves (Figure 1); and mimicking of acute coronary syndromes also may be seen."
+        },
+        {
+            "parent": 4,
+            "text": "Although most dysrhythmias will correct with warming alone, ventricular fibrillation should be treated with defibrillation. If initially unsuccessful, additional attempts at defibrillation and use of intravenous medications should be withheld until the patient is warmed to above 30°C (86°F) while basic life support is continued.13Most other dysrhythmias do not require specific treatment and will resolve spontaneously with rewarming. If the patient is warmed and ventricular fibrillation persists, the current AHA guidelines call for the use of amiodarone.14"
+        },
+        {
+            "parent": 5,
+            "text": "In patients with hypothermia, the decision to use passive or active rewarming techniques should be based on several clinical parameters and the degree of hypothermia (Figure 2). Passive rewarming can be used as the sole treatment modality of patients with mild hypothermia and involves moving the patient to a warm, dry environment and providing adequate insulation. For passive rewarming to be successful, the patient must have intact thermoregulatory mechanisms, normal endocrine function, and adequate energy stores to create endogenous heat. A disadvantage of passive rewarming is that the body’s core temperature rises very slowly."
+        },
+        {
+            "parent": 5,
+            "text": "Active external rewarming is simply the application of heat directly to the skin, and is only effective in the presence of intact circulation that can return peripherally rewarmed blood to the core. Hot water bottles and heating pads (applied to truncal areas only) may cause burns to cold and vasoconstricted skin. Forced-air warming systems (e.g., Bair Hugger temperature management units manufactured by Arizant Healthcare Inc.) are an efficient way to initiate heat transfer via convection during active external rewarming.15A relatively new technique of active external rewarming is the use of arteriovenous anastomoses. When opened and heated, these small organs located below the skin carry warmed subcutaneous venous blood to the body’s core. Opening can be accomplished by immersion of the hands or the feet in 45°C (113°F) water, or by applying negative pressure when the forearm is inserted in a special device containing heated air in a vacuum of −40 mm Hg. The clinical usefulness of this method still is being investigated.16"
+        },
+        {
+            "parent": 5,
+            "text": "A major complication of active external rewarming is “core temperature afterdrop,” which results when cold peripheral blood rapidly returns to the heart. Historically, this has led to many unwarranted deaths because patients were thought to be getting worse and rewarming was aborted. This complication can be minimized by always using minimally invasive core rewarming before active external rewarming."
+        },
+        {
+            "parent": 5,
+            "text": "In addition, “rewarming acidosis” may occur as pooled lactic acid from the periphery joins the central circulation. Peripheral vasodilation in response to active external rewarming may cause venous pooling and “rewarming shock.” Because of these complications, patients may deteriorate briefly before they begin to improve. Perhaps the most effective active external rewarming method that minimizes complications is the Bair Hugger; according to the results of one study15that used this modality, no rewarming shock or afterdrop occurred."
+        },
+        {
+            "parent": 5,
+            "text": "Active core rewarming techniques exist on a spectrum of invasiveness and potential complications. Currently, no studies compare one modality to the others; thus, the method chosen depends on available clinical resources. Airway rewarming with humidified oxygen at 40°C (104°F) is done easily, increases core temperature by 1.0°C (1.8°F) to 2.5°C (4.5°F) per hour, and decreases evaporative heat loss via respiration.17Intravenous fluids (preferably 5 percent dextrose and normal saline) should be heated to 40°C to 45°C. Heating intravenous fluids can be accomplished most easily using a blood warmer, but a microwave can be used, if calibrated in advance.18These two methods of active core rewarming have minimal drawbacks and should be implemented on all patients, except those who require passive rewarming measures only."
+        },
+        {
+            "parent": 5,
+            "text": "The most effective method of active core rewarming is extracorporeal blood warming, accomplished by cardiopulmonary bypass, arteriovenous rewarming, venovenous rewarming, or hemodialysis. These techniques are highly effective and increase core temperature by 1°C to 2°C (3.6°F) every three to five minutes.19A retrospective study20of 32 patients with severe hypothermia who were treated with cardiopulmonary bypass demonstrated a survival rate of 47 percent on seven-year follow-up. Unfortunately, not all health care centers will have access to this invasive treatment modality."
+        },
+        {
+            "parent": 5,
+            "text": "Active core rewarming also can be accomplished by warm lavage of several body cavities. Gastric, colonic, and bladder lavage have slower rates of increased temperature (1.0°C to 1.5°C [2.7°F]) secondary to a limited area for heat exchange.2Peritoneal dialysis with normal saline, lactated ringers, or a dialysate solution heated to 40°C to 45°C at a rate of 6 to 10 L per hour has been shown to increase body temperature by 1°C to 3°C (5.4°F) per hour when combined with heated oxygen.21It should be emphasized that all of these methods are slow and are to be used in the patient with moderate to severe hypothermia only if extracorporeal blood warming is unavailable."
+        },
+        {
+            "parent": 5,
+            "text": "Active core rewarming via closed thoracic lavage involves the placement of a large bore 2.2°C (36°F) or 3.3°C (38°F) thoracostomy tube in the midaxillary line and another in the midclavicular line to provide an inflow and outflow tract for heated normal saline. Open thoracic lavage involves direct mediastinal irrigation after thoracotomy and the core body temperature will increase by 8°C (14.4°F) per hour. In one retrospective study,22patients who received a thoracotomy in the emergency department had a survival rate of 71 percent. The left side should be used only if the patient has a nonperfusing rhythm, because ventricular fibrillation may be induced inadvertently by irritating the cold myocardium."
+        },
+        {
+            "parent": 6,
+            "text": "The lowest initial temperature recorded in a child who survived from hypothermia was 14.2°C (57.6°F),23and in an adult was 13.7°C (56.7°F).24These facts provide credence to the adage that a patient is not dead until he or she is warm and dead. Resuscitation should not be discontinued, even in a patient who appears to be dead, until the core body temperature is greater than 30°C to 32°C (89.6°F) and still no signs of life are apparent.12With obviously lethal traumatic injuries or “do not resuscitate” status, or if rescuers will be endangered by evacuation, patients may be pronounced dead at the scene. Patients with mild hypothermia can be sent home after rewarming, whereas patients with moderate to severe hypothermia should be admitted for observation and continued evaluation after stabilization."
+        },
+        {
+            "parent": 7,
+            "text": "Hypothermia is a devastating and potentially avoidable condition, making education and preparation the cornerstones of prevention. The Centers for Disease Control and Prevention recommends creating a winter survival kit for indoor safety, including nonperishable food, blankets, a first aid kit, water, and necessary medications. Other measures, such as weather stripping and insulated doors, are important, especially for elderly persons. If persons are stranded in a motor vehicle, they should move all items from the trunk into the interior of the vehicle to conserve heat."
+        },
+        {
+            "parent": 7,
+            "text": "When persons are outdoors, multiple layers of clothing should be worn, with the innermost layers made of wool, silk, or polypropylene because these materials retain heat better than cotton.25Layering clothing traps in multiple layers of air, thereby minimizing convective heat loss. Wearing a hat or heavy scarf on the head helps to minimize heat loss caused by radiation. If signs or symptoms of mild hypothermia are evident, a person should return indoors immediately to prevent progression to a life-threatening condition."
+        }
+    ],
+    "locked": false
+}

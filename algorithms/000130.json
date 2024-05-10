@@ -1,0 +1,234 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/1001/p427.html#afp20201001p427-f1",
+    "title": "Persistent Night Sweats: Diagnostic Evaluation | AAFP",
+    "author": "CARL BRYCE, MD",
+    "doi": "Am Fam Physician.2020;102(7):427-433",
+    "abstract": "Night sweats are a nonspecific symptom that patients commonly experience but rarely discuss with their physicians without prompting. Although many life-threatening causes such as malignancies or infections have been described, most patients who report persistent night sweats in the primary care setting do not have a serious underlying disorder. Conditions commonly associated with night sweats include menopause, mood disorders, gastroesophageal reflux disease, hyperthyroidism, and obesity. If a clinical diagnosis is apparent based on the initial history and physical examination, specific treatment for four to eight weeks may be offered. When the history and physical examination do not reveal a specific cause, physicians should proceed with a systematic and cost-conscious strategy that uses readily available laboratory and imaging studies, such as a complete blood count, tuberculosis testing, thyroid-stimulating hormone levels, HIV testing, C-reactive protein level, and chest radiography. Additional tests that could be considered selectively include computed tomography of the chest and/or abdomen, bone marrow biopsy, polysomnography, and/or additional laboratory studies if indicated. If these results are normal, and no additional disorders are suspected, reassurance and continued monitoring are recommended. The presence of night sweats alone does not indicate an increased risk of death.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Differential Diagnoses",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Medical History",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "ENDOCRINOLOGIC",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SLEEP DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "GASTROINTESTINAL AND BEHAVIOR FACTORS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "INFECTIONS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "MALIGNANCY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "AUTOIMMUNE CONDITIONS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Diagnostic Evaluation",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Night sweats are a common experience, with a prevalence of up to 41% among primary care patients.1The definition of night sweats varies and generally does not require that the symptom be bothersome to the patient.2One definition suggested in a 2010 study was “sweating at night even when it is not excessively hot in your bedroom.”3New evidence from the primary care setting has been published since the lastAmerican Family Physicianreview of this topic.4"
+        },
+        {
+            "parent": -1,
+            "text": "WHAT'S NEW ON THIS TOPIC"
+        },
+        {
+            "parent": -1,
+            "text": "Night Sweats"
+        },
+        {
+            "parent": -1,
+            "text": "A systematic review found that the cross-sectional prevalence of night sweats ranges from 10% to 41% in the primary care setting, with the highest prevalence occurring in patients between 41 and 55 years of age."
+        },
+        {
+            "parent": -1,
+            "text": "In a study of school-aged children in China, 12% reported having weekly night sweats during the past year. When present, night sweats were associated with obstructive sleep apnea, insomnia, anxiety, and respiratory and atopic symptoms."
+        },
+        {
+            "parent": -1,
+            "text": "A cohort study of 1,534 patients older than 65 years found that after seven years, patients who reported having night sweats were not more likely to die or to die earlier than patients who did not report them."
+        },
+        {
+            "parent": 0,
+            "text": "In one study conducted in the primary care research setting, only 12% of patients who were explicitly asked about night sweats reported the symptom to their physicians.1A systematic review found that the cross-sectional prevalence of night sweats ranges from 10% to 41% in the primary care setting in older and middle-aged cohorts, respectively, with the highest prevalence occurring between 41 and 55 years of age.1,2One study of 843 patients older than 65 years estimated an annual incidence of 5% (i.e., 5% of patients reported the onset of night sweats during one year).3The only study of night sweats in school-aged children was conducted in China and found that 12% had weekly night sweats in the past year; when present, they were associated with obstructive sleep apnea, insomnia, anxiety, and respiratory or atopic symptoms.5"
+        },
+        {
+            "parent": 1,
+            "text": "Sweating is controlled by a complex method and serves to reduce the body's core temperature when it exceeds a threshold value called the thermoneutral zone.2Elevation of core temperature can be caused by excessive bedding, clothing, or environmental heating, which could trigger an appropriate physiologic response. In the absence of environmental factors, some potential mechanisms for night sweats have been suggested. The responsiveness of the sweat glands may be influenced by physical conditioning or acute and chronic anxiety states. Menopausal hot flashes may narrow (or lower) the threshold values of the thermoneutral zone, resulting in more frequent sweating."
+        },
+        {
+            "parent": 1,
+            "text": "Sweating may also occur for reasons unrelated to temperature regulation. Medications or conditions that affect the sympathetic nervous system, thermoregulatory center, or sweat glands may affect the frequency of sweating. Another mechanism may be patient hypervigilance. Individual patients may be less tolerant of night sweats, or may be awake because of another medical condition and are therefore more likely to notice sweating.2"
+        },
+        {
+            "parent": 2,
+            "text": "Night sweats have been associated with an extensive list of conditions; however, these have been generated primarily from case reports and series, commonly from specialty referrals or an inpatient setting(Table 12,4,6–8). Although many life-threatening causes such as malignancies or infections have been described, most patients who report persistent night sweats in the primary care setting do not have a serious underlying disorder. After ruling out environmental factors, physicians should consider the following common possibilities: vasomotor symptoms of menopause, panic attacks, depression, posttraumatic stress disorder, obesity/overweight, alcohol and tobacco use, diabetes mellitus, restless legs, hyperthyroidism, and gastroesophageal reflux disease (GERD).9–11"
+        },
+        {
+            "parent": 3,
+            "text": "Quality of life is significantly reduced among patients who report night sweats10; therefore, physicians should assess to what extent patients are bothered by the night sweats. Night sweats are associated with daytime fatigue, additional sleep symptoms, and waking with a bitter taste in the mouth (presumably caused by GERD).12Patients reporting night sweats are also more likely to report one or more sensory deficits, febrile illness, mood disorder, muscle cramps or restless legs, and uncontrolled pain. Physicians should ask the patient about these symptoms.10It is unclear if the severity of the reported night sweats is useful for identifying high-risk patients with life-threatening diseases."
+        },
+        {
+            "parent": 4,
+            "text": "Women, specifically women in their late 30s to early 60s, should be asked about changes in the menstrual cycle and other menopausal symptoms, which can precede elevations in gonadotropin hormone levels. Men can also experience hot flashes and sweating associated with hypogonadism.6"
+        },
+        {
+            "parent": 4,
+            "text": "Hyperthyroidism can cause generalized sweating. Patients may also experience anxiety, diarrhea, tremulousness, menstrual irregularities, weight loss, palpitations, or have a personal or family history of other autoimmune diseases."
+        },
+        {
+            "parent": 4,
+            "text": "One cause of night sweats could be nocturnal hypoglycemia because hypoglycemia can cause sweating.13Diabetes was associated with night sweats in an Australian, perimenopausal cohort study9but not in a middle-aged cohort study in the United States.1"
+        },
+        {
+            "parent": 5,
+            "text": "Night sweats are associated with feeling generally tired, restless or fidgety legs, legs jerking during sleep, increased sleep latency, and frequent nighttime awakenings. The association with sleep apnea is unclear. In a retrospective review of 282 patients who were referred for polysomnography, the presence of night sweats was not associated with any difference in objective measures including sleep latency, apnea-hypopnea index, arousal index, periodic leg movement index, or total sleep time.14However, in an Icelandic cohort study, nocturnal sweating was reported by approximately one-third of men and women diagnosed with obstructive sleep apnea, which was threefold higher than a matched control group. In that cohort, treatment with positive airway pressure decreased the report of night sweats to 11.5%.15"
+        },
+        {
+            "parent": 6,
+            "text": "Although the medical literature and textbooks have suggested an association between GERD and night sweats, two primary care cohorts did not find such an association.1,10However, asking the patient specific questions about GERD symptoms may be useful. One case series reported that empiric treatment for GERD in primary care patients with night sweats without a specific cause produced symptomatic relief.11"
+        },
+        {
+            "parent": 6,
+            "text": "A prospective cohort study found that a high-fat, high-sugar diet was associated with an increased risk of vasomotor symptoms of menopause and night sweats, whereas a Mediterranean diet rich in fruit was associated with a lower risk of these symptoms.16Current smoking and drinking three or more alcoholic drinks per day were associated with night sweats.9"
+        },
+        {
+            "parent": 7,
+            "text": "Many infections can cause night sweats; therefore, it is important to ask the patient about fever, chills, or sweats, and symptoms of acute and chronic infection. HIV infection can present acutely or chronically, or with opportunistic infections such asPneumocystis jiroveciorMycobacterium aviumcomplex. Endocarditis can cause febrile pulses and is caused by gram-positive bacteria or one of the fastidious, gram-negative HACEK (Haemophilus,Aggregatibacter, Cardiobacterium,Eikenella, andKingella) organisms.4,7Physicians should ask the patient about high-risk sexual activities and a history of intravenous drug use."
+        },
+        {
+            "parent": 7,
+            "text": "Infectious mononucleosis, usually caused by the Epstein-Barr virus, can cause fever and generalized sweating. These infections may follow a nonspecific upper respiratory infection, and heterophile antibodies will test positive in most patients during the acute phase of the infection. If antibodies are negative and the diagnosis is suspected, viral capsid antigen immune globulin M antibodies to the Epstein-Barr virus can be measured because they are elevated for up to three months after the infection.4"
+        },
+        {
+            "parent": 7,
+            "text": "A travel history should be obtained to determine the likelihood of tuberculosis, malaria8(consider military service and deployment to endemic regions), Lyme disease, or fungal infections such as histoplasmosis or coccidioidomycosis."
+        },
+        {
+            "parent": 8,
+            "text": "Night sweats occur with many malignancies, although they are rarely the only presenting symptom. Fever, drenching night sweats, and weight loss indicate a worse prognosis in patients with lymphoma.17However, the presence of night sweats alone is not of prognostic value.2A history of easy bruising or bleeding, fatigue or malaise, or unintentional weight loss is concerning for malignancy."
+        },
+        {
+            "parent": 9,
+            "text": "Medications associated with night sweats include selective serotonin reuptake inhibitors, angiotensin II receptor blockers, corticosteroids, and thyroid hormone supplements2,18(Table 22,4,18). Vasomotor symptoms are a common adverse effect of medications that mediate sex hormones, such as selective estrogen receptor modulators, gonadotropin-releasing hormone agonists, and antiandrogens."
+        },
+        {
+            "parent": 10,
+            "text": "Takayasu arteritis has been called the “pulseless disease” because of the eventual finding of diminished pulses in most patients.19It commonly presents in patients in their 20s or 30s, with nonspecific features including night sweats, malaise, weight loss, and mild anemia. Other autoimmune conditions associated with night sweats include sarcoidosis and giant cell arteritis."
+        },
+        {
+            "parent": 11,
+            "text": "Vital signs, specifically the patient's temperature, can help focus the differential diagnosis list. The presence or absence of fevers and their frequency of occurrence could raise the suspicion of an infectious or malignant cause, particularly lymphoma. A cachectic appearance is concerning for malignancy or HIV infection; however, cachexia is a late sign of advanced illness. Unintentional weight loss of greater than 5% in the past sixto 12 months is generally defined as clinically significant.20"
+        },
+        {
+            "parent": 11,
+            "text": "A complete lymphatic examination should be performed to evaluate for localized or generalized lymphadenopathy, which, if present, should prompt an evaluation for lymphoma or leukemia. Palpable nodes that are associated with systemic symptoms such as night sweats or that have been present longer than four to six weeks are concerning for malignancy, and a biopsy should not be delayed.21"
+        },
+        {
+            "parent": 11,
+            "text": "Petechiae or pallor suggests an underlying hematologic abnormality, whereas oral lesions such as candidiasis or mucosal erosions could suggest HIV infection."
+        },
+        {
+            "parent": 11,
+            "text": "A modified Mallampati classification (https://www.mdcalc.com/modified-mallampati-classification) of III or IV (i.e., poorly visualized tonsils and uvula) may suggest obstructive sleep apnea. An enlarged neck circumference greater than 17 inches (43 cm) in men or greater than 16 inches (41 cm) in women or a body mass index of 30 kg per m2or more are also suggestive of possible obstructive sleep apnea.22"
+        },
+        {
+            "parent": 11,
+            "text": "Exophthalmos or a lid lag, thyroid enlargement, tenderness, or palpable nodules and presence of a tremor or anxiousness may suggest hyperthyroidism. Cardiac auscultation revealing a new murmur may indicate endocarditis, and pulses may be absent in Takayasu arteritis. Splenomegaly could suggest a lymphoproliferative disorder or infectious mononucleosis."
+        },
+        {
+            "parent": 11,
+            "text": "During an episode of sweating, the extremities will be cool and pale if sympathetic activation is causing vasoconstriction because of a pheochromocytoma or panic attack. Alternatively, warm or flushed skin can occur because of vasodilation as a result of menopause or carcinoid syndrome."
+        },
+        {
+            "parent": 12,
+            "text": "No studies have compared diagnostic strategies. Despite the absence of published data to support any specific strategy,Figure 1suggests a strategy that is systematic and cost-conscious. Clinicians should identify patients at high risk of infection or malignancy by the presence of weight loss, objective fever, or lymphadenopathy."
+        },
+        {
+            "parent": 12,
+            "text": "If a clinical diagnosis is apparent based on the initial history and physical examination, specific treatment for four to eight weeks may be offered.4,11Patients should keep a symptom diary to be reviewed with the physician during follow up, and the patient should decrease unhealthy behaviors known to be associated with night sweats, such as heavy alcohol use and smoking. Potential night sweat-associated medications should be reviewed and discontinued, if appropriate, or be replaced by a medication with a less known association with night sweats. All patients should be counseled to receive indicated cancer screening, regardless of the presence of night sweats."
+        },
+        {
+            "parent": 12,
+            "text": "If the history and physical examination are not diagnostic, initial tests should include a complete blood count, purified protein derivative or quantiferon assay for tuberculosis, thyroid-stimulating hormone, HIV, C-reactive protein level, and chest radiography. Although the C-reactive protein level is nonspecific, an elevated test result could suggest an autoimmune or inflammatory, malignant, or infectious cause."
+        },
+        {
+            "parent": 12,
+            "text": "If the results of the initial workup are nondiagnostic, further evaluation will depend on the physician's suspicion of any serious underlying disease.Signs and symptoms of uncommon illnesses that might present with night sweats, and for which additional evaluation could be considered, are provided inTable 3.1,2,4Computed tomography of the chest and abdomen and a bone marrow biopsy could identify an otherwise silent neoplastic or granulomatous disease. If these results are normal, and no additional disorders are suspected, reassurance and continued monitoring are recommended."
+        },
+        {
+            "parent": 13,
+            "text": "In the only published study on the prognostic implication of night sweats in the primary care setting, 1,534 patients older than 65 years were followed for an average of 7.5 years. After controlling for confounders, patients who reported having night sweats were not more likely to die or to die earlier than patients who did not report them.3This was also true for patients reporting severe night sweats. In the primary care setting, persistent night sweats are not associated with increased mortality."
+        },
+        {
+            "parent": 13,
+            "text": "This article updates a previous article on this topic byViera, et al.4"
+        },
+        {
+            "parent": 13,
+            "text": "Data Sources:A PubMed search was completed using the key terms hyperhidrosis, sweat, and sweating. The searches included meta-analyses, randomized controlled trials, clinical trials, and reviews. Results were filtered by the English language and were selected for relevance. Search dates: September 18, 2019, and June 13, 2020."
+        },
+        {
+            "parent": 13,
+            "text": "The author thanks James W. Mold, MD, MPH, for his correspondence, and for his work with the Oklahoma Physicians Resource/Research Network."
+        },
+        {
+            "parent": 13,
+            "text": "The opinions and assertions contained herein are the private views of the author and are not to be construed as official or as reflecting the views of the U.S. Air Force Medical Department or the U.S. Air Force at large."
+        }
+    ],
+    "locked": false
+}

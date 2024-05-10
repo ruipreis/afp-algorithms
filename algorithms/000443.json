@@ -1,0 +1,80 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/1001/p827.html#afp20111001p827-f1",
+    "title": "ACIP Updates Guideline on Influenza Vaccination for 2011–2012 Season | AAFP",
+    "author": "CARRIE ARMSTRONG",
+    "doi": "Am Fam Physician.2011;84(7):827-829",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Updates",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "INTRADERMAL VACCINE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "VACCINATION IN CHILDREN SIX MONTHS TO EIGHT YEARS OF AGE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "VACCINATION IN PERSONS WITH EGG ALLERGY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The Advisory Committee on Immunization Practices (ACIP) of the Centers for Disease Control and Prevention has issued its annual guideline on vaccination against influenza. This year's guideline contains few significant changes from the 2010–2011 recommendations. It includes information on a newly licensed intradermal vaccine, a change in the number of vaccine doses required in children six months to eight years of age, and recommendations on vaccination in persons allergic to eggs."
+        },
+        {
+            "parent": -1,
+            "text": "The 2011–2012 seasonal influenza vaccine virus strains are the same ones contained in the 2010–2011 vaccine: A/California/7/2009 (H1N1)-like, A/Perth/16/2009 (H3N2)-like, and B/Brisbane/60/2008-like antigens. The influenza A (H1N1) vaccine virus strain is derived from a 2009 pandemic influenza A (H1N1) virus. Although the vaccine strains are unchanged, vaccination is recommended even in persons who were vaccinated last season because postvaccination antibody titers decrease over the course of a year."
+        },
+        {
+            "parent": -1,
+            "text": "Ideally, vaccination should occur before the onset of influenza activity in the community to allow time for antibodies to reach protective levels.Table 1lists the available vaccines for the 2011–2012 influenza season. Physicians should offer vaccination as soon as vaccine is available."
+        },
+        {
+            "parent": 1,
+            "text": "A new intradermally administered trivalent inactivated vaccine (TIV), Fluzone Intradermal, was licensed in May 2011 for use in adults 18 to 64 years of age. It contains less antigen than intramuscular TIV preparations (9 mcg of each strain compared with 15 mcg of each in intramuscular vaccines). The vaccine is given via a single-dose, prefilled microinjection syringe, preferably in the deltoid. The most common adverse reactions are injection-site erythema, induration, swelling, pain, and pruritus; these occur more often with the intradermal vaccine than with intramuscular TIV vaccines (except for pain), but generally resolve within three to seven days."
+        },
+        {
+            "parent": 2,
+            "text": "Children six months to eight years of age should receive two doses of influenza vaccine (administered at least four weeks apart) if this is the first season they have been vaccinated against influenza. Those who have received influenza vaccine previously should receive one dose this season. In previous influenza seasons, children six months to eight years of age who received only one dose of vaccine in their first year of vaccination required two doses the following season. However, because the vaccine strains are unchanged from last season, only one dose of vaccine is required in children who received a single dose in 2010–2011."
+        },
+        {
+            "parent": 3,
+            "text": "Influenza vaccine should always be administered in settings with personnel and equipment for rapid recognition and treatment of anaphylaxis. Although severe allergic and anaphylactic reactions are rare, they can occur in response to influenza vaccine components. A previous severe allergic reaction to influenza vaccine, regardless of the component suspected to be responsible, is a contraindication to influenza vaccination."
+        },
+        {
+            "parent": 3,
+            "text": "Allergy to eggs must be distinguished from allergy to influenza vaccine. All currently available influenza vaccines are prepared by inoculation of virus into chicken eggs. Hypersensitivity to eggs has been considered a contraindication to influenza vaccination, but because TIV has been administered safely in persons with egg allergy, some TIV package inserts now note that only a severe allergic reaction (e.g., anaphylaxis) to egg protein is a contraindication. In studies that reported the ovalbumin content of the administered vaccine, up to 1.4 mcg per mL of ovalbumin was tolerated without serious reactions. However, a safe maximal threshold is not known."
+        },
+        {
+            "parent": 3,
+            "text": "Some persons who report that they are allergic to eggs actually may not be. Those who are able to eat lightly cooked eggs without a reaction are unlikely to be allergic. Conversely, those who are allergic may be able to tolerate eggs in baked goods; tolerance to egg-containing foods does not exclude the possibility of egg allergy. Allergy can be confirmed by a consistent medical history of adverse reactions to eggs and egg-containing foods, in addition to skin or blood testing for immunoglobulin E antibodies to egg proteins."
+        },
+        {
+            "parent": 3,
+            "text": "ACIP recommends that persons who have experienced only hives after exposure to eggs should receive influenza vaccine with the following additional measures(Figure 1):"
+        },
+        {
+            "parent": 3,
+            "text": "TIV should be given instead of live attenuated vaccineVaccine should be administered by a health care professional who is familiar with potential manifestations of egg allergyPatients should be monitored for a reaction for at least 30 minutes after vaccine administration"
+        },
+        {
+            "parent": 3,
+            "text": "Other measures, such as skin testing with vaccine and dividing and administering the vaccine in two steps, are not necessary."
+        },
+        {
+            "parent": 3,
+            "text": "Persons who report a history of angioedema, respiratory distress, lightheadedness, or recurrent emesis after exposure to eggs, and those who required epinephrine or other emergency medical intervention, are more likely to have a serious systemic or anaphylactic reaction to influenza vaccine. These patients should be referred to a physician with expertise in the management of allergic conditions for further risk assessment."
+        }
+    ],
+    "locked": false
+}

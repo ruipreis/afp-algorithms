@@ -1,0 +1,266 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2000/0501/p2667.html#afp20000501p2667-f1",
+    "title": "Identification and Management of Tuberculosis | AAFP",
+    "author": "ANTHONY F. JERANT, M.D., MICHELLE BANNON, P.A.-C, M.P.H., AND STEPHEN RITTENHOUSE, CPT, MC, USA",
+    "doi": "Am Fam Physician.2000;61(9):2667-2678",
+    "abstract": "Although the resurgence of tuberculosis in the early 1990s has largely been controlled, the risk of contracting this disease remains high in homeless persons, recent immigrants and persons infected with the human immunodeficiency virus (HIV). Purified protein derivative testing should be targeted at these groups and at persons with known or suspected exposure to active tuberculosis. Most patients with latent tuberculosis are treated with isoniazid administered daily for nine months. In patients with active tuberculosis, the initial regimen should include four drugs for at least two months, with subsequent therapy determined by mycobacterial sensitivities and clinical response. To avoid harmful drug interactions, regimens that do not contain rifampin may be employed in HIV-infected patients who are taking protease inhibitors or nonnucleoside reverse transcriptase inhibitors. To maximize compliance and minimize the emergence of mycobacterial drug resistance, family physicians should consider using directly observed therapy in all patients with tuberculosis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening for Tuberculosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment of Latent Tuberculosis Infection",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis of Active Tuberculosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Treatment of Active Tuberculosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HIV-INFECTED PATIENTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PATIENTS WITH MULTIDRUG-RESISTANT TUBERCULOSIS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CHILDREN AND PREGNANT WOMEN",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Directly Observed Therapy",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Prevention of Nosocomial Transmission",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "During the early years of the past century, one of every five persons in the United States developed active tuberculosis. The disease was the leading killer of that time, the “captain of all men of death.”1After 1953, the incidence of tuberculosis declined by almost 75 percent, to a low of 9.3 cases per 100,000 general population in 1985.1"
+        },
+        {
+            "parent": -1,
+            "text": "Beginning in 1986, an unexpected resurgence of tuberculosis occurred in the United States, with the incidence of the disease rising to 10.5 cases per 100,000 population by 1992.1Contributing factors included the human immunodeficiency virus (HIV) epidemic, the immigration of large numbers of persons from countries in which tuberculosis is highly prevalent, the rise of multidrug-resistant mycobacterial organisms and the decline of local tuberculosis control programs."
+        },
+        {
+            "parent": -1,
+            "text": "Subsequent to renewed emphasis on public health control measures, the overall incidence of tuberculosis declined to an all-time low of 7.4 cases 100,000 general population in 1997.2Yet a number of groups continue to experience rising rates of tuberculosis infection(Table 1).3,4Since 1992, for example, the incidence of tuberculosis has risen 6 percent in foreign-born persons living in the United States.2Most cases are imported from the countries of origin,5some of which have multidrug-resistant tuberculosis rates in excess of 20 percent because of years of selection pressure from suboptimal antimicrobial regimens.6"
+        },
+        {
+            "parent": -1,
+            "text": "The decline in the overall incidence of tuberculosis in the United States is encouraging, but further reductions may not be feasible unless global efforts are made to eradicate this disease in potential reservoir groups. By keeping current on risk factors, diagnostic tests and drug therapy, family physicians can effectively contribute to the ongoing efforts to control tuberculosis."
+        },
+        {
+            "parent": 0,
+            "text": "The American Thoracic Society (ATS) and the Centers for Disease Control and Prevention (CDC) recently issued updated recommendations for targeted tuberculin testing and the treatment of latent tuberculosis infection.3According to these recommendations, tuberculin testing generally should be performed only in persons who belong to at least one of the high-risk groups noted inTable 1.3,4Routine screening of other persons, including children not belonging to high-risk groups, is discouraged because it wastes resources and generates many false-positive tests.3,7"
+        },
+        {
+            "parent": 0,
+            "text": "Screening should be performed using the Mantoux test (intracutaneous tuberculin test). A tuberculin syringe with a 26- or 27-gauge needle should be used to introduce 0.1 mL (5 units) of purified protein derivative (PPD) tuberculin intracutaneously, raising a wheal 6 to 10 mm in diameter. After 48 to 72 hours, the test should be “read” by personnel who have been adequately trained in its interpretation.8"
+        },
+        {
+            "parent": 0,
+            "text": "The interpretation of Mantoux tests by inadequately trained personnel has been shown to produce false-negative reading rates of up to 30 percent.9Test interpretation varies with the tuberculosis risk and health status of the individual patient(Table 2).3,10Even when properly placed and interpreted, the Mantoux test may be associated with false-positive or false-negative results(Tables 3and4).4,11"
+        },
+        {
+            "parent": 1,
+            "text": "To avoid confusion among health care providers, the ATS-CDC recommendations use “treatment of latent tuberculosis infection” rather than “preventive therapy” or “chemoprophylaxis” in describing therapy for patients with tuberculosis infection but no evidence of active disease."
+        },
+        {
+            "parent": 1,
+            "text": "Before initiating treatment of latent tuberculosis infection, physicians must ensure that active disease is not present. Once active tuberculosis has been ruled out, the decision to initiate treatment hinges on an analysis of risks and benefits. The chief risk of isoniazid (INH), the treatment of first choice for most patients with latent tuberculosis infection, is hepatotoxicity, but the drug can also cause anemia, gastrointestinal tract symptoms and peripheral neuropathy.8"
+        },
+        {
+            "parent": 1,
+            "text": "Although the risk of hepatotoxicity with isoniazid therapy is low in all age groups, the risk does increase with age: from 0.3 percent in patients 20 to 24 years of age to 1.2 percent in patients 35 to 39 years of age to 2.3 to 3 percent in patients 50 years of age and older. Alcohol consumption, chronic liver disease and concurrent use of potentially hepatotoxic drugs such as acetaminophen (e.g., Tylenol) increase the risk of isoniazid-associated hepatotoxicity in patients of any age.12Blacks, Hispanics and postpartum women are also at increased risk of hepatotoxicity with isoniazid treatment.8"
+        },
+        {
+            "parent": 1,
+            "text": "Treatment of latent tuberculosis infection is usually indicated, regardless of age, in patients who belong to one or more high-risk groups.3The ATS and CDC make no firm recommendations regarding the treatment of patients at lower risk but suggest that health care providers carefully weigh the benefits and risks of treatment, particularly in patients more than 35 years of age.3Although treatment can safely be deferred until after delivery in most pregnant women, those who belong to a high-risk group or are likely to have been recently infected should be given isoniazid as soon as active disease is excluded."
+        },
+        {
+            "parent": 1,
+            "text": "The usual dosage of isoniazid is 5 mg per kg per day to a maximum of 300 mg per day. A nine-month regimen is now preferred over the previously suggested six-month regimen.3Randomized trials in HIV-negative patients have indicated that nine months of treatment is more effective than six months, and that minimal additional benefit is gained from extending therapy to 12 months.13A twice-weekly dosing regimen is considered acceptable when compliance is in question, but isoniazid should be administered only as directly observed therapy."
+        },
+        {
+            "parent": 1,
+            "text": "Despite the clear advantage of a nine-month isoniazid regimen, a six-month regimen also provides protection and has been shown to be clearly superior to placebo in HIV-negative and HIV-positive patients.3Acknowledging the wide variations in patient compliance and local health department resources, the new ATS-CDC recommendations state that “in some situations, treatment for six months rather than nine months may provide a more favorable outcome from a cost-effectiveness standpoint.”3(p4)"
+        },
+        {
+            "parent": 1,
+            "text": "The ATS-CDC panel and the American Academy of Pediatrics recommend the use of a nine-month course of isoniazid in children.3,14To reduce the risk of drug-related peripheral neuropathy with isoniazid therapy, pyridoxine (Hexa-Betalin), in a dosage of 10 to 50 mg per day, may be coadministered in all children six years of age and older. Pyridoxine administration should also be strongly considered in patients who have conditions in which neuropathy is common (e.g., diabetes, alcoholism and malnutrition), pregnant women and patients who are also taking anticonvulsant drugs."
+        },
+        {
+            "parent": 1,
+            "text": "Monthly clinical assessments are mandatory in patients taking isoniazid for latent tuberculosis infection. Compliance with these assessments can be facilitated by dispensing only a one-month supply of medication at a time. Office mechanisms for tracking patients and reminding them about follow-up visits should be implemented."
+        },
+        {
+            "parent": 1,
+            "text": "At each monthly visit, patients should be evaluated for signs and symptoms of hepatitis, anemia and neurotoxicity. Patients should be educated about worrisome symptoms and instructed to stop taking isoniazid and seek medical attention promptly if such symptoms occur."
+        },
+        {
+            "parent": 1,
+            "text": "Measurements of baseline serum aspartate aminotransferase, alanine aminotransferase and bilirubin levels are recommended only in patients with conditions that put them at risk for hepatotoxicity (e.g., HIV infection, alcoholism, chronic liver disease, pregnancy or postpartum status).3Some physicians choose to determine baseline liver enzyme levels in all patients to detect those with clinically silent conditions (e.g., hepatitis C virus infection) that may predispose them to isoniazid toxicity. Subsequent measurements are recommended only in patients with elevated enzyme levels at baseline and in patients with predisposing conditions for hepatotoxicity."
+        },
+        {
+            "parent": 1,
+            "text": "Asymptomatic elevation of liver enzymes occurs in 10 to 20 percent of patients who are treated with isoniazid. The drug should be discontinued only if transaminase levels are more than three times higher than the upper limit of normal in symptomatic patients or five times higher than the upper limit of normal in asymptomatic patients.3"
+        },
+        {
+            "parent": 1,
+            "text": "Not all patients will be able to comply with or tolerate a nine-month isoniazid regimen. Acceptable treatment regimens for HIV-negative and HIV-positive patients are summarized inTable 5.3As in the new ATS-CDC document, ratings for the strength of recommendations and the quality of evidence supporting each recommendation, adapted from the U.S. Public Health Service, are included. Twice-weekly dosing regimens should always be administered as directly observed therapy. This approach should also be considered for daily short-course regimens."
+        },
+        {
+            "parent": 1,
+            "text": "Because rifampin (Rifadin) substantially decreases the blood concentrations of protease inhibitors and nonnucleoside reverse transcriptase inhibitors, its use is contraindicated in patients who are taking these medications. In such situations, patients should be given rifabutin (Mycobutin), in a dosage of 5 mg per kg per day, instead of rifampin."
+        },
+        {
+            "parent": 1,
+            "text": "Regimens for patients exposed to multidrug-resistant tuberculosis generally consist of two drugs to which the infecting organism is likely to be susceptible."
+        },
+        {
+            "parent": 2,
+            "text": "The identification and treatment of persons who have active tuberculosis remain the first priority in controlling the spread of the disease.15Eliciting a history of exposure is critical because patients with active tuberculosis may be minimally symptomatic or asymptomatic until the disease is advanced."
+        },
+        {
+            "parent": 2,
+            "text": "Classic symptoms of pulmonary tuberculosis, particularly reactivation disease, include cough, fever, sweats, chills, anorexia, weight loss and malaise. In a recent decision analysis involving patients hospitalized because of suspected tuberculosis,16strong predictors of active disease included upper-zone disease on the chest radiograph, fever, night sweats and weight loss, along with a CD4 count of less than 200 cells per mm3(0.2 × 109per L) in HIV-infected patients."
+        },
+        {
+            "parent": 2,
+            "text": "Extrapulmonary tuberculosis may be associated with myriad symptoms, including altered mental status (central nervous system involvement), back pain (spinal disease) and abdominal pain (peritoneal disease). The most common types of extrapulmonary tuberculosis, in descending order of frequency, are pleural, lymphatic, bone and joint disease, genitourinary tract and miliary disease, meningitis and peritonitis."
+        },
+        {
+            "parent": 2,
+            "text": "No single ancillary test is 100 percent accurate in making or excluding the diagnosis of tuberculosis. Although a PPD test should always be performed, it may be negative in 10 to 25 percent of patients with active disease.17"
+        },
+        {
+            "parent": 2,
+            "text": "When pulmonary tuberculosis is suspected, chest radiographs should be obtained. In primary pulmonary tuberculosis, numerous abnormalities can be observed, including atelectasis, parenchymal consolidation, lymphadenopathy, pleural effusion and a miliary pattern. Any lung lobe may be affected, although lower-lobe involvement may be somewhat more common. In contrast, reactivation tuberculosis has a predilection for upper-lobe involvement, and cavitation occurs in approximately 50 percent of patients.18Atypical radiographic findings and accompanying extrapulmonary disease are extremely common in HIV-infected patients; the lower the CD4 count, the more likely such findings are.19"
+        },
+        {
+            "parent": 2,
+            "text": "Diagnostic testing for extrapulmonary tuberculosis varies, depending on the suspected location of disease.20"
+        },
+        {
+            "parent": 2,
+            "text": "Bacteriologic evaluation is generally required to confirm the diagnosis of tuberculosis. In all patients with suspected active disease, three sputum samples for mycobacterial acid-fast stain examination andMycobacterium tuberculosiscultures should be collected on each of three consecutive days. Acid-fast smears are especially useful in the early detection of active pulmonary tuberculosis because they are usually complete within 24 hours."
+        },
+        {
+            "parent": 2,
+            "text": "The overall sensitivity of three acid-fast smears for identifying active tuberculosis is about 70 percent.20In HIV-infected patients, the specificity of acid-fast smears is decreased becauseMycobacterium avium-intracellulare, a frequent colonizer of the respiratory tract in immunosuppressed patients, may also cause positive acid-fast smears. In one study,21the specificity of acid-fast smears in HIV-positive patients was 52 percent, compared with the 99 percent or more specificity of these smears in patients not infected with HIV."
+        },
+        {
+            "parent": 2,
+            "text": "Sputum cultures remain the gold standard for the diagnosis of tuberculosis. Cultures are 81 percent sensitive and 98.5 percent specific for active disease.22Identification ofM. tuberculosisby culture may require 10 to 14 days, and antibiotic sensitivity reports may take 15 to 30 days.15These delays limit the use of cultures in making early treatment decisions.15"
+        },
+        {
+            "parent": 2,
+            "text": "Recently developed rapid sputum tests, which amplify and detectM. tuberculosisribosomal RNA or DNA, may prove to be useful adjuncts in the early stages of patient evaluation. Physicians may consider employing these tests when clinical suspicion does not correlate with the acid-fast smear or culture results, or when the results could substantially change early treatment and patient management decisions.23In patients who cannot produce sputum, bronchoscopy should be considered."
+        },
+        {
+            "parent": 2,
+            "text": "A high index of suspicion for active tuberculosis must be maintained in infants and children, because symptoms of active disease may be minimal until dissemination occurs. Respiratory smears and cultures are less likely to detect disease in children than in adults. Early-morning gastric washings, obtained with instillation of 20 to 50 mL of chilled sterile water through a sterile stomach tube, are more likely to yield a diagnosis than is bronchoscopy.24"
+        },
+        {
+            "parent": 2,
+            "text": "An algorithm for the evaluation of patients with suspected tuberculosis infection or active disease is presented inFigure 1."
+        },
+        {
+            "parent": 3,
+            "text": "A four-drug regimen should be initiated in all adults with confirmed or suspected active tuberculosis, and pyridoxine in a dosage of 50 mg per day should be administered with regimens containing isoniazid to help prevent neurotoxicity(Tables 6and7).25"
+        },
+        {
+            "parent": 3,
+            "text": "After two months of a four-drug regimen to which the initial isolates were sensitive, patients continue treatment with isoniazid and rifampin alone if repeat sputum cultures are negative and the patient has improved clinically. Patients continue this dual regimen for another four months, at which time treatment may be discontinued if sputum cultures remain negative."
+        },
+        {
+            "parent": 3,
+            "text": "Monthly evaluations by a physician, including sputum acid-fast smears and cultures, should be performed throughout treatment."
+        },
+        {
+            "parent": 4,
+            "text": "The latest CDC recommendations for the treatment of active tuberculosis in HIV-infected patients include streptomycin-based regimens or regimens that substitute rifabutin for rifampin. Use of these regimens does not necessitate the discontinuation or avoidance of protease inhibitors and nonnucleoside reverse transcriptase inhibitors. In addition, flexibility in the dosing and duration of regimens is allowed based on clinical response(Table 8).26"
+        },
+        {
+            "parent": 5,
+            "text": "Inappropriate use of medications and the prescription of inadequate regimens has created selection pressure that has favored the proliferation ofM. tuberculosisstrains with drug-resistant mutations.27When resistance to a single standard drug is identified, an alternative chemotherapeutic regimen should be employed(Table 9).25"
+        },
+        {
+            "parent": 5,
+            "text": "Multidrug-resistant tuberculosis is defined as disease that is resistant to at least isoniazid and rifampin.27Patients with multidrug-resistant tuberculosis should be treated with a regimen that includes three or four drugs to which the tuberculosis isolate is susceptible. Treatment is highly challenging because of the adverse effects of second-line agents and the frequent need for prolonged therapeutic courses (12 to 24 months)."
+        },
+        {
+            "parent": 5,
+            "text": "In determining the most appropriate treatment regimen, consultation with an infectious disease or pulmonary specialist is highly recommended.25Surgery may be considered in patients with well-localized disease who have adequate pulmonary reserves.28"
+        },
+        {
+            "parent": 6,
+            "text": "Treatment regimens in children are generally similar to those in adults(Tables 6and7).25Because of the difficulty in monitoring for ocular toxicity, streptomycin should be substituted for ethambutol (Myambutol) in very young children."
+        },
+        {
+            "parent": 6,
+            "text": "In pregnant women, treatment of active tuberculosis in pregnancy should not be delayed until after delivery. Women who become pregnant while on antituberculous therapy should continue treatment. The regimen should generally include isoniazid, rifampin and ethambutol plus pyridoxine. Use of pyrazinamide, streptomycin, kanamycin (Kantrex), capreomycin (Capastat Sulfate), quinolones, ethionamide (Trecator-Sc) and cycloserine (Seromycin) should generally be avoided.25"
+        },
+        {
+            "parent": 6,
+            "text": "Once the rare but serious complication of congenital tuberculosis is ruled out, infants born to mothers with active tuberculosis should be given isoniazid for at least three months as treatment for latent tuberculosis infection.29"
+        },
+        {
+            "parent": 6,
+            "text": "Lactating women who are being treated for tuberculosis may continue to breast-feed. They should feed their infant before taking their medication and use bottle supplementation for the first feeding after dosing. To avoid high serum drug levels, bottle-feeding is recommended in infants who are receiving isoniazid for latent tuberculosis infection whose mothers are also taking this medication.30"
+        },
+        {
+            "parent": 7,
+            "text": "Compliance with tuberculosis treatment regimens is limited by their complexity and duration, a lack of symptoms in some patients and medication side effects. In 1993, at least 20 percent of patients with pulmonary tuberculosis did not complete therapy.31Noncompliant patients are 10 times more likely than compliant patients to transmit multidrug-resistant tuberculosis, to require prolonged treatment and to experience disease progression or relapse; they are also more likely to die as a result of their infection.32Noncompliance is more likely to be a factor in men, homeless persons, drug addicts, alcoholics, HIV-infected patients, patients with mental and physical disabilities, and patients who have previously failed treatment.32–35"
+        },
+        {
+            "parent": 7,
+            "text": "Predicting noncompliance in advance is notoriously unreliable. Thus, directly observed therapy, in which patients are observed swallowing each dose of medication, should be strongly considered in patients with latent tuberculosis infection who are being treated with twice- or thrice-weekly regimens and in all patients who are being treated for active tuberculosis."
+        },
+        {
+            "parent": 7,
+            "text": "When directly observed therapy is used, treatment completion rates range from 85 to 96.5 percent.33In the first two years after directly observed therapy became more widely used, there was a 21 percent decrease in all tuberculosis cases and a 39 percent decrease in multidrug-resistant tuberculosis cases.32"
+        },
+        {
+            "parent": 7,
+            "text": "Local public health departments offer directly observed therapy services at minimal or no cost. Community health care providers are responsible for identifying and referring appropriate candidates for these services."
+        },
+        {
+            "parent": 8,
+            "text": "To prevent nosocomial spread, patients with possible active tuberculosis must be categorized and managed according to disease risk from the time of hospital admission(Table 10).36When active tuberculosis is suspected in patients who present to clinics or emergency departments, the patients should be evaluated rapidly to minimize the time spent in patient care areas. Precautions in the ambulatory care setting include placing these patients in a designated isolation room, having them wear a surgical mask and instructing them to cover their mouth and nose with tissues when they cough or sneeze."
+        },
+        {
+            "parent": 9,
+            "text": "Local public health departments are ultimately responsible for the control of infectious diseases, but no single entity or organization holds sufficient authority and community coverage to combat tuberculosis alone. Control of tuberculosis will increasingly be influenced by health department outsourcing of programs and emerging private sector initiatives such as managed care."
+        },
+        {
+            "parent": 9,
+            "text": "Studies indicate that many physicians demonstrate poor compliance with recommended tuberculosis treatment guidelines.37To achieve a continuing decline in the tuberculosis infection rate, family physicians must work expertly and collaboratively as members of a well-integrated team. Several sources of additional information on tuberculosis are provided inTable 11."
+        }
+    ],
+    "locked": false
+}

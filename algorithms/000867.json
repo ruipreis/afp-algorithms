@@ -1,0 +1,295 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2001/0501/p1763.html#afp20010501p1763-f2",
+    "title": "Evaluation and Treatment of Galactorrhea | AAFP",
+    "author": "KRISTIN S. PEÑA, M.D., AND JO ANN ROSENFELD, M.D.",
+    "doi": "Am Fam Physician.2001;63(9):1763-1771",
+    "abstract": "Galactorrhea, or inappropriate lactation, is a relatively common problem that occurs in approximately 20 to 25 percent of women. Lactation requires the presence of estrogen, progesterone and, most importantly, prolactin. Stress, suckling, sleep, sexual intercourse and medications may increase prolactin levels, whereas dopamine inhibits its release. The differential diagnosis of galactorrhea includes pituitary adenomas, neurologic disorders, hypothyroidism, numerous medications, breast stimulation, chest wall irritation and physiologic causes. The evaluation includes a thorough history and physical examination, as well as selected laboratory and imaging studies to rule out secondary causes such as an intracranial mass or a tumor. Diagnostic studies include a pregnancy test, a prolactin level, renal and thyroid function tests and, if indicated, magnetic resonance imaging of the brain. Treatment options for prolactinomas include observation, dopamine agonists, surgery and radiation therapy, depending on tumor size and associated symptoms. Fortunately, the prognosis for patients with prolactinomas is good: most prolactinomas remain stable or regress. In pregnant women, prolactinomas must be observed closely because the lesions may greatly increase in size.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Normal Lactation and Prolactin",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "PHYSIOLOGIC CONDITIONS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "NEOPLASTIC PROCESSES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "HYPOTHALAMIC-PITUITARY DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SYSTEMIC DISEASES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CHEST WALL IRRITATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "IDIOPATHIC GALACTORRHEA",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "IMAGING STUDIES",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "NORMAL PROLACTIN",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "HIGH PROLACTIN LEVEL WITH NORMAL MRI STUDIES",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "PROLACTINOMA",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "PITUITARY ADENOMAS AND PREGNANCY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Patients with breast problems such as galactorrhea are often first seen by family physicians. The true incidence of galactorrhea is unknown, but it is estimated that 20 to 25 percent of women experience this problem at some time in their life.1,2Although rare, galactorrhea can also occur in males."
+        },
+        {
+            "parent": 0,
+            "text": "Before lactation, the female breast is primed by estrogen, progesterone, growth hormone, insulin, thyroid hormone and glucocorticoids. These hormones aid in the growth of the ductal system and lobules, and in the development of secretory characteristics of the alveoli. Ironically, high levels of estrogen and progesterone also inhibit lactation at receptor sites in the breast tissue. The precipitous drop in the levels of these hormones after delivery, in the presence of an elevated prolactin level, facilitates lactation."
+        },
+        {
+            "parent": 0,
+            "text": "Prolactin is normally secreted by the anterior pituitary gland at a low basal rate, with secretion continuously suppressed by prolactin inhibiting factor(Figure 1).2–4Dopamine, released from the hypothalamus and delivered via the hypothalamic-hypophysial portal system, is the main constituent of prolactin inhibiting factor. Prolactin acts at the breast to promote milk secretion and at the ovaries to regulate the release of luteinizing hormone and follicle-stimulating hormone."
+        },
+        {
+            "parent": 0,
+            "text": "Prolactin levels cycle and are highest during sleep. Levels in normal nonpregnant women range from 1 to 20 ng per mL (1 to 20 μg per L), depending on the laboratory, and may increase to as high as 300 ng per mL (300 μg per L) during pregnancy.3Suckling, stress, dehydration, exercise, sexual intercourse and sleep increase the basal secretion rate from the pituitary gland, as do estrogen, thyrotropin-releasing hormone and possibly serotonin."
+        },
+        {
+            "parent": 1,
+            "text": "The differential diagnosis of galactorrhea includes conditions affecting many different organ systems, with causes ranging from physiologic to malignant(Table 1).2,5–10"
+        },
+        {
+            "parent": 2,
+            "text": "Galactorrhea may be considered physiologic. Pregnant women may lactate as early as the second trimester and may continue to produce milk for up to two years after cessation of breast-feeding. Fluctuating hormone levels, particularly during puberty or menopause, may also cause lactation. Nipple stimulation, commonly associated with repeated breast self-examinations or sexual activity, causes an increase in prolactin secretion."
+        },
+        {
+            "parent": 2,
+            "text": "Up to 5 percent of neonates produce “witch's milk” for the first month of life.11This milk production results from the precipitous drop in maternal estrogen and progesterone levels after delivery."
+        },
+        {
+            "parent": 3,
+            "text": "Although galactorrhea is not associated with breast cancer, it can be caused by neo-plastic processes in the brain and pituitary gland. Fortunately, most of these tumors are benign. Approximately 20 percent of women with galactorrhea have radiologically evident pituitary tumors, and the prevalence increases to 34 percent in women who also have amenorrhea.2"
+        },
+        {
+            "parent": 3,
+            "text": "The most common tumor resulting in hyperprolactinemia is the pituitary prolactinoma, a benign growth of the prolactin-secreting cells of the anterior pituitary gland. Autopsy reports indicate that prolactinomas are present in 10 to 30 percent of the population.4"
+        },
+        {
+            "parent": 3,
+            "text": "Pituitary prolactinomas are associated with elevated prolactin levels. Clinical signs and symptoms include headache, galactorrhea, amenorrhea, defects in peripheral vision, hirsutism, acne, and hypogonadism presenting as decreased libido, decreased fertility or decreased bone density. The prognosis for patients with these tumors is excellent. Most pituitary prolactinomas regress or remain stable for many years."
+        },
+        {
+            "parent": 3,
+            "text": "Nonpituitary malignancies, such as bronchogenic carcinoma, renal adenocarcinoma and Hodgkin's and T-cell lymphomas, may also release prolactin."
+        },
+        {
+            "parent": 4,
+            "text": "Any disruption of the communication between the pituitary and hypothalamus glands can result in increased prolactin secretion and milk production. Craniopharyngiomas and other tumors, infiltrative diseases, pituitary-stalk resection and empty-sella syndrome may disrupt the delivery of dopamine to the pituitary gland."
+        },
+        {
+            "parent": 5,
+            "text": "Systemic diseases must also be considered in the differential diagnosis of galactorrhea. The most common is hypothyroidism. Low levels of thyroid hormone result in increased levels of the thyrotropin-releasing hormone, which increases prolactin secretion. Galactorrhea and symptoms of hypothyroidism abate with thyroid hormone replacement therapy."
+        },
+        {
+            "parent": 5,
+            "text": "Chronic renal failure may cause galactorrhea as a result of decreased clearance of prolactin by the kidneys. Hypersecretion of cortisol (Cushing's disease) or growth hormone (acromegaly) may also have associated hyperprolactinemia."
+        },
+        {
+            "parent": 6,
+            "text": "Galactorrhea can be caused by numerous medications and some herbs(Table 2).12–19Consequently, the evaluation of this condition must include a thorough and accurate review of current and recent medications, including herbal supplements."
+        },
+        {
+            "parent": 6,
+            "text": "Many antipsychotic medications and metoclopramide (Reglan) have lactogenic activity because of their antidopaminergic effects. As many as 15 percent of patients report galactorrhea within seven to 75 days after starting antipsychotic medication.17"
+        },
+        {
+            "parent": 6,
+            "text": "With the increasing use of selective serotonin reuptake inhibitors, more women are reporting galactorrhea as a side effect.12As a result, researchers now postulate that serotonin may have a role in regulating prolactin secretion. Tricyclic antidepressants, the monoamine oxidase inhibitor moclobemide (Manerix; available in Canada) and the anxiolytic buspirone (BuSpar) are also known to cause galactorrhea.13,14"
+        },
+        {
+            "parent": 6,
+            "text": "At least four antihypertensive agents have been reported to cause inappropriate lactation. Methyldopa (Aldomet) inhibits the formation of dopamine, thereby raising the basal prolactin secretion rate. Galactorrhea has also been reported with the use of atenolol (Tenormin), reserpine (Serpasil) and verapamil (Calan).14,15"
+        },
+        {
+            "parent": 6,
+            "text": "The histamine H2-receptor blockers cimetidine (Tagamet), famotidine (Pepcid) and ranitidine (Zantac) have all been reported to cause galactorrhea.16"
+        },
+        {
+            "parent": 6,
+            "text": "Estrogen and progesterone, found in oral contraceptive formulations and the medroxy-progesterone contraceptive injection (Depo-Provera), may cause lactation. Possible mechanisms include direct actions on the breast tissue or effects on gonadotropins. Galactorrhea occurs more often after discontinuation of oral contraceptive pills than during prolonged use (similar to the hormone withdrawal and lactation that can occur in the postpartum period)."
+        },
+        {
+            "parent": 6,
+            "text": "The dosages of estrogen and progesterone used in postmenopausal hormonal replacement therapy are generally not high enough to cause galactorrhea. However, some patients with hyperprolactinemia may not have symptoms if they are estrogen deficient. Once hormone replacement therapy is started, the breast tissue is primed, and galactorrhea may then occur."
+        },
+        {
+            "parent": 6,
+            "text": "Nonpuerperal lactation can also be caused by illicit drugs. Close questioning is advised because patients may be hesitant to report the use of amphetamines, cannabis, benzodiazepines and opiates, all of which can cause lactation. A number of herbs used in cooking and as supplements must also be considered in the differential diagnosis. In addition, adoptive mothers have used metoclopramide to facilitate breast-feeding. They have also used fenugreek seed and domperidone (Motilium; available in Canada and Mexico) to achieve “induced lactation.”"
+        },
+        {
+            "parent": 7,
+            "text": "Galactorrhea can occur because of chest wall irritation from clothing or ill-fitting brassieres. It can also be caused by irritation related to skin conditions such as herpes zoster and atopic dermatitis. Burns have been associated with the development of galactorrhea. Breast surgeries, including implant placement and reduction mammoplasty, can cause postoperative galactorrhea."
+        },
+        {
+            "parent": 7,
+            "text": "Case reports have discussed galactorrhea associated with spinal cord injury or surgery, as well as spinal cord tumors.5–7Severe esophagitis and esophageal reflux may cause galactorrhea by stimulating the thoracic nerves via the cervical and thoracic ganglia.8"
+        },
+        {
+            "parent": 8,
+            "text": "Idiopathic galactorrhea is a diagnosis of exclusion, and patients may have normal or elevated levels of prolactin. In such situations, the mechanism of milk production may be an increased prolactin release in response to stimuli, with a normal basal prolactin rate."
+        },
+        {
+            "parent": 8,
+            "text": "The differential diagnosis of galactorrhea is extensive. However, patients can be reassured that this condition is not associated with breast cancer. In fact, one study found that idiopathic galactorrhea was associated with a reduced risk of breast cancer.20"
+        },
+        {
+            "parent": 9,
+            "text": "The evaluation of galactorrhea includes a thorough history and physical examination(Figure 2). Selected laboratory tests and imaging studies are also important."
+        },
+        {
+            "parent": 10,
+            "text": "The history should include the duration of galactorrhea, previous pregnancies, and other symptoms of hyperprolactinemia, such as infertility, decreased libido, acne, hirsutism and menstrual irregularity. The patient's menstrual history is important because hyperprolactinemia, through its effect on gonadotropin-releasing hormone, may cause low estrogen levels. As a result, the patient may have amenorrhea or oligomenorrhea, as well as decreased bone density."
+        },
+        {
+            "parent": 10,
+            "text": "The patient should be asked about symptoms of an intracranial mass, such as visual-field defects, cranial nerve palsy and headache. It is also important to inquire about symptoms of systemic diseases, including hypothyroidism and Cushing's disease."
+        },
+        {
+            "parent": 10,
+            "text": "An accurate list of all medications, including over-the-counter and illicit substances, herbs and other supplements, is essential."
+        },
+        {
+            "parent": 11,
+            "text": "The physical examination includes an evaluation of the patient's visual fields, thyroid gland, breasts and skin. If the type of nipple discharge is in doubt, the physician may attempt to elicit the discharge and examine it under a microscope. In galactorrhea, microscopy reveals numerous fat globules and little cellular material. If the physician is not certain that the discharge is milk, a sample may be sent to a laboratory for special staining and evaluation, including cytology."
+        },
+        {
+            "parent": 12,
+            "text": "Laboratory studies may include a serum pregnancy test, a prolactin level, renal function tests and a thyroid-stimulating hormone level."
+        },
+        {
+            "parent": 12,
+            "text": "Because prolactin levels are influenced by stress and breast stimulation, blood should not be drawn immediately after a breast examination. Rather, it should be drawn at least one hour after the examination and when the patient is relaxed. If the initial prolactin level is borderline, the level should be repeated one or two times because of the great fluctuation in prolactin levels throughout the day. A level greater than 200 ng per mL (200 μg per L) is almost always associated with a prolactinoma or other prolactin-secreting tumor."
+        },
+        {
+            "parent": 12,
+            "text": "Serum cortisol, growth hormone and insulin-like growth factor levels should be obtained if the patient has signs or symptoms of Cushing's disease (cushingoid features) or growth hormone excess (acromegalic features)."
+        },
+        {
+            "parent": 13,
+            "text": "Imaging studies are also important in the evaluation of abnormal lactation. If the patient has symptoms suggestive of an intracranial mass, galactorrhea with amenorrhea, or an elevated prolactin level (greater than 20 ng per mL), magnetic resonance imaging (MRI) of the brain is indicated to detect a pituitary tumor or other intracranial lesion. If the patient has normal menses and a normal prolactin level, the risk for pituitary adenoma is low, and imaging is not necessary. However, if a patient has galactorrhea associated with amenorrhea or oligomenorrhea, even with a normal prolactin level, the risk of a pituitary adenoma is still significant, and an imaging study of the gland is warranted.21"
+        },
+        {
+            "parent": 13,
+            "text": "Given the lack of association between galactorrhea and breast cancer, mammography is not necessary unless other findings on the physical examination are suggestive of breast pathology. Nipple discharge that is not milky should be evaluated because it may be caused by intraductal papilloma, papillomatosis, mammary duct ectasia, fibrocystic breasts or carcinoma."
+        },
+        {
+            "parent": 14,
+            "text": "The goals of galactorrhea treatment include decreasing or eliminating the patient's symptoms, curing any identified underlying cause, preventing bone loss, relieving the patient's anxiety and fears, and, when desired, maintaining the patient's fertility and ability to lactate."
+        },
+        {
+            "parent": 15,
+            "text": "Patients with idiopathic or physiologic galactorrhea and normal prolactin levels should be reassured. All patients with galactorrhea should be advised to avoid excessive breast stimulation, including repeated self-examinations or excessive nipple manipulation during sexual activity. If galactorrhea is caused by a medication, the agent should be discontinued if possible."
+        },
+        {
+            "parent": 16,
+            "text": "The prevention of osteoporosis is a concern in any patient with hyperprolactinemia. High prolactin levels, through their effect on gonadotropins and resulting low estrogen levels, decrease bone density and thereby increase the risk of osteoporosis.3This risk can be reduced with medical therapy using dopamine agonists (e.g., bromocriptine [Parlodel], cabergoline [Dostinex]), even in the absence of a tumor.22"
+        },
+        {
+            "parent": 16,
+            "text": "Medical therapy can also be effective in restoring fertility in the patient with galactorrhea, regardless of the prolactin levels. A prolactin level should be obtained every three to six months, and further studies should be performed if the level continues to rise."
+        },
+        {
+            "parent": 17,
+            "text": "The treatment of a prolactinoma depends on its size and the presence or absence of symptoms indicative of increased intracranial pressure or destruction of nearby structures. If the patient has a macroadenoma or symptoms such as headache or changes in vision, medical or surgical treatment is indicated. If the patient has no symptoms of an intracranial mass and the tumor is less than 1 cm in size (microadenoma), treatment options include close observation or medical therapy. The prolactin level should be measured every three to six months, and imaging studies should be performed every two to three years (sooner if the prolactin levels rise)."
+        },
+        {
+            "parent": 17,
+            "text": "Medical treatments for prolactinomas include bromocriptine and cabergoline. These agents activate the lactotroph D2-receptor sites and, similar to dopamine, inhibit the synthesis of prolactin. Bromocriptine and cabergoline normalize prolactin levels, rapidly shrink tumors and restore vision, menses and fertility.23,24Side effects include nausea, vomiting, postural hypotension, headache and nasal congestion, although these are experienced less often with cabergoline. The dosage of either agent is gradually increased and titrated to the patient's symptoms and prolactin level."
+        },
+        {
+            "parent": 17,
+            "text": "Cabergoline is the agent of choice in patients not wishing to conceive. Its long half-life, twice-weekly dosing and tolerability improve patient compliance. Cabergoline is also effective in reducing prolactin levels in some tumors that are resistant to bromocriptine.23"
+        },
+        {
+            "parent": 17,
+            "text": "Surgery is indicated in patients who cannot tolerate medications, have tumors that are resistant to medication or experience rapid visual loss that does not respond to medical therapy.25Unfortunately, long-term surgical cure rates for prolactinomas are poor (50 to 60 percent for microadenomas and 25 percent for macroadenomas).24"
+        },
+        {
+            "parent": 17,
+            "text": "Radiation therapy is an option in the patient who cannot tolerate medications and is not a surgical candidate. Irradiation is sometimes used as an adjunct to surgical treatment."
+        },
+        {
+            "parent": 18,
+            "text": "Close observation is required for pregnant women with prolactinomas. From 1 to 5 percent of microadenomas and 23 percent of macroadenomas increase in size during pregnancy.26The pregnant patient with a prolactinoma should be referred to a specialist in pituitary disorders, as management is controversial."
+        },
+        {
+            "parent": 18,
+            "text": "Because of its more extensive safety record, bromocriptine is the drug of choice in women with pituitary adenomas who wish to conceive. Although no adverse fetal effects have been reported, the drug should be discontinued once pregnancy is suspected, unless there is evidence of a very large adenoma or an enlarging adenoma. Prepregnancy surgical debulking of a large macroadenoma, followed by bromocriptine therapy, is another treatment option."
+        }
+    ],
+    "locked": false
+}

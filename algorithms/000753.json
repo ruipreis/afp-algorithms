@@ -1,0 +1,198 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0515/p2387.html#afp20040515p2387-f1",
+    "title": "Management of Hyponatremia | AAFP",
+    "author": "KIAN PENG GOH, M.R.C.P.",
+    "doi": "Am Fam Physician.2004;69(10):2387-2394",
+    "abstract": "Hyponatremia is an important electrolyte abnormality with the potential for significant morbidity and mortality. Common causes include medications and the syndrome of inappropriate antidiuretic hormone (SIADH) secretion. Hyponatremia can be classified according to the volume status of the patient as hypovolemic, hypervolemic, or euvolemic. Hypervolemic hyponatremia may be caused by congestive heart failure, liver cirrhosis, and renal disease. Differentiating between euvolemia and hypovolemia can be clinically difficult, but a useful investigative aid is measurement of plasma osmolality. Hyponatremia with a high plasma osmolality is caused by hyperglycemia, while a normal plasma osmolality indicates pseudohyponatremia or the post-transurethral prostatic resection syndrome. The urinary sodium concentration helps in diagnosing patients with low plasma osmolality. High urinary sodium concentration in the presence of low plasma osmolality can be caused by renal disorders, endocrine deficiencies, reset osmostat syndrome, SIADH, and medications. Low urinary sodium concentration is caused by severe burns, gastrointestinal losses, and acute water overload. Management includes instituting immediate treatment in patients with acute severe hyponatremia because of the risk of cerebral edema and hyponatremic encephalopathy. In patients with chronic hyponatremia, fluid restriction is the mainstay of treatment, with demeclocycline therapy reserved for use in persistent cases. Rapid correction should be avoided to reduce the risk of central pontine myelinolysis. Loop diuretics are useful in managing edematous hyponatremic states and chronic SIADH. In all instances, identifying the cause of hyponatremia remains an integral part of the treatment plan.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Water and Sodium Balance",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Signs and Symptoms",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Strategy",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "HYPERVOLEMIC HYPONATREMIA",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "EUVOLEMIC AND HYPOVOLEMIC HYPONATREMIA",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Plasma Osmolality Measurement",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "NORMAL PLASMA OSMOLALITY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "INCREASED PLASMA OSMOLALITY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "DECREASED PLASMA OSMOLALITY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "High Urine Sodium Level",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Low Urine Sodium Level",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Drug and Medication Use",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "SIADH",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hyponatremia generally is defined as a plasma sodium level of less than 135 mEq per L (135 mmol per L).1,2This electrolyte imbalance is encountered commonly in hospital and ambulatory settings.3The results of one prevalence study4in a nursing home population demonstrated that 18 percent of the residents were in a hyponatremic state, and 53 percent had experienced at least one episode of hyponatremia in the previous 12 months. Acute or symptomatic hyponatremia can lead to significant rates of morbidity and mortality.5–7Mortality rates as high as 17.9 percent have been quoted, but rates this extreme usually occur in the context of hospitalized patients.8Morbidity also can result from rapid correction of hyponatremia.9,10Because there are many causes of hyponatremia and the treatment differs according to the cause, a logical and efficient approach to the evaluation and management of patients with hyponatremia is imperative."
+        },
+        {
+            "parent": 0,
+            "text": "Plasma osmolality, a major determinant of total body water homeostasis, is measured by the number of solute particles present in 1 kg of plasma. It is calculated in mmol per L by using this formula:"
+        },
+        {
+            "parent": 0,
+            "text": "2 × [sodium] + [urea] + [glucose]"
+        },
+        {
+            "parent": 0,
+            "text": "Total body sodium is primarily extracellular, and any increase results in increased tonicity, which stimulates the thirst center and arginine vasopressin secretion. Arginine vasopressin then acts on the V2 receptors in the renal tubules, causing increased water reabsorption. The opposite occurs with decreased extracellular sodium: a decrease inhibits the thirst center and arginine vasopressin secretion, resulting in diuresis. In most cases, hyponatremia results when the elimination of total body water decreases. The pathophysiology of hyponatremia will be discussed later in this article."
+        },
+        {
+            "parent": 1,
+            "text": "Most patients with hyponatremia are asymptomatic. Symptoms do not usually appear until the plasma sodium level drops below 120 mEq per L (120 mmol per L) and usually are nonspecific (e.g., headache, lethargy, nausea).11In cases of severe hyponatremia, neurologic and gastrointestinal symptoms predominate.3The risk of seizures and coma increases as the sodium level decreases. The development of clinical signs and symptoms also depends on the rapidity with which the plasma sodium level decreases. In the event of a rapid decrease, the patient can be symptomatic even with a plasma sodium level above 120 mEq per L. Poor prognostic factors for severe hyponatremia in hospitalized patients include the presence of symptoms, sepsis, and respiratory failure.12"
+        },
+        {
+            "parent": 2,
+            "text": "Figure 113shows an algorithm for the assessment of hyponatremia. The identification of hyponatremia must be followed by a clinical assessment of the patient, beginning with a targeted history to elicit the symptoms of hyponatremia and exclude important causes such as congestive heart failure, liver or renal impairment, malignancy, hypothyroidism, Addison’s disease, gastrointestinal losses, psychiatric illness, recent drug ingestion, surgery, or reception of intravenous fluids. The patient then should be classified into one of the following categories: hypervolemic (edematous), hypovolemic (volume depleted), or euvolemic."
+        },
+        {
+            "parent": 3,
+            "text": "Hyponatremia in the presence of edema indicates increased total body sodium and water. This increase in total body water is greater than the total body sodium level, resulting in edema. The three main causes of hypervolemic hyponatremia are congestive heart failure, liver cirrhosis, and renal diseases such as renal failure and nephrotic syndrome. These disorders usually are obvious from the clinical history and physical examination alone."
+        },
+        {
+            "parent": 4,
+            "text": "Hyponatremia in a volume-depleted patient is caused by a deficit in total body sodium and total body water, with a disproportionately greater sodium loss, whereas in euvolemic hyponatremia, the total body sodium level is normal or near normal. Differentiating between hypovolemia and euvolemia may be clinically difficult, especially if the classic features of volume depletion such as postural hypotension and tachycardia are absent.14"
+        },
+        {
+            "parent": 4,
+            "text": "Laboratory markers of hypovolemia, such as a raised hematocrit level and blood urea nitrogen (BUN)-to-creatinine ratio of more than 20, may not be present. In fact, results of one study15showed an increased BUN-to-creatinine ratio in only 68 percent of hypovolemic patients. Two useful aids for evaluating euvolemic or hypovolemic patients are measurement of plasma osmolality and urinary sodium concentration. Plasma osmolality testing places the patient into one of three categories, normal, high, or low plasma osmolality, while urinary sodium concentration testing is used to refine the diagnosis in patients who have a low plasma osmolality."
+        },
+        {
+            "parent": 6,
+            "text": "The combination of hyponatremia and normal plasma osmolality (280 to 300 mOsm per kg [280 to 300 mmol per kg]) of water can be caused by pseudohyponatremia or by the post-transurethral prostatic resection syndrome. The phenomenon of pseudohyponatremia is explained by the increased percentage of large molecular particles, such as proteins and fats in the serum, relative to sodium. These large molecules do not contribute to plasma osmolality, resulting in a state in which the relative sodium concentration is decreased, but the overall osmolality remains unchanged. Severe hypertriglyceridemia and hyperproteinemia are two causes of this condition in patients with pseudohyponatremia. These patients usually are euvolemic."
+        },
+        {
+            "parent": 6,
+            "text": "The post-transurethral prostatic resection syndrome consists of hyponatremia with possible neurologic deficits and cardiorespiratory compromise. Although the syndrome has been attributed to the absorption of large volumes of hypotonic irrigation fluid intraoperatively, its pathophysiology and management remain controversial.16"
+        },
+        {
+            "parent": 7,
+            "text": "Increased plasma osmolality (more than 300 mOsm per kg of water) in a patient with hyponatremia is caused by severe hyperglycemia, such as that occurring with diabetic ketoacidosis or a hyperglycemic hyperosmolar state. It is caused by the presence of glucose molecules that exert an osmotic force and draw water from the intracellular compartment into the plasma, with a diluting effect. Osmotic diuresis from glucose then results in hypovolemia. Fortunately, hyperglycemia can be diagnosed easily by measuring the bedside capillary blood glucose level."
+        },
+        {
+            "parent": 8,
+            "text": "Patients with low plasma osmolality (less than 280 mOsm per kg of water) can be hypovolemic or euvolemic. The level of urine sodium is used to further refine the differential diagnosis."
+        },
+        {
+            "parent": 9,
+            "text": "Excess renal sodium loss can be confirmed by finding a high urinary sodium concentration (more than 30 mmol per L). In these patients, the main causes of hyponatremia are renal disorders, endocrine deficiencies, reset osmostat syndrome, syndrome of inappropriate antidiuretic hormone secretion (SIADH), and drugs or medications. Because of their prevalence and importance, SIADH and drugs deserve special mention, and the author will elaborate on these causes later in the article."
+        },
+        {
+            "parent": 9,
+            "text": "Renal disorders that cause hyponatremia include sodium-losing nephropathy from chronic renal disease (e.g., polycystic kidney, chronic pyelonephritis) and the hyponatremic hypertensive syndrome that frequently occurs in patients with renal ischemia (e.g., renal artery stenosis or occlusion).17The combinations of hypertension plus hypokalemia (renal artery stenosis) or hyperkalemia (renal failure) are useful clues to this syndrome."
+        },
+        {
+            "parent": 9,
+            "text": "Endocrine disorders are uncommon causes of hyponatremia. Diagnosing hypothyroidism or mineralocorticoid deficiency (i.e., Addison’s disease) as a cause of hyponatremia requires a high index of suspicion, because the clinical signs can be quite subtle. In either case, the serum levels of thyroid-stimulating hormone (TSH), cortisol, and adrenocorticotropic hormone (ACTH) should be measured, because hypothyroidism and hypoadrenalism can coexist as a polyendocrine deficiency disorder (i.e., Schmidt’s syndrome). Treatment of Schmidt’s syndrome involves steroid replacement before thyroxine T4 therapy to avoid precipitating an addisonian crisis."
+        },
+        {
+            "parent": 9,
+            "text": "The reset osmostat syndrome occurs when the threshold for antidiuretic hormone secretion is reset downward. Patients with this condition have normal water-load excretion and intact urine-diluting ability after an oral water-loading test. The condition is chronic—but stable—hyponatremia.18It can be caused by pregnancy, quadriplegia, malignancy, malnutrition, or any chronic debilitating disease."
+        },
+        {
+            "parent": 10,
+            "text": "Patients with extra-renal sodium loss have a low urinary sodium concentration (less than 30 mmol per L) as the body attempts to conserve sodium. Causes include severe burns and gastrointestinal losses from vomiting or diarrhea. Acute water overload, which usually is obvious from the patient’s history, occurs in patients who have been hydrated rapidly with hypotonic fluids, as well as in psychiatric patients with psychogenic overdrinking."
+        },
+        {
+            "parent": 10,
+            "text": "Diuretic therapy, on the other hand, can cause either a low or a high urinary-sodium concentration, depending on the timing of the last diuretic dose administered, but the presence of concomitant hypokalemia is an important clue to the use of a diuretic.19"
+        },
+        {
+            "parent": 11,
+            "text": "Medications and drugs that cause hyponatremia are listed inTable 1.20–26Some of the more common causes of medication-induced hyponatremia are diuretics20and selective serotonin reuptake inhibitors (SSRIs).27Most of the medications cause SIADH, resulting in euvolemic hyponatremia. Diuretics cause a hypovolemic hyponatremia. Fortunately, in most cases, stopping the offending agent is sufficient to cause spontaneous resolution of the electrolyte imbalance."
+        },
+        {
+            "parent": 12,
+            "text": "SIADH is an important cause of hyponatremia that occurs when normal bodily control of antidiuretic hormone secretion is lost and antidiuretic hormone is secreted independently of the body’s need to conserve water. Antidiuretic hormone causes water retention, so hyponatremia then occurs as a result of inappropriately increased water retention in the presence of sodium loss. The diagnostic criteria for SIADH are listed inTable 2.28"
+        },
+        {
+            "parent": 12,
+            "text": "SIADH is a diagnosis of exclusion and should be suspected when hyponatremia is accompanied by urine that is hyperosmolar compared with the plasma. This situation implies the presence of a low plasma osmolality with an inappropriately high urine osmolality, although the urine osmolality does not necessarily have to exceed the normal range. Another suggestive feature is the presence of hypouricemia caused by increased fractional excretion of urate.29Common causes of SIADH are listed inTable 3."
+        },
+        {
+            "parent": 12,
+            "text": "Any cerebral insult, from tumors to infections, can cause SIADH. Pneumonia and empyema are well-known pulmonary causes, with legionnaires’ disease being a classic example.30Another pulmonary cause is bronchogenic carcinoma and, in particular, small-cell carcinoma, which is also the most common cause of ectopic antidiuretic hormone secretion.31Drug-induced SIADH is relatively common. Less common causes include acute intermittent porphyria, multiple sclerosis, and Guillain-Barré syndrome."
+        },
+        {
+            "parent": 13,
+            "text": "The treatment of hyponatremia can be divided into two steps. First, the physician must decide whether immediate treatment is required. This decision is based on the presence of symptoms, the degree of hyponatremia, whether the condition is acute (arbitrarily defined as a duration of less than 48 hours) or chronic, and the presence of any degree of hypotension. The second step is to determine the most appropriate method of correcting the hyponatremia. Shock resulting from volume depletion should be treated with intravenous isotonic saline."
+        },
+        {
+            "parent": 13,
+            "text": "Acute severe hyponatremia (i.e., less than 125 mmol per L) usually is associated with neurologic symptoms such as seizures and should be treated urgently because of the high risk of cerebral edema and hyponatremic encephalopathy.32The initial correction rate with hypertonic saline should not exceed 1 to 2 mmol per L per hour, and normo/hypernatremia should be avoided in the first 48 hours.33–35"
+        },
+        {
+            "parent": 13,
+            "text": "In patients with chronic hyponatremia, overzealous and rapid correction should be avoided because it can lead to central pontine myelinolysis.9,10In central pontine myelinolysis, neurologic symptoms usually occur one to six days after correction and often are irreversible.19In most cases of chronic asymptomatic hyponatremia, removing the underlying cause of the hyponatremia suffices.9Otherwise, fluid restriction (less than 1 to 1.5 L per day) is the mainstay of treatment and the preferred mode of treatment for mild to moderate SIADH.20The combination of loop diuretics with a high-sodium diet may be required to achieve an adequate response in patients with chronic SIADH."
+        },
+        {
+            "parent": 13,
+            "text": "In patients who have difficulty adhering to fluid restriction or who have persistent severe hyponatremia despite the above measures, demeclocycline (Declomycin) in a dosage of 600 to 1,200 mg daily can be used to induce a negative free-water balance by causing nephrogenic diabetes insipidus.19,36This medication should be used with caution in patients with hepatic or renal insufficiency.37In patients with hypervolemic hyponatremia, fluid and sodium restriction is the preferred treatment. Loop diuretics can be used in severe cases.38Hemodialysis is an alternative in patients with renal impairment."
+        },
+        {
+            "parent": 13,
+            "text": "Newer agents such as the arginine vasopressin receptor antagonists have shown promising results39and may be useful in patients with chronic hyponatremia.40"
+        },
+        {
+            "parent": 13,
+            "text": "In all patients with hyponatremia, the cause should be identified and treated. Some causes, such as congestive heart failure or use of diuretics, are obvious. Other causes, such as SIADH and endocrine deficiencies, usually require further evaluation before identification and appropriate treatment."
+        }
+    ],
+    "locked": false
+}

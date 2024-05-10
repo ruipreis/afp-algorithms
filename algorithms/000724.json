@@ -1,0 +1,89 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2005/0215/p763.html#afp20050215p763-f1",
+    "title": "Evidence-Based Initiation of Warfarin (Coumadin) | AAFP",
+    "author": "MARK H. EBELL, M.D., M.S.",
+    "doi": "Am Fam Physician.2005;71(4):763-765",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Clinical Question",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Evidence Summary",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Applying the Evidence",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "EXAMPLE 1:",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "EXAMPLE 2:",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": 0,
+            "text": "What is the best way to initiate oral anticoagulation therapy with warfarin (Coumadin)?"
+        },
+        {
+            "parent": 1,
+            "text": "Many physicians continue to use clinical judgment alone as the basis for initiating and adjusting warfarin dosages in patients who require oral anticoagulation. A number of studies have validated approaches to initiation of anticoagulation that provide more rapid anticoagulation with less chance of complications. This article reviews these decision-support tools. A futurePoint-of-Care Guidewill address evidence-based guidelines for adjustments to the warfarin dosage in patients on long-term therapy."
+        },
+        {
+            "parent": 1,
+            "text": "The two widely used dosing options on the initiation of warfarin therapy are 5 mg and 10 mg per day. A small study1randomized 49 inpatients to receive initial doses of 5 mg or 10 mg, with subsequent adjustments made according to an algorithm that was not included in the article. All patients were simultaneously treated with heparin. Although patients in the 10-mg group achieved a therapeutic level (International Normalized Ratio [INR] greater than 2.0) more rapidly, they were four times more likely to have a supratherapeutic INR level at 60 hours and to require administration of vitamin K for reversal of anticoagulation. The authors1claim that the early advantage of the higher dose (10 mg) of warfarin is a subsequent reduction in factor VII levels rather than in factor II and X levels, which are actually thought to be responsible for antithrombotic activity.1The same researchers repeated the study and obtained similar results with a group of 52 inpatients, most of whom also were receiving heparin.2Neither of these studies1,2examined clinically important outcomes such as the likelihood of death, recurrent venous thromboembolism, or bleeding."
+        },
+        {
+            "parent": 1,
+            "text": "A larger, more recent study3compared the use of 5-mg and 10-mg warfarin initiation algorithms in a group of 201 patients with acute venous thromboembolism. The authors used an adaptation of an algorithm for initiating 5-mg warfarin therapy,4choosing the higher value in each range for the warfarin dose for a given INR range. Patients were simultaneously anticoagulated with dalteparin or tinzaparin for at least five days, and patients requiring hospitalization were excluded from the study.3"
+        },
+        {
+            "parent": 1,
+            "text": "The mean age of patients was 55 years, and approximately 25 percent had cancer. There were more men in the 10-mg group than in the 5-mg group (65 out of 104 patients versus 47 out of 97 patients, respectively), but this finding is of uncertain clinical significance.3Overall, efficacy was significantly better in patients receiving 10 mg of warfarin than in those receiving 5 mg, with a faster time to a mean INR greater than 1.9 (4.2 versus 5.6 days, respectively;P< .001); more patients at therapeutic levels by day 5 (83 versus 46 percent, respectively;P< .001); and no difference in the percentage of patients with an INR of at least 5.0 in the first four weeks (9 versus 11 percent, respectively;P> .2)."
+        },
+        {
+            "parent": 1,
+            "text": "There was no significant difference between the two groups in the likelihood of major bleeding episodes (one patient in each group) or death (none in the 10-mg group and one in the 5-mg group). But there was a possible trend toward more episodes of recurrent venous thromboembolism at 90 days (three patients in those receiving 10 mg versus none in those receiving 5 mg;P= .09)."
+        },
+        {
+            "parent": 1,
+            "text": "Thus, two studies1,2support a 5-mg warfarin initiation algorithm, while a larger, more recent study3supports a 10-mg algorithm. The difference may be partially explained by disparities in patient populations: the 5-mg algorithm appeared to work better in groups of inpatients who also were receiving heparin,1,2while the 10-mg algorithm performed better in outpatients who also were receiving low-molecular-weight heparin.3In addition, the more recent study3that reported more rapid anticoagulation with a 10-mg algorithm used a somewhat more aggressive algorithm than the two older, smaller studies1,2that did not find a benefit with this dosage. For example, a patient with an INR of 1.2 on day 3 would receive 15 mg of warfarin on days 3 and 4 with the newer algorithm3and only 5 or 10 mg with the older algorithms.1,2Unless new data demonstrate that one or the other of these algorithms is definitely better, both should be considered reasonable options in the initiation of warfarin therapy.5"
+        },
+        {
+            "parent": 1,
+            "text": "Another study6based on an initial 5-mg dose provides data that help predict the eventual maintenance dosage of warfarin. The authors identified a consecutive group of 91 patients with nonvalvular atrial fibrillation who required anticoagulation as outpatients. They were not receiving heparin. Patients were given 5 mg of warfarin per day for four days, and the INR was measured on day 5. Their final maintenance dosage was established by following them for three months, and the relationship between their INR on day 5 and their stable maintenance dose (target INR: 2.0 to 3.0) was graphed as a nomogram.6The estimate was tested prospectively on a group of 23 patients, with a mean difference between the predicted and final actual dosage of only 1.6 mg per week (95 percent confidence interval [CI], 0.0007 to 3.195)."
+        },
+        {
+            "parent": 1,
+            "text": "The 5-mg warfarin initiation algorithm is shown inTable 1, the 10-mg algorithm inFigure 1, and the relationship between INR on day 5 and the predicted final maintenance dosage of warfarin inTable 2. Note that the 10-mg algorithm only requires that the INR be measured on days 3 and 5 during the first week of therapy, making it more practical for outpatient therapy. Of course, the dosing adjustments based on these algorithms presume that same-day INR results can be obtained."
+        },
+        {
+            "parent": 3,
+            "text": "A 45-year-old woman is diagnosed with deep venous thrombosis and started as an outpatient on low-molecular-weight heparin therapy. She will require long-term anticoagulation with warfarin. How should the latter therapy be initiated?"
+        },
+        {
+            "parent": 3,
+            "text": "Answer:Her physician decides that a 10-mg algorithm has been best validated in patients like her and gives her 10 mg of warfarin on days 1 and 2. She visits that physician’s office on day 3, at which time she has an INR of 1.4. Referring toFigure 1, the physician gives her 10 mg of warfarin on days 3 and 4. Her INR on day 5 is 2.4, so the physician gives her 7.5 mg, 5 mg, and 7.5 mg on days 5, 6, and 7, respectively. Her INR is checked again on day 7, and that value is used to adjust her future dosage."
+        },
+        {
+            "parent": 4,
+            "text": "A 73-year-old man is diagnosed with chronic atrial fibrillation. He is hemodynamically stable and likely has been in this rhythm for several weeks or months. What will his final warfarin dosage be?"
+        },
+        {
+            "parent": 4,
+            "text": "Answer:After taking 5 mg of warfarin on days 1 through 4, his INR on day 5 is 2.4. The physician refers toTable 2, in which the estimated weekly dosage is 21 mg, which corresponds to 3 mg per day. The physician lowers his dosage to 3 mg per day and decides to recheck his INR in four days."
+        }
+    ],
+    "locked": false
+}

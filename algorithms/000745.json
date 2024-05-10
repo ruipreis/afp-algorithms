@@ -1,0 +1,262 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0801/p489.html#afp20040801p489-f3",
+    "title": "Insulin Therapy for Type 2 Diabetes: Rescue, Augmentation, and Replacement of Beta-Cell Function | AAFP",
+    "author": "JENNIFER A. MAYFIELD, M.D., AND RUSSELL D. WHITE, M.D.",
+    "doi": "Am Fam Physician.2004;70(3):489-500",
+    "abstract": "Type 2 diabetes is characterized by progressive beta-cell failure. Indications for exogenous insulin therapy in patients with this condition include acute illness or surgery, pregnancy, glucose toxicity, contraindications to or failure to achieve goals with oral antidiabetic medications, and a need for flexible therapy. Augmentation therapy with basal insulin is useful if some beta-cell function remains. Replacement therapy with basal-bolus insulin is required for beta-cell exhaustion. Rescue therapy using replacement regimens for several weeks may reverse glucose toxicity. Replacement insulin therapy should mimic normal release patterns. Basal insulin, using long-acting insulins (i.e., neutral protamine Hagedorn [NPH], ultralente, glargine) is injected once or twice a day and continued on sick days. Bolus (or mealtime) insulin, using short-acting or rapid-acting insulins (i.e., regular, aspart, lispro) covers mealtime carbohydrates and corrects the current glucose level. The starting dose of 0.15 units per kg per day for augmentation or 0.5 units per kg per day for replacement can be increased several times as needed. About 50 to 60 percent of the total daily insulin requirement should be a basal type, and 40 to 50 percent should be a bolus type. The mealtime dose is the sum of the corrective dose plus the anticipated requirements for the meal and exercise. Adjustments should be made systematically, starting with the fasting, then the preprandial and, finally, the postprandial glucose levels. Basal therapy with glargine insulin provides similar to lower A1C levels with less hypoglycemia than NPH insulin. Insulin aspart and insulin lispro provide similar A1C levels and quality of life, but lower postprandial glucose levels than regular insulin.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology of the Beta Cell",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Options",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Indications",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Contraindications and Adverse Effects",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Therapy Regimens",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Dosing",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Supplemental Insulin",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Activity",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Food",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Experience",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Oral Medications Plus Insulin",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Illustrative Cases",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "discussion",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "discussion",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Twenty-seven percent of persons with type 2 diabetes use insulin therapy, but less than one half achieve the recommended A1C level of 7 percent or less.1These statistics suggest that suboptimal insulin therapy is too common. New insulin preparations and a better understanding of insulin physiology provide more options for family physicians attempting to effectively tailor insulin therapy to the needs of individual patients."
+        },
+        {
+            "parent": -1,
+            "text": "This overview describes how basal and bolus insulin release in type 2 diabetes differs from normal patterns of insulin release and discusses the indications for insulin therapy and injectable insulin characteristics. The authors present evidence supporting various insulin regimens to restore, augment, or replace beta-cell function and offer suggestions for using analogue insulins."
+        },
+        {
+            "parent": 0,
+            "text": "Blood glucose is derived from carbohydrates absorbed in the gut and produced in the liver. Absolute and increasing blood glucose levels stimulate insulin release.2The postprandial glucose influx can be 20 to 30 times higher than hepatic production between meals. Phase 1 insulin release, lasting 10 minutes, suppresses hepatic glucose production and facilitates phase 2 release, which lasts two hours and covers mealtime carbohydrates. Between meals, a low continuous insulin level, called basal insulin, serves ongoing metabolic needs."
+        },
+        {
+            "parent": 0,
+            "text": "The normal beta cell responds in a linear fashion to blood glucose levels. The slope of this response is steeper after fasting and flattened following prolonged exposure to high glucose levels. This loss of responsiveness to glucose levels, which may be reversible in the earlier stages, also is called beta-cell exhaustion or glucose toxicity.3"
+        },
+        {
+            "parent": 0,
+            "text": "In type 2 diabetes, phase 1 release is absent, and phase 2 release is delayed and inadequate. The sharp spike of mealtime insulin release occurring in normal persons(white background inFigure 1)is delayed, prolonged, and insufficient in amount in patients with type 2 diabetes. Before diagnosis and treatment, the beta cell produces excess insulin to accommodate insulin resistance, but eventually the beta cell is replaced with amyloid, and insulin production declines.4"
+        },
+        {
+            "parent": 0,
+            "text": "When type 2 diabetes is clinically diagnosed, only 50 percent of normal beta-cell function remains. The United Kingdom Prospective Diabetes Study (UKPDS)5demonstrated that this function continues to deteriorate over time despite treatment with diet, exercise, metformin (Glucophage), sulfonylureas, or insulin. Thiazolidinediones appear to preserve beta-cell function in women who had gestational diabetes, thus potentially preventing or delaying the onset of diabetes.6However, the ability of these drugs to preserve beta-cell function in patients with type 2 diabetes has not yet been proved."
+        },
+        {
+            "parent": 0,
+            "text": "Beta-cell function cannot be estimated accurately on the basis of endogenous insulin levels because of the pulsatile release pattern and short half-life (six to seven minutes). A more accurate estimate is provided by levels of C-peptide, a byproduct of insulin production with a half-life of 30 minutes. However, a low C-peptide level cannot differentiate nearly extinct beta-cell function from reversible glucose toxicity; thus, its determination rarely changes therapy."
+        },
+        {
+            "parent": 1,
+            "text": "Endogenous insulin release can be stimulated by meglitinides (phase 1) or sulfonylureas (phase 2). Sulfonylureas have a 5 to 10 percent annual failure rate (fasting plasma glucose level greater than 200 mg per dL [11.1 mmol per L]).7"
+        },
+        {
+            "parent": 1,
+            "text": "Injectable insulin is categorized as basal or bolus insulin based on the duration of action (Table 18andFigure 2). Basal insulins include neutral protamine Hagedorn (NPH) or isophane insulin (Novolin N, Humulin N), ultralente (extended insulin zinc suspension), and the insulin analogue glargine (Lantus).9Bolus or mealtime insulins include regular insulin (Novolin R, Humulin R) and the analogue forms aspart (NovoLog) and lispro (Humalog).10Premixed formulations incorporate NPH and regular or rapid-acting analogues. Inhaled, transdermal, and oral insulin formulations are in development."
+        },
+        {
+            "parent": 1,
+            "text": "Traditional insulins (i.e., regular, NPH, and ultralente) have two features that complicate therapy. First, their absorption profiles are erratic, creating day-to-day fluctuations in glycemic control.9Second, their delayed onset of action and peak activity requires coordination of injection and meals. Regular insulin must be injected 30 to 60 minutes before the meal to match postprandial glucose influx. NPH may cause hypoglycemia during its peak at four to 10 hours after injection unless the patient remembers to eat. Premixed formulations of NPH and regular insulin provide a bimodal pattern of insulin activity that rigidly dictates meal size and timing for the next 12 hours."
+        },
+        {
+            "parent": 1,
+            "text": "These problems are avoided with analogue insulins (i.e., glargine, aspart, and lispro)—so named because one to three amino acids have been substituted in the human insulin protein, producing altered absorption rates and more reliable absorption profiles. Lispro and aspart are active within 15 minutes and peak in about one hour, mimicking normal mealtime insulin release.10Glargine provides a peakless, continuous release over 24 hours that approximates a normal basal pattern.9,11The analogue insulins cost 60 to 100 percent more than traditional insulins."
+        },
+        {
+            "parent": 2,
+            "text": "Insulin therapy always can achieve glycemic control and may be initiated at any time. An algorithm for instituting insulin therapy is provided inFigure 3. The most common indication for insulin therapy is failure to achieve glycemic control with diet, exercise, and oral medications. Within three years of diagnosis, only 33 percent of patients treated with metformin and sulfonylurea have an A1C level that is less than 7 percent.12In the UKPDS,13an A1C level of 7 percent or less was found to decrease the risk of microvascular outcomes—mainly retinal photocoagulation—but not cardiovascular disease. However, in the Steno-2 study,14a combination of glycemic, lipid, and blood pressure control reduced mortality by 50 percent compared with usual therapy. Insulin therapy also is indicated in patients with contraindications to antidiabetic medications.15"
+        },
+        {
+            "parent": 2,
+            "text": "Intensive insulin therapy was found to reduce morbidity and mortality in critically ill patients in a surgical intensive care unit compared with usual therapy.16In patients who had experienced a myocardial infarct, intensive insulin therapy resulted in a 30 percent lower risk of death compared with usual therapy.17Pregnant women with poorly controlled type 2 diabetes should be given insulin to stabilize glucose levels. Tight glycemic control before conception decreases the risk of miscarriage and birth defects18and, in the third trimester, tight control decreases macrosomia and its attendant complications.19"
+        },
+        {
+            "parent": 2,
+            "text": "Glucose toxicity, which is exhibited as a fasting plasma glucose level greater than 250 mg per dL (13.9 mmol per L), and ketonuria, weight loss, or symptomatic hyperglycemia, can be addressed promptly with insulin therapy. Many patients regain beta-cell function after a few weeks of intensive therapy, enabling them to return to management with diet or oral medication for several months to years.20,21"
+        },
+        {
+            "parent": 3,
+            "text": "There are no medical contraindications to insulin therapy. Although no insulin has a category A pregnancy classification, regular and NPH insulin have been used extensively in pregnant women. Lispro has a category B classification,22and aspart and glargine have a category C classification.23,24Glargine is approved for use in patients six years and older24; no other insulins have an age restriction."
+        },
+        {
+            "parent": 3,
+            "text": "The most serious adverse effect of insulin therapy is hypoglycemia, but the frequency and severity of this effect is less in type 2 diabetes than in type 1 diabetes. In the UKPDS,13major hypoglycemia occurred in 2.3 percent of patients per year who were treated with insulin compared with rates of 0.1 to 0.4 percent in those on diet or sulfonylurea therapy. The risk of hypoglycemia increases significantly when the A1C level is below 7.4 percent.25Hypoglycemia risks can be minimized with use of analogue insulin; careful timing of injections, meals, and exercise; frequent self-monitoring of blood glucose levels; and patient education about self-adjustment of the insulin dose and management of hypoglycemia."
+        },
+        {
+            "parent": 3,
+            "text": "Weight gain is a common side effect of insulin therapy. In the UKPDS,13patients taking insulin gained 4 kg (8 lb, 13 oz) more than those treated with diet therapy over 10 years. Weight gain can be modified by increasing exercise, restricting calories, and administering metformin concurrently.25,26The benefits of insulin administration out-weigh the health risks of increased weight."
+        },
+        {
+            "parent": 3,
+            "text": "Exogenous insulin does not increase the risk of macrovascular disease or exacerbate insulin resistance.13All insulins are made using genetic recombinant techniques, so insulin allergy is uncommon."
+        },
+        {
+            "parent": 4,
+            "text": "Theoretically, the ideal insulin therapy regimen should mimic normal physiologic insulin release (Figure 1). The insulin regimen should be tailored to the patient’s degree of hyperglycemia, the risks associated with hypoglycemia, comorbid conditions, the ability to adhere to a routine and understand and master the information and skills, and the cost.Table 2offers tips on initiating insulin therapy."
+        },
+        {
+            "parent": 4,
+            "text": "Augmentation therapy is effective in patients with residual but insufficient beta-cell function, which is exhibited as failure to maintain the A1C goal while taking oral medications.15Augmentation therapy usually is provided with basal insulin using bedtime NPH (Figure 4), NPH twice daily, ultralente once daily, or glargine once daily, adjusted to maintain a fasting plasma glucose level between 90 and 130 mg per dL (5 and 7.2 mmol per L). Augmentation also can be provided at mealtime using regular insulin (Figure 5), aspart, or lispro27,28adjusted to maintain two-hour postprandial glucose levels of 180 mg per dL (10 mmol per L) or less. Compared with a single basal insulin injection, the same amount of insulin divided into several bolus injections provides fewer postprandial glucose fluctuations, a lower A1C level, and greater weight gain.29"
+        },
+        {
+            "parent": 4,
+            "text": "Bolus insulin without basal insulin, called sliding-scale therapy, often is blamed for erratic glycemic control in hospital settings. In an observational study of hospitalized patients of unspecified diabetes type, those treated with sliding-scale therapy had a threefold higher risk of hyperglycemia.30Patients too sick to use their usual oral medications should receive basal insulin with periodic bolus adjustments that are called supplemental or corrective insulin."
+        },
+        {
+            "parent": 4,
+            "text": "Replacement therapy using basal-bolus insulin regimens is indicated for patients who need intensive control or have failed augmentation therapy. Short-term rescue therapy for glucose toxicity employs the same regimens. The most convenient basal-bolus regimen uses split-mixed injection of NPH and regular insulin before breakfast and dinner but requires rigid adherence to a set meal size and time. Premixed formulations may not match patient requirements. The morning NPH may not provide adequate coverage for lunch, and the evening NPH may cause nocturnal hypoglycemia. If NPH wanes in the early morning, resulting in an elevated fasting plasma glucose level, the second NPH insulin injection can be moved to bedtime, keeping the regular injection at dinner, for a total of three injections a day using two insulin vials (Figure 6)."
+        },
+        {
+            "parent": 4,
+            "text": "Four injections a day of basal-bolus insulin provide a better approximation of normal insulin release and more flexibility for patients with unpredictable schedules. Regimens include NPH and regular insulin, NPH with aspart or lispro, or glargine and aspart or lispro (Figure 7) . In pregnant women and those planning pregnancy, traditional split-mixed, premixed, or basal plus meal-related insulin regimens are preferred."
+        },
+        {
+            "parent": 4,
+            "text": "In type 2 diabetes treated with mealtime lispro, A1C levels, quality of life, and number of hypoglycemic episodes are similar to those of regular insulin.31–33Lispro and aspart provide one- and two-hour postprandial glucose levels that are 30 and 50 percent lower than regular insulin, respectively.28,31This finding may be clinically important if postprandial control is demonstrated in a prospective study to provide as much cardiovascular benefit as has been noted in observational studies.34"
+        },
+        {
+            "parent": 4,
+            "text": "In type 1 diabetes, when lispro is compared with regular insulin, it provides a better quality of life because of schedule flexibility, less hypoglycemia and hyperglycemia, and less weight gain,31suggesting that rapid-acting analogues may be useful in patients with severe insulin deficiency (C-peptide level ≤0.2 pmol per mL35), frequent severe hypoglycemia, or an unpredictable schedule."
+        },
+        {
+            "parent": 4,
+            "text": "Basal coverage with glargine provides A1C levels similar to those of NPH, but with less nocturnal hypoglycemia (4.0 versus 6.9 episodes per patient-year) and less frequent severe hypoglycemia (3.0 versus 5.1 episodes per patient-year).36–38Glargine injected in the morning rather than at bed-time, titrated to a fasting plasma glucose goal of 100 mg per dL (5.6 mmol per L) or less, resulted in a lower A1C level (7.8 percent versus 8.1 percent) and less nocturnal hypoglycemia (17 percent versus 23 percent of patients with one or more episodes).39"
+        },
+        {
+            "parent": 4,
+            "text": "The most faithful imitation of normal beta-cell function is provided by an implantable insulin pump. A study of patients with type 2 diabetes demonstrated reduced weight gain, less frequent episodes of mild clinical hypoglycemia, and improved overall quality of life with the pump, compared with multiple daily injections.40"
+        },
+        {
+            "parent": 5,
+            "text": "The starting insulin dose for augmentation is calculated as 0.15 units per kg per day.15,41Another safe calculation is units of insulin per day equals fasting plasma glucose level in mmol per L. For example, a patient with a fasting plasma glucose level of 250 mg per dL (13.9 mmol per L) would be given 14 units of insulin each day.41The starting dose for replacement therapy is 0.5 units per kg per day. Twofold to fourfold higher doses often are required for patients with insulin resistance.15There is no limit to the amount of insulin that can be used safely. U-500 (500 units per 1 mL) regular insulin is available for use in patients who require large amounts of insulin. Volumes greater than 0.5 mL (50 units of U-100 insulin) should be split and injected in separate areas to facilitate absorption."
+        },
+        {
+            "parent": 5,
+            "text": "Fifty to 60 percent of the total insulin dose should be provided as basal form and 40 to 50 percent as bolus form.Table 3offers suggestions for initiating glargine therapy.38,39"
+        },
+        {
+            "parent": 5,
+            "text": "The mealtime bolus is the sum of four factors that spell “SAFE.”"
+        },
+        {
+            "parent": 6,
+            "text": "Supplemental (or correctional) insulin is added or subtracted to bring the pre-meal or bedtime glucose levels into the desired range. Insulin-sensitive patients require 1 unit of insulin to change the blood sugar level by 50 mg per dL (2.8 mmol per L); insulin-resistant patients experience a smaller change."
+        },
+        {
+            "parent": 7,
+            "text": "The dose should be decreased by 30 percent for postprandial exercise of less than one hour; by 40 percent for exercise of one to two hours; and by 50 percent for exercise of more than two hours. Increased insulin sensitivity may persist for 12 to 48 hours after exercise and can cause clinical hypoglycemia.42,43The insulin dose may decrease as patients train, improve physical fitness, reduce body fat, and decrease insulin resistance."
+        },
+        {
+            "parent": 8,
+            "text": "Insulin to cover anticipated meal intake is based on the patient’s insulin-to-carbohydrate ratio. Insulin-sensitive patients require approximately 1 unit of insulin per 15 g of carbohydrate, but the ratio is often lower (1:10 or 1:5) in insulin-resistant patients. The insulin-to-carbohydrate ratio may vary by time of day or with certain foods (i.e., pizza). A nutritionist or certified diabetes educator can teach carbohydrate counting and suggest insulin adjustments to diet."
+        },
+        {
+            "parent": 9,
+            "text": "The self-monitoring record of blood glucose levels and insulin injections provides a way of learning what works for each patient. Blood glucose and insulin logs should be reviewed weekly until patients reach their goal. Adjustments should be made one at a time, changing a single injection dose 5 to 20 percent. The physician should address persistent hypoglycemia first, then increase basal insulin until the fasting plasma glucose level is 90 to 130 mg per dL, followed by adjustment of preprandial levels to 90 to 130 mg per dL. If the patient is still not at the A1C goal, the mealtime dose should be increased or the insulin should be switched to a rapid-acting analogue to reduce postprandial glucose levels to less than 180 mg per dL."
+        },
+        {
+            "parent": 10,
+            "text": "The synergistic effect of oral antidiabetic medications with insulin may allow the insulin dose to be reduced by up to 50 percent.41Metformin with insulin decreases weight gain, hypoglycemia, and diabetes-related end points.26,44Metformin does not need dose adjustments when administered with insulin. Thiazolidinedione drugs (i.e., rosiglitazone [Avandia] and pioglitazone [Actos]) administered with insulin can decrease the total insulin dose up to 50 percent, but may cause edema and is contraindicated in patients with congestive heart failure. Rosiglitazone is restricted to a 4-mg dose if co-administered with insulin.45"
+        },
+        {
+            "parent": 10,
+            "text": "Co-administration of insulin with sulfonylureas may lower A1C levels and reduce the total daily insulin requirement if some beta-cell function remains.41Sulfonylureas are absorbed better if glucose levels have been normalized with insulin.46"
+        },
+        {
+            "parent": 10,
+            "text": "Patients randomized to insulin NPH/regular 70/30 plus metformin achieved similar A1C levels, fasting plasma glucose levels, and weight gain but had lower daily costs ($3.20 versus $10.40) and treatment failures (16 percent versus 3.5 percent) than patients randomized to triple oral medication (a sulfonylurea, metformin, and a thiazolidinedione).46"
+        },
+        {
+            "parent": 11,
+            "text": "Case 1. Beta-Cell Rescue.The patient was a 42-year-old Mexican-American man with a body mass index (BMI) of 33 kg per m2. He presented with fatigue, a 9-kg (20-lb) weight loss over six weeks, a casual glucose level of 385 mg per dL (21.4 mmol per L), and 2+ urinary ketones. He worked in the fields, had no health insurance, and spoke little English. He was given 10 units of regular insulin and 10 units of NPH in the clinic, and was asked to return in the morning for diabetes education with a translator. Within two weeks, this patient was stabilized on NPH/regular 70/30 insulin, 28 units every morning and 26 units at dinner, with a fasting plasma glucose level of 110 (6.1 mmol per L) to 130 mg per dL. The weight loss stopped. Four weeks later, he developed frequent hypoglycemia, requiring a rapid reduction in his daily insulin dose. Metformin was added, and the insulin was discontinued two weeks later. At the three-month follow-up visit, his A1C level was 6.8 percent."
+        },
+        {
+            "parent": 12,
+            "text": "This scenario is a classic example of glucose toxicity; the beta cell has become desensitized to the high levels of glucose and has decreased insulin production.6C-peptide levels would probably be low at the time of diagnosis but might increase with recovery of the beta cell. Insulin therapy is indicated in patients with newly diagnosed diabetes and severe hyperglycemia (plasma glucose level greater than 250 mg per dL), recent significant weight loss, and ketonuria.7Patients who are severely dehydrated or acidotic, or who have other severe illnesses (i.e., infection) should be admitted to a hospital.9Intensive insulin therapy also is indicated in patients with established diabetes and poor glycemic control who have failed to improve with oral medications.10Many patients like this man are able to return to diet-only or oral medications after a brief course of intensive insulin management."
+        },
+        {
+            "parent": 12,
+            "text": "Case 2. Beta-Cell Augmentation.This male patient had well-controlled type 2 diabetes for 12 years, but last week his A1C level was 8.2 percent. He has been taking metformin (1,000 mg twice daily), pioglitazone (45 mg per day), and glyburide (10 mg twice daily). He eats a small breakfast and lunch and has a physically demanding job. He frequently has mild hypoglycemia in the mid-afternoon. Dinner provides two thirds of his daily calories and is followed by sedentary activity. His bedtime self-monitoring blood glucose levels are between 160 (8.9 mmol per L) and 200 mg per dL and his fasting plasma glucose levels are 210 mg per dL (11.7 mmol per L)."
+        },
+        {
+            "parent": 12,
+            "text": "His family physician suggested that he shift some of his evening carbohydrates to breakfast and lunch and decrease the morning glyburide dose to 5 mg, which helped his afternoon hypoglycemia. The patient's fasting plasma glucose level remained elevated at 180 to 200 mg per dL. He agreed to try taking 10 units of NPH at bedtime and increased the dose by 5 percent every week until the fasting plasma glucose goal (90 to 130 mg per dL) was achieved, using 18 units of NPH at bedtime. His last A1C level was 6.5 percent."
+        },
+        {
+            "parent": 13,
+            "text": "This patient has two problems: a mismatch between his caloric intake and medications, and increased gluconeogenesis in the evening caused by waning beta-cell function. Beta-cell loss is progressive in type 2 diabetes. Initially, oral medications, diet, and exercise can decrease insulin requirements and increase insulin secretion but, eventually, the beta cell can no longer match the demand. Augmentation of the basal insulin needs at night shuts off gluconeogenesis. The combination of sulfonylurea and bedtime insulin provides better postprandial control than basal insulin alone in patients who retain some beta-cell function.12"
+        },
+        {
+            "parent": 13,
+            "text": "Case 3. Beta-Cell Replacement.This 72-year-old woman has had diabetes for 25 years. She started insulin therapy 11 years ago and is using 36 units of regular 70/30 insulin before breakfast and 24 units before dinner. She snacks at 3 p.m. and bedtime to avoid frequent hypoglycemic episodes and has gained 9 kg (20 lb) in the past three years. Her fasting plasma glucose levels are 90 to 130 mg per dL, her two-hour post-prandial (dinner) plasma glucose levels are 160 to 200 mg per dL, her A1C level is 6.7 percent, and her fasting C-peptide level is less than 0.2 mg per dL."
+        },
+        {
+            "parent": 13,
+            "text": "This patient's advanced stage of type 2 diabetes behaves in a way similar to type 1 diabetes. She has essentially no beta-cell function and requires replacement therapy. Her insulin regimen is responsible for the wide glycemic fluctuations. Regular insulin achieves a peak three hours after a meal, resulting in prolonged postprandial hyperglycemia after breakfast and dinner. Her NPH peaks in mid-afternoon and in the middle of the night, and these peaks do not coincide with the prandial influx from lunch or the bedtime snack. The NPH is functioning as basal and bolus insulin and not doing a good job at either. Although she has reached her A1C goal, her frequent glucose swings are stressful and stimulate snacking, which has caused weight gain."
+        },
+        {
+            "parent": 13,
+            "text": "Her family physician reviewed five days of self-monitoring blood glucose records, noted the wide swings, and suggested that she switch to analog insulin. Glargine insulin therapy was started (36 + 24 units of NPH/regular 70/30) X (0.7) X (0.8) = 34 units) at bedtimeTable 3,38,39with aspart insulin in a dose of 5 to 10 units at meal time, depending on the size of the meal. Her fasting plasma glucose levels remained at 90 to 130 mg. The hypoglycemic episodes became infrequent, and she no longer required snacks, which stopped the weight gain. Her next A1C level was 6.4 percent. Glargine provides A1C levels similar to those of NPH but with less nighttime hypoglycemia and weight gain.12"
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,204 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0301/p1147.html#afp20040301p1147-f3",
+    "title": "Obstructive Sleep Apnea in Children | AAFP",
+    "author": "JAMES CHAN, M.D., JENNIFER C. EDMAN, M.D., AND PETER J. KOLTAI, M.D.",
+    "doi": "Am Fam Physician.2004;69(5):1147-1155",
+    "abstract": "Obstructive sleep-disordered breathing is common in children. From 3 percent to 12 percent of children snore, while obstructive sleep apnea syndrome affects 1 percent to 10 percent of children. The majority of these children have mild symptoms, and many outgrow the condition. Consequences of untreated obstructive sleep apnea include failure to thrive, enuresis, attention-deficit disorder, behavior problems, poor academic performance, and cardiopulmonary disease. The most common etiology of obstructive sleep apnea is adenotonsillar hypertrophy. Clinical diagnosis of obstructive sleep apnea is reliable; however, the gold standard evaluation is overnight polysomnography. Treatment includes the use of continuous positive airway pressure and weight loss in obese children. These alternatives are tolerated poorly in children and rarely are considered primary therapy. Adenotonsillectomy is curative in most patients. Children with craniofacial syndromes, neuromuscular diseases, medical comorbidities, or severe obstructive sleep apnea, and those younger than three years are at increased risk of developing postoperative complications and should be monitored overnight in the hospital.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Manifestations",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Polysomnography",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "OTHER DIAGNOSTIC EXAMINATIONS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "MEDICAL",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "SURGICAL",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Children with Craniofacial Syndromes",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Postoperative Care",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "COMPLICATIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Obstructive sleep-disordered breathing is common in children. Snoring, mouth breathing, and obstructive sleep apnea (OSA) often prompt parents to seek medical attention for their children. The estimated prevalence of snoring in children is 3 to 12 percent, while OSA affects 1 to 10 percent.1–3The majority of these children have mild symptoms, and many outgrow the condition. OSA often results from adenotonsillar hypertrophy, neuromuscular disease, and craniofacial abnormalities."
+        },
+        {
+            "parent": -1,
+            "text": "Sleep-disordered breathing refers to a pathophysiologic continuum that includes snoring, upper airway resistance syndrome, obstructive hypopnea syndrome, and OSA.4The mildest form of OSA in children is upper airway resistance syndrome. Affected children have symptoms of OSA but lack the accompanying polysomnographic findings. While many children demonstrate intermittent snoring and mouth breathing, true OSA results in detrimental clinical sequelae such as failure to thrive, behavior problems, enuresis, and corp ulmonale."
+        },
+        {
+            "parent": -1,
+            "text": "Sleep-disordered breathing in children is a timely public health concern, given the increasing rates of obesity and hyperactivity in this population. As demonstrated in one study,5a large percentage of children with hyperactivity or inattentive behaviors had underlying sleep-disordered breathing. These children would be cared for more effectively with appropriate recognition and treatment of sleep-disordered breathing than with the use of stimulant medications."
+        },
+        {
+            "parent": 0,
+            "text": "Physical examination reveals adenotonsillar hypertrophy in most children with OSA. There is some evidence that adenotonsillectomy improves clinical symptoms.6–8[Strength- of-recommendation (SOR) Evidence level B, clinical cohort studies] However, many children with documented adenotonsillar hypertrophy never have symptoms of OSA. This finding suggests that the etiology of OSA in children may result from a complex interplay between adenotonsillar hypertrophy and loss of neuromuscular tone. Children with craniofacial syndromes have fixed anatomic variations that predispose them to airway obstruction, while in children with neuromuscular disease, obstruction is caused by hypotonia."
+        },
+        {
+            "parent": 2,
+            "text": "The presenting problem in children with sleep-disordered breathing depends on the child's age. In children younger than five years, snoring is the most common complaint(Table 1). Other nighttime symptoms frequently reported by parents include mouth breathing, diaphoresis, paradoxic rib-cage movement, restlessness, frequent awakenings, and witnessed apneic episodes."
+        },
+        {
+            "parent": 2,
+            "text": "Children five years and older commonly exhibit enuresis, behavior problems, deficient attention span, and failure to thrive, in addition to snoring. Compared with adults, fewer children with OSA report excessive daytime somnolence, with the notable exception of obese children.9In extreme cases of OSA in children, cor pulmonale and pulmonary hypertension may be the presenting problems."
+        },
+        {
+            "parent": 2,
+            "text": "Poor growth and failure to thrive are more common in children with sleep-disordered breathing.10Growth velocity increases after adenotonsillectomy.11The hypothesized etiology for failure to thrive is increased work of breathing, with subsequent increase in baseline caloric expenditure. Decreased production of growth hormone during fragmented sleep may contribute further to poor growth."
+        },
+        {
+            "parent": 2,
+            "text": "Enuresis associated with OSA often resolves after successful treatment of sleep-disordered breathing.12Increased urine production results from hormonal disregulation. These alterations are accompanied by increased levels of catecholamines and frequent arousal that further contribute to enuresis.4"
+        },
+        {
+            "parent": 2,
+            "text": "Behavior and cognitive deficits can recur in children with OSA.13Poor academic performance in the teenaged years is associated with snoring.14Reports that these performance deficits resolve after successful treatment of OSA suggest causation.14Intermittent nocturnal hypoxia accompanied by frequent arousals from sleep (documented by electroencephalography) results in sleep fragmentation.15The neurobehavioral consequence of this sequence is altered behavior in children."
+        },
+        {
+            "parent": 3,
+            "text": "A thorough physical examination of a child suspected of having OSA must include evaluation of the child's general appearance, with careful attention to craniofacial characteristics such as midface hypoplasia, micrognathia, and occlusal relationships. Evaluation for nasal obstruction depends on the child's age. Septal deviation, choanal atresia, nasolacrimal cysts, and nasal aperture stenosis must be considered in infants. In older children, nasal polyps and turbinate hypertrophy must be ruled out."
+        },
+        {
+            "parent": 3,
+            "text": "When examining the oral cavity, physicians should evaluate the geometry of the soft palate for size, redundancy, and clefting; document the size of the tongue and tonsils(Figure 1); and perform lateral neck radiography(Figure 2)or a nasopharyngoscopic examination to evaluate the size of the adenoidal tissue and the site of airway collapse. Detection of tonsillar hypertrophy on routine examination should prompt physicians to question parents about snoring and other symptoms of OSA in their children."
+        },
+        {
+            "parent": 3,
+            "text": "The physical examination must include a neurologic survey for hypotonia and an assessment for obesity. If examination findings do not correlate with the reported severity of snoring and apnea, children should be evaluated for less common causes of sleep-disordered breathing(Table 2)."
+        },
+        {
+            "parent": 4,
+            "text": "The role of polysomnography in the diagnosis of childhood sleep-disordered breathing remains controversial. Although polysomnography is the current gold standard, authorities cite the lack of reliable sleep laboratories for children, excess cost, and lack of consensus on interpretation of polysomnograms as reasons it is not required for diagnosis.16,17"
+        },
+        {
+            "parent": 4,
+            "text": "The parameters originally used to evaluate childhood polysomnograms were based on adult values. OSA in adults is defined as a respiratory pause lasting more than 10 seconds. Because of children's different physiology and higher baseline respiratory rate, clinically relevant apneas may not last this long. Apneas of three to four seconds' duration can be accompanied by desaturations. These findings have led to the development of separate guidelines for the interpretation of polysomnograms in children.18[SOR evidence level B, study of polysomnograms of normal children]"
+        },
+        {
+            "parent": 4,
+            "text": "In children, an apnea-hypopnea index greater than 1 (average: 0.1 to 0.5 events per hour) or a minimum oxygen saturation of less than 92 percent (average: 96 percent ± 2 percent) is considered abnormal(Table 3). The apnea-hypopnea index is calculated as the average number of apneas and hypopneas per hour of sleep."
+        },
+        {
+            "parent": 4,
+            "text": "Children may have sleep disruption because of an increased effort to breathe but show no evidence of apnea on polysomnography.19This condition is called upper airway resistance syndrome. The clinical significance of upper airway resistance syndrome remains controversial and is under investigation. To document the increased respiratory effort in children with upper airway resistance syndrome, esophageal pressure monitoring is necessary. A pressure probe placed in the esophagus measures frequent or extreme negative pressures that lead to sleep disruption. Currently, esophageal pressure monitoring is not routinely available in most sleep laboratories."
+        },
+        {
+            "parent": 4,
+            "text": "The reliability of clinical assessment in the diagnosis of sleep-disordered breathing has not been determined. Several studies indicate that parents' observation of their child's breathing is an inaccurate basis for the diagnosis of OSA.20,21[SOR evidence level B, clinical cohort studies] Clinical evaluation that included witnessed apneas, mouth breathing, tonsil size, and snoring was found to have poor predictive accuracy.21"
+        },
+        {
+            "parent": 4,
+            "text": "Adenotonsillectomy should be considered first-line treatment for sleep-disordered breathing in children when there is physical evidence of adenotonsillar hypertrophy(Figure 3).22[SOR evidence level C, expert opinion] Adenotonsillectomy, a routine procedure, has been shown to improve snoring, OSA, weight problems, enuresis, and behavior problems in children who have the entire clinical spectrum of sleep-disordered breathing.4,11,13Polysomnography is necessary for diagnosis and treatment of patients with multiple medical comorbidities, children with craniofacial syndromes, and patients with an unclear etiology (i.e., modest physical findings or examination findings inconsistent with severity of apnea), and to determine the degree of apnea.22"
+        },
+        {
+            "parent": 5,
+            "text": "The use of video photography to record apneic events and nighttime arousals in children has demonstrated mixed results and poor predictive accuracy.23Airway fluoroscopy provides information on the degree of obstruction and the dynamics of the child's airway. However, this procedure rarely is used because nasopharyngoscopy is more reliable and can be performed during the initial office visit."
+        },
+        {
+            "parent": 5,
+            "text": "Lateral neck radiography provides useful information about the size of the adenoids and their relationship to the upper airway.24Concurrent cervical computed tomography and magnetic resonance imaging also demonstrate pharyngeal lymphoid hyperplasia. When nasopharyngoscopy is unavailable, lateral neck radiography should be considered as a reliable alternative for detecting adenoidal hypertrophy."
+        },
+        {
+            "parent": 5,
+            "text": "Pulse oximetry, often recommended as a screening tool, is not an accurate predictor of OSA because large numbers of children have sleep disturbance without desaturations.25In addition, a subgroup of children who have nighttime desaturations do not have OSA."
+        },
+        {
+            "parent": 7,
+            "text": "Several options are available for the medical management of OSA in children. Continuous positive airway pressure (CPAP) is effective in children with OSA. CPAP is the treatment of choice when adenotonsillectomy is contraindicated or has failed. CPAP is difficult for approximately 20 percent of children to tolerate.26Because children grow rapidly, frequent follow-up visits are necessary, and the mask must be adjusted at least every six months."
+        },
+        {
+            "parent": 7,
+            "text": "If snoring and OSA occur intermittently and are associated with recurrent tonsillitis or adenoiditis, antibiotic therapy may help. Reduction in the bacterial antigen load, secondary reduction in the population of B lymphoctyes in the germinal centers of tonsils and adenoids, and the physics of airflow (Poiseuille's law) are such that small changes in airway diameter dramatically affect airway resistance. Reduction of post-infectious lymphoid hyperplasia relieves the obstruction. Even small reductions in adenotonsillar size can eliminate snoring and OSA. An established pattern of recurrent infections accompanied by sleep disturbance may warrant consideration of adenotonsillectomy."
+        },
+        {
+            "parent": 7,
+            "text": "In obese children, weight loss is an excellent therapeutic measure, but it can be a difficult process. Allergy testing and treatment of rhinitis are important in children with OSA secondary to nasal obstruction."
+        },
+        {
+            "parent": 7,
+            "text": "Nasal steroid use may have a role but is unlikely to provide definitive therapy.27[SOR evidence level A, randomized controlled trial] Nasal steroids should be prescribed temporarily until a referral can be made for treatment. While systemic steroids are used to decrease upper airway obstruction in patients with infectious mononucleosis (because of anti-inflammatory and lympholytic effects), one study of systemic steroids demonstrated no effect on the size of tonsils or adenoids, severity on polysomnography, or symptomatology in patients with OSA.28"
+        },
+        {
+            "parent": 8,
+            "text": "Adenotonsillectomy remains the treatment of choice for most children with a strong clinical history of OSA or with OSA documented by polysomnography. Anatomically, the tonsils and adenoids represent the most common area of hypertrophy that contributes to airway obstruction. Numerous studies have documented improvement in snoring, OSA, enuresis, behavior, and growth following adenotonsillectomy.6,7"
+        },
+        {
+            "parent": 8,
+            "text": "Uvulopalatopharyngoplasty is indicated when a thick soft palate and a long uvula are present. In addition, uvulopalatopharyngoplasty should be considered for children with modest adenotonsillar hypertrophy but severe symptoms of OSA, those with polysomnographically documented severe OSA, and children with trisomy 21.29"
+        },
+        {
+            "parent": 8,
+            "text": "Tracheotomy, the definitive surgery for upper airway obstruction, is reserved for use in children with severe OSA who have failed to improve with other medical and surgical treatments and in special cases in which these modalities are contraindicated or not tolerated. Tracheotomy must be considered in children for whom traditional surgery is unlikely to be of benefit, such as those with Pierre Robin syndrome."
+        },
+        {
+            "parent": 9,
+            "text": "OSA is more common in children with craniofacial syndromes. Children who have syndromes with craniosynostosis, such as Apert's syndrome, Crouzon's disease, Pfeiffer's syndrome, and Saethre-Chotzen syndrome; abnormalities of the skull base; and accompanying maxillary hypoplasia may have nasopharyngeal obstruction. Children with syndromes that involve micrognathia, such as Treacher Collins syndrome, Pierre Robin syndrome, and Goldenhar's syndrome, become obstructed at the hypopharyngeal level. In children with trisomy 21, a narrow upper airway combined with macroglossia and hypotonic musculature predisposes them to OSA."
+        },
+        {
+            "parent": 9,
+            "text": "The surgical management of craniofacial syndromes and OSA in children frequently requires more than standard adenotonsillectomy. Tracheotomy often is necessary. In children with midfacial hypoplasia, craniofacial advancement may be indicated. Glossopexy, mandibular distraction or advancement, or tongue suspension should be considered in patients with micrognathia.30"
+        },
+        {
+            "parent": 11,
+            "text": "Common complications of adenotonsillectomy in patients with OSA include dehydration (1 to 3 percent of patients), hemorrhage (1 to 2 percent), and velopharyngeal insufficiency (less than 1 percent).31Velopharyngeal insufficiency refers to the “cleft-palate” type of hypernasal voice and nasopharyngeal reflux of food that result from incomplete approximation of the soft palate with the posterior pharyngeal wall. Complications such as nasopharyngeal stenosis and post-obstructive pulmonary edema are rare."
+        },
+        {
+            "parent": 11,
+            "text": "While most children with sleep-disordered breathing can be treated safely on an outpatient basis, children with severe OSA demonstrated on polysomnography, those younger than three years, and those with medical co-morbidities, neuromuscular disease, bleeding diatheses, or syndromes should be admitted and monitored overnight after surgery.22Postoperative respiratory complications occur in children with a high preoperative apnea-hypopnea index, with rates of complications ranging from zero to 27 percent."
+        },
+        {
+            "parent": 11,
+            "text": "In children with craniofacial syndromes, preoperative polysomnography suggestive of severe OSA, or OSA that is refractory to standard management, repeating polysomnography six weeks after surgery is recommended. However, in most patients, postoperative polysomnography remains unnecessary."
+        }
+    ],
+    "locked": false
+}

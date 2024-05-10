@@ -1,0 +1,96 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/1201/p2165.html#afp19981201p2165-f1",
+    "title": "U.S. Public Health Service Updates Guidelines for HIV Prophylaxis in Health Care Workers | AAFP",
+    "author": "SHARON SCOTT MOREY",
+    "doi": "Am Fam Physician.1998;58(9):2165-2168",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Choice of Antiretroviral Agents for Postexposure Prophylaxis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Protocol for Health Care Institutions",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Management After Occupational Exposure",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Postexposure Registries and Resources for Consultation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The U.S. Public Health Service has updated the guidelines for the management of occupational exposure to human immunodeficiency virus (HIV) among health care workers. The recommendations were published in the recommendations and reports series ofMorbidity and Mortality Weekly Report(May 15, 1998, vol. 47, no. RR-7, pp. 1-33)."
+        },
+        {
+            "parent": -1,
+            "text": "The guidelines represent an update of those published in 1996 and take into account relevant information that has become available since the previous recommendations. The current guidelines cover topics not fully addressed in the 1996 guidelines, such as when not to offer postexposure prophylaxis, what to do when the source of exposure or the HIV status of the source is unknown, how to approach postexposure prophylaxis in health care workers who may be pregnant and what to consider for postexposure regimens when the source's virus is known or suspected to be resistant to one or more antiretroviral agents used in postexposure prophylaxis."
+        },
+        {
+            "parent": -1,
+            "text": "In addition, the recommendations include discussions about the risk of occupational transmission of HIV to health care workers, the timing and clinical characteristics of seroconversion in HIV-exposed health care workers and the rationale for postexposure prophylaxis with anti-retroviral agents."
+        },
+        {
+            "parent": -1,
+            "text": "The following summarizes the recommendations for the management of HIV exposure in health care workers."
+        },
+        {
+            "parent": 0,
+            "text": "The antiretroviral regimens recommended for prophylaxis after exposure to HIV are summarized intheaccompanying table. The recommendations explain that zidovudine continues to be the first drug of choice for postexposure prophylaxis, but a combination of drugs with activity at different stages of viral replication could offer added protection. While the report notes that no additional information has emerged to change the original recommendation of lamivudine as the second agent for postexposure prophylaxis, individual clinicians may prefer other nucleoside reverse transcriptase inhibitors or other combinations of antiretroviral agents on the basis of local knowledge and their experience in treating HIV infection."
+        },
+        {
+            "parent": 0,
+            "text": "Regarding use of a protease inhibitor as a third drug for postexposure prophylaxis, the recommendations state that indinavir or nelfinavir is preferred for an expanded prophylaxis regimen. The previous guidelines recommended indinavir for a protease inhibitor because of its increased bioavailability compared with saquinavir, and because of its more favorable profile for immediate toxicity compared with ritonavir. Since the 1996 recommendations, nelfinavir has been approved for use in primary HIV infection, and it is included as an alternative protease inhibitor. The recommendations note that if saquinavir is preferred by the clinician, the bioavailability of the soft-gel formulation is better than that of the hard-gel formulation."
+        },
+        {
+            "parent": 0,
+            "text": "While the optimal duration of postexposure prophylaxis is not known, a four-week course is recommended, based on the observation that four weeks of zidovudine therapy appears to be protective in health care workers."
+        },
+        {
+            "parent": 0,
+            "text": "The recommendations for postexposure prophylaxis do not include use of nonnucleoside reverse transcriptase inhibitors. While the report notes that these agents are appealing because of their fast action and potency, concerns about their side effects and the availability of other agents argue against routinely using nonnucleoside reverse transcriptase inhibitors for initial postexposure prophylaxis."
+        },
+        {
+            "parent": 1,
+            "text": "According to the recommendations, a system that includes written protocols for prompt reporting of occupational exposure, evaluation, counseling, treatment and follow-up should be made available to all health care workers. Health care workers should have access to clinicians who can provide postexposure care during all working hours, including nights and weekends. Antiretroviral agents for postexposure prophylaxis should be readily available for timely administration."
+        },
+        {
+            "parent": 1,
+            "text": "Health care workers should be aware that immediate reporting of occupational exposures is essential because HIV prophylaxis is most likely to be effective if it is initiated as soon as possible after the exposure. According to the recommendations, an occupational exposure to HIV is an urgent medical concern, and antiretroviral therapy should be implemented within a few hours of exposure. If a question arises about which antiretroviral drugs to use, it is probably better to begin therapy with zidovudine and lamivudine rather than delay postexposure treatment."
+        },
+        {
+            "parent": 2,
+            "text": "The recommendations state that the exposure site should be washed with soap and water, and mucous membranes should be flushed with water. In addition to evaluation for possible exposure to HIV, evaluation for exposure to hepatitis B and hepatitis C should be conducted as well. Situations that pose a high risk of transmission and warrant further evaluation include exposure to blood, to fluid containing visible blood or to other potentially infectious fluid, such as semen, vaginal secretions and cerebrospinal, synovial, pleural, peritoneal, pericardial and amniotic fluids.See the accompanying algorithm on page 2166for the steps to take in determining the need for HIV postexposure prophylaxis."
+        },
+        {
+            "parent": 2,
+            "text": "The person who was the source of an occupational exposure should be evaluated for HIV infection. According to the recommendations, if the results of HIV testing are negative in the source person, baseline testing or further follow-up of the health care worker normally is not necessary. However, if the source person has recently engaged in activities associated with a risk of HIV infection, baseline and follow-up HIV testing should be considered in the health care worker. If the source person is known to have HIV infection, information should be obtained about the stage of infection, the CD4+count, viral load, and current and previous antiretroviral therapy. These factors should be taken into consideration when selecting the postexposure prophylaxis regimen."
+        },
+        {
+            "parent": 2,
+            "text": "The report notes that the recommendations for postexposure prophylaxis are based on the risk of HIV infection after different types of exposure and on the limited data available on the efficacy and toxicity of postexposure prophylaxis. When postexposure prophylaxis is appropriate, the health care worker should be informed that knowledge about the efficacy and toxicity of drugs used in prophylaxis is limited and that only zidovudine has been shown to prevent HIV transmission in humans. Health care workers should also be told that data do not exist on whether the addition of other antiretroviral drugs provides benefit in prophylaxis, but combination drug regimens are recommended because of their increased potency and because of concerns over drug-resistant virus."
+        },
+        {
+            "parent": 2,
+            "text": "The recommendations state that health care workers exposed to HIV should be advised to adhere to measures that prevent secondary transmission during the follow-up period, especially during the first six to 12 weeks after exposure. The health care worker's patient-care responsibilities do not require modification based solely on an HIV exposure. Health care workers should be instructed to seek medical evaluation for any acute illness that develops during the follow-up period. The onset of fever, rash, myalgia, fatigue, malaise or lymphadenopathy may signal the development of acute HIV infection."
+        },
+        {
+            "parent": 3,
+            "text": "The recommendations advocate enrollment of health care workers who receive postexposure prophylaxis in a Centers for Disease Control and Prevention (CDC) registry. The HIV Postexposure Prophylaxis Registry may be contacted by calling 888-737-4448; the address is 1410 Commonwealth Dr., Suite 215, Wilmington, NC 28405. In addition, instances of prenatal exposure to antiretroviral drugs should be reported to the Antiretroviral Pregnancy Registry (telephone: 800-258-4263, or 800-722-9292, ext. 39437; fax: 800-800-1052; address: 1410 Commonwealth Dr., Suite 215, Wilmington, NC 28405)."
+        },
+        {
+            "parent": 3,
+            "text": "Resources for consultation include the National Clinicians' Postexposure Hotline at 888-448-4911. Physicians are encouraged to report cases of unusual or severe toxicity to antiretroviral agents to the U.S. Food and Drug Administration (telephone: 800-332-1088). Cases of HIV seroconversion in health care workers who have received postexposure prophylaxis may be reported to the CDC (telephone: 404-639-6425)."
+        }
+    ],
+    "locked": false
+}

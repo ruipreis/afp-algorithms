@@ -1,0 +1,167 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/1015/p942.html#afp20101015p942-f6",
+    "title": "Common Types of Supraventricular Tachycardia: Diagnosis and Management | AAFP",
+    "author": "RANDALL A. COLUCCI, DO, MPH, MITCHELL J. SILVER, DO, AND JAY SHUBROOK, DO",
+    "doi": "Am Fam Physician.2010;82(8):942-952",
+    "abstract": "The most common types of supraventricular tachycardia are caused by a reentry phenomenon producing accelerated heart rates. Symptoms may include palpitations (including possible pulsations in the neck), chest pain, fatigue, lightheadedness or dizziness, and dyspnea. It is unusual for supraventricular tachycardia to be caused by structurally abnormal hearts. Diagnosis is often delayed because of the misdiagnosis of anxiety or panic disorder. Patient history is important in uncovering the diagnosis, whereas the physical examination may or may not be helpful. A Holter monitor or an event recorder is usually needed to capture the arrhythmia and confirm a diagnosis. Treatment consists of short-term or as-needed pharmacotherapy using calcium channel or beta blockers when vagal maneuvers fail to halt or slow the rhythm. In those who require long-term pharmacotherapy, atrioventricular nodal blocking agents or class Ic or III antiarrhythmics can be used; however, these agents should generally be managed by a cardiologist. Catheter ablation is an option in patients with persistent or recurrent supraventricular tachycardia who are unable to tolerate long-term pharmacologic treatment. If Wolff-Parkinson-White syndrome is present, expedient referral to a cardiologist is warranted because ablation is a potentially curative option.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "AVNRT",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "AVRT",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "AT",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Patient Evaluation",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ECG",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "SHORT-TERM OR URGENT MANAGEMENT",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "LONG-TERM MANAGEMENT",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Supraventricular tachycardia (SVT) is tachycardia having an electropathologic substrate arising above the bundle of His and causing heart rates exceeding 100 beats per minute. Accelerated rhythms can be frightening to the patient if recurrent or persistent, and can cause significant morbidity. This article focuses on the most common types of paroxysmal SVT: atrioventricular nodal reentrant tachycardia (AVNRT), atrioventricular reciprocating tachycardia (AVRT), and atrial tachycardia (AT). Although atrial fibrillation and flutter are classified as types of SVT, they will not be discussed in this article and are reviewed elsewhere.1,2Table 1lists the common types of SVT and usual characteristics.3–6Figure 1depicts AVNRT, AVRT, AT, and normal sinus rhythm."
+        },
+        {
+            "parent": 0,
+            "text": "SVTs (excluding atrial fibrillation or flutter and multifocal AT) have an estimated incidence of 35 per 100,000 person-years, with a prevalence of 2.29 per 1,000 persons.7Although AVNRT is the most common SVT in adults (approximately 50 to 60 percent),4AVRT is most common in children (accounts for approximately 30 percent of all SVTs).4,5"
+        },
+        {
+            "parent": 1,
+            "text": "AVNRT and AVRT are electrical aberrancies that occur mainly as a result of reentry. Less commonly, increased automaticity or triggered activity can be the mechanism and usually results in a narrow complex tachycardia. AT can result from one of the three mechanisms(Table 1).3–6AVNRT and AVRT are atrioventricular nodal-dependent arrhythmias, whereas AT is an atrioventricular nodal-independent arrhythmia."
+        },
+        {
+            "parent": 2,
+            "text": "The most common type of SVT is AVNRT. Most patients with AVNRT do not have structural heart disease; the group most often affected is young, healthy women.8However, some patients do have underlying heart disease, such as pericarditis, previous myocardial infarction, or mitral valve prolapse.9The coexistence of slow and fast pathways in atrioventricular nodal tissue is the basis of aberrant substrate for reentrant tachyarrhythmias.10"
+        },
+        {
+            "parent": 3,
+            "text": "The second most common type of SVT is AVRT. Patients with this arrhythmia typically present at a younger age than those with AVNRT. This SVT is caused by accessory pathways (or bypass tracts) that serve as aberrant conduits for impulses that pass from the sinoatrial node and travel in an antegrade or retrograde fashion through such tracts, establishing a reentry circuit.11AVRT, occasionally comorbid with Wolff-Parkinson-White syndrome, is a diagnosis not to be missed because this rhythm may spontaneously develop into atrial fibrillation.12Key electrocardiography (ECG) findings, such as a delta wave, are not always apparent because of the accessory pathway being concealed; therefore, special diagnostic testing may be needed.13"
+        },
+        {
+            "parent": 4,
+            "text": "The third most common type of SVT is AT (approximately 10 percent); it originates from a single atrial focus.6This SVT, if focal, usually has a definitive localized origin, such as adjacent to the crista terminalis in the right atrium or the ostia of the pulmonary veins in the left atrium.14,15Another form, multifocal AT, often occurs in patients with heart failure or chronic obstructive pulmonary disease.16"
+        },
+        {
+            "parent": 6,
+            "text": "Symptoms of SVT depend on a number of factors, including patient age, presence of comorbid heart and lung disease, and duration of SVT episodes.Table 2lists symptoms associated with SVT. Patients may also be asymptomatic or minimally symptomatic, potentially delaying diagnosis."
+        },
+        {
+            "parent": 6,
+            "text": "The history may reveal the likely etiology underlying the SVT(Table 3). Sinus tachycardia must be considered in the differential diagnosis. Episodic SVT may be misdiagnosed as anxiety or panic disorder,17especially in patients with a psychiatric history, prolonging definitive diagnosis and treatment. Prolonged and persistent elevated heart rates produced by some types of SVT have been known to cause a type of cardiomyopathy; therefore, a high index of suspicion for the diagnosis is important.18"
+        },
+        {
+            "parent": 6,
+            "text": "The physical examination may or may not be helpful in determining a possible etiology for a patient's symptoms. Younger patients who are otherwise healthy usually have a normal examination, with tachycardia (if present on examination) being the only physical finding.Table 4lists items to include in a focused examination and diagnostic workup."
+        },
+        {
+            "parent": 7,
+            "text": "A 12-lead ECG should be performed in patients who are hemodynamically stable, with special attention to rhythm and rate, atrioventricular conduction (PR interval), RP interval, hypertrophy, pathologic Q waves, prolongation of the QT interval, and any evidence of preexcitation.Figures 2through5are example ECGs for the types of SVT discussed. Most types of SVT have narrow QRS complexes. Wide complex tachyarrhythmias can also occur and can be secondary to SVT associated with bundle branch block, an accessory pathway, or ventricular tachycardia. In patients with a history of (or suspected) coronary artery disease or myocardial infarction, wide complex tachyarrhythmias must be considered to be of ventricular origin until proven otherwise and treated as such (see the treatment section).Table 1describes ECG findings for common types of SVT.3–6"
+        },
+        {
+            "parent": 7,
+            "text": "Further clinical investigations and their possible significance to SVT should be pursued(Table 4). Patients should be expediently referred to a cardiologist or electrophysiologist if they have experienced syncope or severe dyspnea, or if preexcitation is present on resting 12-lead ECG.Table 5lists other situations in which patients should be referred to a cardiologist or electrophysiologist."
+        },
+        {
+            "parent": 8,
+            "text": "The primary treatment goal for any SVT is its cessation, especially in patients who are at risk hemodynamically and cannot tolerate prolonged tachyarrhythmias. SVT may be rare and fleeting in some patients, whereas in others, it is more frequent and may cause serious symptoms such as presyncope or syncope. Treatment of SVT can be divided into short-term or urgent management and long-term management."
+        },
+        {
+            "parent": 9,
+            "text": "Short-term or urgent management of SVT can be separated into pharmacologic and nonpharmacologic strategies. Nonpharmacologic management typically uses maneuvers that increase vagal tone to decrease heart rate. Pharmacologic management typically includes intravenous adenosine (Adenocard) or verapamil, which are safe and effective treatment choices for terminating SVT, but verapamil is more effective for suppression of this rhythm over time.2,14Figure 6is an algorithm for the short-term management of SVT.19Patients who are hemodynamically unstable need to be resuscitated with electrocardioversion to avoid further deterioration of cardiovascular status."
+        },
+        {
+            "parent": 9,
+            "text": "If the patient is hemodynamically stable, the QRS complex can provide information in decision making. A narrow QRS complex (less than 120 msec) usually indicates SVT, and the Valsalva maneuver is the most widely used and feasible treatment option in an alert patient. Although the use of this technique has been accepted in hospitalized settings, it has not been studied in the prehospital setting to determine its effectiveness.20Vagal maneuvers are an effective first-line treatment option for SVT in younger patients who are hemodynamically stable; they can also be diagnostic for nodal-dependent SVT.2,21Carotid massage can be used as a diagnostic and therapeutic tool; however, it should not be used in persons who may have atherosclerotic plaque that could be dislodged as a result of such a technique (i.e., history of carotid artery disease or carotid bruit).21"
+        },
+        {
+            "parent": 9,
+            "text": "If these methods fail to terminate the SVT, or if the SVT soon returns, pharmacologic therapy is used.Table 6shows recommended agents for short-term management of SVT.22Which agent is selected after use of vagal maneuvers and adenosine depends on patient factors, such as contraindications (any comorbid conditions or allergies), hemodynamic stability, or presence of a wide QRS complex."
+        },
+        {
+            "parent": 9,
+            "text": "Adenosine is an atrioventricular nodal blocking agent with a very short half-life (nine to 12 seconds). It is highly effective for the termination of nodal-dependent SVT and is the first-line drug for acute conversion of narrow complex SVT.23Adenosine has the advantage of temporarily slowing the rate enough to determine the underlying focus of the rhythm (i.e., ventricular or supraventricular). Adenosine should not be used in persons with Wolff-Parkinson-White syndrome and atrial fibrillation because this rhythm can degenerate into ventricular fibrillation.24There is poor evidence that medical therapy reduces sudden death in patients with Wolff-Parkinson-White syndrome; therefore, expedient referral for ablation is recommended in those patients who are symptomatic.2,25Because AT is an atrioventricular nodal-independent SVT, atrioventricular nodal blocking agents, such as verapamil or adenosine, are mostly ineffective in its termination.26"
+        },
+        {
+            "parent": 9,
+            "text": "Verapamil is a calcium channel blocker that may be used in patients with SVT that recurs after adenosine therapy. Verapamil, a negative inotrope, can result in relative bradycardia and vasodilation; care must be used if patients have a significant decrease in cardiac output.27Neither digoxin nor a calcium channel blocker should be used in patients with Wolff-Parkinson-White syndrome or wide complex tachycardia, because these agents may enhance conduction down the accessory pathway, predisposing the patient to ventricular fibrillation.28If the SVT persists, addition of a beta blocker will often result in its termination.29"
+        },
+        {
+            "parent": 9,
+            "text": "In a review of eight trials involving 577 patients, there was no difference in the effectiveness of adenosine versus verapamil in successfully treating SVT. The overall termination rate was about 90 percent for both agents.30If SVT is not terminated and the patient is hemodynamically stable, flecainide (Tambocor) or propafenone (Rythmol) may be used to terminate the SVT.31,32These agents are almost always administered by a cardiologist."
+        },
+        {
+            "parent": 9,
+            "text": "Compared with narrow complex tachycardia, wide complex tachycardia presents infrequently, but does occur under certain conditions. Wide complex tachycardia is often difficult to distinguish from ventricular tachycardia, and all types should be treated as ventricular tachycardia when SVT cannot be discerned, particularly in patients who are hemodynamically unstable. If the patient is hemodynamically stable, use of the wellknown Brugada criteria(Table 7)can help distinguish between SVT with aberrancy and ventricular tachycardia, with a reported sensitivity as high as 98.7 percent and specificity as high as 96.5 percent.33More recently, a newer simplified algorithm based on the Brugada criteria has been proposed. It may be more accurate in determining true ventricular tachycardia, with a reported overall test accuracy of 90.3 percent compared with 84.8 percent when all four Brugada criteria are used.34"
+        },
+        {
+            "parent": 9,
+            "text": "A recent retrospective study showed that intravenous adenosine used in 197 patients with undifferentiated wide complex tachycardia was safe and effective for diagnostic and therapeutic purposes. No adverse effects occurred, and the likelihood of making a correct diagnosis of SVT or ventricular tachycardia increased.35"
+        },
+        {
+            "parent": 10,
+            "text": "The long-term management of SVT is based on the SVT type; frequency and intensity of the episodes; overall impact on the quality of life of the patient; and risks of the therapy chosen.19Discussion of these issues with the patient will help determine the optimal treatment strategy. The primary options include catheter ablation (radiofrequency versus cryotherapy) or pharmacologic treatment(Table 6).22Figure 7is an algorithm for the long-term management of SVT.19"
+        },
+        {
+            "parent": 10,
+            "text": "Patients with infrequent SVT episodes may only need pharmacotherapy on an intermittent basis, or what has been described as the “pill-in-the-pocket” approach.36Those experiencing SVT not more than a few times per year, but with episodes lasting one hour or longer, may be treated using this approach. This is typically done with verapamil (40 to 160 mg) in patients without preexcitation or a beta blocker in patients without chronic obstructive pulmonary disease or asthma. Agents used for long-term pharmacotherapy are similar to those used to terminate the SVT during short-term management. Atrioventricular nodal blocking agents (e.g., verapamil, diltiazem, beta blockers, digoxin) in AVNRT and AVRT with retrograde conduction are only about 30 to 60 percent effective.37This relative lack of effectiveness can necessitate use of two such agents or the addition of class Ic or III antiarrhythmics. Larger trials comparing outcomes between these drug classes are not yet available(Table 822). Generally, these agents should be managed by a cardiologist."
+        },
+        {
+            "parent": 10,
+            "text": "Ablative therapy of SVT is based on the observation that most arrhythmias arise from a focal origin critically dependent on conduction through a defined anatomic structure. If those critical regions are destroyed, the arrhythmia no longer occurs spontaneously or with provocation. Because of shorter procedure duration, lessened fluoroscopic exposure, and increased knowledge in this area of cardiology, catheter ablation is becoming the first-line treatment option for all patients with SVT, not just those with symptomatic arrhythmias refractory to suppressive drug therapy or those who prefer a drug-free lifestyle."
+        },
+        {
+            "parent": 10,
+            "text": "Clinical series of radiofrequency catheter ablation of accessory pathways have been published with excellent overall results.38Experienced electrophysiology laboratories routinely achieve success rates of 95 percent in the ablation of accessory pathways, with recurrence rates of less than 5 percent.39With improved knowledge of atrioventricular nodal anatomy and the advent of cryotherapy ablation, the current rate of symptomatic heart block is 0.5 to 1 percent.40"
+        },
+        {
+            "parent": 10,
+            "text": "Because of its curative results and low percentages of severe adverse effects, and because the field is evolving so rapidly, there are few studies directly comparing catheter ablation with drug therapy in patients with SVT (with the exception of atrial fibrillation). However, observational studies have reported that patients undergoing radiofrequency ablation for SVT have better overall quality-of-life outcomes and lower costs attributed to therapy compared with medical treatment.41,42"
+        }
+    ],
+    "locked": false
+}

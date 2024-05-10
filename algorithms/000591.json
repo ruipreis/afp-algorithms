@@ -1,0 +1,148 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2008/0501/p1255.html#afp20080501p1255-f1",
+    "title": "A Practical Approach to Neonatal Jaundice | AAFP",
+    "author": "SARAH K. MOERSCHEL, MD, LAUREN B. CIANCIARUSO, DO, AND LLOYD R. TRACY, MD",
+    "doi": "Am Fam Physician.2008;77(9):1255-1262",
+    "abstract": "Kernicterus and neurologic sequelae caused by severe neonatal hyperbilirubinemia are preventable conditions. A structured and practical approach to the identification and care of infants with jaundice can facilitate prevention, thus decreasing rates of morbidity and mortality. Primary prevention includes ensuring adequate feeding, with breastfed infants having eight to 12 feedings per 24 hours. Secondary prevention is achieved by vigilant monitoring of neonatal jaundice, identifying infants at risk of severe hyperbilirubinemia, and ensuring timely outpatient follow-up within 24 to 72 hours of discharge. Total serum bilirubin or transcutaneous bilirubin levels should be routinely monitored in all newborns, and these measurements must be plotted on a nomogram according to the infant's age in hours. The resultant low-, intermediate-, or high-risk zones, in addition to the infant's risk factors, can guide timing of postdischarge follow-up. Another nomogram that consists of age in hours, risk factors, and total bilirubin levels can provide guidance on when to initiate phototherapy. If the infant requires phototherapy or if the bilirubin level is increasing rapidly, further work-up is indicated.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Bilirubin Metabolism",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Primary Prevention: Preventing Jaundice",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Secondary Prevention: Assessing At-Risk Infants",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "INTERPRETING BILIRUBIN LEVELS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DISCHARGE RISK ASSESSMENT AND FOLLOW-UP",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HOSPITAL PROTOCOLS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Evaluation of Elevated Bilirubin Levels",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Treatment of Hyperbilirubinemia",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Although jaundice is present in most newborns and is usually benign, it is imperative to carefully monitor newborns to identify those at risk of developing bilirubin-induced neurologic dysfunction. Acute bilirubin encephalopathy is caused by the toxic effects of unconjugated bilirubin on the central nervous system. Symptoms include lethargy, high-pitched cry, and poor feeding in a jaundiced infant. If acute bilirubin encephalopathy is untreated, it may progress rapidly to advanced manifestations, such as opisthotonus and seizures.1Kernicterus is the chronic, permanent clinical sequelae of bilirubin toxicity; it is characterized by severe athetoid cerebral palsy, paralysis of upward gaze, hearing loss, and intellectual impairment,2and it is preventable. The approach to preventing this condition has changed over time."
+        },
+        {
+            "parent": -1,
+            "text": "Throughout the 1950s, exchange transfusion was the primary treatment for hyperbilirubinemia.3It was not until the late 1960s that phototherapy became widespread in the United States.4In the 1980s and 1990s, there was a resurgence of kernicterus in the United States and abroad, which has been attributed in part to early hospital discharge, the influence of managed care, and an increase in the number of breastfed infants, with a proportional increase in breastfeeding inadequacy in the first week of life.5"
+        },
+        {
+            "parent": -1,
+            "text": "The American Academy of Pediatrics (AAP) developed an evidence-based clinical practice guideline for use by all health care professionals who care for newborns in hospital and outpatient settings.2The primary goal of the guideline, as well as this article, is to increase awareness and educate health care professionals to reduce the incidence of severe hyperbilirubinemia and to prevent bilirubin encephalopathy."
+        },
+        {
+            "parent": 0,
+            "text": "Bilirubin is produced by the catabolism of hemoglobin. Compared with older children and adults, newborns have a high rate of hemoglobin catabolism and bilirubin production because of their elevated hematocrit and red blood cell volume per body weight, and their shorter life span of red blood cells (70 to 90 days). Although bilirubin production is elevated in newborns, conjugation and clearance of bilirubin can be slow. Immaturity of hepatic glucuronosyltransferase and inadequate milk intake can cause delayed clearance of bilirubin."
+        },
+        {
+            "parent": 0,
+            "text": "Within the reticuloendothelial system, heme is broken down into biliverdin and carbon monoxide. Biliverdin is reduced to bilirubin by biliverdin reductase. At this initial stage, bilirubin is lipid soluble and unconjugated (indirect-reacting). Unconjugated bilirubin binds to albumin. If the albumin-binding sites are saturated, or if unconjugated bilirubin is displaced from the binding sites by medications (e.g., sulfisoxazole [Gantrisin], streptomycin, vitamin K), free bilirubin can cross the blood-brain barrier. Free, unconjugated bilirubin is toxic to the central nervous system."
+        },
+        {
+            "parent": 0,
+            "text": "When unconjugated bilirubin reaches the liver, it is conjugated by glucuronosyltransferase to bilirubin diglucuronide (conjugated or direct-reacting), which is water soluble and easily excreted by the liver and biliary tract. In the intestine, some bilirubin may be converted back to its unconjugated form by a glucuronidase and reabsorbed by the intestine. Breast milk increases bilirubin reabsorption through this enterohepatic absorption.6"
+        },
+        {
+            "parent": 1,
+            "text": "Physicians should promote and support breastfeeding, advising eight to 12 feedings per day for the first several days of life.7,8Formula-fed, full-term infants should consume 150 kcal per kg per day, which is equivalent to approximately 1 to 2 oz every two to three hours in the first week of life. Routine supplementation with water or dextrose water is not recommended in breastfeeding infants because it will not prevent hyperbilirubinemia or decrease total serum bilirubin levels.9"
+        },
+        {
+            "parent": 2,
+            "text": "The key to secondary prevention is vigilance on the part of the health care team. All hospitalized newborns should be routinely monitored by nursing staff and physicians for the development of jaundice every eight to 12 hours, including at the time that vital signs are taken.2Measurement and interpretation of the predischarge bilirubin level can help determine the timing of outpatient follow-up evaluations. Although jaundice in newborns can usually be detected by blanching the skin with digital pressure and is usually initially visible in the face with caudal progression, visual estimation of bilirubin levels is largely inaccurate and unreliable.10Transcutaneous bilirubin (TcB) measurement, which is noninvasive, is equivalent to total serum bilirubin (TSB) measurement.11–16Table 12addresses the primary and secondary prevention of neonatal hyperbilirubinemia, andFigure 12provides an algorithm for the management of jaundice in the newborn."
+        },
+        {
+            "parent": 3,
+            "text": "Bilirubin levels should be interpreted based on the infant's age in hours.2Figure 2shows a nomogram for plotting TSB and TcB levels according to the infant's age in hours, with resultant low-, intermediate-, and high-risk zones.2If the TSB or TcB level falls in the low-risk zone, the physician can conclude that the infant is likely at a very low risk for developing severe hyperbilirubinemia. If the level falls in the high-risk zone, the risk for severe hyperbilirubinemia is high, thus even more vigilance and closer follow-up of the infant is warranted.2These zones can help dictate the need for and timing of subsequent bilirubin measurements and timing of post-discharge follow-up."
+        },
+        {
+            "parent": 3,
+            "text": "Determining intervention based on age in days is inaccurate and can lead to serious oversights. For example, Baby A has a TSB level of 10 mg per dL (171 μmol per L) at 25 hours of age (high-risk). Baby B has the same TSB level at 47 hours of age (low-intermediate risk). Although both infants are one day old, Baby A is at higher risk of severe hyperbilirubinemia than Baby B and should have a repeat TSB measurement in six to 12 hours. Baby B can be reevaluated safely in 48 hours."
+        },
+        {
+            "parent": 4,
+            "text": "In addition to using the time-based nomogram, the physician must be aware of the risk factors most often associated with the development of severe hyperbilirubinemia, as listed inTable 2.2An infant who was delivered at less than 38 weeks' gestation and who is breastfeeding exclusively is at higher risk of developing severe hyperbilirubinemia than a formula-fed infant who was delivered at 40 weeks' gestation.2The combination of risk factor awareness, a screening predischarge TcB or TSB level plotted on a nomogram, and clinical judgment can guide the physician in determining the timing of discharge and follow-up evaluations."
+        },
+        {
+            "parent": 4,
+            "text": "Newborns should be examined within 24 to 72 hours of hospital discharge to assess for jaundice and general well-being.2An infant should be seen by the age of 72 hours if discharged before 24 hours; by the age of 96 hours if discharged between 24 and 47.9 hours; and by the age of 120 hours if discharged between 48 and 72 hours.2Earlier follow-up (within 24 to 48 hours) should be instituted for infants with more risk factors for severe hyperbilirubinemia, shorter hospital stays, or predischarge bilirubin levels in the high-intermediate or high-risk zones. For example, Baby C is a breastfed infant delivered at 36 weeks' gestation who has a predischarge bilirubin level in the low-intermediate range. Therefore, he has two major risk factors for severe hyperbilirubinemia and should be seen in the primary care office within 24 hours of hospital discharge. Baby D, who has the same predischarge bilirubin level as Baby C, is a formula-fed infant delivered at 39 weeks' gestation. Therefore, Baby D has no risk factors and can be seen 48 hours after discharge."
+        },
+        {
+            "parent": 4,
+            "text": "Outpatient evaluation should include follow-up on weight, intake, voiding, and stooling. A TSB or TcB level should be obtained in the outpatient setting if jaundice is increasing or if the clinical assessment is unclear as to the severity of jaundice. Because visual estimation of jaundice is often inaccurate, liberal testing of TcB and TSB levels is a safer approach.2"
+        },
+        {
+            "parent": 5,
+            "text": "All newborn nurseries need to establish a protocol for identifying and evaluating hyperbilirubinemia. Some institutions with such a protocol report a reduced proportion of neonates with hyperbilirubinemia, its complications, and subsequent hospitalizations.17,18One study showed that the combined use of the AAP nomogram and a predischarge risk-factor assessment has a stronger predictive value than the nomogram alone, especially in infants with elevated TSB levels.19"
+        },
+        {
+            "parent": 5,
+            "text": "Protocols should specify circumstances in which nurses can obtain bilirubin measurements. Some hospitals perform universal screening with TcB or TSB measurement on every newborn. If universal screening is not performed, bilirubin measurement should be performed on every newborn with jaundice in the first 24 hours after birth, when jaundice appears excessive for age, and when the degree of jaundice is unclear.2"
+        },
+        {
+            "parent": 5,
+            "text": "Routine discharge counseling should include an explanation of monitoring for jaundice; this should ideally be provided in verbal and written formats. Printer-friendly patient information handouts about infant jaundice are available in English and Spanish athttps://familydoctor.org/familydoctor/en/diseases-conditions/jaundice.html."
+        },
+        {
+            "parent": 6,
+            "text": "The differential diagnosis of neonatal hyperbilirubinemia is broad.Table 36lists the most common causes; however, the point at which intervention is recommended is based on percentiles for the infant's age in hours, regardless of the cause. Laboratory evaluation may vary based on certain indications in the infant (Table 42)."
+        },
+        {
+            "parent": 6,
+            "text": "A healthy, full-term (i.e., completion of 36 weeks' gestation) infant with a mildly elevated bilirubin level does not require any laboratory studies beyond TSB measurement. An infant with physical examination findings that explain the level of jaundice (e.g., large hematoma) does not require further work-up, although the infant may require ongoing monitoring. Other laboratory studies should be considered if the infant requires phototherapy(Figure 32)or if the TSB level is increasing rapidly. ABO incompatibility and glucose-6-phosphate dehydrogenase (G6PD) deficiency are the most common causes of hemolytic anemia. If these conditions are present, phototherapy and exchange transfusion may be considered at lower TSB levels because these conditions can cause predictably severe hyperbilirubinemia. A complete blood count should be done to evaluate for anemia resulting from hemolysis."
+        },
+        {
+            "parent": 6,
+            "text": "Blood type and Coombs' testing should be performed in all infants who are receiving phototherapy or whose bilirubin level is increasing rapidly.2In infants with isoimmune hemolysis (ABO incompatibility), the Coombs' test will be positive because the infant's red blood cells are coated with maternal antibodies. These cells will be hemolyzed, putting the infant at risk for severe hyperbilirubinemia. Although most tests have poor sensitivity and specificity for hemolysis, it is possible to measure the rate of heme catabolism and bilirubin production by measuring the end-tidal carbon monoxide level (corrected for ambient levels) because carbon monoxide is a byproduct of heme catabolism. Elevated end-tidal carbon monoxide levels may prompt the physician to suspect ongoing hemolysis and to be prepared for rapidly increasing bilirubin levels.2"
+        },
+        {
+            "parent": 6,
+            "text": "Screening for G6PD deficiency should be considered in infants with severe jaundice who are from high-risk populations, such as persons of African, Mediterranean, Middle Eastern, or Southeast Asian descent.2G6PD deficiency occurs in 11 to 13 percent of African Americans, and G6PD was the cause of kernicterus in 26 out of 125 patients (21 percent), according to the kernicterus registry.20G6PD testing is part of the newborn screening programs in Pennsylvania and the District of Columbia.21"
+        },
+        {
+            "parent": 6,
+            "text": "A direct bilirubin level should be obtained for ill-appearing infants with jaundice or those with jaundice after three weeks of age. Levels of more than 20 percent of the TSB level are considered elevated. Because an elevated direct bilirubin level can be an early sign of a urinary tract infection, a culture should be obtained for urinalysis.2,22A sepsis evaluation should be considered in ill-appearing infants. Elevated direct bilirubin levels can also indicate cholestasis, especially in infants who have jaundice after three weeks of age. Screening for hypothyroidism and galactosemia and evaluation for cholestasis is indicated if the infant has prolonged jaundice with no known cause.2"
+        },
+        {
+            "parent": 7,
+            "text": "For infants with mild jaundice (i.e., when the bilirubin level is not approaching the threshold for phototherapy), increasing the frequency of feedings is indicated. Breast-fed infants should continue breastfeeding, whether or not they require phototherapy. Interruption of breastfeeding and substitution of formula can reduce bilirubin levels, but optimal breastfeeding (eight to 12 times per day) increases removal of bilirubin through the gastrointestinal tract and ensures continued breastfeeding. Infants with inadequate oral intake, excessive weight loss (more than 12 percent of birth weight), or dehydration should receive supplemental breast milk or formula; supplementation with water or dextrose water is not recommended. Intravenous fluids should be given if feeding is unsuccessful and the infant is dehydrated.2"
+        },
+        {
+            "parent": 7,
+            "text": "The physician should consider TSB measurements, the infant's age in hours, and the presence of risk factors to determine when to initiate phototherapy(Figure 32)and exchange transfusion(Figure 42). Home phototherapy can be considered for infants at risk of reaching the threshold for intensive phototherapy.2Intensive phototherapy should be initiated when the TSB level exceeds the threshold in the AAP phototherapy nomogram, based on age and risk factors. Every hospital that cares for newborns should be able to provide intensive phototherapy (i.e., irradiance in the blue-green spectrum [430 to 490 nm] of at least 30 μW per cm2per nm, delivered to as much of the infant's surface area as possible). Frequency of TSB monitoring during intensive phototherapy is determined by previous measurements(Table 52)."
+        },
+        {
+            "parent": 7,
+            "text": "Exchange transfusion is recommended when the TSB level exceeds the threshold in the AAP exchange transfusion nomogram(Figure 42), based on age and risk factors, or if the TSB level is greater than 25 mg per dL (428 μmol per L). The infant should be transferred to a neonatal intensive care unit for immediate intensive phototherapy and consideration of exchange transfusion. Exchange transfusion should be performed immediately in any infant with jaundice and signs of acute bilirubin encephalopathy. Initial symptoms include poor feeding, hypotonia, and lethargy. Worsening bilirubin encephalopathy is characterized by irritability and hypertonia, at times alternating with lethargy. Symptoms of severe bilirubin encephalopathy include hypertonia, arching, retrocollis, opisthotonos, fever, and high-pitched cry. Only trained personnel in a neonatal intensive care unit should perform exchange transfusion. Administration of intravenous gamma globulin is an alternative in infants with isoimmune hemolytic disease (dose: 0.5 to 1 g per kg over two hours, may repeat after 12 hours, if necessary).2"
+        }
+    ],
+    "locked": false
+}

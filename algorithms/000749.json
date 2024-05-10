@@ -1,0 +1,215 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0615/p2829.html#afp20040615p2829-f1",
+    "title": "DVT and Pulmonary Embolism: Part I. Diagnosis | AAFP",
+    "author": "DINO W. RAMZI, M.D., C.M., AND KENNETH V. LEEPER, M.D.",
+    "doi": "Am Fam Physician.2004;69(12):2829-2836",
+    "abstract": "The incidence of venous thromboembolic diseases is increasing as the U.S. population ages. At least one established risk factor is present in approximately 75 percent of patients who develop these diseases. Hospitalized patients and nursing home residents account for one half of all cases of deep venous thrombosis. A well-validated clinical prediction rule can be used for risk stratification of patients with suspected deep venous thrombosis. Used in combination with d-dimer or Doppler ultrasound tests, the prediction rule can reduce the need for contrast venography, as well as the likelihood of false-positive or false-negative test results. The inclusion of helical computed tomographic venography (i.e., a below-the-pelvis component) in pulmonary embolism protocols remains under evaluation. Specific combinations of a clinical prediction rule, ventilation-perfusion scanning, and d-dimer testing can rule out pulmonary embolism without an invasive or expensive investigation. A clinical prediction rule for pulmonary embolism is most helpful when it is used with subsequent evaluations such as ventilation-perfusion scanning, d-dimer testing, or computed tomography. Technologic advances are improving the resolution of helical computed tomography to allow detection of smaller emboli; however, further study is needed to provide definitive evidence supporting the role of this imaging technique in the diagnosis of pulmonary embolism. d-dimer testing is helpful clinically only when the result is negative. A negative d-dimer test can be used in combination with a clinical decision rule, ventilation-perfusion scanning, and/or helical computed tomography to lower the probability of pulmonary embolism to the point that aggressive treatment is not required. Evidence-based algorithms help guide the diagnosis of deep venous thrombosis and pulmonary embolism.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Factors for Venous Thromboembolism",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis of DVT",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "CLINICAL PREDICTION RULE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "d-DIMER TESTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DOPPLER ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HELICAL COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CONTRAST VENOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "IMPEDANCE PLETHYSMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "EMERGING TECHNOLOGIES",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Diagnosis of PE",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "CLINICAL PREDICTION RULES",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "VENTILATION-PERFUSION SCANNING",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "HELICAL COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "d-DIMER TESTS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "CHEST RADIOGRAPH AND ECG",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Venous thromboembolic disease represents a spectrum of conditions that includes deep venous thrombosis (DVT) and pulmonary embolism (PE). The estimated annual incidence of venous thromboembolism is 117 cases per 100,000 persons. The incidence rises markedly in persons 60 years and older and may be as high as 900 cases per 100,000 by the age of 85 years.1"
+        },
+        {
+            "parent": -1,
+            "text": "Most clinically important PEs originate from proximal DVT of the leg (popliteal, femoral, or iliac veins).2Upper extremity DVT is less common but also may lead to PE, especially in the presence of a venous catheter. A much less common cause of upper extremity DVT is Paget-Schroetter syndrome (idiopathic upper extremity DVT in young athletes).3"
+        },
+        {
+            "parent": -1,
+            "text": "As the U.S. population ages, the medical and economic impact of venous thromboembolic disease is expected to increase. Part I of this two-part article reviews the diagnosis of DVT and PE. Part II4reviews treatment and prevention."
+        },
+        {
+            "parent": 0,
+            "text": "Risk factors for venous thromboembolic disease include increasing age, prolonged immobility, surgery, trauma, malignancy, pregnancy, estrogenic medications (e.g., oral contraceptive pills, hormone therapy, tamoxifen [Nolvadex]), congestive heart failure, hyperhomocystinemia, diseases that alter blood viscosity (e.g., polycythemia, sickle cell disease, multiple myeloma), and inherited thrombophilias."
+        },
+        {
+            "parent": 0,
+            "text": "About 75 percent of patients with venous thromboembolic disease have at least one established risk factor, and one half of all cases of DVT occur in hospitalized patients or nursing home residents.5Inherited thrombophilias can be identified in 24 to 37 percent of patients with DVT and in the majority of patients with familial thrombosis6,7(Table 1)."
+        },
+        {
+            "parent": 1,
+            "text": "When considered alone, the individual clinical features of DVT and PE have low predictive value (about 15 percent).8Classic symptoms of DVT include swelling, pain, and discoloration in the affected extremity. Physical examination may reveal the palpable cord of a thrombosed vein, unilateral edema, warmth, and superficial venous dilation.9Classic signs of DVT, including Homans sign (pain on passive dorsiflexion of the foot), edema, tenderness, and warmth, are difficult to ignore, but they are of low predictive value and can occur in other conditions such as musculoskeletal injury, cellulitis, and venous insufficiency. However, combinations of clinical features in the form of clinical prediction rules can be useful for stratifying patients into risk categories."
+        },
+        {
+            "parent": 1,
+            "text": "An algorithm developed by the Institute for Clinical Systems Improvement (ICSI), an independent nonprofit collaboration of health care providers and insurance companies, incorporates evidence-based recommendations for the use of pretest clinical probability with prediction rules, d-dimer testing, and imaging in the diagnosis of DVT(Figure 1).10"
+        },
+        {
+            "parent": 2,
+            "text": "A well-validated clinical prediction rule provides a reliable estimate of the pretest probability of DVT(Table 2),8which should, in turn, guide the interpretation of subsequent diagnostic tests. The value of various diagnostic tests and imaging studies in predicting the presence of DVT depends on the likelihood of disease in each risk group.8,11–14For example, the same test may rule out disease when it is negative in a low-probability patient but not when it is negative in a high-probability patient. Because many patients have an intermediate probability of venous thromboembolism, clinical judgment continues to be an important factor in making the decision to treat."
+        },
+        {
+            "parent": 3,
+            "text": "Available d-dimer tests vary widely in sensitivity and specificity. Therefore, caution must be exercised in interpreting the results of these tests.15However, one recent study16found that the combination of a low-risk assessment by a validated clinical prediction rule and a negative second-generation latex agglutination d-dimer assay effectively rules out DVT. In another recent study,14patients with a Wells clinical prediction rule score of less than 2 points and a negative d-dimer test were less likely to have venous thromboembolism during follow-up than were patients with a negative ultrasound examination (0.4 percent versus 1.4 percent). Note that a positive d-dimer assay does not raise the likelihood of DVT appreciably and therefore has limited clinical value."
+        },
+        {
+            "parent": 4,
+            "text": "Doppler ultrasonography is the most widely used modality for evaluating patients with suspected DVT. When used in combination with a clinical prediction rule, ultrasound examination is accurate in predicting the need for anticoagulation. However, a normal ultrasound study in a high-probability patient requires additional investigation before DVT can be ruled out."
+        },
+        {
+            "parent": 4,
+            "text": "Ultrasound assessment has several limitations: its accuracy depends on the operator; it cannot distinguish between an old clot and a new clot; and it is not accurate in detecting DVT in the pelvis or the small vessels of the calf, or in detecting DVT in the presence of obesity or significant edema. Causes of false-positive examinations include superficial phlebitis, popliteal cysts, and abscess."
+        },
+        {
+            "parent": 5,
+            "text": "With the advent of helical (spiral) computed tomographic (CT) scanning, protocols have emerged that combine CT pulmonary angiography with simultaneous below-the-pelvis CT venography. These “PE protocols” make it convenient to examine the chest and lower extremities simultaneously, without added contrast medium. One of the secondary objectives of the Prospective Investigation of Pulmonary Embolism Diagnosis II (PIOPED II)12is to evaluate the diagnostic accuracy of helical CT scanning in patients with DVT."
+        },
+        {
+            "parent": 5,
+            "text": "Helical CT scanning of the legs costs about 50 percent more than compression ultrasonography. In addition, the risk of adverse reactions to contrast agents must be weighed. Currently, insufficient evidence supports the use of CT venography over Doppler ultrasonography for the diagnosis of lower extremity DVT.11"
+        },
+        {
+            "parent": 6,
+            "text": "Although contrast venography is not performed often, it remains the gold standard against which noninvasive studies for DVT are compared. The use of contrast venography is limited by the risk of pain, phlebitis, and hypersensitivity or toxic reactions to contrast agents. Furthermore, DVT develops in a small number of patients who undergo the procedure. Conditions such as edema or obesity, which impair venous access, may make the test difficult or impossible to perform in approximately 10 percent of patients.17"
+        },
+        {
+            "parent": 7,
+            "text": "Impedance plethysmography (IPG) is a noninvasive and highly portable modality that has proved useful in the evaluation of patients with suspected DVT. Serial IPG is less sensitive than previously thought, and it may not detect proximal DVT.18Failure to detect this condition is important, because proximal thrombi pose the greatest risk of embolization. Although IPG is popular in some countries, it is highly operator-dependent and relatively unavailable in the United States."
+        },
+        {
+            "parent": 8,
+            "text": "Magnetic resonance imaging (MRI) appears to be at least as sensitive as ultrasonography in detecting calf and pelvic DVTs.13These thromboses are difficult to compress with ultrasonography and difficult to visualize with venography. However, MRI is highly operator-dependent, relatively unavailable, and generally more than twice as expensive as ultrasound examination."
+        },
+        {
+            "parent": 9,
+            "text": "The assessment for PE begins with a careful clinical examination and a determination of risk factors. The chest radiograph, arterial blood gas measurements, and electrocardiogram (ECG) also can be used to establish a high, intermediate, or low risk of PE.10"
+        },
+        {
+            "parent": 9,
+            "text": "The ICSI algorithm for the diagnosis of PE is presented inFigure 2.10This algorithm, like the one for DVT(Figure 1),10incorporates the use of a clinical prediction rule to determine the pretest probability of disease and options for imaging(Table 3).19The value of a laboratory test or imaging study in predicting the presence of PE depends on the likelihood of disease in each risk group.19–21The clinical prediction rule is most useful when a patient’s ventilation-perfusion scan is reported as showing intermediate or high probability."
+        },
+        {
+            "parent": 9,
+            "text": "The presence of DVT can alter the probability of PE. This is especially useful when the helical CT scan is negative or the ventilation-perfusion scan is not diagnostic. The ICSI algorithm10describes one rational approach to a complex and confusing area."
+        },
+        {
+            "parent": 10,
+            "text": "Wells clinical prediction rule for PE produces a point score based on clinical features and the likelihood of diagnoses other than PE.19However, Wells rule has been criticized for the subjectivity of the judgment about other diagnoses, a problem that could affect the ability of physicians to apply the rule outside the research setting."
+        },
+        {
+            "parent": 10,
+            "text": "Other clinical prediction rules include the Geneva rule22and the rule developed in the Prospective Investigative Study of Acute Pulmonary Embolism Diagnosis (PISA-PED).23,24However, the Geneva rule requires an arterial blood gas measurement and a chest radiograph, while the PISA-PED rule requires an ECG. One investigative team has developed rules for explicit use with d-dimer tests,25and Wells rule has been simplified for use with d-dimer tests.19"
+        },
+        {
+            "parent": 10,
+            "text": "No consensus has emerged on the best clinical prediction rule for PE or the criteria that should be used to judge the performance of the various rules. This article presents the original Wells clinical prediction rule19to help guide physicians when d-dimer testing is not available. This prediction rule is one of the oldest and most frequently used decision rules. A low probability based on the combination of a prediction rule and a negative d-dimer test significantly reduces the probability of PE; however, the development of PE protocols awaits empiric validation.26"
+        },
+        {
+            "parent": 10,
+            "text": "In the landmark PIOPED study,21physicians were asked to use clinical judgment alone to categorize their clinical suspicion of PE as high, intermediate, or low. Despite the absence of standard or objective criteria, the PIOPED categorization has been validated, and even the most objective clinical prediction rules perform only marginally better than the physician’s subjective assessment.27Therefore, subjective impression remains a good alternative to the use of a clinical prediction rule."
+        },
+        {
+            "parent": 11,
+            "text": "For several decades, the ventilation-perfusion scan has been the first-line study in patients with suspected PE. Defects in radioactive tracer uptake from ventilated and perfused areas of the lungs are reported as normal, nearly normal, or indicating a low, intermediate, or high probability of embolus."
+        },
+        {
+            "parent": 11,
+            "text": "A high-probability ventilation-perfusion scan provides sufficient evidence for the initiation of treatment for PE. Likewise, a normal scan should be considered sufficient to exclude PE. Unfortunately, 50 to 70 percent of scans are indeterminate (low or intermediate probability). In the PIOPED study,2140 percent of patients with confirmed PE had a high-probability ventilation-perfusion scan, 40 percent had an intermediate-probability scan, and 14 percent had a low-probability scan. Note that a low-probability scan does not rule out PE.21"
+        },
+        {
+            "parent": 12,
+            "text": "Studies indicate that helical CT scanning detects large PEs, with a sensitivity and specificity of nearly 90 percent for the identification of main and lobar emboli. However, this imaging modality generally is unable to detect smaller PEs.28"
+        },
+        {
+            "parent": 12,
+            "text": "One potential advantage of helical CT scanning is its ability to identify an alternative diagnosis in about two thirds of cases in which PE is not present.29,30A potential disadvantage is the identification of suspicious-appearing abnormalities that require further evaluation or even biopsy but actually are benign. Current use of helical CT scanning is determined by its availability. This imaging modality often is used to supplement other diagnostic tests (e.g., ventilation-perfusion scanning) when such tests are nondiagnostic."
+        },
+        {
+            "parent": 12,
+            "text": "At this time, helical CT scanning does not have sufficient resolution to justify its widespread adoption. Moreover, use of the imaging technique has not been unequivocally demonstrated to improve patient outcomes. As thin-collimation CT technology advances and resolution increases to the point that reliable evaluation of subsegmental vessels is possible, helical CT scanning may replace pulmonary angiography as the gold standard in the diagnosis of PE."
+        },
+        {
+            "parent": 12,
+            "text": "One analysis31suggests that in patients with suspected PE, helical CT scanning is as cost-effective as ventilation-perfusion scanning and Duplex ultrasound examination of the lower extremity, but only when combined with D-dimer testing. Two recent multicenter trials32,33suggest that helical CT scanning is safe to use for ruling out PE, at least in patients with a low or intermediate clinical probability of embolism. PIOPED II12should yield important information about the diagnostic role of helical CT scanning."
+        },
+        {
+            "parent": 13,
+            "text": "Use of the new generation of d-dimer tests in combination with the Wells clinical prediction rule is effective in ruling out PE in patients who present to the emergency department.34A negative d-dimer test may rule out PE in patients with a low to moderate pretest probability of thrombus and a nondiagnostic ventilation-perfusion scan.35"
+        },
+        {
+            "parent": 13,
+            "text": "As with DVT,8,11–14it is prudent for physicians to know the specific type of d-dimer test for PE that is offered at their institution and to understand the properties of that test.19–21However, in a general office population, where the pretest probability of PE is lower than it is in an emergency department, the usefulness of the clinical prediction rule in ruling out PE in the low-risk patients declines proportionately."
+        },
+        {
+            "parent": 14,
+            "text": "In PIOPED,21the ECGs were abnormal in 70 percent of patients with PE and no preexisting cardiovascular disease, but none of the electrocardiographic findings were specific or sensitive. In addition, only 12 percent of patients with PE had a normal chest radiograph. Again, the radiographic abnormalities (atelectasis, pulmonary parenchymal abnormality, pleural effusion, cardiomegaly) were neither specific nor sensitive for PE."
+        }
+    ],
+    "locked": false
+}

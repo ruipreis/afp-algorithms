@@ -1,0 +1,149 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/1101/p1781.html#afp20031101p1781-f1",
+    "title": "Adverse Drug Reactions: Types and Treatment Options | AAFP",
+    "author": "MARC A. RIEDL, M.D., AND ADRIAN M. CASILLAS, M.D.",
+    "doi": "Am Fam Physician.2003;68(9):1781-1791",
+    "abstract": "Drug hypersensitivity results from interactions between a pharmacologic agent and the human immune system. These types of reactions constitute only a small subset of all adverse drug reactions. Allergic reactions to medications represent a specific class of drug hypersensitivity reactions mediated by IgE. Immune-mediated drug reactions may be discussed generally in the Gell and Coombs classification system, a widely accepted conceptual framework for understanding complex immune reactions. However, some reactions involve additional, poorly understood mechanisms that are not easily classified. Identifiable risk factors for drug hypersensitivity reactions include age, female gender, concurrent illnesses, and previous hypersensitivity to related drugs. Drug hypersensitivity is a clinical diagnosis based on available data. Laboratory testing may be useful, with skin testing providing the greatest specificity. Treatment is largely supportive and includes discontinuation of the offending medication, symptomatic treatment, and patient education. Patients with penicillin allergy should avoid carbapenems, and caution should be used in prescribing cephalosporins in these patients. Reactions to radiocontrast media can be limited by pretreatment with prednisone, diphenhydramine, and either ephedrine or a histamine H2-receptor antagonist.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Definitions and Classifications",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Manifestations",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Clinical Evaluation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Laboratory Evaluation",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Therapy and Management",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "PENICILLIN ALLERGY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "RADIOCONTRAST MEDIA REACTIONS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Adverse drug reactions are common. Identifying true drug allergy, however, can be challenging. Complicating factors of drug reactions include the myriad clinical symptoms and multiple mechanisms of drug-host interaction, many of which are poorly understood. In addition, the relative paucity of laboratory testing that is available for drug allergy makes the diagnosis dependent on clinical findings."
+        },
+        {
+            "parent": 0,
+            "text": "The terms “drug allergy,” “drug hypersensitivity,” and “drug reaction” are often used interchangeably. Drug reactions encompass all adverse events related to drug administration, regardless of etiology. Drug hypersensitivity is defined as an immune-mediated response to a drug agent in a sensitized patient. Drug allergy is restricted specifically to a reaction mediated by IgE."
+        },
+        {
+            "parent": 0,
+            "text": "Drug reactions can be classified into immunologic and nonimmunologic etiologies(Table 1). The majority (75 to 80 percent) of adverse drug reactions are caused by predictable, nonimmunologic effects.1The remaining 20 to 25 percent of adverse drug events are caused by unpredictable effects that may or may not be immune mediated.1Immune-mediated reactions account for 5 to 10 percent of all drug reactions and constitute true drug hypersensitivity, with IgE-mediated drug allergies falling into this category.2,3"
+        },
+        {
+            "parent": 0,
+            "text": "The Gell and Coombs classification system describes the predominant immune mechanisms that lead to clinical symptoms of drug hypersensitivity(Table 2). This classification system includes: Type I reactions (IgE-mediated); Type II reactions (cytotoxic); Type III reactions (immune complex); and Type IV reactions (delayed, cell-mediated). However, some drug hypersensitivity reactions are difficult to classify because of a lack of evidence supporting a predominant immunologic mechanism. These include certain cutaneous drug reactions (i.e., maculopapular rashes, erythroderma, exfoliative dermatitis, and fixed drug reactions)4,5and specific drug hypersensitivity syndromes(Table 3).6,7"
+        },
+        {
+            "parent": 0,
+            "text": "Unpredictable, nonimmune drug reactions can be classified as pseudoallergic, idiosyncratic, or intolerance. Pseudoallergic reactions are the result of direct mast cell activation and degranulation by drugs such as opiates, vancomycin (Vancocin), and radiocontrast media. These reactions may be clinically indistinguishable from Type I hypersensitivity, but do not involve drug-specific IgE. Idiosyncratic reactions are qualitatively aberrant reactions that cannot be explained by the known pharmacologic action of the drug and occur only in a small percent of the population. A classic example of an idiosyncratic reaction is drug-induced hemolysis in persons with glucose-6-phosphate dehydrogenase (G6PD) deficiency. Drug intolerance is defined as a lower threshold to the normal pharmacologic action of a drug, such as tinnitus after a single average dose of aspirin."
+        },
+        {
+            "parent": 1,
+            "text": "Adverse drug reactions caused by immune and nonimmune mechanisms are a major cause of morbidity and mortality worldwide. They are the most common iatrogenic illness, complicating 5 to 15 percent of therapeutic drug courses.8,9In the United States, more than 100,000 deaths are attributed annually to serious adverse drug reactions.10Three to 6 percent of all hospital admissions are because of adverse drug reactions, and 6 to 15 percent of hospitalized patients (2.2 million persons in the United States in 1994) experience a serious adverse drug reaction.8–11Epidemiologic data support the existence of specific factors that increase the risk of general adverse drug reactions, such as female gender,12or infection with human immunodeficiency virus (HIV),13or herpes14(Table 4).12–16Factors associated with an increased risk for hypersensitivity drug reactions include asthma,15systemic lupus erythematosus,16or use of beta blockers15(Table 4).12–16Although atopic patients do not have a higher rate of sensitization to drugs, they are at increased risk for serious allergic reactions.17"
+        },
+        {
+            "parent": 1,
+            "text": "The most important drug-related risk factors for drug hypersensitivity concern the chemical properties and molecular weight of the drug. Larger drugs with greater structural complexity (e.g., nonhuman proteins) are more likely to be immunogenic. Heterologous antisera, streptokinase, and insulin are examples of complex antigens capable of eliciting hypersensitivity reactions. Most drugs have a smaller molecular weight (less than 1,000 daltons), but may still become immunogenic by coupling with carrier proteins, such as albumin, to form simple chemical-carrier complexes (hapten)."
+        },
+        {
+            "parent": 1,
+            "text": "Another factor affecting the frequency of hypersensitivity drug reactions is the route of drug administration; topical, intramuscular, and intravenous administrations are more likely to cause hypersensitivity reactions. These effects are caused by the efficiency of antigen presentation in the skin, the adjuvant effects of repository drug preparations, and the high concentrations of circulating drug antigen rapidly achieved with intravenous therapy. Oral medications are less likely to result in drug hypersensitivity.17"
+        },
+        {
+            "parent": 2,
+            "text": "True hypersensitivity adverse drug reactions are great imitators of disease and may present with involvement of any organ system, including systemic reactions such as anaphylaxis(Table 2). Drug reactions commonly manifest with dermatologic symptoms caused by the metabolic and immunologic activity of the skin. The most common dermatologic manifestation of drug reaction is morbilliform rashes. Typically, an erythematous, maculopapular rash appears within one to three weeks after drug exposure, originates on the trunk, and eventually spreads to the limbs. Urticaria is typically a manifestation of a truly allergic, Type I reaction, but it may appear with Type III or pseudoallergic reactions as well. Severe nonallergic, hypersensitivity cutaneous reactions (i.e., erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis) represent bullous skin diseases that require prompt recognition because of their association with significant morbidity and mortality. Eczematous rashes are most commonly associated with topical medications and usually represent contact dermatitis, which is classified as Type IV reaction to a drug exposure."
+        },
+        {
+            "parent": 3,
+            "text": "Drug hypersensitivity reactions not only should be included in the differential diagnosis for patients who have the typical allergic symptoms of anaphylaxis, urticaria, and asthma, but also for those with serum sickness-like symptoms, skin rash, fever, pulmonary infiltrates with eosinophilia, hepatitis, acute interstitial nephritis, and lupus-like syndromes. A diagnosis of drug hypersensitivity depends on identifying symptoms and physical findings that are compatible with an immune drug reaction(Figure 11)."
+        },
+        {
+            "parent": 3,
+            "text": "The initial history should include a recording of all prescription and nonprescription drugs taken within the last month, including dates of administration and dosage. The temporal relationship between drug intake and the onset of clinical symptoms is critical. Unless the patient has been previously sensitized to a drug, the interval between initiation of therapy and the onset of reaction is rarely less than one week or more than one month. Patients should be asked about previous drug exposures and reactions."
+        },
+        {
+            "parent": 3,
+            "text": "The physical examination may provide further information to support drug hypersensitivity. A prudent initial step is an evaluation for signs and symptoms of an immediate generalized reaction, because this is the most severe life-threatening form of an adverse drug reaction. Warning signs of impending cardiovascular collapse include urticaria, laryngeal or upper airway edema, wheezing, and hypotension. Signs suggestive of serious adverse drug reactions include the presence of fever, mucous membrane lesions, lymphadenopathy, joint tenderness and swelling, or an abnormal pulmonary examination. A detailed skin examination is essential, because the skin is the organ most frequently and prominently affected by adverse drug reactions. Distinguishing between the various types of skin lesions is important, because this may provide substantial clues to the possible immune-mediated mechanism of the drug reaction(Table 5)."
+        },
+        {
+            "parent": 4,
+            "text": "The goal of diagnostic testing is to evaluate biochemical or immunologic markers that confirm activation of a particular immunopathologic pathway to explain the suspected adverse drug effect. Laboratory evaluation is guided by the suspected pathologic mechanism(Table 6)18."
+        },
+        {
+            "parent": 4,
+            "text": "Confirmation of suspected Type I hypersensitivity reactions require the detection of antigen-specific IgE. Skin testing is a useful diagnostic procedure in these patients. Skin testing protocols are standardized for penicillin, and are well described for local anesthetics19and muscle relaxant agents.20It also may be informative when testing high-molecular-weight protein substances such as insulin, vaccines, streptokinase, polyclonal or monoclonal antibodies, and latex.21,22Positive skin testing to such reagents confirms the presence of antigen-specific IgE and is supportive of the diagnosis of a Type I hypersensitivity reaction in the appropriate clinical setting. Negative skin testing is helpful only in penicillin skin testing because the test specificity has been adequately established.23With other drug agents, a negative skin test does not effectively rule out the presence of specific IgE. In vitro testing for IgE is available for a limited number of drugs in the form of radioallergosorbent tests that are historically less sensitive than skin testing for determining specific IgE levels.21In addition, the immunogenic determinants of many drugs are undefined, which makes the predictive value of in vitro tests poor.24"
+        },
+        {
+            "parent": 4,
+            "text": "Laboratory tests measuring mast cell activation may be helpful if obtained within four hours of onset of the suspected allergic reaction. While serum histamine levels peak five minutes after anaphylaxis and return to baseline within 30 minutes, serum tryptase levels peak one hour after anaphylaxis and remain elevated for two to four hours after the event.25Histamine, tryptase, and betatryptase levels have proved useful in confirming acute IgE-mediated reactions, but negative results do not rule out acute allergic reactions.26,27Type II cytotoxic reactions to a drug result in hemolytic anemia, thrombocytopenia, or neutropenia evident with a complete blood count. Hemolytic anemia may be confirmed with a positive direct and/or indirect Coombs' test, reflecting the presence of complement and/or drug-hapten on the red cell membrane."
+        },
+        {
+            "parent": 4,
+            "text": "In Type III immune complex reactions to a drug, elevation of nonspecific inflammatory markers such as erythrocyte sedimentation rate and C-reactive protein may occur. If available, more specific laboratory testing for complement levels (CH50, C3, C4) or circulating immune complexes can be conducted. Positive tests help confirm the clinical diagnosis; negative tests do not exclude the diagnosis of immune complex disease. Systemic vasculitides induced by medication may be detected by autoantibody tests such as antinuclear antibody or antihistone antibody.28"
+        },
+        {
+            "parent": 4,
+            "text": "Type IV immune reactions usually present as allergic contact dermatitis caused by topical medications. In such instances, patch testing for specific drug agents, as outlined inTable 7, is an appropriate diagnostic step. Features of erythema, induration, and a pruritic vesiculopapular rash developing 48 hours after patch application support the diagnosis of a Type IV immune reaction."
+        },
+        {
+            "parent": 5,
+            "text": "The diagnosis of drug hypersensitivity is usually based on clinical judgment, because definitive, confirmatory drug-specific testing is often difficult.Table 8outlines the general criteria for the diagnosis of drug hypersensitivity reactions."
+        },
+        {
+            "parent": 5,
+            "text": "Once the diagnosis has been established, appropriate documentation should be included in the medical record specifying the causative drug and the nature of the adverse effect. Immune-mediated drug hypersensitivity reactions typically pose a predictable, more serious health risk with re-exposure to a drug. Nonimmune drug reactions tend to be less severe and less reproducible. The continued use of an offending drug may be appropriate if the risk of not treating the underlying disease is greater than the risk of continuing the drug, and if no suitable alternative exists. In these cases, it is essential that the patient be closely monitored by an experienced physician. When discontinuing a drug, the patient should be provided with a list of substitute medications for future use."
+        },
+        {
+            "parent": 6,
+            "text": "The most important and effective therapeutic measure in managing drug hypersensitivity reactions is the discontinuation of the offending medication, if possible. Alternative medications with unrelated chemical structures should be substituted when available. The clinical consequences of medication cessation or substitution should be closely monitored. In the majority of patients, symptoms will resolve within two weeks if the diagnosis of drug hypersensitivity is correct."
+        },
+        {
+            "parent": 6,
+            "text": "Additional therapy for drug hypersensitivity reactions is largely supportive and symptomatic(Table 6). Systemic corticosteroids may speed recovery in severe cases of drug hypersensitivity. Topical corticosteroids and oral antihistamines may improve dermatologic symptoms. The severe drug reactions of Stevens-Johnson syndrome and toxic epidermal necrolysis require additional intensive therapy.29"
+        },
+        {
+            "parent": 7,
+            "text": "Cross reactivity between a β-lactam ring and penicillin restricts the use of carbapenems in patients who are allergic to penicillin.30[Evidence level B, nonrandomized clinical trial] Aztreonam (Azactam) cross-reactivity is extremely rare in these patients.31,32Varying degrees of cross-reactivity between cephalosporins and penicillins have been documented. However, since 1980 the rate of cross-reaction between penicillin and second- or third-generation cephalosporins has been found to be 5 percent or less.26The degree of cross-reactivity appears to be greater for first-generation cephalosporins.33While the incidence of true cross-reactivity between penicillins and cephalosporins is low, the possible reactions include anaphylaxis, which can be fatal.34Caution is advised when administering cephalosporin therapy to patients with a history of penicillin allergy. A more conservative approach includes penicillin skin testing before initiation of cephalosporin therapy, particularly for patients with a history of serious allergic reactions to penicillin.1,35[Reference 1—Evidence level C, consensus/expert opinion]"
+        },
+        {
+            "parent": 8,
+            "text": "The case of patients with severe reactions to radiocontrast media should be identified by a thorough history that includes previous reactions. A specific guide to treating these patients is included inTable 9.20,36"
+        }
+    ],
+    "locked": false
+}

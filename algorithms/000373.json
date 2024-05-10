@@ -1,0 +1,208 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/0715/p113.html#afp20130715p113-f1",
+    "title": "A Primary Care Approach to Substance Misuse | AAFP",
+    "author": "BRAD SHAPIRO, MD, DIANA COFFA, MD, AND ELINORE F. MCCANCE-KATZ, MD, PhD",
+    "doi": "Am Fam Physician.2013;88(2):113-121",
+    "abstract": "Substance misuse is common among patients in primary care settings. Although it has a substantial health impact, physicians report low levels of preparedness to identify and assist patients with substance use disorders. An effective approach to office-based treatment includes a coherent framework for identifying and managing substance use disorders and specific strategies to promote behavior change. Brief validated screening tools allow rapid and efficient identification of problematic drug use, including prescription medication misuse. After a positive screening, a brief assessment should be performed to stratify patients into three categories: hazardous use, substance abuse, or substance dependence. Patients with hazardous use benefit from brief counseling by a physician. For patients with substance abuse, brief counseling is also indicated, with the addition of more intensive ongoing follow-up and reevaluation. In patients with substance dependence, best practices include a combination of counseling, referral to specialty treatment, and pharmacotherapy (e.g., drug tapering, naltrexone, buprenorphine, methadone). Comorbid mental illness and intimate partner violence are common in patients with substance use disorders. The use of a motivational rather than a confrontational communication style during screening, counseling, and treatment is important to improve patient outcomes.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Assessment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Counseling",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "HAZARDOUS USE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "SUBSTANCE ABUSE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SUBSTANCE DEPENDENCE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Pharmacotherapy",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "OPIOID AGONISTS: BUPRENORPHINE AND METHADONE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "OPIOID ANTAGONIST: NALTREXONE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "BENZODIAZEPINE DEPENDENCE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "STIMULANT DEPENDENCE",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Referral",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Comorbidities",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "MENTAL HEALTH",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "INTIMATE PARTNER VIOLENCE",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "Follow-up",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Illicit substance use is common in the general population and among persons presenting for primary care. Forty-seven percent of 12th graders report that they have used an illicit drug in the past year,1and 22.5 million persons older than 12 years meet criteria for substance abuse or dependence.2The consequences of illicit substance use include increased morbidity and mortality, loss of productivity, and increased health care costs.3"
+        },
+        {
+            "parent": -1,
+            "text": "The most significant recent trend in illicit substance use has been a dramatic increase in the misuse of prescription medications, particularly opioids. Emergency department visits involving misuse or abuse of prescription medications increased 98.4% between 2004 and 2009,4with corresponding dramatic increases in new users, entry into drug treatment, and overdose deaths related to prescription medications.2,5,6"
+        },
+        {
+            "parent": -1,
+            "text": "Physicians may feel inadequately prepared to meet the needs of these patients. In the largest study on how primary care physicians address substance use disorders, less than 20% described themselves as very prepared to identify alcoholism or illegal drug use, and more than 50% of patients with substance use disorders said their primary care physician did nothing to address their substance abuse.7"
+        },
+        {
+            "parent": -1,
+            "text": "There is increasing recognition of the similarities between substance use disorders and other common chronic illnesses such as hypertension and diabetes mellitus.8Like those illnesses, substance use disorders can be identified early when there have been fewer sequelae and when less intensive treatments can be successful. The purpose of this article is to provide the primary care physician with a practical framework for the management of substance use disorders other than alcohol and nicotine dependence(Figure 1)."
+        },
+        {
+            "parent": 0,
+            "text": "The U.S. Preventive Services Task Force recommends screening all patients for alcohol misuse,9but has determined that there is currently insufficient evidence to recommend screening for other substance use disorders.10Despite the lack of evidence that screening for substance use disorders improves outcomes, universal screening may be justified based on the high prevalence and morbidity of substance use and proven effectiveness of treatment. Two brief validated screening tools are presented inTable 1.11–13The Drug Abuse Screening Test-10 is a self-report instrument that accurately identifies substance abuse and dependence.12–14Experienced physicians may prefer to use a less structured interview to assess the role and impact of substance use and to elicit diagnostic criteria(Table 2).15Routine urine drug testing is not recommended, but can be used to support a suspected diagnosis, assess for polysubstance use, and monitor treatment response."
+        },
+        {
+            "parent": 1,
+            "text": "In patients with positive screening results, substance use should be stratified into hazardous use, substance abuse, or substance dependence. For most substances, even infrequent use is considered hazardous because of potential health consequences, the risk of dependence, and the risk of legal repercussions. However, not all substance use is equally hazardous. Evidence suggests that the use of heroin, methamphetamine, and crack cocaine is associated with an intrinsically high risk of harm to self and others.3In contrast, the use of ecstasy and marijuana seems to have intrinsically lower (but not negligible) risk of harm, but can still represent a risky choice in the context of young age, genetic predisposition to dependence, unstable social circumstances, heavy use, or impaired coping mechanisms. Physician judgment is important in determining the appropriate intervention or advice regarding hazardous substance use."
+        },
+        {
+            "parent": 2,
+            "text": "Brief counseling is indicated for patients with hazardous substance use or substance abuse. Patients with substance dependence require more intensive treatment."
+        },
+        {
+            "parent": 3,
+            "text": "Patients with hazardous substance use may benefit from brief counseling by a physician. Counseling using a motivational interviewing approach in the clinical setting has been shown to decrease the quantity and frequency of drug and alcohol use.16–18During counseling, the physician elicits the patient's own reasons for change, rather than telling the patient why he or she should change. Confronting or pushing the patient to change is usually not successful and can decrease motivation for change.19Helpful communication strategies for discussing behavior change are illustrated inTable 3, including the “elicit-provide-elicit” technique, which is a useful approach for providing information or advice.19"
+        },
+        {
+            "parent": 4,
+            "text": "Substance abuse is characterized by the development of consequences from substance use, and these consequences can serve as motivators for change. The primary care physician can be instrumental in increasing motivation, but should be prepared for patients' feelings of defensiveness, ambivalence, guilt, shame, and lack of concern about their substance use. Principles and techniques derived from motivational interviewing can be used to manage resistance and increase readiness to change."
+        },
+        {
+            "parent": 4,
+            "text": "For patients with substance abuse, experts generally recommend advising abstinence. For patients who are not committed to abstinence, it is useful to provide a variety of options for change, and harm reduction is an appropriate goal. Harm reduction strategies reduce the negative health consequences of substance use. Common examples include providing clean needles to persons who continue to inject drugs, and not driving while intoxicated. Developing a plan for change is an opportunity for physician-patient collaboration and trust building. If a patient with substance abuse agrees to cut back or quit but is unable to do so, this may indicate a substance dependence disorder."
+        },
+        {
+            "parent": 5,
+            "text": "Substance dependence is a chronic relapsing and remitting illness, and patients require a longitudinal, chronic care approach that can include pharmacotherapy, referral to specialty treatment, mutual help meetings, and ongoing counseling and care coordination."
+        },
+        {
+            "parent": 5,
+            "text": "Brief counseling can help an ambivalent patient with substance dependence to enter a treatment program, engage with mutual help meetings, or agree to a trial of pharmacotherapy. Because of the severity of substance dependence disorders and the importance of family support in the recovery process,20physicians should engage family members in the treatment plan when appropriate and with the patient's consent. Treatment programs that involve families have improved rates of retention and abstinence.21–23"
+        },
+        {
+            "parent": 6,
+            "text": "Pharmacologic treatments are available for managing acute withdrawal, reducing or eliminating use, and preventing relapse for a variety of substances, including tobacco, alcohol, benzodiazepines, and opioids. Physicians should not restrict the use of pharmacotherapy only to patients whose goal is abstinence. Reductions in the amount or frequency of drug and alcohol use have important health correlates. For example, even small reductions in alcohol consumption translate into substantial decreases in the risks of cancer, hypertension, and other conditions.24"
+        },
+        {
+            "parent": 6,
+            "text": "Three drugs are approved by the U.S. Food and Drug Administration (FDA) for the treatment of opioid dependence. Buprenorphine and naltrexone (Revia) can be prescribed from office-based practices and clinics. Treatment with methadone is restricted to federally regulated narcotic treatment programs."
+        },
+        {
+            "parent": 7,
+            "text": "Buprenorphine is a partial agonist of mu opioid receptors. Formulations approved by the FDA for the treatment of opioid dependence include sublingual buprenorphine and sublingual buprenorphine/naloxone tablets or strips (Suboxone). The naloxone component is poorly absorbed via the sublingual route and is present only to prevent misuse of the medication by crushing and injecting the combined product. Because of this safety feature, buprenorphine/naloxone is the preferred formulation."
+        },
+        {
+            "parent": 7,
+            "text": "Brief treatment periods with rapid medication tapers (medical withdrawal) are associated with high rates of relapse25; therefore, longer-term or maintenance treatment is generally indicated for patients with opioid dependence. Treatment with buprenorphine is safe and effective,26,27and many patients can manage the induction period on their own at home.28"
+        },
+        {
+            "parent": 7,
+            "text": "Physicians who wish to prescribe buprenorphine for treatment of opioid dependence are required to complete eight hours of training and to obtain a waiver from the Center for Substance Abuse Treatment and Drug Enforcement Administration. Complete information is available athttp://buprenorphine.samhsa.gov, and support is available from the Physicians' Clinical Support System–Buprenorphine athttp://www.pcssb.org. Buprenorphine treatment of opioid dependence has been described previously inAmerican Family Physician(https://www.aafp.org/afp/2006/0501/p1573.html).29"
+        },
+        {
+            "parent": 7,
+            "text": "Some patients are not candidates for office-based treatment of opioid dependence, and should be referred to a narcotic treatment program where they can receive methadone pharmacotherapy and counseling services. Methadone maintenance therapy reduces opioid abuse and associated harms.30–32Common indications for referral include comorbid chronic pain that requires opioid therapy, co-occurring alcohol or benzodiazepine abuse, an uncontrolled or unstable psychiatric disorder, or if treatment in the office setting has been ineffective.33"
+        },
+        {
+            "parent": 8,
+            "text": "Naltrexone is an antagonist of mu opioid receptors and can block the effects of opioid agonists.34This can prevent the impulsive use of opioids in patients receiving naltrexone, and can provide time for the patient to consider the consequences of relapse and to seek support. Naltrexone is available as a 50-mg tablet taken daily or, alternatively, 100 mg on Mondays and Wednesdays, and 150 mg on Fridays. A 380-mg monthly injection (Vivitrol) is in widespread use for treatment of alcohol dependence, and was recently approved by the FDA for treatment of opioid dependence."
+        },
+        {
+            "parent": 8,
+            "text": "Naltrexone has been shown to be helpful in maintaining abstinence from opioids in motivated populations, such as health care professionals who cannot or do not wish to take continuous opioid agonist therapy.35However, it has had limited success in other groups.36Naltrexone has been associated with hepatic injury at supratherapeutic doses; therefore, liver function tests at baseline and every three to six months are recommended.37Naltrexone cannot be used in patients in whom opioids are required for pain control, because it will block pain relief from opioid agonists and cause precipitated withdrawal in patients who are currently taking opioids. Patients who discontinue treatment are at increased risk of opioid overdose and death resulting from decreased opioid tolerance.38"
+        },
+        {
+            "parent": 9,
+            "text": "Physicians may attempt a slow taper (usually over months) of benzodiazepines in selected patients with dependence and in whom a reliable history can be obtained about the amount being taken. Patients should be motivated and adherent, and should not have a history of withdrawal seizures or other medical comorbidities.39Other patients should generally be referred to a specialist, if possible. Risks of tapering benzodiazepines include increased anxiety and depression symptoms, seizures, and altered mental status.40"
+        },
+        {
+            "parent": 10,
+            "text": "Despite continued research efforts and several potential candidate medications, no pharmacologic treatment for stimulant (e.g., cocaine, methamphetamine) dependence can be recommended for use in the primary care setting.41Behavioral therapies have demonstrated effectiveness in the treatment of stimulant dependence.42"
+        },
+        {
+            "parent": 11,
+            "text": "Referral for specialty addiction treatment is recommended for patients with substance dependence disorders. However, primary care physicians with appropriate experience, training, and support can provide some or all of these services. Access to substance abuse treatment is variable, and decisions about where to refer patients must take into account local resources and patient characteristics.Table 4provides a list of resources for the most commonly available treatment options.39Physicians can develop consultation relationships with treatment centers and specialists in their communities to help them determine the appropriate level of care for patients and to facilitate referrals. Patients in specialty addiction treatment benefit from close primary care coordination, particularly regarding prescriptions for controlled substances or other psychoactive medications. Referral for psychiatric or pain management consultation may also be appropriate based on the presentation and response to treatment."
+        },
+        {
+            "parent": 13,
+            "text": "Anxiety disorders, depression, bipolar disorder, posttraumatic stress disorder, and dependent and antisocial personality disorders are more common in patients with substance use disorders (particularly substance dependence disorders).43–46The presence of a substance use disorder suggests the need for mental health screening."
+        },
+        {
+            "parent": 13,
+            "text": "Mental health disorders can be primary or secondary (substance induced). Primary disorders generally predate the onset of substance misuse, and symptoms are present during periods of abstinence.41Primary comorbid mental health disorders can be treated with standard psychological and pharmacologic therapies.47–49"
+        },
+        {
+            "parent": 14,
+            "text": "Men and women who misuse illicit drugs are at increased risk of being victims and perpetrators of intimate partner violence.50,51Because rates of intimate partner violence exceed 50% in patients with drug use disorders in some settings,50it is recommended that physicians screen all patients who present with substance use disorders for intimate partner violence."
+        },
+        {
+            "parent": 14,
+            "text": "Although management of intimate partner violence is beyond the scope of this article, perpetration and victimization appear to be decreased by treatment of alcohol use disorders,50suggesting that substance abuse treatment may be an effective intervention."
+        },
+        {
+            "parent": 15,
+            "text": "Although there are no established guidelines, it is reasonable to follow up with patients within four to six weeks after identifying risky drug use or a substance use disorder. Because the severity and intensity of drug use may evolve, regular reassessment is indicated. In early recovery, patients are at an increased risk of relapse, and physicians can offer support and reinforce healthy behaviors. Relapse can be a source of shame and guilt for patients. Physicians can help by ensuring that their office is a safe and blame-free place for patients with drug problems, and by adopting a nonjudgmental and welcoming attitude toward patients in the event of relapse."
+        },
+        {
+            "parent": 15,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms SBIRT, substance abuse, screening, buprenorphine, brief intervention, motivational interviewing, treatment, dual diagnosis, intimate partner violence, methadone, hazardous use, risky use, drug abuse, screening tool, and naltrexone. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Cochrane database, Essential Evidence Plus, the National Guideline Clearinghouse database, the Drug Abuse Warning Network database, and the Substance Abuse and Mental Health Services Administration's National Survey on Drug Use and Health. Search dates: January 16, 2011; March 23, 2011; and June 20, 2011."
+        }
+    ],
+    "locked": false
+}

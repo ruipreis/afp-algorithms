@@ -1,0 +1,158 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0301/p671.html#afp20070301p671-f1",
+    "title": "Iron Deficiency Anemia | AAFP",
+    "author": "SHERSTEN KILLIP, M.D., M.P.H., JOHN M. BENNETT, M.D., M.P.H., AND MARA D. CHAMBERS, M.D.",
+    "doi": "Am Fam Physician.2007;75(5):671-678",
+    "abstract": "The prevalence of iron deficiency anemia is 2 percent in adult men, 9 to 12 percent in non-Hispanic white women, and nearly 20 percent in black and Mexican-American women. Nine percent of patients older than 65 years with iron deficiency anemia have a gastrointestinal cancer when evaluated. The U.S. Preventive Services Task Force currently recommends screening for iron deficiency anemia in pregnant women but not in other groups. Routine iron supplementation is recommended for high-risk infants six to 12 months of age. Iron deficiency anemia is classically described as a microcytic anemia. The differential diagnosis includes thalassemia, sideroblastic anemias, some types of anemia of chronic disease, and lead poisoning. Serum ferritin is the preferred initial diagnostic test. Total iron-binding capacity, transferrin saturation, serum iron, and serum transferrin receptor levels may be helpful if the ferritin level is between 46 and 99 ng per mL (46 and 99 mcg per L); bone marrow biopsy may be necessary in these patients for a definitive diagnosis. In children, adolescents, and women of reproductive age, a trial of iron is a reasonable approach if the review of symptoms, history, and physical examination are negative; however, the hemoglobin should be checked at one month. If there is not a 1 to 2 g per dL (10 to 20 g per L) increase in the hemoglobin level in that time, possibilities include malabsorption of oral iron, continued bleeding, or unknown lesion. For other patients, an endoscopic evaluation is recommended beginning with colonoscopy if the patient is older than 50.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Prevalence",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Risk factors",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Screening and Primary Prevention",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "RECOMMENDED DIAGNOSTIC STRATEGY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Iron deficiency anemia (IDA) is the most common nutritional deficiency worldwide. It can cause reduced work capacity in adults1and impact motor and mental development in children and adolescents.2There is some evidence that iron deficiency without anemia affects cognition in adolescent girls3and causes fatigue in adult women.4IDA may affect visual and auditory functioning3and is weakly associated with poor cognitive development in children.4"
+        },
+        {
+            "parent": 0,
+            "text": "The prevalence of IDA in the United States varies widely by age, sex, and race(Table 1).5The Healthy People 2010 goals are to reduce the occurrence of IDA to less than 5 percent in toddlers; 1 percent in preschool-age children; and 7 percent in women of reproductive age, regardless of race.6"
+        },
+        {
+            "parent": 0,
+            "text": "[corrected]"
+        },
+        {
+            "parent": 1,
+            "text": "Iron metabolism is unusual in that it is controlled by absorption rather than excretion. Iron is only lost through blood loss or loss of cells as they slough. Men and nonmenstruating women lose about 1 mg of iron per day. Menstruating women lose from 0.6 to 2.5 percent more per day. An average 132-lb (60-kg) woman might lose an extra 10 mg of iron per menstruation cycle, but the loss could be more than 42 mg per cycle depending on how heavily she menstruates.7A pregnancy takes about 700 mg of iron, and a whole blood donation of 500 cc contains 250 mg of iron."
+        },
+        {
+            "parent": 1,
+            "text": "Iron absorption, which occurs mostly in the jejunum, is only 5 to 10 percent of dietary intake in persons in homeostasis. In states of overload, absorption decreases. Absorption can increase three- to fivefold in states of depletion. Dietary iron is available in two forms: heme iron, which is found in meat; and nonheme iron, which is found in plant and dairy foods. Absorption of heme iron is minimally affected by dietary factors, whereas nonheme iron makes up the bulk of consumed iron. The bioavailability of non-heme iron requires acid digestion and varies by an order of magnitude depending on the concentration of enhancers (e.g., ascorbate, meat) and inhibitors (e.g., calcium, fiber, tea, coffee, wine) found in the diet.7"
+        },
+        {
+            "parent": 1,
+            "text": "Iron deficiency results when iron demand by the body is not met by iron absorption from the diet. Thus, patients with IDA presenting in primary care may have inadequate dietary intake, hampered absorption, or physiologic losses in a woman of reproductive age. It also could be a sign of blood loss, known or occult. IDA is never an end diagnosis; the work-up is not complete until the reason for IDA is known."
+        },
+        {
+            "parent": 2,
+            "text": "Table 28–13lists risk factors associated with IDA. Low socioeconomic status is not a risk factor for IDA in women who never get pregnant, but it is a risk factor when coupled with the increased iron demands imposed by pregnancy. Black women have a lower mean hemoglobin and a wider standard deviation than white women, even after adjustment for iron status.8There is a high rate of IDA among Mexican women living in the United States that is not accounted for by dietary intake or parity, suggesting there may be an unidentified, possibly racial factor predisposing these women to iron deficiency.11"
+        },
+        {
+            "parent": 3,
+            "text": "The U.S. Preventive Services Task Force (USPSTF) recommends screening pregnant women for IDA, but found insufficient evidence to recommend for or against routine screening in other asymptomatic persons. However, the guidelines did recommend routine iron supplementation in asymptomatic infants six to 12 months of age who are at high risk of IDA. Infants are considered to be at high risk if they are living in poverty; are black, Native American, or Alaskan Native; are immigrants from a developing country; are preterm or low birth weight; or if their primary dietary intake is unfortified cow's milk.14"
+        },
+        {
+            "parent": 3,
+            "text": "Encouraging mothers to breastfeed their infants and to include iron-enriched foods in the diet of infants and young children also is recommended. Although the USPSTF found insufficient evidence to recommend for or against the routine use of iron supplements in healthy infants or pregnant women,15a recent study showed a significant decline in the number of newborns weighing less than 5 lbs 8 oz (2.5 kg) (number needed to treat = 7) when the mothers used routine prenatal iron supplementation.16This supports prescribing prenatal vitamins with iron to all pregnant women, which is the current standard of care in the United States."
+        },
+        {
+            "parent": 3,
+            "text": "The U.S. Food and Nutrition Board publishes Dietary Reference Intakes (DRI) for many vitamins and minerals, including iron. DRI replaced Recommended Daily Allowance. The DRI for iron is 8 mg per day for healthy, nonmenstruating adults; 18 mg per day for menstruating women; and 16 mg per day for vegetarians because of their differential absorption of nonheme iron.17For blood donors, a daily dose of 20 mg of elemental iron is recommended.18"
+        },
+        {
+            "parent": 4,
+            "text": "The definition of anemia varies by sex and age. The most commonly used definitions of anemia come from the Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO)(Table 315)."
+        },
+        {
+            "parent": 5,
+            "text": "IDA is classically described as a microcytic anemia. The differential diagnosis for microcytic anemia includes iron deficiency, thalassemia, sideroblastic anemias, some types of anemia of chronic disease, and lead poisoning (rare in adults).19Patients with sideroblastic anemia will have almost complete saturation of the serum transfer-rin,20which can differentiate them from patients with iron deficiency. Differentiating between iron deficiency and anemia of chronic disease can sometimes be difficult, especially in early iron deficiency or when the conditions coexist. Patients with lead poisoning will have characteristic signs and symptoms of lead poisoning."
+        },
+        {
+            "parent": 6,
+            "text": "Anemia cannot be reliably diagnosed by clinical presentation. Fatigue, the most common reason to check hemoglobin, was caused by anemia in only one out of 52 patients in a primary care practice.21In a hospital setting, pallor predicted anemia with a likelihood ratio (LR) of 4.5. However, absence of pallor was less helpful at ruling out anemia, giving an LR of 0.6 even when anemia was defined as less than 9 g per dL (90 g per L), a lower diagnostic level than that of the WHO or CDC.22Other classic symptoms such as koilonychia (spoon nails), glossitis, or dysphagia are not common in the developed world.23"
+        },
+        {
+            "parent": 7,
+            "text": "The diagnosis of IDA requires that a patient be anemic and show laboratory evidence of iron deficiency. Red blood cells in IDA are usually described as being microcytic (i.e., mean corpuscular volume less than 80 μm3[80 fL]) and hypochromic, however the manifestation of iron deficiency occurs in several stages.24Patients with a serum ferritin concentration less than 25 ng per mL (25 mcg per L) have a very high probability of being iron deficient. The most accurate initial diagnostic test for IDA is the serum ferritin measurement. Serum ferritin values greater than 100 ng per mL (100 mcg per L) indicate adequate iron stores and a low likelihood of IDA(Table 425,26).25In some populations, such as those with inflammatory disease or cirrhosis, these tests must be interpreted slightly differently because ferritin is an acute-phase reactant. Cutoffs for abnormality in these patients generally are higher.27"
+        },
+        {
+            "parent": 7,
+            "text": "Another laboratory change that occurs in patients with IDA is an increase in the iron-carrying protein transferrin. The amount of iron available to bind to this molecule is reduced, causing a decrease in the transferrin saturation and an increase in the total iron-binding capacity. The serum transferrin receptor assay is a newer approach to measuring iron status at the cellular level. Increased levels are found in patients with IDA, and normal levels are found in patients with anemia of chronic disease.28"
+        },
+        {
+            "parent": 8,
+            "text": "Figure 129shows a suggested diagnostic algorithm to determine if a patient has IDA. This algorithm is adapted from a clinical guideline, with the primary modification that serum iron, total iron-binding capacity, and transferrin saturation are recommended as follow-up tests in patients with an intermediate ferritin level as a strategy to reduce the need for bone marrow biopsy.29If these blood tests are indeterminate, an elevated serum transferrin receptor level is recommended to distinguish IDA from anemia of chronic disease. The choice of a ferritin level of less than 45 ng per mL (45 mcg per L) is to allow for a higher sensitivity, despite the fact that most laboratories' normal range for ferritin includes 45 ng per mL."
+        },
+        {
+            "parent": 8,
+            "text": "Because IDA has physiologic and pathophysiologic causes, a cause for IDA must be established or serious disease may be overlooked. In a population-based study of more than 700 adults with IDA, 6 percent were diagnosed with a gastrointestinal malignancy. The risk of malignancy was 9 percent in patients older than 65 years with IDA. None of the 442 premenopausal women with iron deficiency, 92 of whom also were anemic, had a gastrointestinal malignancy detected.30"
+        },
+        {
+            "parent": 8,
+            "text": "Figure 24,21,29,31,32shows the authors' suggested evaluation for underlying causes of IDA. The general approach is to separate groups by risk of underlying disease. Patients with a high risk of underlying disease (e.g., men of all ages and postmenopausal women) should be evaluated endoscopically for occult bleeding unless the history and physical examination strongly indicate a known benign cause for IDA."
+        },
+        {
+            "parent": 8,
+            "text": "Whether to begin with endoscopy or colonoscopy should be indicated by symptoms or age. In a patient older than 50 years who lacks symptoms, the diagnostic work-up should begin with colonoscopy.31Some disease-oriented evidence by specialty researchers suggests that esophagogastroduodenoscopy may be valuable in women of reproductive age.33However, in the absence of symptoms, a therapeutic trial of oral iron therapy is the recommended initial approach.29"
+        },
+        {
+            "parent": 9,
+            "text": "Transfusion should be considered for patients of any age with IDA complaining of symptoms such as fatigue or dyspnea on exertion. It also should be considered for asymptomatic cardiac patients with hemoglobin less than 10 g per dL (100 g per L). However, oral iron therapy is usually the first-line therapy for patients with IDA.34As noted in the etiology section, iron absorption varies widely based on type of diet and other factors. Bone marrow response to iron is limited to 20 mg per day of elemental iron. An increase in the hemoglobin level of 1 g per dL (10 g per L) should occur every two to three weeks on iron therapy; however, it may take up to four months for the iron stores to return to normal after the hemoglobin has corrected.35Ferrous sulfate in a dose of 325 mg provides 65 mg of elemental iron, whereas 325 mg of ferrous gluconate provides 38 mg of elemental iron. Sustained-release formulations of iron are not recommended as initial therapy because they reduce the amount of iron that is presented for absorption to the duodenal villi."
+        },
+        {
+            "parent": 9,
+            "text": "Gastrointestinal absorption of elemental iron is enhanced in the presence of an acidic gastric environment. This can be accomplished through simultaneous intake of ascorbic acid (i.e., vitamin C).36Although iron absorption occurs more readily when taken on an empty stomach, this increases the likelihood of stomach upset because of iron therapy. Increased patient adherence should be weighed against the inferior absorption. Foods rich in tannates (e.g., tea)37or phytates (e.g., bran, cereal),38or medications that raise the gastric pH (e.g., antacids, proton pump inhibitors, histamine H2blockers)39reduce absorption and should be avoided if possible. Some persons have difficulty absorbing the iron because of poor dissolution of the coating.40A liquid iron preparation would be a better choice for these patients. Laxatives, stool softeners, and adequate intake of liquids can alleviate the constipating effects of oral iron therapy."
+        },
+        {
+            "parent": 9,
+            "text": "Indications for the use of intravenous iron include chronic uncorrectable bleeding, intestinal malabsorption, intolerance to oral iron, nonadherence, or a hemoglobin level less than 6 g per dL (60 g per L) with signs of poor perfusion in patients who would otherwise receive transfusion (e.g., those who have religious objections).41Until recently, iron dextran (Dexferrum) has been the only parenteral iron preparation available in the United States. The advantage of iron dextran is the ability to administer large doses (200 to 500 mg) at one time.42One major drawback of iron dextran is the risk of anaphylactic reactions that can be fatal. There also is a delayed reaction, which consists of myalgias, headache, and arthralgias, that can occur 24 to 48 hours after infusion. Nonsteroidal anti-inflammatory drugs will usually relieve these symptoms, but they may be prolonged in patients with chronic inflammatory joint disease."
+        },
+        {
+            "parent": 9,
+            "text": "Sodium ferric gluconate (Ferrlecit), a safer form of parenteral iron, was approved by the U.S. Food and Drug Administration in 1999. The risk of anaphylaxis is drastically reduced using sodium ferric gluconate. In a study of 2,534 patients on hemodialysis, 0.04 percent receiving sodium ferric gluconate had life-threatening reactions compared with 0.61 percent receiving iron dextran.43Sodium ferric gluconate is usually administered intravenously in eight weekly doses of 125 mg for a total dosage of 1,000 mg. No test dose is required."
+        },
+        {
+            "parent": 9,
+            "text": "Another intravenous preparation, approved for use in the United States in 2000, is iron sucrose (Venofer). In iron deficiency not associated with hemodialysis, 200 mg is administered intravenously five times over a two-week period. Safety profiles are similar to sodium ferric gluconate, although published experience is more limited.28"
+        }
+    ],
+    "locked": false
+}

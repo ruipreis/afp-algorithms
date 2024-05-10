@@ -1,0 +1,118 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/1201/p1004.html#afp20151201p1004-f5",
+    "title": "Evaluation of Patients with Leukocytosis | AAFP",
+    "author": "LYRAD K. RILEY, MD, AND JEDDA RUPERT, MD",
+    "doi": "Am Fam Physician.2015;92(11):1004-1011",
+    "abstract": "An elevated white blood cell count has many potential etiologies, including malignant and nonmalignant causes. It is important to use age- and pregnancy-specific normal ranges for the white blood cell count. A repeat complete blood count with peripheral smear may provide helpful information, such as types and maturity of white blood cells, uniformity of white blood cells, and toxic granulations. The leukocyte differential may show eosinophilia in parasitic or allergic conditions, or it may reveal lymphocytosis in childhood viral illnesses. Leukocytosis is a common sign of infection, particularly bacterial, and should prompt physicians to identify other signs and symptoms of infection. The peripheral white blood cell count can double within hours after certain stimuli because of the large bone marrow storage and intravascularly marginated pools of neutrophils. Stressors capable of causing an acute leukocytosis include surgery, exercise, trauma, and emotional stress. Other nonmalignant etiologies of leukocytosis include certain medications, asplenia, smoking, obesity, and chronic inflammatory conditions. Symptoms suggestive of a hematologic malignancy include fever, weight loss, bruising, or fatigue. If malignancy cannot be excluded or another more likely cause is not suspected, referral to a hematologist/oncologist is indicated.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Normal Variation",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Normal Leukocyte Life Cycle and Responses",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Differentiation by Type of White Blood Cell",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Nonmalignant Etiologies",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Malignant Etiologies",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "Approach to Evaluation",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Leukocytosis, often defined as an elevated white blood cell (WBC) count greater than 11,000 per mm3(11.0 × 109per L) in nonpregnant adults, is a relatively common finding with a wide differential. It is important for clinicians to be able to distinguish malignant from non-malignant etiologies, and to differentiate between the most common nonmalignant causes of leukocytosis."
+        },
+        {
+            "parent": -1,
+            "text": "Leukocytosis in the range of approximately 50,000 to 100,000 per mm3(50.0 to 100.0 × 109per L) is sometimes referred to as a leukemoid reaction. This level of elevation can occur in some severe infections, such asClostridium difficileinfection, sepsis, organ rejection, or in patients with solid tumors.1Leukocytosis greater than 100,000 per mm3is almost always caused by leukemias or myeloproliferative disorders.2"
+        },
+        {
+            "parent": 0,
+            "text": "The normal range for WBC counts changes with age and pregnancy(Table 1).3Healthy newborn infants may have a WBC count from 13,000 to 38,000 per mm3(13.0 to 38.0 × 109per L) at 12 hours of life (95% confidence interval). By two weeks of age, this decreases to approximately 5,000 to 20,000 per mm3(5.0 to 20.0 × 109per L), and gradually declines throughout childhood to reach adult levels of 4,500 to 11,000 per mm3(4.5 to 11.0 × 109per L; 95% confidence interval) by about 21 years of age.3There is also a shift from relative lymphocyte to neutrophil predominance from early childhood to the teenage years and adulthood.4During pregnancy, there is a gradual increase in the normal WBC count (third trimester 95% upper limit = 13,200 per mm3[13.2 × 109per L] and 99% upper limit = 15,900 per mm3[15.9 × 109per L]), and a slight shift toward an increased percentage of neutrophils.5In one study of afebrile postpartum patients, the mean WBC count was 12,620 per mm3(12.62 × 109per L) for women after vaginal deliveries and 12,710 per mm3(12.71 × 109per L) after cesarean deliveries. Of note, positive bacterial cultures were not associated with leukocytosis or neutrophilia, making leukocytosis an unreliable discriminator in deciding which postpartum patients require antibiotic therapy.6Patients of black African descent tend to have a lower WBC count (by 1,000 per mm3[1.0 × 109per L]) and lower absolute neutrophil counts.7"
+        },
+        {
+            "parent": 1,
+            "text": "The life cycle of leukocytes includes development and differentiation, storage in the bone marrow, margination within the vascular spaces, and migration to tissues. Stem cells in the bone marrow produce cell lines of erythroblasts, which become red blood cells; megakaryoblasts, which become platelets; lymphoblasts; and myeloblasts. Lymphoblasts develop into various types of T and B cell lymphocytes. Myeloblasts further differentiate into monocytes and granulocytes, a designation that includes neutrophils, basophils, and eosinophils(Figure 1). Once WBCs have matured within the bone marrow, 80% to 90% remain in storage in the bone marrow. This large reserve allows for a rapid increase in the circulating WBC count within hours. A relatively small pool (2% to 3%) of leukocytes circulate freely in the peripheral blood1; the rest stay deposited along the margins of blood vessel walls or in the spleen. Leukocytes spend most of their life span in storage. Once a leukocyte is released into circulation and peripheral tissues, its life span ranges from two to 16 days, depending on the type of cell."
+        },
+        {
+            "parent": 2,
+            "text": "Changes in the normal distribution of types of WBCs can indicate specific causes of leukocytosis(Table 2).8Although the differential of the major types of WBCs is important for evaluating the cause of leukocytosis, it is sometimes helpful to think in terms of absolute, rather than relative, leukopenias and leukocytoses. To calculate the absolute cell count, the total leukocyte count is multiplied by the differential percentage. For example, with a normal WBC count of 10,000 per mm3(10.0 × 109per L) and an elevated monocyte percentage of 12, the absolute monocyte count is 12% or 0.12 times the WBC count of 10,000 per mm3, yielding 1,200 per mm3(1.2 × 109per L), which is abnormally elevated."
+        },
+        {
+            "parent": 2,
+            "text": "The most common type of leukocytosis is neutrophilia (an increase in the absolute number of mature neutrophils to greater than 7,000 per mm3[7.0 × 109per L]), which can arise from infections, stressful conditions, chronic inflammation, medication use, and other causes(Table 3).1–7,9,10Lymphocytosis (when lymphocytes make up more than 40% of the WBC count or the absolute count is greater than 4,500 per mm3[4.5 × 109per L]) can occur in patients with pertussis, syphilis, viral infections, hypersensitivity reactions, and certain subtypes of leukemia or lymphoma. Lymphocytosis is more likely to be benign in children than in adults.4Epstein-Barr virus infection, tuberculosis or fungal disease, autoimmune disease, splenectomy, protozoan or rickettsial infections, and malignancy can cause monocytosis (monocytes make up more than 8% of the WBC count or the absolute count is greater than 880 per mm3[0.88 × 109per L]).8"
+        },
+        {
+            "parent": 2,
+            "text": "Eosinophilia (eosinophil absolute count greater than 500 per mm3[0.5 × 109per L]), although uncommon, may suggest allergic conditions such as asthma, urticaria, atopic dermatitis or eosinophilic esophagitis, drug reactions, dermatologic conditions, malignancies, connective tissue disease, idiopathic hypereosinophilic syndrome, or parasitic infections, including helminths (tissue parasites more than gut-lumen parasites).11,12Isolated basophilia (number of basophils greater than 100 per mm3[0.1 × 109per L]) is rare and unlikely to cause leukocytosis in isolation, but it can occur with allergic or inflammatory conditions and chronic myelogenous leukemia13(Table 4)."
+        },
+        {
+            "parent": 3,
+            "text": "A reactive leukocytosis, typically in the range of 11,000 to 30,000 per mm3(11.0 to 30.0 × 109per L), can arise from a variety of etiologies. Any source of stress can cause a catecholamine-induced demargination of WBCs, as well as increased release from the bone marrow storage pool. Examples include surgery, exercise, trauma, burns, and emotional stress.9One study showed an average increase in WBCs of 2,770 per mm3(2.77 × 109per L) peaking on postoperative day 2 after knee or hip arthroplasty.10Medications known to increase the WBC count include corticosteroids, lithium, colony-stimulating factors, beta agonists, and epinephrine. During the recovery phase after hemorrhage or hemolysis, a rebound leukocytosis can occur."
+        },
+        {
+            "parent": 3,
+            "text": "Leukocytosis is one of the hallmarks of infection. In the acute stage of many bacterial infections, there are primarily mature and immature neutrophils(Figure 2); sometimes, as the infection progresses, there is a shift to lymphocyte predominance. The release of less-mature bands and metamyelocytes into the peripheral circulation results in the so-called “left shift” in the WBC differential. Of note, some bacterial infections paradoxically cause neutropenias, such as typhoid fever, rickettsial infections, brucellosis, and dengue.1,14Viral infections may cause leukocytosis early in their course, but a sustained leukocytosis is not typical, except for the lymphocytosis in some childhood viral infections."
+        },
+        {
+            "parent": 3,
+            "text": "An elevated WBC count is a suggestive, but not definitive, marker of the presence of significant infection. For example, the sensitivity and specificity of an elevated WBC count in diagnosing acute appendicitis are 62% and 75%, respectively.15,16For diagnosing serious bacterial infections without a source in febrile children, the discriminatory value of leukocytosis is less than that of other biomarkers, such as C-reactive protein or procalcitonin.17Although a WBC count greater than 12,000 per mm3(12.0 × 109per L) is one of the criteria for the systemic inflammatory response syndrome (or sepsis when there is a known infection), leukocytosis alone is a poor predictor of bacteremia and not an indication for obtaining blood cultures.18,19"
+        },
+        {
+            "parent": 3,
+            "text": "Other acquired causes of leukocytosis include functional asplenia (predominantly lymphocytosis), smoking, and obesity. Patients with a chronic inflammatory condition, such as rheumatoid arthritis, inflammatory bowel disease, or a granulomatous disease, may also exhibit leukocytosis. Genetic causes include hereditary or chronic idiopathic neutrophilia and Down syndrome."
+        },
+        {
+            "parent": 4,
+            "text": "Leukocytosis may herald a malignant disorder, such as an acute or chronic leukemia(Figure 3), or a myeloproliferative disorder, such as polycythemia vera, myelofibrosis, or essential thrombocytosis. A previous article on leukemia inAmerican Family Physicianreviewed the features and differentiation of malignant hematopoietic disorders.20Many solid tumors may lead to a leukocytosis in the leukemoid range, either through bone marrow involvement or production of granulocyte colony-stimulating or granulocyte-macrophage colony-stimulating factors1,3,21(Figure 4). Chronic leukemias are most commonly diagnosed after incidental findings of leukocytosis on complete blood counts in asymptomatic patients. Patients with features suggestive of hematologic malignancies require prompt referral to a hematologist/oncologist(Table 5).3,22"
+        },
+        {
+            "parent": 5,
+            "text": "A systematic approach to patients with leukocytosis includes identifying historical clues that suggest potential causes(Figure 5). Fever and pain may accompany infections or malignancies; other constitutional symptoms, such as fatigue, night sweats, weight loss, easy bruising, or bleeding, might suggest malignancy.22Previous diagnoses or comorbid conditions that cause chronic inflammation should be noted, as well as recent stressful events, medication use, smoking status, and history of splenectomy or sickle cell anemia. A history of an elevated WBC count is important, because duration will help determine the likely cause. Leukocytosis lasting hours to days has a different differential diagnosis (e.g., infections, acute leukemias, stress reactions) than a case that persists for weeks to months (e.g., chronic inflammation, some malignancies)."
+        },
+        {
+            "parent": 5,
+            "text": "The physical examination should note erythema, swelling, or lung findings suggestive of an infection; murmurs suggestive of infective endocarditis; lymphadenopathy suggestive of a lymphoproliferative disorder; or splenomegaly suggestive of chronic myelogenous leukemia or a myeloproliferative disorder; petechiae or ecchymoses; or painful, inflamed joints suggestive of connective tissue disease or infection."
+        },
+        {
+            "parent": 5,
+            "text": "Initial laboratory evaluation should include`a repeat complete blood count to confirm the elevated WBC level, with differential cell counts and a review of a peripheral blood smear. The peripheral smear should be examined for toxic granulations (suggestive of inflammation), platelet clumps (which may be misinterpreted as WBCs), the presence of immature cells, and uniformity of the WBCs. On evaluation of a leukocytosis with lymphocyte predominance, a monomorphic population is concerning for chronic lymphocytic leukemia, whereas a pleomorphic (varying sizes and shapes) lymphocytosis is suggestive of a reactive process.4,23With all forms of leukocytosis, concurrent abnormalities in other cell counts (erythrocytes or platelets) suggest a primary bone marrow process and should prompt hematology/oncology evaluation."
+        },
+        {
+            "parent": 5,
+            "text": "As indicated by the history and examination findings, physicians should consider performing cultures of blood, urine, and joint or body fluid aspirates; rheumatology studies; a test for heterophile antibodies (mononucleosis spot test); and serologic titers. Radiologic studies may include chest radiography (to identify infections, some malignancies, and some granulomatous diseases) and, as indicated by history, computed tomography or bone scan. If hematologic malignancy is suspected, additional confirmatory testing may include flow cytometry, cytogenetic testing, or molecular testing of the bone marrow or peripheral blood."
+        },
+        {
+            "parent": 5,
+            "text": "Data Sources: The primary literature search was completed using Essential Evidence Plus and included searches of the Cochrane, POEM, and NICE guideline databases using the search term leukocytosis. In addition, PubMed searches were performed using the terms leukocytosis and white blood cell. Search dates: October 31 and December 17, 2014, and September 2015."
+        },
+        {
+            "parent": 5,
+            "text": "The authors thank Melissa King, MD, Department of Hematology/Oncology, Eglin Air Force Base Hospital, for reviewing the manuscript, and Niquanna Perez, Eglin Air Force Base laboratory services, for procuring peripheral smear images."
+        },
+        {
+            "parent": 5,
+            "text": "The views expressed in this article are those of the authors and do not reflect the official policy or position of the U.S. government, the Department of Defense, or the U.S. Air Force."
+        }
+    ],
+    "locked": false
+}

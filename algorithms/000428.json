@@ -1,0 +1,128 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/0201/p239.html#afp20120201p239-f1",
+    "title": "Perioperative Cardiac Risk Reduction | AAFP",
+    "author": "NATALIE F. HOLT, MD, MPH",
+    "doi": "Am Fam Physician.2012;85(3):239-246",
+    "abstract": "Cardiovascular complications are the most common cause of perioperative morbidity and mortality. Noninvasive stress testing is rarely helpful in assessing risk, and for most patients there is no evidence that coronary revascularization provides more protection against perioperative cardiovascular events than optimal medical management. Patients likely to benefit from perioperative beta blockade include those with stable coronary artery disease and multiple cardiac risk factors. Perioperative beta blockers should be initiated weeks before surgery and titrated to heart rate and blood pressure targets. The balance of benefits and harms of perioperative beta-blocker therapy is much less favorable in patients with limited cardiac risk factors and when initiated in the acute preoperative period. Perioperative statin therapy is recommended for all patients undergoing vascular surgery. When prescribed for the secondary prevention of cardiovascular disease, aspirin should be continued in the perioperative period.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Risk Assessment",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Interventional Myocardial Protection",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "PREOPERATIVE CORONARY REVASCULARIZATION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "METHOD OF REVASCULARIZATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Pharmacologic Myocardial Protection",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "BETA BLOCKERS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "STATINS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "ASPIRIN",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Perioperative myocardial ischemia and infarction are the most significant predictors of adverse cardiovascular outcomes in the years following surgery. An exaggerated neuroendocrine and sympathetic response, as well as the inflammatory and hypercoagulable state induced by surgery, can unmask latent coronary artery disease in the patient at risk. Accurate preoperative cardiac risk assessment is the first step in developing a perioperative plan that maximizes successful outcomes. This article focuses on evidence-based strategies to reduce the risk of adverse cardiovascular events in high-risk patients undergoing noncardiac surgery."
+        },
+        {
+            "parent": 0,
+            "text": "The risk of perioperative cardiovascular complications depends on the patient's underlying health and the nature of the planned surgery.1,2The health of the patient is based on the presence of comorbidities and exercise tolerance. The Revised Cardiac Risk Index (also called the modified Goldman index) is among the best validated ways to estimate cardiovascular risk(Table 1).3It forms the foundation of the 2007 American College of Cardiology/American Heart Association (ACC/AHA) guidelines on perioperative cardiovascular evaluation and care for noncardiac surgery.2,3The index identifies five clinical variables as independent predictors of cardiac complications: ischemic heart disease, congestive heart failure, cerebrovascular disease, diabetes mellitus, and renal insufficiency."
+        },
+        {
+            "parent": 0,
+            "text": "Functional capacity is usually expressed as metabolic equivalents (METs), which estimate energy expenditure for common physical activities relative to a person's resting metabolic rate4(Table 22). Perioperative cardiac risk is increased in patients who are unable to exercise at 4 METs.5In contrast, patients with excellent functional tolerance are unlikely to have postoperative cardiovascular complications, even if cardiac risk factors are present.6Thus, the ACC/AHA guidelines advise that further cardiac evaluation is not needed before surgery in patients with good functional capacity."
+        },
+        {
+            "parent": 0,
+            "text": "Surgical risk is related to the degree of hemodynamic instability expected during the procedure(Table 3).2Noncardiac surgeries are grouped into three risk categories based on estimated 30-day cardiac event rates: low (less than 1 percent risk), intermediate (1 to 5 percent), and high (greater than 5 percent).7Figure 1presents a stepwise approach to cardiac risk assessment.2"
+        },
+        {
+            "parent": 0,
+            "text": "The most challenging patients to evaluate preoperatively are those with at least one cardiac risk factor and poor or uncertain functional capacity who are undergoing intermediate- or high-risk surgery. Evidence from a randomized trial suggests that preoperative stress testing is of no value in patients with only one or two cardiac risk factors.8The positive predictive value of stress testing in this population is about 20 to 40 percent, meaning that most patients with positive test results will not have an adverse perioperative cardiac event.9,10This is consistent with the finding that with optimal medical therapy, patients with minimal areas of reversible left ventricular myocardial ischemia on stress imaging have no greater incidence of perioperative cardiac events than those with no evidence of ischemia.11,12Therefore, noninvasive stress testing is best reserved for patients with three or more cardiac risk factors in whom preoperative coronary revascularization is logistically feasible and would have been considered regardless of the surgical context."
+        },
+        {
+            "parent": 2,
+            "text": "The Coronary Artery Revascularization Prophylaxis (CARP) trial was the first large (n = 5,859) randomized study designed to determine whether prophylactic coronary revascularization before major vascular surgery reduced perioperative cardiac events more than optimal pharmacologic management.13No difference in all-cause mortality was observed at a median follow-up of 2.7 years, and no difference was found in the incidence of postoperative myocardial infarction (MI). One criticism of the CARP trial is that the selection criteria excluded too many high-risk patients. To address this issue, the Dutch Echocardiographic Cardiac Risk Evaluation Applying Stress Echocardiography (DECREASE-V) trial included patients undergoing vascular surgery who had significant cardiac risk factors and evidence of extensive ischemia.14Based on the composite end point of all-cause mortality and nonfatal MI, preoperative revascularization conferred no benefit(Table 4).13–15These results are consistent with a study that showed no incremental benefit from prophylactic percutaneous coronary intervention (PCI) when added to rigorous medical therapy in nonsurgical patients with stable angina.16"
+        },
+        {
+            "parent": 2,
+            "text": "Revascularization may not confer the expected protective effect because it does not prevent rupture of vulnerable plaques, and this mechanism probably accounts for a large percentage of perioperative cardiac events.17It also explains the poor correlation between areas of ischemia detected on pre-operative cardiac stress testing and locations of subsequent perioperative MI.18,19"
+        },
+        {
+            "parent": 3,
+            "text": "Coronary revascularization can be accomplished by PCI or coronary artery bypass graft (CABG). In most studies on preoperative revascularization—including the CARP trial—most patients have undergone PCI.13,14However, the method of revascularization may be an important outcome determinant. To prevent thrombosis, patients with coronary stents require dual antiplatelet therapy with clopidogrel (Plavix) and aspirin. Clopidogrel therapy is required for a minimum of six weeks after placement of bare-metal stents, and for 12 months after placement of drug-eluting stents. Aspirin is recommended as lifelong therapy.2,20,21Early withdrawal of dual antiplatelet therapy is the most significant predictor of stent thrombosis.1,2,22,23Lack of adherence to these guidelines in the perioperative period poses a substantial hazard to patients with a history of recent PCI."
+        },
+        {
+            "parent": 3,
+            "text": "Incomplete revascularization is more common after PCI compared with CABG.24,25In a reanalysis of CARP data, patients who underwent CABG had lower rates of perioperative MI compared with those who underwent PCI, a finding attributed to more thorough revascularization in the CABG group.26PCI is also well-suited to correcting isolated areas of coronary occlusion. However, rupture of nonocclusive unstable plaques is a significant mechanism of perioperative myocardial injury. Although CABG may be somewhat protective if these lesions are bypassed, no similar benefit would be expected from PCI.27"
+        },
+        {
+            "parent": 3,
+            "text": "Based on the current literature, there are no specific indications for preoperative coronary revascularization. However, patients with high-risk coronary anatomy who would otherwise benefit from CABG should generally be advised to undergo revascularization before elective intermediate- or high-risk surgery. Prophylactic PCI confers no benefit except in patients with evidence of unstable coronary artery disease. In addition, pre-operative PCI introduces the challenge of managing dual antiplatelet therapy in the perioperative period."
+        },
+        {
+            "parent": 4,
+            "text": "Pharmacologic optimization is a useful cardiac risk reduction strategy in appropriately selected patients. It is thought to reduce risk by optimizing the ratio of myocardial oxygen supply:demand; by maximizing the stability of coronary plaques; and by reducing thrombus formation. Three classes of medications are used: antihypertensives, lipid-lowering drugs, and antiplatelet agents(Table 5).1,2,28–33Beta blockers, statins, and aspirin are the most thoroughly studied agents."
+        },
+        {
+            "parent": 5,
+            "text": "The use of perioperative beta blockers is one of the most controversial topics in perioperative medicine. Most evidence suggests that perioperative beta blockade reduces the risk of MI and cardiac death. However, enthusiasm for perioperative beta blockade was significantly tempered in 2008 after results of the Perioperative Ischemic Evaluation (POISE) trial were published.34This trial randomized more than 8,000 patients to treatment with fixed-dose extended-release metoprolol (Toprol XL) or placebo initiated immediately before surgery. Although beta-blocker therapy reduced the risk of nonfatal MI and cardiac death, overall mortality and stroke risk increased, possibly because of drug-induced hypotension.34These findings caused the ACC and AHA to publish a focused update in which the only class I recommendation for perioperative beta blockade was that it be continued in patients who were already receiving chronic beta-blocker therapy.28Although perioperative beta blockade could still be considered in patients with inducible ischemia, coronary artery disease, or multiple cardiac risk factors, the ACC/ AHA update emphasized the mixed evidence and potential hazards of rigorous treatment."
+        },
+        {
+            "parent": 5,
+            "text": "New research is beginning to define the safest and most effective use of perioperative beta blockade. A recent cohort study found that acute preoperative beta blockade in a beta-blocker–naive population resulted in worse cardiac outcomes compared with a matched cohort receiving chronic beta-blocker therapy.35This effect was not related to an increased stroke risk, but to an increased occurrence of MI and cardiac death. It has been suggested that in addition to reducing myocardial oxygen demand, beta blockers have anti-inflammatory properties that contribute to plaque stabilization. The onset of these effects is delayed, which may be why studies in which beta blockers have been initiated immediately before surgery have not shown the therapeutic benefit observed when they are started at least two weeks before surgery.36Early preoperative initiation of beta blockers also allows time for gradual dose adjustments and identification and management of adverse effects."
+        },
+        {
+            "parent": 5,
+            "text": "A study using a large administrative database found that the effect of perioperative beta blockers differed depending on the patient's underlying clinical risk profile.37In patients with a Revised Cardiac Risk Index score of at least 3, administration of beta blockers reduced the odds of in-hospital mortality. However, in lower-risk patients, administration of beta blockers had no effect or increased the risk of in-hospital death."
+        },
+        {
+            "parent": 6,
+            "text": "In addition to their lipid-lowering ability, statins reduce vascular inflammation, improve endothelial function, and stabilize atherosclerotic plaques—so-called pleotropic effects. The results of several clinical trials and a meta-analysis provide strong evidence that perioperative statin therapy reduces cardiovascular risk in patients undergoing vascular surgery.38–44In the DECREASE-III trial, administration of fluvastatin (Lescol) reduced the incidence of perioperative MI, in addition to 30-day nonfatal MI and cardiac death.43The number needed to treat was 13 to prevent one occurrence of myocardial ischemia, 36 to prevent one nonfatal MI, and 42 to prevent one cardiac death. There is no evidence that perioperative statin use is associated with an increase in adverse events, including rhabdomyolysis or liver dysfunction.43,45"
+        },
+        {
+            "parent": 6,
+            "text": "There is a rebound effect with abrupt cessation of statin therapy, during which the risk of cardiovascular events sharply increases.46,47For this reason, the perioperative use of an extended-release formulation is advisable because no intravenous statin is available. Extended-release versions of lovastatin (Altoprev) and fluvastatin are available. Ideally, statins should be initiated several weeks before surgery for maximal anti-inflammatory and plaque-stabilizing benefits.29,30However, benefits have been observed from statin initiation in the immediate preprocedural period.48"
+        },
+        {
+            "parent": 7,
+            "text": "Aspirin causes irreversible inactivation of cyclooxygenase 1 and 2, which reduces prostaglandin and thromboxane production and results in antiplatelet and anti-inflammatoryeffects. Unstable coronary plaques are associated with inflammatory mediators and platelet accumulation, hence the benefit of aspirin in the treatment of acute coronary syndrome and secondary prevention of coronary artery disease. In a meta-analysis of patients receiving aspirin as secondary prevention, discontinuation resulted in a threefold increase in the risk of adverse cardiac events.49Among patients with coronary stents, cessation of aspirin therapy resulted in a 90-fold increase in complications.49Aspirin withdrawal has been implicated as a causal factor in up to 10 percent of adverse perioperative cardiovascular events occurring an average of 10 days after aspirin cessation.50,51"
+        },
+        {
+            "parent": 7,
+            "text": "Aspirin increases surgical bleeding by approximately 20 percent.33However, concern over hemorrhagic complications is not supported by evidence from clinical trials. A meta-analysis of studies comparing surgical bleeding in patients taking low-dose aspirin with that of patients who were not taking aspirin found no difference in severity of bleeding events (with the exception of intracranial surgery and possibly transurethral prostatectomy) or mortality.50Therefore, in most cases, aspirin therapy should be continued in the perioperative period. Communication between the primary care physician and surgeon is essential in weighing the cardiovascular risks of aspirin cessation against the bleeding risks of aspirin continuation."
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources:Medline searches were completed using the keyword combinations perioperative period OR perioperative care AND risk assessment; perioperative period OR perioperative care AND adrenergic beta-antagonists– therapeutic use; perioperative period OR perioperative care AND hydroxymethylglutaryl-CoA reductase inhibitors– therapeutic use; perioperative period OR perioperative care AND aspirin–therapeutic use. The search identified practice guidelines, meta-analyses, clinical trials, and review articles. UpToDate and the Essential Evidence Plus and Clinical Evidence databases were also used. Search dates: April 10 to 25, 2011.Editor's Note: Dr. Don Poldermans, the author of several publications cited in this article and chair of the European Society of Cardiology Task Force responsible for the “Guidelines for Pre-operative Cardiac Risk Assessment and Perioperative Cardiac Management in Non-cardiac Surgery,”1was recently dismissed by Erasmus Medical Center in the Netherlands over allegations of scientific misconduct. Dr. Poldermans has been accused of using patient data without written consent and submitting scientific reports that contained knowingly unreliable data. If these allegations are proven, it is not expected that they will require retraction of the bulk of Dr. Polderman's published works. However, investigation is ongoing, and it is possible that the results of this inquiry may require a reexamination of the evidence on the use of perioperative beta blockers in high-risk patients."
+        }
+    ],
+    "locked": false
+}

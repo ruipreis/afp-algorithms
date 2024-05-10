@@ -1,0 +1,148 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2011/0501/p1067.html#afp20110501p1067-f1",
+    "title": "Croup: An Overview | AAFP",
+    "author": "ROGER ZOOROB, MD, MPH, MOHAMAD SIDANI, MD, MS, AND JOHN MURRAY, MD, PhD",
+    "doi": "Am Fam Physician.2011;83(9):1067-1073",
+    "abstract": "Croup is a common illness responsible for up to 15 percent of emergency department visits due to respiratory disease in children in the United States. Croup symptoms usually start like an upper respiratory tract infection, with low-grade fever and coryza followed by a barking cough and various degrees of respiratory distress. In most children, the symptoms subside quickly with resolution of the cough within two days. Croup is often caused by viruses, with parainfluenza virus (types 1 to 3) as the most common. However, physicians should consider other diagnoses, including bacterial tracheitis, epiglottitis, foreign body aspiration, peritonsillar abscess, retropharyngeal abscess, and angioedema. Humidification therapy has not been proven beneficial. A single dose of dexamethasone (0.15 to 0.60 mg per kg usually given orally) is recommended in all patients with croup, including those with mild disease. Nebulized epinephrine is an accepted treatment in patients with moderate to severe croup. Most episodes of croup are mild, with only 1 to 8 percent of patients with croup requiring hospital admission and less than 3 percent of admitted patients requiring intubation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Course and Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "DIFFERENTIAL DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "GENERAL CARE",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "HUMIDIFICATION THERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CORTICOSTEROIDS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "EPINEPHRINE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Croup is a syndrome that includes spasmodic croup (recurrent croup), laryngotracheitis (viral croup), laryngotracheobronchitis, and laryngotracheobronchopneumonitis.1,2However, recurrent and viral croup account for most cases.3,4Croup is a common respiratory illness responsible for up to 15 percent of emergency department visits due to respiratory disease in children in the United States.3"
+        },
+        {
+            "parent": 0,
+            "text": "Croup is more common in boys than in girls, usually occurs between six and 36 months of age, and peaks during the second year of life.2,5,6It has been reported occasionally in adolescents and rarely in adults.7The incidence of croup often peaks during the fall season, although sporadic cases may occur throughout the year.8,9"
+        },
+        {
+            "parent": 1,
+            "text": "Croup is usually caused by viruses, which are detected in up to 80 percent of patients.3,10Table 1shows various presentations of croup based on the causative virus.3,10,11Parainfluenza virus (types 1 to 3) is the most common etiology (50 to 75 percent of patients with croup).10Of the three types, parainfluenza type 1 is the most common.10Although parainfluenza type 3 virus infections often occur in young children,3croup develops in only a small percentage of those exposed.12Other viruses that cause croup include enterovirus, human bocavirus, influenza A and B viruses, respiratory syncytial virus, rhinovirus, and adenovirus.10Measles has been reported rarely in patients with croup where the population is inadequately vaccinated. Bacterial causes are also rare and include diphtheria andMycoplasma pneumoniae.13"
+        },
+        {
+            "parent": 1,
+            "text": "Allergic factors may play a role in recurrent croup, with the child becoming sensitized to viral antigens.12Another cause of recurrent croup is gastroesophageal reflux. An uncontrolled study of 47 patients with recurrent croup found that treatment of reflux improved respiratory symptoms.14"
+        },
+        {
+            "parent": 2,
+            "text": "Viral croup symptoms usually start like an upper respiratory tract infection, with low-grade fever and coryza followed by a barking cough and various degrees of respiratory distress (e.g., nasal flaring, respiratory retractions, stridor).7,11The symptoms subside quickly with resolution of the cough usually within two days, although the cough may persist for up to one week.9Symptoms can increase and decrease in the same child, becoming worse at night and when the child is agitated.9Symptoms also vary from child to child based on host factors, such as immunity and the anatomy of the subglottic space."
+        },
+        {
+            "parent": 2,
+            "text": "Croup is a benign condition with a low mortality rate.9,15,16It typically does not lead to high-grade fever; toxic appearance; or symptoms such as expiratory wheezing, drooling, voice loss, or difficulty swallowing. Croup rarely occurs in children younger than three months.17Many children with croup may come to the emergency department because symptoms begin abruptly, causing parental concern. Studies of children presenting to the emergency department with croup symptoms showed that 85 percent had mild croup,18and only 1 to 8 percent needed hospital admission.15,16Less than 3 percent of children with croup who were admitted to the hospital were intubated.15"
+        },
+        {
+            "parent": 4,
+            "text": "Recurrent croup is similar to viral croup in presentation, except that it recurs and lacks symptoms of respiratory tract infection.19A small study of 60 patients with croup presenting to an emergency department in Wales showed that recurrent and nonrecurrent croup have similar rates of viral detection.20Bacterial tracheitis may result from a secondary infection and usually leads to a more toxic appearance, with higher fever and worse respiratory symptoms than croup. Bacterial tracheitis does not respond to usual croup treatment. Intravenous antibiotics are needed, and intubation may become necessary. Acute epiglottitis typically leads to a more toxic appearance than croup. The classic presentation of epiglottitis is an anxious child with a sore throat who is drooling and sitting or leaning forward; the characteristic barking cough of croup is typically absent.8"
+        },
+        {
+            "parent": 4,
+            "text": "A retrospective study of patients with croup, epiglottitis, and bacterial tracheitis showed the increasing importance of considering bacterial tracheitis in the differential diagnosis of severe respiratory illness.21Immunization againstHaemophilus influenzaetype b has contributed to the decreased incidence of epiglottitis, and the early use of corticosteroids has decreased the incidence of respiratory distress in patients with croup. Hence, physicians should consider bacterial tracheitis when treating patients with severe respiratory symptoms suggestive of croup or epiglottitis.21Other diagnoses to consider include foreign body aspiration, peritonsillar abscess, retropharyngeal abscess, and angioedema. The differential diagnosis of children with severe respiratory symptoms is summarized inTable 2.3,8,19–21"
+        },
+        {
+            "parent": 5,
+            "text": "The diagnosis of croup is based on clinical assessment. Abrupt onset of barking cough, hoarseness, and inspiratory stridor is highly suggestive of croup.17Physical examination typically reveals low-grade fever and the absence of wheezing. Diagnosis also involves closely assessing the severity of croup by evaluating respiratory status and rate, retractions, stridor, heart rate, use of accessory muscles, and mental status.17Although severity assessment scores occasionally have been used clinically, they are primarily for research purposes.9Validation studies in the emergency department setting have shown a wide range of interobserver reliability among physicians using the assessment scores.22The most reliable findings to assess severity are the presence of stridor and the severity of retractions.22Pulse oximetry can also be used to assess the severity of disease."
+        },
+        {
+            "parent": 6,
+            "text": "Laboratory and imaging evaluation are not essential, but may be used to rule out other illnesses in selected patients with an atypical or severe presentation. Although chest radiography cannot diagnose croup, it can rule out other pulmonary conditions when the diagnosis is unclear in a child with stridor.17A Cochrane review of two randomized trials with a total of 2,024 patients found that chest radiography did not change the outcome of ambulatory children with lower respiratory tract infection. Therefore, physicians should consider the risk and expense of radiography versus its possible benefit before ordering the test.23"
+        },
+        {
+            "parent": 6,
+            "text": "Lateral neck radiography may be considered if the diagnosis is in doubt because it could help detect epiglottitis (thickened epiglottis), retropharyngeal abscess (widening of the retropharyngeal soft tissues), and bacterial tracheitis (thickened trachea).8Bronchoscopy may be needed in patients with recurrent croup, especially those younger than three years. In a series of 30 patients who underwent endoscopy for recurrent croup, one-third had airway disorders such as subglottic edema, stenosis, or cyst.24Endoscopy may also be needed in patients with recurrent croup.14"
+        },
+        {
+            "parent": 8,
+            "text": "Figure 1is an algorithm for outpatient management of croup based on illness severity.25–34Keeping a symptomatic child calm by avoiding distressing procedures is important because agitation may worsen airway obstruction. Positioning the child so that he or she is comfortable is appropriate because no particular position has been shown to be more beneficial in the assessment. Oxygen should be administered when the child is hypoxic or in severe respiratory distress. Heliox, a helium-oxygen mixture, has been used to reduce airflow resistance and turbulence. Although case reports have been encouraging, a systematic review found insufficient evidence that heliox is beneficial for croup.35Likewise, studies do not support the routine use of exposure to cold air, antipyretics, analgesics, antitussives, decongestants, or prophylactic antibiotics."
+        },
+        {
+            "parent": 9,
+            "text": "Humidification therapy has long been used as a treatment for croup. However, it has not been shown to reduce croup severity, hospitalization, additional medical care, or epinephrine and corticosteroid use in patients with mild to moderate illness in the emergency department—even if delivered with a particle size that could reach the larynx.25–27If oxygen is administered (preferably using a blow-by technique) to reduce agitation, humidification should be considered to avoid inspissation of secretions. Heated humidification should not be used because of the risk of scalding the child. Use of croup tents should be avoided so that the child can stay in the lap of a parent or caregiver, and to avoid hindering the clinical assessment (e.g., obtaining vital signs)."
+        },
+        {
+            "parent": 10,
+            "text": "Corticosteroid therapy benefits patients with croup presumably by decreasing edema in the laryngeal mucosa, and is usually effective within six hours of treatment. Corticosteroid therapy decreases the need for additional medical care, hospital stays, and intubation rates and duration. A recent randomized controlled trial found that a single dose of an oral corticosteroid benefited children with mild croup.29Therefore, corticosteroids should be considered even for mild illness.28,29"
+        },
+        {
+            "parent": 10,
+            "text": "The optimal type of corticosteroid, route of administration, and dose are unclear. Oral and intramuscular administration provide similar degrees of benefit, and both are equivalent or superior to inhaled corticosteroids. However, the addition of inhaled corticosteroids to either systemic therapy does not provide further benefit.30,31,36,37Oral corticosteroids are the preferred route unless oral intake is not possible. In very sick children who need a parenteral route, intravenous administration may be better than intramuscular administration because the intravenous line could also be used for resuscitation and other therapies as needed. Intramuscular corticosteroids are typically used when intravenous and oral administration are not feasible."
+        },
+        {
+            "parent": 10,
+            "text": "Based on expert opinion and consensus, dexamethasone is the recommended corticosteroid for treatment of croup because of its longer half-life (a single dose provides anti-inflammatory effects over the usual symptom duration of 72 hours).32Benefit has generally been demonstrated at doses of 0.15 to 0.60 mg per kg.33A systematic review found that the higher dose of 0.60 mg per kg (maximal dose: 10 mg) was more effective in patients with severe croup.34Until the optimal dose of dexamethasone is defined, the higher dose is preferred because of its safety, benefit, and cost-effectiveness.28Multiple doses are not necessary because a single dose was effective in most clinical trials. However, no randomized controlled trials have compared multiple versus single dosing. If continued therapy is required, other causes for airway obstruction or respiratory distress should be considered."
+        },
+        {
+            "parent": 10,
+            "text": "No adverse effects have been associated with appropriate corticosteroid therapy in patients with croup. The risks of single-dose corticosteroids are very low, but should be considered in children with diabetes mellitus, children exposed to varicella virus, and children at risk of bacterial superinfection (i.e., those who are immunocompromised) or have gastrointestinal bleeding."
+        },
+        {
+            "parent": 11,
+            "text": "A number of small randomized controlled trials have shown that nebulized epinephrine is an effective treatment for moderate to severe croup, with benefits such as reduction in croup severity, various objective pathophysiologic measures, and need for intubation.38–46The recommended dose is 0.05 mL per kg (maximal dose: 0.5 mL) of racemic epinephrine 2.25% or 0.5 mL per kg (maximal dose: 5 mL) of L-epinephrine 1:1,000 via nebulizer, which may be available in clinical settings along with other resuscitation supplies. Using a nebulizer is equally as effective as using intermittent positive pressure ventilation.47Although the adverse effects (e.g., tachycardia, hypertension) are thought to be less with racemic epinephrine, there are no data to support this.48Children requiring frequent epinephrine nebulizer treatments should be monitored closely for adverse cardiac effects."
+        },
+        {
+            "parent": 11,
+            "text": "With either form of epinephrine, therapeutic benefit usually occurs within the first 30 minutes. Because this benefit typically lasts up to two hours, it may be best to evaluate for disposition several hours following the last epinephrine treatment. The rapid action of epinephrine paired with the later onset and sustained action of corticosteroid treatment justifies the consideration of dual therapy.49"
+        }
+    ],
+    "locked": false
+}

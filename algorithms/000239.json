@@ -1,0 +1,235 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0101/p22.html#afp20170101p22-f4",
+    "title": "Esophageal Cancer | AAFP",
+    "author": "MATTHEW W. SHORT, LTC, MC, USA, KRISTINA G. BURGERS, MAJ, MC, USA, AND VINCENT T. FRY, MAJ, MC, USA",
+    "doi": "Am Fam Physician.2017;95(1):22-28",
+    "abstract": "Esophageal cancer has a poor prognosis and high mortality rate, with an estimated 16,910 new cases and 15,910 deaths projected in 2016 in the United States. Squamous cell carcinoma and adenocarcinoma account for more than 95% of esophageal cancers. Squamous cell carcinoma is more common in nonindustrialized countries, and important risk factors include smoking, alcohol use, and achalasia. Adenocarcinoma is the predominant esophageal cancer in developed nations, and important risk factors include chronic gastroesophageal reflux disease, obesity, and smoking. Dysphagia alone or with unintentional weight loss is the most common presenting symptom, although esophageal cancer is often asymptomatic in early stages. Physicians should have a low threshold for evaluation with endoscopy if any symptoms are present. If cancer is confirmed, integrated positron emission tomography and computed tomography should be used for initial staging. If no distant metastases are found, endoscopic ultrasonography should be performed to determine tumor depth and evaluate for nodal involvement. Localized tumors can be treated with endoscopic mucosal resection, whereas regional tumors are treated with esophagectomy, neoadjuvant chemotherapy, chemoradiotherapy, or a combination of modalities. Nonresectable tumors or tumors with distant metastases are treated with palliative interventions. Specific prevention strategies have not been proven, and there are no recommendations for esophageal cancer screening.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Squamous Cell Carcinoma of the Esophagus",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Esophageal Adenocarcinoma",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Staging",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "STAGING CLASSIFICATION SYSTEM",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "POSITRON EMISSION AND COMPUTED TOMOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ENDOSCOPIC ULTRASONOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "OTHER STAGING PROCEDURES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "LOCALIZED TUMORS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "REGIONAL TUMORS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "DISTANT TUMORS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Prevention and Screening",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Esophageal cancer is the eighth most common cancer worldwide. Nearly four out of five cases occur in nonindustrialized nations, with the highest rates in Asia and Africa.1,2The National Cancer Institute estimates that in 2016, there will be 16,910 new cases and 15,910 deaths from esophageal cancer in the United States.3"
+        },
+        {
+            "parent": -1,
+            "text": "Esophageal cancer is associated with a poor prognosis. Despite advances in diagnosis and treatment, the overall five-year survival rate for persons with esophageal cancer is 15% to 20% worldwide and in the United States.4"
+        },
+        {
+            "parent": -1,
+            "text": "In a cohort study of 11,028 patients with low- and high-grade dysplasia Barrett esophagus, the overall incidence of esophageal adenocarcinoma was 0.12% per year."
+        },
+        {
+            "parent": -1,
+            "text": "Antireflux surgery appears to have minimal benefit in preventing esophageal cancer."
+        },
+        {
+            "parent": -1,
+            "text": "A Cochrane review of 53 studies evaluating palliation for dysphagia showed that self-expanding metal stents are safe, effective, and provide quicker relief than brachytherapy, radiotherapy, esophageal bypass surgery, and chemotherapy."
+        },
+        {
+            "parent": -1,
+            "text": "The two main subtypes of esophageal cancer are squamous cell carcinoma and adenocarcinoma. These subtypes account for more than 95% of malignant esophageal tumors. Rare subtypes of esophageal cancer, which are not discussed in this article, include lymphomas, melanomas, carcinoid tumors, and sarcomas.5"
+        },
+        {
+            "parent": 0,
+            "text": "Squamous cell carcinoma is the most common subtype of esophageal cancer outside of the United States, accounting for 90% of cases worldwide.6The highest rates occur in China, Central Asia, and East and South Africa.2The incidence of squamous cell carcinoma in the United Sates is approximately three per 100,000 person-years.7The incidence is consistent between sexes, is higher among blacks, and peaks from 60 to 70 years of age.8Important risk factors for esophageal squamous cell carcinoma include smoking, alcohol use, and achalasia9,10(Table 18–15)."
+        },
+        {
+            "parent": 1,
+            "text": "Esophageal adenocarcinoma is the predominant type of esophageal cancer in North America and Europe6(Figure 1,Figure 2, andFigure 3). According to 2013 data from the National Cancer Institute, most cases occur in adults older than 50 years, and the incidence among persons 65 years and older is 11.8 to 16.3 per 100,000 person-years, with an eightfold higher risk in men compared with women and a fivefold higher risk in whites compared with blacks3(Table 18–15)."
+        },
+        {
+            "parent": 1,
+            "text": "Major risk factors for esophageal adenocarcinoma include gastroesophageal reflux disease, obesity, and smoking.12–14Barrett esophagus is a known precursor disease to esophageal adenocarcinoma with a low rate of conversion. A cohort study of 11,028 patients with low- and high-grade dysplasia Barrett esophagus followed over a five-year period showed that the overall incidence of esophageal adenocarcinoma was 0.12% per year.16"
+        },
+        {
+            "parent": 1,
+            "text": "A 41% reduced risk of esophageal adenocarcinoma has been observed among persons withHelicobacter pyloriinfection.17It is believed that gastric acid secretions that contribute to reflux disease and Barrett esophagus are reduced as a result of gastric mucosa atrophy caused byH. pylori.18This association is still under investigation, and treatment ofH. pyloriinfection continues to be recommended in accordance with American College of Gastroenterology guidelines."
+        },
+        {
+            "parent": 2,
+            "text": "Esophageal cancer is often asymptomatic in the early stages. Patients with advanced disease may present with progressive dysphagia (solids first, followed by liquids as the disease progresses), unintentional weight loss (10% or more in the preceding three to six months), odynophagia (painful swallowing, often noticed initially with dry foods), new-onset dyspepsia, heartburn unresponsive to medication, chest pain, or signs of blood loss."
+        },
+        {
+            "parent": 2,
+            "text": "Of these symptoms, dysphagia alone or combined with unintentional weight loss is the most common presentation in patients with esophageal cancer. Uncommon findings include cervical adenopathy, hematemesis, hemoptysis, or hoarseness from recurrent nerve involvement, which is present in less than 10% of patients at the time of diagnosis.19"
+        },
+        {
+            "parent": 3,
+            "text": "The Society of Thoracic Surgeons and the National Comprehensive Cancer Network (NCCN) recommend that patients with the clinical presentation described previously undergo upper endoscopy as the initial diagnostic evaluation to exclude esophageal cancer20,21(Figure 420–23). Other indications warranting endoscopy include persistent upper abdominal symptoms despite medical therapy and upper abdominal symptoms in patients older than 45 years.24"
+        },
+        {
+            "parent": 3,
+            "text": "Chromoendoscopy (topical application of stains to improve visualization of different mucosal tissues) and narrow band imaging (use of blue and green light to improve visualization of blood vessels and other mucosal features) are often used during endoscopy to improve identification of suspicious lesions. Biopsies of suspicious lesions should be performed, but if esophageal stricture prevents adequate biopsies, brush cytology can also be used.25Barium studies should be reserved for patients unable to undergo upper endoscopy.15"
+        },
+        {
+            "parent": 4,
+            "text": "Staging usually involves multiple modalities in a stepwise approach and should be tailored to the patient as well as the experience of the clinicians and institution providing care.20The diagnostic, staging, and treatment approach for patients with suspected esophageal cancer is outlined inFigure 4.20–23"
+        },
+        {
+            "parent": 5,
+            "text": "Accurate staging is important to establish the best treatment options. The most recent edition of the American Joint Committee on Cancer'sCancer Staging Manualreleased in 2010 continues to use the tumor-node-metastasis classification but also includes other prognostic variables.26This edition incorporates a histologic grade (G) criteria and has a separate staging group for each type of esophageal cancer(Table 2).26"
+        },
+        {
+            "parent": 6,
+            "text": "After the diagnosis is confirmed with endoscopic biopsies, additional laboratory studies may be helpful in evaluating the tumor stage. The NCCN recommends evaluating for anemia with a complete blood count, which will influence therapy if the patient requires chemotherapy. The NCCN also recommends checking for elevated hepatic transaminase or alkaline phosphatase levels, which suggest liver or bone metastases, respectively.21"
+        },
+        {
+            "parent": 6,
+            "text": "The use of serum tumor markers (i.e., antibodies to tumor-associated antigens) is under investigation and is not currently recommended for decision making in patients with local or regional disease.20However, patients with documented or suspected metastatic esophageal junction cancer may be candidates for trastuzumab (Herceptin) therapy and should be assessed forHER2/neuoverexpression.21"
+        },
+        {
+            "parent": 7,
+            "text": "Positron emission tomography (PET) and computed tomography (CT) have specific roles in providing important staging information. CT is more sensitive than PET for evaluating local-regional lesions.27Chest and abdominal CT with intravenous and oral contrast media should be ordered as the initial tests to evaluate mediastinal involvement, lung parenchyma, and liver metastasis. PET, however, is superior to CT for detecting distant metastatic sites.27Both studies together (integrated PET/CT) have a sensitivity of 69% to 78% and a specificity of 82% to 88% for detecting all metastases.28"
+        },
+        {
+            "parent": 8,
+            "text": "If there are no distant metastases, endoscopic ultrasonography should be performed to determine the tumor depth of invasion and nodal involvement, which are both useful in providing prognostic information and guiding treatment options.29The sensitivity and specificity of endoscopic ultrasonography for determining invasion range from 82% to 87% compared with 73% to 78% for standard endoscopy with narrow band imaging.30"
+        },
+        {
+            "parent": 8,
+            "text": "In experienced centers, fine-needle aspiration of adjacent lymph nodes can be performed during the endoscopic ultrasonography.22In addition, endoscopic mucosal resection of noncircumferential lesions smaller than 2 cm in diameter can provide prognostic information for staging and is potentially curative.21,22,31"
+        },
+        {
+            "parent": 9,
+            "text": "Additional staging options for more advanced local-regional disease include laparoscopy and thoracoscopy."
+        },
+        {
+            "parent": 10,
+            "text": "There are many treatment options for squamous cell carcinoma and adenocarcinoma of the esophagus depending on the stage at diagnosis. Curative surgical therapy, chemotherapy, and chemoradiotherapy have all been shown to increase survival and improve the health-related quality of life for patients(Table 33,22,26,31)."
+        },
+        {
+            "parent": 11,
+            "text": "Mucosal-based tumors are limited to the mucosa (stage 0) or may invade the lamina propria without lymph node or distant involvement (stage I). The risk of lymphatic spread in these tumors is less than 2%, and endoscopic mucosal resection is the treatment of choice, especially for noncircumferential tumors less than 2 cm in diameter.22,31Endoscopic mucosal resection successfully removes 91% to 98% of T1a cancers.32"
+        },
+        {
+            "parent": 11,
+            "text": "Esophagectomy with lymphadenectomy is the treatment of choice for stage T1b tumors (extend through the muscularis mucosae and enter the submucosa) because there is a 20% risk of lymph node spread.33The five-year survival rate for local disease is 41%.3"
+        },
+        {
+            "parent": 12,
+            "text": "For patients with potentially curable localized tumors (stage IIA/IIB), surgical resection via esophagectomy is the primary treatment. The optimal approach (thoracic vs. transhiatal) and technique (open vs. minimally invasive) have yet to be determined; randomized trials are needed to clarify outcomes in terms of survival and health-related quality of life. Currently, the risk of serious postoperative complications for all approaches and techniques is 30% to 50%, and in-hospital mortality is about 5%. Possible complications include anastomotic strictures and leaks causing pulmonary morbidities, recurrent laryngeal nerve injury, gastric outlet obstruction (esophagectomy with gastric reconstruction), and chylothorax.34Outcomes appear to depend on the experience and volume of the surgeon and health care facility; for this reason, esophagectomies are increasingly performed at a few high-volume specialty centers.22,35"
+        },
+        {
+            "parent": 12,
+            "text": "Advanced regional disease (stage III) often requires a more aggressive approach with perioperative chemotherapy. Neoadjuvant (before surgery) chemotherapy or chemoradiotherapy compared with esophagectomy alone has shown a two-year survival benefit of 5.1% with neoadjuvant chemotherapy (number needed to treat = 19) and 8.7% with chemoradiotherapy (number needed to treat = 11).36Neoadjuvant chemotherapy and chemoradiotherapy are especially beneficial in adenocarcinoma.22Adjuvant (after surgery) chemotherapy may be beneficial for patients with squamous cell carcinoma. For patients who experience residual or recurrent disease after complete resection, there is no good evidence for or against the use of chemotherapy or chemoradiotherapy. Occasionally, chemotherapy or chemoradiotherapy is used without surgery in patients who have resectable disease but are poor surgical candidates.29The five-year survival rate for regional disease is 23%.3"
+        },
+        {
+            "parent": 13,
+            "text": "Up to 75% of esophageal adenocarcinomas are too advanced for curative therapy at the time of diagnosis.35Overall, the five-year survival rate for patients with distant metastases is only 5%.3"
+        },
+        {
+            "parent": 13,
+            "text": "For those with stage IV esophageal cancer or whose disease is nonresectable, palliative strategies include chemotherapy, esophageal stents, brachytherapy (local radiotherapy), surgical placement of jejunostomy or gastrostomy tubes, and esophageal bypass surgery."
+        },
+        {
+            "parent": 13,
+            "text": "A Cochrane review of 53 studies evaluating various options of palliation for dysphagia showed that self-expanding metal stents are safe, effective, and provide quicker relief than brachytherapy, radiotherapy, esophageal bypass surgery, and chemotherapy.37Self-expanding metal stents are recommended over other modalities and are often used in conjunction with brachytherapy and radiotherapy to reduce risk of reintervention."
+        },
+        {
+            "parent": 13,
+            "text": "Chemotherapy seems to offer greater benefit in squamous cell carcinoma than in adenocarcinoma; however, it may prolong life by only a few months.22"
+        },
+        {
+            "parent": 13,
+            "text": "Trastuzumab in combination with other chemotherapies (except anthracyclines) has also been shown to extend survival by a few months in patients withHER2/neugene overexpression.38"
+        },
+        {
+            "parent": 14,
+            "text": "Some studies have shown a decreased risk of esophageal cancer with the use of proton pump inhibitors,39aspirin or nonsteroidal anti-inflammatory drugs,40and statins.41Other studies, however, have not shown benefit. No recommendations exist to support use of these medications for the sole purpose of cancer prevention. Antireflux surgery also appears to have minimal benefit in preventing esophageal cancer.42Antioxidants and mineral supplements have not been shown to decrease the risk of gastrointestinal cancers, including esophageal cancers.22,43Attempts to reduce the risk factors of obesity and smoking have not been rigorously evaluated in the setting of esophageal cancer prevention. Nonetheless, primary care physicians should make lifestyle recommendations on the basis of promoting overall health."
+        },
+        {
+            "parent": 14,
+            "text": "There are no recommendations for screening for esophageal cancer in the general population. Cancer surveillance guidelines exist for patients known to have Barrett esophagus.23"
+        },
+        {
+            "parent": 14,
+            "text": "This article updates a previous article on this topic by Layke and Lopez.15"
+        },
+        {
+            "parent": 14,
+            "text": "Data Sources:A Pub Med search was completed in Clinical Queries using the key terms Barrett esophagus, esophageal carcinoma, and esophageal neoplasm. The search included meta-analyses, randomized controlled trials, control trials, and reviews. Searches were also performed using Clinical Rules, the Cochrane database, Essential Evidence Plus, National Institute for Health and Care Excellence guidelines, and DynaMed. Search dates: May 3, 2015, and September 16, 2016."
+        },
+        {
+            "parent": 14,
+            "text": "The views expressed are those of the authors and do not reflect the official policy of the Department of the Army, the Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

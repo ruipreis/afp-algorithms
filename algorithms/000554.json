@@ -1,0 +1,182 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/0601/p976.html#afp20090601p976-f1",
+    "title": "Treatment of Nursing Home–Acquired Pneumonia | AAFP",
+    "author": "KYLE MILLS, PharmD, BCPS, A. CHRISTIE NELSON, PharmD, BRADFORD T. WINSLOW, MD, FAAFP, AND KATHRYN LEE SPRINGER, MD",
+    "doi": "Am Fam Physician.2009;79(11):976-982",
+    "abstract": "Pneumonia is an important cause of morbidity and mortality in nursing home residents, with 30-day mortality rates ranging from 10 to 30 percent.Streptococcus pneumoniaeis the most common cause of nursing home–acquired pneumonia, althoughStaphylococcus aureusand gram-negative organisms may be more common in severe cases. Antibiotic therapy for nursing home–acquired pneumonia should target a broad range of organisms, and drug-resistant microbes should be considered when making treatment decisions. In the nursing home setting, treatment should consist of an antipneumococcal fluoroquinolone aloneoreither a high-dose beta-lactam/beta-lactamase inhibitor or a second- or third-generation cephalosporin, in combination with azithromycin. Treatment of hospitalized patients with nursing home–acquired pneumonia requires broad-spectrum antibiotics with coverage of many gram-negative and gram-positive organisms, including methicillin-resistantS. aureus. Appropriate dosing of antibiotics for nursing home–acquired pneumonia is important to optimize effectiveness and avoid adverse effects. Because many nursing home residents take multiple medications, it is important to consider possible drug interactions.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "IN THE NURSING HOME SETTING",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "IN HOSPITALIZED PATIENTS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Pharmacotherapeutics",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "TIMING AND DURATION OF ANTIBIOTIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "DOSING OF ANTIBIOTICS IN THE NURSING HOME PATIENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ADVERSE EFFECTS OF ANTIMICROBIAL AGENTS IN OLDER ADULTS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "DRUG INTERACTIONS WITH ANTIMICROBIAL AGENTS IN OLDER ADULTS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Pneumonia is the second most common cause of infection in nursing home residents, and is associated with notable morbidity and mortality.1Attributable 30-day mortality rates range from 10 to 30 percent.2–4Prompt diagnosis and management are therefore essential. This article reviews the clinical management of nursing home–acquired pneumonia, with an emphasis on antimicrobial therapy."
+        },
+        {
+            "parent": 0,
+            "text": "Nursing home–acquired pneumonia is usually bacterial in origin, although the specific microbiologic cause is often not identified.5–12Common bacterial etiologies are listed inTable 1.5–12Streptococcus pneumoniaeis the most common causative agent. However, in severe cases of nursing home–acquired pneumonia requiring hospitalization and mechanical ventilation, the rates of infection withStaphylococcus aureusand enteric gram-negative organisms appear to exceed those ofS. pneumoniae.5"
+        },
+        {
+            "parent": 0,
+            "text": "These organisms can be associated with antimicrobial resistance, especially in the nursing home setting. Risk factors for infection with multidrug-resistant pathogens include antibiotic therapy within the preceding 90 days, a high incidence of antibiotic resistance in the community or facility, chronic hemodialysis, and immunosuppression.7One study found that recent antibiotic use and the inability to perform activities of daily living were independently associated with antibiotic-resistant nursing home–acquired pneumonia requiring intensive care unit (ICU) admission or mechanical ventilation.11"
+        },
+        {
+            "parent": 0,
+            "text": "Nursing home–acquired pneumonia can also be caused by viral infection (Table 15–12). Influenza and respiratory syncytial virus (RSV) are important causes of respiratory illness and mortality in nursing home residents.13,14Physicians should suspect viral etiologies from late fall through early spring, and whenever outbreaks of respiratory infection occur. Influenza predisposes patients to a secondary bacterial pneumonia.15In a population-based analysis involving 381 nursing homes over a period of four years, investigators found that each year influenza infection was associated with approximately 28 hospitalizations; 147 courses of antibiotics; and 15 deaths per 1,000 residents with heart or lung disease, diabetes mellitus, or immunosuppression. Similarly, RSV accounted for approximately 15 hospitalizations, 76 courses of antibiotics, and 17 deaths per 1,000 residents with similar conditions.13A recent report described human metapneumovirus as the cause of an outbreak of respiratory infections, including pneumonia, in a Canadian nursing home.16"
+        },
+        {
+            "parent": 1,
+            "text": "The clinical manifestations of pneumonia in older adults may be subtle. In one study, investigators found that persons 65 years and older are less likely to complain of fever, chills, myalgia, and pleuritic chest pain than younger persons.17One prospective study revealed that 80 percent of nursing home residents with pneumonia exhibit three or fewer respiratory signs or symptoms, but 92 percent have at least one identifiable respiratory manifestation, such as cough, respiratory rate of 30 breaths per minute or more, presence of crackles, or absence of wheezes on auscultation.18The 2005 American Thoracic Society/Infectious Diseases Society of America (ATS/IDSA) guideline recommends that the clinical diagnosis of health care–associated pneumonia, including nursing home–acquired pneumonia, be based on a new or progressive infiltrate on chest radiography plus clinical findings consistent with pneumonia (i.e., new-onset fever [temperature greater than 100.4° F (38° C)], leukocytosis, purulent sputum, or hypoxia).7"
+        },
+        {
+            "parent": 1,
+            "text": "The 2005 ATS/IDSA guideline also recommends that lower respiratory tract samples be obtained from nursing home residents hospitalized with nursing home–acquired pneumonia, particularly from those who are intubated, to guide treatment.7Although respiratory cultures from nonintubated patients, and from those managed in the nursing home, could be considered, it is important to note that these are infrequently obtained, tend to produce a low yield of pathogenic microorganisms, and are commonly contaminated with oropharyngeal microflora, making interpretation difficult.19,20"
+        },
+        {
+            "parent": 1,
+            "text": "Blood cultures are infrequently positive in patients with pneumonia, but may be considered in those who require intensive care. Rapid antigen tests of respiratory secretions, such as nasal washings, nasopharyngeal swabs, or throat swabs, can assist with the diagnosis of influenza and RSV during the appropriate seasons.21Urinary antigen testing forS. pneumoniaeandLegionella pneumophilaserotype 1 may be considered, although most studies examining its use have been performed in patients with community-acquired pneumonia (CAP).22–26One limitation of urinary antigen testing is the lack of information about antibiotic susceptibility. Therefore, a sputum Gram stain and culture should be considered if patients are able to generate a useful sample and the results can be obtained in time to influence therapeutic decision-making.21"
+        },
+        {
+            "parent": 1,
+            "text": "In many nursing home residents with pneumonia, a diagnosis of aspiration pneumonitis or aspiration pneumonia should be considered. Aspiration pneumonitis is an inflammatory syndrome that does not typically require antibiotic therapy,27whereas aspiration pneumonia is an infection for which antibiotic therapy should be initiated. Risk factors for these conditions include a history of stroke, dementia, gastroesophageal reflux disease, and tube-feeding requirements. Pathogens isolated from nursing home patients with severe aspiration pneumonia have included enteric gram-negative bacteria,S. aureus, and anaerobes.6The results of a recent prospective cohort study validated a new algorithm for diagnosis of aspiration pneumonitis versus aspiration pneumonia (Figure 1).28"
+        },
+        {
+            "parent": 3,
+            "text": "There is little evidence to suggest the clinical superiority of one antibiotic over another for nursing home–acquired pneumonia, particularly in the nursing home setting. Previous guidelines have recommended antibiotic therapy based primarily on microbiologic data.7,29,30"
+        },
+        {
+            "parent": 3,
+            "text": "The 2005 ATS/IDSA guideline for the treatment of health care–associated pneumonia does not specifically address treatment of nursing home–acquired pneumonia in the nursing home setting.7Guidelines based on limited data and expert opinion recommend the use of an antipneumococcal fluoroquinolone (e.g., levofloxacin [Levaquin] or moxifloxacin [Avelox]) aloneoreither a high-dose beta-lactam/beta-lactamase inhibitor (e.g., amoxicillin/clavulanate [Augmentin]) or a second- or third-generation cephalosporin (e.g., cefuroxime [Ceftin], cefpodoxime [Vantin], ceftriaxone [Rocephin]), in combination with azithromycin (Zithromax). Oral therapy is preferred over parenteral therapy in mild to moderate cases.29,30Intramuscular cephalosporins also may be used.1,31"
+        },
+        {
+            "parent": 3,
+            "text": "A randomized, double-blind trial compared the safety and effectiveness of once-daily intramuscular injections of cefepime (Maxipime) and ceftriaxone for nursing home–acquired pneumonia treated within the nursing home. Sixty-nine residents 60 years and older with radiographically-confirmed pneumonia and creatinine clearances of less than 60 mL per minute were included in the study. Most patients were switched to oral therapy after three days of parenteral therapy. Successful response was documented in 78 percent of patients treated with cefepime and 66 percent of patients treated with ceftriaxone (P= not significant).32Each year, the Centers for Disease Control and Prevention (CDC) recommendations for influenza treatment should be consulted for updates on recent resistance patterns and treatment or prevention recommendations."
+        },
+        {
+            "parent": 3,
+            "text": "When a viral etiology of nursing home–acquired pneumonia is diagnosed and there is low suspicion of secondary bacterial infection, antibiotics often can be discontinued. However, it should be noted that older patients with influenza are at high risk of bacterial superinfection. Oseltamivir (Tamiflu) and zanamivir (Relenza) are approved for the treatment of influenza A and B in adults, but therapy should begin within two days of symptom onset to confer the most benefit, and increasing resistance to oseltamivir has recently been reported.33These agents may lessen the severity of influenza manifestations and may reduce the incidence of post-influenza bacterial pneumonia.34"
+        },
+        {
+            "parent": 3,
+            "text": "Influenza vaccination is recommended for the prevention of influenza in nursing home residents, but does not provide complete protection.34Similarly, pneumococcal vaccination is recommended for all nursing home patients in accordance with the latest CDC guidelines for the prevention of pneumococcal pneumonia.35Oseltamivir should be used prophylactically when an outbreak of influenza A or B occurs within a nursing home.34There are no data to support specific treatments for RSV and human metapneumovirus in nursing home residents.36"
+        },
+        {
+            "parent": 4,
+            "text": "Intravenous antimicrobial therapy should be initiated for nursing home patients hospitalized with pneumonia, with empiric coverage of methicillin-resistantS. aureus(MRSA) andPseudomonas aeruginosa. Antibiotic coverage of atypical organisms is controversial, and there are no data to support such therapy. If an etiologic agent is identified, antibiotic therapy should be narrowed to minimize antibiotic resistance, toxicity, and cost. Hospitalized patients are more likely to have drug-resistant and highly pathogenic organisms.5–7,11Antibiotics administered in the past 90 days generally should not be prescribed again, because the risk of infection with resistant pathogens is increased.37"
+        },
+        {
+            "parent": 4,
+            "text": "Nursing home residency is a major risk factor for MRSA colonization, which can lead to subsequent infection. Rates of MRSA from six nursing homes and one skilled-nursing facility in the United States ranged from 24 to 77 percent.38–40Vancomycin (Vancocin; given intravenously) and linezolid (Zyvox; given orally or intravenously) are recommended for the treatment of MRSA pneumonia.7,41"
+        },
+        {
+            "parent": 4,
+            "text": "Risk factors for pneumonia caused byP. aeruginosawere identified in a study of 559 cases of CAP, including 45 cases of nursing home–acquired pneumonia. They include hospitalization within the previous 30 days or pulmonary comorbid illness (e.g., chronic obstructive pulmonary disease, asthma, chronic bronchitis, bronchiectasis, interstitial lung disease).42When choosing antipseudomonal agents, the physician should refer to local pseudomonal susceptibility patterns."
+        },
+        {
+            "parent": 4,
+            "text": "One prospective, randomized trial compared the effectiveness of cefepime, with or without metronidazole (Flagyl), versus ertapenem (Invanz) for hospital- or skilled facility–acquired pneumonia in nonventilated, non-ICU patients.43The addition of vancomycin was permitted for patients with suspected MRSA infection.Enterobacteriaceae, S. pneumoniae,andS. aureuscomprised 19.5, 12.9, and 11.6 percent of the pathogens recovered, respectively. Forty percent of theS. aureusisolates were methicillin-resistant. Outcomes were similar; 87.3 percent of patients who received ertapenem and 86.0 percent of patients who received cefepime improved."
+        },
+        {
+            "parent": 4,
+            "text": "For hospitalized patients with nursing home–acquired pneumonia, the 2005 ATS/IDSA guideline7recommends a combination antibiotic therapy consisting of the following:"
+        },
+        {
+            "parent": 4,
+            "text": "An antipseudomonal cephalosporin, an antipseudomonal carbapenem, or an extended-spectrum beta-lactam/beta-lactamase inhibitor"
+        },
+        {
+            "parent": 4,
+            "text": "plus"
+        },
+        {
+            "parent": 4,
+            "text": "An antipseudomonal fluoroquinolone or an amino-glycoside"
+        },
+        {
+            "parent": 4,
+            "text": "plus"
+        },
+        {
+            "parent": 4,
+            "text": "An anti-MRSA agent (vancomycin or linezolid)."
+        },
+        {
+            "parent": 4,
+            "text": "The broad empiric therapy includes coverage of MRSA and double-coverage ofP. aeruginosa.Specific antibiotics and recommended dosages are provided in (Table 2).7These recommendations are based on microbiologic data from patients with severe pneumonia. Treatment should be tailored to the local microbiology, resistance patterns, and specific patient risk factors.7Aminoglycoside use increased mortality in a retrospective review.44If chosen as therapy, aminoglycosides should be used with caution in patients with impaired renal function. Tigecycline (Tygacil) and doripenem (Doribax) are newer antibiotics being investigated in the treatment of health care–associated pneumonia, but they are not approved by the U.S. Food and Drug Administration for this indication. These medications may play a role in the treatment of hospitalized patients with nursing home–acquired pneumonia in the near future."
+        },
+        {
+            "parent": 6,
+            "text": "The timing of initiation of antibiotic therapy in hospitalized patients with nursing home–acquired pneumonia may be an important predictor of outcome.45Therapy given within four hours of admission was associated with decreased length of stay and decreased mortality in one retrospective study, and is an important outcome measure for the Centers for Medicare and Medicaid Services.45,46However, other studies have not demonstrated a survival benefit or a more rapid clinical response.47,48The 2007 IDSA/ATS guideline recommends initiation of antibiotic therapy for CAP within the emergency department or as soon as possible after the diagnosis is made, rather than within a specified time period.21Although no studies have specifically measured outcomes for nursing home patients, similar recommendations apply to this population."
+        },
+        {
+            "parent": 6,
+            "text": "The IDSA/ATS guideline recommends a seven-to eight-day duration of therapy for health care–associated pneumonia that has been treated with appropriate empiric antibiotics, has clinically improved, and that is not caused by nonfermenting gram-negative bacteria such asP. aeruginosa.7"
+        },
+        {
+            "parent": 7,
+            "text": "Critically ill patients often have altered pharmacokinetics and pharmacodynamics, and antibiotics must be dosed more aggressively than in other patients.49Empiric antibiotics in critically ill patients with nursing home–acquired pneumonia should be dosed as outlined inTable 2.7As renal function declines with age, proper dosing of antibiotic agents must be ensured to avoid adverse effects.50The Cockcroft-Gault equation is commonly used to estimate creatinine clearance; manufacturers generally use this equation to estimate creatinine clearance when making recommendations about drug dosing in patients with renal insufficiency. Aminoglycosides, which can cause nephro- and ototoxicity, and imipenem/cilastatin (Primaxin), which can cause seizures, should be avoided in older patients with renal impairment."
+        },
+        {
+            "parent": 7,
+            "text": "Vancomycin dosing should be optimized to maintain trough concentrations in the range of 15 to 20 mcg per mL.7However, a retrospective review of patients with MRSA pneumonia did not demonstrate any correlation between serum vancomycin trough concentrations and mortality.51"
+        },
+        {
+            "parent": 8,
+            "text": "Adverse drug events are more likely to occur in older adults than in other patients.50The safest and most effective medication should be prescribed in an appropriate dose for the shortest duration possible to adequately treat the infection. In a study of nursing home patients, use of antibiotics was associated with preventable adverse drug reactions (Table 350).52"
+        },
+        {
+            "parent": 9,
+            "text": "Increasing age is associated with an increasing number of medications used on a daily or weekly basis.53Up to 67 percent of nursing home patients will experience an adverse drug reaction during a six- to 12-month stay, and use of more than eight medications is associated with increased rates of adverse drug reactions.54Because of the large number of medications prescribed in nursing home patients, the potential for drug interactions is very high.Table 4lists some common drug interactions with which prescribers should be familiar.50Most antibiotics alter the anticoagulant effects of warfarin (Coumadin), primarily by increasing these effects. All patients concurrently taking antibiotics and warfarin should have their International Normalized Ratio monitored closely during antibiotic therapy."
+        }
+    ],
+    "locked": false
+}

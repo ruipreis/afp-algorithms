@@ -1,0 +1,348 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1998/0215/p735.html#afp19980215p735-f2",
+    "title": "Conjunctivitis | AAFP",
+    "author": "GARY L. MORROW, M.D., AND RICHARD L. ABBOTT, M.D.",
+    "doi": "Am Fam Physician.1998;57(4):735-746",
+    "abstract": "Conjunctivitis refers to any inflammatory condition of the membrane that lines the eyelids and covers the exposed surface of the sclera. It is the most common cause of “red eye.” The etiology can usually be determined by a careful history and an ocular examination, but culture is occasionally necessary to establish the diagnosis or to guide therapy. Conjunctivitis is commonly caused by bacteria and viruses. Neisseria infection should be suspected when severe, bilateral, purulent conjunctivitis is present in a sexually active adult or in a neonate three to five days postpartum. Conjunctivitis caused by Chlamydia trachomatis or Neisseria gonorrhoeae requires aggressive antibiotic therapy, but conjunctivitis due to other bacteria is usually self-limited. Chronic conjunctivitis is usually associated with blepharitis, recurrent styes or meibomianitis. Treatment requires good eyelid hygiene and the application of topical antibiotics as determined by culture. Allergic conjunctivitis is distinguished by severe itching and allergen exposure. This condition is generally treated with topical antihistamines, mast-cell stabilizers or anti-inflammatory agents.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Historical Clues to the Etiology of Conjunctivitis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Itching",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Discharge",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Unilateral or Bilateral Conjunctivitis",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Pain, Photophobia and Blurred Vision",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Other Aspects of the History",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Physical Clues to the Etiology of Conjunctivitis",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Diagnostic Tests",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Bacterial Conjunctivitis",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "Hyperacute Bacterial Conjunctivitis",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Acute Bacterial Conjunctivitis",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Chronic Bacterial Conjunctivitis and Blepharitis",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Ocular Chlamydial Infections",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Viral Conjunctivitis",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "Allergic Conjunctivitis",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Other Causes of Conjunctivitis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The conjunctiva is a thin, translucent, relatively elastic tissue layer with both bulbar and palpebral portions. The bulbar portion of the conjunctiva lines the outer aspect of the globe, while the palpebral portion covers the inside of the eyelids. Underneath the conjunctiva lie the episclera, the sclera and the uveal tissue layers(Figure 1)."
+        },
+        {
+            "parent": -1,
+            "text": "The clinical term “red eye” is applied to a variety of distinct infectious or inflammatory ocular disease processes that involve one or more tissue layers of the eye(Table 1). Red eye is the most common ocular problem seen by primary care physicians."
+        },
+        {
+            "parent": -1,
+            "text": "The term “conjunctivitis” encompasses a broad group of conditions presenting as inflammation of the conjunctiva. The inflammation can be hyperacute, acute or chronic in presentation and infectious or noninfectious in origin. Conjunctivitis is the most common cause of red eye."
+        },
+        {
+            "parent": -1,
+            "text": "Most frequently, conjunctivitis (and thus red eye) is caused by a bacterial or viral infection. Sexually transmitted diseases such as chlamydial infection and gonorrhea are less common causes of conjunctivitis. However, these infections are becoming more prevalent and are important to recognize because of their significant associated systemic, ocular and social implications."
+        },
+        {
+            "parent": -1,
+            "text": "Ocular allergy in its many forms is one of the major causes of chronic conjunctivitis. Blepharitis (inflammation of the eyelid margin), dry eye and the prolonged use of ophthalmic medications, contact lenses and ophthalmic solutions are also relatively frequent causes of chronic conjunctival inflammation."
+        },
+        {
+            "parent": -1,
+            "text": "This article highlights key features in the clinical history and ocular examination that can help family physicians to formulate a differential diagnosis and a management plan for patients with conjunctivitis or red eye of uncertain etiology(Figure 2). The diagnosis and treatment of the most common forms of conjunctivitis are also reviewed."
+        },
+        {
+            "parent": 0,
+            "text": "The history of a patient with conjunctivitis should include a thorough ocular, medical and medication history. This should establish whether the condition is acute, subacute, chronic or recurrent, whether it is unilateral or bilateral, and whether it is associated with any specific environmental or work-related exposure."
+        },
+        {
+            "parent": 0,
+            "text": "Many symptoms of conjunctivitis, such as tearing, irritation, stinging and burning are nonspecific. However, certain symptoms may strongly suggest a particular diagnosis."
+        },
+        {
+            "parent": 1,
+            "text": "Itching is the hallmark of allergic conjunctivitis, as well as other forms of allergic eye disease. The itching may be mild to severe. In general, a red eye in the absence of itching is not caused by ocular allergy."
+        },
+        {
+            "parent": 1,
+            "text": "A history of recurrent itching or a personal or family history of hay fever, allergic rhinitis, asthma or atopic dermatitis is also suggestive of ocular allergy. Mild itching can also be a feature of blepharitis, dry eyes and, occasionally, bacterial or viral conjunctivitis."
+        },
+        {
+            "parent": 2,
+            "text": "The type of ocular discharge, such as serous (watery), mucoid, mucopurulent or grossly purulent, can be helpful in determining the underlying cause of conjunctival inflammation1(Table 2).2"
+        },
+        {
+            "parent": 2,
+            "text": "A serous discharge is most commonly associated with viral or allergic ocular conditions. A mucoid (stringy or ropy) discharge is highly characteristic of allergy or dry eyes. A muco-purulent or purulent discharge, often associated with morning crusting and difficulty opening the eyelids, strongly suggests a bacterial infection. The possibility ofNeisseria gonorrhoeaeinfection should be considered when the discharge is copiously purulent."
+        },
+        {
+            "parent": 2,
+            "text": "The preceding generalizations about ocular discharges can be helpful in distinguishing between viral and simple bacterial conjunctivitis. However, in the absence of a definitive diagnosis, many physicians elect to empirically prescribe topical antibiotics."
+        },
+        {
+            "parent": 3,
+            "text": "Allergic conjunctivitis is almost always secondary to environmental allergens and, therefore, usually presents with bilateral symptoms.2Infections caused by viruses and bacteria (including Chlamydial organisms) are transmissible by eye-hand contact. Often, these infections initially present in one eye, with the second eye becoming involved a few days later."
+        },
+        {
+            "parent": 3,
+            "text": "Since chronic unilateral conjunctivitis can have a number of causes, it often presents a difficult diagnostic dilemma. Therefore, patients with this condition should be referred for full ophthalmic assessment to rule out less common entities, such as keratitis, nasolacrimal duct obstruction, occult foreign body and conjunctival neoplasia(Figure 3)."
+        },
+        {
+            "parent": 4,
+            "text": "Pain and photophobia are not typical features of a primary conjunctival inflammatory process. If these features are present, the physician should consider more serious underlying ocular or orbital disease processes, including uveitis, keratitis, acute glaucoma and orbital cellulitis. Similarly, blurred vision that fails to clear with a blink is rarely associated with conjunctivitis. Patients with pain, photophobia or blurred vision should be referred to an ophthalmologist."
+        },
+        {
+            "parent": 5,
+            "text": "A recent upper respiratory tract infection in the patient's home, school or workplace suggests a diagnosis of infectious conjunctivitis, especially of adenoviral origin. Chlamydial or gonococcal infection may be suggested by the patient's sexual history, including a history of urethral discharge."
+        },
+        {
+            "parent": 5,
+            "text": "The physician should also inquire about the patient's use of systemic and over-the-counter topical medications (e.g., vasoconstrictors or artificial tears), as well as the use of cosmetics and contact lenses, since any of these can produce acute or chronic conjunctivitis.2Most patients do not regard nonprescription eye medications as possible causes of ocular problems. Therefore, unless questioned directly, they generally do not volunteer information about their use of these medications."
+        },
+        {
+            "parent": 5,
+            "text": "A history of collagen vascular disease or the use of diuretics or antidepressant medications should alert the physician to the possibility of dry eyes."
+        },
+        {
+            "parent": 6,
+            "text": "The patient should be examined in a well-lit room. Before performing the ocular examination, the physician should search for regional lymphadenopathy and should examine the face and eyelids carefully.3"
+        },
+        {
+            "parent": 6,
+            "text": "Viral or chlamydial inclusion conjunctivitis typically presents with a small, tender, preauricular or submandibular lymph node. Toxic conjunctivitis secondary to topical medications can also produce a palpable preauricular node. Palpable adenopathy is rare in acute bacterial conjunctivitis. The exception is hyperacute conjunctivitis caused by infection with Neisseria species."
+        },
+        {
+            "parent": 6,
+            "text": "Other facial clues to the etiology of conjunctivitis include the presence of herpes labialis or a dermatomal vesicular eruption suggestive of shingles. Either of these findings may indicate a herpetic source of conjunctivitis."
+        },
+        {
+            "parent": 7,
+            "text": "Cultures usually are not required in patients with mild conjunctivitis of suspected viral, bacterial or allergic origin. However, specimens for bacterial cultures should be obtained in patients who have severe inflammation (e.g., hyperacute purulent conjunctivitis) or chronic or recurrent conjunctivitis. Cultures also should be obtained in patients who do not respond to treatment.3"
+        },
+        {
+            "parent": 7,
+            "text": "Several laboratory procedures can be used to identify chlamydial infections. These include cell culture, direct fluorescent monoclonal antibody staining of smears, enzyme immuno-assays for Chlamydia organisms, DNA hybridization assays and a polymerase chain reaction test to identify chlamydial antigens.4"
+        },
+        {
+            "parent": 7,
+            "text": "Many ophthalmologists obtain conjunctival cytology scrapings for Gram's staining and/or Giemsa staining to help characterize the conjunctival inflammatory response. The findings can be helpful, particularly for diagnosing allergic, chlamydial and certain atypical forms of conjunctivitis in which the clinical diagnosis is not immediately apparent."
+        },
+        {
+            "parent": 9,
+            "text": "Hyperacute bacterial conjunctivitis is a severe, sight-threatening ocular infection that warrants immediate ophthalmic work-up and management. The infection has an abrupt onset and is characterized by a copious yellow-green purulent discharge that reaccumulates after being wiped away.5The symptoms of hyperacute conjunctivitis, which typically are rapidly progressive, also include redness, irritation and tenderness to palpation. Patients demonstrate marked conjunctival injection, conjunctival chemosis (excessive edema), lid swelling and tender preauricular adenopathy."
+        },
+        {
+            "parent": 9,
+            "text": "The most frequent causes of hyperacute purulent conjunctivitis areN. gonorrhoeaeandNeisseria meningitidis, withN. gonorrhoeaebeing by far the more common. These two infections have similar clinical presentations, and they can be distinguished only in the microbiology laboratory."
+        },
+        {
+            "parent": 9,
+            "text": "Gonococcal ocular infection usually presents in neonates (ophthalmia neonatorum) and sexually active young adults. Affected infants typically develop bilateral discharge three to five days after birth(Figure 4). Transmission of the Neisseria organism to infants occurs during vaginal delivery. In adults, the organism is usually transmitted from the genitalia to the hands and then to the eyes."
+        },
+        {
+            "parent": 9,
+            "text": "If a gonococcal ocular infection is left untreated, rapid and severe corneal involvement is inevitable.5The resulting ulceration and, ultimately, perforation lead to profound and sometimes permanent loss of vision. Infected infants may also have other localized gonococcal infections, such as rhinitis or proctitis, or they may have disseminated gonococcal infection, such as arthritis, meningitis, pneumonia or sepsis."
+        },
+        {
+            "parent": 9,
+            "text": "The diagnostic work-up for a gonococcal ocular infection includes immediate Gram staining of specimens for gram-negative intra-cellular diplococci, as well as special cultures for Neisseria species. All patients should be treated with systemic antibiotics supplemented by topical ocular antibiotics and saline irrigation. Because of the increasing prevalence of penicillin-resistantN. gonorrhoeaein the United States, ceftriaxone (Rocephin), a third-generation cephalosporin, is currently the systemic drug of choice.6Spectinomycin (Trobicin) or oral ciprofloxacin (Cipro) can be used in patients who are allergic to penicillin."
+        },
+        {
+            "parent": 9,
+            "text": "Over 30 percent of patients with gonococcal conjunctivitis have concurrent chlamydial venereal disease. For this reason, it is advisable to treat patients with supplemental oral antibiotics that are effective against Chlamydia species.7"
+        },
+        {
+            "parent": 10,
+            "text": "Acute bacterial conjunctivitis typically presents with burning, irritation, tearing and, usually, a mucopurulent or purulent discharge(Figure 5). Patients with this condition often report that their eyelids are matted together on awakening. Conjunctival swelling and mild eyelid edema may be noted. The symptoms of acute bacterial conjunctivitis are far less severe, less rapid in onset, and progress at a much slower rate than those of hyperacute conjunctivitis."
+        },
+        {
+            "parent": 10,
+            "text": "The three most common pathogens in bacterial conjunctivitis areStreptococcus pneumoniae, Haemophilus influenzaeandStaphylococcus aureus. Infections withS. pneumoniaeandH. influenzaeare more common in children, whileS. aureusmost frequently affects adults2,8(Table 3)."
+        },
+        {
+            "parent": 10,
+            "text": "Although acute bacterial conjunctivitis is usually self-limited and does not cause any serious harm, there are several justifications for treatment. These include decreasing patient morbidity by shortening the course of the disease, reducing person-to-person spread, lowering the risk of sight-threatening complications such as corneal ulceration, and eliminating the risk of more widespread extraocular disease."
+        },
+        {
+            "parent": 10,
+            "text": "Cultures should be obtained in certain patients, including young children and debilitated persons. However, empiric treatment with a topical medication is a safe and cost-effective approach in most patients with clinically mild acute bacterial conjunctivitis."
+        },
+        {
+            "parent": 10,
+            "text": "Unfortunately, no single broad-spectrum antibiotic covers all potential conjunctival bacterial pathogens. In choosing an appropriate topical antibiotic, the physician should keep in mind the most likely conjunctival pathogens, as well as the cost and side effects of each medication. Since most adult cases of acute bacterial conjunctivitis are caused by gram-positive organisms, it is best to choose an antibiotic with adequate gram-positive coverage (in particular, good staphylococcal coverage)."
+        },
+        {
+            "parent": 10,
+            "text": "The clinical response to the antibiotic should be assessed after the patient has completed a short course of therapy. If the inflammation has resolved, the antibiotic should be discontinued. However, if the condition has not improved, an ophthalmologist should be consulted. In such patients, laboratory test results can be used to direct changes in therapy."
+        },
+        {
+            "parent": 10,
+            "text": "Examples of currently available topical broad-spectrum antibiotics include erythromycin ointment and bacitracin-polymyxin B ointment (e.g., Polysporin ophthalmic ointment), as well as combination solutions such as trimethoprim-polymyxin B (e.g., Polytrim). These medications are well tolerated, and they provide excellent coverage for most conjunctival pathogens in both children and adults.9In general, ointments are better tolerated by young children, who are less apt to complain about associated blurring of vision. Solutions are preferred by most adolescents and adults."
+        },
+        {
+            "parent": 10,
+            "text": "Aminoglycosides, such as gentamicin (Garamycin), tobramycin (Tobrex) and neomycin are inexpensive choices for the treatment of acute bacterial conjunctivitis. These agents provide good gram-negative coverage, but they have relatively poor gram-positive coverage, including incomplete coverage of Streptococcus and Staphylococcus species. Furthermore, aminoglycosides are associated with a relatively high incidence of toxicity to the corneal epithelium (primarily with prolonged use). Neomycin, in particular, can cause local oculocutaneous allergic reactions. For this reason, topical ophthalmic preparations containing neomycin probably should be avoided as first-line therapy."
+        },
+        {
+            "parent": 10,
+            "text": "The 10 percent sulfacetamide solution (Bleph-10) is still a commonly prescribed topical antibiotic for conjunctivitis. This bacterio-static agent has weak to moderate activity against many gram-positive and gram-negative organisms, including those that commonly cause conjunctivitis. Although sulfacetamide is less effective than some of the other drugs mentioned in this article, it is inexpensive and well tolerated. A rare potential treatment side effect is Stevens-Johnson syndrome."
+        },
+        {
+            "parent": 10,
+            "text": "In topical form, tetracycline and chloramphenicol (Chloromycetin) are commonly used to treat bacterial conjunctivitis. Tetracycline is available only in an ointment form. Chloramphenicol, which is available in both drop and ointment forms, has a broad spectrum of antimicrobial activity. Although chloramphenicol is generally well tolerated, topical application of this agent has been associated with a few cases of aplastic anemia. For this reason, chloramphenicol is not widely prescribed in the United States.10"
+        },
+        {
+            "parent": 10,
+            "text": "The fluoroquinolones, which include ciprofloxacin (Ciloxan), ofloxacin (Ocuflox) and norfloxacin (Chibroxin), are a new class of potent topical antimicrobials. Agents from this class are commonly used to treat bacterial keratitis. Given the generally benign, self-limited nature of acute bacterial conjunctivitis, the high cost of topical fluoroquinolones, their poor coverage of Streptococcus species and the potential for developing resistant pathogens with indiscriminate use of this antibiotic class, the fluoroquinolones generally should be reserved for use in more severe ocular infections, including bacterial keratitis."
+        },
+        {
+            "parent": 11,
+            "text": "Chronic bacterial conjunctivitis is most commonly caused by Staphylococcus species, although other bacteria are occasionally involved. This type of conjunctivitis often develops in association with blepharitis, which is a common but often unrecognized inflammatory condition related to bacterial colonization of the eyelid margins. Some cases of chronic bacterial conjunctivitis are also associated with facial seborrhea."
+        },
+        {
+            "parent": 11,
+            "text": "The symptoms of chronic bacterial conjunctivitis vary and can include itching, burning, a foreign-body sensation and morning eyelash crusting. Signs of this conjunctival condition include flaky debris, erythema and warmth along the lid margins, as well as eyelash loss and bulbar conjunctival injection. Some patients with chronic bacterial conjunctivitis also have recurrent styes and chalazia (lipogranulomas) of the lid margin."
+        },
+        {
+            "parent": 11,
+            "text": "The meibomian glands are sebaceous glands that line the posterior lid margin behind the eyelashes. These glands secrete an important oily component of the tear film. When inflamed, the meibomian glands malfunction, producing chronic inflammation of the eyelid margins and the conjunctiva(Figure 6), as well as irritating dry-eye symptoms. This condition is referred to as meibomianitis. Chronic inflammation of the meibomian glands and eyelid margins is a predisposing factor for the formation of chalazia within the eyelids."
+        },
+        {
+            "parent": 11,
+            "text": "Blepharoconjunctivitis and meibomianitis are common associated findings in patients with acne rosacea. This skin disorder typically affects adults between 25 and 50 years of age and occurs more commonly in women than in men. Diagnostic clues include a history of periodic facial flushing (usually in response to the consumption of certain foods or alcohol) and the presence of erythematous and telangiectatic skin changes on the forehead, cheeks, chin and nose. Some patients also have acneiform lesions and rhinophyma.2Ocular findings include recurrent chalazia and styes secondary to chronic blepharitis and meibomianitis, as well as keratitis and dry eyes11(Figure 7)."
+        },
+        {
+            "parent": 11,
+            "text": "The work-up of patients with chronic conjunctivitis and blepharoconjunctivitis involves culturing the conjunctiva and the eyelid margins to identify the predominant bacterial pathogen. Treatment includes the establishment of good eyelid hygiene using warm compresses and eyelid margin scrubs and the application of appropriate topical antimicrobials (e.g., erythromycin).5Patients with meibomianitis and acne rosacea often benefit from oral tetracycline therapy. Systemic tetracyclines are contraindicated in nursing mothers, pregnant women and children. Topical metronidazole (Metrogel) is helpful in some patients with acne rosacea."
+        },
+        {
+            "parent": 12,
+            "text": "OcularChlamydia trachomatisinfection can occur in two distinct clinical forms: trachoma (associated with serotypes A through C) and inclusion conjunctivitis (associated with serotypes D through K).12"
+        },
+        {
+            "parent": 12,
+            "text": "Trachoma, a chronic keratoconjunctivitis, is the most common cause of ocular morbidity and preventable blindness throughout the world. It is a major public health concern in the rural areas of developing countries, particularly in Africa, Asia and the Middle East.4,13Active trachoma is uncommon in North America. However, patients who have immigrated to North American countries from regions in which trachoma is endemic frequently present to ophthalmologists with cicatricial ocular and eyelid changes secondary to previous recurrent infections(Figure 8)."
+        },
+        {
+            "parent": 12,
+            "text": "Inclusion conjunctivitis is a common, primarily sexually transmitted disease that occurs in both newborns (ophthalmia neonatorum) and adults (adult inclusion conjunctivitis). It is the most frequent cause of conjunctivitis in neonates, followed, in order of decreasing prevalence, by infections with several bacteria species and, finally,N. gonorrhoeae.4"
+        },
+        {
+            "parent": 12,
+            "text": "Infants who are exposed during vaginal delivery toC. trachomatisfrom the mother's infected cervix develop tearing, conjunctival inflammation, moderate discharge and eyelid swelling five to 12 days after birth.12Ophthalmic referral is essential. Neonatal inclusion conjunctivitis usually responds to topical antibiotics. However, this condition can be associated with otitis media, and respiratory and gastrointestinal tract infections. Such infants should be treated with a two-week course of systemic erythromycin.12"
+        },
+        {
+            "parent": 12,
+            "text": "Adult inclusion conjunctivitis typically presents in young, sexually active persons between 18 and 30 years of age. Transmission most often occurs by autoinoculation from infected genital secretions.12,14The usual presentation is subacute or chronic infection characterized by unilateral or bilateral redness, mucopurulent discharge, a foreign-body sensation and preauricular adenopathy."
+        },
+        {
+            "parent": 12,
+            "text": "Laboratory tests are indicated in neonates and adults with suspected inclusion conjunctivitis. At least 50 percent of affected adults have concurrent, possibly asymptomatic chlamydial urethritis or cervicitis.15–17Coin-fection with pathogens that cause other sexually transmitted diseases (e.g., syphilis and gonorrhea) is not uncommon. Therefore, once a diagnosis has been established, a genital work-up of the patient and his or her sexual contacts is indicated before antibiotic treatment is initiated. Treatment consists of a two- to three-week course of oral tetracycline, doxycycline, minocycline (Minocin) or erythromycin. A single 1-g dose of azithromycin (Zithromax) is recommended for adults with lower genital tract infection, but a longer course may be necessary in patients with chlamydial conjunctivitis.4,12"
+        },
+        {
+            "parent": 13,
+            "text": "Adenovirus is by far the most common cause of viral conjunctivitis, although the condition can also be caused by other viruses. Viral conjunctivitis often occurs in community epidemics, with the virus transmitted in schools, workplaces and physicians' offices. The usual modes of transmission are contaminated fingers, medical instruments and swimming pool water.4Proper hand and instrument washing following patient contact can help to reduce the spread of this highly contagious infection.18"
+        },
+        {
+            "parent": 13,
+            "text": "Patients with viral conjunctivitis typically present with an acutely red eye, watery discharge, conjunctival swelling, a tender preauricular node, and, in some cases, photophobia and a foreign-body sensation. Occasionally, patients also have subconjunctival hemorrhage(Figure 9). Both eyes may be affected simultaneously, or the second eye may become involved a few days after the first eye(Figure 10). Some patients have an associated upper respiratory tract infection."
+        },
+        {
+            "parent": 13,
+            "text": "Since the ocular infection is contagious for at least seven days, patients should be instructed to avoid direct contact with other persons for at least one week after the onset of symptoms. Treatment is supportive. Cold compresses and topical vasoconstrictors may provide symptomatic relief. Topical antibiotics are rarely necessary, because secondary bacterial infection is uncommon.4"
+        },
+        {
+            "parent": 13,
+            "text": "Herpes simplex virus keratoconjunctivitis can closely mimic the presentation of ocular adenovirus infection. In such patients, topical corticosteroid therapy can lead to severe ocular complications as a result of uncontrolled virus proliferation. Therefore, topical corticosteroids should not be used in the management of infectious conjunctivitis unless under the direction of an ophthalmologist. Furthermore, viral conjunctivitis is generally benign and self-limited. Treatment with corticosteroids can prolong the course of the disease and also place the patient at risk for other steroid-induced ocular complications, such as glaucoma and cataracts."
+        },
+        {
+            "parent": 13,
+            "text": "Ocular infections due to herpes simplex and herpes zoster are becoming more prevalent as the incidence of human immunodeficiency virus infection continues to increase. Patients with suspected ocular herpetic infection should be referred to an ophthalmologist. Ocular herpes simplex and herpes zoster are often managed with topical and/or systemic antiviral agents. Various topical agents, including trifluridine (Viroptic), may be helpful. Useful systemic antiviral agents include acyclovir (Zovirax), famciclovir (Famvir) and valacyclovir (Valtrex)."
+        },
+        {
+            "parent": 14,
+            "text": "Ocular allergy encompasses a spectrum of distinct clinical conditions usually characterized by itching. The most common of these conditions is seasonal allergic rhinoconjunctivitis, also called hay fever rhinoconjunctivitis."
+        },
+        {
+            "parent": 14,
+            "text": "Seasonal allergic rhinoconjunctivitis is an IgE-mediated hypersensitivity reaction precipitated by small airborne allergens. The condition is usually, although not invariably, seasonal. Patients typically experience intermittent bouts of itching, tearing, redness and mild eyelid swelling. The personal or family history is often positive for other atopic conditions, such as allergic rhinitis, asthma or eczema."
+        },
+        {
+            "parent": 14,
+            "text": "Treatment measures for seasonal allergic rhinoconjunctivitis include allergen avoidance, cold compresses, vasoconstrictors, antihistamine drops, topical nonsteroidal anti-inflammatory agents and mast-cell stabilizers such as cromolyn sodium (Crolom) or lodox-amide (Alomide). Oral antihistamines help to relieve symptoms in many patients."
+        },
+        {
+            "parent": 14,
+            "text": "Allergic conjunctivitis has also been successfully treated with levocabastine (Livostin), which is a topical antihistamine, and with ketorolac tromethamine (Acular) and diclofenac sodium (Voltaren), which are topical nonsteroidal anti-inflammatory agents.19–22All three agents are well tolerated and have a rapid onset of action. In severe cases, a short course of topical corticosteroids is often required for adequate symptomatic relief. However, corticosteroid therapy should only be administered under the direction of an ophthalmologist."
+        },
+        {
+            "parent": 14,
+            "text": "Immunotherapy can be beneficial in some patients with allergic conjunctivitis.23"
+        },
+        {
+            "parent": 15,
+            "text": "Common noninfectious causes of conjunctivitis include dry eye and inflammation of the conjunctiva related to use of medications(Figure 11)or wearing contact lenses. These entities should be considered in patients with chronic signs and symptoms that do not appear to be of infectious or allergic origin."
+        }
+    ],
+    "locked": false
+}

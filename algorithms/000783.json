@@ -1,0 +1,185 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/0915/p1135.html#afp20030915p1135-f2",
+    "title": "Pruritus | AAFP",
+    "author": "SCOTT MOSES, M.D.",
+    "doi": "Am Fam Physician.2003;68(6):1135-1142",
+    "abstract": "Pruritus is a common manifestation of dermatologic diseases, including xerotic eczema, atopic dermatitis, and allergic contact dermatitis. Effective treatment of pruritus can prevent scratch-induced complications such as lichen simplex chronicus and impetigo. Patients, particularly elderly adults, with severe pruritus that does not respond to conservative therapy should be evaluated for an underlying systemic disease. Causes of systemic pruritus include uremia, cholestasis, polycythemia vera, Hodgkin's lymphoma, hyperthyroidism, and human immunodeficiency virus (HIV) infection. Skin scraping, biopsy, or culture may be indicated if skin lesions are present. Diagnostic testing is directed by the clinical evaluation and may include a complete blood count and measurement of thyroid-stimulating hormone, serum bilirubin, alkaline phosphatase, serum creatinine, and blood urea nitrogen levels. Chest radiography and testing for HIV infection may be indicated in some patients. Management of nonspecific pruritus is directed mostly at preventing xerosis. Management of disease-specific pruritus has been established for certain systemic conditions, including uremia and cholestasis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Dermatologic Causes of Pruritus",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "XEROSIS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ATOPIC DERMATITIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ALLERGIC CONTACT DERMATITIS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "SCABIES OR LICE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Systemic Causes of Pruritus",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Evaluation of Pruritus",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Management of Pruritus",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "NONSPECIFIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "TREATMENT OF SYSTEMIC CAUSES",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Complications of Pruritus",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Pruritus is a common dermatologic problem that increases in incidence with age. In some patients, the condition may be so severe that it affects sleep and quality of life. While pruritus most commonly occurs in skin disorders, it may be an important dermatologic clue to the presence of an underlying systemic disease."
+        },
+        {
+            "parent": 0,
+            "text": "Pruritus originates within the skin's free nerve endings, which are most heavily concentrated in the wrists and ankles. The sensation of pruritus is transmitted through C fibers to the dorsal horn of the spinal cord and then to the cerebral cortex via the spinothalamic tract.1Pruritus generates a spinal reflex response, the scratch, which is as innate as a deep tendon reflex.2Regardless of the cause, pruritus often is exacerbated by skin inflammation, dry or hot ambient conditions, skin vasodilation, and psychologic stressors.3"
+        },
+        {
+            "parent": 0,
+            "text": "A single mechanism cannot explain all causes of pruritus. Histamine, which is released by mast cells in persons with urticaria and other allergic reactions, classically is associated with pruritus. However, with the exception of allergic conditions, histamine must be considered only one of several chemical mediators of itch."
+        },
+        {
+            "parent": 0,
+            "text": "Serotonin appears to be a key component of the pruritus that occurs with several diseases, including polycythemia vera, uremia, cholestasis and lymphoma, and of morphine-associated pruritus. Serotonin inhibitors such as cyproheptadine (Periactin), pizotifen, paroxetine (Paxil), and ondansetron (Zofran) have proved effective in treating several of these pruritic conditions.2"
+        },
+        {
+            "parent": 0,
+            "text": "Opioids trigger pruritus in as many as 90 percent of patients receiving intraspinal injections of narcotics. Intravenous and intradermal opioid injections also may induce itching.2Narcotic antagonists have been used successfully to relieve pruritus in patients with cholestasis.4"
+        },
+        {
+            "parent": 0,
+            "text": "The pruritus that occurs in herpes zoster prodrome may be a model for pruritus with a neuropathic cause. Certain idiopathic types of localized pruritus have been attributed to peripheral neuropathy. Brachioradial pruritus is an uncommon condition that presents as lateral arm pruritus and has been associated with spinal disease. Similarly, notalgia paresthetica is thought to be of neuropathic origin, with pruritus limited to the middle of the back. Severe pruritus also has been observed in patients with spinal tumors and multiple sclerosis.2,5,6"
+        },
+        {
+            "parent": 0,
+            "text": "Atopic dermatitis appears to involve an immune-mediated release of cytokines and other pro-inflammatory agents, a mechanism analogous to airway hyperreactivity in patients with asthma.7–9Superimposed on this hyperreactivity is a distorted touch sensation. Although patients without atopic dermatitis perceive mild mechanical stimulation as touch, patients with the condition perceive it as pruritus.8,10"
+        },
+        {
+            "parent": 2,
+            "text": "Pruritus most frequently is an unpleasant symptom of a clinically evident dermatologic condition(Table 1).1–3,11,12The itch of dry skin, otherwise known as xerosis or asteatotic eczema, is common in older adults.3,11,12Xerosis occurs most often during the winter in northern climates."
+        },
+        {
+            "parent": 2,
+            "text": "Patients with xerosis experience an intense pruritus, usually involving the anterolateral lower legs. Other commonly involved areas include the back, flank, abdomen, and waist. Skin drying and scratching result in red plaques that fissure and whose appearance has been compared to that of cracked porcelain (eczema craquelé)."
+        },
+        {
+            "parent": 3,
+            "text": "Atopic dermatitis can result in severe pruritus and is often described as “the itch that rashes (when scratched).” Atopic dermatitis affects 10 percent of children and often develops before six months of age.7,9Atopic dermatitis often persists into adulthood and may be exacerbated during pregnancy. Patients with atopic dermatitis usually have a family history of asthma and allergic rhinitis."
+        },
+        {
+            "parent": 3,
+            "text": "In infants with atopic dermatitis, eczema usually involves the face, scalp, trunk, extensor arms, and legs. Older children and adults experience “hot and sweaty fossae and folds” involving flexor surfaces such as the antecubital and popliteal fossae, as well as the flexor wrists and ankles.8Adults also may develop atopic dermatitis of the hands, upper eyelids, and anogenital region."
+        },
+        {
+            "parent": 4,
+            "text": "A careful history is important in patients with allergic contact dermatitis, another common cause of pruritus. Allergic contact dermatitis may be caused by exposure to substances such as nickel, latex, cosmetics, rhus oils (e.g., poison ivy), and topical medications such as benzocaine (Americaine) and neomycin(Table 2).2,11,13,14Information on occupational causes of allergic contact dermatitis is available online (www.hazmap.com) and in a recent review.13"
+        },
+        {
+            "parent": 4,
+            "text": "Like xerosis and atopic dermatitis, allergic contact dermatitis is an eczematous reaction, but the reaction is localized to allergen-exposed areas. It can be difficult to distinguish allergic contact dermatitis from irritant contact dermatitis, which is often a reaction to the frequent use of concentrated organic solvent or soap. However, allergic contact dermatitis tends to develop rapidly, and the lesions have more distinct borders than those of irritant contact dermatitis."
+        },
+        {
+            "parent": 5,
+            "text": "Pruritus may be the chief complaint in patients with scabies or lice. In contrast to the pathognomonic burrows within the hand web spaces, axillae, and genitalia, nonspecific pruritic papules may be the only sign of scabies. Despite careful examination by the keenest of eyes, physicians have historically misdiagnosed the surreptitious spread of the scabies mite.15"
+        },
+        {
+            "parent": 6,
+            "text": "Pruritus can be an important dermatologic clue to the presence of significant underlying disease in 10 to 50 percent of older adults.16Systemic causes must be considered, especially in elderly patients in whom pruritus is persistent and refractory to xerosis management and other nonspecific therapies.12,17"
+        },
+        {
+            "parent": 6,
+            "text": "Pruritus has been associated with a wide variety of systemic conditions(Table 3).1–3,6,11,18–27In up to 30 percent of patients, the diagnosis of Hodgkin's lymphoma is preceded by intense, chronic, generalized pruritus.21Pruritus also may be a presenting feature in patients with cutaneous T-cell lymphoma.28Patients with human immunodeficiency virus (HIV) infection commonly have itching, which is most often considered secondary to comorbid dermatologic conditions such as xerosis, seborrheic dermatitis, candidiasis, psoriasis, scabies, or eosinophilic folliculitis.20Uremia causes severe paroxysms of pruritus (especially during the summer) in 25 percent of patients with chronic renal failure and 86 percent of patients who are receiving hemodialysis.29"
+        },
+        {
+            "parent": 6,
+            "text": "Along with uremia, cholestasis is responsible for some of the most intense itching. Cholestasis-related pruritus is most severe at night, with a predilection for the hands and feet. Hyperpigmentation may result in areas of heavy scratching. In patients with hyperpigmentation, the middle of the back is spared, resulting in a classic butterfly-shaped dermatitis.2Cholestasis may be caused by numerous medications, including oral contraceptive pills, erythromycin, amoxicillin–clavulanate potassium (Augmentin), phenothiazines, and anabolic steroids."
+        },
+        {
+            "parent": 6,
+            "text": "Cholestasis affects as many as 0.5 percent of pregnant women, particularly during the third trimester. Overall, itching is common in pregnancy, occurring in up to 14 percent of women.11Pregnancy-specific causes of pruritus are listed inTable 4.30–33"
+        },
+        {
+            "parent": 7,
+            "text": "A thorough history and a complete physical examination are central to the evaluation of pruritus. Most pruritic conditions can be diagnosed on the basis of the presence of associated dermatitis, the distribution of the itching or rash, or a history of recent exposure to exogenous causes."
+        },
+        {
+            "parent": 7,
+            "text": "Reassuring factors that suggest a nonsystemic or exogenous cause include acute onset over several days, localized pruritus, limitation of pruritus to exposed skin, presence of pruritus in other household members, or a history of recent travel or occupational exposure.2The distribution of the pruritus may narrow the list of potential causes significantly or may be pathognomonic for certain conditions, such as scabies with its associated interdigital web-space itch2,34–36(Figure 1)."
+        },
+        {
+            "parent": 7,
+            "text": "A careful skin examination is critical, particularly in older adults. Lack of dermatologic findings in older patients with pruritus compels a more vigorous search for underlying systemic disease. Skin scrapings can identify scabies and dermatophytoses. Skin biopsy may be useful in ruling out more suspicious skin lesions suggestive of mastocytosis, mycosis fungoides, or bullous pemphigoid. The physical examination also should include careful palpation of the lymph nodes, liver, and spleen."
+        },
+        {
+            "parent": 7,
+            "text": "If pruritus does not respond to two weeks of symptomatic therapy, or if an underlying systemic cause is suspected, a limited laboratory evaluation is indicated.2A suggested approach to the evaluation of pruritus is presented inFigure 2.2"
+        },
+        {
+            "parent": 9,
+            "text": "Nonspecific treatment measures generally are useful in alleviating atopic dermatitis and xerosis, but they also may be effective in many other types of pruritus(Table 5).2–4,7,9,10,37Skin lubricants should be applied frequently during the day and immediately after bathing. Patients should avoid excessive bathing, frequent use of soap, dry environments, topical irritants (e.g., synthetic or wool clothing, topical anesthetics), and vasodilators (e.g., caffeine, alcohol, exposure to hot water).8,10"
+        },
+        {
+            "parent": 10,
+            "text": "Antihistamines may be beneficial in the treatment of urticaria and other allergic causes of pruritus.37However, other than providing nighttime sedation to assist sleep, antihistamines are not uniformly effective in treating all causes of pruritus.38Antihistamines also may provoke adverse effects related to sedation and anticholinergic properties, particularly in elderly patients.12"
+        },
+        {
+            "parent": 11,
+            "text": "Management of pruritus should be directed at the underlying cause. In patients with pruritus that has a systemic cause (e.g., hyperthyroidism,22,23iron deficiency anemia,24Hodgkin's lymphoma, HIV infection20), itching gradually recedes as the primary condition improves. Although a full discussion of treatment is beyond the scope of this article, specific management strategies for uremic and cholestatic pruritus, as well as other systemic pruritic conditions, are included inTable 6.2,4,18,19,25,26,29"
+        },
+        {
+            "parent": 12,
+            "text": "Complications arise when pruritus is accompanied by intense scratching. Lichen simplex chronicus is a localized skin thickening, often appearing over the posterior neck, extremities, scrotum, vulva, anus, and buttocks. In prurigo nodularis, a variant of lichen simplex chronicus, 10- to 20-mm nodules develop over areas within easy scratching reach, such as the extensor arms and legs.11Prurigo nodularis has been successfully treated with a cream containing 0.025 percent capsaicin (Zostrix) applied topically four to six times per day for two to eight weeks).39[Evidence level B, nonrandomized clinical studies] Impetigo may result from superinfected excoriations, as commonly occur in patients with atopic dermatitis.7,9"
+        },
+        {
+            "parent": 12,
+            "text": "Insomnia, which is a common concern for many older adults, is further exacerbated by pruritus. Lack of sleep may significantly affect quality of life; it can also increase the risk of accidents and injuries, and result in a worsening of comorbid conditions.12"
+        }
+    ],
+    "locked": false
+}

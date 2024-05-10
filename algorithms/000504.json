@@ -1,0 +1,223 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2010/0815/p397.html#afp20100815p397-f3",
+    "title": "Prostatitis: Diagnosis and Treatment | AAFP",
+    "author": "VICTORIA J. SHARP, MD, ELIZABETH B. TAKACS, MD, AND CHARLES R. POWELL, MD",
+    "doi": "Am Fam Physician.2010;82(4):397-406",
+    "abstract": "Prostatitis ranges from a straightforward clinical entity in its acute form to a complex, debilitating condition when chronic. It is often a source of frustration for the treating physician and patient. There are four classifications of prostatitis: acute bacterial, chronic bacterial, chronic prostatitis/chronic pelvic pain syndrome, and asymptomatic. Diagnosis of acute and chronic bacterial prostatitis is primarily based on history, physical examination, urine culture, and urine specimen testing pre- and post-prostatic massage. The differential diagnosis of prostatitis includes acute cystitis, benign prostatic hyperplasia, urinary tract stones, bladder cancer, prostatic abscess, enterovesical fistula, and foreign body within the urinary tract. The mainstay of therapy is an antimicrobial regimen. Chronic pelvic pain syndrome is a more challenging entity, in part because its pathology is poorly understood. Diagnosis is often based on exclusion of other urologic conditions (e.g., voiding dysfunction, bladder cancer) in association with its presentation. Commonly used medications include antimicrobials, alpha blockers, and anti-inflammatory agents, but the effectiveness of these agents has not been supported in clinical trials. Small studies provide limited support for the use of nonpharmacologic modalities. Asymptomatic prostatitis is an incidental finding in a patient being evaluated for other urologic problems.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Acute Bacterial Prostatitis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "EPIDEMIOLOGY AND PATHOGENESIS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "SPECIAL CONSIDERATIONS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Chronic Bacterial Prostatitis",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "EPIDEMIOLOGY AND PATHOGENESIS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "SPECIAL CONSIDERATIONS",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Chronic Prostatitis/Chronic Pelvic Pain Syndrome",
+            "level": 2
+        },
+        {
+            "id": 14,
+            "name": "EPIDEMIOLOGY",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "Asymptomatic Prostatitis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The prevalence of prostatitis is approximately 8.2 percent (range: 2.2 to 9.7 percent).1It accounts for 8 percent of visits to urologists, and up to 1 percent of visits to primary care physicians.2In 2000, the estimated cost to diagnose and treat prostatitis was $84 million, not including pharmaceutical spending.3Men with chronic prostatitis experience impairment in mental and physical domains of health-related quality of life as measured through validated questionnaires.4In 2002, approximately 14 percent of men with a medical claim for prostatitis missed work.3These statistics clearly underscore the broad and far-reaching effect of prostatitis on patient quality of life and the economic impact of the condition."
+        },
+        {
+            "parent": -1,
+            "text": "Prostatitis is a broad diagnosis that encompasses four clinical entities, including acute illness requiring immediate attention (acute bacterial prostatitis), two chronic conditions (chronic bacterial prostatitis, chronic pelvic pain syndrome), and an incidental finding (asymptomatic prostatitis) noted during the evaluation and treatment of other urologic conditions. This article will familiarize primary care physicians with the categories of prostatitis as defined by the National Institutes of Health (NIH;Table 15) and elucidate the epidemiology, clinical presentation, diagnosis, and treatment of each.6"
+        },
+        {
+            "parent": 0,
+            "text": "A number of diagnostic tests are available to differentiate and categorize the four types of prostatitis. These include localization tests and expressed prostatic secretions, the 2-glass pre- and post-prostatic massage and Meares-Stamey 4-glass tests(Table 27,8andFigure 1), and urine Gram stain and culture. Measurement of postvoid residual urine is recommended when obstruction is suspected."
+        },
+        {
+            "parent": 0,
+            "text": "Semen analysis, prostate-specific antigen (PSA) level, and transrectal ultrasonography–guided biopsy are not specifically recommended in the evaluation of patients with prostatitis; however, these tests may already have been obtained in patients being evaluated for other urologic problems. Similarly, imaging has a role only in the exclusion of other urologic diagnoses,9and when a patient with acute bacterial prostatitis does not respond appropriately to initial antimicrobial therapy. Other laboratory testing (e.g., complete blood count [CBC], electrolyte levels, blood culture) is not routine but may be performed as necessary in a patient who appears systemically ill or who may have impaired renal function and in whom antimicrobial therapy is being contemplated."
+        },
+        {
+            "parent": 0,
+            "text": "The role of individual tests for the diagnosis and management of prostatitis is further discussed in the setting of each NIH classification(Table 3).10"
+        },
+        {
+            "parent": 2,
+            "text": "Acute bacterial prostatitis, NIH type I, is an acute bacterial infection of the prostate; patients are typically seen in the outpatient setting or emergency department. Left untreated, it can lead to overwhelming sepsis or the development of prostatic abscess. The prevalence and incidence of acute bacterial prostatitis are not fully known.11By definition, an organism must be identified on culture.Escherichia coliis the most commonly isolated organism, but other gram-negative organisms, such asKlebsiella,Proteus, andPseudomonas, and gram-positiveEnterococcusspecies are often isolated as well. Other gram-positive organisms, many of which comprise normal skin flora, have also been isolated from patients with suspected bacterial prostatitis and should be treated accordingly.12,13Sexually active men younger than 35 years and older men who engage in high-risk sexual behaviors should be tested forNeisseria gonorrhoeaeandChlamydia trachomatis."
+        },
+        {
+            "parent": 3,
+            "text": "The diagnosis of acute bacterial prostatitis is often based on symptoms alone. Urinary symptoms may be irritative (e.g., urinary frequency, urgency, dysuria) or obstructive (e.g., hesitancy, poor or interrupted stream, straining to void, incomplete emptying). Pain may be present in the suprapubic or perineal region, or in the external genitalia. Systemic symptoms of fever, chills, malaise, nausea, emesis, and signs of sepsis (tachycardia and hypotension) may be present as well. On physical examination, the prostate should be gently palpated. Prostatic massage should not be performed and may be harmful14; the prostate is tender, enlarged, and boggy. On abdominal examination, a palpable, distended bladder indicates urinary retention."
+        },
+        {
+            "parent": 4,
+            "text": "Midstream urine culture should be obtained. The presence of more than 10 white blood cells per high-power field suggests a positive diagnosis. Other laboratory testing (e.g., CBC, electrolyte levels, blood culture) is determined by the severity of the presentation. Residual urine should be documented if a patient has a palpable bladder or symptoms consistent with incomplete emptying."
+        },
+        {
+            "parent": 5,
+            "text": "Empiric therapy should be started at the time of evaluation(Figure 2); coverage can be tailored to the isolated organisms once urine culture results are available. Mildly to moderately ill patients may be treated in the outpatient setting; severely ill patients or those with possible urosepsis require hospitalization and parenteral antibiotics. Once patients have become afebrile, they may be transitioned to oral antibiotics based on the culture results. Minimal duration of treatment is four weeks15; however, the optimal period has been shown to be six weeks, because of the possible persistence of bacteria, with repeat evaluation recommended at that time.16,17"
+        },
+        {
+            "parent": 5,
+            "text": "If fever persists or the maximal temperature fails to show a downward trend after 36 hours, prostatic abscess should be suspected.9Urology consultation should be obtained; if it is not immediately available, imaging may be performed with computed tomography, magnetic resonance imaging, or transrectal ultrasonography. Prostatic abscess requires urology consultation for drainage.17"
+        },
+        {
+            "parent": 6,
+            "text": "No specific guideline exists for the treatment of gram-positive organisms, but the fluoroquinolones have adequate gram-positive coverage, as well as excellent gram-negative coverage, and they penetrate the prostate well.C. trachomatisandN. gonorrhoeaeare best treated with azithromycin (Zithromax) or doxycycline.18"
+        },
+        {
+            "parent": 6,
+            "text": "Immunocompromised patients, especially those who have uncontrolled diabetes mellitus, among other immunodeficiencies, seem to be more susceptible to the development of acute bacterial prostatitis and prostatic abscess.19Treatment is as outlined previously, including drainage with broad-spectrum antibiotic coverage."
+        },
+        {
+            "parent": 6,
+            "text": "Rarely, transrectal ultrasonography–guided biopsy of the prostate results in acute bacterial prostatitis and septicemia. These patients are often ill enough to warrant hospital admission and the initiation of parenteral therapy.20"
+        },
+        {
+            "parent": 7,
+            "text": "Chronic bacterial prostatitis, NIH type II, is a persistent bacterial infection of the prostate lasting more than three months. Urine cultures obtained over the course of illness repeatedly grow the same bacterial strain. The NIH Chronic Prostatitis Symptom Index from the Chronic Prostatitis Collaborative Research Network (CPCRN) is a validated questionnaire available athttp://www.prostatitis.org/symptomindex.html."
+        },
+        {
+            "parent": 8,
+            "text": "E. coliis the most commonly isolated organism, but other gram-negative organisms such asKlebsiella,Proteus, andPseudomonasare also common.12,13AfterE. coli, gram-positiveEnterococcusis the next most commonly isolated pathogen.21Research suggests that theE. colistrains often seen in chronic bacterial prostatitis have a higher virulence factor and greater degree of biofilm formation than the strains seen in uncomplicated urinary tract infections, which could explain why bacterial prostatitis is so difficult to treat.22The pathogenesis of chronic bacterial prostatitis has not been scientifically proven, but it is assumed that the infection moves from the distal urethra to the prostate. Other possibilities include seeding from the bladder, bowel, blood, or lymphatic system.23Suggested associations include presence of foreskin, sexual activity, benign prostatic hyperplasia, urethral stricture, bladder neck hypertrophy, previous instrumentation or catheterization, and anatomic predisposition for retrograde spread from intraprostatic ducts.24,25"
+        },
+        {
+            "parent": 9,
+            "text": "In contrast to men with acute bacterial prostatitis, those with chronic bacterial prostatitis do not appear to be ill. They present with recurrent or relapsing urinary tract infections, urethritis, or epididymitis with the same bacterial strain. Between symptomatic episodes, detectable pathogens persist on localization tests. Patients may have irritative voiding symptoms and testicular, perineal, low back, and occasionally distal penile pain. On physical examination, patients are usually afebrile, and on digital rectal examination the prostate may feel normal, tender, or boggy."
+        },
+        {
+            "parent": 10,
+            "text": "The diagnosis is based on history and physical examination, a voiding test such as the 2-glass pre- and post-prostatic massage test(Table 27,8), and a positive urine culture."
+        },
+        {
+            "parent": 11,
+            "text": "Because chronic bacterial prostatitis is a bacterial infection, an appropriate antibiotic with good tissue penetration in the prostate should be selected(Table 4). Fluoroquinolones have demonstrated the best tissue concentration and are recommended as first-line agents.26,27Although trimethoprim/sulfamethoxazole (Bactrim, Septra) may be considered, the tissue penetration may not be as effective, and in many areas of the United States there is evidence of increasing uropathogenic resistance.27Penicillin derivatives, commonly used to treat acute bacterial prostatitis, have not been shown to provide good symptom relief for chronic bacterial prostatitis.17Second-line drugs include doxycycline, azithromycin, and clarithromycin (Biaxin). A four- to six-week course of therapy is usually recommended; however, a six- to 12-week course is often needed to eradicate the causative organism and to prevent recurrence, especially if symptoms persist after completion of the initial therapy. No guideline exists for treating gram-positive organisms, but ciprofloxacin (Cipro) and levofloxacin (Levaquin) have adequate gram-positive coverage, as well as excellent gram-negative coverage, and both medications penetrate the prostate tissue well."
+        },
+        {
+            "parent": 11,
+            "text": "In men whose cultures remain positive, suppressive therapy with low-dose antibiotics, such as fluoroquinolones, should be considered in an effort to prevent symptom flare-up.16,17"
+        },
+        {
+            "parent": 12,
+            "text": "Patients who test positive for human immunodeficiency virus (HIV) infection deserve special mention because they are susceptible to additional pathogens, such asSerratia marcescens,Salmonella typhi,Mycobacterium tuberculosis, andMycobacterium avium. Nonbacterial organisms (e.g.,Candida,Cryptococcus,Histoplasma, andAspergillusspecies) should also be considered.28Recommended treatment for patients who are HIV positive is a four- to six-week course of antibiotics followed by suppressive antibiotics for an unspecified time.28"
+        },
+        {
+            "parent": 14,
+            "text": "Chronic prostatitis/chronic pelvic pain syndrome is subdivided into two categories: NIH type IIIA (inflammatory) and IIIB (noninflammatory;Table 15). Differentiation between these groups has been made based on the presence of leukocytes in expressed and post-massage prostatic secretions, urine, or semen. One of the greatest challenges with the treatment of chronic prostatitis/chronic pelvic pain syndrome is that there is no clear understanding of the etiology; however, suggested explanations include infection, autoimmunity, and neuromuscular spasm.29"
+        },
+        {
+            "parent": 14,
+            "text": "In 2006, the CPCRN published a prospective analysis of NIH type III prostatitis symptoms over two years.30This group concluded that symptoms vary widely among patients, there is no evidence that the disease worsens, and approximately one third of patients will improve with or without treatment."
+        },
+        {
+            "parent": 15,
+            "text": "The hallmark symptom of chronic prostatitis/chronic pelvic pain syndrome is pain attributed to the prostate with no demonstrable evidence of infection. On examination, tenderness of the prostate, or less commonly the pelvis, is present in about one half of patients.31"
+        },
+        {
+            "parent": 16,
+            "text": "Evaluation and diagnosis of chronic prostatitis/chronic pelvic pain syndrome can be confusing and challenging for the treating physician. Many of the diagnostic tests performed in affected patients are geared toward excluding other treatable pathology (e.g., benign prostatic hyperplasia, bladder cancer), and urology referral is often necessary."
+        },
+        {
+            "parent": 16,
+            "text": "In a series of two studies, the CPCRN evaluated the usefulness of leukocytes and bacterial counts to subcategorize patients with chronic prostatitis/chronic pelvic pain syndrome. The group found that leukocytes and bacterial counts did not correlate with symptoms,32and positive findings were often present in asymptomatic control patients.33The utility and importance of such tests on the treatment and outcome of patients with chronic prostatitis/chronic pelvic pain syndrome remain unclear."
+        },
+        {
+            "parent": 16,
+            "text": "Table 534–36identifies testing as recommended by a North American consensus panel34and an international consensus panel.35In a patient thought to have chronic prostatitis/chronic pelvic pain syndrome, referral to a urologist for diagnosis is warranted.36"
+        },
+        {
+            "parent": 16,
+            "text": "The NIH Chronic Prostatitis Symptom Index36explores symptoms to establish the diagnosis and determine treatment effect. A decline of six points in the total score is the threshold to predict treatment response.37"
+        },
+        {
+            "parent": 17,
+            "text": "There is no preferred first-line treatment for patients with chronic pelvic pain syndrome(Table 638–51andFigure 338). It is reasonable to try antimicrobials, alpha blockers, or anti-inflammatory medications first; however, if a patient does not respond to treatment, repeated trials are not warranted. In addition, it is important to consider multimodal therapy with a combination of medications or possible adjunctive therapy with non-pharmacologic modalities. Men with chronic pelvic pain syndrome represent a highly complex group of patients, and urology referral is often necessary."
+        },
+        {
+            "parent": 18,
+            "text": "Asymptomatic prostatitis, NIH type IV, is diagnosed when inflammatory cells are identified on prostate biopsy or leukocytes are noted on semen analysis during urologic evaluation for other reasons. The clinical significance of this type of prostatitis is uncertain, and treatment is based on the primary reason for the urologic evaluation. When the indication for biopsy is an elevated PSA level, it is important to remember that normalization of the PSA value after antibiotic or 5-alpha reductase inhibitor therapy does not rule out the diagnosis of prostate cancer, and continued urologic evaluation is warranted."
+        }
+    ],
+    "locked": false
+}

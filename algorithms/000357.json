@@ -1,0 +1,140 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/1215/p827.html#afp20131215p827-f1",
+    "title": "Identifying and Managing Posttraumatic Stress Disorder | AAFP",
+    "author": "CHRISTOPHER H. WARNER, MD, CAROLYNN M. WARNER, MD, GEORGE N. APPENZELLER, MD, AND CHARLES W. HOGE, MD",
+    "doi": "Am Fam Physician.2013;88(12):827-834",
+    "abstract": "Posttraumatic stress disorder (PTSD) occurs in an estimated 8% of men and 20% of women who are exposed to traumatic events. PTSD is a trauma- and stress-related disorder associated with significant psychosocial morbidity, substance abuse, and other negative physical health outcomes. The hallmarks of PTSD include exposure to a traumatic event; reexperiencing the event or intrusion symptoms; avoidance of people, places, or things that serve as a reminder of the trauma; negative mood and thoughts associated with the trauma; and chronic hyperarousal symptoms. Self-report questionnaires can assist clinicians in identifying anxiety problems associated with traumatic events. For patients who meet criteria for PTSD, trauma-focused psychotherapy and pharmacotherapy improve symptoms. Benzodiazepines and atypical antipsychotics are not recommended because studies have shown that adverse effects outweigh potential health benefits. Primary care physicians should monitor patients with PTSD for comorbid conditions such as substance abuse, mood disorders, and suicidality, and should refer patients to behavioral health specialists and support groups when appropriate.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnostic Criteria",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Onset and Course",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Epidemiology and Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "PSYCHOLOGICAL INTERVENTIONS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PHARMACOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OTHER ASPECTS OF MANAGEMENT",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Posttraumatic stress disorder (PTSD) is a trauma- and stress-related disorder that has historically been diagnosed in combat veterans, but also occurs after many other types of traumatic events(Figure 1). It is under-recognized and undertreated in primary care practices.1,2To improve outcomes in patients with PTSD, this article provides a practical approach to the recognition, diagnosis, and multidisciplinary treatment of PTSD."
+        },
+        {
+            "parent": 0,
+            "text": "PTSD is characterized by exposure to a traumatic event and the subsequent development of four general symptom domains: reexperiencing the event or intrusion symptoms; avoidance of people, places, or things that serve as a reminder of the trauma; negative changes in mood and thoughts associated with the event; and chronic hyperarousal symptoms(Table 1).3Traumatic events generally involve threats to life, sense of personal safety or security, or physical integrity. A related condition, acute stress disorder, is distinguished from PTSD by the presence of similar symptoms (with the addition of dissociation) that last for less than one month.4PTSD is diagnosed only if symptoms persist beyond one month after the event."
+        },
+        {
+            "parent": 0,
+            "text": "Of note, the recently published fifth edition of theDiagnostic and Statistical Manual of Mental Disorders(DSM-5) had several changes to the exposure criteria. The previous version of the DSM required the individual to directly experience or witness the event and to experience a sense of helplessness. However, recent evidence showed that persons working in military and first responder occupations did not report the typical responses of fear, helplessness, or horror that are common in persons who have experienced traumatic events.5,6In response to these findings, the DSM-5 removed the helplessness requirement and broadened the definition to include the types of repetitive threats experienced by persons in these professions.3"
+        },
+        {
+            "parent": 1,
+            "text": "Emotional and physical responses vary considerably after acute exposure to traumatic stressors, with some persons not becoming symptomatic until years after the event. Spontaneous recovery usually occurs. However, if coping mechanisms are inadequate, psychological distress can intensify over time, leading to the development of PTSD. Although there is no clear timeline for symptom development, studies in military populations returning from combat zones have shown an increase in symptoms three to six months after return.7Additionally, several studies have indicated that approximately one-third of persons with PTSD will develop chronic symptoms.8,9"
+        },
+        {
+            "parent": 2,
+            "text": "The lifetime risk of being exposed to a traumatic stressor is high (60.7% for men, 51.2% for women), but only an estimated 8% of exposed men and 20% of exposed women develop PTSD.9The overall lifetime prevalence of PTSD in the United States is 8%.9However, prevalence estimates for combat veterans and survivors of severe natural or man-made disasters are much higher.9Identification and treatment are further complicated by the fact that most persons with PTSD do not seek mental health assistance.10"
+        },
+        {
+            "parent": 2,
+            "text": "Risk factors associated with progression to chronic PTSD are not well understood. Although there may be a genetic component in a small percentage of cases, environmental and biologic factors (e.g., poor psychosocial support, history of trauma, history of mental health problems) are also important risk factors.11Resiliency development and positive psychology programs have been emphasized for persons with high-risk professions, but there is no evidence that these programs prevent PTSD.12"
+        },
+        {
+            "parent": 3,
+            "text": "Early identification and treatment are important in improving the prognosis.13,14Clinicians should have a high index of suspicion for PTSD in patients at risk, including those with a history of sexual assault or military service in a combat zone, and survivors of natural disasters. Although most persons do not develop PTSD after trauma exposure and screening has not been shown to improve health outcomes, guidelines from the U.S. Departments of Defense and Veterans Affairs recommend that all new patients with a history of trauma exposure be screened for symptoms of PTSD initially, and then on an annual basis or more frequently if indicated.14There is insufficient evidence to recommend specific screening for persons of any ethnicity, race, or sex.14"
+        },
+        {
+            "parent": 3,
+            "text": "Self-report questionnaires can assist clinicians in identifying anxiety associated with traumatic events. The most commonly used tools are the Primary Care PTSD Screen15and the 17-item PTSD Checklist (available on pages 209 and 210, respectively, of the Department of Defense and Veterans Affairs guideline athttp://www.healthquality.va.gov/ptsd/cpg_PTSD-FULL-201011612.pdf), and the Short Screening Scale for PTSD.16However, there is insufficient evidence to recommend one tool over another.14These tools are not diagnostic for PTSD, but indicate the presence of symptoms consistent with the disorder(Table 213). If the results are positive, a more thorough assessment should be conducted.13,14Clinicians should assess the time of onset; frequency, course, and severity of symptoms; level of distress; and degree of functional impairment."
+        },
+        {
+            "parent": 3,
+            "text": "PTSD is associated with several comorbid physical and psychiatric conditions that can adversely affect treatment response unless they are addressed. The most common psychiatric comorbidities include substance abuse, mood disorders, and anxiety disorders.9In addition, physicians should screen for suicidal ideation; as many as one in five patients with PTSD may attempt suicide.14,17Generalized physical symptoms are also common among persons exposed to trauma.18,19Physical injuries from the traumatic event are risk factors for PTSD."
+        },
+        {
+            "parent": 4,
+            "text": "The physician should educate the patient and his or her family about PTSD symptoms, other potential consequences of trauma exposure, and any comorbid conditions.13,14,20,21Because patients often are reluctant to discuss traumatic events and may avoid treatment as a result, it is important to elicit patient preferences for treatment interventions. Other factors that influence treatment choices include locally available resources, individual physicians' comfort level and experience, and severity of symptoms."
+        },
+        {
+            "parent": 4,
+            "text": "Trauma-focused psychotherapy and pharmacotherapy are first-line treatment options, but often must be combined with management of comorbid medical problems, such as chronic pain or sleep disturbance. Many persons with PTSD will attempt self-treatment methods, such as substance use. Physicians should have a low threshold for involving behavioral health specialists in PTSD management in the presence of comorbid substance abuse or psychiatric conditions. Patients who have substance use disorders should attempt a detoxification program, if necessary, and should be referred to a substance abuse or dual-diagnosis treatment program."
+        },
+        {
+            "parent": 5,
+            "text": "Although there is insufficient evidence that psychotherapy is more effective than medical therapy in the treatment of PTSD, most patients should be offered psychotherapy to address the specific symptoms of PTSD and any comorbid conditions. Trauma-focused psychotherapies that include narrative exposure, in vivo exposure (i.e., directly confronting anxiety triggers), cognitive restructuring, and relaxation techniques are the most effective.14,20–25Some examples of therapies that include these components are prolonged exposure, cognitive processing therapy, and eye movement desensitization and reprocessing. Other potentially effective therapies include imagery rehearsal, brief psychodynamic therapy, and hypnosis.14Psychoeducation and supportive interventions are also important components of therapy. PTSD can have significant effects on the spouses, children, and families of persons affected; therefore, referral to a marital or family therapist may also be indicated.14"
+        },
+        {
+            "parent": 6,
+            "text": "Table 3lists medications available for the treatment of PTSD.14,26–33[corrected] General guidelines include optimizing monotherapy; continuing the dosage for four weeks if the patient responds to treatment and tolerates the medication; switching to another agent if the patient does not tolerate the medication; and increasing the dosage or switching to another medication if no improvement is noted after eight weeks of therapy.14Treatment effectiveness is measured by subjective and objective symptom reduction."
+        },
+        {
+            "parent": 6,
+            "text": "Antidepressants. Selective serotonin reuptake inhibitors and serotonin–norepinephrine reuptake inhibitors have the most evidence supporting their use in the treatment of PTSD; sertraline (Zoloft) and paroxetine (Paxil) are approved by the U.S Food and Drug Administration for this use.26,27Selective serotonin reuptake inhibitors and serotonin–norepinephrine reuptake inhibitors may be prescribed as first-line therapy because there is no direct evidence that psychotherapy is more effective.14These medications help with most PTSD symptoms, including intrusive thoughts and flashbacks, irritability and anger, problems concentrating, hyperarousal, chronic restlessness and anxiety, and depressed mood.13,14,26,27Patients should be counseled that it may take six to eight weeks to achieve full therapeutic benefit,34and that suddenly stopping therapy can result in a discontinuation syndrome that may include anxiety, insomnia, depression, irritability, mood lability, vivid dreams, tremors, fatigue, lethargy, and dizziness.34These symptoms may be mistaken as a worsening of PTSD symptoms. Other antidepressants may also be effective, including mirtazapine (Remeron), nefazodone, tricyclic antidepressants, and monoamine oxidase inhibitors.28Safety considerations, adverse effects, and psychiatric and medical comorbidities make these second-line medication choices.13,14,29"
+        },
+        {
+            "parent": 6,
+            "text": "Augmenting Agents. Augmentation with other medications may be necessary if symptoms persist despite first-line pharmacotherapy. The alpha-adrenergic blocker prazosin (Minipress) alleviates sleep disturbance caused by nightmares.14,30,31The effectiveness of other alpha-adrenergic blockers, alpha2agonists (e.g., clonidine [Catapres], guanfacine [Tenex]), and beta antagonists (e.g., propranolol, atenolol [Tenormin]) in the treatment of PTSD is unknown.14,30"
+        },
+        {
+            "parent": 6,
+            "text": "Benzodiazepines have been used to treat symptoms of hyperarousal in patients with PTSD. However, they can worsen other PTSD symptoms and should be avoided.14,30,35Because of their potential for abuse, dissociative effects, and disinhibiting properties, benzodiazepines have been associated with adverse effects in PTSD."
+        },
+        {
+            "parent": 6,
+            "text": "Antihistamines or hypnotics (e.g., zolpidem [Ambien], zaleplon [Sonata]) may be used for short-term treatment of insomnia in persons with PTSD, and the antidepressant trazodone may be used on a longer-term basis.14,30There is insufficient evidence to support the use of buspirone (Buspar) as an adjunctive or single agent in the treatment of PTSD.14,30"
+        },
+        {
+            "parent": 6,
+            "text": "Mood stabilizers are used to treat mood swings, irritability, impulsivity, and violent behaviors in persons with bipolar disorder, and have been postulated to be effective for the target symptoms of PTSD. However, study results have been mixed.14,29Thus far, there is only limited support for the adjunctive use of lithium, valproate (Depacon), carbamazepine (Tegretol), lamotrigine (Lamictal), topiramate (Topamax), gabapentin (Neurontin), or second-line agents in the treatment of PTSD, and some guidelines recommend against their use because of their risks and monitoring requirements.14,30,32"
+        },
+        {
+            "parent": 6,
+            "text": "Initially, several open-label and controlled studies supported the use of adjunctive atypical antipsychotics in the treatment of severe and refractory PTSD.36However, a recent large multisite trial of risperidone (Risperdal) reported no benefit over placebo for the treatment of PTSD.37Consequently, antipsychotics are not recommended.10,14"
+        },
+        {
+            "parent": 7,
+            "text": "In addition to the treatments above, other therapies may improve treatment adherence and address certain symptoms adjunctively (e.g., anxiety, chronic pain, sleep disturbance). Acupuncture and yoga have shown promising results, although larger studies are needed.14,38,39Mobile applications can also be used to manage PTSD symptoms.33"
+        },
+        {
+            "parent": 7,
+            "text": "Patients may benefit from a referral to a minister or chaplain to address spiritual needs. Peer-to-peer and family support groups in local communities can augment ongoing treatment. Websites such as the National Center for PTSD (http://www.ptsd.va.gov/public/index.asp), the Defense Centers of Excellence for Psychological Health and Traumatic Brain Injury (http://www.dcoe.mil/psychologicalhealth.aspx), and the National Child Traumatic Stress Network (http://www.nctsnet.org) provide useful information for patients and physicians."
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms posttraumatic stress disorder, detection, treatment, and primary care. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Cochrane Database of Systematic Reviews, evidence-based guidelines from the National Guidelines Clearinghouse, the National Center for Complementary and Alternative Medicine, the U.S. Preventive Services Task Force, and UpToDate. Search date: August 22, 2012."
+        }
+    ],
+    "locked": false
+}

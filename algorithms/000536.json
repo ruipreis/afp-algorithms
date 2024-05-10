@@ -1,0 +1,180 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2009/1001/p717.html#afp20091001p717-f1",
+    "title": "Diagnosis and Treatment of Bladder Cancer | AAFP",
+    "author": "SANJEEV SHARMA, MD, PANKAJ KSHEERSAGAR, MD, AND POONAM SHARMA, MD",
+    "doi": "Am Fam Physician.2009;80(7):717-723",
+    "abstract": "Bladder cancer is the sixth most prevalent malignancy in the United States. The most common type of bladder cancer is urothelial (transitional cell) carcinoma, and cystoscopy remains the mainstay of diagnosis and surveillance. Fluorescence cystoscopy offers improvement in the detection of flat neoplastic lesions, such as carcinoma in situ. Non-muscle-invasive bladder cancer is typically managed with transurethral resection and perioperative intravesical chemotherapy. Intravesical bacille Calmette-Guérin therapy is preferred over mitomycin for those at high risk of disease progression. For muscle-invasive disease, standard management is radical cystectomy. In these patients, neoadjuvant chemotherapy or postoperative adjuvant chemotherapy should be considered based on pathologic risks, such as positive lymph nodes or pathologic T stage. Multidrug systemic chemotherapy involving cisplatin is commonly used. No major organization recommends screening for bladder cancer.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Risk Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Pathology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "URINE CYTOLOGY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CYSTOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "TRANSURETHRAL RESECTION OF BLADDER TUMOR",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "EVALUATION OF UPPER URINARY TRACT",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "EVALUATION FOR METASTATIC DISEASE",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "TUMOR MARKERS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Screening",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "TREATMENT OF NON-MUSCLE-INVASIVE DISEASE",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "MUSCLE-INVASIVE DISEASE",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "METASTATIC DISEASE",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Bladder cancer is the second most common genitourinary malignancy.1It is the sixth most prevalent malignancy in the United States, accounting for approximately 7 percent of cancers in men and 3 percent of cancers in women.1,2Bladder cancer ranges from mild disease with a low mortality rate to extremely high-grade tumors associated with high mortality. It has a clear correlation with environmental exposures, such as smoking. Accurate staging and grading is important to select optimal treatment. This article briefly reviews the epidemiology, pathology, diagnosis, and treatment of bladder cancer, with emphasis on recent developments."
+        },
+        {
+            "parent": 0,
+            "text": "Bladder cancer is the fourth most common cancer in men and the eighth most common in women. In 2007, approximately 50,000 men and 17,000 women were diagnosed with bladder cancer, and there were about 14,000 deaths caused by this disease.1It is primarily found in older persons, with approximately 80 percent of new cases occurring in persons 60 years or older.2Bladder cancer is about three times more common in men (one in 27) than women (one in 85). It is more prevalent in white persons; however, because of delayed diagnosis, mortality rates are higher in black persons.3"
+        },
+        {
+            "parent": 1,
+            "text": "The best known behavioral risk factor for bladder cancer is cigarette smoking; it accounts for 50 percent of cases in developed countries.4Smokers have a four to seven times greater risk of developing bladder cancer than nonsmokers.5,6In industrialized countries, 5 to 10 percent of bladder cancers are caused by occupational exposures, such as aromatic amines used in the manufacturing of chemical dyes and pharmaceuticals and in gas treatment plants.7,8"
+        },
+        {
+            "parent": 1,
+            "text": "Schistosoma haematobiuminfection, endemic to 50 countries in Africa and the Middle East, is another established risk factor. Seventy percent ofS. haematobium-related cancers are squamous cell carcinomas, and the remainder are urothelial (transitional cell) carcinomas.9Exposure of the bladder to radiation, often as treatment for other pelvic malignancies, increases the risk of bladder cancer five to 10 years after treatment. These cancers tend to be high grade and locally advanced.7Familial clustering of bladder cancer, especially in relatively young persons, suggests genetic involvement in some cases.8,10Risk factors for bladder cancer are listed inTable 1."
+        },
+        {
+            "parent": 2,
+            "text": "Approximately 90 percent of epithelial bladder tumors are urothelial carcinomas; the remaining 10 percent are nonurothelial or mesenchymal in origin (Table 2).11The World Health Organization/International Society of Urological Pathology classification of urothelial carcinomas was published in 1998 and favors the use of the term “urothelial” over “transitional” to describe epithelial tumors of the bladder.11The pathologic classification and histologic grading and staging of bladder tumors are shown inTables 211and3.12"
+        },
+        {
+            "parent": 3,
+            "text": "Painless hematuria is the most common presenting symptom.13Gross blood throughout micturition is suggestive of bladder cancer. The incidence of bladder cancer in a patient with gross hematuria is 20 percent14,15and with microscopic hematuria is 2 percent.16-18Symptoms of bladder irritation, such as urinary frequency and urgency, more commonly occur in patients with bladder carcinoma in situ. Obstructive symptoms may be present if the tumor is located near the urethra or bladder neck. In advanced disease, patients may present with flank pain caused by ureteral obstruction, or with abdominal, pelvic, or bone pain from distant metastases (Table 41,13). Early bladder cancer is not detectable by physical examination; however, a mass may be palpable in advanced disease. A palpable kidney or pelvic mass may be present in metastatic disease."
+        },
+        {
+            "parent": 4,
+            "text": "The clinical investigation should begin with a careful history, including any history of cigarette smoking or occupational exposures. Patients with urinary symptoms should have a urinalysis with urine microscopy and a urine culture to rule out infection."
+        },
+        {
+            "parent": 5,
+            "text": "Urine cytology is a noninvasive test for the diagnosis of bladder cancer. It is used to identify high-grade tumors and monitor patients for persistent or recurrent disease following treatment. Urine cytology has a high specificity (95 to 100 percent), but a low sensitivity (66 to 79 percent) for the detection of bladder cancer.19,20This limits its usefulness for detection of bladder cancer in asymptomatic persons."
+        },
+        {
+            "parent": 6,
+            "text": "Cystoscopy, an office procedure usually performed under local anesthesia, remains the mainstay of diagnosis and surveillance. Patients presenting with symptoms of bladder cancer should be evaluated with cystoscopy to determine if a lesion is present. Cystoscopy provides information about the tumor location, appearance, and size. Detection of flat neoplastic lesions, such as carcinoma in situ, can be enhanced by using fluorescence cystoscopy.18This involves the use of a photosensitizer, such as 5-aminolevulinic acid or hexaminolevulinic acid, that is instilled intravesically. This induces macroscopic fluorescence of tumor tissue in the bladder. The procedure carries a 5 percent risk of urinary infection."
+        },
+        {
+            "parent": 6,
+            "text": "Bladder wash cytology detects carcinoma in situ in almost all cases, even when the urothelium appears grossly normal, and obviates the need for random bladder biopsies.19,20Patients with symptoms of bladder cancer should be evaluated with cystoscopy and bladder wash cytology.14"
+        },
+        {
+            "parent": 7,
+            "text": "Upon detection of a lesion, a bimanual examination under anesthesia and transurethral resection of the tumor is performed. The muscle surrounding the tumor should be sampled to assess the depth of muscle invasion."
+        },
+        {
+            "parent": 8,
+            "text": "Additional workup for all patients with bladder cancer includes evaluation of the upper urinary tract with intravenous urography (IVU), renal ultrasonography, computed tomography (CT) urography, or magnetic resonance urography.21,22Renal ultrasonography alone is insufficient to complete the evaluation of hematuria in a patient with bladder cancer because it cannot delineate details of the urinary collecting system. Traditional IVU has been largely replaced by CT urography because of increased detail and data combined in the CT (e.g., extravesical spread of tumor, lymph node evaluation)."
+        },
+        {
+            "parent": 8,
+            "text": "For patients unable to undergo contrast injection (e.g., those with allergy, renal insufficiency), magnetic resonance urography may be used to evaluate the upper urinary tract. These tests are useful for disease staging and excluding other causes of hematuria. Pelvic imaging should be performed before transurethral resection to improve staging accuracy because postoperative inflammation mimics the appearance of tumor infiltration.21Pelvic imaging also may detect synchronous upper tract urothelial cancer, which can occur in 5 percent of patients with bladder cancer.22"
+        },
+        {
+            "parent": 9,
+            "text": "Complete blood count, blood chemistry tests (including alkaline phosphatase tests), liver function tests, chest radiography, and CT or magnetic resonance imaging of the abdomen and pelvis should be included in the metastatic workup for invasive bladder cancer.12A bone scan may be performed if the alkaline phosphatase level is elevated or if symptoms suggesting bone metastasis are present."
+        },
+        {
+            "parent": 10,
+            "text": "In recent years, there has been an intense debate about the role of urine-based tumor markers in the diagnosis and surveillance of bladder cancer. Newer tumor marker tests include the bladder tumor antigen (BTA) stat test and BTA Trak test; fluorescence in situ hybridization (FISH) analysis; ImmunoCyt test; nuclear matrix protein 22 (NMP22) test and NMP22 BladderChek test; and telomeric repeat amplification protocol.16Tumor marker tests approved by the U.S. Food and Drug Administration, such as NMP tests and FISH analysis for chromosomal changes in cells in urine, have demonstrated a superior sensitivity to urine cytology for low-grade tumors and an equivalent sensitivity for high-grade tumors and carcinoma in situ.23No tumor markers have the specificity of traditional urine cytology for detection of bladder cancer; therefore, tumor markers should not be used for diagnosis.23"
+        },
+        {
+            "parent": 11,
+            "text": "There are no current recommendations for bladder cancer screening. The U.S. Preventive Services Task Force recommends against routine screening for bladder cancer in adults (D recommendation).24There is no good evidence that the early treatment of this disease improves long-term health outcomes. Urine-based tests, such as urine dipstick to assess for hematuria, urine cytology, and tumor markers (e.g., BTA, NMP22), have been used as screening tools. However, because of the low prevalence of bladder cancer, the positive predictive value of these tests is low."
+        },
+        {
+            "parent": 12,
+            "text": "Optimal treatment is multidisciplinary, involving urology, pathology, and oncology (Tables 525and625, andFigure 125). Close follow-up is essential with bladder cancer (Table 725,26)."
+        },
+        {
+            "parent": 13,
+            "text": "Three stages of bladder cancer (non-muscle-invasive papillary carcinoma [stage Ta], carcinoma in situ [stage Tis], and tumor invading the lamina propria [stage T1]) were previously referred to as superficial bladder cancer, but now are described as non-muscle-invasive bladder cancer. Approximately 70 to 75 percent of bladder cancers present as non-muscle-invasive tumors. These tumors are initially treated by transurethral resection followed by close observation or intravesical chemotherapy or immunotherapy.25"
+        },
+        {
+            "parent": 13,
+            "text": "Depth and grade of tumor invasion, completeness of resection, and estimated probability of recurrence are key factors that guide the use of intravesical therapy. Low-grade Ta cancers are treated with resection alone. High-grade Ta and T1 cancers have a higher risk of recurrence and progression to more invasive stages, and therefore may require further resection (repeat transurethral resection of bladder tumor), intravesical bacille Calmette-Guérin (BCG), or mitomycin. Intravesical BCG therapy is preferred over mitomycin for those at high risk of disease progression. Radical cystectomy should be considered for high-risk, non-muscle-invasive bladder cancers, such as recurrent high-grade T1 disease or tumors with micropapillary histology.27Bladder carcinoma in situ is believed to be a precursor of invasive disease. Transurethral resection followed by intravesical BCG once per week for six weeks is recommended for carcinoma in situ."
+        },
+        {
+            "parent": 14,
+            "text": "Radical cystectomy with pelvic lymphadenectomy is the standard treatment for muscle-invasive bladder cancer (stage T2 and above).28Long-term, disease-free survival rates of up to 70 percent can be achieved if pathology shows no extravesical diseases.28Radical cystectomy involves cystoprostatectomy in men and cystectomy (usually with hysterectomy) in women, followed by a urinary diversion procedure. Segmental cystectomy may be considered for solitary lesions without carcinoma in situ located in suitable locations. In patients with extensive comorbid disease, bladder preservation strategies (transurethral resection with or without chemotherapy) are sometimes used instead of cystectomy to limit treatment-associated morbidity."
+        },
+        {
+            "parent": 14,
+            "text": "Neoadjuvant and adjuvant chemotherapy has been explored in patients with muscle-invasive disease and is best reserved for high-risk patients (e.g., those with nodal involvement, high-grade histology, transmural or vascular invasion, pathologic T3 lesion). Combination gemcitabine (Gemzar) and cisplatin (Platinol) is the standard treatment for most patients because of its lower toxicity. Combination methotrexate, vinblastine, doxorubicin (Adriamycin), and cisplatin (MVAC) has comparable effectiveness to gemcitabine/cisplatin; however, toxicity limits its use.29Chemotherapy is not used for nonurothelial cancers, such as squamous cell carcinoma or adenocarcinoma, which are primarily treated with cystectomy."
+        },
+        {
+            "parent": 15,
+            "text": "Patients with metastatic disease are treated with chemotherapy. The specific chemotherapy regimen depends on existence of medical comorbidities, such as cardiac and renal dysfunction. A commonly used combination is cisplatin and gemcitabine or a multidrug cisplatin-based regimen, such as MVAC. Carboplatin-based regimens are used in patients with insufficient renal reserve. If muscle invasion has occurred, radical cystectomy with pelvic lymphadenectomy remains the treatment of choice. Lifestyle modifications, including smoking cessation, are an integral part of treatment. Upon diagnosis, patients require continuous surveillance (Table 725,26) because most recurrences can be successfully treated if detected early."
+        }
+    ],
+    "locked": false
+}

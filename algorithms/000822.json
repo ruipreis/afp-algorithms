@@ -1,0 +1,206 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2002/1101/p1695.html#afp20021101p1695-f1",
+    "title": "Diagnosing Pericarditis | AAFP",
+    "author": "KRISHAN K. GOYLE, M.D., AND ANNE D. WALLING, M.D.",
+    "doi": "Am Fam Physician.2002;66(9):1695-1702",
+    "abstract": "Pericarditis, or inflammation of the pericardium, is most often caused by viral infection. It can also develop as a result of bacterial or other infection, autoimmune disease, renal failure, injury to the mediastinal area, and the effects of certain drugs (notably hydralazine and procainamide). The clinical features of pericarditis depend on its cause, as well as the volume and type of effusion. Patients with uncomplicated pericarditis have pleuritic-type chest pain that radiates to the left shoulder and may be relieved by leaning forward. Chest radiographs, Doppler studies, and laboratory tests confirm the diagnosis and provide information about the degree of effusion. In most patients, pericarditis is mild and resolves spontaneously, although treatment with a nonsteroidal anti-inflammatory drug or a short course of a corticosteroid may be helpful. When a large pericardial effusion is produced, cardiac function may be compromised, and cardiac tamponade can occur. In patients with longstanding inflammation, the pericardium becomes fibrous or calcified, resulting in constriction of the heart. Drainage or surgical intervention may be necessary in patients with complicated pericarditis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Pathophysiology and Classification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Hemodynamic Considerations",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Clinical Features",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "ELECTROCARDIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "CHEST RADIOGRAPHY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "DOPPLER STUDIES",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "LABORATORY TESTS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Pericarditis is inflammation of the pericardial sac surrounding the heart and the origins of the great vessels.1The condition is most often caused by a viral infection and generally resolves in a few weeks with no sequelae."
+        },
+        {
+            "parent": -1,
+            "text": "Severe pericardial syndromes are relatively uncommon, and their clinical features are largely determined by the amount and type of fluid produced by the inflammatory process.1,2The normal pericardial sac contains 15 to 20 mL (maximum: 50 mL) of serous fluid, which lubricates cardiac motion.3In pericarditis, the accumulation of serous fluid, inflammatory cells, and fibrin may compromise cardiac function."
+        },
+        {
+            "parent": -1,
+            "text": "Over time, pericarditis can result in chronic inflammation with thickening and, ultimately, calcification of the pericardium. This condition is known as “chronic constrictive pericarditis.” Conversely, rapid accumulation of serous fluid can result in acute compression of the cardiac chambers, with dire hemodynamic consequences.3,4This condition, which is called “cardiac tamponade,”may occur in up to 15 percent of patients with severe pericarditis.2"
+        },
+        {
+            "parent": -1,
+            "text": "Pericarditis can mimic other conditions, especially myocardial infarction. Family physicians should be alert to the possibility of pericarditis in patients with chest pain, because misdiagnosis can have potentially fatal consequences. In particular, hemorrhage and fatal cardiac compression can occur if thrombolytic therapy is given to patients who have pericarditis."
+        },
+        {
+            "parent": 0,
+            "text": "Although viral infection is the most common cause of pericarditis,5the condition has many possible causes6,7(Table 1), including bacterial infection, myocardial infarction, trauma, malignancy, uremia, hypothyroidism, collagen vascular disease, and the effects of certain drugs, notably hydralazine (Apresoline) and procainamide (Pronestyl). Purulent pericarditis as a result of bacterial infection (e.g., tuberculosis) is now rare, but human immunodeficiency virus infection has become an increasingly common cause of the condition.8,9Many infections that cause pericarditis, particularly fungal and nonbacterial infections, occur most often in immuno-compromised patients."
+        },
+        {
+            "parent": 0,
+            "text": "Pericarditis may complicate myocardial infarction on the second to fourth day after the acute event as a reaction to underlying necrotic myocardium. The condition may also be a prominent feature of postmyocardial infarction syndrome (Dressler's syndrome), which develops weeks to months after acute infarction. In this situation, pericarditis occurs because of a late autoimmune reaction stimulated by the entry of necrotic myocardial tissue into the circulation, where it acts as an antigen."
+        },
+        {
+            "parent": 0,
+            "text": "Pericarditis is a feature of several autoimmune conditions, especially systemic lupus erythematosus. It is also associated with renal failure and hemodialysis. Furthermore, pericarditis can develop because of injury to the pericardium as a result of trauma, surgery, instrumentation, or radiation therapy."
+        },
+        {
+            "parent": 1,
+            "text": "Depending on the underlying cause, the acute inflammatory response in pericarditis may produce serous fluid, pus, or dense fibrinous material. Viral pericarditis usually results in small accumulations of serous fluid that resolve spontaneously or require minimal therapeutic intervention. Even large volumes of serous fluid (up to 250 mL) may not cause significant clinical signs or symptoms if accumulation is gradual. The effusion may only be apparent as an enlarged cardiac silhouette on the chest radiograph.3"
+        },
+        {
+            "parent": 1,
+            "text": "Conversely, large acute accumulations of pericardial fluid may cause intrapericardial pressure to rise, thereby impeding filling of the right side of the heart through the superior vena cava and inferior vena cava. Acutely, this situation can result in cardiac tamponade. If the pericarditis process continues and the fluid organizes into a thickened (even calcified) coating, the resultant constrictive pericarditis may mimic restrictive cardiomyopathy.4,10,11Thus, pericarditis may be classified as acute, subacute, or chronic, depending on the underlying pathophysiologic process(Table 2)."
+        },
+        {
+            "parent": 2,
+            "text": "Changes in the jugular veins and the relationship of those changes to respiration can be extremely useful in differentiating pericarditis from other causes of chest pain and related symptoms. These changes also can be crucial in recognizing cardiac tamponade and constrictive pericarditis.1–3,11"
+        },
+        {
+            "parent": 2,
+            "text": "The normal jugular vein examination shows two positive waves (theawave during atrial systole and thevwave during ventricular systole) and two negative waves (thexdescent during atrial diastole and theydescent during ventricular systole). During inspiration, lung expansion causes negative intrathoracic pressure that is transmitted to the pericardium and cardiac chambers, leading to dilation of the chambers. As a result, the right chambers of the heart fill with blood from the superior vena cava and the inferior vena cava, and the left chambers fill because of forward flow in the pulmonary veins."
+        },
+        {
+            "parent": 2,
+            "text": "Even with a moderately large effusion, mild acute pericarditis usually has no hemodynamic impact on the heart. Hence, jugular venous profiles are generally normal."
+        },
+        {
+            "parent": 2,
+            "text": "Conversely, cardiac tamponade and constrictive pericarditis lead to important and distinctive hemodynamic changes. Because the heart is constricted by fluid or a rigid fibrinous or calcified pericardium, negative intrathoracic pressure during inspiration is not transmitted to the pericardial sac. Consequently, intrapericardial and intracardiac pressures remain elevated, and intrapericardial pressure equals or exceeds right atrial pressure."
+        },
+        {
+            "parent": 2,
+            "text": "In cardiac tamponade, this situation results in early right ventricular diastolic collapse and late diastolic right atrial collapse, because pressures are lowest in diastole. Theydescent is blunted because the right ventricle cannot expand, but thexdescent remains normal. In cardiac tamponade, some blood (though less than normal) still flows toward the right side of the heart during inspiration. Because the cardiac chambers are inhibited from dilating, the inflow causes the intraventricular septum to shift to the left, which further decreases left ventricular capacity."
+        },
+        {
+            "parent": 2,
+            "text": "The hemodynamic changes can cause systolic blood pressure to fall by 10 mm Hg or more during inspiration. This situation, termed “pulsus paradoxus,” is the classic hallmark of cardiac tamponade. Pulsus paradoxus is detectable in 70 to 80 percent of patients with cardiac tamponade and in about one third of patients with pericarditis.2"
+        },
+        {
+            "parent": 2,
+            "text": "In constrictive pericarditis, no forward flow occurs from the superior vena cava and the inferior vena cava during inspiration. This results in Kussmaul's sign, which is a paradoxic inspiratory swelling of the neck veins. Because blood flow to the right side of the heart does not increase, no septal shift occurs, and pulsus paradoxus is not common in constrictive pericarditis."
+        },
+        {
+            "parent": 3,
+            "text": "Patients usually recall a nonspecific prodrome of malaise, fever, and chest pain, especially in viral or idiopathic pericarditis. The chest pain is typically pleuritic and radiates to the left shoulder and, characteristically, the left trapezius musculature. The pain is exacerbated by inspiration or recumbency and relieved to some extent by leaning forward. Patients may have additional symptoms, depending on the etiology of the pericarditis and the presence of complications."
+        },
+        {
+            "parent": 3,
+            "text": "Clinical signs may be subtle. A pericardial friction rub may or may not be present. Large effusions are unlikely to produce a pericardial rub. With large, slowly accumulating effusions, there may be dullness to percussion in the scapular region because of compression of the left lung (Ewart's sign)."
+        },
+        {
+            "parent": 3,
+            "text": "As previously noted, acute, rapid accumulation of fluid in the pericardium causes signs of acute hemodynamic compromise in cardiac tamponade. Patients with this condition develop tachycardia, hypotension, pulsus paradoxus, and distended neck veins. Although these patients appear to be in acute distress (similar to cardiac failure and pulmonary edema), their lungs are clear on auscultation."
+        },
+        {
+            "parent": 3,
+            "text": "In chronic constrictive pericarditis,4the neck veins are markedly distended, but patients do not appear distressed and show no evidence of pulsus paradoxus. During inspiration, the neck veins become distended (normally, they collapse). The jugular venous pulse shows a sharpydescent because of rapid right ventricular filling in early diastole. A sharp heart sound called a “pericardial knock” is heard in early diastole. Unless other problems are present, the lungs are usually clear on auscultation. Because of congestion of the inferior vena cava, the liver is enlarged, and ascites and peripheral leg edema are evident. Clinical features may mimic those of restrictive cardiomyopathy."
+        },
+        {
+            "parent": 4,
+            "text": "The diagnosis of pericarditis and its complications requires a high index of suspicion. Clinical features and the probability of a cause of pericarditis(Table 1)may assist in recognition. Potential confirmatory studies include the electrocardiogram (ECG), the chest radiograph, Doppler studies, and selected laboratory tests. A suggested approach to the diagnosis of pericarditis is provided inFigure 1.2"
+        },
+        {
+            "parent": 5,
+            "text": "In acute pericarditis, the ECG typically shows ST-segment elevation in all leads, with an upward concavity of the elevation (so-called “smiling face”). The PR segment is depressed. Unlike myocardial infarction, there is no reciprocal change, and T waves are not inverted.12–15"
+        },
+        {
+            "parent": 5,
+            "text": "In this situation, the differential diagnosis includes acute myocardial infarction and normal-variant repolarization abnormality. It is particularly important to distinguish pericarditis from acute myocardial infarction, because thrombolytic therapy could have disastrous effects in patients with pericarditis. Characteristic features of acute pericarditis, acute myocardial infarction, and early repolarization are summarized inTable 3. Examples illustrating the ECG differentiation of the three conditions are provided inFigure 2.16"
+        },
+        {
+            "parent": 5,
+            "text": "In cardiac tamponade, the ECG shows electrical alternans as the heart “floats” in relation to the recording leads. Chronic constrictive pericarditis presents with low voltage of the QRS complex and diffuse flattening or inversion of the T waves. Atrial fibrillation occurs in one third of patients with pericardial disease."
+        },
+        {
+            "parent": 6,
+            "text": "If more than 250 mL of fluid has accumulated, the cardiac silhouette is usually enlarged on the chest radiograph. Smaller accumulations may appear normal. In constrictive pericarditis, calcification may be seen around the heart."
+        },
+        {
+            "parent": 7,
+            "text": "The diagnostic test of choice for large effusions, cardiac tamponade, and constrictive pericarditis is two-dimensional Doppler echocardiography. This imaging modality can demonstrate moderate or large effusions. In cardiac tamponade, Doppler examination may show the characteristic swinging motion of the heart that gives rise to electrical alternans."
+        },
+        {
+            "parent": 7,
+            "text": "Doppler examination can also show the reversal of inflow velocities in the tricuspid and mitral valves during inspiration and expiration. Divergence of right and left ventricular systolic pressures is demonstrated in cardiac tamponade and constrictive pericarditis. Doppler studies differentiate pericarditis from restrictive cardiomyopathy.3,10,17"
+        },
+        {
+            "parent": 8,
+            "text": "Laboratory studies are useful for excluding other possible causes of symptoms and clarifying the underlying cause of pericarditis. Testing is individualized but frequently includes a complete blood cell count (CBC), an erythrocyte sedimentation rate (ESR), cardiac enzyme levels, and serum chemistries. Non-specific elevations in the CBC and ESR are common in patients with pericarditis."
+        },
+        {
+            "parent": 9,
+            "text": "Most patients with idiopathic pericarditis can be managed conservatively with a non-steroidal anti-inflammatory drug (NSAID) such as indomethacin (Indocin), ibuprofen (e.g., Advil, Motrin), or acetylsalicylic acid (aspirin). These agents are believed to be equally effective, and the literature does not indicate an NSAID of choice for pericarditis."
+        },
+        {
+            "parent": 9,
+            "text": "Patients who do not respond to an NSAID may need a short course of a corticosteroid, usually prednisone in a dosage of 5 to 10 mg per day for one to two weeks. Rarely, patients do not respond to this therapy or show evidence of recurrent pericarditis. These patients require a prolonged corticosteroid course (i.e., several months)."
+        },
+        {
+            "parent": 9,
+            "text": "Colchicine may be a useful alternative in patients who cannot take NSAIDs and corticosteroids or have major side effects with these agents.18"
+        },
+        {
+            "parent": 9,
+            "text": "Indications for hospitalization include elevated neck veins, tachycardia, hypotension, poor pain control, and elevated cardiac enzyme levels. Patients also should be hospitalized if they have pulsus paradoxus, electrical alternans on the ECG, or a large pericardial effusion. Patients with chronic, large pericardial effusion may be asymptomatic but can develop cardiac tamponade precipitously. Thus, pericardiocentesis is indicated, and pericardectomy should be performed if the effusion recurs after percutaneous drainage.11"
+        },
+        {
+            "parent": 9,
+            "text": "Pericardiocentesis is best performed in a controlled setting by an experienced physician. The patient is placed in a semirecumbent position (approximately 45- to 60-degree elevation). The pericardiocentesis needle is introduced into the subxiphoid angle and aimed toward the left shoulder. Distally, the needle is attached to an ECG monitor. Detection of ST-segment elevation during the procedure suggests injury to the myocardium. In cardiac tamponade, emergency pericardiocentesis can be lifesaving, because drainage of even a small amount of fluid changes the volume-pressure relationship significantly."
+        },
+        {
+            "parent": 9,
+            "text": "For continuous drainage, a catheter may be left in the pericardial sac, or a pericardial window may be created surgically. Pericardiocentesis may result in recurrent effusive-adhesive pericarditis, especially in uremic, malignant, or bacterial pericardial effusions. These conditions frequently require the creation of a pericardial window."
+        },
+        {
+            "parent": 9,
+            "text": "Pericardiectomy is the treatment of choice for chronic constrictive pericarditis. In asymptomatic patients and patients who are not considered surgical candidates, cautious diuretic therapy may be considered. Because atrial dysrhythmias (particularly atrial fibrillation) are common in patients with pericarditis, ventricular rate control should be initiated using a calcium channel blocker (verapamil [Calan, Isoptin] or diltiazem [Cardizem], but not nifedipine [Procardia]) or a beta blocker."
+        },
+        {
+            "parent": 9,
+            "text": "In certain situations, patients with cardiac tamponade or hemopericardium must go directly to surgery. Needle pericardiocentesis will exsanguinate patients with proximal aortic dissection or cardiac rupture.3"
+        }
+    ],
+    "locked": false
+}

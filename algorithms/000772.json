@@ -1,0 +1,183 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/1215/p2401.html#afp20031215p2401-f1",
+    "title": "Diagnosis and Management of Post-traumatic Stress Disorder | AAFP",
+    "author": "BRADLEY D. GRINAGE, M.D.",
+    "doi": "Am Fam Physician.2003;68(12):2401-2409",
+    "abstract": "Although post-traumatic stress disorder (PTSD) is a debilitating anxiety disorder that may cause significant distress and increased use of health resources, the condition often goes undiagnosed. The lifetime prevalence of PTSD in the United States is 8 to 9 percent, and approximately 25 to 30 percent of victims of significant trauma develop PTSD. The emotional and physical symptoms of PTSD occur in three clusters: re-experiencing the trauma, marked avoidance of usual activities, and increased symptoms of arousal. Before a diagnosis of PTSD can be made, the patient's symptoms must significantly disrupt normal activities and last for more than one month. Approximately 80 percent of patients with PTSD have at least one comorbid psychiatric disorder. The most common comorbid disorders include depression, alcohol and drug abuse, and other anxiety disorders. Treatment relies on a multidimensional approach, including supportive patient education, cognitive behavior therapy, and psychopharmacology. Selective serotonin reuptake inhibitors are the mainstay of pharmacologic treatment.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Background",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "PREVALENCE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "RISK FACTORS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "Comorbidities",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Disease Course and Prognosis",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "PSYCHOTHERAPY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "PHARMACOLOGY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Post-traumatic stress disorder (PTSD) is an anxiety disorder that occurs following exposure to a traumatic event. The disorder has not been extensively studied in primary care; however, the events of September 11, 2001, raised both public and professional awareness of PTSD. Many more cases may now be diagnosed in family practice patients, because they are more apt to disclose information to their physicians and because physicians are more aware of the diagnosis. One study1estimated that 11.8 percent of patients presenting to a primary care clinic met the diagnostic criteria for PTSD."
+        },
+        {
+            "parent": -1,
+            "text": "Patients with PTSD use health care resources more often than patients without PTSD, including those who have other anxiety disorders.1,2Because of frustrations in diagnosing and managing their patient's recurrent medical complaints, some physicians characterize patients with PTSD as “difficult” or “heart-sink” patients—that is, patients who evoke “an overwhelming mixture of exasperation, defeat, and sometimes plain dislike.”3Prompt recognition and effective treatment of PTSD can greatly benefit these patients, their families, and those who work with them."
+        },
+        {
+            "parent": 0,
+            "text": "The psychologic effects of trauma have been described throughout military history. Da Costa syndrome (“soldier's heart”), which is characterized by cardiac symptoms associated with irritability and increased arousal, was described in veterans of the American Civil War. During World War I, it was hypothesized that “shell shock” resulted from brain trauma caused by exploding shells. During World War II, terms such as “combat neurosis” and “operational fatigue” were used to describe combat-related symptoms."
+        },
+        {
+            "parent": 0,
+            "text": "The Vietnam War significantly influenced the current concept of PTSD. In 1980, theDiagnostic and Statistical Manual of Mental Disorders, 3d ed. (DSM-III)4established criteria for the diagnosis of PTSD. Modifications were made in subsequent editions.5,6This article reviews the current diagnostic criteria for PTSD as contained in the 4th edition, text revision (DSM-IV-TR)7and focuses on diagnosis and management, including the detection and treatment of comorbidities."
+        },
+        {
+            "parent": 1,
+            "text": "A precipitating traumatic event is necessary, but not sufficient, to make the diagnosis of PTSD. The criteria for diagnosis specify factors concerning the victim's perception of the trauma as well as the duration and impact of associated symptoms, including persistent re-experiencing of the traumatic event, marked avoidance of usual activities, and symptoms of increased arousal(Table 1).7"
+        },
+        {
+            "parent": 1,
+            "text": "Before a diagnosis of PTSD can be made, symptoms must last for at least one month and must significantly disrupt normal activities. In persons who have survived a traumatic event, an anxiety syndrome that lasts for less than one month is termed “acute stress disorder”; this condition requires three or more dissociative symptoms in addition to the persistent symptoms associated with PTSD. Symptoms of PTSD that last less than three months indicate an acute condition. A delayed picture occurs in patients who begin experiencing symptoms six months or more after the traumatic event.7"
+        },
+        {
+            "parent": 1,
+            "text": "The diagnosis of PTSD may be difficult to make for many reasons. Patients may not recognize the link between their symptoms and an experienced traumatic event; patients may be unwilling to disclose the event; or the presentation may be obscured by depression, substance abuse, or other comorbidities.8Direct, empathic, and nonjudgmental questioning is recommended when physicians take a patient history. For example, the physician might ask, “Have you ever been attacked or threatened?” or, “Have you ever been in a severe accident or natural disaster?”8"
+        },
+        {
+            "parent": 1,
+            "text": "Making a connection between a patient's symptoms and a trauma that occurred in childhood may be particularly difficult to establish. An appropriate question to establish this connection is, “Many people are troubled by frightening events that occurred in their childhood. Do you have this problem?”9"
+        },
+        {
+            "parent": 1,
+            "text": "A screening questionnaire for PTSD reportedly has a sensitivity of 80 percent and a specificity of 97 percent for the diagnosis of PTSD.10Examples of the questions include: “Do you have diminished interest in activities”; “Do you have problems sleeping?”; and “Do you find it hard to feel or show affection for others?”10"
+        },
+        {
+            "parent": 3,
+            "text": "The overall lifetime prevalence of PTSD in the United States is approximately 8 to 9 percent, and the condition is twice as common in women.7,11,12Symptoms that do not meet the full criteria for PTSD appear to be common in the general population and can be quite common in groups at high risk of PTSD.13For example, although the lifetime prevalence of PTSD in veterans of the Vietnam War is around 30 percent, about 50 percent of Vietnam veterans had some clinically significant symptoms of PTSD.14"
+        },
+        {
+            "parent": 4,
+            "text": "The epidemiology of PTSD is directly linked to the epidemiology of trauma.11The likelihood of developing PTSD varies with severity, duration, and proximity of the experienced trauma.4Approximately 25 to 30 percent of victims of traumatic events develop symptoms of PTSD; however, response to trauma varies with the severity and the subjective experience associated with the trauma.12,15,16In men, exposure to military combat and witnessing someone being badly injured or killed are the types of trauma most commonly associated with a diagnosis of PTSD. The most common traumatic events associated with PTSD in women are rape and sexual molestation.11"
+        },
+        {
+            "parent": 4,
+            "text": "Persons who have been victimized previously are at greater risk of being victimized again. A history of childhood abuse increases the risk for victimization and PTSD in adults.17Because there is a strong relationship between mental disorders and victimization by assault, patients with mental health problems have a high risk of PTSD. One study18noted that 72.2 percent of patients in community mental health centers had been exposed to physical or sexual assault or were family members of homicide victims.18 Similarly, persons who abuse alcohol or drugs are approximately 1.5 times more likely to experience traumatic events than nondrug users and have, therefore, an increased risk of developing PTSD. A history of behavior problems before the age of 15 years, as occurs in patients with antisocial personality disorder, also increases the risk of PTSD.18"
+        },
+        {
+            "parent": 4,
+            "text": "Although PTSD is the least studied anxiety disorder, data suggest that genetic factors may increase vulnerability to PTSD if the person is exposed to an adequate threat.13Age and ethnicity do not appear to affect morbidity.12,19"
+        },
+        {
+            "parent": 5,
+            "text": "Although the etiology of PTSD is unknown, most investigators believe that a personal predisposition is necessary for symptoms to develop after a traumatic event. Clinically significant symptoms following a traumatic event occur in a minority of persons. Those likely to develop PTSD tend to have a pre-existing depression or anxiety disorder, or a family history of anxiety and neuroticism.20"
+        },
+        {
+            "parent": 5,
+            "text": "From a biologic perspective, the body's failure to return to its pretraumatic state differentiates PTSD from a simple fear response. In a normal fear response, the immediate sympathetic discharge activates the “fight-or-flight” reaction. Increases in both catecholamines and cortisol occur relative to the severity of the stressor. Cortisol release stimulated by corticotropin-releasing factor via the hypothalamic-pituitary-adrenal (HPA) axis acts in a negative feedback loop to suppress sympathetic activation and cause further release of cortisol."
+        },
+        {
+            "parent": 5,
+            "text": "In patients with PTSD, ambient cortisol levels are lower than normal; this state has been attributed to chronic “adrenal exhaustion” from inhibition of the HPA axis by persistent severe anxiety. However, recent data21note that cortisol levels in the immediate aftermath of a motor vehicle wreck were significantly lower in persons who went on to develop PTSD. In a related study,22cortisol levels immediately after rape were lower in women with a previous history of rape. Some investigators have hypothesized that the HPA axis and the sympathetic nervous system are disassociated in persons who develop PTSD, which may allow for an uncontrolled catecholamine release that affects formation of memories during the trauma and perhaps exacerbates symptoms when that person is exposed to cues after the trauma.15"
+        },
+        {
+            "parent": 6,
+            "text": "PTSD is associated with increased rates of affective disorders, anxiety disorders, and substance abuse. Data from the National Comorbidity Survey12indicate that at least one additional psychiatric disorder is present in 88.3 percent of men and 79.0 percent of women who have a history of PTSD. In addition, 59 percent of men and 44 percent of women who have PTSD meet the criteria for three or more psychiatric diagnoses. Women who have PTSD are 4.1 times as likely to develop a major depression and 4.5 times as likely to develop mania as women who do not have PTSD. Men who have PTSD are 6.9 times as likely to develop depression and 10.4 times as likely to develop mania as men who do not have PTSD.23"
+        },
+        {
+            "parent": 6,
+            "text": "More than one half of men with PTSD also have a comorbid alcohol problem, and a significant portion of men and women who have PTSD have a comorbid illicit-substance use problem.12In patients who have PTSD, phobias tend to be more prevalent than generalized anxiety disorder or panic disorder; the risk of almost all anxiety disorders is increased markedly in these patients23(Table 2).12The rate of attempted suicide in patients who have PTSD is estimated at 20 percent.24"
+        },
+        {
+            "parent": 7,
+            "text": "PTSD may occur at any age, even in childhood. Symptom duration is variable and is affected by the proximity, duration, and intensity of the trauma, as well as comorbidity with other psychiatric disorders.7,20The patient's subjective interpretation of the trauma also influences symptoms.18In patients who are receiving treatment, the average duration of symptoms is approximately 36 months. In patients who are not receiving treatment, the average duration of symptoms rises to 64 months. More than one third of patients who have PTSD never fully recover.12"
+        },
+        {
+            "parent": 7,
+            "text": "Factors associated with a good prognosis include rapid engagement of treatment, early and ongoing social support, avoidance of retraumatization, positive premorbid function, and an absence of other psychiatric disorders or substance abuse.19,25"
+        },
+        {
+            "parent": 8,
+            "text": "The treatment of patients with PTSD relies on a multidimensional approach.26Treatment options include patient education, social support, and anxiety management through psychotherapy and psychopharmacologic intervention. Patient education and social support are important initial interventions to engage the patient and mitigate the impact of the traumatic event. Local and national support groups may help to destigmatize the mental health diagnosis and reaffirm that symptoms of PTSD involve more than just a reaction to stress and require treatment. Support from family and friends encourages understanding and acceptance that may alleviate survivor guilt. However, the mainstay of treatment is psychopharmacologic and psychotherapeutic intervention(Figure 1)."
+        },
+        {
+            "parent": 9,
+            "text": "Studies demonstrate that cognitive-behavior treatment is effective in ameliorating the symptoms of PTSD. In a study27of patients receiving various forms of cognitive-behavior treatment in nine sessions over a six-week period, the percentage of patients who attained positive end-state function (defined as a 50 percent reduction in severity of PTSD symptoms) ranged from 21 to 46 percent. A similar study showed that 32 to 53 percent of patients receiving 10 sessions of cognitive-behavior treatment over a 16-week period achieved positive end-state function.27"
+        },
+        {
+            "parent": 9,
+            "text": "Specific types of cognitive-behavior treatment include cognition therapy, exposure therapy, and stress inoculation training. These therapies focus on ways for patients to confront fear and develop anxiety-management tools. The different forms of cognitive-behavior treatment tend to be equally efficacious when used individually and in combination. Other therapies, such as group therapy, eye movement desensitization, and reprocessing therapy, may have some role in the treatment of PTSD; however, because their efficacy has not been substantially demonstrated, cognitive-behavior treatment remains the primary mode of therapy.26–28"
+        },
+        {
+            "parent": 9,
+            "text": "Approximately 14 percent of patients with PTSD discontinue psychotherapy. The highest drop-out rates (up to 50 percent) occur with exposure therapy, indicating that many patients have difficulty with re-experiencing the trauma.26,27The attending physician can provide solid therapeutic intervention with good listening skills and empathic support. If resolution of PTSD symptoms does not occur with initial support and medication, referring the patient to a therapist may be warranted."
+        },
+        {
+            "parent": 9,
+            "text": "Because PTSD can have devastating effects on family members and those close to the patient, family and other group therapies may be indicated as adjuncts to individual treatment of the patient with PTSD.29"
+        },
+        {
+            "parent": 10,
+            "text": "Recent interest in the treatment of PTSD has stimulated large, prospective, double-blind, placebo-controlled clinical trials of the efficacy of selective serotonin reuptake inhibitors (SSRIs) in the treatment of the symptoms of PTSD. Currently, paroxetine (Paxil) and sertraline (Zoloft) are the only medications that have been approved by the U.S. Food and Drug Administration for the treatment of PTSD. In two separate 12-week, double-blind, placebo-controlled trials,30,31both paroxetine and sertraline were found to be effective in the acute treatment of symptoms of PTSD. Of the patients who received 20 mg or 40 mg of paroxetine, 62 percent and 54 percent, respectively, responded positively compared with 37 percent of patients who received placebo.30[Evidence level A, randomized controlled trial] Patients who received a mean daily dosage of 146 mg of sertraline had a 60 percent positive response rate compared with a 38 percent positive response rate in patients receiving placebo.31"
+        },
+        {
+            "parent": 10,
+            "text": "Another study32showed that sertraline was effective in preventing relapse of symptoms of PTSD during a 28-week maintenance phase following 24 weeks of acute therapy. This study also showed that continued treatment with sertraline at a mean daily dosage of 137 mg yielded a 5 percent relapse rate compared with a 26 percent relapse rate in those receiving placebo.32Other trials33have been conducted, including four open trials and two controlled trials of fluoxetine, and five open trials of fluvoxamine. These studies suggest that several SSRIs are helpful in the amelioration of acute symptoms of PTSD.33"
+        },
+        {
+            "parent": 10,
+            "text": "Research into the use of neuroleptic medications in patients who have PTSD is limited for the most part to case studies. Approximately 10 percent of patients with PTSD are treated with an antipsychotic medication; these patients tend to have symptoms of PTSD that are more intrusive and severe.34Case reports note a reduction in flashbacks and nightmares with the use of risperidone. Clozapine was reported to be effective in a patient with concomitant psychosis who was a veteran of the Vietnam War. Results of an open-label trial of olanzapine in 46 patients with combat-induced PTSD suggest possible efficacy in the treatment of PTSD.34"
+        },
+        {
+            "parent": 10,
+            "text": "Previous studies33indicate that the use of tricyclic antidepressants and monoamine oxidase inhibitors are moderately effective in the treatment of PTSD and are superior to placebo; however, because of their side effect profiles, these medications are currently considered second- or third-line agents. Open-label investigations33of the use of the mood stabilizers lamotrigine, valproate, and carbamazepine show promise in reducing the symptoms of PTSD. Furthermore, buspirone and clonazepam have shown some benefit in reducing anxiety in patients with PTSD.33A recent pilot study suggests that propranolol, administered after an acute traumatic event, may have a preventive effect on the subsequent development of PTSD.35"
+        }
+    ],
+    "locked": false
+}

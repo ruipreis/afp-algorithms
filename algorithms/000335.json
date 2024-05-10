@@ -1,0 +1,94 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0715/p99.html#afp20140715p99-f1",
+    "title": "Diagnostic Approach to Pleural Effusion | AAFP",
+    "author": "AARON SAGUIL, MD, KRISTEN WYRICK, MPH, MD, AND JOHN HALLGREN, MD",
+    "doi": "Am Fam Physician.2014;90(2):99-104",
+    "abstract": "Pleural effusion affects more than 1.5 million people in the United States each year and often complicates the management of heart failure, pneumonia, and malignancy. Pleural effusion occurs when fluid collects between the parietal and visceral pleura. Processes causing a distortion in body fluid mechanics, such as in heart failure or nephrotic syndrome, tend to cause transudative effusions, whereas localized inflammatory or malignant processes are often associated with exudative effusions. Patients can be asymptomatic or can present with cough, dyspnea, and pleuritic chest pain. Dullness to percussion on physical examination suggests an effusion; chest radiography can confirm the diagnosis. Thoracentesis may be indicated to diagnose effusion and relieve symptoms. Ultrasound guidance is preferred when aspirating fluid. Routine assays for aspirated fluid include protein and lactate dehydrogenase levels, Gram staining, cytology, and pH measurement. Light's criteria should be used to differentiate exudative from transudative effusions. Additional laboratory assays, bronchoscopy, percutaneous pleural biopsy, or thoracoscopy may be required for diagnosis if the initial test results are inconclusive.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology and Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Presentation",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Imaging",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Thoracentesis",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "INDICATIONS AND PROCEDURE",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "FLUID ANALYSIS",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "More than 1.5 million persons develop pleural effusions each year in the United States.1Many of the disease processes commonly seen in primary care are associated with pleural effusion, which requires family physicians to be familiar with its causes, diagnosis, and management."
+        },
+        {
+            "parent": 0,
+            "text": "The visceral and parietal pleural membranes border a potential space within the thoracic cavity. Normally, a small physiologic amount of pleural fluid (0.1 mL per kg) rests within this space. Oncotic and hydrostatic pressures regulate fluid movement between the pleura, which adapt to a range of pressures to maintain the amount of fluid within a preset range. Abnormally high capillary and interstitial hydrostatic pressures can cause an abnormal accumulation of pleural fluid (e.g., in heart failure), as can an abnormally decreased capillary oncotic pressure (e.g., in nephrotic syndrome). Fluid that accumulates as a result of an imbalance in these forces produces transudative effusions. Additionally, inflammatory and malignant processes can promote local capillary and pleural membrane permeability or lymphatic blockage, which allows for the accumulation of exudative pleural fluid (i.e., fluid that is higher in protein and lactate dehydrogenase than transudative fluid).2Furthermore, an interruption in diaphragmatic integrity can allow fluid to enter the pleural space.3"
+        },
+        {
+            "parent": 0,
+            "text": "Pleural effusions can arise from a variety of disease states or medications(Table 11–14andTable 215). Despite the variety of conditions associated with effusions, many are idiopathic; these effusions tend to follow a benign course.16"
+        },
+        {
+            "parent": 1,
+            "text": "Patients with pleural effusion can be asymptomatic or can present with dyspnea, cough, or pleuritic chest pain. The history and physical examination can narrow the diagnostic considerations(Table 31–10,13andTable 417). The history should focus on differentiating pulmonary etiologies from cardiovascular and other causes of effusion. A thorough chest examination should be performed, with particular attention to dullness to percussion because it is sensitive and specific for diagnosing effusion.17Figure 1outlines an approach to evaluating and diagnosing the cause of pleural effusion.10,17–20"
+        },
+        {
+            "parent": 2,
+            "text": "When pleural effusion is suspected, chest radiography should be performed to confirm the diagnosis. Abnormal findings can be detected on posteroanterior radiography in the presence of 200 mL of fluid, and on lateral radiography with as little as 50 mL of fluid.10Lateral decubitus radiography may be obtained to help determine the size of the effusion and whether it is free-flowing or loculated."
+        },
+        {
+            "parent": 2,
+            "text": "If chest radiography is inconclusive, computed tomography and ultrasonography may be useful.21,22Computed tomography can detect effusions not apparent on plain radiography, distinguish between pleural fluid and pleural thickening, and provide clues to the underlying etiology.22Ultrasonography is more accurate than auscultation or chest radiography in detecting pleural effusion in the critical care setting, and is more sensitive than computed tomography in detecting pleural fluid septations.10,21"
+        },
+        {
+            "parent": 4,
+            "text": "Diagnostic small-volume aspiration of pleural fluid (50 to 60 mL) is indicated when the underlying cause of effusion is unknown. Large-volume aspiration is reserved for treatment of effusion-related symptoms, such as dyspnea.10,23Emergent thoracentesis and/or chest tube placement is necessary in patients with pleural effusion and significant respiratory or cardiac decompensation."
+        },
+        {
+            "parent": 4,
+            "text": "Chest radiography can help guide patient selection. Aspiration is required in an undiagnosed patient with an effusion larger than 1 cm on a decubitus film.18Likewise, an effusion larger than 5 cm on a lateral radiograph in a patient with pneumonia warrants diagnostic aspiration, because parapneumonic effusions and empyema can cause nonresponse to treatment.19Patients with suspected transudative bilateral effusions should not undergo thoracentesis unless they have atypical features (e.g., fever, pleuritic chest pain, effusions of disparate size) or do not respond to treatment.10,18Guidelines recommend that, when possible, thoracentesis be performed with ultrasound guidance; this increases the likelihood of successful aspiration, decreases the risk of organ puncture (odds ratio for pneumothorax with ultrasonography = 0.3 to 0.8), and is associated with lower hospital costs.10,20,24A recent systematic review, however, indicates no benefit from skin marking or ultrasound-guided needle insertion.25Postprocedural chest radiography is not indicated unless symptoms develop.20,26A video depicting thoracentesis is available athttp://www.nejm.org/doi/full/10.1056/NEJMvcm053812(subscription required)."
+        },
+        {
+            "parent": 5,
+            "text": "Gross appearance of the pleural fluid can provide diagnostic clues(Table 5).10,11Milky fluid may indicate a chylothorax or pseudochylothorax, whereas food particles suggest an esophageal perforation. Routine testing includes protein and lactate dehydrogenase levels, Gram staining and culture, cytology (malignant effusions can be diagnosed by cytology in 60% of cases), and pH level. Glucose levels may also be obtained.10,18"
+        },
+        {
+            "parent": 5,
+            "text": "Protein and lactate dehydrogenase levels help determine whether collected pleural fluid represents a transudative or exudative effusion and are used to assess for Light's criteria(Figure 1).10,17–20Light's criteria are 99.5% sensitive for diagnosing exudative effusion27and differentiate exudative from transudative effusions in 93% to 96% of cases.10,28In the absence of serum testing, pleural fluid protein and lactate hydrogenase levels have a 92% concordance with Light's criteria for differentiating between transudative and exudative effusions.29A recent systematic review revealed that a pleural cholesterol level greater than 55 mg per dL (1.42 mmol per L), a pleural to serum cholesterol ratio greater than 0.3, and a pleural lactate dehydrogenase level greater than 200 units per L (3.3 μkat per L) were among the most specific findings for diagnosing an exudate.25"
+        },
+        {
+            "parent": 5,
+            "text": "Gram staining may help identify a causative pathogen. A cell count may also reveal an underlying etiology. Neutrophil predominance tends to indicate an acute process, such as a parapneumonic effusion or pulmonary embolism, whereas lymphocyte predominance may be noted in longstanding effusions, heart failure, malignancy, tuberculosis, and thoracic duct injury.10,30Pleural fluid pH less than 7.30 may indicate a malignant effusion, connective tissue disease, or esophageal perforation; a value less than 7.20 indicates the need for tube drainage in patients with parapneumonic effusions, especially in the setting of an elevated lactate dehydrogenase level and a glucose level less than 60 mg per dL (3.3 mmol per L).10Further tests are guided by clinical suspicion and may include acid-fast bacillus testing (including adenosine deaminase) for tuberculosis and measurement of triglyceride, cholesterol, amylase, hematocrit, and N-terminal pro-brain natriuretic peptide levels(Table 6).6,10,11,18,30,31Tumor markers are not routinely obtained."
+        },
+        {
+            "parent": 5,
+            "text": "If thoracentesis is unsuccessful or the results of fluid analysis are unclear, pulmonary consultation and additional testing can be helpful. Percutaneous pleural biopsy or thoracoscopy may be indicated if malignancy is suspected. Bronchoscopy may be warranted if hemoptysis or bronchial obstruction is present.10"
+        },
+        {
+            "parent": 5,
+            "text": "Data Sources: A PubMed search was completed using the keyword and medical subject headings pleural effusion and thoracentesis. The search included randomized controlled trials, meta-analyses, clinical trials, systematic reviews, clinical practice guidelines, and review articles. Also searched were Essential Evidence Plus, the National Guideline Clearinghouse, and the Cochrane Database of Systematic Reviews. Search dates: January 2012 through April 2014."
+        }
+    ],
+    "locked": false
+}

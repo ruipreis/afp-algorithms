@@ -1,0 +1,172 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/1215/p1795.html#afp20071215p1795-f2",
+    "title": "Celiac Disease | AAFP",
+    "author": "R. JOHN PRESUTTI, DO, JOHN R. CANGEMI, MD, HARVEY D. CASSIDY, MD, AND DAVID A. HILL, DO",
+    "doi": "Am Fam Physician.2007;76(12):1795-1802",
+    "abstract": "As many as one in every 100 to 200 persons in the United States has celiac disease, a condition resulting from an inappropriate immune response to the dietary protein gluten. The manifestations of celiac disease range from no symptoms to overt malabsorption with involvement of multiple organ systems and an increased risk of some malignancies. When celiac disease is suspected, initial testing for serum immunoglobulin A (IgA) tissue transglutaminase (tTG) antibodies is useful because it offers adequate sensitivity and specificity at a reasonable cost. A positive IgA tTG result should prompt small bowel biopsy with at least four tissue samples to confirm the diagnosis. However, 3 percent of patients with celiac disease have IgA deficiency. Therefore, if the serum IgA tTG result is negative but clinical suspicion for the disease is high, a serum total IgA level may be considered. Screening of asymptomatic patients is not recommended. The basis of treatment for celiac disease is adherence to a gluten-free diet, which may eliminate symptoms within a few months. Patients should also be evaluated for osteoporosis, thyroid dysfunction, and deficiencies in folic acid, vitamin B12, fat-soluble vitamins, and iron, and treated appropriately. Serum IgA tTG levels typically decrease as patients maintain a glutenfree diet.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology and Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Tests",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "SEROLOGY",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "SMALL BOWEL BIOPSY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "CAPSULE ENDOSCOPY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "THE GLUTEN-FREE DIET",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "COMORBIDITIES",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "COMPLICATIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Follow-up",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Screening",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Celiac disease (or celiac sprue) is an autoimmune disorder with a prevalence of approximately 0.5 to 1 percent in the United States.1,2It is associated with inflammation of the mucosa of the small intestine, which may result in villous atrophy. Celiac disease produces a variety of gastrointestinal symptoms that can begin at almost any age. Treatment consists of removal of gluten proteins from the diet, which improves and often eliminates the small intestine pathology."
+        },
+        {
+            "parent": 0,
+            "text": "Gluten proteins occur throughout our food supply and are relatively resistant to digestive enzymes. Incomplete digestion in the upper gastrointestinal tract results in peptide derivatives that are highly immunogenic to patients with celiac disease. In affected patients, after absorption in the small intestine these proteins interact with the antigen-presenting cells in the lamina propria causing an inflammatory reaction that targets the mucosa of the small intestine. Rye, wheat, and barley, alone or as ingredients in many processed foods, contain gluten and may elicit this immune response."
+        },
+        {
+            "parent": 0,
+            "text": "Two factors are involved in the development of celiac disease—consumption of gluten proteins and genetic predisposition. It is not completely understood how gluten sensitivity begins or whether early exposure to gluten proteins increases the risk of sensitivity. However, almost all patients with celiac disease express human leukocyte antigen (HLA)-DQ2 or HLA-DQ8, which facilitate the immune response against gluten proteins.2Concordance rates of 70 to 75 percent among monozygotic twins and 5 to 22 percent among first-degree relatives have been reported.1,2,3Patients with type 1 diabetes mellitus, Down syndrome, Turner's syndrome, or an associated autoimmune disorder are at increased risk of celiac disease(Table 11–5)."
+        },
+        {
+            "parent": 1,
+            "text": "Many patients with celiac disease have diarrhea, borborygmus, abdominal pain, and weight loss(Table 26–11). However, the disease can affect several organ systems, including the skin, liver, nervous system, bones, reproductive system, and endocrine system.12,13Dermatitis herpetiformis(Figure 1), a pathognomonic skin eruption, occurs in 10 to 20 percent of patients with celiac disease.14"
+        },
+        {
+            "parent": 1,
+            "text": "Because the small intestine can compensate if the degree of involvement is limited, many patients (up to 38 percent) are asymptomatic.2,15The disease is often diagnosed only through careful attention to clinical signs such as iron deficiency anemia or osteoporosis, through screening of patients at increased risk, or through other testing. One report found that up to 36 percent of patients with celiac disease had previously received a diagnosis of irritable bowel syndrome.9Common conditions that should be considered in the differential diagnosis are listed inTable 3.10A suggested diagnostic approach to patients with possible celiac disease is summarized inFigure 2."
+        },
+        {
+            "parent": 2,
+            "text": "No single test has been universally accepted as the standard for diagnosing celiac disease. However, serologic testing and small bowel biopsy are highly sensitive and specific in making the diagnosis, particularly in patients with symptoms suggestive of celiac disease and in those at increased risk (e.g., those with a family history of the disease, those with an associated autoimmune disorder).16Diagnostic testing must be performed while the patient is on a diet that includes gluten-containing foods."
+        },
+        {
+            "parent": 2,
+            "text": "Patients with persistent gastrointestinal symptoms such as diarrhea, malabsorption, weight loss, abdominal pain, gas, and bloating should be evaluated for celiac disease. Diagnostic testing should also be considered in patients with premature osteopenia or osteoporosis, unexplained iron deficiency anemia, or unexplained liver abnormalities, and in high-risk patients with any of these findings or unexplained gastrointestinal symptoms(Table 46). Screening in asymptomatic patients is not recommended."
+        },
+        {
+            "parent": 3,
+            "text": "The most common serologic markers used for celiac disease screening are serum immunoglobulin A (IgA) endomysial antibodies and IgA tissue transglutaminase (tTG) antibodies.17–19Testing for gliadin antibodies is no longer recommended because of the low sensitivity and specificity for celiac disease. Most studies have found the sensitivity and specificity of testing for IgA endomysial and tTG antibodies to be greater than 95 percent.16,20However, the sensitivity depends on the degree of mucosal involvement. In addition, because tTG is the autoantigen recognized by the endomysial antibody, there is rarely a need to perform both tests.16The tTG antibody test is less costly because it uses an enzyme-linked immunosorbent assay; it is the recommended single serologic test for celiac disease screening in the primary care setting.6,16,20"
+        },
+        {
+            "parent": 3,
+            "text": "Most studies on celiac disease testing have involved research populations with a high prevalence of the disease (up to 35 to 45 percent). When the prevalence is low, as in the general U.S. population (approximately 0.5 to 1 percent1,2), the risk of a false-positive result is high even with an accurate test(Table 51–5). Therefore, confirmatory testing, including small bowel biopsy, is advised."
+        },
+        {
+            "parent": 3,
+            "text": "In some situations, testing for HLA phenotypes DQ2 or DQ8 may be useful.14HLA-DQ2 or HLA-DQ8, or both, are found in approximately 40 percent of the general population, but in more than 99 percent of patients with celiac disease. If these genetic markers are absent, celiac disease is unlikely.2"
+        },
+        {
+            "parent": 3,
+            "text": "Approximately 3 percent of patients with celiac disease have IgA deficiency,5which may cause a false-negative serologic test result. The American Gastroenterological Association recommends measuring total IgA levels only if IgA deficiency is suspected, or if serum tTG is negative but celiac disease is still suspected.2"
+        },
+        {
+            "parent": 3,
+            "text": "Because serologic markers may have false-positive or false-negative results, they cannot be relied on for the diagnosis of celiac disease. However, positive serologic markers can indicate the need for further evaluation with small bowel biopsy, particularly in patients at increased risk. Conversely, negative serologic markers in low-risk patients without IgA deficiency have a high negative predictive value, and small bowel biopsy generally is not needed. Negative markers should never prevent small bowel biopsy if the index of suspicion for celiac disease is high."
+        },
+        {
+            "parent": 4,
+            "text": "Despite the advent of clinically accurate serologies, a small bowel biopsy is required to confirm the diagnosis of celiac disease for most patients.16Biopsy should also be considered in patients with negative serologic test results who are at high risk or in whom the physician strongly suspects celiac disease."
+        },
+        {
+            "parent": 4,
+            "text": "However, the mucosal changes may vary from partial to total villous atrophy, or may be characterized by subtle crypt lengthening or increased epithelial lymphocytes. Furthermore, these changes may be patchy, and mucosal abnormalities on intestinal biopsy(Figure 3)may be missed. Variations in the severity of pathologic changes on biopsy may obscure the typical changes found in celiac disease, and patients with latent celiac disease may have normal results on small bowel biopsy.16Therefore, to avoid false-negative results on endoscopic biopsy, most authorities recommend obtaining at least four tissue samples, which increases the sensitivity of the test.5"
+        },
+        {
+            "parent": 5,
+            "text": "The biopsy is neither 100 percent sensitive nor specific for celiac disease; other clinical entities, such as infection (e.g., giardiasis, human immunodeficiency virus infection), enteritis, bacterial overgrowth, autoimmune enteropathy, or lymphoma, may have a similar appearance. Capsule endoscopy in this setting may be helpful to distinguish lesions in the jejunum or ileum beyond the reach of the standard endoscope if the diagnosis is in question.21"
+        },
+        {
+            "parent": 6,
+            "text": "Treatment of celiac disease is based on avoidance of food products that contain gluten proteins. It is essential that the diagnosis of celiac disease be confirmed before submitting patients to this therapy. Key elements to successful treatment include the motivation of the patient, the attentiveness of the physician to comorbidities that need to be addressed, and the assistance of a dietitian with expertise in gluten-free diets."
+        },
+        {
+            "parent": 7,
+            "text": "Wheat, rye, and barley are the basic grain elements that must be avoided. The role of oats is controversial. Although they provide an excellent source of nutrients and fiber, most commercial products are contaminated with other grains, and only a purified source can be used. The widespread use of glutens in food processing requires patients to pay close attention to labels.Table 6lists common foods that contain gluten and those that are gluten free.22"
+        },
+        {
+            "parent": 7,
+            "text": "Adhering to a gluten-free diet can be extremely difficult and can have a significant negative impact on perceived quality of life. It may produce considerable psychological, emotional, and economic stresses.23However, appropriate diet is essential in the recovery of patients with celiac disease, and formal consultation with a trained dietitian is necessary. The dietitian plays a vital role in helping the patient successfully adapt to the necessary behavioral changes and may provide much of the required follow-up. National celiac disease support organizations(seethe accompanying patient handout)can provide patients invaluable resources for information and support."
+        },
+        {
+            "parent": 8,
+            "text": "The physician should ensure that nutritional deficiencies associated with malabsorption are treated. Deficiencies of iron, folic acid, vitamin B12, and fat-soluble vitamins should be corrected, and levels should be monitored to ensure that replacement is adequate. Thyroid function studies should be obtained at the time of diagnosis because of the increased incidence of thyroid dysfunction in patients with celiac disease.4"
+        },
+        {
+            "parent": 8,
+            "text": "Osteoporosis is a common finding in patients with celiac disease. The mechanism for bone loss is multifactorial and is thought to be related to secondary hyperparathyroidism from vitamin D deficiency and calcium malabsorption.1With treatment of celiac disease, bone density values often return to normal in children, but may not do so in adults.17Consideration should be given to testing bone mineral density in adults at the time of diagnosis, particularly in those who have been symptomatic.4"
+        },
+        {
+            "parent": 9,
+            "text": "Celiac disease is linked with increased mortality. This is primarily because of the risk of malignancy; in particular, non-Hodgkin's lymphoma, which is three to six times more likely in patients with celiac disease.2,24–26Patients with celiac disease are also at increased risk of oropharyngeal, esophageal, and small intestinal adenocarcinoma.24,27The specific cause of increased malignancy risk is not known; however, several studies support the role of a gluten-free diet in reducing the risk of cancer.22,24,28,29"
+        },
+        {
+            "parent": 10,
+            "text": "Long-term follow-up of patients with celiac disease is recommended. Serologic markers may be used to monitor compliance with a gluten-free diet. Antibody levels typically return to normal within three to 12 months of starting a gluten-free diet.4Lack of response may suggest continued exposure to dietary gluten, which is often inadvertent, and patients should have further dietary instruction to ensure proper compliance with a gluten-free diet."
+        },
+        {
+            "parent": 10,
+            "text": "Most patients who make appropriate dietary changes will improve. If the patient does not respond as expected despite adherence to a gluten-free diet, the physician should consider diseases that may mimic celiac disease, such as microscopic colitis, pancreatic insufficiency, inflammatory bowel disease, ulcerative jejunoileitis, collagenous sprue, and T-cell lymphoma."
+        },
+        {
+            "parent": 10,
+            "text": "A repeat small bowel biopsy three to four months after initiation of a gluten-free diet is not necessary if the patient responds appropriately to therapy. Gluten rechallenge with subsequent small bowel biopsy is no longer recommended. If the diagnosis remains uncertain, or if the response to therapy is not adequate, further diagnostic testing for other diseases should be performed(Table 310). The natural history of untreated asymptomatic disease has not been delineated."
+        },
+        {
+            "parent": 11,
+            "text": "In a population with a low prevalence of celiac disease, such as that in the United States, the positive predictive value of serologic markers may produce a significant number of false-positive results that would necessitate further evaluation with small bowel biopsy(Table 51–5). Screening an asymptomatic patient for celiac disease must be weighed against the psychological, emotional, and economic impact of a false positive result.8,16,17In addition, the need to follow a strict diet indefinitely can adversely affect the patient's perceived quality of life. Therefore, routine screening of the general population is not recommended.2However, in persons at high risk for celiac disease who exhibit any level of symptoms, appropriate testing is indicated."
+        }
+    ],
+    "locked": false
+}

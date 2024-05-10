@@ -1,0 +1,117 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/0201/p170.html#afp20170201p170-f1",
+    "title": "Acute Coronary Syndrome: Diagnostic Evaluation | AAFP",
+    "author": "CRAIG BARSTOW, MD, MATTHEW RICE, MD, AND JONATHAN D. MCDIVITT, MD",
+    "doi": "Am Fam Physician.2017;95(3):170-177",
+    "abstract": "Myocardial infarction (MI), a subset of acute coronary syndrome, is damage to the cardiac muscle as evidenced by elevated cardiac troponin levels in the setting of acute ischemia. Coronary artery disease is the leading cause of mortality in the United States. Chest pain is a common presentation in patients with MI; however, there are multiple non-cardiac causes of chest pain, and the diagnosis cannot always be made based on initial presentation. The assessment of a possible MI includes evaluation of risk factors and presenting signs and symptoms, rapid electrocardiography, and serum cardiac troponin measurements. A validated risk score, such as the Thrombolysis in Myocardial Infarction score, may also be useful. Electrocardiography should be performed within 10 minutes of presentation. ST elevation MI is diagnosed with ST segment elevation in two contiguous leads on electrocardiography. In the absence of ST segment elevation, non–ST elevation ACS can be diagnosed. An elevated cardiac troponin level is required for diagnosis, and an increase or decrease of at least 20% is consistent with MI. In some patients with negative electrocardiography findings and normal cardiac biomarkers, additional testing may further reduce the likelihood of coronary artery disease. Cardiac catheterization is the standard method for diagnosing coronary artery disease, but exercise treadmill testing, a stress myocardial perfusion study, stress echocardiography, and computed tomography are noninvasive alternatives.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Initial Approach to the Patient with Chest Pain",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Diagnosis and Risk Assessment",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Electrocardiography",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Cardiac Biomarkers",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "Additional Diagnostic Testing",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Chest pain affects 20% to 40% of the general population during their lifetime. Each year, approximately 1.5% of the population consults a primary care physician for symptoms of chest pain. The rate is even higher in the emergency department, where more than 5% of visits and up to 40% of admissions are because of chest pain.1,2Chest pain is often the presenting symptom of myocardial infarction (MI), which is damage to the cardiac muscle caused by ischemia(Table 1).3This can be caused by a thrombotic occlusion of a coronary vessel (type 1) or by the myocardial oxygen demand surpassing the oxygen supply (type 2).3"
+        },
+        {
+            "parent": -1,
+            "text": "In the United States, coronary artery disease is the leading cause of mortality, with more than 300,000 deaths annually. Each year, more than 600,000 persons will have their first MI, and nearly 300,000 patients with known coronary artery disease will have recurrence.4MI is a subset of acute coronary syndrome (ACS), which is a spectrum of clinical presentations.5ACS is divided into ST elevation MI (STEMI) and non–ST elevation ACS, which includes unstable angina and non–ST elevation MI (NSTEMI) because the two entities are often indistinguishable at presentation. STEMI is defined as symptoms characteristic of cardiac ischemia with persistent ST segment elevation or a new left bundle branch block on electrocardiography (ECG).6NSTEMI is persistent symptoms with elevated cardiac troponin levels but no ST segment elevation. Unstable angina produces symptoms suggestive of cardiac ischemia without elevated cardiac troponin levels."
+        },
+        {
+            "parent": 0,
+            "text": "Most patients with chest pain do not have MI, and a systematic approach can usually rule it out(Figure 1).5–7The assessment begins with rapid 12-lead ECG within 10 minutes of presentation. If there is evidence of STEMI, the patient should be emergently referred for reperfusion therapy with primary percutaneous coronary intervention (preferred) or fibrinolytic therapy.6If there is no evidence of STEMI, the patient's risk of ACS should be categorized as low, intermediate, or high(Table 2).8This is based on an assessment of risk factors, presenting signs and symptoms, and serial cardiac troponin measurements. Cardiac troponin levels should be measured at presentation and again three to six hours after symptom onset.5Patients with elevated levels consistent with non–ST elevation ACS should be hospitalized and treated according to the American College of Cardiology/American Heart Association guidelines with an early invasive strategy (diagnostic angiography with revascularization as indicated) for higher risk groups.5In patients with negative cardiac troponin levels, additional confirmatory testing may be performed to further lower the risk of undiagnosed ACS; this may be done in a chest pain unit, as an inpatient, or as an outpatient.5"
+        },
+        {
+            "parent": 1,
+            "text": "Risk factors for MI include increasing age, male sex, chronic renal insufficiency, diabetes mellitus, known atherosclerotic disease (coronary or peripheral), and early family history of coronary artery disease (first-degree male relative with first event before 55 years of age or first-degree female relative with first event before 65 years of age).5A calculator from the American College of Cardiology and American Heart Association estimates 10-year risk of atherosclerotic cardiovascular disease and assists with primary prevention (http://my.americanheart.org/cvriskcalculator)."
+        },
+        {
+            "parent": 1,
+            "text": "Although determining risk factors provides helpful background information, assessing symptoms is more useful during an acute presentation. Symptoms suggestive of cardiac ischemia include retrosternal chest pain (with or without radiation to either arm, the neck, or the jaw), oppressive chest pressure, abdominal pain, dyspnea, nausea, vomiting, diaphoresis, and syncope. In older persons, those with dementia or diabetes, and women, ischemic discomfort may present atypically, including epigastric discomfort, indigestion, pleuritic chest pain, and dyspnea.5Conditions other than coronary ischemia, with cardiac or non-cardiac causes(Table 3), can lead to similar symptoms and should be ruled out."
+        },
+        {
+            "parent": 1,
+            "text": "In a meta-analysis of symptoms useful in diagnosing ACS in a low-risk setting, diaphoresis was found to be the strongest predictor of MI (likelihood ratio [LR] = 2.44), and the presence of chest wall tenderness significantly reduced the possibility of MI (LR = 0.23).9In another meta-analysis including patients presenting to the emergency department, the most useful symptoms for predicting MI were pain radiating to both arms (LR = 2.35), pain similar to a prior ischemic event (LR = 2.2), and a change in the pain within the past 24 hours (LR = 2.0).10None of these symptoms are sufficient to exclude or confirm MI without further evaluation.Table 4includes the accuracy of different findings in the diagnosis of chest pain in the emergency department.9,10"
+        },
+        {
+            "parent": 1,
+            "text": "The physical examination is useful for determining the patient's hemodynamic status and identifying cardiovascular instability, dysrhythmias, and volume overload. Other signs, such as heart failure or a new murmur, may suggest ischemia. The examination can also identify nonischemic cardiac causes of chest pain.5"
+        },
+        {
+            "parent": 1,
+            "text": "Various scoring systems have been developed to help determine the risk of ACS. The Thrombolysis in Myocardial Infarction score(Table 511)was initially validated as a prognostic tool for patients admitted for ACS but has been studied for use in the diagnosis of MI.10,11A newer score(Table 612)evaluated for coronary artery disease in the primary care setting identified patients with chest pain who have a very low risk of coronary heart disease, but it did not differentiate between ACS and stable coronary artery disease.13Both scores are useful adjuncts but do not preclude further evaluation."
+        },
+        {
+            "parent": 2,
+            "text": "Normal or near-normal ECG findings decrease the risk of MI, especially in patients with no history of coronary artery disease, but NSTEMI may occur in 1% to 6% of these patients.14ST segment depression, symmetric T wave inversion, and Q waves are associated with an increased risk of MI.10Abnormalities, such as ventricular hypertrophy, atrial fibrillation, pacing artifacts, and other bundle branch blocks, can conceal ischemic signs on ECG and may warrant further testing.15Serial ECG or continuous ST segment monitoring may increase the detection of ischemic changes, especially in patients with continued pain.7,16"
+        },
+        {
+            "parent": 2,
+            "text": "Criteria to diagnose STEMI include ST segment elevation of 2 mm in men and 1.5 mm in women for leads V2and V3; 1 mm for leads V1, V4–6, I, II, III, aVL, and aVF; and 0.5 mm for leads V3R and V4R (right-sided leads) and V7–9(posterior leads).3Anatomically contiguous leads include any two adjacent precordial leads or any two leads in an anatomic group. ST segment elevation in leads II, III, and aVF may be evidence of a right ventricular infarct,17and right-sided precordial or posterior leads should be obtained, especially in a patient with hypotension or jugular distention with clear lung fields.7"
+        },
+        {
+            "parent": 2,
+            "text": "The presence of a new or presumed new left bundle branch block in the setting of chest pain, especially with elevated cardiac troponin levels, is diagnostic of MI and requires immediate treatment.6A new left bundle branch block without the symptoms of ischemia should not be considered an MI equivalent.6,18"
+        },
+        {
+            "parent": 3,
+            "text": "Cardiac troponins T and I are highly specific to myocardial cells and are the primary measure of myocardial injury. Measurement of other biomarkers, such as creatine kinase myocardial isoenzyme and myoglobin, is no longer recommended.5Troponins T and I are clinically equivalent and have a sensitivity of 79% to 83% and a specificity of 93% to 95% for detecting myocardial injury.19–21Cardiac troponin should be measured at presentation and three to six hours after onset of ischemic symptoms.5A troponin value above the 99th percentile of the upper reference level (laboratory specific) is required for the diagnosis of myocardial necrosis and an increase or decrease of at least 20% is required for the diagnosis of acute myocardial necrosis.3,5Alternatively, if the initial troponin level is below the 99th percentile, a change greater than three standard deviations is considered positive for acute myocardial necrosis.5When initial troponin results are normal but ECG changes or clinical presentation suggests a moderate or high risk of ACS, troponin levels should be measured again after six hours.5Accelerated protocols with troponin levels measured at presentation and two hours later have been shown to have a negative predictive value of 99.7% in low-risk patients.22"
+        },
+        {
+            "parent": 3,
+            "text": "New high-sensitivity troponin assays have drawn interest worldwide but are not yet approved for use in the United States. They have been incorporated into protocols that can identify a group of patients with chest pain who are at low risk of MI and 30-day cardiovascular events. These assays have higher sensitivity but lower specificity than contemporary assays and have a high negative predictive value.21,23,24A Point-of-Care Guide on these rapid protocols appears in a previous issue ofAmerican Family Physician(https://www.aafp.org/afp/2016/0615/p1008.html)."
+        },
+        {
+            "parent": 3,
+            "text": "Nonischemic conditions can cause cardiac troponin elevations(Table 7),25and serial measurements may be useful to differentiate these conditions from acute MI. Patients with acute MI will have a rising or falling pattern, whereas levels will remain relatively stable with chronic conditions.3Table 7.Selected Nonischemic Causes of Acute Troponin ElevationCardiacCongestive heart failureInfiltrative diseasesMalignancyMyocarditisPericarditisTrauma (surgery or electric shock)Viral cardiomyopathyNoncardiacDrug toxicityPulmonary embolismRenal failureSepsisStrokeSubarachnoid hemorrhageInformation from reference25."
+        },
+        {
+            "parent": 4,
+            "text": "Chest radiography can identify a pneumo-thorax, pneumonia, aortic dissection, and ischemic-related left-sided heart failure. Radiography findings are rarely abnormal in patients with ACS. Likewise, computed tomography may be useful to exclude other, nonischemic causes of chest pain when clinically suspected. If available, focused bedside echocardiography can identify other cardiac causes of chest pain, such as aortic dissection, cardiac tamponade, pulmonary embolism, severe valvular disease, and hypertrophic cardiomyopathy. Regional wall motion abnormalities on resting echocardiography may be a sign of ischemia, and the absence of these abnormalities has a high negative predictive value for ischemia but a low positive predictive value (i.e., it is primarily useful for ruling out ischemia when absent).7"
+        },
+        {
+            "parent": 4,
+            "text": "Many chest pain protocols include additional functional or anatomic testing(Table 826–32)to evaluate patients with normal or near normal ECG results and negative cardiac troponins.5A negative result further reduces the possibility of ischemia as the cause of chest pain.7The standard test for diagnosing coronary artery disease is cardiac catheterization. Noninvasive testing is routinely performed before catheterization to assess the patient's risk before an invasive procedure is performed. Patients who have normal serial ECG results and normal cardiac troponin levels can have an exercise treadmill test, a stress myocardial perfusion study, or stress echocardiography before discharge or as an outpatient if the test is scheduled within 72 hours of discharge.5"
+        },
+        {
+            "parent": 4,
+            "text": "Exercise treadmill testing has been well validated, is inexpensive, is relatively easy to conduct, and can be performed after only six to eight hours of observation.7However, it is less sensitive than other tests, with at least a 30% false-negative rate. A stress myocardial perfusion study (single-photon emission computed tomography and positron emission tomography) and stress echocardiography diagnose ischemia by comparing resting images to poststress images, and have a higher sensitivity and specificity than ECG stress testing.27,33These modalities are well established and validated."
+        },
+        {
+            "parent": 4,
+            "text": "Computed tomography is an emerging technology in the evaluation of suspected coronary artery disease.34,35Coronary artery calcification is a surrogate measure of atherosclerosis and is primarily helpful when making decisions about preventive therapy in intermediate-risk patients. Computed tomography angiography evaluates the coronary arteries and has been validated in symptomatic and asymptomatic patients. It has a high negative predictive value (more than 95%) for ruling out coronary artery disease. Limitations of computed tomography angiography include the need for patient heart rate control, specialized computed tomography scanners with timing of contrast media administrations, and specially trained cardiac imaging professionals to interpret the examinations.36,37"
+        },
+        {
+            "parent": 4,
+            "text": "This article updates a previous article on this topic by Achar, et al.38"
+        },
+        {
+            "parent": 4,
+            "text": "Data Sources:The American College of Cardiology website was searched for current relevant guidelines. The various guidelines were then referenced for the appropriate sentinel original articles. PubMed was searched using the keywords ACS, echocardiogram, unstable angina, and highly sensitive troponin. Search dates: April and June 2015, and August 2016. The views expressed in this article are those of the authors and do not necessarily reflect the official policy of the Department of the Army or Navy, the Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}

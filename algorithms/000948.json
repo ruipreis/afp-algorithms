@@ -1,0 +1,287 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/1999/0901/p843.html#afp19990901p843-f2",
+    "title": "Evaluation and Treatment of Weight Loss in Adults with HIV Disease | AAFP",
+    "author": "BRUCE WILLIAMS, M.D., M.P.H., DEBRA WATERS, PH.D., AND KATHERINE PARKER, M.S., R.D.",
+    "doi": "Am Fam Physician.1999;60(3):843-854",
+    "abstract": "Weight loss late in the course of human immunodeficiency virus (HIV) disease is common and often multifactorial. Increased energy expenditure in response to opportunistic disease, as well as to HIV infection itself, can lead to protein–calorie malnutrition similar to that observed in starvation. Weight loss of as little as 5 percent in patients with HIV infection is associated with an increased risk of disease progression. Loss of body cell mass carries a particularly poor prognosis, and aggressive measures should be taken to stop such depletion. Patients exhibiting unexpected weight loss should be carefully examined to exclude decreased food intake, malabsorption, occult infection or neoplasm as the etiology of the weight loss. Early aggressive treatment of HIV disease and underlying opportunistic pathology, along with adequate pharmacologic, hormonal, nutritional and physical therapy, can often restore normal weight and body composition.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Identifying Contributing Factors",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "OTHER DISEASE",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "DRUG EFFECTS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "GASTROINTESTINAL DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PSYCHIATRIC DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "MEDICAL",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "NUTRITIONAL",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "ACTIVITY LEVEL",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Laboratory Studies",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "MEDICAL CONSIDERATIONS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "DRUG THERAPY FOR WASTING SYNDROME",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "DENTAL CARE",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "NUTRITION",
+            "level": 3
+        },
+        {
+            "id": 17,
+            "name": "EXERCISE",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "Final Comment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Wasting syndrome is included in the current case definition of acquired immunodeficiency syndrome (AIDS), as specified in 1993 by the Centers for Disease Control and Prevention (CDC). The CDC defines wasting syndrome as unexplained weight loss of more than 10 percent, accompanied by fever or diarrhea. The development of wasting syndrome is considered an indicator condition for AIDS."
+        },
+        {
+            "parent": -1,
+            "text": "Wasting syndrome in patients with human immunodeficiency virus (HIV) infection is a multifactorial process that can be associated with a variety of infectious, neoplastic, metabolic and nutritional abnormalities. Early identification and treatment can improve functional status and, perhaps, survival as well. Although not yet thoroughly studied with regard to HIV-related wasting, highly active antiretroviral therapy seems to have significantly reduced the prevalence of wasting syndrome among patients with HIV infection. Nonetheless, treatment failure despite intensive antiretroviral therapy is not uncommon, and HIV disease activity may place patients at risk for significant weight loss."
+        },
+        {
+            "parent": 0,
+            "text": "Profound weight loss commonly occurs late in the course of HIV disease and is associated with a poor prognosis, more rapid disease progression, significant disability and increased mortality. HIV-related wasting is a starvation state characterized by protein–energy malnutrition in which mobilization of fat is accompanied by loss of somatic and visceral proteins. Loss of more than 30 percent of ideal body weight is associated with high mortality,1and weight loss of as little as 5 percent of the patient's usual weight is associated with more rapid progression of disease.2Weight loss, however, is a relatively insensitive indicator of early wasting syndrome, and decreases in certain body compartments, particularly body cell mass, may portend early death if this depletion is not reversed."
+        },
+        {
+            "parent": 0,
+            "text": "Loss of body cell mass can result from a variety of causes but usually is a result of inadequate intake in the context of active opportunistic disease, HIV disease (as indicated by a high viral load), or both. Certain pro-inflammatory cytokines, particularly tumor necrosis factor-α (TNF-α), have also been implicated, although their precise roles in wasting syndrome are still unclear."
+        },
+        {
+            "parent": 0,
+            "text": "Plasma HIV RNA is an independent predictor of wasting,3and effective suppression of HIV RNA with antiretroviral therapy may significantly forestall the onset of weight loss. The role of protease inhibitors in the pathogenesis of abnormalities in lipid metabolism and body composition is under study, but their effects may have implications for new forms of wasting.4,5"
+        },
+        {
+            "parent": 1,
+            "text": "Evaluation of patients with wasting syndrome focuses on determining if active HIV disease is present and identifying systemic opportunistic infections and barriers to effective nutrition."
+        },
+        {
+            "parent": 2,
+            "text": "HIV infection and a variety of bacterial, mycobacterial, fungal, parasitic and other viral pathogens may result in profound weight loss. Plasma HIV RNA must be assessed, and HIV infection must be aggressively treated to bring the HIV RNA level to below the limits of detection, if possible. Opportunistic infections commonly associated with wasting syndrome include disseminatedMycobacterium aviumcomplex infection, cytomegalovirus infection andPneumocystis cariniipneumonia. Such opportunistic infections most often develop in patients with advanced disease. Tuberculosis may also be an important consideration, especially among inner-city residents, injection-drug users, the homeless and other high-risk groups. In addition, occult malignancy, particularly B-cell lymphoma, may present as wasting syndrome."
+        },
+        {
+            "parent": 3,
+            "text": "Several medications commonly used in the treatment of HIV disease, especially antiretroviral agents, macrolide antibiotics and chemotherapy, may cause anorexia, nausea or vomiting. In addition, drug interactions can increase serum levels of offending medications, exacerbating the problem."
+        },
+        {
+            "parent": 4,
+            "text": "Tables 1and2summarize gastrointestinal conditions that commonly interfere with nutritional intake in patients with HIV infection. Pain, impaired deglutition and early satiety related to upper gastrointestinal tract pathology may limit food intake.6Other conditions not intrinsically related to HIV, such as dental caries, gallbladder disease, peptic or duodenal ulcerative disease and gastroesophageal reflux, may cause pain and limit food intake, thus contributing to the development of wasting syndrome. Interestingly, the frequency ofHelicobacter pylorigastritis is not known to be increased in patients with HIV infection."
+        },
+        {
+            "parent": 4,
+            "text": "Diarrheal diseases often occur throughout HIV disease. Lactose intolerance is quite common and should be considered in the differential diagnosis. Enteric viruses are present in over 50 percent of seropositive patients who have diarrhea and in whom no other pathogens can be identified.7Bacterial and parasitic enterocolitis can also be a problem, especially if the CD4+ cell count is low. Notably,Clostridium difficilemay cause symptomatic infection even in the absence of antibiotic therapy."
+        },
+        {
+            "parent": 5,
+            "text": "Depression, dementia and substance abuse are also associated with decreased intake and should be considered in the differential diagnosis of wasting syndrome."
+        },
+        {
+            "parent": 7,
+            "text": "Information about previous opportunistic infections should be obtained. A list of current medications, including alternative therapies, should be reviewed at each visit, along with the possibility of side effects from any of the agents the patient is receiving."
+        },
+        {
+            "parent": 7,
+            "text": "The review of systems should focus on the presence of symptoms that suggest opportunistic disease, decreased intake or malabsorption as the etiology of wasting syndrome. Fever, night sweats, fatigue, diarrhea, nausea, vomiting, difficulty swallowing, dyspnea or changes in mental status may indicate occult systemic infection or malignancy. Mood and cognition in all patients should be evaluated for signs of depression or dementia; referral for neuropsychologic testing may be required to define whether such signs represent depression or dementia."
+        },
+        {
+            "parent": 8,
+            "text": "A nutritional history, including the type and quantity of food, is essential in the evaluation of wasting syndrome. If available, consultation with a registered dietitian should be arranged to assess caloric, protein and micronutrient intake. This assessment can be accomplished with a 24-hour dietary recall or a dietary log. Assessment of dietary intake may uncover an eating disorder or the anatomic location of opportunistic disease, and it also may suggest a means of improving nutritional intake."
+        },
+        {
+            "parent": 9,
+            "text": "The level of physical activity, especially that related to muscle building, should be assessed. Although standard survey instruments can be used, their utility in patients with HIV disease has not been validated. Alternatively, activity level can be assessed on the basis of the frequency, intensity, duration and type of exercise(Table 3). Although this approach has not been evaluated in the context of HIV disease, it has the virtue of simplicity and is based on American College of Sports Medicine recommendations.8Referral to a physical therapist or an exercise physiologist will provide a more detailed, comprehensive assessment and plan."
+        },
+        {
+            "parent": 10,
+            "text": "The patient's body weight should be tracked in a standardized fashion. A flow sheet correlating the patient's weight, CD4+ cell count, HIV RNA level and other relevant laboratory results can be useful in detecting early signs of wasting syndrome. While the patient's weight can be compared with his or her ideal body weight, the utility of such a comparison in HIV-positive patients is not clear. The cause of any weight loss trend should be investigated, since early wasting may be present without a significant decrease in body weight. Body mass index (kg per m2) can be used to adjust for body habitus but is relatively insensitive to small changes in weight."
+        },
+        {
+            "parent": 10,
+            "text": "Routine physical examination of all HIV patients should focus on changes in body habitus and signs of opportunistic disease. Fragility of hair, skin texture and nail structure is a sign of inadequate protein intake. Central obesity, the presence of a dorsocervical fat pad (“buffalo hump”) and wasting of the extremities are associated with protease inhibitor therapy."
+        },
+        {
+            "parent": 10,
+            "text": "A comprehensive examination of the mouth to identify abnormalities that are impeding nutritional intake is essential. Dental caries, gingivitis and periodontitis are common in patients with HIV disease and should be treated. The oral mucosa should be inspected for erythema, exudates, ulcerations or masses suggestive of opportunistic disease. Edentulous patients should be examined after their dentures have been removed, if possible. Fungal cultures are usually unnecessary in cases of suspected candidiasis, and presumptive therapy can be safely given. Oral hairy leukoplakia, a common benign condition associated with Epstein-Barr virus infection, presents as striated white exudates adherent to the lingual margins; it usually requires no treatment."
+        },
+        {
+            "parent": 10,
+            "text": "The etiology of odynophagia or dysphagia should be evaluated. A barium esophagogram is a relatively sensitive means of detecting esophageal masses, ulcerations and dysmotility. Radiographic abnormalities should be endoscopically evaluated, with biopsy and cultures obtained as indicated."
+        },
+        {
+            "parent": 10,
+            "text": "Microscopic examination and culture of the stool may be warranted to exclude the presence of opportunistic pathogens in patients with diarrhea. Barium radiography of the upper and lower gastrointestinal tract may be useful for identifying obstruction or ulceration as the cause of the patient's symptoms. If colonic disease is suspected, however, lower endoscopy, with or without biopsy, is usually indicated. The anorectal area should be examined to identify any signs of systemic disease or causes of painful defecation."
+        },
+        {
+            "parent": 10,
+            "text": "Hypogonadism, including testicular atrophy, is common in men with HIV disease, and signs of hypogonadism should be looked for during physical examination. Although loss of secondary sex characteristics does not usually occur with hypogonadism, significant loss of lean body mass may be noted, since endogenous testosterone production is inadequate to maintain premorbid body cell mass."
+        },
+        {
+            "parent": 11,
+            "text": "Laboratory assessment should initially be directed at identification of any underlying opportunistic pathology. Depending on the patient's symptoms, CD4+ count, blood cultures, chest radiography and oximetry, gastrointestinal biopsies or stool cultures may be indicated in addition to standard hematologic and chemistry tests."
+        },
+        {
+            "parent": 11,
+            "text": "Evaluation of protein synthesis (prealbumin and albumin levels), hormonal status (serum testosterone and thyroid profile) and micronutrient status (serum folate and vitamin B12) may be useful in conjunction with nutritional assessment and intervention. Lipid status should be ascertained by means of a fasting lipid profile as well, especially in patients receiving protease inhibitors."
+        },
+        {
+            "parent": 11,
+            "text": "Liver function tests should be performed regularly in patients who are taking anabolic steroids to curb wasting syndrome. Anabolic steroids have the potential for causing hepatotoxicity, especially in the context of HIV disease, when other medications and opportunistic infections may adversely affect hepatic function as well."
+        },
+        {
+            "parent": 11,
+            "text": "Regular monitoring of serum testosterone levels may be required in hypogonadal patients to ensure that hormonal replacement is adequate. Notably, endogenous testosterone production may decline with exogenous supplementation."
+        },
+        {
+            "parent": 11,
+            "text": "Because body cell mass may be lost before total body weight declines and because loss of body cell mass is predictive of a poor outcome, its assessment can be important, especially in patients with subclinical disease. Simple methods of measurement, such as determining the mid-arm circumference, are inexpensive and relatively accurate,9although special training is required, and variability in measurements may be significant."
+        },
+        {
+            "parent": 11,
+            "text": "Bioelectrical impedance analysis (often referred to as “BIA”) is an accurate method of estimating body cell mass. Instruments for reliable measurements of body composition are commercially available (i.e., BIA Quantum; RJL Systems, Inc., Detroit). These devices can be used quickly in the office(Figure 1); a minimum of staff training is required. Bioelectrical impedance analysis provides an estimate of the total body water by measuring changes in a low electrical current passed between electrodes placed on the upper and lower extremities. The sizes of other body compartments (including body cell mass) are then calculated using equations based on assumptions about the relationships between different body compartments and total body water. The validity and reliability of the results depend heavily on several factors, including correct placement of the electrodes, “normality” of body habitus, hydration status and the equations used to estimate body cell mass.10"
+        },
+        {
+            "parent": 12,
+            "text": "Figure 2gives an overview of important considerations in the management of HIV-positive patients who have weight loss. Treatment of wasting syndrome includes medical intervention, correction of dental problems and implementation of nutritional support, as well as patient education regarding the importance of exercise and the need to adhere to a highly active antiretroviral regimen. Alleviation of nausea, anorexia and pain is crucial to improving the patient's nutritional intake."
+        },
+        {
+            "parent": 13,
+            "text": "Intensive antiretroviral therapy should be instituted in patients who are not already receiving it, and antiretroviral therapy should be augmented in those who continue to have detectable viral loads. Quantitative plasma HIV RNA should be assessed, since active viral replication is associated with increased resting energy expenditure and may increase the amount of weight loss.11The goal of therapy should be to maintain the plasma HIV RNA below detectable limits, preferably less than 50 copies per mL. Consistent with current guidelines, changes in antiretroviral therapy should involve, if possible, the introduction of at least two agents not previously used by the patient without waiting to achieve control of opportunistic disease."
+        },
+        {
+            "parent": 13,
+            "text": "Recent reports have implicated protease inhibitors in the development of glucose intolerance, hypertriglyceridemia, hypercholesterolemia and abnormal central fat accumulations that occur in association with peripheral wasting.4,5Close monitoring for such disorders is required in patients receiving protease inhibitors. However, unless patient safety or preference dictates otherwise, there currently is no reason to discontinue protease inhibitor therapy, especially in patients otherwise benefiting from this type of agent. However, HMG-CoA reductase inhibitors should be avoided in patients with hypercholesterolemia until concerns about possible interactions with protease inhibitors are clarified. Fibrates, such as gemfibrozil (Lopid), and niacin are probably safe in patients receiving protease inhibitors. Alternatively, use of combination antiretroviral regimens that do not contain protease inhibitors may be considered."
+        },
+        {
+            "parent": 13,
+            "text": "Opportunistic diseases should be aggressively treated as soon as they are diagnosed. Measures to stimulate the patient's appetite, institution of enteral or even parenteral feeding in the case of a severe malabsorptive state and control of fever should accompany treatment of opportunistic pathology as required."
+        },
+        {
+            "parent": 14,
+            "text": "Table 4summarizes the different types of drugs used in the treatment of HIV-related wasting syndrome. The use of appetite stimulants and antiemetics in conjunction with caloric supplementation has long been considered a mainstay of therapy. In planning the treatment approach, it is important to differentiate between nausea and anorexia. In addition, underlying causes of gastrointestinal symptoms, such as drug toxicity, should be sought and resolved whenever possible."
+        },
+        {
+            "parent": 14,
+            "text": "Appetite Stimulants. Megestrol (Megace), a progestin used in the treatment of breast cancer, has been shown in anorectic patients to improve appetite, quality of life and total body weight.12The weight that is gained, however, is primarily fat, possibly because of down regulation of testosterone production,13and use of megestrol has not been found to improve survival in patients with AIDS-related cachexia.14Use of dronabinol (Marinol), a cannabinoid naturally present in marijuana, controls nausea and improves appetite and body weight (mainly fat).15Its effect on survival has not been evaluated."
+        },
+        {
+            "parent": 14,
+            "text": "Anabolic Agents. Androgens—particularly oxandrolone (Oxandrin), nandrolone (Deca-Durabolin), oxymetholone (Anadrol-50) and testosterone—are used to increase body cell mass in patients with wasting syndrome, although there are no accepted standards for indications, dosages and duration of therapy. Small studies of HIV-positive men have shown that body cell mass increases in response to supraphysiologic doses of testosterone,16,17consistent with the results of studies in uninfected men.18The clinical implications of this increase and the long-term safety of androgen administration, especially in females, are unknown. Until these issues are clarified, administration of androgens to help control HIV-related wasting should be reserved for use in men with hypogonadism and in patients who fail to respond to other therapies."
+        },
+        {
+            "parent": 14,
+            "text": "Recombinant human growth hormone (rhGH; Humatrope) is labeled by the U.S. Food and Drug Administration for the treatment of AIDS-related wasting syndrome, although its high cost (average wholesale price: $210 for each 5-mg single-dose vial) limits the availability of this therapy. A 12-week study revealed that rhGH, in a dosage of 0.1 mg per kg per day, resulted in weight gain, increased lean body mass, decreased body fat and improvement in treadmill performance in patients who had experienced at least a 10 percent weight loss.19In another study of rhGH,20no differences were found in health status, CD4+ cell count, plasma HIV RNA or use of medical resources among treated and untreated patients, and lower dosages did not appear to be efficacious."
+        },
+        {
+            "parent": 14,
+            "text": "The safety and efficacy of long-term rhGH therapy and its impact on survival are unclear. Also unknown is the question of whether similar outcomes can be achieved with other, less expensive interventions. It seems advisable, therefore, to reserve the use of rhGH for patients who are undergoing unexplained significant weight loss, who have not responded to other therapies and who require short-term treatment to maintain body cell mass during acute infection."
+        },
+        {
+            "parent": 14,
+            "text": "Thalidomide. Thalidomide (Thalomid), an inhibitor of TNF-α, is effective in the treatment of HIV-related aphthous ulcers21and was shown in short-term studies to be associated with significant weight gain.21Use of thalidomide in the treatment of wasting syndrome in the absence of aphthous stomatitis is therefore being investigated. However, because toxicity from this drug can be significant, its utility may be limited to only those situations in which other therapies have failed. Male and female patients must be counseled about its teratogenic potential."
+        },
+        {
+            "parent": 15,
+            "text": "Treatment of painful or obstructive dental disease may significantly improve nutritional intake. Periodontitis and gingivitis may be prevented with regular use of a topical antiseptic and should be aggressively treated when present. All patients with HIV disease should be referred for regular preventive dental care."
+        },
+        {
+            "parent": 16,
+            "text": "The best strategy to prevent wasting is to incorporate the patient's food preferences into the goal of an adequate intake of calories and protein to meet metabolic needs(Table 5). To preserve small bowel function, solid food is recommended whenever possible.22Food texture and temperature should be optimized to reduce pain or dysfunctional deglutition. For example, if oral inflammation is present, it may be helpful to avoid hard foods. Micronutrients in the form of multivitamin preparations should be routinely prescribed. Patients should be counseled about safe food procurement, storage and preparation to reduce the risk of exposure to intestinal pathogens.23Specific recommendations include using purified water for washing, brushing and rinsing fresh produce and other foods if the water supply is untreated and avoiding raw, undercooked and unpasteurized foods."
+        },
+        {
+            "parent": 16,
+            "text": "Caloric and protein supplements may be useful if they do not supplant more nutritionally diverse foods and are provided in a palatable form that can be easily ingested. Nutritional supplements are not useful in the prevention of weight loss and should be reserved for use in patients in whom normal dietary intake is clearly inadequate for sustaining weight."
+        },
+        {
+            "parent": 16,
+            "text": "In patients whose oral intake remains below 25 percent of the calculated caloric goal for more than three days, nocturnal nasogastric or percutaneous endoscopic gastronomy tube feedings may be required.24Because of the increased risk of infection25and the high cost of total parenteral nutrition, the latter should be reserved for use in patients with significant malabsorption or for whom adequate enteral intake is not possible."
+        },
+        {
+            "parent": 17,
+            "text": "Exercise that provides a workout of skeletal muscle should be encouraged in patients able to tolerate it(Table 3and accompanying patient information handout). Data demonstrating synergy between resistance exercise and anabolic steroids in enhancing body cell mass and strength suggest that exercise may be an important adjunctive therapy.17,18Referral to an exercise physiologist or physical therapist should be considered."
+        },
+        {
+            "parent": 18,
+            "text": "Treatment of HIV-related wasting syndrome requires vigilance in looking for the early signs of its onset. Regular evaluation of patients with HIV infection must include a review of nutritional intake and physical activity, a review of symptoms to elicit any symptoms of occult opportunistic disease and virologic monitoring. Aggressive antiretroviral therapy should be used to minimize the HIV load. Another important part of follow-up includes ongoing patient education to enhance adherence to medication regimens, nutritional intake and exercise."
+        },
+        {
+            "parent": 18,
+            "text": "In addition, collaboration among the primary care clinician, dietitian, subspecialists, exercise physiologist or physical therapist, dentist, pharmacist, household caregivers and patient is important to ensure that a multifaceted approach to the condition is adequately coordinated. Pharmacologic intervention should, in general, be reserved for use in patients failing other therapies."
+        },
+        {
+            "parent": 18,
+            "text": "With early identification and aggressive treatment, wasting syndrome in HIV disease is a manageable condition and need not inevitably result in disability or death. Aggressive treatment often results in complete restoration of the patient's baseline weight and health."
+        }
+    ],
+    "locked": false
+}

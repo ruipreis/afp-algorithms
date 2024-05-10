@@ -1,0 +1,258 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0115/p95.html#afp20200115p95-f1",
+    "title": "Muscle Weakness in Adults: Evaluation and Differential Diagnosis | AAFP",
+    "author": "SCOTT T. LARSON, MD, AND JASON WILBUR, MD",
+    "doi": "Am Fam Physician.2020;101(2):95-108",
+    "abstract": "Although the prevalence of muscle weakness in the general population is uncertain, it occurs in about 5% of U.S. adults 60 years and older. Determining the cause of muscle weakness can be challenging. True muscle weakness must first be differentiated from subjective fatigue or pain-related motor impairment with normal motor strength. Muscle weakness should then be graded objectively using a formal tool such as the Medical Research Council Manual Muscle Testing scale. The differential diagnosis of true muscle weakness is extensive, including neurologic, rheumatologic, endocrine, genetic, medication- or toxin-related, and infectious etiologies. A stepwise approach to narrowing this differential diagnosis relies on the history and physical examination combined with knowledge of the potential etiologies. Frailty and sarcopenia are clinical syndromes occurring in older people that can present with generalized weakness. Asymmetric weakness is more common in neurologic conditions, whereas pain is more common in neuropathies or radiculopathies. Identifying abnormal findings, such as Chvostek sign, Babinski reflex, hoarse voice, and muscle atrophy, will narrow the possible diagnoses. Laboratory testing, including electrolyte, thyroid-stimulating hormone, and creatine kinase measurements, may also be helpful. Magnetic resonance imaging is indicated if there is concern for acute neurologic conditions, such as stroke or cauda equina syndrome, and may also guide muscle biopsy. Electromyography is indicated when certain diagnoses are being considered, such as amyotrophic lateral sclerosis, myasthenia gravis, neuropathy, and radiculopathy, and may also guide biopsy. If the etiology remains unclear, specialist consultation or muscle biopsy may be necessary to reach a diagnosis.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology and Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "NEUROLOGIC",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "MYOSITIDES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "ENDOCRINE",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "ELECTROLYTE DISTURBANCES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "GENETIC",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "MEDICATIONS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "TOXINS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "INFECTIONS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "SARCOPENIA AND FRAILTY",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "NEUROLOGIC EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "EXTRANEUROLOGIC FINDINGS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "SARCOPENIA AND FRAILTY",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "Laboratory Evaluation",
+            "level": 2
+        },
+        {
+            "id": 16,
+            "name": "Imaging and Electrodiagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 17,
+            "name": "Muscle Biopsy",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Given its broad differential diagnosis, muscle weakness can be challenging to evaluate in primary care practice. Although its prevalence in the general population is not well described, muscle weakness occurs in 5% of U.S. adults 60 years and older.1Physicians must distinguish true muscle weakness from subjective fatigue or pain-related motor impairment with normal motor strength.This requires a history and physical examination, which guide laboratory testing, imaging, electrodiagnostic testing, and muscle biopsy.2–5"
+        },
+        {
+            "parent": 0,
+            "text": "The differential diagnosis of muscle weakness in adults is extensive because it can occur when pathology affects any level of the neuromuscular pathway (upper or lower motor neurons, neuromuscular junction, and muscle fibers).Table 1lists selected causes of muscle weakness and their clinical findings.5–22"
+        },
+        {
+            "parent": 1,
+            "text": "Upper motor neurons, which are located in the cerebral cortex, brainstem, and corticospinal tracts, may be injured from stroke, multiple sclerosis, and spinal cord or brain masses. Lower motor neurons, which are located in the anterior horn of the spinal cord, nerve roots, and peripheral nerves, may be damaged by infections, Guillain-Barré syndrome, hereditary sensorimotor disorders (e.g., Charcot-Marie-Tooth disease), compressive neuropathy (e.g., carpal tunnel syndrome), radiculopathy from intervertebral disk herniation, inflammation, spinal muscular atrophy type IV, or amyloid infiltration.2,23–25"
+        },
+        {
+            "parent": 1,
+            "text": "Upper and lower motor neurons are involved in amyotrophic lateral sclerosis.24The neuromuscular junction is the site of pathology in myasthenia gravis and Lambert-Eaton syndrome, which are rare autoimmune-mediated disorders.7,8"
+        },
+        {
+            "parent": 2,
+            "text": "Weakness is the predominant feature of primary muscle disorders, or myositides. Some of these disorders, such as dermatomyositis, polymyositis, and necrotizing myositis, present with acute or subacute proximal weakness and may be associated with malignancy or connective tissue disorders. Conversely, inclusion body myositis, which tends to occur in older adults, has a gradual course, affecting distal muscles early and progressing in an asymmetric pattern.9,10,26,27"
+        },
+        {
+            "parent": 3,
+            "text": "Some endocrine disorders can cause weakness. These include hyperthyroidism and hypothyroidism, adrenal insufficiency (Addison disease), endogenous glucocorticoid excess (Cushing syndrome), acromegaly, and primary hyperaldosteronism (Conn syndrome).3Diabetic neuropathy may affect motor neurons, including the oculomotor nerve.28"
+        },
+        {
+            "parent": 4,
+            "text": "Numerous electrolyte imbalances are linked to muscle weakness, including disturbances in calcium, phosphate, potassium, and sodium. Hypokalemia is particularly common and can be caused by medications, such as diuretics; Gitelman syndrome (hypokalemic periodic paralysis); renal tubular acidosis; primary hyperaldosteronism; thyrotoxicosis; or infections, such as dengue fever.3,4,29–31"
+        },
+        {
+            "parent": 5,
+            "text": "Muscular dystrophy usually presents during childhood or adolescence, but certain subtypes (e.g., Becker muscular dystrophy, myotonic dystrophy) can present during adulthood.11Disorders of lipid and glycogen metabolism and disorders of mitochondria can also cause weakness, myopathy, and rhabdomyolysis; these disorders may be exacerbated by exercise or febrile illnesses and rarely present in adults.32,33"
+        },
+        {
+            "parent": 6,
+            "text": "Numerous medications have been reported to cause muscle weakness(Table 24,12–14,34), including several commonly used medications. For example, statins are well known to cause myopathy and rhabdomyolysis, although the mechanism is unclear.12,13Fluoroquinolones are linked to tendinopathies, rhabdomyolysis, and tendon ruptures.12Glucocorticoids can cause a noninflammatory myopathy, primarily affecting postural muscles.12,14A medication review is thus essential in the evaluation of muscle weakness.4,12,35"
+        },
+        {
+            "parent": 7,
+            "text": "Exposure to heavy metals, such as arsenic, lead, thallium, and mercury, can cause motor neuropathy; therefore,a toxin review should be completed in patients with muscle weakness.4,35Organophosphate poisoning causes weakness at the level of the neuromuscular junction, with severe cholinergic effects (toxidrome). Alcohol and certain recreational drugs (e.g., “glue sniffing,” cocaine, amphetamines, opioids) can also cause muscle weakness. Alcohol is neurotoxic and myotoxic at high doses and can cause acute muscle weakness in individuals who binge drink.15"
+        },
+        {
+            "parent": 7,
+            "text": "Envenomation, including from tick bites (tick paralysis) and certain venomous snake bites, may cause weakness. Exposure toClostridium botulinumtoxin from eating contaminated or undercooked food causes acute paralysis by blocking release of acetylcholine into the neuromuscular junction.4,11,35"
+        },
+        {
+            "parent": 8,
+            "text": "Certain infections are linked to muscle weakness. These include West Nile virus infection, HIV infection, Lyme disease, diphtheria, dengue fever, neurocysticercosis, trichinosis, Chagas disease, rabies, botulism, herpes zoster, cytomegalovirus infection, hepatitis C, and herpes simplex virus 1 infection. Lyme disease, herpes zoster, and potentially herpes simplex virus 1 infection can cause facial nerve palsy (Bell palsy). Poliomyelitis was historically a significant cause of flaccid paralysis but now rarely occurs because of worldwide vaccination efforts.3,23,24,29,30,36,37"
+        },
+        {
+            "parent": 9,
+            "text": "When evaluating generalized weakness in older adults, sarcopenia and frailty should be considered in the differential diagnosis. Sarcopenia and frailty are common multifactorial syndromes that typically do not occur in younger people. They are associated with increased morbidity, disability, institutionalization, and mortality. Sarcopenia is thought to be catabolic age-related loss of muscle mass and strength and can be evaluated by measuring grip strength, gait speed, and muscle mass.38,39Frailty, which often coexists with sarcopenia, can be defined as the presence of three or more of the following: grip weakness, slow gait speed, unintentional weight loss, subjective exhaustion, and low physical activity.40"
+        },
+        {
+            "parent": 10,
+            "text": "Physicians should inquire about onset, duration, and progression of symptoms. Acute onset of weakness (hours to days) should prompt timely evaluation, because it may indicate vascular, infectious, inflammatory, metabolic, or toxin-mediated disorders. Subacute presentation (days to weeks) may suggest electrolyte, inflammatory, or rheumatologic disorders. More gradual progressive weakness often suggests neurologic, genetic, or metabolic disorders or inclusion body myositis.2,9,11,29"
+        },
+        {
+            "parent": 10,
+            "text": "The history should be guided by knowledge of the potential diagnoses and proceed in a stepwise approach(Figure 12–5,7–24,26–33,35–38,41–44). Specific elements of the history may provide diagnostic clues(Table 32–4,7–11,13,22–24,26–28,31,35,43,44)."
+        },
+        {
+            "parent": 10,
+            "text": "In particular, identifying the distribution of weakness helps narrow the broad differential diagnosis. Patients with proximal (limb-girdle) weakness may have difficulty rising from a chair, climbing stairs, or lifting their arms overhead to perform activities of daily living (e.g., combing hair).2,26Proximal weakness is more common in myopathies. Patients with distal weakness may have difficulty opening jars or may drop objects or have foot drop. Distal weakness is more typically caused by certain toxins (e.g., organophosphates), hereditary motor neuropathy, or early inclusion body myositis.3,9,16,41Simultaneous proximal and distal weakness may result from inclusion body myositis or Guillain-Barré syndrome."
+        },
+        {
+            "parent": 10,
+            "text": "Asymmetric weakness is typically neurologic and may be due to central nervous system lesions or peripheral nerve inflammation or compression. The physician should also inquire about the presence of oropharyngeal symptoms (e.g., dysphagia, dysarthria), vision loss, or diplopia, which can be indicative of inflammatory myopathy, multiple sclerosis, or myasthenia gravis, respectively.2,9–11,27"
+        },
+        {
+            "parent": 10,
+            "text": "The presence of accompanying sensory symptoms suggests a neuropathic etiology from intrinsic or extrinsic factors. For example, pain in the same distribution as the weakness suggests nerve compression, inflammatory neuropathy or myopathy, or muscle damage due to toxins or medications. History of fevers, arthralgias, rash, or Raynaud phenomenon suggests inflammatory etiologies. Fever also suggests infectious etiologies. All types of inflammatory myopathy can present with pain and muscle tenderness.3,10,26"
+        },
+        {
+            "parent": 10,
+            "text": "Patients with myasthenia gravis often present with intermittent blurry vision or diplopia and less commonly with more generalized weakness. In addition, symptoms of myasthenia gravis often fluctuate, worsen throughout the day, and may be exacerbated by elevated temperatures.7"
+        },
+        {
+            "parent": 10,
+            "text": "A family history may help identify hereditary causes of muscle weakness.2,11,17A medication review and screening for substance use should always be performed in patients with muscle weakness.15,35"
+        },
+        {
+            "parent": 11,
+            "text": "Physical examination is crucial to diagnosing the cause of muscle weakness. Weakness should be formally graded and documented with a tool such as the Medical Research Council Manual Muscle Testing scale(Table 445)."
+        },
+        {
+            "parent": 12,
+            "text": "A neurologic examination should be performed in patients with muscle weakness to observe signs of upper motor neuron vs. lower motor neuron pathology. Upper motor neuron findings include spasticity (e.g., spastic gait), hyperreflexia, upgoing-toe plantar reflexes (positive Babinski reflex), dysarthria, clonus, and poor coordination. Lower motor neuron findings include diminished or absent reflexes, hypotonia, muscle atrophy (e.g., hoarse voice from laryngeal muscle atrophy), and fasciculations. Visual inspection of the muscles with attention to bulk, involuntary movements, and symmetry is also important."
+        },
+        {
+            "parent": 12,
+            "text": "Hyperreflexia can occur with upper motor neuron lesions, hyperthyroidism, and hypercalcemia. Hypocalcemia is suggested with tetany, Chvostek sign (tapping the facial nerve anterior to the earlobe and inferior to the zygomatic arch elicits ipsilateral facial nerve spasm), and Trousseau sign (inflation of a brachial blood pressure cuff induces distal carpopedal spasm). Up to 94% of patients with hypocalcemia present with Trousseau sign, although Chvostek sign is neither sensitive nor specific for hypocalcemia.43,44"
+        },
+        {
+            "parent": 12,
+            "text": "Cranial nerve examination can reveal facial nerve weakness suggesting Lyme disease, herpes simplex virus 1 infection, or herpes zoster (Ramsay Hunt syndrome).37Ptosis or diplopia may suggest myasthenia gravis. Motor strength worsens with repetition in patients with myasthenia gravis, whereas strength and reflexes may transiently improve after repetitive muscle contraction in patients with Lambert-Eaton syndrome.7,8"
+        },
+        {
+            "parent": 12,
+            "text": "The distribution of weakness elicited in the history should be confirmed on physical examination with careful attention to proximal vs. distal strength and symmetric vs. asymmetric strength."
+        },
+        {
+            "parent": 13,
+            "text": "Extraneurologic findings may help narrow the diagnosis in patients with muscle weakness. As noted earlier, fever suggests inflammatory or infectious myopathy. Cushingoid appearance (buffalo hump, purple striae) suggests endogenous or exogenous glucocorticoid excess. A violaceous rash on the knuckles and extensor surfaces of the upper extremities (Gottron papules;Figure 246), a heliotrope rash, the V-sign (violaceous rash on the upper chest and neck), and the shawl sign (violaceous rash on the back) occur with dermatomyositis. Cardiac arrhythmias may occur with inflammatory myopathy, genetic disorders, and electrolyte imbalances.3,9,10,14,26"
+        },
+        {
+            "parent": 14,
+            "text": "Numerous screening tools are available to evaluate weakness in older patients if sarcopenia or frailty is suspected. They include the Fried frailty index, FRAIL (fatigue, resistance, ambulation, illnesses, loss of weight) scale, grip strength analysis, and gait speed analysis.47Grip strength can be measured objectively with a dynamometer, and gait speed can be measured by timing a patient's usual walking gait to the examination room or by using the Timed Up and Go test.48Age-specific normative values for grip strength and gait speed are available.38,39"
+        },
+        {
+            "parent": 15,
+            "text": "Depending on clinical findings and suspected diagnosis, focused or expansive laboratory testing may be indicated in patients with muscle weakness."
+        },
+        {
+            "parent": 15,
+            "text": "Creatine kinase elevation is nonspecific but can help narrow the differential diagnosis and confirm myopathy.26Creatine kinase levels should not be checked immediately after electrodiagnostic testing because they may be transiently elevated.5,18Myoglobinuria may also indicate myopathy.3"
+        },
+        {
+            "parent": 15,
+            "text": "Because metabolic abnormalities may contribute to weakness, an electrolyte panel should be considered to determine levels of calcium, potassium, sodium, phosphate, and magnesium. Thyroid function testing and cortisol measurement should also be considered."
+        },
+        {
+            "parent": 15,
+            "text": "Serum testing for infectious etiologies, including HIV infection, Lyme disease, West Nile virus infection, and dengue fever, may be indicated if a pathogen is suspected. Lumbar puncture may be indicated if central nervous system infection is suspected."
+        },
+        {
+            "parent": 15,
+            "text": "Anti–acetylcholine receptor antibodies are present in 80% to 90% of patients with generalized myasthenia gravis but in only 50% to 55% of patients with isolated ocular myasthenia gravis.7,11If clinical suspicion is high despite negative findings on serum anti–acetylcholine receptor antibody testing, the patient should be referred to a neurologist.4,7,11"
+        },
+        {
+            "parent": 15,
+            "text": "Specific serum molecular genetic testing may be performed if there is concern for genetic disorders, although this testing is typically ordered by a specialist (e.g., neurologist, rheumatologist, geneticist)."
+        },
+        {
+            "parent": 16,
+            "text": "Timely neuroimaging is critical in the evaluation of suspected stroke and cauda equina syndrome. If other neurologic diagnoses (e.g., multiple sclerosis, spinal stenosis, stroke) are suspected, appropriate imaging should be performed. Magnetic resonance imaging and ultrasonography of muscle tissue may be used in the diagnosis of inflammatory myopathy.5"
+        },
+        {
+            "parent": 16,
+            "text": "Electromyography should be performed in patients with muscle weakness if the diagnosis is unclear after a history, physical examination, and targeted laboratory evaluation.5,18,19,26Electromyography assists in localizing the cause of weakness to the motor neuron, neuromuscular junction, or muscle.3Although electromyography complements the neurologic examination, the findings are not pathognomonic for specific diseases. Abnormal findings on electromyography, with or without muscle imaging, may help localize a suitable site for muscle biopsy.5,18,19"
+        },
+        {
+            "parent": 17,
+            "text": "Muscle biopsy is considered the definitive test for diagnosing myopathies; however, it is invasive and used sparingly.Muscle biopsy should be considered to clarify the diagnosis in patients who have objective weakness with elevated creatine kinase levels or abnormal findings on electromyography or on muscle magnetic resonance imaging.20,21Biopsy may also be necessary in cases of suspected inflammatory myopathy if the skin findings of dermatomyositis are absent.9,10"
+        },
+        {
+            "parent": 17,
+            "text": "Muscle biopsy is generally performed as an outpatient procedure by a surgical consultant. The ideal biopsy site is a muscle that exhibits mild-to-moderate clinical weakness. Severely weak muscles should be avoided, because biopsy of a muscle in an advanced stage of myopathy often shows signs of fibrosis or fatty infiltration, yielding nondiagnostic results.5,9Muscle biopsy in older patients with significant sarcopenia is unlikely to be diagnostic.5Complications of muscle biopsy are uncommon but include pain, stiffness, bleeding, and infection.5,21"
+        },
+        {
+            "parent": 17,
+            "text": "This article updates a previous article on this topic bySaguil.6"
+        },
+        {
+            "parent": 17,
+            "text": "Data Sources:We searched PubMed, the Cochrane database, and Essential Evidence Plus for the terms muscle weakness, muscle weakness evaluation, myopathy, motor neuropathy, muscle biopsy, neurologic weakness, electrodiagnostic testing weakness, myasthenia gravis, Lambert Eaton, inflammatory myopathy, sarcopenia, frailty, Guillain Barré, Parsonage Turner, hypocalcemia, Chvostek, Trousseau calcium, and multiple sclerosis. Search dates: January 12 to June 13, 2019, and September 22, 2019."
+        }
+    ],
+    "locked": false
+}

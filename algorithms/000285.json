@@ -1,0 +1,128 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/1101/p778.html#afp20151101p778-f3",
+    "title": "Dysuria: Evaluation and Differential Diagnosis in Adults | AAFP",
+    "author": "THOMAS C. MICHELS, MD, MPH, AND JARRET E. SANDS, DO",
+    "doi": "Am Fam Physician.2015;92(9):778-788",
+    "abstract": "The most common cause of acute dysuria is infection, especially cystitis. Other infectious causes include urethritis, sexually transmitted infections, and vaginitis. Noninfectious inflammatory causes include a foreign body in the urinary tract and dermatologic conditions. Noninflammatory causes of dysuria include medication use, urethral anatomic abnormalities, local trauma, and interstitial cystitis/bladder pain syndrome. An initial targeted history includes features of a local cause (e.g., vaginal or urethral irritation), risk factors for a complicated urinary tract infection (e.g., male sex, pregnancy, presence of urologic obstruction, recent procedure), and symptoms of pyelonephritis. Women with dysuria who have no complicating features can be treated for cystitis without further diagnostic evaluation. Women with vulvovaginal symptoms should be evaluated for vaginitis. Any complicating features or recurrent symptoms warrant a history, physical examination, urinalysis, and urine culture. Findings from the secondary evaluation, selected laboratory tests, and directed imaging studies enable physicians to progress through a logical evaluation and determine the cause of dysuria or make an appropriate referral.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology and Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Laboratory Tests",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "URINALYSIS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "CULTURES AND CYTOLOGY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "IMAGING AND OTHER ADVANCED STUDIES",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Clinical Decision Rules",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Approach to the Patient",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Dysuria is burning, tingling, or stinging of the urethra and meatus associated with voiding. It should be distinguished from other forms of bladder discomfort, such as suprapubic or retropubic pain, pressure, or discomfort that usually increases with bladder volume.1–3Dysuria is present at least occasionally in approximately 3% of adults older than 40 years, according to a survey of roughly 30,000 men and women.4Acute cystitis is the most common cause in women, accounting for 8.6 million outpatient visits in 2007 and 2.3 million emergency department visits in 2011.5,6This article describes an evidence-based approach to the evaluation of adult outpatients with dysuria, focusing on the history, physical examination, and selected tests."
+        },
+        {
+            "parent": 0,
+            "text": "Sensory nerves are located just beneath the urothelium. Chemical irritation and inflammatory conditions (e.g., acute bacterial infection) can alter the mucosal barrier and stimulate these nerves, causing pain. Chronic inflammation and other unknown factors can lead to altered nerve sensitivity and persistent pain. Inflammation from adjacent abdominal structures, such as the colon, can also affect function and sensation in the bladder.7"
+        },
+        {
+            "parent": 0,
+            "text": "Inflammatory disorders of the bladder and urethra are the most common causes of dysuria. Among these, infections of the bladder, urethra, kidneys, and genital organs are the most prevalent, including uncomplicated cystitis, pyelonephritis, and urethritis. Distinguishing a complicated urinary tract infection (UTI) from cystitis is important, because misdiagnosis increases the risk of treatment failure. Risk factors for a complicated infection may include patient characteristics, medical conditions, and urologic conditions(Table 1).8–11In women, dysuria is also a common presentation of vaginitis. In men, prostatitis can present with dysuria. Sexually transmitted infections (STIs) can also cause dysuria."
+        },
+        {
+            "parent": 0,
+            "text": "Inflammatory, noninfectious conditions that can lead to dysuria include the presence of a foreign body (e.g., stent, bladder stone), noninfectious urethritis (e.g., reactive arthritis, formerly Reiter syndrome), and dermatologic conditions. Noninflammatory conditions can be divided into the following categories: anatomic; endocrine; neoplastic; medication-, food-, or recreational drug–related; iatrogenic; and idiopathic. Any condition that causes hematuria with clots can cause dysuria, including renal neoplasms and nephrolithiasis. Interstitial cystitis (also known as bladder pain syndrome) refers to chronic bladder pain, often with voiding symptoms, lasting six weeks or more without an identifiable cause.12The differential diagnosis of dysuria is summarized inTable 2.2,4,8,11–19"
+        },
+        {
+            "parent": 1,
+            "text": "The medical history should characterize the timing, persistence, severity, duration, and exact location of the dysuria. Pain occurring at the start of urination may indicate urethral pathology; pain occurring at the end of urination is usually of bladder origin.1,2,9Physicians should ask about other bladder symptoms, such as frequency, urgency, incontinence, hematuria, malodorous urine, and nocturia. The history should include the presence of flank pain, nausea, fever, and other systemic symptoms. A history of dysuria, UTIs, STIs, and recent sexual activity are crucial. Additionally, medication use, family history, and procedural history can help identify the cause of dysuria. In women, the history should also include the presence of vaginal discharge or irritation, most recent menstrual period, and type of contraception used.2,8"
+        },
+        {
+            "parent": 1,
+            "text": "Specific localization of the discomfort varies between men and women. Women with vaginitis often describe external dysuria, as well as vaginal irritation or discharge. With cystitis, the dysuria is characteristically felt in the bladder or urethra.5,9In addition to dysuria, men with prostatitis may have deep perineal pain and obstructive urinary symptoms, whereas those with epididymo-orchitis may have localized testicular pain. Lesions from herpes simplex virus of the vulvar or penile area may cause dysuria.2,13Patients with interstitial cystitis may have suprapubic or abdominal pain related to bladder filling. These patients nearly always report urinary frequency and urgency, whereas dysuria is variable.3,12"
+        },
+        {
+            "parent": 1,
+            "text": "A meta-analysis in which approximately 50% of patients had a UTI found that the highest positive predictive value (PV+) of cystitis in women was self-diagnosis of cystitis (86%), followed by the absence of vaginal discharge (82%), presence of hematuria (75%), and urinary frequency (73%). This review found that the combination of dysuria and urinary frequency without vaginal discharge or irritation yielded a very high likelihood of UTI (positive likelihood ratio [LR+] = 24.6). A woman with dysuria and frequency, no risk factors for complicated infection, and no vaginal discharge had a 90% probability of UTI; thus, treatment based on symptoms alone was advocated.9A study of 196 symptomatic women found that 79% of patients with “considerable” dysuria, suspicion of a UTI, and absence of vaginal symptoms had a UTI.20In a prospective study of 490 men with symptoms of a UTI, symptoms of dysuria and urgency were significantly associated with a positive urine culture.21A suggested history for patients with dysuria is provided ineTable A."
+        },
+        {
+            "parent": 1,
+            "text": "The physical examination, especially when complicated UTI is a consideration, should include vital signs, evaluation for costovertebral angle pain, palpation for abdominal mass or tenderness, and inspection for dermatologic conditions and acute joint effusions. Often the most relevant findings on physical examination are sex-specific, including inspecting for infectious or atrophic vaginitis and STIs in women, and prostatitis and STIs in men.15,18The presence of costovertebral angle tenderness on examination modestly increases the likelihood of having a UTI in women (LR+ = 1.7).9Key physical examination findings are discussed ineTable B. Risk factors for complicated UTI and failure to respond to initial treatment are indications for a more detailed history and physical examination."
+        },
+        {
+            "parent": 3,
+            "text": "Urinalysis is the most useful test in a patient with dysuria; most studies have used dipstick urinalysis. Multiple studies of women with symptoms suggestive of a UTI have demonstrated that the presence of nitrites is highly predictive of a positive culture (PV+ = 75% to 95%); dipstick showing more than trace leukocytes is nearly as predictive (PV+ = 65% to 85%); and the presence of both is almost conclusive (PV+ = 95%).9,20,22–24Urinary nitrites may be falsely negative in women with a UTI.25Few studies specifically address the value of urinalysis in men with dysuria, but evidence suggests similar value to the combination of leukocyte esterase, nitrites, and possibly blood.4,21,26,27Leukocyte esterase or pyuria alone with isolated dysuria suggests urethritis.8,10,28"
+        },
+        {
+            "parent": 4,
+            "text": "Any patient with risk factors for a complicated UTI(Table 18–11)or whose symptoms do not respond to initial treatment should have a urine culture and sensitivity analysis. Patients with suspected pyelonephritis should have renal function assessed with serum creatinine measurement, and electrolyte levels should be measured if there is substantial nausea and vomiting. Blood cultures are usually not necessary, but can be obtained in patients with high fever or risk of infectious complications.2,8"
+        },
+        {
+            "parent": 4,
+            "text": "In women with vaginal symptoms, secretions should be evaluated with wet mount and potassium hydroxide microscopy or a vaginal pathogens DNA probe. Urethritis should be suspected in younger, sexually active patients with dysuria and pyuria without bacteriuria; in men, urethral inflammation and discharge is typically present. In patients with suspected urethritis, a urethral, vaginal, endocervical, or urine nucleic acid amplification test forNeisseria gonorrhoeaeandChlamydia trachomatisis indicated. Genital ulcerations can be sampled for herpes simplex virus culture or polymerase chain reaction testing, as well as testing for other STIs.28In men with suspected chronic prostatitis, urine culture after gentle prostatic massage can yield the causative bacterial agent. Prostate-specific antigen level is transiently elevated during acute prostatitis and should not be measured in patients with acute inflammatory symptoms. Urine cytology is helpful if bladder cancer is suspected, such as in older patients with hematuria and a negative culture result.29"
+        },
+        {
+            "parent": 5,
+            "text": "Imaging is not necessary in most patients with dysuria, although it may be indicated in patients with a complicated UTI, a suspected anatomic anomaly (e.g., abnormal voiding, positive family history of genitourinary anomalies), obstruction or abscess, relapsing infection, or hematuria. Ultrasonography is the preferred initial test for patients with obstruction, abscess, recurrent infection, or suspected kidney stones, because it avoids radiation exposure.30,31Helical computed tomography urography is used to view the kidneys and adjacent structures, and may be considered to further evaluate patients with possible abscess, obstruction, or suspected anomalies when ultrasonography is not diagnostic.8,30If urinalysis is unrevealing, cystoscopy can be performed to evaluate for bladder cancer, hematuria, and chronic bladder symptoms. Urodynamic studies can be performed for persistent voiding symptoms with otherwise unrevealing workup,12although a recent Cochrane review found no evidence that these tests led to reduction in symptoms in men with such indications.32Further investigation and urology referral should be considered in patients with recurrent UTI, urolithiasis, known urinary tract abnormality or cancer, history of urologic surgery, hematuria, persistent symptoms, or in men with abnormal postvoid residual urine level (greater than 100 mL)8,10,11,29,33(Table 34,8,9,11,21,23–26,28–30,33,34)."
+        },
+        {
+            "parent": 6,
+            "text": "More than 400 patients were included in an English study to develop and validate a clinical decision rule for women presenting with dysuria and urinary frequency. The scoring system they developed can be used in a two-stage process, with some patients treated empirically based on symptoms alone(Table 4).23Negative predictive values are poor; many women with UTI will not have all three clinical symptoms that were found to be predictive of UTI (dysuria, nocturia, and offensive urine odor), and about one-fourth of patients with urinary symptoms and a normal dipstick result have UTI, so appropriate follow-up is important."
+        },
+        {
+            "parent": 6,
+            "text": "A Dutch study included 490 outpatient men with dysuria, frequency, or urgency, while excluding men with symptoms suggestive of an STI or a complicated UTI. The authors found that the combination of age (60 years or older) and either a positive leukocyte esterase or nitrite test result had the best positive and negative predictive values for UTI (83% and 60%, respectively).21"
+        },
+        {
+            "parent": 6,
+            "text": "Another study developed a symptoms-history-urinalysis score that included symptoms of frequency, nocturia, dysuria, hematuria, and offensive-smelling urine; history of a previous UTI; and urinalysis results (protein, blood, and nitrites). The study found that a score of 0 or greater on the 13-item score sheet (range of possible scores from –19 to +31) identified 85% of women with infection; 25% of women without infection also had a score of 0 or greater.26"
+        },
+        {
+            "parent": 6,
+            "text": "All of the decision rules caution that in a patient with dysuria, these combinations of variables can reassure physicians that a UTI is likely present, but are not very useful in ruling out a UTI when they are absent. It is important to address the other clinical features discussed here to narrow the differential diagnosis."
+        },
+        {
+            "parent": 7,
+            "text": "Many studies advise that, in the right clinical setting, symptoms alone can identify patients with a high likelihood of UTI who are candidates for empiric therapy. Women with an uncomplicated history who present with acute dysuria, urinary urgency or frequency, and no vaginal discharge can be treated for acute cystitis without other evaluation.9,23–25,31,35Several studies suggest that this approach is effective in reducing costs while improving patient satisfaction, with no increase in adverse outcomes.5,35,36This approach is reflected in the algorithms presented here for the evaluation and follow-up of dysuria. These algorithms are based on evaluation of the existing evidence.Figure 12,4,5,10,20,22,24,25,31,37,38addresses the initial presentation of a woman with acute dysuria, andFigure 22,4,8,9,12,29,33addresses the follow-up evaluation.Figure 3presents the approach to a man with dysuria.4,18,21,26–29,39For patients with initially normal dip-stick urinalysis and culture results,Table 5lists common conditions that may be causing dysuria, the typical presentation, and management recommendations.4,12–19,28It is important to use clinical judgment and to be aware of the inclusion and exclusion criteria for the studies on which these algorithms are based. For example, a sexually active adolescent with dysuria is more likely to have an STI than cystitis, and urinalysis results may be negative.40–42Similarly, an older patient who experiences dysuria shortly after having an indwelling catheter and who has a negative urinalysis result still has a high likelihood of having a UTI.38"
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key terms dysuria, urinary tract infection (acute, recurrent, elderly), and hematuria, as well as for the specific disease entities considered (e.g., gonococcal urethritis). The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. The following databases and summaries were also used: Cochrane Database of Systematic Reviews, BMJ Clinical Evidence, National Guideline Clearinghouse, Essential Evidence Plus, and UpToDate. Search dates: January through August 2014, and May through July 2015."
+        },
+        {
+            "parent": 7,
+            "text": "The opinions expressed herein are those of the authors and are not necessarily representative of those of the U.S. Army or Department of Defense."
+        }
+    ],
+    "locked": false
+}

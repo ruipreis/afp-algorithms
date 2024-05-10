@@ -1,0 +1,94 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0501/p2139.html#afp20040501p2139-f1",
+    "title": "Polycythemia Vera | AAFP",
+    "author": "BRIAN J. STUART, LT, MC, USNR, AND ANTHONY J. VIERA, LCDR, MC, USNR",
+    "doi": "Am Fam Physician.2004;69(9):2139-2144",
+    "abstract": "Polycythemia vera is a chronic myeloproliferative disorder characterized by increased red blood cell mass. The resultant hyperviscosity of the blood predisposes such patients to thrombosis. Polycythemia vera should be suspected in patients with elevated hemoglobin or hematocrit levels, splenomegaly, or portal venous thrombosis. Secondary causes of increased red blood cell mass (e.g., heavy smoking, chronic pulmonary disease, renal disease) are more common than polycythemia vera and must be excluded. Diagnosis is made using criteria developed by the Polycythemia Vera Study Group; major criteria include elevated red blood cell mass, normal oxygen saturation, and palpable splenomegaly. Untreated patients may survive for six to 18 months, whereas adequate treatment may extend life expectancy to more than 10 years. Treatment includes phlebotomy with the possible addition of myelosuppressive agents based on a risk-stratified approach. Agents under investigation include interferon alfa-2b, anagrelide, and aspirin. Consultation with a hematologist is recommended.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Polycythemia vera (PV) is a chronic myeloproliferative disorder characterized by an increased red blood cell mass (RCM), or erythrocytosis, which leads to hyperviscosity and an increased risk of thrombosis. Patients may present with complaints of pruritus after bathing, burning pains in the distal extremities (erythromelalgia), gastrointestinal disturbances, or nonspecific complaints such as weakness, headaches, or dizziness. Other patients are diagnosed after an incidental finding of an elevated hemoglobin and/or hematocrit level on a complete blood count."
+        },
+        {
+            "parent": -1,
+            "text": "The median age of patients diagnosed with PV is 60 years, although it can occur in persons in all age groups.1PV occurs with a slight predominance in men. A comprehensive review1reported the incidence of PV to be 2.3 per 100,000 persons per year. Therefore, a typical family physician can expect to make a diagnosis of PV once or twice during his or her career, and will often have at least one patient in his or her patient panel who carries the diagnosis. The seriousness of PV is underscored by the fact that the median survival in untreated symptomatic patients after diagnosis is six to 18 months.2With treatment, the median survival is more than 10 years.2"
+        },
+        {
+            "parent": 0,
+            "text": "PV should be suspected when hemoglobin and/or hematocrit levels are elevated (i.e., hemoglobin level greater than 18 g per dL [180 g per L] in white men and 16 g per dL [160 g per L] in blacks and women; hematocrit level greater than 52 percent (0.52) in white men and 47 percent (0.47) in blacks and women).3PV also should be suspected in patients with portal venous thrombosis and splenomegaly with or without thrombocytosis and leukocytosis. Other signs and symptoms are listed inTable 1.1,4"
+        },
+        {
+            "parent": 0,
+            "text": "In making the diagnosis of PV, the physician must first exclude a secondary erythrocytosis.5,6Once a secondary cause is ruled out(Table 27), the diagnosis of PV is made using a combination of major and minor criteria defined by the Polycythemia Vera Study Group (PVSG). Although new diagnostic modalities have been developed, these criteria remain the standard method to diagnose PV.8"
+        },
+        {
+            "parent": 0,
+            "text": "Major diagnostic criteria include increased RCM, normal oxygen saturation, and the presence of splenomegaly. The test for RCM is a nuclear medicine study involving autologous infusion of radio-labeled red blood cells followed by serial phlebotomy to determine distribution. Physicians may refer patients to a specialty laboratory for this study."
+        },
+        {
+            "parent": 0,
+            "text": "Changes to these diagnostic criteria have been proposed. For example, determinations of RCM, classically given in milliliters per kilogram (mL per kg), can be misleading if the patient is obese, because body fat is relatively avascular. The International Council for Standardization in Haematology (ICSH) has amended the RCM assessment, recommending the use of formulas incorporating body surface area, weight, gender, and plasma volume.8–10[Level of evidence: C, consensus opinion] A patient with PV could have low oxygen saturation levels, because it is possible to have both PV and an unrelated hypoxic disorder.1Palpable splenomegaly is an important physical finding and major criterion. However, palpation is only 58 percent sensitive for diagnosis11(i.e., if present, it will not be detected by examiners in 42 percent of cases). Specificity is much better. This lack of sensitivity has led to some discussion about the use of imaging techniques to answer the question, although such a finding by imaging might be relegated to the status of a minor criterion.10In addition, the minor criteria of leukocyte alkaline phosphatase (LAP) and serum vitamin B12and B12binding capacity may be dropped in the future because of inter-laboratory error regarding LAP and the unavailability of vitamin 10 B12binding capacity. Furthermore, neither of these criteria is sensitive nor specific.1Nonetheless, the PVSG criteria remain the diagnostic standard."
+        },
+        {
+            "parent": 0,
+            "text": "Serum erythropoietin (EPO), bone marrow histopathology and karyotype, and the presence of endogenous erythroid colonies (EEC) have been proposed as diagnostic tests for PV. Because PV is an autonomous (i.e., EPO-independent) erythroid proliferation, serum EPO levels in PV are low or normal.1,5Low-serum EPO levels for PV have a sensitivity of 70 percent and a specificity of 90 percent.1"
+        },
+        {
+            "parent": 0,
+            "text": "In PV, bone marrow displays characteristic histologic findings,10and clonal cytogenetic abnormalities can be detected.5Use of this test requires the availability of a histologist who is specially trained in marrow histology. Finally, EEC growth is based on the ability of erythroid cells from peripheral blood and bone marrow samples in PV to grow in vitro without the addition of EPO.12,13This unique finding, along with serum EPO levels, forms the basis for a new diagnostic approach,5but has the disadvantages of expense and limited availability.10"
+        },
+        {
+            "parent": 0,
+            "text": "Although serum EPO levels and marrow biopsies may become a routine diagnostic option, the PVSG criteria remain the standard of diagnosis. Consultation with a hematologist is appropriate to aid in diagnosis, and serum EPO levels and bone marrow biopsy should be considered if available. An algorithm summarizing the evaluation and management of PV is presented inFigure 1."
+        },
+        {
+            "parent": 1,
+            "text": "No single treatment is available for PV. Thrombosis accounts for the majority of morbidity and mortality. The major goal of treatment is to prevent thrombotic events. Examples of thrombotic events include arterial and venous thrombosis, cerebrovascular accident, deep venous thrombosis, myocardial infarction, peripheral arterial occlusion, and pulmonary infarct.14Of additional importance to the family physician is the symptomatic treatment of the bothersome microvascular sequelae, such as pruritus and distal extremity erythromelalgia(Table 31,15–17). Because PV is a rare condition, it has been difficult to assemble patients for well-designed, randomized controlled trials with long- term follow-up. Therefore, recommendations for treatment are based on lower quality evidence from case series and uncontrolled trials."
+        },
+        {
+            "parent": 1,
+            "text": "The PVSG and Gruppo Italiano Studio Policitemia (GISP) are two prospective trials that have unearthed a therapeutic dilemma regarding the two basic treatment approaches—phlebotomy alone and phlebotomy plus myelosuppressive agents. A number of new therapeutic agents have been developed. In addition to interferon alfa-2b (Intron A) therapy, agents that target platelet number (e.g., anagrelide [Agrylin]), and platelet function (e.g., aspirin) are being investigated as potential therapies."
+        },
+        {
+            "parent": 1,
+            "text": "The mainstay of treatment for PV is phlebotomy, which is aimed at reducing hyperviscosity by decreasing the venous hematocrit level to less than 45 percent (0.45) in white men and 42 percent (0.42) in blacks and women.1,14,18The PVSG reported the best median survival, 12.6 years, for this type of treatment.14Some features of using phlebotomy alone are attractive, primarily because it is a simple procedure without many risks, except for the eventual development of iron deficiency.8Some experts have cast doubt on the PVSG findings regarding median survival, noting that up to 50 percent of patients treated with phlebotomy alone had to switch to other treatments by the fifth year.19The PVSG found a statistically significant increase in the number of thrombotic events within the first three years of initiating treatment, compared with the use of myelosuppressive agents.14After this period, however, the rate of thrombosis remained the same for both treatment approaches. Furthermore, the GISP found an added independent dimension to the risk of thrombosis—rates increase with age and a history of thrombotic events.20Despite these concerns, a recent survey of physicians who were members of the American Society of Hematology showed that 69 percent use phlebotomy as first-line therapy for PV.21"
+        },
+        {
+            "parent": 1,
+            "text": "The use of myelosuppressive agents such as radioactive phosphorus (32P), chlorambucil (Leukeran), busulfan (Myleran), pipobroman (Vercyte), and hydroxyurea (Hydrea) in conjunction with phlebotomy has been studied. Chlorambucil, busulfan, and pipobroman, all alkylating agents, have fallen out of favor because of concerns about rates of iatrogenic leukemia.19The agent32P remains in use with supplemental phlebotomy and has a reported median survival similar to that of phlebotomy alone—10.9 years according to PVSG data14and 11.8 years according to GISP.20The myelosuppressive drugs such as32P had an initial advantage over phlebotomy alone regarding thrombosis rates during the first three years of treatment. However, this effect disappeared after three years, and rates of thrombosis thereafter were equivalent.8,14,19Unfortunately, prospective data have revealed the mutagenic potential of myelosuppressive agents such as32P, with a relative risk for malignancy of 2.3 to four times that of the control groups after about six years of treatment. Patients treated with phlebotomy alone had the same rate of cancer as patients in the control groups.2,14,20"
+        },
+        {
+            "parent": 1,
+            "text": "The nonalkylating myelosuppressive agent hydroxyurea is widely used in the treatment of PV, because it is less leukemogenic.22PVSG data have established this agent to be an effective bone marrow suppressant. Hydroxyurea is associated with a lower risk of thrombosis compared with solely phlebotomized patients. Concern regarding the safety of long-term use of hydroxyurea has been noted.14,19"
+        },
+        {
+            "parent": 1,
+            "text": "Recombinant interferon alfa-2b reduces myeloproliferation and splenomegaly, and alleviates the symptom of pruritus.23It has no established mutagenic potential, and thus may prove a valuable option for younger patients and those with impressive splenomegaly.19A small case series of 11 patients found that the patients’ red cell indices could be normalized over six to 12 months with interferon therapy alone, and without evidence of thrombosis.24However, many patients discontinue interferon because of side effects, and the cost of treatment is high.23,25Myelosuppressive treatment options are summarized inTable 4.1,26,27"
+        },
+        {
+            "parent": 1,
+            "text": "Reduction of platelet counts with anagrelide has been proposed as a treatment option for PV, as with other myeloproliferative disorders, but this option has not been thoroughly studied.19,25Targeting platelet function with aspirin remains another possibility. One PVSG protocol found that 300 mg of aspirin daily in conjunction with phlebotomy and dipyridamole (Persantine) was associated with an increased risk of gastrointestinal bleeding.14However, a small GISP study randomized patients to low-dose aspirin (40 mg per day) or placebo and found no increased rates of bleeding or complications.1The use of low-dose aspirin is being investigated by the European Collaboration on Low-Dose Aspirin.19,22,25"
+        },
+        {
+            "parent": 1,
+            "text": "A risk-stratified approach to the management of PV is currently recommended(Table 5).1[Level of evidence: C, expert opinion] Patients treated with phlebotomy alone benefit from low rates of malignancy but experience more thrombosis events during the first few years of treatment. Patients treated with myelosuppressive agents and supplemental phlebotomy avoid this early thrombotic risk but in turn have significant rates of malignant transformation after about six years of therapy. Therefore, stratifying patients by age and risk of thrombosis is useful. High-risk patients are those 60 years or older, or those with a history of thrombosis. A myelosuppressive agent with supplemental phlebotomy is reasonable in this group. This group’s generally shorter life expectancy lessens the threat of eventual iatrogenic malignancy. Patients in this group stand to gain from the benefit of lower early thrombosis rates with myelosuppressive medications. Those considered at indeterminate risk are younger than 60 years and have no history of thrombocytosis, but do have cardiovascular or other risk factors.1Therapy in this group should be individualized, possibly with the addition of agents acting on platelet function or number. Finally, those considered low risk are younger than 60 years and have no thrombosis-related risk factors. Phlebotomy alone may be the treatment of choice with the goal of reducing the hematocrit level to less than 45 percent (0.45) or lower based on gender and race.1,14,19,25Consultation with a hematologist is recommended to apply such strategies, and newer agents may be tailored to patients on an individualized basis."
+        },
+        {
+            "parent": 1,
+            "text": "PV produces microvascular sequelae whose symptoms, while not life threatening, can be bothersome to patients(Table 1).1,4Because PV is rare, high-quality evidence supporting treatment is lacking. Pruritus, particularly after bathing (aquagenic pruritus) is a common symptom and various treatment options are available(Table 31,15–17). Symptoms such as transient neurologic disturbances may respond to low-dose aspirin therapy. Erythromelalgia is rare, occurring in approximately 3 percent of patients with PV. Low-dose aspirin typically is used, with myelosuppressive therapy reserved for those patients who do not respond.1"
+        }
+    ],
+    "locked": false
+}

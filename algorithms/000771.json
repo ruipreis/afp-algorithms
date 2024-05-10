@@ -1,0 +1,180 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2004/0101/p120.html#afp20040101p120-f1",
+    "title": "Diagnostic Approach to Tinnitus | AAFP",
+    "author": "RICHARD W. CRUMMER, M.D., AND GHINWA A. HASSAN, M.D.",
+    "doi": "Am Fam Physician.2004;69(1):120-126",
+    "abstract": "Tinnitus is a common disorder with many possible causes. Most cases of tinnitus are subjective, but occasionally the tinnitus can be heard by an examiner. Otologic problems, especially hearing loss, are the most common causes of subjective tinnitus. Common causes of conductive hearing loss include external ear infection, cerumen impaction, and middle ear effusion. Sensorineural hearing loss may be caused by exposure to excessive loud noise, presbycusis, ototoxic medications, or Meniere's disease. Unilateral hearing loss plus tinnitus should increase suspicion for acoustic neuroma. Subjective tinnitus also may be caused by neurologic, metabolic, or psychogenic disorders. Objective tinnitus usually is caused by vascular abnormalities of the carotid artery or jugular venous systems. Initial evaluation of tinnitus should include a thorough history, head and neck examination, and audiometric testing to identify an underlying etiology. Unilateral or pulsatile tinnitus may be caused by more serious pathology and typically merits specialized audiometric testing and radiologic studies. In patients who are discomforted by tinnitus and have no remediable cause, auditory masking may provide some relief.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes of Tinnitus",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "SUBJECTIVE TINNITUS",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "OBJECTIVE TINNITUS",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Evaluation of Tinnitus",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIAGNOSTIC TESTS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Patient Information",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The word tinnitus is derived from the Latin word tinnire, meaning “to ring” or “a ringing.” Tinnitus is defined as an unwanted auditory perception of internal origin, usually localized, and rarely heard by others.1Tinnitus is common, affecting up to 10 percent of the U.S. general population. It is most prevalent between 40 and 70 years of age, has a roughly equal prevalence in men and women, and occasionally can occur in children.2"
+        },
+        {
+            "parent": -1,
+            "text": "The severity of tinnitus varies from an occasional awareness of a noise (e.g., ringing, hissing, buzzing, roaring, clicking, or rough sounds) in one or both ears, to an unbearable sound that drives some persons to contemplate suicide.1,2People with similar psychoacoustic descriptions of tinnitus may differ radically in their level of annoyance and sense of its impact on daily life. Epidemiologic data reveal that approximately one fourth of persons with tinnitus are discomforted by it, whereas the remaining three fourths experience the condition without significant symptoms.3"
+        },
+        {
+            "parent": -1,
+            "text": "Tinnitus takes different forms and has different classification proposals. One classification system stresses distinctions between vibratory and nonvibratory types, while another system groups the different forms of tinnitus into subjective or objective classes."
+        },
+        {
+            "parent": -1,
+            "text": "Vibratory tinnitus is caused by transmission to the cochlea of vibrations from adjacent tissues or organs. Nonvibratory tinnitus is produced by biochemical changes in the nerve mechanism of hearing."
+        },
+        {
+            "parent": -1,
+            "text": "Subjective tinnitus, which is more common, is heard only by the patient. Objective tinnitus can be heard through a stethoscope placed over head and neck structures near the patient's ear."
+        },
+        {
+            "parent": -1,
+            "text": "The mechanism that produces tinnitus remains poorly understood. Tinnitus may originate at any location along the auditory pathway from the cochlear nucleus to the auditory cortex. Some leading theories include injured cochlear hair cells that discharge repetitively and stimulate auditory nerve fibers in a continuous cycle, spontaneous activity in individual auditory nerve fibers, hyperactivity of the auditory nuclei in the brain stem, or a reduction in the usual suppressive activity of the central auditory cortex on peripheral auditory nerve activity.4"
+        },
+        {
+            "parent": -1,
+            "text": "This article discusses the causes of subjective and objective tinnitus, and techniques used for evaluating tinnitus. Treatment recommendations are available from other sources.5–7"
+        },
+        {
+            "parent": 0,
+            "text": "Tinnitus has many possible causes (Table 1). A thorough history and physical examination should be directed at ruling out serious disorders. In general, pulsatile tinnitus, unilateral tinnitus, and tinnitus associated with other unilateral otologic symptoms represent potentially more serious underlying disease than bilateral tinnitus.8"
+        },
+        {
+            "parent": 1,
+            "text": "Otologic disorders are the most common cause of subjective tinnitus.2,9Most cases of tinnitus result from the same conditions that cause hearing loss. There are two types of hearing loss: conductive and sensorineural. Conductive hearing loss is caused by the inhibition of sound transmission to the inner ear. This inhibition may be caused by cerumen impaction, swelling of the external auditory canal from otitis externa, tympanic membrane perforation, middle ear fluid, or abnormalities of the ossicular bone chain, such as otosclerosis.10"
+        },
+        {
+            "parent": 1,
+            "text": "Sensorineural hearing loss indicates a disease or abnormality of the inner ear or cochlear portion of the eighth cranial nerve. The most common etiologic factors are noise-induced hearing loss (NIHL), or the progressive loss of acuity that occurs with advancing age (presbycusis)."
+        },
+        {
+            "parent": 1,
+            "text": "NIHL is the most common type of acquired hearing loss. It is irreversible, yet preventable. Screening for exposure to excessive or loud noises can be performed during routine health maintenance visits.11Continued counseling about the risk of hearing loss is warranted if the patient is exposed to damaging sounds. Patients should be encouraged to avoid long-term exposure to hazardous noises and to use hearing protection when necessary. Parents should be encouraged to provide adequate hearing protection, such as silicone ear plugs, for their children."
+        },
+        {
+            "parent": 1,
+            "text": "Meniere's disease (excessive accumulation of endolymph in the membranous labyrinth) is a diagnosis of exclusion that is characterized by one or more symptoms that include recurrent episodes of vertigo, unilateral aural fullness, tinnitus, and hearing loss.12Tinnitus characteristically affects a person in two ways13: between attacks it is a ringing noise, while during an attack it is a roaring noise. Over time, the hearing loss and tinnitus may become permanent or abate."
+        },
+        {
+            "parent": 1,
+            "text": "Acoustic neuroma, an uncommon, benign tumor, arises from the Schwann cells covering the vestibular branch of the eighth cranial nerve.14The vestibular nerve is destroyed so slowly by the acoustic neuroma that vestibular symptoms, such as dizziness or vertigo, may be minimal or transient. The first symptom is usually tinnitus. Tinnitus may be present for months or years before hearing loss or vertigo is noticed. The tinnitus is unilateral in 95 percent of cases. It is continuous and less disturbing than the tinnitus of Meniere's disease.14"
+        },
+        {
+            "parent": 1,
+            "text": "Ototoxic medications or substances are another common cause of bilateral tinnitus. Currently, almost every major group of medication includes one or more compounds with ototoxic properties (Table 2).2,10,15Ototoxicity may affect hair cells, the eighth cranial nerve, or their central nervous connections. The damage can be exhibited as hearing loss, vertigo, or tinnitus. The presence of tinnitus often heralds a cochlear hearing loss.16Ototoxic drugs should be used with particular caution in patients who have risk factors that predispose them to ototoxicity.17These risk factors include advanced or very young age, renal or hepatic impairment, pregnancy, or history of hearing loss or excessive or loud noise exposure."
+        },
+        {
+            "parent": 1,
+            "text": "Simultaneous administration of several ototoxic agents or prolonged treatment with high dosages of an ototoxic medication should be avoided when possible. If a specific ototoxic medication is mandated, careful attention to the dosage and dosing interval may help prevent toxic serum levels from developing.18Some substances protect the ear against toxicity from drugs, but they have been studied only in experimental settings.18Ongoing audiologic monitoring for possible ototoxicity may be helpful when prolonged use of ototoxic agents is needed.19Early detection of ototoxicity and discontinuation of the offending drug can lead to complete or partial reversal of the damage."
+        },
+        {
+            "parent": 1,
+            "text": "Neurologic disorders or head trauma are implicated in 5 to 10 percent of patients reporting tinnitus.2These conditions include skull fracture, closed head injury, whiplash injury, and multiple sclerosis. Temporomandibular joint disorder has been associated with vertigo and tinnitus, although the exact mechanism is unclear."
+        },
+        {
+            "parent": 1,
+            "text": "Various metabolic abnormalities may be associated with tinnitus. These abnormalities include hypothyroidism, hyperthyroidism, hyperlipidemia, anemia, and vitamin B12or zinc deficiency."
+        },
+        {
+            "parent": 1,
+            "text": "Many patients with tinnitus exhibit signs of psychologic disorders. Although tinnitus may be a contributing factor to the development of depression, the common association of tinnitus and depression may be the result when depressed patients, particularly those with sleep disturbances, focus and dwell on their tinnitus more than patients who are without an underlying psychologic disorder."
+        },
+        {
+            "parent": 2,
+            "text": "Objective tinnitus is rare. Patients with objective tinnitus typically have a vascular abnormality, neurologic disease, or eustachian tube dysfunction.4"
+        },
+        {
+            "parent": 2,
+            "text": "Patients with vascular abnormalities complain of pulsatile tinnitus. Arterial bruits may be transmitted to the ear from arterial vessels near the temporal bone. The petrous carotid system is the most common source.2Patients experience worsening of symptoms at night and usually do not have other otologic complaints. Venous hums may be heard in patients with hypertension or abnormally high placement of the jugular bulb. This type of tinnitus is a soft, low-pitched venous hum, which can be altered by head position, activity, or pressure over the jugular vein.4"
+        },
+        {
+            "parent": 2,
+            "text": "Congenital arteriovenous shunts are usually asymptomatic, while the acquired type often are associated with pulsatile tinnitus. Common causes are head trauma or surgery. Glomus tumor is a vascular neoplasm arising from the paraganglia around the carotid bifurcation, the jugular bulb, or the tympanic arteries. These tumors usually cause a loud pulsating tinnitus.20"
+        },
+        {
+            "parent": 2,
+            "text": "Neurologic disorders that cause objective tinnitus include palatomyoclonus (repetitive rapid contractions of soft palate muscles) and idiopathic stapedial muscle spasm.4Often, these spasms are associated with other neurologic disorders such as brain-stem tumor, infarction, or multiple sclerosis."
+        },
+        {
+            "parent": 2,
+            "text": "Patulous eustachian tubes may cause tinnitus. Patients may hear blowing sounds within the ear coincident with breathing. This disorder commonly develops after significant weight loss. Patients also may complain of an abnormal awareness of their own voice (autophony). The symptoms may disappear with Valsalva's maneuver or when the patient lies down with the head in a dependent position."
+        },
+        {
+            "parent": 4,
+            "text": "The evaluation of a patient with tinnitus begins by taking a thorough history.Table 3includes items that should be checked when determining the likely cause of tinnitus."
+        },
+        {
+            "parent": 5,
+            "text": "A fairly comprehensive otologic examination can be done in a family physician's office. The external canal and tympanic membrane should be inspected for signs of cerumen impaction, perforation, or infection. The cranial nerves should be examined for evidence of brain-stem damage or hearing loss.9Auscultation over the neck, periauricular area, orbits, and mastoid should be performed. Tinnitus of venous origin can be suppressed by compression of the ipsilateral jugular vein."
+        },
+        {
+            "parent": 5,
+            "text": "Specific testing for sensorineural or conductive hearing loss is the next part of the examination. Traditionally, testing has been done using a 512-Hz or 1,024-Hz tuning fork. The Weber and Rinne tests are the most widely used tuning fork tests. In the Weber test, the tuning fork is struck and placed on the midline of the forehead, the nasal bridge, or the chin. The patient is asked to indicate in which ear the sound is louder. The sound lateralizes to the opposite ear in patients with a sensorineural hearing loss, but to the same side in those with a conductive hearing loss. Patients with normal hearing or equal deafness in both ears hear the sound at the same level in both ears."
+        },
+        {
+            "parent": 5,
+            "text": "In the Rinne test, the tuning fork is placed against the mastoid process to measure the conduction of sound by bone. When the sound can no longer be heard, the tuning fork is placed in front of the auditory canal to test air conduction. If air conduction is greater than bone conduction, hearing is normal or sensorineural hearing loss is present. If bone conduction is greater than air conduction, hearing loss is conductive."
+        },
+        {
+            "parent": 6,
+            "text": "All patients with tinnitus should have an audiometric assessment, because the subjective complaint usually correlates poorly with actual acoustic properties.1"
+        },
+        {
+            "parent": 6,
+            "text": "Diagnostic testing should include audiography, speech discrimination testing, and tympanometry. A formal audiogram establishes a base from which to pursue more advanced diagnostic testing. Pure tone testing primarily tests the function of the peripheral portion of the hearing apparatus. Sound must be interpreted in the central nervous system before it can be useful to the patient. Poor performance on the speech test usually reflects pathology in the central nervous system.15Tympanometry helps to identify previously undetected middle ear effusions, changes in tympanic membrane stiffness caused by a patulous eustachian tube, or myoclonus of the stapedial muscle or the muscles of the palate.1"
+        },
+        {
+            "parent": 6,
+            "text": "Other audiologic measurements of tinnitus include pitch masking (matching the frequency of the tinnitus with a variety of stimuli), loudness matching (estimating the loudness of tinnitus with a pure tone or noise), minimum masking level (a test in which the amount of sound required to cover the tinnitus is recorded), and residual inhibition (achieving decreased or absent tinnitus after exposure to a masking tone at the pitch and intensity of the tinnitus). These measurements provide some information as to whether the tinnitus can be masked by an external noise (i.e., masking therapy)."
+        },
+        {
+            "parent": 6,
+            "text": "Thyroid studies, a hematocrit determination, complete blood chemistry, and lipid profile should be obtained if the patient has any suggestion of a medical abnormality. Further investigation should be dictated by the index of suspicion created by the history, physical examination, and audiometric profile (Figure 1). Patients with unilateral or pulsatile tinnitus are more likely to have serious underlying disease and typically merit referral to an otolaryngologist.2,5A full clinical evaluation should precede radiologic studies. Because pulsatile tinnitus suggests a vascular abnormality, the preferred imaging study is contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI) of the brain21(Figure 2). In patients with non-pulsatile (continuous) tinnitus, gadolinium-enhanced MRI is the study of choice.21Many patients require both MRI and CT to adequately evaluate pathology and anatomy.4"
+        },
+        {
+            "parent": 7,
+            "text": "Because some cases of tinnitus are irreversible, patients should be counseled about the ways tinnitus may affect their lives and emotions.Table 4lists sources of patient information that can be used during counseling sessions. A patient information handout follows this article."
+        }
+    ],
+    "locked": false
+}

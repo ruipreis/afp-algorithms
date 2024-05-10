@@ -1,0 +1,121 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2014/0301/p353.html#afp20140301p353-f3",
+    "title": "Evaluation and Management of Neck Masses in Children | AAFP",
+    "author": "JEREMY D. MEIER, MD, AND JOHANNES FREDRIK GRIMMER, MD",
+    "doi": "Am Fam Physician.2014;89(5):353-358",
+    "abstract": "Neck masses in children usually fall into one of three categories: developmental, inflammatory/reactive, or neoplastic. Common congenital developmental masses in the neck include thyroglossal duct cysts, branchial cleft cysts, dermoid cysts, vascular malformations, and hemangiomas. Inflammatory neck masses can be the result of reactive lymphadenopathy, infectious lymphadenitis (viral, staphylococcal, and mycobacterial infections; cat-scratch disease), or Kawasaki disease. Common benign neoplastic lesions include pilomatrixomas, lipomas, fibromas, neurofibromas, and salivary gland tumors. Although rare in children, malignant lesions occurring in the neck include lymphoma, rhabdomyosarcoma, thyroid carcinoma, and metastatic nasopharyngeal carcinoma. Workup for a neck mass may include a complete blood count; purified protein derivative test for tuberculosis; and measurement of titers for Epstein-Barr virus, cat-scratch disease, cytomegalovirus, human immunodeficiency virus, and toxoplasmosis if the history raises suspicion for any of these conditions. Ultrasonography is the preferred imaging study for a developmental or palpable mass. Computed tomography with intravenous contrast media is recommended for evaluating a malignancy or a suspected retropharyngeal or deep neck abscess. Congenital neck masses are excised to prevent potential growth and secondary infection of the lesion. Antibiotic therapy for suspected bacterial lymphadenitis should targetStaphylococcus aureusand group A streptococcus. Lack of response to initial antibiotics should prompt consideration of intravenous antibiotic therapy, referral for possible incision and drainage, or further workup. If malignancy is suspected (accompanying type B symptoms; hard, firm, or rubbery consistency; fixed mass; supraclavicular mass; lymph node larger than 2 cm in diameter; persistent enlargement for more than two weeks; no decrease in size after four to six weeks; absence of inflammation; ulceration; failure to respond to antibiotic therapy; or a thyroid mass), the patient should be referred to a head and neck surgeon for urgent evaluation and possible biopsy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "History and Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "TIMING",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "ASSOCIATED SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "RECENT EXPOSURES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "LOCATION",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "PALPATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "SIZE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Initial Diagnostic Testing",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Initial Treatment and Referral",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Primary care physicians commonly see children with a neck mass. These masses often cause significant alarm and anxiety to the caregiver; however, a neck mass in a child is seldom malignant.1In a review of children with neck masses that were biopsied in a tertiary referral center, 11% were cancerous.2It is likely that the malignancy rate would be much lower in a primary care physician's office. In one series, 44% of children younger than five years had palpable lymph nodes, suggesting that benign lymphadenopathy is common in this population.3Recognizing the possibilities within a broad differential diagnosis will allow the experienced physician to effectively evaluate and identify these lesions. Understanding the appropriate workup and indications for intervention will prevent use of unnecessary diagnostic tests and therapies."
+        },
+        {
+            "parent": 0,
+            "text": "Neck masses in children typically fall into one of three categories: developmental, inflammatory/reactive, or neoplastic(Table 1). Important aspects of the history and physical examination can help narrow the differential diagnosis into one of these categories(Table 2)."
+        },
+        {
+            "parent": 1,
+            "text": "The onset and duration of symptoms should be elicited during the initial history. A mass present since birth or discovered during the neonatal period is usually benign and developmental. Vascular malformations present at birth and grow with the child, whereas hemangiomas develop a few weeks after birth and have a rapid growth phase. Developmental masses may present later in life, either with superimposed infection or with growth over time. A new, rapidly growing mass is usually inflammatory. If the mass persists for six weeks, or enlarges after initial antibiotic therapy, a neoplastic lesion must be considered. Concern for airway involvement or malignancy should prompt immediate referral or imaging. A slowly enlarging mass over months to years suggests benign lesions such as lipomas, fibromas, or neurofibromas."
+        },
+        {
+            "parent": 2,
+            "text": "Fevers, rapid enlargement or tenderness of the mass, or overlying erythema indicates a likely inflammatory etiology(Figure 1). Most malignant neck masses in children are asymptomatic and are not painful.4However, acute infection in a necrotic, malignant lymph node can also occur. An upper respiratory tract infection preceding the onset of the mass suggests possible reactive lymphadenopathy or a secondary infection of a congenital cyst. Constitutional type B symptoms such as fever, malaise, weight loss, and night sweats suggest a possible malignancy. Lymphadenopathy with high fever, bilateral conjunctivitis, and oral mucosal changes with a strawberry tongue likely represents Kawasaki disease."
+        },
+        {
+            "parent": 3,
+            "text": "Recent upper respiratory tract infections; animal exposures (cat scratch, cat feces, or wild animals); tick bites; contact with sick children; contact with persons who have tuberculosis; foreign travel; and exposure to ionizing radiation should be reviewed.5Medications should also be reviewed because drugs such as phenytoin (Dilantin) can cause pseudolymphoma or can cause lymphadenopathy associated with anticonvulsant hypersensitivity syndrome."
+        },
+        {
+            "parent": 4,
+            "text": "The location of the neck mass provides many clues to the diagnosis. The most common midline cystic neck masses are thyroglossal duct cysts and dermoid cysts(Figure 2). Thyroglossal duct cysts are often located over the hyoid bone and elevate with tongue protrusion or swallowing, whereas dermoid cysts typically move with the overlying skin.6Malignant anterior neck masses are usually caused by thyroid cancer. Congenital masses in the lateral neck include branchial cleft anomalies, vascular or lymphatic malformations, and fibromatosis colli. Lymphadenopathy in the lateral neck can be inflammatory or neoplastic. Supraclavicular lymph nodes or those in the posterior triangle (behind or lateral to the sternocleidomastoid muscle) have a higher incidence of malignancy than lymph nodes in the anterior triangle (anterior or medial to the sternocleidomastoid muscle).2Generalized or multiple anatomic sites of lymphadenopathy increase the chance of malignancy.7,8"
+        },
+        {
+            "parent": 5,
+            "text": "The consistency of the mass provides useful information. Shotty lymphadenopathy refers to the presence of multiple small lymph nodes that feel like buckshot under the skin.9In the neck, this usually implies a reactive lymphadenopathy from an upper respiratory tract infection. A hard, irregular mass, or a firm or rubbery mass that is immobile or fixed to the deep tissues of the neck may indicate malignancy."
+        },
+        {
+            "parent": 6,
+            "text": "Size alone cannot confirm or exclude a diagnosis. However, cervical lymph nodes up to 1 cm in size are normal in children younger than 12 years,10with the exception of the jugulodigastric lymph node, which can be as large as 1.5 cm. Persistent enlarged lymph nodes greater than 2 cm that do not respond to empiric antibiotic therapy should be evaluated for possible biopsy."
+        },
+        {
+            "parent": 7,
+            "text": "The primary care physician ultimately must determine whether further invasive workup or treatment is necessary, or if watchful waiting is appropriate. Laboratory studies may be indicated if there is concern about a systemic disease or to confirm a diagnosis suspected from the history and physical examination. Ordering routine studies in a shotgun style approach is rarely indicated and seldom can reliably rule in or out a specific disease(Table 3). Results of a complete blood count with differential may be abnormal with infectious lymphadenitis. A complete blood count with differential is recommended in patients with a history and physical examination suggestive of infection or malignancy; however, good evidence to support the value of routine complete blood count is lacking. Atypical lymphocytosis can occur in mononucleosis, and pancytopenia with blast cells suggests leukemia.11If there was recent exposure to cats, measurement ofBartonella henselaetiters to evaluate for cat-scratch disease should be considered. Measurement of titers for Epstein-Barr virus, cytomegalovirus, human immunodeficiency virus, and toxoplasmosis also should be considered if the history suggests possible exposure or if a presumed inflammatory mass is not responding to antibiotics."
+        },
+        {
+            "parent": 7,
+            "text": "Imaging may help with diagnosis and with planning for invasive intervention. The American College of Radiology considers ultrasonography, computed tomography with intravenous contrast media, and magnetic resonance imaging with or without intravenous contrast media appropriate imaging studies for a child up to 14 years of age presenting with a neck mass.12Ultrasonography is the preferred initial imaging study in an afebrile child with a neck mass or a febrile child with a palpable neck mass.12Ultrasonography is a relatively quick, inexpensive imaging modality that avoids radiation and helps define the size, consistency (solid vs. cystic), shape, vascularity, and location of the mass. Malignancy is more likely with an abnormally shaped lymph node compared with a lymph node that retains its normal architecture. If fine-needle aspiration is warranted for deep neck masses, ultrasonographic guidance can help. Ultrasonography should be performed when a thyroglossal duct cyst is suspected to determine the presence of a normal thyroid gland. Ultrasonography also should be the initial imaging study for the evaluation of a thyroid mass."
+        },
+        {
+            "parent": 7,
+            "text": "Computed tomography with intravenous contrast media is the preferred study for evaluating a malignancy or a suspected retropharyngeal or deep neck abscess that may require surgical drainage.12Computed tomography with contrast media should not be ordered for a thyroid mass; uptake of contrast media by thyroid tissue could delay subsequent radioactive iodine treatment if needed. Magnetic resonance imaging better defines soft tissue anatomy13and avoids the radiation exposure from computed tomography. However, the expense and frequent need for sedation often limit magnetic resonance imaging as the initial imaging study of choice. Magnetic resonance imaging is the imaging study of choice when a vascular malformation is suspected."
+        },
+        {
+            "parent": 7,
+            "text": "Fine-needle aspiration may provide critical diagnostic information and avoid the need for open biopsy. Sensitivity of fine-needle aspiration in children is usually greater than 90%14–16and specificity is approximately 85%.16However, in one series, 76% of the children required general anesthesia; a cytopathologist who has experience with neck lesions in children is essential.16Occasionally, fine-needle aspiration does not provide sufficient tissue or adequate evaluation of lymph node architecture, and an open biopsy is needed to determine the diagnosis."
+        },
+        {
+            "parent": 8,
+            "text": "Little evidence exists to definitively determine the best approach for the child with a neck mass. Current suggested algorithms are based on expert opinion.17Observation is recommended initially in children with cervical lymphadenitis that is bilateral, whose lymph nodes are smaller than 3 cm and are not erythematous or exquisitely tender.18An empiric course of antibiotics should be considered for patients with cervical lymphadenitis if they have systemic symptoms (e.g., fever, chills), unilateral lymphadenopathy, or erythema and tenderness, or if their lymph nodes are larger than 2 to 3 cm.18If an antibiotic is prescribed, a 10-day course of oral cephalexin (Keflex), amoxicillin/clavulanate (Augmentin), or clindamycin is recommended based on expert opinion, because the most common organisms areStaphylococcus aureusand group A streptococcus.11Empiric antibiotic therapy with observation for four weeks is acceptable for presumed reactive lymphadenopathy.11Figure 3is an algorithm for the treatment of a child presenting with a neck mass."
+        },
+        {
+            "parent": 8,
+            "text": "Children with congenital neck masses should be referred to a specialist to consider definitive excision(Table 4). Excision is recommended to confirm the diagnosis and to prevent future problems (e.g., potential growth, secondary infection).1Patients with suppurative lymphadenitis or a neck abscess that does not respond to oral antibiotic therapy should be referred for intravenous antibiotics, possible incision and drainage, or further workup. If malignancy is suspected (accompanying type B symptoms; hard, firm, or rubbery consistency; fixed mass; supraclavicular mass; lymph node larger than 2 cm in diameter; persistent enlargement for more than two weeks; no decrease in size after four to six weeks; absence of inflammation; ulceration; failure to respond to antibiotic therapy; or a thyroid mass), the patient should be referred to a head and neck surgeon for urgent evaluation and possible biopsy. Although rare, malignant lesions such as lymphoma, rhabdomyosarcoma, thyroid carcinoma, and metastatic nasopharyngeal carcinoma can occur in children."
+        },
+        {
+            "parent": 8,
+            "text": "An asymptomatic lesion that appears to be an enlarged lymph node creates a difficult dilemma for the primary care physician. Usually, the patient or caregiver is anxious for a diagnosis and an intervention. Most cases of lymphadenopathy are self-limited and require only observation and patience.11Enlarged lymph nodes that are rubbery, firm, immobile, or that persist for longer than six weeks or enlarge during a course of antibiotics should be evaluated by a head and neck surgeon, and a biopsy is recommended.19–21"
+        },
+        {
+            "parent": 8,
+            "text": "Data Sources: A PubMed search was completed in Clinical Queries using the key term pediatric neck mass. The search included systematic reviews, meta-analyses, consensus development conferences, and guidelines. Also searched was the Cochrane database. Search dates: August 25, 2011, and December 2, 2013."
+        }
+    ],
+    "locked": false
+}

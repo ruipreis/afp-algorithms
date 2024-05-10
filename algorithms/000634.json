@@ -1,0 +1,192 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2006/1215/p2046.html#afp20061215p2046-f1",
+    "title": "Parkinson’s Disease: Diagnosis and Treatment | AAFP",
+    "author": "SHOBHA S. RAO, M.D., LAURA A. HOFMANN, M.D., AND AMER SHAKIL, M.D.",
+    "doi": "Am Fam Physician.2006;74(12):2046-2054",
+    "abstract": "Parkinson’s disease is a common neurodegenerative disorder that can cause significant disability and decreased quality of life. The cardinal physical signs of the disease are distal resting tremor, rigidity, bradykinesia, and asymmetric onset. Levodopa is the primary treatment for Parkinson’s disease; however, its long-term use is limited by motor complications and drug-induced dyskinesia. Dopamine agonists are options for initial treatment and have been shown to delay the onset of motor complications. However, dopamine agonists are inferior to levodopa in controlling motor symptoms. After levodopa-related motor complications develop in advanced Parkinson’s disease, it is beneficial to initiate adjuvant therapy with dopamine agonists, catecholO-methyltransferase inhibitors, or monoamine oxidase-B inhibitors. Deep brain stimulation of the subthalamic nucleus has been shown to ameliorate symptoms in patients with advanced disease. Depression, dementia, and psychosis are common psychiatric problems associated with Parkinson’s disease. Psychosis is usually drug induced and can be managed initially by reducing antiparkinsonian medications. The judicious use of psychoactive agents may be necessary. Consultation with a subspecialist is often required.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Neuroprotection",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Symptom Management",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Early-Stage Treatment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "LEVODOPA",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DOPAMINE AGONISTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "MAO-B INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "OTHER AGENTS",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Late-Stage Treatment",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "DOPAMINE AGONISTS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "COMT INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MAO-B INHIBITORS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "AMANTADINE",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "SURGERY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Treatment of Nonmotor Symptoms",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Nonpharmacologic Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Parkinson’s disease is a progressive neurodegenerative disorder with an estimated prevalence of 0.3 percent in the U.S. population.1The prevalence increases to 4 to 5 percent in those older than 85 years.1Characteristic neuropathologic features of the disease are dopaminergic neuron degeneration in the substantia nigra and the presence of eosinophilic intracytoplasmic inclusions (Lewy bodies) in the residual dopaminergic neurons.2Family physicians should have a good understanding of Parkinson’s disease because of its increasing prevalence as the population ages. Treatment should be individualized to decrease symptoms while minimizing motor and nonmotor complications(Figure 1).3,4As the disease progresses, treatment can be increasingly complicated, and comanagement with a subspecialist may be required. The most important goal is to help patients maintain maximal autonomy and quality of life."
+        },
+        {
+            "parent": 0,
+            "text": "Despite advances in radiologic testing, the diagnosis of idiopathic Parkinson’s disease remains a clinical one. A diagnosis requires the presence of the following cardinal signs: distal resting tremor of 3 to 6 Hz, rigidity, bradykinesia, and asymmetrical onset.5Other well-known signs of Parkinson’s disease include late-onset postural instability, decreased olfaction, and micrographia. Patients must also respond to an adequate therapeutic challenge of levodopa or a dopamine agonist.5Symptoms and signs associated with Parkinson’s disease are summarized inTable 1.6"
+        },
+        {
+            "parent": 0,
+            "text": "The clinical presentation of Parkinson’s disease is similar to that of diverse neurologic disorders called parkinsonisms(Table 2).5–8Symptoms that suggest a diagnosis other than Parkinson’s disease include lack of response to levodopa, hallucinations, prominent and early dementia, early postural instability, severe and early autonomic dysfunction, upward gaze paralysis, and involuntary movements other than tremor.5"
+        },
+        {
+            "parent": 0,
+            "text": "Advances in radiologic technologies have aided in distinguishing the etiologies of parkinsonism and in more accurately diagnosing idiopathic Parkinson’s disease. Although head computed tomography (CT) and magnetic resonance imaging (MRI) show no specific Parkinson’s disease patterns, they can help rule out or confirm other diseases. Rapidly emerging technologies (e.g., positron emission tomography, single-photon emission CT) likely will impact Parkinson’s disease diagnoses; however, the evidence currently does not show that specific tests improve diagnostic accuracy.7New data suggest that pronounced loss of olfaction can distinguish Parkinson’s disease from other parkinsonisms.9"
+        },
+        {
+            "parent": 1,
+            "text": "Neuroprotection includes secondary prevention strategies aimed at slowing, blocking, or reversing disease progression. Preliminary studies suggest that coenzyme Q1010and some dopamine agonists11,12may slow disease progression. Despite these studies, no neuroprotective agents have been proven effective."
+        },
+        {
+            "parent": 2,
+            "text": "Symptomatic therapy for Parkinson’s disease should be initiated at the onset of functional impairment. Several factors determine whether a patient has functional impairment. For instance, involvement of the dominant hand and bradykinesia tend to most greatly affect a patient’s ability to work and perform activities of daily living.3The Unified Parkinson’s Disease Rating Scale (UPDRS) is a standardized assessment tool that facilitates accurate documentation of disease progression and treatment response.13The four-part scale measures mental effects, limitations in activities of daily living, motor impairment, and treatment or disease complications. The UPDRS is available athttp://www.mdvu.org/pdf/updrs.pdf."
+        },
+        {
+            "parent": 3,
+            "text": "Early-stage Parkinson’s disease includes patients who have had the disease for less than five years or those who have not developed motor complications from levodopa use.4Treatment with monoamine oxidase-B (MAO-B) inhibitors, amantadine (Symmetrel), or anticholinergics may modestly improve mild symptoms; however, most patients need levodopa or a dopamine agonist. The American Academy of Neurology (AAN) recommends levodopa or a dopamine agonist, when dopaminergic treatment is required, depending on the need to improve motor disability (levodopa is better) or decrease motor complications (dopamine agonists cause fewer motor complications).14Table 315,16summarizes medications approved for Parkinson’s disease. In general, a dopamine agonist is initiated in patients with mild disease with onset at a younger age, whereas levodopa is initiated for older patients with severe motor symptoms."
+        },
+        {
+            "parent": 4,
+            "text": "Levodopa is the most effective pharmacologic agent for Parkinson’s disease and remains the primary treatment for symptomatic patients.14,15Because of its consistent and dramatic beneficial effects, levodopa has not been tested against placebo in therapeutic randomized controlled trials. Levodopa is particularly effective at controlling bradykinesia and rigidity14; however, speech, postural reflex, and gait disturbance are less likely to respond."
+        },
+        {
+            "parent": 4,
+            "text": "Levodopa is always combined with carbidopa, because carbidopa prevents peripheral conversion of levodopa to dopamine by blocking dopa decarboxylase. When combined with levodopa, carbidopa increases cerebral levodopa bioavailability and reduces the peripheral adverse effects of dopamine (e.g., nausea, hypotension). Because dopa decarboxylase is saturated by carbidopa at approximately 70 to 100 mg a day, patients receiving less than this amount of carbidopa are more likely to experience nausea and vomiting. Dosing should start with one 25/100-mg carbidopa/levodopa (Sinemet) tablet three times a day. Sustained-release preparations add no benefit for motor complications compared with immediate-release preparations.14"
+        },
+        {
+            "parent": 5,
+            "text": "Dopamine agonists directly stimulate dopamine receptors and include bromocriptine (Parlodel), pergolide (Permax), pramipexole (Mirapex), and ropinirole (Requip). Studies have demonstrated that dopamine agonists, alone15,17–19or combined with levodopa,7are effective against early Parkinson’s disease. Double-blind controlled trials comparing ropinirole20or pramipexole21with levodopa showed that levodopa was more effective at reducing UPDRS scores than dopamine agonists; however, these studies also noted a lower incidence of motor complications with dopamine agonists."
+        },
+        {
+            "parent": 6,
+            "text": "An evidence-based review showed that the MAO-B inhibitor selegiline (Eldepryl) had a mild symptomatic benefit in patients with early Parkinson’s disease.14A meta-analysis of 17 trials comparing MAO-B inhibitors with placebo or levodopa in patients with early Parkinson’s disease showed that MAO-B inhibitors reduced disability, the incidence of motor fluctuations, and the need for levodopa without substantial adverse effects or increased mortality.22"
+        },
+        {
+            "parent": 7,
+            "text": "Anticholinergic agents are commonly used to treat Parkinson’s disease. However, low effectiveness and a high incidence of gastrointestinal and neuropsychiatric adverse effects limit their use in older patients. Anticholinergics typically are used in patients younger than 70 years with disabling resting tremors and preserved cognitive function."
+        },
+        {
+            "parent": 7,
+            "text": "TheN-methyl-d-aspartate receptor inhibitor amantadine was originally used as an antiviral agent and has been shown to improve akinesia, rigidity, and tremor in patients with Parkinson’s disease. The drug may be clinically useful, although rigorous studies are lacking.15"
+        },
+        {
+            "parent": 8,
+            "text": "Late-stage Parkinson’s disease includes patients already receiving carbidopa/levodopa treatment who have developed motor complications. After five years of treatment with levodopa, about 40 percent of patients develop motor fluctuations and dyskinesia (i.e., involuntary choreiform or stereotypic movements involving the head, trunk, limbs, and, occasionally, the respiratory muscles).23Patients may experience a “wearing-off” effect characterized by a shorter duration of benefit from each levodopa dose, causing parkinsonian symptoms to reemerge. Patients can also experience an “on-off” effect characterized by unpredictable, abrupt fluctuations in motor state from when the medication is effective and symptoms are controlled (“on”) to when parkinsonian symptoms worsen (“off”). These motor complications can be treated by adding a dopamine agonist, MAO-B inhibitor, or catecholO-methyltransferase (COMT) inhibitor.15,24–27"
+        },
+        {
+            "parent": 9,
+            "text": "Systematic reviews have demonstrated that dopamine agonists may significantly reduce “off” time, improving motor impairment and disability and reducing the need for levodopa.15,24,25However, the reviews have also shown a trend toward increased adverse events (e.g., dizziness, hallucinations, dyskinesia) with dopamine agonists."
+        },
+        {
+            "parent": 9,
+            "text": "Parenteral apomorphine (Apokyn), a powerful dopamine agonist, is useful for patients experiencing a sudden, unexpected, and resistant “off ” period.15This drug can cause severe adverse effects and should only be prescribed by those experienced in its complex administration."
+        },
+        {
+            "parent": 10,
+            "text": "COMT inhibitors (e.g., entacapone [Comtan], tolcapone [Tasmar]) decrease the degradation of levodopa and extend its half-life, thus relieving the end-of-dose wearing-off effect and reducing “off” time. A Cochrane review showed that, compared with placebo, adjuvant COMT inhibitors reduced “off” time and levodopa dose and modestly improved motor symptoms and disability in patients with advanced Parkinson’s disease and motor complications.26The use of tolcapone requires close monitoring with liver function tests because the drug is rarely associated with potentially fatal hepatotoxicity. Family physicians should consider consultation if a patient is a candidate for tolcapone therapy.26Carbidopa/levodopa/entacapone (Stalevo) tablets are available for patients currently receiving levodopa who are experiencing the wearing-off effect."
+        },
+        {
+            "parent": 11,
+            "text": "An 18-week, randomized double-blind trial evaluated the MAO-B inhibitor rasagiline (Azilect), entacapone, and placebo as adjuncts to levodopa in 687 patients with Parkinson’s disease and motor fluctuations. Rasagiline and entacapone reduced “off” time by about 1.2 hours a day compared with 0.4 hours with placebo.27Both drugs significantly improved Clinical Global Impression scores and reduced the mean daily dose of levodopa. The frequency of adverse effects was similar among all groups, and neither active treatment increased dyskinesia.27"
+        },
+        {
+            "parent": 12,
+            "text": "A randomized, double-blind trial of amantadine in patients with Parkinson’s disease and dyskinesia showed a 45 percent reduction in dyskinesia with amantadine compared with placebo. However, the benefit lasted for less than eight months, and withdrawal of amantadine caused a 10 to 20 percent rebound increase in dyskinesia.28"
+        },
+        {
+            "parent": 13,
+            "text": "Surgical treatment is becoming more common for Parkinson’s disease because of advances in brain imaging and neurosurgical techniques. An evidence-based review concluded that deep brain stimulation of the subthalamic nucleus effectively improves motor function and reduces motor fluctuations, dyskinesia, and antiparkinsonian medication use.15,29Unilateral pallidotomy is an effective symptomatic adjunct to levodopa and can treat motor complications; however, it is used less often because it causes destructive lesions.15Referral to specialized centers with surgeons who are experienced in performing this procedure may be considered for patients with advanced Parkinson’s disease and motor complications."
+        },
+        {
+            "parent": 14,
+            "text": "Depression, dementia, and psychosis are common psychiatric problems associated with Parkinson’s disease. Treatment of these symptoms is described inTable 4.3Depression patients currently receiving levodopa who are experiencing the wearing-off effect is usually treated with a selective serotonin reuptake inhibitor. Tricyclic antidepressants should be used with caution in patients with Parkinson’s disease because the drugs can exacerbate orthostatic hypotension and anticholinergic adverse effects."
+        },
+        {
+            "parent": 14,
+            "text": "Psychosis in patients with Parkinson’s disease is usually drug induced. It can be managed by decreasing doses of anticholinergics or dopamine agonists and by using the lowest possible dose of levodopa. Antipsychotics are indicated for more severe hallucinations. Clozapine (Clozaril) has been shown to effectively manage drug-induced psychosis without worsening parkinsonian symptoms.30However, clozapine can cause potentially fatal agranulocytosis and requires frequent blood-count monitoring.30Quetiapine (Seroquel) has not been evaluated in controlled trials. However, it is commonly prescribed because it does not cause hematologic adverse effects and has fewer extrapyramidal adverse effects than other atypical antipsychotics."
+        },
+        {
+            "parent": 14,
+            "text": "About 20 to 40 percent of patients with Parkinson’s disease develop dementia.31Cholinesterase inhibitors are effective treatments for these patients.30"
+        },
+        {
+            "parent": 15,
+            "text": "Cochrane reviews on occupational, physical, and speech therapy for patients with Parkinson’s disease have concluded that there is insufficient evidence to support or refute their effectiveness in clinical practice.32–34Although nonpharmacologic interventions do not improve the cardinal symptoms of Parkinson’s disease, they are helpful in maintaining the overall well-being of patients."
+        },
+        {
+            "parent": 15,
+            "text": "Stretching, strengthening, and balance training may improve gait speed, balance, and participation in activities of daily living.35,36Specific voice training can effectively treat voice and speech disorders.37Nutritional interventions (e.g., a high-fiber diet) can help reduce constipation. Dietary amino acids may interfere with levodopa absorption; therefore, protein restriction may be necessary for patients with decreased levodopa response. There is no evidence supporting the use of vitamin E or other antioxidants. Support and counseling are essential for patients with Parkinson’s disease. In one study, patient education was associated with better health-related quality of life.38"
+        }
+    ],
+    "locked": false
+}

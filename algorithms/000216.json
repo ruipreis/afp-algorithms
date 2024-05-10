@@ -1,0 +1,226 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2017/1001/p441.html#afp20171001p441-f1",
+    "title": "Testosterone Therapy: Review of Clinical Applications | AAFP",
+    "author": "RYAN C. PETERING, MD, AND NATHAN A. BROOKS, MD, MPH",
+    "doi": "Am Fam Physician.2017;96(7):441-449",
+    "abstract": "Testosterone therapy is increasingly common in the United States, and many of these prescriptions are written by primary care physicians. There is conflicting evidence on the benefit of male testosterone therapy for age-related declines in testosterone. Physicians should not measure testosterone levels unless a patient has signs and symptoms of hypogonadism, such as loss of body hair, sexual dysfunction, hot flashes, or gynecomastia. Depressed mood, fatigue, decreased strength, and a decreased sense of vitality are less specific to male hypogonadism. Testosterone therapy should be initiated only after two morning total serum testosterone measurements show decreased levels, and all patients should be counseled on the potential risks and benefits before starting therapy. Potential benefits of therapy include increased libido, improved sexual function, improved mood and well-being, and increased muscle mass and bone density; however, there is little or mixed evidence confirming clinically significant benefits. The U.S. Food and Drug Administration warns that testosterone therapy may increase the risk of cardiovascular complications. Other possible risks include rising prostate-specific antigen levels, worsening lower urinary tract symptoms, polycythemia, and increased risk of venous thromboembolism. Patients receiving testosterone therapy should be monitored to ensure testosterone levels rise appropriately, clinical improvement occurs, and no complications develop. Testosterone therapy may also be used to treat hypoactive sexual desire disorder in postmenopausal women and to produce physical male sex characteristics in female-to-male transgender patients.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Physiology of Testosterone and Causes of Hypogonadism in Males",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Diagnosis of Male Hypogonadism",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "Benefits of Testosterone Replacement Therapy",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "LIBIDO AND ERECTILE FUNCTION",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "BONE DENSITY, BODY COMPOSITION, AND MUSCLE STRENGTH",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DEPRESSION, MOOD, COGNITION, WELL-BEING, VITALITY",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Testosterone and Cardiovascular Health",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "Risks of Testosterone Therapy and Contraindications",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "PROSTATE CANCER AND LOWER URINARY TRACT SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "HEMATOLOGIC CONDITIONS",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "VENOUS THROMBOEMBOLISM",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Testosterone Replacement for Male Hypogonadism",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "FDA-INDICATED USES",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "FORMULATIONS AND PRECAUTIONS",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Monitoring of Men on Testosterone Therapy",
+            "level": 2
+        },
+        {
+            "id": 15,
+            "name": "Future and Ongoing Research",
+            "level": 2
+        },
+        {
+            "id": 16,
+            "name": "Testosterone Therapy in Women",
+            "level": 2
+        },
+        {
+            "id": 17,
+            "name": "Testosterone Therapy in Transgender and Gender Diverse Patients",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "The use of testosterone therapy is increasingly common in the United States, with an estimated 2.3 million American men receiving the therapy in 2013.1More than one-half of testosterone prescriptions are written by primary care physicians.2Most of these prescriptions are for middle-aged and older men with age-related declines in testosterone,1despite inconclusive data on testosterone therapy's safety and effectiveness for this indication."
+        },
+        {
+            "parent": -1,
+            "text": "Male hypogonadism should be diagnosed only if there are signs or symptoms of hypogonadism and total serum testosterone levels are low on at least two occasions."
+        },
+        {
+            "parent": -1,
+            "text": "The U.S. Food and Drug Administration clarified in 2015 that prescribing testosterone for low testosterone levels due to aging constitutes off-label use."
+        },
+        {
+            "parent": 0,
+            "text": "Testosterone is produced by Leydig cells in the testes, in response to luteinizing hormone produced by the pituitary gland. Decreased production of testosterone by testes in men is categorized as hypogonadism, which is classified as primary, secondary, or mixed. Primary hypogonadism is the failure of the testes to produce sufficient testosterone, whereas secondary hypogonadism is caused by decreased production of luteinizing hormone.3Hypogonadism may also be classified by timing of onset (i.e., pre- or postpubertal).Table 1lists the most common causes of hypogonadism.4,5"
+        },
+        {
+            "parent": 0,
+            "text": "Testosterone levels begin to decline around 40 years of age. By 80 years of age, more than 50% of men will have testosterone levels in the low range (using a reference range defined by nonobese, healthy men younger than 40 years).3Several common medical conditions (e.g., obesity, type 2 diabetes mellitus, chronic obstructive pulmonary disease, chronic kidney disease, human immunodeficiency virus infection) and opioid dependence have been associated with low testosterone levels.6,7"
+        },
+        {
+            "parent": 1,
+            "text": "According to guidelines from the Endocrine Society, male hypogonadism should be diagnosed only if there are signs or symptoms of hypogonadism(Table 23,8,9)and total serum testosterone levels are low on at least two occasions.9When diagnosing hypogonadism, physicians should not rely solely on questionnaires such as Androgen Deficiency in Aging Males or Aging Males' Symptoms because of their low sensitivity and specific-ity.9,10Two editorials published previously inAmerican Family Physiciandiscuss the pros and cons of screening for testosterone deficiency (https://www.aafp.org/afp/2015/0215/p220.htmlandhttps://www.aafp.org/afp/2015/0215/p226.html)."
+        },
+        {
+            "parent": 1,
+            "text": "Because of circadian variations in testosterone levels, serum testosterone measurement should occur in the morning, or within two hours of awakening in shift workers(Figure 19). Although there is no universal laboratory definition of hypogonadism, in most laboratory reference ranges, the lower limit of normal is between 250 and 350 ng per dL (8.7 to 12.2 nmol per L). In men with borderline total testosterone levels, measurement of free testosterone and sex hormone–binding globulin levels should be considered, especially in the presence of conditions that affect sex hormone–binding globulin levels (most commonly, aging, obesity, and diabetes). If low testosterone is confirmed, luteinizing hormone and follicle-stimulating hormone levels should be measured to categorize the deficiency as primary or secondary.9,11A prolactin measurement should be considered to rule out pituitary adenoma, especially if luteinizing hormone and follicle-stimulating hormone levels are low."
+        },
+        {
+            "parent": 3,
+            "text": "A common indication for testosterone therapy is treatment of decreased sexual desire or erectile dysfunction. A systematic review found 23 randomized trials of testosterone therapy's effects on libido; 13 trials showed some benefit, eight showed no benefit, and two had mixed results.12"
+        },
+        {
+            "parent": 3,
+            "text": "Although evidence regarding erectile dysfunction is mixed, young men with hypogonadism and erectile dysfunction appear to benefit from testosterone therapy.13Some studies have shown improvement in erectile dysfunction in older men and men with comorbid conditions,14,15whereas others have not.12,16,17Moreover, even in positive studies, the effect of testosterone has been smaller than the effect traditionally reported with phosphodiesterase-5 inhibitors,14suggesting that testosterone should not be first-line treatment for erectile dysfunction. There is some evidence supporting the use of testosterone therapy as second-line therapy in men with low testosterone when phosphodiesterase-5 inhibitors are ineffective.18,19There is no evidence that testosterone improves erectile function in men with normal testosterone levels. As part of the Choosing Wisely campaign, the American Urological Association says physicians should not prescribe testosterone therapy for men with erectile dysfunction and normal testosterone levels.20"
+        },
+        {
+            "parent": 4,
+            "text": "Low testosterone levels (less than 200 ng per dL [7.0 nmol per L]) are associated with decreased bone density and unfavorable body composition changes.21Testosterone therapy increases bone density at the lumbar spine but not at the hip in middle-aged men with testosterone deficiency.22In older men, testosterone therapy increases bone density in the spine and hip.23,24There is no evidence that testosterone therapy leads to decreased fractures or falls. Testosterone therapy consistently increases lean mass and decreases fat mass,25–27but the effect sizes are small and studies have generally failed to demonstrate improvement in strength or physical function.22,23,25,26"
+        },
+        {
+            "parent": 5,
+            "text": "The few studies of testosterone therapy for depressed mood had mixed results.28–31Testosterone therapy does not improve cognitive function in men with or without preexisting cognitive impairment.32–34There is also mixed evidence for prescribing testosterone to improve vitality, general quality of life, and male “symptoms of aging,” with some studies demonstrating improvement with therapy,35,36and other studies finding no change.10,37"
+        },
+        {
+            "parent": 6,
+            "text": "In a 2015 advisory, the U.S. Food and Drug Administration (FDA) warned that testosterone use is possibly associated with increased cardiovascular risk and advised physicians to discuss this risk with patients before initiating testosterone therapy.38This warning came after two observational studies39,40and a meta-analysis of randomized controlled trials41showed an increased cardiovascular risk, and the Testosterone in Older Men with Mobility Limitation (TOM) randomized controlled trial was stopped early because of concerns about a higher incidence of cardiovascular adverse events in the testosterone treatment group.42However, other meta-analyses did not find an increased cardiovascular risk,43,44and several other observational studies have appeared to demonstrate decreased cardiovascular risk with testosterone therapy.45–48Additionally, one of the observational studies that showed increased risk was criticized for its statistical analyses,40and many of the adverse events leading to the early stoppage of the TOM trial were of questionable clinical significance. Although the findings of the TOM trial are concerning, this study enrolled a high-risk population, and its findings may not be generalizable to most men being considered for testosterone therapy."
+        },
+        {
+            "parent": 6,
+            "text": "Proponents of testosterone therapy point to a large number of observational studies consistently finding higher cardiovascular morbidity and mortality in men with low baseline testosterone levels and suggest that treating low testosterone should lead to decreased risk,49although it is unclear whether low testosterone was a cause of the increased cardiovascular risk or merely a marker of poor overall health. No randomized controlled trial has demonstrated decreased cardiovascular events or mortality with testosterone therapy."
+        },
+        {
+            "parent": 6,
+            "text": "A recent systematic review found some evidence of benefit in congestive heart failure and increased time to ST segment depression in exercise testing. The review found inconsistent effects of testosterone therapy on lipids and no beneficial effect on reported angina.12"
+        },
+        {
+            "parent": 6,
+            "text": "The effects of testosterone therapy on cardiovascular health remain unclear. The FDA has mandated that testosterone product manufacturers conduct a large-scale randomized controlled trial specifically to determine cardiovascular risk,38but results of any such trial would not be available for years. In the meantime, physicians must counsel patients that the cardiovascular risks and benefits of testosterone therapy are uncertain and should engage in shared decision making.9,11,38"
+        },
+        {
+            "parent": 7,
+            "text": "Contraindications to testosterone therapy are listed in(Table 3).9,11"
+        },
+        {
+            "parent": 8,
+            "text": "Because prostate cancer can be stimulated by testosterone, testosterone therapy is contraindicated in patients with known or suspected prostate cancer. There has long been concern that testosterone therapy may increase the risk of developing prostate cancer and increase the symptoms of benign prostatic hyperplasia. However, several meta-analyses of randomized controlled trials have not shown an increased incidence of prostate cancer.50–52Use of testosterone therapy in men with hypogonadism and previously treated (and presumed cured) prostate cancer is controversial, with little data to guide treatment decisions in this group.53"
+        },
+        {
+            "parent": 8,
+            "text": "Use of supplemental testosterone has been shown to cause a small increase in prostate-specific antigen (PSA) levels,52but the significance of this increase is questionable. There also does not appear to be a significant increase in lower urinary tract symptoms with testosterone therapy, although most studies have excluded men with severe lower urinary tract symptoms at baseline.54"
+        },
+        {
+            "parent": 9,
+            "text": "Testosterone stimulates erythropoiesis, and testosterone therapy (in particular the intramuscular esters) is associated with an increased risk of polycythemia.50Preexisting polycythemia (hematocrit of more than 54%) is an absolute contraindication to starting testosterone therapy. Development of polycythemia during treatment should lead to cessation of therapy, lowering of the dose, or switching to a lower-risk formulation to avoid increased risk of myocardial infarction, stroke, and venous thromboembolism. Testosterone therapy has been shown to increase hemoglobin levels and correct anemia in a significant portion of older men with anemia of otherwise unknown etiology. Testosterone measurement should be considered in older men with unexplained anemia.55"
+        },
+        {
+            "parent": 10,
+            "text": "Based on postmarket reports, in 2014 the FDA required manufacturers of testosterone products to add a warning to the drug label about the risk of venous thromboem-bolism.56Subsequently, a large case-control study and another large retrospective cohort study found no evidence of increased venous thromboembolism risk.57,58"
+        },
+        {
+            "parent": 12,
+            "text": "As part of its 2015 advisory on cardiovascular risk, the FDA also issued a statement clarifying that testosterone therapy is approved specifically for men with low testosterone levels caused by disorders of the testicles, pituitary gland, or brain that cause hypogonadism (i.e., genetic disorders, damage from chemotherapy or infection, or pituitary tumors) and not for men with age-related low testosterone.38Physicians should be aware that prescribing testosterone for low testosterone levels due to aging constitutes off-label use."
+        },
+        {
+            "parent": 13,
+            "text": "Many testosterone formulations are available(Table 459,60), and no formulation has superior clinical effects. The selection of formulation requires discussion about administration route, adverse effects, and cost. Testosterone preparations are FDA Schedule III controlled substances that are subject to diversion and misuse. Completion of a controlled substance contract should be considered before prescribing."
+        },
+        {
+            "parent": 14,
+            "text": "Men receiving testosterone therapy should be monitored regularly for adverse effects and to ensure normalization of serum testosterone levels(Table 59). Before initiation of testosterone therapy, testing should include a complete blood count to measure hematocrit, and a PSA test and digital rectal examination to detect preexisting prostate cancer.9Patients should be reevaluated for therapeutic response and adverse effects three to six months after initiation of treatment, including a repeat testosterone measurement, complete blood count, digital rectal examination, and PSA test.9,11If laboratory results are stable, reevaluation may be performed annually.9An increase in hematocrit to greater than 54% should lead to cessation of treatment, lowering of the dose, or change to a lower-risk formulation. An increase in PSA of greater than 1.4 ng per mL (1.4 mcg per L) over 12 months or an abnormal digital rectal examination result should prompt referral to a urologist.9"
+        },
+        {
+            "parent": 14,
+            "text": "Of note, there is no consensus on the necessity and timing of repeated PSA testing and digital rectal examination for men on testosterone therapy. Although the Endocrine Society and a multidisciplinary Canadian panel recommend annual PSA and digital rectal examination screening in men 40 years and older,9,11the U.S. Preventive Services Task Force recommends against routine PSA screening and does not specify its recommendation on digital rectal examination.61Therefore, physicians and patients should engage in shared decision making, weighing the risks and benefits of ongoing prostate cancer screening in the context of testosterone therapy."
+        },
+        {
+            "parent": 14,
+            "text": "Most experts agree that the goal serum testosterone level should be in the midnormal range (i.e., 400 to 700 ng per dL [13.9 to 24.3 nmol per L]); values outside of this range require a dose adjustment.9Most importantly, ongoing evaluation of treatment effectiveness is required."
+        },
+        {
+            "parent": 15,
+            "text": "In February 2016, the first results from the Testosterone Trials sponsored by the National Institutes of Health were published.14This set of seven randomized controlled trials assessing sexual function, vitality, physical function, cognitive function, anemia, bone density, and cardiovascular health represents the largest, most rigorously conducted study of the benefits of testosterone therapy for older men. Results of the trials assessing cognitive function, anemia, bone density, and cardiovascular health are forthcoming. However, the Testosterone Trials were designed to assess only effectiveness and not the risks of testosterone therapy, including prostate cancer or cardiovascular disease."
+        },
+        {
+            "parent": 16,
+            "text": "In women, testosterone is produced by the ovaries and adrenal glands, and by conversion of proandrogens in peripheral tissues. Levels decrease gradually starting in the 20s or 30s. There is no abrupt decrease during menopause, with the exception of surgical menopause.62Testosterone is also converted to estrogen by aromatases in many tissues; therefore, testosterone is an important source of estrogen in postmenopausal women.63Testosterone deficiency in women may be associated with problems with sexual function, mood, cognition, and body composition.64"
+        },
+        {
+            "parent": 16,
+            "text": "A comprehensive meta-analysis of post-menopausal women found improvement in sexual function with testosterone therapy. There was no evidence of improvement in anxiety, mood, body weight or mass, or bone density.64Subsequently, a consensus statement released by several major organizations, including the Endocrine Society and American College of Obstetricians and Gynecologists, supported the use of testosterone therapy for hypoactive sexual desire disorder in postmenopausal women but not for any other indication.65Of note, there are no FDA-approved products for testosterone therapy in women, and no formulations are readily available in the United States that provide the recommended treatment dosage for women (300 mcg per day), necessitating the use of compounding pharmacies. The use of testosterone therapy in women is summarized inTable 6.64,65"
+        },
+        {
+            "parent": 17,
+            "text": "[corrected] Testosterone therapy may also be used to facilitate gender transition for transgender men and gender nonbinary individuals desiring masculinization. Primary care physicians are increasingly involved in the initiation and management of testosterone therapy for this population. Although a full discussion of the use of testosterone for the treatment of gender incongruence is beyond the scope of this article, physicians can find concise guidelines in the 2017 Endocrine Society publication, “Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice Guideline,” athttps://www.endocrine.org/guidelines-and-clinical-practice/clinical-practice-guidelines/gender-dysphoria-gender-incongruence.66"
+        },
+        {
+            "parent": 17,
+            "text": "This article updates a previous article on this topic byMargo and Winn.67"
+        },
+        {
+            "parent": 17,
+            "text": "Data Sources:PubMed, Essential Evidence Plus, the Cochrane database, and the National Guideline Clearinghouse were searched using the key term testosterone, alone and with cardiovascular, cognition, sexual function, bone density, strength, depression, risk, benefit, and adverse event. Reference lists from the included meta-analyses were reviewed for potential sources. Search dates: November 30, 2015; January 15, 2016; February 10, 2016; and March 17, 2017."
+        }
+    ],
+    "locked": false
+}

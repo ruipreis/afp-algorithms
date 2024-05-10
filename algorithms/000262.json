@@ -1,0 +1,191 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2016/0301/p363.html#afp20160301p363-f1",
+    "title": "Hyperthyroidism: Diagnosis and Treatment | AAFP",
+    "author": "IGOR KRAVETS, MD",
+    "doi": "Am Fam Physician.2016;93(5):363-370",
+    "abstract": "Hyperthyroidism is an excessive concentration of thyroid hormones in tissues caused by increased synthesis of thyroid hormones, excessive release of preformed thyroid hormones, or an endogenous or exogenous extrathyroidal source. The most common causes of an excessive production of thyroid hormones are Graves disease, toxic multinodular goiter, and toxic adenoma. The most common cause of an excessive passive release of thyroid hormones is painless (silent) thyroiditis, although its clinical presentation is the same as with other causes. Hyperthyroidism caused by overproduction of thyroid hormones can be treated with antithyroid medications (methimazole and propylthiouracil), radioactive iodine ablation of the thyroid gland, or surgical thyroidectomy. Radioactive iodine ablation is the most widely used treatment in the United States. The choice of treatment depends on the underlying diagnosis, the presence of contraindications to a particular treatment modality, the severity of hyperthyroidism, and the patient's preference.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology and Pathogenesis",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Clinical Manifestations",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Laboratory and Radiographic Assessment",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "THYROID FUNCTION TEST RESULTS SIMULATING HYPERTHYROIDISM",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "RADIOACTIVE IODINE UPTAKE AND THYROID SCAN",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "GRAVES DISEASE",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "TOXIC ADENOMA OR TOXIC MULTINODULAR GOITER",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "THYROIDITIS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "THYROID STORM",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "DRUG-ASSOCIATED HYPERTHYROIDISM",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Hyperthyroidism is an excessive concentration of thyroid hormones in tissues causing a characteristic clinical state. In the United States, the overall prevalence of hyperthyroidism is 1.2%, and the prevalences of overt hyperthyroidism and subclinical hyperthyroidism are 0.5% and 0.7%, respectively.1"
+        },
+        {
+            "parent": 0,
+            "text": "The common endogenous causes of hyperthyroidism are Graves disease, toxic multinodular goiter, toxic adenoma, and painless thyroiditis(Table 1).1–9Graves disease, the most common cause of hyperthyroidism in the United States,2is an autoimmune disorder in which thyroid-stimulating antibodies activate thyroid-stimulating hormone (TSH) receptors, triggering thyroid hormone synthesis. Risk factors for Graves disease include female sex and personal or family history of an autoimmune disorder.2,3"
+        },
+        {
+            "parent": 0,
+            "text": "Toxic multinodular goiter is the second most common cause of hyperthyroidism in the United States and the most common cause in older persons living in iodine-deficient areas.2Over time, nodules arise from the frequent replication of clonogenic cells that leads to a somatic activating mutation of TSH receptors.4A single nodule is called a toxic adenoma (Plummer disease)."
+        },
+        {
+            "parent": 0,
+            "text": "In contrast with these three disorders, painless or transient (silent) thyroiditis causes a destruction of thyroid follicles via an autoimmune mechanism and a release of preformed thyroid hormones into the circulation.5Its clinical presentation is the same as with other causes. In a Danish study, its prevalence among patients with thyrotoxicosis was 0.5%, as evaluated by scintigraphy.6Painless thyroiditis can be triggered by childbirth (postpartum thyroiditis) or by use of medications such as lithium, interferon alfa, interleukin-2, and amiodarone.7"
+        },
+        {
+            "parent": 0,
+            "text": "Gestational hyperthyroidism develops in the first trimester of pregnancy as a result of the stimulatory action of placental beta human chorionic gonadotropin (β-hCG), which shares structural features with TSH, on the thyroid gland.8β-hCG-mediated hyperthyroidism can occasionally be caused by hyperemesis gravidarum and, rarely, by a gestational trophoblastic tumor.8"
+        },
+        {
+            "parent": 0,
+            "text": "Other rare causes of hyperthyroidism are TSH-secreting pituitary adenoma, metastatic follicular thyroid cancer, and struma ovarii.9"
+        },
+        {
+            "parent": 1,
+            "text": "The clinical presentation of hyperthyroidism ranges from asymptomatic to thyroid storm(Table 2).10–18Elevated thyroid hormone levels amplify catecholamine signaling through increased numbers of cell surface beta-adrenergic receptors. The resulting adrenergic symptoms (e.g., palpitations, heat intolerance, diaphoresis, tremor, stare [an appearance of a fixed look due to retraction of eyelids], lid lag, hyperdefecation) are the most common manifestations of hyperthyroidism.10Hypermetabolism induces weight loss despite an increased appetite. Neuromuscular symptoms include weakness of proximal muscles.11Psychiatric symptoms range from anxiety to frank psychosis.12Patients with long-standing untreated hyperthyroidism may develop atrial fibrillation (10% to 15% of patients13,14) or heart failure (5.8% of patients15)."
+        },
+        {
+            "parent": 1,
+            "text": "Signs that are pathognomonic for Graves disease include orbitopathy, pretibial myxedema (thyroid dermopathy), and thyroid acropachy, which occur in 25%, 1.5%, and 0.3% of patients, respectively.16Goiters that develop in Graves disease are usually smooth and may have a thrill on palpation or a bruit on auscultation. Single or multiple nodules on palpation raise suspicion for a toxic adenoma or a toxic multinodular goiter, although nonfunctioning thyroid nodules may coexist with a goiter in Graves disease.16"
+        },
+        {
+            "parent": 1,
+            "text": "Graves orbitopathy manifests as exophthalmos or periorbital edema, and it can trigger photophobia, excessive lacrimation, increased eye sensitivity to wind or smoke, or a sensation of a foreign body in the eyes. In severe cases, blurred vision, diplopia, or reduced color perception may develop.16Smoking increases the risk of developing Graves orbitopathy (odds ratio = 3.7).17"
+        },
+        {
+            "parent": 1,
+            "text": "Pretibial myxedema, a less common finding, develops from fibroblast activation and manifests as swelling over the tibiae with the skin assuming a peau d'orange (orange peel) appearance.18Thyroid acropachy, an uncommon sign, is the clubbing of fingers and toes with soft-tissue swelling of the hands and feet.19Other skin manifestations of Graves disease include patchy hyperpigmentation and vitiligo.19"
+        },
+        {
+            "parent": 2,
+            "text": "Clinical suspicion of hyperthyroidism should prompt laboratory testing(Figure 120–23). Some physicians first order a TSH test, which has the highest sensitivity and specificity for hyperthyroidism, and then subsequently obtain free thyroxine (T4) and total triiodothyronine (T3) levels (free T3assays are poorly validated1) if the TSH level is low. Others prefer to order all three tests if hyperthyroidism is suspected to make the diagnosis more efficiently. Many laboratories perform reflex free T4testing if TSH is suppressed.Table 3lists patterns of thyroid function tests in hyperthyroidism.20,21The serum level of thyroid-stimulating immunoglobulins or TSH-receptor antibodies helps distinguish Graves disease from other causes of hyperthyroidism in patients who lack signs pathognomonic of Graves disease and have a contraindication to radioactive iodine uptake and scan."
+        },
+        {
+            "parent": 3,
+            "text": "Excess estrogen from pregnancy or estrogen therapy leads to elevated levels of thyroxine-binding globulin, which manifests as elevated total T4and T3levels while TSH and free T4levels remain normal(Table 3).20,21These findings do not indicate hyperthyroidism and require no treatment.21"
+        },
+        {
+            "parent": 3,
+            "text": "Patients with critical or acute illness often develop the nonthyroidal illness syndrome manifesting as mildly decreased TSH levels (0.1 to 0.4 mIU per mL) and normal or mildly decreased T4levels. In contrast to subclinical hyperthyroidism, the T3level is usually low and the reverse T3level is elevated. This condition resolves spontaneously when the patient recovers from the acute illness.21"
+        },
+        {
+            "parent": 3,
+            "text": "Exogenous glucocorticoids or dopamine may cause a mild decrease of TSH levels, a situation often occurring in the intensive care unit. Total T4, total T3, and free T4levels remain normal. TSH levels return to normal after these medications are discontinued.21"
+        },
+        {
+            "parent": 4,
+            "text": "A radioactive iodine uptake test and thyroid scan help determine the cause of hyperthyroidism(Table 4). Uptake is the percentage of an iodine 123 (I-123) tracer dose taken up by the thyroid gland, ranging from 15% to 25% at 24 hours. The uptake is very low (0% to 2%) in patients with thyroiditis and high in patients with Graves disease, a toxic adenoma, or a toxic multinodular goiter.23,24"
+        },
+        {
+            "parent": 4,
+            "text": "The thyroid scan shows the distribution of radiotracer in the gland. A homogeneous distribution indicates Graves disease, but accumulation of I-123 in one area points to a toxic adenoma(Figure 2)or in multiple areas to a toxic multinodular goiter.23,24"
+        },
+        {
+            "parent": 4,
+            "text": "Ultrasonography is sometimes used as a cost-effective and safe alternative to radioactive iodine uptake and scan. It is the primary imaging modality used during pregnancy, lactation, and in amiodarone-induced thyrotoxicosis.24"
+        },
+        {
+            "parent": 5,
+            "text": "Regardless of the cause of hyperthyroidism, the adrenergic symptoms are controlled by beta blockers(Table 5).25–28Propranolol has the theoretical advantage of also inhibiting 5′-monodeiodinase, thus blocking peripheral conversion of T4to T3.25The choice of treatment modality for hyperthyroidism caused by overproduction of thyroid hormones depends on the patient's age, symptoms, comorbidities, and preference.25,26"
+        },
+        {
+            "parent": 6,
+            "text": "Graves disease requires one of the three treatment options: an antithyroid medication (methimazole [Tapazole] or propylthiouracil), radioactive iodine (I-131) ablation of the thyroid gland, or surgical thyroidectomy. The choice of treatment depends on the benefits vs. risks in a specific clinical situation and on the patient's preference25(eTable A)."
+        },
+        {
+            "parent": 6,
+            "text": "Antithyroid Medications. Antithyroid medications are thionamides; they inhibit thyroid peroxidase, blocking the synthesis of T3and T4. Thionamides can serve as a long-term therapy or as a bridge to I-131 ablation or thyroidectomy, with the goal of normalizing thyroid function and preventing exacerbation of hyperthyroidism after I-131 ablation or avoiding surgical risks associated with uncontrolled hyperthyroidism. Because Graves disease remits in up to 30% of patients treated with thionamides, these medications can be used as the initial treatment, with ablation or thyroidectomy performed if remission does not occur.25,26Once medical therapy is discontinued, relapse occurs in 30% to 70% of patients, mostly within the first year.27After discontinuation, thyroid function should be monitored every one to three months for six to 12 months, and the patient should be instructed to contact the physician if symptoms recur."
+        },
+        {
+            "parent": 6,
+            "text": "Because use of propylthiouracil has a higher risk of causing severe liver injury, as highlighted in the U.S. Food and Drug Administration's boxed warning, methimazole is preferred except during the first trimester of pregnancy (can cause birth defects) and in patients with an adverse reaction to methimazole.28,29For patients using methimazole, the prevalence of agranulocytosis is 0.17%, the incidence of hepatitis is 3.17 per 1,000 person-years, and the incidence of acute hepatic failure is 0.32 per 1,000 person-years.30,31Patients should be instructed to discontinue medication use and contact their physician if they develop jaundice, acholic stools, dark urine, arthralgias, abdominal pain, nausea, vomiting, fever, or sore throat. A baseline complete blood count (CBC) with differential and a hepatic panel should be obtained before initiating an antithyroid medication. Subsequent routine monitoring of CBC is unnecessary, but CBC with differential should be obtained if fever and/or pharyngitis develop."
+        },
+        {
+            "parent": 6,
+            "text": "Free T4and total T3should be obtained four weeks after starting a thionamide and every four to eight weeks thereafter with the dosage adjusted based on results. Once free T4and total T3levels normalize, they should be monitored every three months. Serum TSH is of limited value early in the treatment course because levels may remain suppressed for several months after treatment is started. An antithyroid medication should be continued for 12 to 18 months, then tapered or discontinued if the TSH level is normal at the time. Elevated or above-normal TSH levels (greater than 4.0 mIU per mL) at antithyroid drug discontinuation is associated with an increased likelihood of permanent remission.27"
+        },
+        {
+            "parent": 6,
+            "text": "Radioactive Iodine Ablation. Radioactive iodine ablation of the thyroid gland is the most common treatment of Graves disease in the United States. It is contraindicated in pregnancy. Moderate to severe Graves orbitopathy is a relative contraindication, especially in patients who smoke, because radioactive iodine may exacerbate the eye disease.32,33In mild cases of Graves orbitopathy, radioactive iodine ablation can be performed with concomitant glucocorticoid therapy. Nonradioactive iodine impedes radioactive iodine uptake by iodide transporter; therefore, exposure to large amounts of nonradioactive iodine (e.g., iodinated contrast, amiodarone) should be avoided within three months before radioactive iodine ablation. Pregnancy should be ruled out within 48 hours before radioactive iodine ablation and avoided for six months thereafter.1A thionamide should be discontinued at least five days before the treatment but can be restarted three to five days after to maintain control of thyroid function, because it may take up to 12 weeks to achieve the full effect of radioactive iodine."
+        },
+        {
+            "parent": 6,
+            "text": "Most patients develop permanent hypothyroidism between two and six months after radioactive iodine ablation and require thyroid hormone supplementation.1,33Free T4and total T3should be measured four to eight weeks after ablation; if hyperthyroidism persists, these indices should be monitored every four to six weeks and thyroid hormone replacement started in the early stages of hypothyroidism.1"
+        },
+        {
+            "parent": 6,
+            "text": "Thyroidectomy. This treatment option is preferred in patients with goiter-induced compressive symptoms and in patients with contraindications to radioactive iodine ablation or thionamides. Besides general anesthesia risk, thyroidectomy carries a risk of inadvertently injuring parathyroid glands and recurrent laryngeal nerves.34"
+        },
+        {
+            "parent": 7,
+            "text": "Antithyroid medications can control hyperthyroidism, but do not induce remission of hyperthyroidism associated with toxic adenoma or toxic multinodular goiter. Therefore, radioactive iodine ablation and thyroidectomy are the main treatment options for these conditions. Thyroidectomy is favored if a nodule or goiter causes compressive symptoms. Antithyroid medications may be used for long-term treatment in select patients who refuse ablation or who have a contraindication to thyroidectomy.35,36"
+        },
+        {
+            "parent": 8,
+            "text": "Painless thyroiditis and subacute thyroiditis are self-limiting conditions that usually resolve spontaneously within six months. There is no role for antithyroid medications or radioactive iodine ablation in the treatment of thyroiditis. Beta blockers may be used if needed to control adrenergic symptoms. Pain associated with subacute thyroiditis may be relieved with a nonsteroidal anti-inflammatory drug.5"
+        },
+        {
+            "parent": 9,
+            "text": "Graves disease, toxic adenoma, and toxic multinodular goiter can sometimes cause severe hyperthyroidism, which is termed a thyroid storm. The Burch-Wartofsky score is a helpful tool for diagnosing thyroid storm37(eTable B). Treatment of thyroid storm is summarized ineTable C."
+        },
+        {
+            "parent": 10,
+            "text": "Amiodarone-induced thyrotoxicosis can be classified as type 1 (thyroid hormone overproduction, treated with antithyroid medications) or type 2 (thyroid tissue destruction, treated with steroids). Amiodarone should not be discontinued unless it can be stopped safely, without triggering cardiac complications.38,39"
+        },
+        {
+            "parent": 10,
+            "text": "Hyperthyroidism associated with use of other medications (e.g., lithium, interferon alfa, tyrosine kinase inhibitors, highly active antiretroviral therapy) is usually self-limited. The physician should determine whether the medication may be discontinued safely or replaced with a different medication."
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources: A PubMed search was performed in Clinical Queries using the key terms hyperthyroidism, thyrotoxicosis, Graves disease, toxic multinodular goiter, toxic adenoma, and thyroiditis. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were Essential Evidence Plus, the Cochrane database, the National Guideline Clearinghouse database, and UpToDate. Search dates: December 26, 2014, and August 24, 2015.The author thanks Dr. Harold E. Carlson and Dr. Marie C. Gelato for reviewing this manuscript."
+        }
+    ],
+    "locked": false
+}

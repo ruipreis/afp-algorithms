@@ -1,0 +1,245 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2001/1001/p1219.html#afp20011001p1219-f3",
+    "title": "Evaluation and Management of Infants and Young Children with Fever | AAFP",
+    "author": "MICHAEL LUSZCZAK, LTC, MC, USA",
+    "doi": "Am Fam Physician.2001;64(7):1219-1227",
+    "abstract": "A practice guideline for the management of febrile infants and children younger than three years of age sparked controversy when it was published in 1993. Surveys indicate that many office-based physicians do not agree with recommendations for venipuncture and bladder catheterization in nontoxic febrile children, and that many employ watchful waiting rather than empiric antibiotic therapy. Surveys of parents note a preference for less testing and treatment. More aggressive management may be appropriate in febrile infants younger than three months old; however, criteria have been proposed to identify infants older than one month who are at low risk for serious bacterial infection. Because of widespread vaccination againstHaemophilus influenzaeinfection,Streptococcus pneumoniaehas become the cause of most cases of bacteremia. The risk of serious bacterial infection is greater in younger children and in those with higher temperatures and white blood cell counts. Controversy persists regarding the age, temperature and white blood cell count values that serve as indications for further evaluation or empiric antibiotic therapy.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Special Situations",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "TOXIC APPEARANCE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "VIRAL OR BACTERIAL INFECTION",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "CHRONIC ILLNESSES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "RECENT ANTIBIOTIC THERAPY",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "DAY-CARE CENTER ATTENDANCE",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "Initial Approach to Infants and Young Children with Fever",
+            "level": 2
+        },
+        {
+            "id": 7,
+            "name": "URINARY TRACT INFECTION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "PNEUMONIA, OTITIS MEDIA AND ENTERITIS",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "Parental and Physician Preferences",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name": "Fever and Risk of Serious Bacterial Infection",
+            "level": 2
+        },
+        {
+            "id": 11,
+            "name": "YOUNG INFANTS",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "OLDER INFANTS AND YOUNG CHILDREN",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "Age",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "Temperature",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "White Blood Cell Count",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "Controversies and Comments",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute febrile illness in an infant or a young child is a common clinical scenario that can be a diagnostic challenge. The evaluation is guided by the history and physical examination, along with judiciously selected screening tests. The overwhelming majority of nontoxic but febrile infants and young children have a viral infection. The physician's primary task is to identify the infant or child who is at risk for serious bacterial infection."
+        },
+        {
+            "parent": -1,
+            "text": "A practice guideline on the evaluation and management of infants and young children with fever without source was published in 1993.1Although elements of this guideline remain controversial, the expert panel's definitions of terms such as “fever without source,” “serious bacterial infection” and “toxic appearance” are widely accepted(Table 1).1In this article, “infant” describes a child younger than one year old. “Young infant” refers to a child younger than three months old, and “older infant” describes a child older than three months but younger than 12 months. “Young child” refers to a child one to three years of age."
+        },
+        {
+            "parent": 1,
+            "text": "Toxic-appearing infants and children are pale or cyanotic, lethargic or inconsolably irritable. In addition, they may have tachypnea and tachycardia with poor capillary refill."
+        },
+        {
+            "parent": 1,
+            "text": "A variety of conditions other than infection may result in a toxic appearance. In all instances, immediate resuscitation is warranted, appropriate diagnostic studies and cultures should be obtained, and empiric antibiotic therapy should be administered unless a condition other than sepsis is immediately identified.2"
+        },
+        {
+            "parent": 2,
+            "text": "Viral infection is the cause of fever in most infants and young children. With stomatitis, varicella or another readily identified exanthem, the cause of the fever may be readily apparent on physical examination, and further diagnostic evaluation may not be required.3If a focal bacterial infection such as pneumonia, meningitis or osteomyelitis is suspected, efforts should be made to identify the specific infection and initiate appropriate treatment."
+        },
+        {
+            "parent": 3,
+            "text": "Infants and children with fever who have known chronic illnesses that affect immune status (e.g., leukemia, sickle cell disease, human immunodeficiency virus infection, cystic fibrosis, diabetes, congenital heart anomalies) may require more aggressive evaluation and management than children without such conditions."
+        },
+        {
+            "parent": 4,
+            "text": "A more aggressive approach may be warranted in infants and young children with fever who have recently been treated with antibiotics. A retrospective case series4found that 32 percent of children two years of age and younger with meningitis had been given oral antibiotics for more than two days before the meningitis was detected. These children tended to be less ill-appearing, more commonly had upper respiratory findings and were less apt to manifest fever. Physicians must always bear in mind the possibility of partially treated meningitis when they are evaluating febrile infants and young children who have recently been prescribed antibiotics."
+        },
+        {
+            "parent": 5,
+            "text": "Day-care center attendance and frequent episodes of otitis media have been identified as risk factors for invasive pneumococcal infection in children younger than two years.5Hence, infants and children with these risk factors may need to be evaluated more aggressively than those who do not attend day care."
+        },
+        {
+            "parent": 7,
+            "text": "Urinary tract infection remains a significant risk in well-appearing but febrile infants and young children. The probability of urinary tract infection varies with age, with the greatest incidence in infants younger than six months. Up to 20 percent of febrile young infants have been reported to have positive urine cultures.6–8A recent study9of 2,400 febrile infants and children younger than two years revealed that urinary tract infection had an overall prevalence of greater than 3 percent. In this study, white girls were about 10 times more likely to harbor infection than nonwhite girls, and uncircumcised boys were almost eight times more likely to have infection than circumcised boys."
+        },
+        {
+            "parent": 7,
+            "text": "A recent practice parameter on urinary tract infection recommended that urine be collected for culture by catheterization or suprapubic aspiration in all infants and children two months to two years of age with unexplained fever if empiric antibiotic treatment had been prescribed.10Some authorities11have suggested that a negative urinalysis on a bagged urine sample may be sufficient to eliminate the need for urine culture obtained by a more invasive technique. Other investigators12have argued that microscopic urinalysis fails to detect 10 to 20 percent of urinary tract infections in infants and young children, and that culture of urine obtained by bladder catheterization is the only acceptable option."
+        },
+        {
+            "parent": 8,
+            "text": "A recent study13found that 26 percent of children with fever and leukocytosis (a white blood cell count greater than 20,000 per mm3[20 × 109per L]) had pneumonia, even in the absence of respiratory symptoms."
+        },
+        {
+            "parent": 8,
+            "text": "The incidence of bacteremia does not differ significantly in febrile infants and young children with or without otitis media.14,15Therefore, most authorities advise that otitis media not be considered a cause of fever and recommend that febrile infants and children with otitis media be evaluated for an occult infection."
+        },
+        {
+            "parent": 8,
+            "text": "Stool culture is recommended only in febrile infants and children who have diarrhea.1"
+        },
+        {
+            "parent": 9,
+            "text": "Because of current uncertainty about the evaluation and treatment of infants and young children with fever, some authors have recommended that increased consideration be given to parental input."
+        },
+        {
+            "parent": 9,
+            "text": "In one study,1671 percent of parents of children with fever preferred options with less testing and treatment, accepting the very small but real risk associated with failure to identify and treat hidden infection. These parents reported a variety of reasons for their preference, including a desire for fewer painful tests, less waiting time, smaller chance of unnecessary antibiotic therapy and a belief that they could return to the emergency department if their child's condition deteriorated. In contrast, the 29 percent who preferred the more aggressive option universally cited desire for lower risk as the reason for their selection."
+        },
+        {
+            "parent": 9,
+            "text": "In general, parents tend to emphasize the short-term pain, discomfort and inconvenience of tests. Physicians are more likely to discount these considerations and focus on minimizing the risk of adverse outcomes.17"
+        },
+        {
+            "parent": 9,
+            "text": "Among physicians, widespread differences regarding the management of febrile children have been repeatedly documented. Not surprisingly, physicians in private office settings tend to adopt strategies involving less diagnostic testing or empiric treatment, whereas hospital-based physicians are most likely to test and treat.11,18"
+        },
+        {
+            "parent": 9,
+            "text": "It is important to recognize that parents often do not adhere to recommendations for re-evaluation of a febrile child. Factors most often associated with a failure to follow up include parental age younger than 21 years, lack of ownership of a car and parental perception of a lesser degree of illness in their child.19"
+        },
+        {
+            "parent": 11,
+            "text": "Approximately 10 percent of well-appearing young infants with a temperature higher than 38°C (100.4°F) harbor a serious bacterial infection or meningitis.20–22In contrast, fewer than 2 percent of well-appearing older infants and young children with a temperature higher than 39°C (102.2°F) manifest bacteremia.14,23"
+        },
+        {
+            "parent": 11,
+            "text": "Because of the greater probability of serious bacterial infection, a more aggressive approach to the evaluation and management of fever is warranted in young infants. Specific criteria, commonly termed the “Rochester criteria,” have been proposed to identify febrile young infants at low risk for serious bacterial infection(Table 2).21"
+        },
+        {
+            "parent": 11,
+            "text": "Some authors have suggested that the Rochester criteria be used to identify infants older than one week who are at low risk for serious bacterial infection.12However, two recent studies24,25examining the use of risk stratification criteria in infants younger than one month with a temperature of 38°C or higher found that 3 to 5 percent of the infants identified as “low risk” developed a serious bacterial infection. Furthermore, the reliability of risk stratification criteria is affected by less than complete adherence to stated guide-lines within the studies used to validate the criteria. Management out of accordance with protocol was reported in 7 percent of young infants with fever who were enrolled in one recent study.26"
+        },
+        {
+            "parent": 12,
+            "text": "With widespread immunization againstHaemophilus influenzaeinfection,Streptococcus pneumoniaehas become the predominant cause of serious bacterial infection in infants and young children. Streptococcal bacteremia affects fewer than 2 percent of well-appearing older infants and young children with a temperature above 39°C.14,23Most children in this age group clear streptococcal bacteremia without antibiotic therapy."
+        },
+        {
+            "parent": 12,
+            "text": "Approximately 10 percent of infants and young children with fever andS. pneumoniaebacteremia progress to a serious bacterial infection, and from 3 to 6 percent progress to meningitis (i.e., approximately one case per 1,000 to 2,500 of these febrile children).27,28The risk of pneumococcal bacteremia varies based on the patient's age, temperature and white blood cell count."
+        },
+        {
+            "parent": 13,
+            "text": "The spectrum of likely pathogens in bacteremia has changed since the introduction ofH. influenzaetype b conjugate vaccine. The distribution of bacteremia as a function of age also has changed."
+        },
+        {
+            "parent": 13,
+            "text": "A recent large, prospective study14of approximately 9,000 well-appearing older infants and young children with fever convincingly demonstratedS. pneumoniaeas the pathogen in 92 percent of occult bacteremia cases. In this study, the incidence of pneumococcal bacteremia did not differ significantly from six months to three years of age. However, the risk of pneumococcal bacteremia was found to be significantly lower in the infants who were three to six months old. Nevertheless, the authors of the study advocated caution, citing this cohort as the peak age for the development of pneumococcal meningitis."
+        },
+        {
+            "parent": 14,
+            "text": "The risk of bacteremia increases as temperature rises, but the low overall prevalence of bacteremia limits the usefulness of degree of fever as a clinical tool for risk stratification(Figure 1).14Although an infant or a young child with a temperature higher than 40.9°C (105.6°F) is more than three times more likely to harbor bacteremia than an infant or a young child with a temperature of 39°C, most well-appearing children will not have bacteremia.14"
+        },
+        {
+            "parent": 14,
+            "text": "Infants and young children with fever are often given antipyretics at the time they present for care. Febrile children treated with antipyretics are more likely to display increased activity level and alertness, but the degree of temperature reduction in response to antipyretic therapy is not predictive of the presence or absence of bacteremia.29"
+        },
+        {
+            "parent": 15,
+            "text": "The prevalence of bacteremia in well-appearing older infants and young children increases with elevation of the white blood cell count(Figure 2).14Investigators in the most recent and largest study conducted to date14found that the risk of bacteremia increases from 0.5 percent for white blood cell counts less than 15,000 per mm3(15 × 109per L) to greater than 18 percent for white blood cell counts over 30,000 per mm9(30 × 109per L)."
+        },
+        {
+            "parent": 15,
+            "text": "The 1993 practice guideline for the management of fever recommends a white blood cell count of 15,000 per mm3as the threshold, or cutoff value, for deciding to obtain blood for culture and initiate empiric antibiotic therapy.1Much of the controversy relating to the practice guideline involves the selection of this cutoff value. One set of investigators14has advocated 18,000 white blood cells per mm3(18 × 109per L) as the cutoff value, arguing that use of this higher count is justified by the post-vaccination disappearance ofH. influenzaeinfection and a lower overall prevalence of bacteremia than previously reported."
+        },
+        {
+            "parent": 16,
+            "text": "The evaluation of infants and young children with fever will probably remain controversial. Much of the dispute involves the likelihood of bacteremia progressing to meningitis and the efficacy of empiric antibiotic therapy in preventing this outcome."
+        },
+        {
+            "parent": 16,
+            "text": "A meta-analysis30of studies involving the use of empiric antibiotics in older infants and children with fever concluded that treatment for possible occult bacteremia does not demonstrate a significant outcome advantage for antibiotic therapy. The authors advised that clinical judgment should not be replaced by widespread antibiotic use in infants and young children with fever."
+        },
+        {
+            "parent": 16,
+            "text": "The authors of a commentary on the 1993 practice guideline argued that young children with fever should be carefully assessed for focal bacterial infection.11If no focus is found and a child appears well, no tests other than urinalysis are routinely indicated, and antibiotics should not be given."
+        },
+        {
+            "parent": 16,
+            "text": "In another report,31investigators questioned the efficacy of the empiric administration of antibiotics. They pointed out that orally administered antibiotics have not been shown to prevent meningitis. These investigators argued that their meta-analysis demonstrated no difference between older infants and children treated with orally or parenterally administered antibiotics, and they concluded that physicians should reconsider the criteria used to identify patients who will receive empiric antibiotic therapy."
+        },
+        {
+            "parent": 16,
+            "text": "Physician adherence to the 1993 practice guideline varies. In a recent survey18on the management of children with fever without source, family physicians, pediatricians and emergency department physicians were asked how they would manage hypothetic cases involving nontoxic febrile infants and children of various ages. The survey findings showed general agreement concerning management of the youngest infants, but considerable variation in management approaches with increasing patient age. Family physicians were found to be the least aggressive, and emergency department physicians the most aggressive."
+        },
+        {
+            "parent": 16,
+            "text": "The panel of experts who developed the 1993 practice guideline never intended their recommendations to be a substitute for physician judgment. Even though physician practice varies significantly, the practice guideline continues to provide a useful framework for evaluating infants and young children with fever(Figures 31and41,10,13,14). Although it has been suggested that the guideline be modified to expand use of “low risk” criteria in febrile infants older than one week, recent studies have demonstrated the unpredictability of serious bacterial illness in febrile infants younger than one month.24,25Other authors have presented viable arguments for using observation instead of empiric antibiotic therapy in well-appearing infants and young children who have fever without source.11,27,30"
+        },
+        {
+            "parent": 16,
+            "text": "S. pneumoniaeis the pathogen in approximately 90 percent of cases of occult bacteremia in febrile older infants and young children.14The recently introduced pneumococcal conjugate vaccine may soon end the debate surrounding the evaluation and treatment of infants and young children with fever. Preliminary reports indicate that the vaccine is almost 95 percent effective against the invasive pneumococcal serotypes included in the vaccine.32,33"
+        },
+        {
+            "parent": 16,
+            "text": "Some authorities have postulated that widespread use of the pneumococcal conjugate vaccine will make white blood cell counts, blood cultures and empiric antibiotic therapy obsolete in the evaluation and management of febrile older infants and children.34Pending clear demonstration of the eradication of occult pneumococcal bacteremia by the new vaccine, it remains the task of each physician to select his or her own approach to infants and children at risk, based on parental desire and the physician's practice environment, perceptions and tolerance of risk, and the likelihood of opportunity for subsequent intervention."
+        }
+    ],
+    "locked": false
+}

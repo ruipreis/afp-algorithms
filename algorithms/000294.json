@@ -1,0 +1,252 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2015/0915/p487.html#afp20150915p487-f1",
+    "title": "Potassium Disorders: Hypokalemia and Hyperkalemia | AAFP",
+    "author": "ANTHONY J. VIERA, MD, MPH, AND NOAH WOUK, MD",
+    "doi": "Am Fam Physician.2015;92(6):487-495",
+    "abstract": "Hypokalemia and hyperkalemia are common electrolyte disorders caused by changes in potassium intake, altered excretion, or transcellular shifts. Diuretic use and gastrointestinal losses are common causes of hypokalemia, whereas kidney disease, hyperglycemia, and medication use are common causes of hyperkalemia. When severe, potassium disorders can lead to life-threatening cardiac conduction disturbances and neuromuscular dysfunction. Therefore, a first priority is determining the need for urgent treatment through a combination of history, physical examination, laboratory, and electrocardiography findings. Indications for urgent treatment include severe or symptomatic hypokalemia or hyperkalemia; abrupt changes in potassium levels; electrocardiography changes; or the presence of certain comorbid conditions. Hypokalemia is treated with oral or intravenous potassium. To prevent cardiac conduction disturbances, intravenous calcium is administered to patients with hyperkalemic electrocardiography changes. Insulin, usually with concomitant glucose, and albuterol are preferred to lower serum potassium levels in the acute setting; sodium polystyrene sulfonate is reserved for subacute treatment. For both disorders, it is important to consider potential causes of transcellular shifts because patients are at increased risk of rebound potassium disturbances.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes of Hypokalemia",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "RENAL LOSSES",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "GI LOSSES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "Evaluation and Management of Hypokalemia",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "GENERAL PRINCIPLES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "LABORATORY ANALYSIS AND ECG",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment of Hypokalemia",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name": "Causes of Hyperkalemia",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "IMPAIRED POTASSIUM EXCRETION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "TRANSCELLULAR SHIFTS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "MEDICATION-INDUCED HYPERKALEMIA",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Evaluation and Management of Hyperkalemia",
+            "level": 2
+        },
+        {
+            "id": 13,
+            "name": "GENERAL PRINCIPLES",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "HISTORY AND PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "LABORATORY ANALYSIS AND ECG",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "Treatment of Hyperkalemia",
+            "level": 2
+        },
+        {
+            "id": 17,
+            "name": "GENERAL PRINCIPLES",
+            "level": 3
+        },
+        {
+            "id": 18,
+            "name": "URGENT TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 19,
+            "name": "LOWERING TOTAL BODY POTASSIUM",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Potassium disorders are common. Hypokalemia (serum potassium level less than 3.6 mEq per L [3.6 mmol per L]) occurs in up to 21% of hospitalized patients and 2% to 3% of outpatients.1–3Hyperkalemia (serum potassium level more than 5 mEq per L [5 mmol per L] in adults, more than 5.5 mEq per L [5.5 mmol per L] in children, and more than 6 mEq per L [6 mmol per L] in neonates) occurs in up to 10% of hospitalized patients and approximately 1% of outpatients.4,5The body's plasma potassium concentration is closely regulated by a variety of mechanisms."
+        },
+        {
+            "parent": 0,
+            "text": "Hypokalemia results from abnormal losses, transcellular shifts, or insufficient intake(Table 1).6–8Abnormal losses are most common.9Because the kidney can significantly lower potassium excretion in response to decreased intake, insufficient intake is rarely the sole cause of hypokalemia, but it often contributes to hypokalemia in hospitalized patients.9"
+        },
+        {
+            "parent": 1,
+            "text": "Diuretic use is a common cause of renally mediated hypokalemia.10When given in the same dosage, chlorthalidone is more likely to induce hypokalemia than hydrochlorothiazide, which is more often implicated because of its widespread use.11,12Diuretic-induced hypokalemia is dose-dependent and tends to be mild (3 to 3.5 mEq per L [3 to 3.5 mmol per L]), although it can be more severe when accompanied by other causes (e.g., gastrointestinal [GI] losses).13"
+        },
+        {
+            "parent": 2,
+            "text": "GI losses are another common cause of hypokalemia, particularly among hospitalized patients.9The mechanism by which upper GI losses induce hypokalemia is indirect and stems from the kidney's response to the associated alkalosis. As a portion of daily potassium is excreted in the colon, lower GI losses in the form of persistent diarrhea can also result in hypokalemia and may be accompanied by hyperchloremic acidosis.6"
+        },
+        {
+            "parent": 4,
+            "text": "Hypokalemia is often asymptomatic. Evaluation begins with a search for warning signs or symptoms warranting urgent treatment(Figure 1).7,14These include weakness or palpitations, changes on electrocardiography (ECG), severe hypokalemia (less than 2.5 mEq per L [2.5 mmol per L]), rapid-onset hypokalemia, or underlying heart disease or cirrhosis.7,15Most cases of hypokalemia-induced rhythm disturbances occur in individuals with underlying heart disease.10Early identification of transcellular shifts is important because management may differ. Identification and treatment of concurrent hypomagnesemia are also important because magnesium depletion impedes potassium repletion and can exacerbate hypokalemia-induced rhythm disturbances.16,17"
+        },
+        {
+            "parent": 5,
+            "text": "A focused history includes evaluation for possible GI losses, review of medications, and assessment for underlying cardiac comorbidities. A history of paralysis, hyperthyroidism, or use of insulin or beta agonists suggests possible transcellular shifts leading to redistributive hypokalemia. The physical examination should focus on identifying cardiac arrhythmias and neurologic manifestations, which range from generalized weakness to ascending paralysis."
+        },
+        {
+            "parent": 6,
+            "text": "The diagnosis should be confirmed with a repeat serum potassium measurement. Other laboratory tests include serum glucose and magnesium levels, urine electrolyte and creatinine levels, and acid-base balance. The most accurate method for evaluating urinary potassium excretion is a 24-hour timed urine potassium collection; normal kidneys excrete no more than 15 to 30 mEq per L (15 to 30 mmol per L) of potassium per day in response to hypokalemia. A more practical approach is calculation of the urine potassium-to-creatinine ratio from a spot urine specimen; a ratio greater than 1.5 mEq per mmol (13 mEq per g) is indicative of renal potassium wasting.18If no cause is identified with the initial workup, assessment of thyroid and adrenal function should be considered."
+        },
+        {
+            "parent": 6,
+            "text": "Typically, the first ECG manifestation of hypokalemia is decreased T-wave amplitude. Further progression can lead to ST-interval depression, T-wave inversions, PR-interval prolongation, and U waves. Arrhythmias associated with hypokalemia include sinus bradycardia, ventricular tachycardia or fibrillation, and torsade de pointes.19Although the risk of ECG changes and arrhythmias increases as serum potassium concentration decreases, these findings are not reliable because some patients with severe hypokalemia do not have ECG changes.20"
+        },
+        {
+            "parent": 7,
+            "text": "The immediate goal of treatment is the prevention of potentially life-threatening cardiac conduction disturbances and neuromuscular dysfunction by raising serum potassium to a safe level. Further replenishment can proceed more slowly, and attention can turn to the diagnosis and management of the underlying disorder.15Patients with a history of congestive heart failure or myocardial infarction should maintain a serum potassium concentration of at least 4 mEq per L (4 mmol per L), based on expert opinion.15"
+        },
+        {
+            "parent": 7,
+            "text": "Careful monitoring during treatment is essential because supplemental potassium is a common cause of hyperkalemia in hospitalized patients.21The risk of rebound hyperkalemia is higher when treating redistributive hypokalemia. Because serum potassium concentration drops approximately 0.3 mEq per L (0.3 mmol per L) for every 100-mEq (100-mmol) reduction in total body potassium, the approximate potassium deficit can be estimated in patients with abnormal losses and decreased intake. For example, a decline in serum potassium from 3.8 to 2.9 mEq per L (3.8 to 2.9 mmol per L) roughly corresponds to a 300-mEq (300-mmol) reduction in total body potassium. Additional potassium will be required if losses are ongoing. Concomitant hypomagnesemia should be treated concurrently."
+        },
+        {
+            "parent": 7,
+            "text": "For hypokalemia associated with diuretic use, stopping the diuretic or reducing its dosage may be effective.15Another strategy, if otherwise indicated to treat a comorbid condition, is use of an angiotensin-converting enzyme (ACE) inhibitor, angiotensin receptor blocker (ARB), beta blocker, or potassium-sparing diuretic because each of these drugs is associated with an elevation in serum potassium."
+        },
+        {
+            "parent": 7,
+            "text": "It is appropriate to increase dietary potassium in patients with low-normal and mild hypokalemia, particularly in those with a history of hypertension or heart disease.15The effectiveness of increased dietary potassium is limited, however, because most of the potassium contained in foods is coupled with phosphate, whereas most cases of hypokalemia involve chloride depletion and respond best to supplemental potassium chloride.6,15"
+        },
+        {
+            "parent": 7,
+            "text": "Because use of intravenous potassium increases the risk of hyperkalemia and can cause pain and phlebitis, intravenous potassium should be reserved for patients with severe hypokalemia, hypokalemic ECG changes, or physical signs or symptoms of hypokalemia, or for those unable to tolerate the oral form. Rapid correction is possible with oral potassium; the fastest results are likely best achieved by combining oral (e.g., 20 to 40 mmol) and intravenous administration.22"
+        },
+        {
+            "parent": 7,
+            "text": "When intravenous potassium is used, standard administration is 20 to 40 mmol of potassium in 1 L of normal saline. Correction typically should not exceed 20 mmol per hour, although higher rates using central venous catheters have been successful in emergency situations.22Continuous cardiac monitoring is indicated if the rate exceeds 10 mmol per hour. In children, dosing is 0.5 to 1.0 mmol per L per kg over one hour (maximum of 40 mmol).23Potassium should not be given in dextrose-containing solutions because dextrose-stimulated insulin secretion can exacerbate hypokalemia."
+        },
+        {
+            "parent": 7,
+            "text": "Nonurgent hypokalemia is treated with 40 to 100 mmol of oral potassium per day over days to weeks. For the prevention of hypokalemia in patients with persistent losses, as with ongoing diuretic therapy or hyperaldosteronism, 20 mmol per day is usually sufficient.15"
+        },
+        {
+            "parent": 8,
+            "text": "Hyperkalemia is caused by excess potassium intake, impaired potassium excretion, or transcellular shifts(Table 2).8,24The etiology of hyperkalemia is often multifactorial, with impaired renal function, medication use, and hyperglycemia as the most common contributors.25Because healthy individuals can adapt to excess potassium consumption by increasing excretion, increased potassium intake is rarely the sole cause of hyperkalemia, and underlying renal dysfunction is common.24"
+        },
+        {
+            "parent": 9,
+            "text": "Renally mediated hyperkalemia results from derangement of one or more of the following processes: rate of flow in the distal nephron, aldosterone secretion and its effects, and functioning potassium secretory pathways. Hyperkalemia secondary to decreased distal delivery of sodium and water occurs with congestive heart failure, cirrhosis, acute kidney injury, and advanced chronic kidney disease. Conditions that cause hypoaldosteronism, such as adrenal insufficiency and hyporeninemic hypoaldosteronism (a common complication of diabetic nephropathy and tubulointerstitial diseases), can lead to hyperkalemia."
+        },
+        {
+            "parent": 10,
+            "text": "Various mechanisms promote the exit of potassium from cells or impede its entrance, thereby raising the plasma potassium concentration (redistributive hyperkalemia). Increased plasma osmolality, such as with uncontrolled diabetes mellitus, establishes a concentration gradient wherein potassium follows water out of cells. Relative insulin deficiency or insulin resistance, which also occurs in persons with diabetes, prevents potassium from entering cells. In response to acidosis, extracellular hydrogen is exchanged for intracellular potassium, although the net result is highly variable and depends in part on the type of acidosis; metabolic acidosis produces the greatest effect.26Because 98% of total body potassium is intracellular, any process that increases cell turnover, such as rhabdomyolysis, tumor lysis syndrome, or red blood cell transfusions, can result in hyperkalemia."
+        },
+        {
+            "parent": 11,
+            "text": "Medication use is a common cause of hyperkalemia, particularly in patients with baseline renal dysfunction or hypoaldosteronism.27Medication-induced hyperkalemia is most often a result of the medication interfering with potassium excretion. Also, the administration of potassium to treat or prevent hypokalemia can inadvertently cause hyperkalemia.19"
+        },
+        {
+            "parent": 11,
+            "text": "ACE inhibitors contributed to one-half of all cases of drug-induced hyperkalemia in one sample, and approximately 10% of outpatients who start an ACE inhibitor or an ARB will develop hyperkalemia within one year.23,28The incidence of hyperkalemia associated with use of potassium-sparing diuretics has risen since adding spironolactone to standard therapy was shown to reduce morbidity and mortality in patients with congestive heart failure.29Dual treatment with an ACE inhibitor and an ARB increases the risk of harmful adverse effects, including hyperkalemia, and should be avoided.11Other commonly used medications known to cause hyperkalemia include trimethoprim, heparin, beta blockers, digoxin, and nonsteroidal anti-inflammatory drugs.3"
+        },
+        {
+            "parent": 13,
+            "text": "As with hypokalemia, the immediate danger of hyperkalemia is its effect on cardiac conduction and muscle strength, and initial efforts should focus on determining the need for urgent intervention(Figure 2).14,30The absence of symptoms does not exclude severe hyperkalemia, because hyperkalemia is often asymptomatic. Because of their increased risk of developing hyperkalemia, patients with underlying renal dysfunction merit special attention.22"
+        },
+        {
+            "parent": 14,
+            "text": "Severe hyperkalemia (more than 6.5 mEq per L [6.5 mmol per L]) can cause muscle weakness, ascending paralysis, heart palpitations, and paresthesias. Chronic kidney disease, diabetes, heart failure, and liver disease all increase the risk of hyperkalemia. Clinicians should review patients' medications to identify those known to cause hyperkalemia, and ask patients about the use of salt substitutes that contain potassium. The physical examination should include assessment of blood pressure and intravascular volume status to identify potential causes of kidney hypoperfusion, which can lead to hyperkalemia. Neurologic signs of hypokalemia include generalized weakness and decreased deep tendon reflexes.11"
+        },
+        {
+            "parent": 15,
+            "text": "Repeat measurement of serum potassium can help identify pseudohyperkalemia, which is common and typically results from potassium moving out of cells during or after sample collection.31Other laboratory studies include measurement of serum blood urea nitrogen and creatinine, measurement of urine electrolytes and creatinine, and assessment of acid-base status. Further evaluation may include measurement of serum glucose to evaluate for hyperglycemia, and measurement of serum renin, aldosterone, and cortisol to further investigate kidney and adrenal function."
+        },
+        {
+            "parent": 15,
+            "text": "ECG should be considered if the potassium level is greater than 6 mEq per L; if there are symptoms of hyperkalemia; if there is suspicion of rapid-onset hyperkalemia; or among patients with underlying kidney disease, heart disease, or cirrhosis who have a new case of hyperkalemia. Findings on ECG are neither sensitive nor specific for hyperkalemia. Therefore, although ECG changes should trigger urgent treatment, treatment decisions should not be based solely on the presence or absence of ECG changes.32"
+        },
+        {
+            "parent": 15,
+            "text": "Peaked T waves are the prototypical, and generally the earliest, ECG sign of hyperkalemia. Other ECG changes include P-wave flattening, PR-interval prolongation, widening of the QRS complex, and sine waves.19Hyperkalemia-induced arrhythmias include sinus bradycardia, sinus arrest, ventricular tachycardia, ventricular fibrillation, and asystole.19"
+        },
+        {
+            "parent": 17,
+            "text": "The goals of acute treatment are to prevent potentially life-threatening cardiac conduction and neuromuscular disturbances, shift potassium into cells, eliminate excess potassium, and resolve the underlying disturbance. Patients with chronic hyperkalemia should be counseled to reduce dietary potassium. Although redistributive hyperkalemia is uncommon, a cautious approach is warranted because treatment may not involve attempts to eliminate potassium, and correction of the underlying problem can provoke rebound hypokalemia. Indications for prompt intervention are symptoms of hyperkalemia, changes on ECG, severe hyperkalemia (greater than 6.5 mEq per L), rapid-onset hyperkalemia, or underlying heart disease, cirrhosis, or kidney disease.24,30,33–35Potassium should be monitored often because patients are at risk of redeveloping hyperkalemia until the underlying disorder is corrected and excess potassium is eliminated.Figure 3is an algorithm for the management of hyperkalemia, andTable 322,30,36summarizes medications used in the treatment of the condition."
+        },
+        {
+            "parent": 18,
+            "text": "Intravenous Calcium. Intravenous calcium, which helps prevent life-threatening conduction disturbances by stabilizing the cardiac muscle cell membrane, should be administered if ECG changes are present.24,25,35Intravenous calcium has no effect on plasma potassium concentration. If after five minutes, follow-up ECG continues to show signs of hyperkalemia, the dose should be repeated.37Clinicians should be aware that intravenous calcium has a short duration, ranging from 30 to 60 minutes."
+        },
+        {
+            "parent": 18,
+            "text": "Insulin and Glucose. The most reliable method for shifting potassium intracellularly is administration of glucose and insulin. Typically, 10 units of insulin are administered, followed by 25 g of glucose to prevent hypoglycemia.37Because hypoglycemia is a common adverse effect even with the provision of glucose, serum glucose levels should be monitored regularly. Patients with a serum glucose level of more than 250 mg per dL (13.9 mmol per L) typically do not require coadministration of glucose."
+        },
+        {
+            "parent": 18,
+            "text": "Inhaled Beta Agonists. Albuterol, a beta2agonist, is an underutilized adjuvant for shifting potassium intracellularly.24,37All forms of administration (i.e., inhaled, nebulized, and intravenous where available) are effective. It should be noted that the recommended dose of nebulized albuterol (10 to 20 mg) is four to eight times greater than the typical respiratory dose. There is an additive effect when albuterol is combined with insulin.38Albuterol's potassium-lowering effect is mitigated in some patients, particularly those with end-stage kidney disease; therefore, albuterol should not be used as monotherapy.30"
+        },
+        {
+            "parent": 18,
+            "text": "Sodium Bicarbonate. Although sodium bicarbonate is often used to treat hyperkalemia, the evidence to support this use is equivocal, showing minimal to no benefit.39Therefore, sodium bicarbonate should not be used as monotherapy. It may have a role as adjuvant therapy, particularly among patients with concurrent metabolic acidosis.24,39,40"
+        },
+        {
+            "parent": 19,
+            "text": "Potassium can be removed via the GI tract or the kidneys, or directly from the blood with dialysis. Dialysis should be considered in patients with kidney failure or life-threatening hyperkalemia, or when other treatment strategies fail.23,37Other modalities are not rapid enough for urgent treatment of hyperkalemia.39"
+        },
+        {
+            "parent": 19,
+            "text": "Currently available cation exchange resins, typically sodium polystyrene sulfonate (Kayexalate) in the United States, are not beneficial for the acute treatment of hyperkalemia but may be effective in lowering total body potassium in the subacute setting.25,39Because sodium polystyrene sulfonate can be constipating, many formulations include sorbitol for its laxative effects. However, case reports linking the concomitant use of sodium polystyrene sulfonate and sorbitol to GI injury prompted a U.S. Food and Drug Administration boxed warning.41,42More recent reports implicate sodium polystyrene sulfonate alone.43Therefore, use of the drug with or without sorbitol should be avoided in patients with or at risk of abnormal bowel function, such as postoperative patients and those with constipation or inflammatory bowel disease.42"
+        },
+        {
+            "parent": 19,
+            "text": "There is no evidence supporting the use of diuretics for the acute treatment of hyperkalemia. However, diuretics, particularly loop diuretics, may play a role in the treatment of some forms of chronic hyperkalemia, such as that caused by hyporeninemic hypoaldosteronism.39,44Fludrocortisone is an option for hyperkalemia associated with mineralocorticoid deficiency, including hyporeninemic hypoaldosteronism.29"
+        },
+        {
+            "parent": 19,
+            "text": "Strategies to prevent chronic hyperkalemia include instructing patients to eat a low-potassium diet, discontinuing or adjusting medications, avoiding nonsteroidal anti-inflammatory drugs, and adding a diuretic if the patient has sufficient renal function."
+        },
+        {
+            "parent": 19,
+            "text": "Data Sources: An Essential Evidence search was conducted. Searches of PubMed, the Cochrane Database of Systematic Reviews, and the National Guideline Clearinghouse were completed using the key terms hypokalemia and hyperkalemia. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Search dates: February, September, and December 2014."
+        }
+    ],
+    "locked": false
+}

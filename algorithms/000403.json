@@ -1,0 +1,84 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2012/1001/p686.html#afp20121001p686-f2",
+    "title": "ACIP Updates Guideline on Influenza Vaccination for 2012–2013 Season | AAFP",
+    "author": "GENEVIEVE RESSEL",
+    "doi": "Am Fam Physician.2012;86(7):686-690",
+    "abstract": null,
+    "headers": [
+        {
+            "id": 0,
+            "name": "Updates",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "VACCINATION IN CHILDREN SIX MONTHS TO EIGHT YEARS OF AGE",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "FEBRILE SEIZURES ASSOCIATED WITH TIV AND PCV13",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "VACCINATION IN PATIENTS WITH EGG ALLERGY",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Guideline source:Advisory Committee on Immunization Practices"
+        },
+        {
+            "parent": -1,
+            "text": "Evidence rating system used?No"
+        },
+        {
+            "parent": -1,
+            "text": "Literature search described?Yes"
+        },
+        {
+            "parent": -1,
+            "text": "Guideline developed by participants without relevant financial ties to industry?Not reported"
+        },
+        {
+            "parent": -1,
+            "text": "Published source:Morbidity and Mortality Weekly Report, August 17, 2012"
+        },
+        {
+            "parent": -1,
+            "text": "Available at:http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6132a3.htm?s_cid=mm6132a3_w"
+        },
+        {
+            "parent": -1,
+            "text": "Endorsed by the AAFP, August 2012.https://www.aafp.org/patient-care/clinical-recommendations/all/endorsed.html"
+        },
+        {
+            "parent": -1,
+            "text": "The Advisory Committee on Immunization Practices (ACIP) of the Centers for Disease Control and Prevention (CDC) has issued its annual guideline on influenza vaccination. This year’s guideline provides information on dosing considerations for children six months to eight years of age, febrile seizures associated with trivalent inactivated vaccine (TIV) and the 13-valent pneumococcal conjugate vaccine (PCV13), and vaccination of persons allergic to eggs."
+        },
+        {
+            "parent": -1,
+            "text": "The 2012-2013 seasonal influenza vaccine contains A/California/7/2009 (H1N1)-like, A/Victoria/361/2011 (H3N2)-like, and B/Wisconsin/1/2010-like (Yamagata lineage) antigens, which differ from the 2011-2012 vaccine. The influenza A (H1N1) vaccine virus strain is derived from an influenza A (H1N1)pdm09 (2009[H1N1]) virus and was included in the 2009(H1N1) monovalent pandemic vaccine, as well as the 2010-2011 and 2011-2012 seasonal vaccines."
+        },
+        {
+            "parent": -1,
+            "text": "To ensure full production of protective antibody levels before influenza activity begins, health care professionals should provide vaccination as soon as the vaccine is available. Annual vaccination is recommended for all persons six months and older.Table 1lists the vaccines available for the 2012-2013 influenza season."
+        },
+        {
+            "parent": 1,
+            "text": "Children six months to eight years of age need two doses of vaccine, administered at least four weeks apart, during their first season for vaccination. For children who last received seasonal influenza vaccine before the 2010-2011 season but did not receive a vaccine containing 2009(H1N1) antigen (i.e., seasonal vaccine since July 2010 or monovalent 2009[H1N1] vaccine), it is recommended that they receive two doses this season, even if they received two doses of seasonal vaccine before the 2010-2011 influenza season(Figure 1). Children in this age group need only one dose of vaccine this year if they received two or more doses of seasonal vaccine since July 1, 2010; two or more doses of seasonal influenza vaccine before July 1, 2010, and one or more doses of monovalent 2009(H1N1) vaccine; or one or more doses of seasonal influenza vaccine before July 1, 2010, and one or more doses of seasonal influenza vaccine since July 1, 2010."
+        },
+        {
+            "parent": 2,
+            "text": "After a report of increased risk of febrile seizure after influenza vaccination in Australia, the CDC and U.S. Food and Drug Administration enhanced monitoring during the 2010-2011 influenza season. In response to the findings in Australia, ACIP does not recommend Afluria for children younger than nine years. Increased risk for febrile seizure was noted in children six months to four years of age on the day of vaccination to the day after. Risk peaked at 16 months of age. The risk was higher when the seasonal influenza and PCV13 vaccines were administered on the same day. No increased risk was observed in children five years and older after vaccination with TIV or in children of any age who received live-attenuated influenza vaccine. Increased risk of febrile seizures in young children in the United States was less than one per 1,000 children vaccinated. No changes in the use of TIV or PCV13 are recommended for the 2012-2013 influenza season."
+        },
+        {
+            "parent": 3,
+            "text": "For patients with a history of egg allergy who have experienced only hives, ACIP recommends vaccination with TIV rather than live-attenuated influenza vaccine, that the vaccine be administered by a health care professional proficient in potential manifestations of egg allergy, and observation for at least 30 minutes after vaccination(Figure 2). Persons who have had reactions to egg proteins that include angioedema, respiratory distress, lightheadedness, or recurrent emesis, or who required epinephrine or other emergency medical intervention, are more likely to have a systemic or anaphylactic reaction to the vaccination. These patients should be referred to a physician with expertise in management of allergic reactions for further risk assessment. A previous severe reaction to the influenza vaccine is a contraindication to future vaccination."
+        }
+    ],
+    "locked": false
+}

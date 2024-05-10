@@ -1,0 +1,107 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2003/1215/p2393.html#afp20031215p2393-f1",
+    "title": "Orthostatic Hypotension | AAFP",
+    "author": "JOHN G. BRADLEY, M.D., AND KATHY A. DAVIS, R.N.",
+    "doi": "Am Fam Physician.2003;68(12):2393-2399",
+    "abstract": "Orthostatic hypotension is a physical finding defined by the American Autonomic Society and the American Academy of Neurology as a systolic blood pressure decrease of at least 20 mm Hg or a diastolic blood pressure decrease of at least 10 mm Hg within three minutes of standing. The condition, which may be symptomatic or asymptomatic, is encountered commonly in family medicine. In healthy persons, muscle contraction increases venous return of blood to the heart through one-way valves that prevent blood from pooling in dependent parts of the body. The autonomic nervous system responds to changes in position by constricting veins and arteries and increasing heart rate and cardiac contractility. When these mechanisms are faulty or if the patient is hypovolemic, orthostatic hypotension may occur. In persons with orthostatic hypotension, gravitational opposition to venous return causes a decrease in blood pressure and threatens cerebral ischemia. Several potential causes of orthostatic hypotension include medications; non-neurogenic causes such as impaired venous return, hypovolemia, and cardiac insufficiency; and neurogenic causes such as multisystem atrophy and diabetic neuropathy. Treatment generally is aimed at the underlying cause, and a variety of pharmacologic or nonpharmacologic treatments may relieve symptoms.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Pathophysiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Differential Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Orthostatic hypotension, which is a physical finding, not a disease, may be symptomatic or asymptomatic.1The American Autonomic Society (AAS) and the American Academy of Neurology (AAN) define orthostatic hypotension as a systolic blood pressure decrease of at least 20 mm Hg or a diastolic blood pressure decrease of at least 10 mm Hg within three minutes of standing up.1[Evidence level C, consensus/expert guidelines] The AAS and AAN also provide a tilt-table definition.1This determination has limited usefulness for the approach outlined in this article and appears to have a high rate of false-positive results.2,3"
+        },
+        {
+            "parent": -1,
+            "text": "Orthostatic hypotension has been observed in all age groups, but it occurs more frequently in the elderly, especially in persons who are sick and frail.4,5It is associated with several diagnoses, conditions, and symptoms, including lightheadedness soon after standing, an increased rate of falls, and a history of myocardial infarction or transient ischemic attack6; it also may be predictive of ischemic stroke.7"
+        },
+        {
+            "parent": 0,
+            "text": "When an adult rises to the standing position, 300 to 800 mL of blood pools in the lower extremities.8,9Maintenance of blood pressure during position change is quite complex; many sensitive cardiac, vascular, neurologic, muscular, and neurohumoral responses must occur quickly.9If any of these responses are abnormal, blood pressure and organ perfusion can be reduced. As a result, symptoms of central nervous system hypoperfusion may occur, including feelings of weakness, nausea, headache, neck ache, lightheadedness, dizziness, blurred vision, fatigue, tremulousness, palpitations, and impaired cognition.1Vertigo also has been reported.10"
+        },
+        {
+            "parent": 0,
+            "text": "When a person moves from a horizontal to a vertical position, muscle contraction in the legs and abdomen compresses veins. Because veins are equipped with one-way valves, normally blood is moved back to the heart to counter the gravitational tendency for blood to pool, and the veins constrict. In euvolemic persons, extra blood is held in the venous system, providing an additional reservoir of compensatory blood volume."
+        },
+        {
+            "parent": 0,
+            "text": "The autonomic nervous system plays an important role in maintaining blood pressure when a person changes position. The sympathetic nervous system adjusts the tone in arteries, veins, and the heart. Baroreceptors located primarily in the carotid arteries and aorta are exquisitely sensitive to changes in blood pressure. When the baroreceptors sense the slightest drop in pressure, a coordinated increase in sympathetic outflow occurs. Arteries constrict to increase peripheral resistance and blood pressure, and heart rate and contractility increase. All of these responses are aimed at maintaining blood pressure and perfusion.9,11Other physiologic mechanisms may be involved, including low-pressure receptors in the heart and lungs, the renin-angiotensin-aldosterone system, vasopressin, and the systemic release of norepinephrine.9,11,12"
+        },
+        {
+            "parent": 0,
+            "text": "Normally, when a person moves to an upright position, blood pressure and heart rate change so quickly that continuous electronic monitoring is required to detect the differences,9and ordinary clinical observations lag behind the physiologic changes. The line between normal and pathologic changes in blood pressure and heart rate is not easy to define clinically. Although heart rate measurement is not included in the AAS/AAN definition of orthostatic hypotension, it can be determined easily and may be helpful, especially in patients who do not meet the blood pressure criteria of orthostatic hypotension. An elevation in heart rate that occurs when a patient moves from recumbency to standing may indicate compensation for decreased stroke volume. However, clinical decisions should be guided more by symptoms of decreased cerebral perfusion than by absolute blood pressure or heart rate measurements.13,14"
+        },
+        {
+            "parent": 0,
+            "text": "A discussion of the pathophysiology of each reported cause of orthostatic hypotension is beyond the scope of this article, but a few comments are important. In general, all parts of the cardiovascular and nervous systems must work together. If there is inadequate intravascular volume, impairment of the autonomic nervous system, reduction of venous return, or inability of the heart to beat more rapidly or with greater power, orthostatic hypotension may result."
+        },
+        {
+            "parent": 1,
+            "text": "Orthostatic hypotension can be classified as neurogenic, non-neurogenic, or iatrogenic (e.g., caused by medication).12,15An algorithm to guide evaluation is given inFigure 1. Some of the etiologies of orthostatic hypotension are shown inTable 1.11–13,15Clinical clues to help direct the evaluation are given inTables 2and3.1,11,15,16"
+        },
+        {
+            "parent": 1,
+            "text": "Although measurements for orthostatic hypotension are not part of the standard physical examination, they should be taken if a patient's history suggests symptoms of cerebral hypoperfusion or a disease associated with orthostatic hypotension. Because orthostatic hypotension may be symptomatic or asymptomatic, symptoms and blood pressure measurements should be considered."
+        },
+        {
+            "parent": 1,
+            "text": "Diseases not related to orthostatic hypotension can cause similar symptoms (e.g., lightheadedness, dizziness). If a patient has posturally induced symptoms without blood pressure changes, the physician should consider other conditions. If a patient has posturally induced symptoms and a decrease in blood pressure but does not meet the strict definition for orthostatic hypotension, the physician still should consider orthostatic hypotension as a possible problem."
+        },
+        {
+            "parent": 1,
+            "text": "When the cause of orthostatic hypotension (e.g., hemorrhage, profound volume loss) is not immediately obvious, medications, the most common cause of orthostatic hypotension, should be considered before other etiologies. If symptoms appeared shortly after a medication reached steady state, it is likely that the medication is the cause. If the medication was started some time before the symptoms began, it may not be fully responsible (although it may play a part in the development of symptoms)."
+        },
+        {
+            "parent": 1,
+            "text": "For example, after starting a medication, a patient may develop an illness that causes orthostatic hypotension, or a patient may have a condition that causes mild or asymptomatic orthostatic hypotension that becomes symptomatic when a new medication is added. If the patient is taking a potentially causative medication, the drug should be discontinued if possible. If it is not possible to stop the medication, other causes might be considered; it also may be necessary to treat the orthostatic hypotension pharmacologically or by some other method(Table 4).8,12–15"
+        },
+        {
+            "parent": 1,
+            "text": "If medication does not appear to be fully or partly responsible for a patient's symptoms, non-neurogenic etiologies should be considered, and intravascular volume should be determined. If a patient is volume-depleted, hydration may improve symptoms; if a patient is euvolemic, other non-neurogenic causes should be considered. The patient's history and physical examination should direct further evaluation."
+        },
+        {
+            "parent": 1,
+            "text": "If medication and non-neurogenic etiologies are ruled out, neurogenic causes should be considered, using the patient's history and physical examination to direct the evaluation. Many of the neurogenic etiologies of orthostatic hypotension are difficult to diagnose and treat, and neurologic consultation may be necessary. Although it is not part of the formal definition of orthostatic hypotension, the absence of a significant increase in heart rate along with a significant postural decrease in blood pressure may suggest an autonomic cause.13"
+        },
+        {
+            "parent": 1,
+            "text": "The evaluation and management of orthostatic hypotension must be carried out in the context of the patient's unique clinical circumstances. In some patients, stopping a medication may cause more harm than benefit if the hypotension symptoms are mild."
+        },
+        {
+            "parent": 1,
+            "text": "Orthostatic hypotension may have more than one cause; a patient with mild neurogenic orthostatic hypotension who becomes dehydrated or starts taking a new medication could develop symptomatic orthostatic hypotension. Because orthostatic hypotension is associated with several other morbidities, its diagnosis or onset should prompt the physician to consider other conditions, especially if the patient is elderly."
+        },
+        {
+            "parent": 2,
+            "text": "The first steps in treatment of orthostatic hypotension are diagnosis and management of the underlying cause. A patient with symptomatic orthostatic hypotension who has a disease with no complete or specific cure may benefit from nonpharmacologic interventions. Increasing salt and fluid intake often is an initial step, although it may be difficult to undertake in some patients, such as those with severe congestive heart failure. Nonsteroidal anti-inflammatory drugs can be used to increase intravascular volume."
+        },
+        {
+            "parent": 2,
+            "text": "The mineralocorticoid fludrocortisone (Florinef) may be used in some patients to expand intravascular volume.8,13–15This agent should be used judiciously; in addition to the risk of volume overload, many patients taking fludrocortisone also develop hypokalemia or hypomagnesemia. Additional side effects of this medication include headache, edema, weight gain, and supine hypertension.14,15"
+        },
+        {
+            "parent": 2,
+            "text": "Midodrine (ProAmitine), a vasoconstrictor, is effective in some cases of orthostatic hypotension.17[Evidence level A, randomized controlled trial] The most common side effects are pupillary dilation, piloerection, paresthesias, and pruritus. Midodrine also can cause supine hypertension.14,15"
+        },
+        {
+            "parent": 2,
+            "text": "Erythropoietin has been used to treat autonomic failure associated with decreased red cell mass or anemia.18The goal is to bring the hematocrit level within the normal range. Increased appetite is a common side effect, along with an increased sense of well-being.14,15"
+        }
+    ],
+    "locked": false
+}

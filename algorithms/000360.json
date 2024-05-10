@@ -1,0 +1,148 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2013/1201/p762.html#afp20131201p762-f6",
+    "title": "Onychomycosis: Current Trends in Diagnosis and Treatment | AAFP",
+    "author": "DYANNE P. WESTERBERG, DO, AND MICHAEL J. VOYACK, DO",
+    "doi": "Am Fam Physician.2013;88(11):762-770",
+    "abstract": "Onychomycosis is a fungal infection of the nails that causes discoloration, thickening, and separation from the nail bed. Onychomycosis occurs in 10% of the general population, 20% of persons older than 60 years, and 50% of those older than 70 years. It is caused by a variety of organisms, but most cases are caused by dermatophytes. Accurate diagnosis involves physical and microscopic examination and culture. Histologic evaluation using periodic acid–Schiff staining increases sensitivity for detecting infection. Treatment is aimed at eradication of the causative organism and return to a normal appearance of the nail. Systemic antifungals are the most effective treatment, with meta-analyses showing mycotic cure rates of 76% for terbinafine, 63% for itraconazole with pulse dosing, 59% for itraconazole with continuous dosing, and 48% for fluconazole. Concomitant nail debridement further increases cure rates. Topical therapy with ciclopirox is less effective; it has a failure rate exceeding 60%. Several nonprescription treatments have also been evaluated. Laser and photodynamic therapies show promise based on in-vitro evaluation, but more clinical studies are needed. Despite treatment, the recurrence rate of onychomycosis is 10% to 50% as a result of reinfection or lack of mycotic cure.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Microbiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Classification",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "ORAL AZOLES AND ALLYLAMINES",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "TOPICAL AGENTS",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "PHYSICAL TREATMENTS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "Treatment Failure",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Onychomycosis is a fungal infection of the fingernails or toenails that causes discoloration, thickening, and separation from the nail bed. Onychomycosis occurs in 10% of the general population but is more common in older adults; the prevalence is 20% in those older than 60 years and 50% in those older than 70 years.1The increased prevalence in older adults is related to peripheral vascular disease, immunologic disorders, and diabetes mellitus. The risk of onychomycosis is 1.9 to 2.8 times higher in persons with diabetes compared with the general population.2In patients with human immunodeficiency virus infection, the prevalence ranges from 15% to 40%.3"
+        },
+        {
+            "parent": -1,
+            "text": "Onychomycosis affects toenails more often than fingernails because of their slower growth, reduced blood supply, and frequent confinement in dark, moist environments. It may occur in patients with distorted nails, a history of nail trauma, genetic predisposition, hyperhidrosis, concurrent fungal infections, and psoriasis. It is also more common in smokers and in those who use occlusive footwear and shared bathing facilities.1,4"
+        },
+        {
+            "parent": 0,
+            "text": "Onychomycosis is caused by various organisms, most often dermatophytes of the genusTrichophyton. Other organisms includeCandida, which is more common in fingernail infections(eFigure A)and in patients with chronic mucocutaneous candidiasis.1Nondermatophyte molds are a less common cause in the general population. Recent studies, however, have demonstrated that they are the predominant organisms in patients with onychomycosis and human immunodeficiency virus infection3(eTable A)."
+        },
+        {
+            "parent": 1,
+            "text": "Onychomycosis is divided into several classes based on morphologic patterns and mode of invasion of the nail(Table 1).5Classification provides a framework for diagnosis and expected response to treatment, and can help predict the prognosis. The classes include distal and lateral subungual onychomycosis(Figures 1and2), proximal subungual onychomycosis(Figure 3), superficial onychomycosis(Figure 4), and total dystrophic onychomycosis(Figure 5). A fifth class, endonyx subungual onychomycosis, is rare. Some nails have features from a combination of classes."
+        },
+        {
+            "parent": 2,
+            "text": "Accurate diagnosis is crucial for successful treatment and requires identification of physical changes and positive laboratory analysis. Only 50% of nail problems are caused by onychomycosis,6and clinical diagnosis by physical examination alone can be inaccurate. Psoriasis, chronic nail trauma, and other causes must also be considered. The differential diagnosis of onychomycosis is presented inTable 2,7and an algorithm outlining a suggested diagnostic approach is shown inFigure 6."
+        },
+        {
+            "parent": 2,
+            "text": "Laboratory analysis involves evaluation of nail clippings and subungual debris from the involved portion of the nail. Samples should be collected after cleansing the area with 70% isopropyl alcohol to prevent contamination. Clippings should be obtained with a sterile nail clipper or curette, and subungual debris using a No. 15 surgical blade or a 2-mm curette. To improve accuracy, eight to 10 nail shards should be collected.8Diagnostic precision is enhanced if the sample is collected with a nail drill9and if it is taken from a more proximal location on the nail in patients with suspected distal and lateral onychomycosis.10In those with suspected proximal subungual onychomycosis, the upper nail plate of the proximal nail is debrided, and underlying debris is collected. In those with suspected superficial onychomycosis, the superficial aspect of the nail is scraped."
+        },
+        {
+            "parent": 2,
+            "text": "Once the specimen has been obtained, office microscopy can be performed by preparing the samples with potassium hydroxide (KOH) 10% to 20% solution. The KOH will dissolve keratin, leaving the fungal cell intact. The specimen should be placed on a slide with a drop of KOH solution, then set aside at room temperature for five to 30 minutes; heating the slide or adding a dimethyl sulfide 40% solution will enhance keratin dissolution.11Commercial laboratories may use KOH with calcofluor white stain, which binds to cellulose and enhances the fungal components in fluorescent microscopy.11"
+        },
+        {
+            "parent": 2,
+            "text": "Identification of hyphae, pseudohyphae, or spores confirms infection but does not identify the organism. To identify the organism, culture can be performed in a laboratory.12Samples should be sent in a sterile container, and results are usually available in four to six weeks. Histologic evaluation can also be helpful for identification of the organism, and it can provide results within 24 hours. Periodic acid–Schiff (PAS) staining and methenamine silver stains are used. PAS staining is less expensive,13and in a study of 1,146 nail clippings comparing PAS histologic examination with KOH light microscopy and culture, PAS staining was the most sensitive test (82% sensitivity, compared with 53% for culture and 48% for KOH microscopy).14Combining PAS staining with culture increased sensitivity to 96%. In a review of cases in which treatment was initiated before specimens were obtained, PAS staining had the highest sensitivity, and culture had the least.14"
+        },
+        {
+            "parent": 2,
+            "text": "Polymerase chain reaction testing has been shown to be more accurate than culture, and results can be available in three days. However, it is not yet widely available.15,16"
+        },
+        {
+            "parent": 3,
+            "text": "Onychomycosis is widely believed to be only a cosmetic problem, but it can be uncomfortable and can lead to cellulitis in older adults17and foot ulcers in patients with diabetes.18Eradication of the infection is key to improving appearance and avoiding these complications, but it is not easily accomplished because nails are made of keratin, which is nonvascular and impermeable to many agents.19Because of poor drug delivery to nails, results of treatment may not be apparent for a year."
+        },
+        {
+            "parent": 3,
+            "text": "Treatment varies depending on the severity of nail changes, the organism involved, and concerns about adverse effects and drug interactions. Treatments also have varying effectiveness, based on cure parameters that are defined differently among studies. Mycotic cure denotes that no organism is identified on microscopy and culture. Clinical cure refers to improvement in the appearance of the nail, often defined as a normal appearance in 80% to 100% of the nail. It is a subjective measure that is difficult to compare across studies.20Complete cure indicates that mycotic and clinical cure have been achieved."
+        },
+        {
+            "parent": 4,
+            "text": "Antifungals from the azole and allylamine classes are the most widely used oral medications for the treatment of onychomycosis. The azole class includes itraconazole (Sporanox), fluconazole (Diflucan), and ketoconazole; however, ketoconazole is rarely prescribed because of drug interactions and hepatotoxicity. The allylamine class is represented by terbinafine (Lamisil). These medications and their dosing regimens are shown inTable 3.21–27"
+        },
+        {
+            "parent": 4,
+            "text": "A meta-analysis of treatments for toenail onychomycosis determined that mycotic cure rates were 76% for terbinafine, 63% for itraconazole with pulse dosing, 59% for itraconazole with continuous dosing, and 48% for fluconazole.23Clinical cure rates were 66% for terbinafine, 70% for itraconazole with pulse dosing, 70% for itraconazole with continuous dosing, and 41% for fluconazole. Common adverse effects included headache, gastrointestinal problems, and rash; these drugs also have been associated with Stevens-Johnson syndrome, prolonged QT interval, and ventricular dysfunction. The use of these agents is discouraged in patients with liver, renal, or heart disease, and in those receiving medications with which there may be significant drug-drug interactions.25Liver function studies are recommended before beginning treatment and after one month of therapy.24A meta-analysis concluded that the risk of asymptomatic elevation of transaminase levels in immunocompetent patients receiving oral antifungal agents was 2%, and that the risk of elevations requiring termination of therapy was 1%.28Although these medications are not approved for use in children, they have been used in children with positive results.29"
+        },
+        {
+            "parent": 5,
+            "text": "Several topical agents are used for the treatment of onychomycosis. These agents have few contraindications and no drug-drug interactions."
+        },
+        {
+            "parent": 5,
+            "text": "Ciclopirox 8% solution is the only topical prescription medication available in the United States for the treatment of onychomycosis. It is a synthetic hydroxypyridine antifungal formulated as a nail lacquer. Adverse effects include burning, itching, and stinging at the application site.30It may be used in patients who cannot take oral antifungals and in those with less than 50% of the distal nail affected and no lunular involvement.21It has been used in children, although it is not approved for use in patients younger than 12 years.29When used alone, ciclopirox has a mycotic cure rate of 29% to 36%, and a clinical cure rate of 6% to 9%.21A Cochrane review noted that the treatment failure rate was 61% to 64% after 48 weeks of use.31"
+        },
+        {
+            "parent": 5,
+            "text": "Ciclopirox has also been used in combination with oral agents to improve effectiveness. In one comparative study, a combination of ciclopirox and oral terbinafine had a mycotic cure rate of 88% and a complete cure rate of 68%, whereas terbinafine alone had a mycotic cure rate of 65% and a complete cure rate of 50%.32"
+        },
+        {
+            "parent": 5,
+            "text": "Nonprescription agents have also been used for treatment of onychomycosis(Table 4).31,33–38These therapies have been evaluated in only a small number of studies involving few patients. Topical mentholated ointment (Vicks Vaporub) was used in a small study involving 18 patients.37After 48 weeks, 28% had mycotic and clinical cure, 56% had partial clearance, and 17% had no improvement. Tea tree oil (Melaleuca alternifolia) has been evaluated in two studies. Although one trial was favorable, combined data from both studies did not demonstrate significant benefit.29,36Snakeroot extract (Ageratina pichinchensis) is an antifungal derived from plants of the sunflower family. It was studied in a randomized trial involving 96 patients who applied the extract or ciclopirox for six months to nails with confirmed infections.33Mycotic cure occurred in 59% of patients receiving the extract and in 64% of those receiving ciclopirox. Clinical cure occurred in 71% and 81% of patients, respectively. Differences between the two treatments were not statistically significant. A small study showed that a combination of cyanoacrylate, undecylenic acid, and hydroquinone (marketed as Renewed Nail) demonstrated mycotic cure in 78 of 154 participants (50%).34"
+        },
+        {
+            "parent": 6,
+            "text": "Nail trimming and debridement are often performed concomitantly with other treatments and appear to offer benefit. Study groups that received nail debridement with oral terbinafine had higher clinical cure rates than those who received oral terbinafine alone.39When debridement was performed with concurrent administration of ciclopirox, the mycotic cure rate was 77%, higher than that for ciclopirox alone.22Improvement in nail appearance was reported, but clinical cure rates were not."
+        },
+        {
+            "parent": 6,
+            "text": "Although they are expensive, laser and photodynamic therapies have become popular based on the success of in-vitro studies. Several neodymium:yttrium-aluminum-garnet (Nd:YAG) laser therapies have been approved by the U.S. Food and Drug Administration for treatment of onychomycosis.40The Pinpointe Foot-laser, Cutera GenesisPlus laser, and Cooltouch Varia laser are short-pulse laser systems, whereas the Light Age Q-Clear laser is a Q-switched laser. However, there are only limited data about the use of these therapies in patients. In one study, Nd:YAG laser light was used to treat 37 nails, with one to three treatments given four to eight weeks apart. At 16 weeks, 61% were completely cured, 19% had significant improvement in the nail appearance, and 11% had moderate improvement in the nail appearance.38"
+        },
+        {
+            "parent": 6,
+            "text": "Another laser treatment, the dual-wavelength near-infrared laser (Noveon), is approved for dermatologic use, but not specifically for treatment of onychomycosis.41This treatment was used on 26 nails on days 1, 14, 42, and 120. After 180 days, 91% of nails with mild infection showed clinical improvement (3 to 4 mm of the nail free of clinical infection); however, only 30% had mycotic cure.42"
+        },
+        {
+            "parent": 6,
+            "text": "Photodynamic therapy using photosensitizing drugs and light to destroy fungal cells has shown some success in the treatment of onychomycosis, but further evaluation is needed.43"
+        },
+        {
+            "parent": 7,
+            "text": "Despite the number of available treatments, not all patients with onychomycosis are cured. Numerous factors have been cited to explain the lack of response to therapy, such as nonadherence to treatment, incorrect diagnosis, or advanced disease. Factors contributing to poor response or nonresponse to treatment are listed ineTable B."
+        },
+        {
+            "parent": 7,
+            "text": "For those who appear to be cured, recurrent infection is a risk, with a number of factors increasing the chance of recurrence. Risk factors include concomitant disease, genetic factors, immunosuppression, incorrect dosing or duration of treatment, moisture, occlusive footwear, older age, poor hygiene, tinea pedis, and trauma.44Recurrence can be caused by lack of mycotic cure or reinfection, and the reported rate of clinical recurrence of onychomycosis ranges from 10% to 53%, regardless of the treatment method used.45Many patients tire of continued unsuccessful treatments or recurrences, and ultimately elect to undergo permanent nail removal."
+        },
+        {
+            "parent": 7,
+            "text": "Data Sources:A PubMed search was performed using the term onychomycosis combined with prevalence, classification, diagnosis, and treatment. The search included meta-analyses and systematic reviews, including those from the Cochrane database. The initial search strategy was supplemented by searches for randomized controlled trials of specific treatments identified during the review of meta-analyses and systematic reviews. Search date: March 2012."
+        }
+    ],
+    "locked": false
+}

@@ -1,0 +1,123 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2023/0400/outpatient-management-of-covid-19.html#afp20230400p370-f1",
+    "title": "Outpatient Management of COVID-19: Rapid Evidence Review | AAFP",
+    "author": "ANTHONY M. CHENG, MD, EMILY DOLLAR, MD, AND HEATHER ANGIER, PhD, MPH",
+    "doi": "Am Fam Physician.2023;107(4):370-381",
+    "abstract": "New COVID-19 variants of concern continue to develop. Incubation period, transmissibility, immune escape, and treatment effectiveness differ by variants of concern. Physicians should be aware that the characteristics of the predominant variants of concern determine aspects of diagnosis and treatment. Multiple testing modalities exist; the most appropriate testing strategy varies depending on the clinical scenario, with factors of test sensitivity, turnaround time, and the expertise required for specimen collection. Three types of vaccines are available in the United States, and all people six months and older should be encouraged to receive one because vaccination is effective in reducing the incidence of and hospitalizations and deaths associated with COVID-19. Vaccination may also reduce the incidence of post-acute sequelae of SARS-CoV-2 infection (i.e., long COVID). Consider medications, such as nirmatrelvir/ritonavir, as first-line treatment for eligible patients diagnosed with COVID-19 unless logistical or supply constraints occur. National Institutes of Health guidelines and local health care partner resources can be used to determine eligibility. Long-term health effects of having COVID-19 are under investigation.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Epidemiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Prevention",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "SIGNS AND SYMPTOMS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "DIAGNOSTIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Treatment",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "DETERMINING OUTPATIENT DISPOSITION",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "SUPPORTIVE CARE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "ANTIVIRAL THERAPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "MONOCLONAL ANTIBODIES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "Prognosis",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "This article summarizes the prevention, diagnosis, and treatment of COVID-19, with a particular emphasis on outpatient management."
+        },
+        {
+            "parent": 0,
+            "text": "COVID-19 is caused by an enveloped single-stranded RNA novel coronavirus, SARS-CoV-2. To date, several variants of concern (i.e., Alpha, Beta, Delta, Gamma, and Omicron) have emerged because of viral mutations, and additional variants will likely continue to emerge.1The incidence of COVID-19 in the United States varies geographically. For up-to-date information about cases, deaths, hospitalizations, and vaccinations, see national data trackers (e.g.,https://covid.cdc.gov/covid-data-tracker/#data-tracker-home[updated daily]).The prevalence of COVID‐19 for patients testing positive if they have symptoms of illness varies from 5% to 38% (median = 17%).2Spread from asymptomatic infected persons and airborne transmission (not just on respiratory droplets) contributes to the high incidence and prevalence of SARS-CoV-2 infections.3Racial and ethnic minorities experience higher rates of COVID-19 and consequently more hospitalizations and deaths compared with non-Hispanic White populations in the United States. These disparities are likely due to increased exposure, economic inequities, and lack of health care access.4The effective reproduction number (infections per index case) of the Omicron variant was 2.7 times higher than the Delta variant.5As a result, transmission increased eight- to 10-fold compared with the ancestral strain among children from birth to three years of age during the Omicron variant's phase.6Reinfection rates also increased.7,8Mean incubation periods were shorter for the Omicron vs. Alpha variant (approximately three days compared with almost five days, respectively).9"
+        },
+        {
+            "parent": 1,
+            "text": "Vaccination was effective in reducing incidence of COVID-19 early in the pandemic and continues to be effective at preventing severe illness, hospitalization, and death.10Three types of vaccines against SARS-CoV-2 are available in the United States: two mRNA vaccines, an adenovirus vector, and a new protein subunit vaccine11–16(eTable A). The mRNA vaccines are preferred over the adenovirus vector vaccine because of rare serious and potentially life-threatening clotting events, particularly among women who are 18 to 49 years of age, associated with the adenovirus vector.16During the Omicron variant wave, receiving two or three doses of an mRNA COVID-19 vaccine was associated with a 90% reduction in risk for COVID-19–associated invasive mechanical ventilation or death17(Table 111–23); however, protection against symptomatic infection wanes rapidly. The clinical effectiveness of the bivalent mRNA vaccine is not yet known; clinical trials are underway. Clinical trials are also underway for the new NVX-CoV2373 (Novavax) vaccine for the Omicron variant.20COVID-19 vaccination is recommended during pregnancy because of the risks of pregnancy complications associated with COVID-19 and the absence of data suggesting potential harm.24One recent systematic review demonstrated reduced infection and hospitalization in pregnant patients who had been vaccinated, with no adverse perinatal, fetal, or neonatal outcomes.25Quarantining has been effective in reducing COVID-19 incidence and mortality, and combining quarantine with other public health measures (e.g., travel restrictions, mandated social distancing) increased effectiveness.26However, with widespread immunization and improved treatments, quarantine is no longer recommended for people who have been exposed to COVID-19.27Mask mandates have proven effective in reducing COVID-19 incidence.28One study found a 23% lower incidence of COVID-19 in school districts with mask mandates compared with those without.29The American Academy of Family Physicians supports the use of high-quality face masks to prevent transmission of COVID-19.30Stay-at-home orders early in the pandemic reduced morbidity and decreased COVID-19 incidence and deaths.31"
+        },
+        {
+            "parent": 2,
+            "text": "The diagnosis of COVID-19 is made clinically and is supported by laboratory results and radiographic findings. COVID-19 should be suspected in patients with symptoms, close contact with known cases, or in the setting of active SARS-CoV-2 transmission in the community.32SARS-CoV-2 infection is possible after recent vaccination, and postvaccination symptoms should not be attributed to vaccine adverse effects without considering new diagnosis of SARS-CoV-2 infection.33The differential diagnosis for COVID-19 pneumonia includes the following32:○ Other viral upper and lower respiratory tract infection○ Influenza○ Community-acquired pneumonia (bacterial or viral)○ Streptococcal pharyngitis○ Acute pulmonary edema○ Chronic obstructive pulmonary disease exacerbation○ Hantavirus pulmonary syndrome○ Interstitial lung disease○ Opportunistic pulmonary infection○ Pulmonary embolism"
+        },
+        {
+            "parent": 3,
+            "text": "The most common presenting symptoms of patients who have COVID-19 include pharyngitis, cough, fatigue, and headache.34,35More than 90 different symptoms of COVID-19 have been reported, and their prevalence has changed with different variants of concern.2Symptoms include fever, myalgias, headache, rhinorrhea, chest pain/tightness, shortness of breath or difficulty breathing, and diarrhea.34–36Patients may have a wide range of symptoms representing a spectrum of mild to severe illness.Predictors of severe disease include increasing age, comorbidities, myocardial injury, low platelet count, and high levels of C-reactive protein.32,37The diagnostic value of common symptoms of COVID-19 is highly variable. In variants in early 2020, cough (62.4%), fever (37.6%), and sore throat (31.0%) were the most sensitive, whereas the symptoms best at ruling in COVID-19 when present were anosmia or ageusia (positive likelihood ratio [LR+] = 5.0), anosmia alone (LR+ = 4.6), or ageusia alone (LR+ = 3.1). Anosmia and ageusia have become less frequent and sore throat more frequent since emergence of the Omicron variant.38Multisystem inflammatory syndrome is a rare but serious complication of SARS-CoV-2 in children. Signs include prolonged fever, rash, conjunctivitis, and clinically severe illness with multiorgan involvement, including gastrointestinal and cardiac systems. Central nervous system involvement has been reported. The diagnosis is supported by laboratory confirmation of inflammation, evidence of recent SARS-CoV-2 infection or exposure, and no other obvious microbial cause of inflammation.39,40"
+        },
+        {
+            "parent": 4,
+            "text": "All individuals who have suspected SARS-CoV-2 infection or known exposure should be tested. Testing can also be considered before an indoor event or gathering, especially one involving immunocompromised or unvaccinated people.41Multiple testing modalities are available for COVID-1942–44(Table 245). When deciding which testing modality to use, physicians should consider setting, type of sample, turnaround time, and pretest probability.Antibody testing should be reserved for epidemiologic purposes.46Testing asymptomatic people after an exposure is recommended based on the median viral incubation period, about three days with the Omicron variant."
+        },
+        {
+            "parent": 5,
+            "text": "All patients should be assessed for treatment eligibility(Figure 147–52). Therapies are prioritized for those at highest risk of progression to severe disease.53Symptom management is indicated for patients who do not meet criteria for drug therapy.54Individuals diagnosed with COVID-19 should receive education about isolating, separating from other people at home, and avoiding travel and public transportation. Individuals should also tell close contacts that they may have been exposed to COVID-19.55Current treatment approaches, including eligibility criteria, are curated by the National Institutes of Health.54Recommended treatments may vary depending on their effectiveness against the predominant variant of concern.Current first-line therapies are oral nirmatrelvir/ritonavir (Paxlovid) and injectable remdesivir (Veklury), and second-line treatment is molnupiravir (Lagevrio);Table 3provides more information.56–64The American Academy of Family Physicians advises against all non–U.S. Food and Drug Administration-approved treatments, such as hydroxychloroquine, colchicine (Colcrys), lopinavir/ritonavir, and ivermectin (Stromectol).65–68Systemic corticosteroids are not recommended for outpatients or for hospitalized patients who do not require supplemental oxygen.54The World Health Organization recommends that infants born to patients with COVID-19 not be separated from their mothers and that these mothers initiate and continue breastfeeding because the risk of separation is greater than the risk of transmission.69"
+        },
+        {
+            "parent": 6,
+            "text": "The appropriate disposition of patients with symptomatic COVID-19 can be guided by vital signs, physical examination findings, respiratory rate, oxygen saturation, social considerations, and risk factors,47–50,70as outlined inFigure 1.47–52The Lehigh Outpatient COVID Hospitalization (LOCH) risk score (https://ebell-projects.shinyapps.io/LehighRiskScore/) can be used to predict the risk of hospitalization based on age, comorbidities, and the presence of dyspnea. It has been validated during the Omicron variant phase.71Consider referral to the emergency department for further evaluation in patients who are high risk and selectively among moderate-risk patients. There should be a low threshold for in-person evaluation of older people and those with high-risk medical conditions."
+        },
+        {
+            "parent": 7,
+            "text": "Approximately 80% of patients with COVID-19 have mild illness not requiring medical intervention or hospitalization.32Consider home monitoring respiratory rate and/or oxygen saturation in patients who are assessed to be at risk for severe disease or who are at moderate risk using the LOCH score.Moderate-risk patients should be instructed to seek medical care immediately if they develop any of the following:○ Trouble breathing or shortness of breath○ Persistent pain or pressure in the chest○ New confusion○ Inability to wake or stay awake○ Pale, gray- or blue-colored skin, lips, or nail beds, depending on skin tone○ Any symptoms that are severe or concerningSelf-care includes staying hydrated, resting, and taking over-the-counter medications, such as acetaminophen.47,54"
+        },
+        {
+            "parent": 8,
+            "text": "Antiviral treatments for use in the outpatient setting include oral treatments, nirmatrelvir/ritonavir or molnupiravir, as well as injectable remdesivir.Nirmatrelvir/ritonavir taken orally is the recommended first-line treatment and is shown to reduce the risk of progression to severe COVID-19 by 89% in unvaccinated patients if prescribed within five days of symptom onset.72A recent study confirmed the benefit of nirmatrelvir/ritonavir in older vaccinated patients.73Dysgeusia and diarrhea are known adverse effects.○ Modifications to drug therapy (e.g., statins) are required because of metabolism by cytochrome P450 3A4. Dose adjustment is required in patients with moderate renal impairment (estimated glomerular filtration rate of 30 mL or more to less than 60 mL per minute per 1.73 m2). Nirmatrelvir/ritonavir is not recommended for use in patients with severe renal impairment (estimated glomerular filtration rate less than 30 mL per minute per 1.73 m2) or with severe hepatic impairment (Child-Pugh Class C).58○ Nirmatrelvir/ritonavir should be considered for pregnant patients with mild to moderate symptoms, particularly if one or more additional risk factors are present.56There are no available human data on the use of nirmatrelvir during pregnancy. The mechanism of action and the results of animal studies suggest that nirmatrelvir/ritonavir can be used safely in pregnancy.56Ritonavir has been used extensively during pregnancy in people who have HIV.74Breastfeeding is not a contraindication for use of nirmatrelvir/ritonavir.Remdesivir administered intravenously over three days is considered an alternative to nirmatrelvir/ritonavir. Studies showed an 87% lower risk of hospitalization or death than placebo among nonhospitalized patients at high risk of severe disease.64Remdesivir is the only antiviral treatment approved for children 12 years or younger or weighing at least 3.5 kg (7.7 lb) to 40 kg (88 lb), although there is insufficient evidence to recommend routine use in children younger than 12 years.75In adults with mild or moderate symptomatic COVID-19 who are older than 60 years or who have a risk factor for severe disease, the risk of hospitalization or death was significantly reduced with molnupiravir, with a number needed to treat of 33.62,63It is well tolerated, but the risk of mutagenesis limits its acceptability. Pregnant patients are ineligible. People with childbearing potential should be advised to use contraception or practice abstinence during therapy and the four days following therapy. Individuals with reproductive potential who are sexually active with individuals of childbearing potential should abstain from sex or use a reliable method of contraception for at least three months after the last dose. Similar to the primary study of nirmatrelvir/ritonavir, the randomized trial included only unvaccinated patients.62"
+        },
+        {
+            "parent": 9,
+            "text": "Monoclonal antibody treatments directed against the spike protein have been effective in the past but are not effective with current variants of concern.47,70Monoclonal treatments benefit from fewer drug-drug interactions and effectiveness when administered within seven days of symptom onset; however, they must be intravenously administered.There are insufficient data to evaluate the risks of monoclonal antibodies in people who are pregnant or breastfeeding.76Preexposure prophylaxis with tixagevimab/cilgavimab (Evusheld) has been given to those with compromised immune systems not expected to develop antibodies after vaccination, but the drug is not effective against current variants of concern.77"
+        },
+        {
+            "parent": 10,
+            "text": "Hospitalization rates of patients with the Omicron variant ranged from 3.2 per 100,000 among people 12 to 34 years of age who have been vaccinated to 233.3 per 100,000 of those 66 years and older who are unvaccinated(Table 4).78The infection fatality ratio from COVID-19 has been estimated to range from 0.002% for those nine years or younger to 9.3% for those 80 years and older.79The mRNA vaccines are highly effective in preventing hospitalizations and reducing disease severity and mortality.78,80,81Predictors of mortality and/or severe disease include age older than 50 years, several comorbidities, and examination and laboratory findings71,82(Table 582).Pregnant patients with COVID-19 are at risk for more serious illness, as well as adverse pregnancy and neonatal outcomes.83The risk of severe COVID-19 infection in pregnancy is higher in patients who have diabetes mellitus, obesity, preeclampsia, or a history of smoking.84There is some evidence of vertical transmission of COVID-19, although the risk is still poorly understood.83,85Acute complications of COVID-19 with high likelihood include cardiovascular complications, thrombosis, acute kidney injury, and post-intensive care syndrome for those treated in the intensive care unit.86The long-term health effects of COVID-19 are under investigation. One large U.S. Department of Veterans Affairs study found substantial long-term (12 months and beyond) cardiovascular risks associated with COVID-19 (e.g., dysrhythmias, inflammatory heart disease, heart failure, thromboembolic disease).87Post-acute sequelae of SARS-CoV-2 infection (i.e., long COVID) is a common complication of COVID-19; the duration of these symptoms varies, and the ultimate prognosis is as yet unknown for many patients.88–90Those hospitalized had much higher rates (73% to 93%) than those who were not hospitalized (23%).89,91Studies suggest that vaccination before SARS-CoV-2 infection reduces the risk of subsequent long COVID.92,93Risk of long COVID increased in patients with older age, allergies, or an increasing number of comorbidities.94Fatigue was the most common persistent issue, with shortness of breath for those who were hospitalized and anosmia for those who were not hospitalized.95"
+        },
+        {
+            "parent": 10,
+            "text": "This article updates a previous article on this topic byCheng, et al.96"
+        },
+        {
+            "parent": 10,
+            "text": "Data Sources:Search terms included COVID, COVID-19, and SARS-CoV-2. A literature review was performed using PubMed, Essential Evidence Plus, and the COVID-19 daily research briefs on theAmerican Family Physicianwebsite. Search dates: March 2022 through February 2023."
+        }
+    ],
+    "locked": false
+}

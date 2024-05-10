@@ -1,0 +1,189 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2007/0701/p76.html#afp20070701p76-f1",
+    "title": "Evaluation of Nausea and Vomiting | AAFP",
+    "author": "KEITH SCORZA, MD, AARON WILLIAMS, DO, J. DANIEL PHILLIPS, MD, AND JOEL SHAW, MD",
+    "doi": "Am Fam Physician.2007;76(1):76-84",
+    "abstract": "A comprehensive history and physical examination can often reveal the cause of nausea and vomiting, making further evaluation unnecessary. Acute symptoms generally are the result of infectious, inflammatory, or iatrogenic causes. Most infections are self-limiting and require minimal intervention; iatrogenic causes can be resolved by removing the offending agent. Chronic symptoms are usually a pathologic response to any of a variety of conditions. Gastrointestinal etiologies include obstruction, functional disorders, and organic diseases. Central nervous system etiologies are primarily related to conditions that increase intracranial pressure, and typically cause other neurologic signs. Pregnancy is the most common endocrinologic cause of nausea and must be considered in any woman of childbearing age. Numerous metabolic abnormalities and psychiatric diagnoses also may cause nausea and vomiting. Evaluation should first focus on detecting any emergencies or complications that require hospitalization. Attention should then turn to identifying the underlying cause and providing specific therapies. When the cause cannot be determined, empiric therapy with an antiemetic is appropriate. Initial diagnostic testing should generally be limited to basic laboratory tests and plain radiography. Further testing, such as upper endoscopy or computed tomography of the abdomen, should be determined by clinical suspicion based on a complete history and physical examination.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Causes",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "IATROGENIC, TOXIC, AND INFECTIOUS",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "GASTROINTESTINAL DISORDERS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "CENTRAL NERVOUS SYSTEM AND PSYCHIATRIC CONDITIONS",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "OTHER CONDITIONS",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "Evaluation",
+            "level": 2
+        },
+        {
+            "id": 6,
+            "name": "HISTORY",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "PHYSICAL EXAMINATION",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "LABORATORY TESTING",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "RADIOGRAPHIC TESTING",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "FURTHER TESTING",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "Treatment",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Nausea is the unpleasant, painless sensation that one may potentially vomit. Vomiting is an organized, autonomic response that ultimately results in the forceful expulsion of gastric contents through the mouth. Vomiting is intended to protect a person from harmful ingested substances. However, chronic nausea and vomiting are typically a pathologic response to any of a variety of conditions.1"
+        },
+        {
+            "parent": -1,
+            "text": "Nausea and vomiting significantly affect quality of life. In a study of 17 gastrointestinal conditions in the United States, it was estimated that the cost of acute gastrointestinal infections exceeds $3.4 billion annually.2,3When other causes of nausea and vomiting are taken into account, the associated medical costs and loss of worker productivity are considerable."
+        },
+        {
+            "parent": -1,
+            "text": "This article reviews common and significant causes of nausea and vomiting, offers an approach to evaluation, and provides a brief overview of treatment options."
+        },
+        {
+            "parent": 0,
+            "text": "The etiologies of nausea and vomiting include iatrogenic, toxic, or infectious causes; gastrointestinal disorders; and central nervous system or psychiatric conditions. A differential diagnosis for nausea and vomiting is provided inTable 1,2,4–10and each category is discussed in the following."
+        },
+        {
+            "parent": 1,
+            "text": "Almost any medication can cause nausea and vomiting. Chemotherapeutic agents are the most well-known; however, many commonly prescribed medications can cause these symptoms. Medications typically cause nausea and vomiting early in their course, although the onset of symptoms may be insidious. Overdoses of alcohol, illicit substances, and other toxins may also cause acute symptoms.6,7,9"
+        },
+        {
+            "parent": 1,
+            "text": "Infectious etiologies typically result in an acute onset of symptoms. Viral gastroenteritis is particularly common; however, bacteria or their toxins may also be the cause. Infectious and toxic causes of nausea and vomiting are usually self-limiting. Nausea and vomiting caused by ingestion of a toxin such as the enterotoxin in staphylococcal food poisoning or the toxin produced byBacillus cereustypically occur one to six hours after ingestion and last only 24 to 48 hours."
+        },
+        {
+            "parent": 2,
+            "text": "Many gastrointestinal disorders cause nausea and vomiting. Acute symptoms are typically the result of an inflammatory process (e.g., appendicitis, cholecystitis, pancreatitis). Obstructions may result in acute or chronic symptoms. Gastric outlet obstructions tend to cause intermittent symptoms, whereas intestinal obstructions typically cause acute symptoms and severe pain."
+        },
+        {
+            "parent": 2,
+            "text": "Motility disorders such as gastroparesis typically produce an insidious onset of symptoms resulting from an inability to move food through the gastrointestinal tract. Patients with disorders such as dyspepsia, gastro-esophageal ref lux disease (GERD), peptic ulcer disease (PUD), or irritable bowel syndrome (IBS) may have nausea and vomiting, but these are rarely the primary symptoms."
+        },
+        {
+            "parent": 3,
+            "text": "Any condition that increases intracranial pressure (e.g., mass, infarct, infection) can result in vomiting with or without nausea. Patients with central nervous system pathology usually present with additional neurologic signs such as cranial nerve dysfunction or long-tract signs. Conditions that affect the labyrinthus (e.g., infections, Ménière's disease, tumors) may cause nausea and vomiting and are often associated with vertigo. Migraine headaches classically cause nausea and vomiting."
+        },
+        {
+            "parent": 3,
+            "text": "Patients may also experience symptoms in response to emotional or physical stressors. Psychiatric diagnoses such as anorexia nervosa, bulimia nervosa, depression, and anxiety should be considered."
+        },
+        {
+            "parent": 4,
+            "text": "Pregnancy is the most common endocrinologic cause of nausea and vomiting and must be considered in any woman of childbearing age. Metabolic etiologies such as acidosis, uremia, hyperthyroidism, adrenal disorders, and parathyroid disorders also can be the cause."
+        },
+        {
+            "parent": 4,
+            "text": "Rare conditions may be considered if the history and physical examination do not support a common diagnosis. Cyclic vomiting syndrome is a poorly understood phenomenon that causes periods of nausea and vomiting alternating with asymptomatic periods. Symptoms are often associated with migraine headaches, motion sickness, or atopy. Cyclic vomiting predominantly affects children; however, it has been described in adults. Cyclic vomiting syndrome is a diagnosis of exclusion."
+        },
+        {
+            "parent": 5,
+            "text": "The American Gastroenterological Association suggests a three-step approach to the initial evaluation of nausea and vomiting.2First, attempt to recognize and correct any consequences of the symptoms, such as dehydration or electrolyte abnormalities. Second, try to identify the underlying cause and provide specific therapies. Third, if no etiology can be determined, use empiric therapy to treat symptoms. An algorithm for the evaluation of nausea and vomiting is provided inFigure 1.1,11"
+        },
+        {
+            "parent": 5,
+            "text": "Because of the broad range of possible etiologies, an ordered approach to evaluation is essential. The etiology of most acute nausea and vomiting can be determined from the history and physical examination; diagnostic tests should be ordered only when based on clinical suspicion. During initial consultation, the physician must rule out emergencies or any need for hospitalization. Warning signs such as chest pain, severe abdominal pain, central nervous system symptoms, fever, a history of immunosuppression, hypotension, severe dehydration, or older age should prompt immediate evaluation."
+        },
+        {
+            "parent": 6,
+            "text": "A clear definition of the patient's symptoms must be determined, with vomiting distinguished from regurgitation and rumination. Vomiting involves the forceful expulsion of stomach contents through involuntary muscular contractions. In regurgitation, food is returned to the mouth without forceful contractions, and in rumination food is returned to the mouth through voluntary contractions."
+        },
+        {
+            "parent": 6,
+            "text": "A detailed history of symptoms can provide clues to a diagnosis(Table 21,2,11–13). Symptom duration should be determined because the differential diagnoses differ significantly for acute symptoms (i.e., persisting one month or less) and chronic symptoms (i.e., persisting for longer than one month).2Abrupt onset of nausea and vomiting is suggestive of cholecystitis, food poisoning, gastroenteritis, pancreatitis, or drug-related etiologies. If a patient has pain, obstructive etiologies must be considered. The insidious onset of acute or chronic symptoms is suggestive of diagnoses such as GERD, gastroparesis, medication, metabolic disorders, or pregnancy. Symptom timing also is important (e.g., occurrence before, during, or after eating; continuous, irregular, or predictable), and the quality and quantity of vomited matter may also suggest specific etiologies (Table 21,2,11–13).12"
+        },
+        {
+            "parent": 6,
+            "text": "The presence of abdominal pain usually suggests an organic cause2; the location, severity, and timing of pain may indicate a specific etiology. Other associated symptoms also provide significant information. Acute nausea and vomiting without any warning signs suggests infectious or iatrogenic etiologies. A detailed medication history is essential. Food ingestions, contact with ill persons, and the presence of coexisting viral symptoms suggest an infectious etiology. A history of weight loss should raise concern for malignancy; however, significant weight loss can occur with sitophobia (fear of eating) secondary to functional disorders. Neurologic symptoms should be investigated because central nervous system etiologies of nausea and vomiting are unlikely in a patient without other neurologic symptoms.2"
+        },
+        {
+            "parent": 7,
+            "text": "The physical examination should focus initially on signs of dehydration, evaluating skin turgor and mucous membranes, and observing for hypotension or orthostatic changes.1,2,12The general examination should look for jaundice, lymphadenopathy, and signs of thyrotoxicosis. Fingers should be observed for calluses on the dorsal surfaces suggesting self-induced vomiting. Other suggestive findings may include parotid gland enlargement, lanugo hair, and loss of tooth enamel; however, loss of enamel may also be a consequence of long-standing gastroesophageal reflux. The physician should evaluate for signs of depression or anxiety, which may suggest psychiatric etiologies."
+        },
+        {
+            "parent": 7,
+            "text": "The abdominal examination is extremely important. Abdominal distention with tenderness is suggestive of a bowel obstruction, although bloating may occur with gastroparesis. The physician should observe for visible peristalsis and pay close attention for abdominal or inguinal hernias and surgical scars. Auscultation may demonstrate increased bowel sounds in obstruction or decreased bowel sounds with an ileus. A succussion splash (heard at the epigastrium while rapidly palpating the epigastrium or shaking the abdomen and pelvis) suggests gastric outlet obstruction or gastroparesis. Epigastric tenderness may suggest an ulcer or pancreatitis. Pain in the right upper quadrant is more consistent with cholecystitis or biliary tract disease."
+        },
+        {
+            "parent": 7,
+            "text": "A neurologic examination is essential. Simple maneuvers can direct the physician toward or away from a central diagnosis. Orthostatic changes may be the result of persistent vomiting; however, a decrease in blood pressure without a change in heart rate may suggest an autonomic neuropathy with coexisting motility disorders. Any deficit on examination of cranial nerves or a patient's gait suggests brainstem lesions, which may result in gastroparesis. Ophthalmoscopy should be performed to evaluate for elevations in intracranial pressure, because any cause of increased intracranial pressure can stimulate brainstem emesis centers. Abnormal findings should prompt immediate neuroimaging. Finally, observation for nystagmus may suggest a disorder of the labyrinthine system."
+        },
+        {
+            "parent": 8,
+            "text": "There are no controlled trials to guide the diagnostic evaluation of nausea and vomiting; therefore, most recommendations are based on expert opinion.1In most patients with a worrisome history, it is reasonable to begin with basic laboratory tests and radiographic studies to rule out serious consequences. An overview of diagnostic tests for nausea and vomiting is provided inTable 3.1,2,14–19"
+        },
+        {
+            "parent": 9,
+            "text": "There are no laboratory tests specific to determining etiologies of nausea and vomiting. Tests should be directed by the history and physical examination to determine the underlying cause or to evaluate for the consequences of nausea and vomiting. In patients with unexplained symptoms, it is reasonable to perform a complete blood count and erythrocyte sedimentation rate measurement in conjunction with a complete metabolic profile. A pregnancy test should be performed in any woman of childbearing age. This may reveal the cause of symptoms and is also needed before radiography. If a patient has abdominal pain, pancreatic enzyme measurements should be performed. Additional laboratory tests and their indications are listed inTable 3.1,2,14–19"
+        },
+        {
+            "parent": 10,
+            "text": "Supine and upright abdominal radiography should be performed if there is any concern about a small bowel obstruction,14although false-negative results occur in as many as 22 percent of patients with a partial obstruction.1If results are negative but an obstruction is still suspected, further testing should be performed."
+        },
+        {
+            "parent": 11,
+            "text": "Proximal mucosal lesions and obstructions may be detected by esophagogastroduodenoscopy (EGD) or upper gastrointestinal radiography. EGD is the best study for detecting such lesions15; however, the use of double contrast media in radiographic studies reduces error rates and allows a less-expensive, less-invasive approach. The addition of a small bowel follow-through enables visualization of the small bowel to the terminal ilium, but it may not detect smaller mucosal lesions. This has led many to advocate the use of enteroclysis.16Enteroclysis is extremely sensitive but requires placement of an oral/nasal tube directly into the small bowel. Computed tomography may soon become the study of choice for detecting intestinal obstructions and also allows evaluation of the surrounding abdominal structures.17,18In patients with unexplained symptoms or with abnormal neurologic findings, magnetic resonance imaging of the brain should be considered.19"
+        },
+        {
+            "parent": 11,
+            "text": "If no diagnosis is determined after initial evaluation, gastric motility studies (e.g., gastric emptying scintigraphy, cutaneous electrogastrography, antroduodenal manometry) may be considered. However, the utility of such tests is controversial, and many experts suggest a trial of antiemetic or prokinetic medications instead.1"
+        },
+        {
+            "parent": 11,
+            "text": "Finally, if all organic, gastrointestinal, and central causes of nausea and vomiting have been explored, psychogenic vomiting should be considered.2"
+        },
+        {
+            "parent": 12,
+            "text": "After identification of any warning signs and appropriate emergency interventions, the primary goal of initial treatment is a careful assessment of fluid and electrolyte status with appropriate replacement. A low-fat or liquid diet may be prescribed, because lipids delay gastric emptying and liquids are more readily absorbed."
+        },
+        {
+            "parent": 12,
+            "text": "If an etiology is identified, a targeted therapy can be provided; however, delays in evaluation may require empiric treatment for patient comfort.1It is reasonable to begin with a trial of a phenothiazine, such as prochlorperazine, because these medications are effective in a range of clinical situations. A trial of a prokinetic agent (e.g., metoclopramide [Reglan]) may then be beneficial. Serotonin antagonists (e.g., ondansetron [Zofran]) are effective and are better tolerated than phenothiazines and prokinetics, but their high cost (approximately $20 per dose, even for the recently approved generic ondansetron) makes long-term use impractical. Trials determining the specific effectiveness of medications for nausea and vomiting are limited; therefore, a trial of any medication may be reasonable on an individual basis.1Antiemetic agents commonly used for nausea and vomiting are listed inTable 41,2,6; therapies for known etiologies of nausea and vomiting are listed inTable 52,20–26; and alternative therapies are listed inTable 6.22,27–29"
+        }
+    ],
+    "locked": false
+}

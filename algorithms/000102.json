@@ -1,0 +1,245 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2021/0900/p277.html#afp20210900p277-f4",
+    "title": "Neglected Parasitic Infections: What Family Physicians Need to Know—A CDC Update | AAFP",
+    "author": "PAUL T. CANTEY, MD, MPH, SUSAN P. MONTGOMERY, DVM, MPH, AND ANNE STRAILY, DVM, MPH",
+    "doi": "Am Fam Physician.2021;104(2):277-287",
+    "abstract": "Chagas disease, cysticercosis, and toxoplasmosis affect millions of people in the United States and are considered neglected parasitic diseases. Few resources are devoted to their surveillance, prevention, and treatment. Chagas disease, transmitted by kissing bugs, primarily affects people who have lived in Mexico, Central America, and South America, and it can cause heart disease and death if not treated. Chagas disease is diagnosed by detecting the parasite in blood or by serology, depending on the phase of disease. Antiparasitic treatment is indicated for most patients with acute disease. Treatment for chronic disease is recommended for people younger than 18 years and generally recommended for adults younger than 50 years. Treatment decisions should be individualized for all other patients. Cysticercosis can manifest in muscles, the eyes, and most critically in the brain (neurocysticercosis). Neurocysticercosis accounts for 2.1% of all emergency department visits for seizures in the United States. Diagnosing neurocysticercosis involves serology and neuroimaging. Treatment includes symptom control and antiparasitic therapy. Toxoplasmosis is estimated to affect 11% of people older than six years in the United States. It can be acquired by ingesting food or water that has been contaminated by cat feces; it can also be acquired by eating undercooked, contaminated meat.Toxoplasmainfection is usually asymptomatic; however, people who are immunosuppressed can develop more severe neurologic symptoms. Congenital infection can result in miscarriage or adverse fetal effects. Diagnosis is made with serologic testing, polymerase chain reaction testing, or parasite detection in tissue or fluid specimens. Treatment is recommended for people who are immunosuppressed, pregnant patients with recently acquired infection, and people who are immunocompetent with visceral disease or severe symptoms.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Chagas Disease",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Cysticercosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "Toxoplasmosis",
+            "level": 2
+        },
+        {
+            "id": 9,
+            "name": "CLINICAL PRESENTATION",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "DIAGNOSIS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "TREATMENT",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "PREVENTION",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Neglected parasitic infections designated by the Centers for Disease Control and Prevention (CDC) include Chagas disease, cysticercosis, toxoplasmosis, toxocariasis, and trichomoniasis.1These parasitic infections have been prioritized based on the number of people infected, the potential for severe illness, and availability of treatment regimens. This article reviews three infections that are typically not emphasized in medical training—Chagas disease, cysticercosis, and toxoplasmosis. Information on the others (toxocariasis and trichomoniasis) can be found on the CDC website.1Despite the ability to cause severe illness, limited resources have been devoted to understanding the impact and burden of neglected parasitic infections. Family physicians should understand the basic principles of clinical presentation, diagnosis, and treatment of these diseases. A summary of key points for each disease is presented inTable 1.2"
+        },
+        {
+            "parent": 0,
+            "text": "Chagas disease (i.e., American trypanosomiasis) is caused by the parasiteTrypanosoma cruzi. Transmission to humans occurs mainly through contact with triatomine insects (kissing bugs), bloodsucking insects that feed on humans and other animals. Infection occurs when an infected triatomine insect defecates after a blood meal, and the feces containing the parasite are rubbed into a bite wound or mucous membranes(Figure 1).3Transmission can also occur congenitally or by blood transfusion, organ transplant, consumption of food contaminated with triatomine-infected feces, or laboratory exposure."
+        },
+        {
+            "parent": 0,
+            "text": "Chagas disease is endemic in many parts of Mexico and Central and South America, where an estimated 7 million people are infected.4More than 300,000 people in the United States are thought to be infected, most of whom acquired the disease in Latin America.4However, infected triatomines have been found in many parts of the southern United States, and domestic transmission via triatomines has occurred.5"
+        },
+        {
+            "parent": 0,
+            "text": "In the United States, it is estimated that up to 300 infants are congenitally infected withT. cruzieach year.4 Screening pregnant patients for Chagas disease is not routinely performed, but targeted testing based on their risk history is recommended(Figure 2). Blood donor screening in the United States was implemented in 2007, making the U.S. blood supply safe from the risk of transfusion-transmitted infection."
+        },
+        {
+            "parent": 1,
+            "text": "The acute phase lasts for weeks or months after the initial infection, and the chronic phase is lifelong in the absence of treatment. In the acute phase, clinical manifestations are often mild or absent; however, patients may have swelling around the bite site. If the inoculation site is the conjunctiva, unilateral palpebral edema may occur. In the chronic phase, most patients are asymptomatic, but 20% to 30% develop clinical manifestations that can be life-threatening.6Cardiac disease, including conduction abnormalities, dilated cardiomyopathy, apical aneurysm, or heart failure, may occur. The risk of stroke is also increased. Gastrointestinal manifestations include megaesophagus or megacolon."
+        },
+        {
+            "parent": 1,
+            "text": "Most congenitally infected infants are asymptomatic; however, some may have low birth weight, low Apgar scores, or develop anemia, thrombocytopenia, or hepatosplenomegaly. Rarely, myocarditis or meningoencephalitis may occur."
+        },
+        {
+            "parent": 2,
+            "text": "Acute or congenital Chagas disease can be diagnosed by detecting parasites via direct microscopy of anticoagulated peripheral or cord blood. Polymerase chain reaction testing forT. cruziDNA in blood may be used in addition to microscopy."
+        },
+        {
+            "parent": 2,
+            "text": "In the chronic phase, few or no parasites are present on microscopy; therefore, serologic testing for antibodies toT. cruziis required for diagnosis. Positive results on at least two different tests are required for diagnosis because no single serologic test has sufficient sensitivity and specificity."
+        },
+        {
+            "parent": 2,
+            "text": "Patients who have lived in Mexico, Central America, or South America are at risk of chronic Chagas disease and should be tested.Because of the risk of congenital transmission and potentially shared exposure history, children born to mothers with Chagas disease should also be tested.4,7Blood donors in the United States who have positive results on screening forT. cruziinfection cannot donate blood and are advised to consult with their physician for diagnostic workup and confirmation of infection."
+        },
+        {
+            "parent": 2,
+            "text": "Patients with newly diagnosed Chagas disease should have a physical examination to screen for end-organ involvement. Electrocardiography is important because arrhythmias are an early manifestation of Chagas heart disease and may be asymptomatic."
+        },
+        {
+            "parent": 3,
+            "text": "Immediate antiparasitic treatment with benznidazole or nifurtimox (Lampit) is indicated for patients with acute disease, congenital infection, and for patients who are immunocompromised with reactivated disease.8In chronic Chagas disease, treatment is strongly recommended for patients younger than 18 years and generally recommended for adults younger than 50 years who do not have advanced cardiomyopathy. For patients 50 years and older, treatment decisions should be individualized because most older patients have been infected for decades and treatment has a low chance of a cure.4,8"
+        },
+        {
+            "parent": 3,
+            "text": "Benznidazole is approved by the U.S. Food and Drug Administration (FDA) to treat children two to 12 years of age. Nifurtimox is FDA-approved to treat children from birth up to 18 years age, weighing at least 5 lb, 8 oz (2.5 kg). As of October 2020, both are commercially available. Both drugs can be used to treat older patients."
+        },
+        {
+            "parent": 3,
+            "text": "Treatment courses are 60 days. Adverse effects vary by drug and include rash, nausea, weight loss, and peripheral neuropathy. Patients with severe hepatic or renal insufficiency should not be treated with these medications because they may be unable to adequately metabolize and excrete them. Patients should not be treated during pregnancy but should be evaluated after delivery; treatment should be avoided during breastfeeding."
+        },
+        {
+            "parent": 4,
+            "text": "Cysticercosis is a tissue infection with encysted larvae of theTaenia soliumtapeworm. If an individual consumes undercooked pork infected withT. soliumcysts, that individual can develop an intestinal infection (i.e., taeniasis) with an adult tapeworm. It is usually asymptomatic; however, people with taeniasis shed tapeworm eggs in their feces, which can contaminate the environment or food in settings where personal hygiene practices or access to sanitation is poor. Individuals can then ingest the eggs, which migrate into tissues and develop into larval cysts called cysticerci(Figure 3).9"
+        },
+        {
+            "parent": 4,
+            "text": "In the United States, the highest prevalence of cysticercosis is in immigrants from Central and South America. However, up to 15% of patients in a study of cysticercosis-associated deaths were not immigrants.10Having household contact with a person who has taeniasis increases the risk of cysticercosis."
+        },
+        {
+            "parent": 5,
+            "text": "Cysticerci can develop in subcutaneous tissue, muscles, eyes, the brain, or the spinal cord. Symptom onset can be from months to years after the initial infection. Symptoms are usually caused by an inflammatory response to dying parasites but can also be caused by mass effects. Some patients may develop lumps under the skin."
+        },
+        {
+            "parent": 5,
+            "text": "Neurocysticercosis occurs when cysticerci invade the central nervous system. The most common clinical manifestations are seizures, occurring in 50% to 80% of symptomatic patients with parenchymal cysts, and intracranial hypertension or hydrocephalus, which occurs in 20% to 30% of symptomatic patients.11In endemic areas, up to 30% of seizures are caused by cysticercosis. In one study in the United States, 2.1% of visits to emergency departments for seizures were attributed to neurocysticercosis.12Other neurologic manifestations include headache, chronic meningitis, and cranial nerve abnormalities. Parenchymal disease with few cysts has a better long-term prognosis than extraparenchymal disease or infection with multiple cysts.13"
+        },
+        {
+            "parent": 6,
+            "text": "Evaluation of patients with cysticercosis is designed to identify patients who may benefit from medical or surgical intervention to prevent or reduce complications."
+        },
+        {
+            "parent": 6,
+            "text": "The diagnostic evaluation of patients suspected of having neurocysticercosis is outlined inFigure 4. Computed tomography and magnetic resonance imaging are recommended for diagnosis and determining a treatment plan.14Serologic testing is also recommended to confirm the diagnosis.14An enzyme-linked immunoelectrotransfer blot assay (available through the parasitic diseases branch at the CDC and some reference laboratories) is the preferred serologic test because its sensitivity and specificity are superior to more readily available enzyme-linked immunosorbent assays.14"
+        },
+        {
+            "parent": 7,
+            "text": "Initial treatment of neurocysticercosis should focus on symptom control (e.g., antiepileptic drugs for seizures, dexamethasone for edema, neurosurgery for hydrocephalus) instead of immediate initiation of antiparasitic therapy."
+        },
+        {
+            "parent": 7,
+            "text": "When symptoms are controlled, antiparasitic therapy should be individualized, considering the patient's symptoms and the number, viability, and location of cysticerci.14,15Antiparasitic treatment can cause a severe inflammatory reaction by killing viable cysts; corticosteroids should be used to suppress this response.16Guidelines for the diagnosis and management of neurocysticercosis have been published.14The treatment plan should be developed in collaboration with an infectious disease specialist who has experience treating neurocysticercosis."
+        },
+        {
+            "parent": 7,
+            "text": "If necessary, people diagnosed with cysticercosis and their close contacts should be screened for taeniasis and be treated. Strategies to prevent cysticercosis include handwashing and washing raw vegetables and fruits before eating. People traveling to endemic areas should drink only purified or bottled water and eat only fruits and vegetables that have been cooked or that they have peeled themselves."
+        },
+        {
+            "parent": 8,
+            "text": "Toxoplasmosis is caused by the parasiteToxoplasma gondii. Approximately 11% of people in the United States who are older than six years are estimated to be infected.17Once an individual is infected, the parasite stays in the body in an inactive state but can reactivate if they become immunosuppressed."
+        },
+        {
+            "parent": 8,
+            "text": "Cats are the definitive host forT. gondiiand can shed oocysts in their feces for several weeks after the initial infection. Cats primarily become infected by consuming infected paratenic (transport) hosts, such as small rodents, that have become infected by consuming infective oocysts from the environment."
+        },
+        {
+            "parent": 8,
+            "text": "Humans can become infected by ingesting water or raw fruits or vegetables that have been contaminated with cat feces(Figure 5).17Humans can also acquireToxoplasmainfection by eating undercooked meat from infected domesticated animals (e.g., cattle, sheep, goats) or wild animals (e.g., deer), or eating food contaminated by raw infected meat."
+        },
+        {
+            "parent": 8,
+            "text": "Transmission can also occur by blood transfusion or organ transplant. Congenital transmission occurs when a patient is newly infected withT. gondiiduring pregnancy or just before becoming pregnant."
+        },
+        {
+            "parent": 9,
+            "text": "Most people who are immunocompetent are asymptomatic; however, some may experience mild flulike symptoms including myalgias, or cervical or occipital lymphadenopathy, that typically resolve spontaneously over several weeks.18A small percentage (less than 2%) of people infected withT. gondiiafter birth develop ocular disease.19"
+        },
+        {
+            "parent": 9,
+            "text": "Patients with toxoplasmosis who are immunosuppressed may have severe manifestations of infection, including encephalitis, fever, headache, seizures, confusion, or ataxia. These conditions may result from a new infection or reactivation of a previous infection.20"
+        },
+        {
+            "parent": 9,
+            "text": "Congenital infections can also occur, but the risk of congenital transmission depends on when maternal infection is acquired, with higher rates of transmission when the infection is acquired later in preganancy.21If the infection is acquired during pregnancy or within three months of becoming pregnant, there is a risk of congenital transmission. However, if a patient who is immunocompetent acquires the infection earlier than three months before pregnancy, the risk of congenital transmission is essentially zero.22"
+        },
+        {
+            "parent": 9,
+            "text": "Congenital infections can result in miscarriage or an infant born with signs of toxoplasmosis (e.g., jaundice, chorioretinitis, ventriculomegaly, hydrocephalus, intracranial calcifications, macrocephaly, microcephaly, seizures).22Some of these findings may be noted on fetal ultrasound. Congenitally infected infants are often asymptomatic at birth. Ocular disease, usually chorioretinitis, may develop later in life, including in adulthood, in 20% to 80% of people with congenital infection. Symptoms include blurred vision, eye pain, and photophobia."
+        },
+        {
+            "parent": 10,
+            "text": "Diagnosis of toxoplasmosis can be achieved with serologic tests that detectToxoplasmaantibodies (e.g., immunoglobulin [Ig] G, IgM, IgA, IgE;Figure 6). Many commercial and clinical laboratories offer IgM and IgG testing. Polymerase chain reaction testing or direct observation of the parasite in blood, tissue, or cerebrospinal fluid is useful in patients who are immunosuppressed, in whom the diagnosis may be difficult to confirm with antibody tests. In patients with neurologic symptoms, multiple brain abscesses or ring enhancement may be noted on neuroimaging."
+        },
+        {
+            "parent": 10,
+            "text": "Among pregnant patients with suspected disease because of abnormal ultrasonography findings or clinical symptoms of acute infection, commercial IgM and IgG tests are useful, but only for initial testing.22A diagnosis of acute infection should be confirmed by a reference laboratory that can conduct additional tests (e.g., avidity and agglutination tests) to determine the timing of infection because false-positive results may occur with IgM testing and because IgG may be present in acute (rather than only chronic) infections.In the United States, the Dr. Jack S. Remington Laboratory for Specialty Diagnostics serves as the toxoplasmosis reference laboratory (https://www.sutterhealth.org/services/lab-pathology/toxoplasma-serology-laboratory). To evaluate for congenital transmission to the fetus, ultrasonography and polymerase chain reaction testing of amniotic fluid can be done as early as the 18th week of gestation."
+        },
+        {
+            "parent": 11,
+            "text": "Treatment of adults who are immunocompetent is rarely warranted because symptoms usually resolve without treatment. If visceral disease is present, or symptoms are severe, pyrimethamine (Daraprim), sulfadiazine, and leucovorin may be administered for two to four weeks(Figure 6). People with toxoplasmosis who are immunosuppressed need continuous treatment until their immunologic state has improved.20"
+        },
+        {
+            "parent": 11,
+            "text": "Patients infected during the first or early second trimester of pregnancy should be treated with spiramycin to reduce the risk of transmission of toxoplasmosis to the fetus and is most effective if initiated within eight weeks of maternal seroconversion. Spiramycin can be obtained from the FDA (telephone 301-796-1400). Spiramycin treatment should be continued throughout pregnancy if there is no evidence of fetal infection.22"
+        },
+        {
+            "parent": 11,
+            "text": "When there is evidence of fetal infection (confirmed by amniocentesis or suspected based on fetal ultrasonography) or when the infection is acquired during the late second or third trimester, combination therapy consisting of pyrimethamine, sulfadiazine, and leucovorin is usually administered. Infants with congenitally acquired infection should also receive the pyrimethamine, sulfadiazine, and leucovorin combination.22"
+        },
+        {
+            "parent": 12,
+            "text": "Patients at risk of severe outcomes from toxoplasmosis (e.g., immunocompromised, pregnant) should be counseled on how to decrease the risk of acquiring infections. Strategies related to food include thoroughly cooking meats and peeling or washing fruits and vegetables before eating; washing food preparation materials after contact with raw meat or unwashed fruits or vegetables; avoiding drinking unpasteurized milk and untreated or contaminated water; and avoiding eating raw or undercooked shellfish (e.g., oysters, mussels, clams) because they may be contaminated with oocysts washed into seawater.23"
+        },
+        {
+            "parent": 12,
+            "text": "Patients should wear gloves when gardening or during any contact with soil or sand, wash hands thoroughly with soap and water after contact with soil or sand, and keep sandboxes covered when not in use."
+        },
+        {
+            "parent": 12,
+            "text": "Strategies related to cats include preventing cats from hunting and changing litter boxes daily. However, pregnant patients and people who are immunosuppressed should avoid cleaning litter boxes if possible. When people who are immunosuppressed must perform this task, they should wear disposable gloves and wash their hands thoroughly with soap and water afterward. These patients should also avoid adopting stray cats, especially kittens."
+        },
+        {
+            "parent": 12,
+            "text": "This article updates a previous article on this subject byWoodhall, et al.2"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:A PubMed search was completed using the key terms epidemiology, diagnosis, treatment, and United States for each of the following diseases: Chagas disease, cysticercosis, and toxoplasmosis. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. The CDC website was also reviewed. Search dates: March 1, 2020 and April 8, 2021."
+        },
+        {
+            "parent": 12,
+            "text": "The findings and conclusions expressed in this article are those of the authors and do not necessarily represent the views of the CDC."
+        },
+        {
+            "parent": 12,
+            "text": "Further information about Chagas disease, toxocariasis, cysticercosis, and toxoplasmosis is available through the CDC website (http://www.cdc.gov/parasites/npi.html). Resources include fact sheets for patients and physicians, continuing medical education courses, and audio podcasts for each disease. Consultation with experts and information about diagnostic testing and investigational drugs are available through the Parasitic Diseases Branch Public Inquiries desk (telephone: 404-718-4745; email:parasites@cdc.gov)."
+        }
+    ],
+    "locked": false
+}

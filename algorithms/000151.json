@@ -1,0 +1,177 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2020/0415/p472.html#afp20200415p472-f1",
+    "title": "Chronic Diarrhea in Adults: Evaluation and Differential Diagnosis | AAFP",
+    "author": "KRISTINA BURGERS, MD, BRIANA LINDBERG, MD, AND ZACHARY J. BEVIS, MD",
+    "doi": "Am Fam Physician.2020;101(8):472-480",
+    "abstract": "Chronic diarrhea is defined as a predominantly loose stool lasting longer than four weeks. A patient history and physical examination with a complete blood count, C-reactive protein, anti-tissue transglutaminase immunoglobulin A (IgA), total IgA, and a basic metabolic panel are useful to evaluate for pathologies such as celiac disease or inflammatory bowel disease. More targeted testing should be based on the differential diagnosis. When the differential diagnosis is broad, stool studies should be used to categorize diarrhea as watery, fatty, or inflammatory. Some disorders can cause more than one type of diarrhea. Watery diarrhea includes secretory, osmotic, and functional types. Functional disorders such as irritable bowel syndrome and functional diarrhea are common causes of chronic diarrhea. Secretory diarrhea can be caused by bile acid malabsorption, microscopic colitis, endocrine disorders, and some postsurgical states. Osmotic diarrhea can present with carbohydrate malabsorption syndromes and laxative abuse. Fatty diarrhea can be caused by malabsorption or maldigestion and includes disorders such as celiac disease, giardiasis, and pancreatic exocrine insufficiency. Inflammatory diarrhea warrants further evaluation and can be caused by disorders such as inflammatory bowel disease,Clostridioides difficile, colitis, and colorectal cancer.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "History",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "Physical Examination",
+            "level": 2
+        },
+        {
+            "id": 2,
+            "name": "Diagnostic Approach",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Common Causes",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "name": "IRRITABLE BOWEL SYNDROME (WATERY – FUNCTIONAL)",
+            "level": 3
+        },
+        {
+            "id": 5,
+            "name": "FUNCTIONAL DIARRHEA (WATERY – FUNCTIONAL)",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "BILE ACID MALABSORPTION (WATERY – SECRETORY)",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "MICROSCOPIC COLITIS (WATERY – SECRETORY)",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "INFLAMMATORY BOWEL DISEASE (INFLAMMATORY, WATERY – SECRETORY)",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "CELIAC DISEASE (FATTY – MALABSORPTIVE, WATERY – OSMOTIC)",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "CLOSTRIDIOIDES DIFFICILE COLITIS (INFLAMMATORY)",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "OTHER INFECTIONS (PRIMARY INFLAMMATORY)",
+            "level": 3
+        },
+        {
+            "id": 12,
+            "name": "ENDOCRINE DISORDERS (SECRETORY)",
+            "level": 3
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Chronic diarrhea is defined as a predominantly decreased stool consistency lasting longer than four weeks.1,2The prevalence is estimated to be 1% to 5% of the adult population.1Common causes include irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), celiac disease, and microscopic colitis. The differential diagnosis for chronic diarrhea is broad; however, a thorough history and physical examination can narrow the diagnostic evaluation. The British Society of Gastroenterology published guidelines for the evaluation of chronic diarrhea, and other authors suggest similar diagnostic approaches, but supporting evidence is weak.1,2The recommendations in this article are based on the evidence available and published guidelines for the evaluation of causes of chronic diarrhea.Figure 1is an algorithm for the diagnosis of chronic diarrhea.1–4"
+        },
+        {
+            "parent": 0,
+            "text": "Most patients use the word diarrhea to describe loose stools3; however, some patients may use it to describe fecal urgency, frequency, or incontinence.2The Bristol Stool Scale (https://www.aafp.org/afp/2011/0801/p299.html#afp20110801p299-f1) is helpful in distinguishing diarrhea from pseudodiarrhea.5This article covers diarrhea as it is commonly defined in the medical literature (i.e., Bristol types 5 to 7).2,3"
+        },
+        {
+            "parent": 0,
+            "text": "Clinicians should ask patients about key historical features, including stool appearance and odor, the presence of urgency or tenesmus, pain, the frequency and duration of symptoms, whether diarrhea persists at night or with fasting, and possible triggers.2,4A thorough travel and dietary history can help guide the clinician toward an appropriate workup for infections or food intolerance. A review of systems can reveal extraintestinal manifestations of the disease. A complete medication history, including over-the-counter medications, illicit drug use, alcohol use, and supplements, is indicated.Table 1lists medications commonly associated with diarrhea6; however, a patient can experience diarrhea from almost any medication.1,4A discussion of current medical diagnoses and any prior surgical procedures may identify an etiology. A behavioral health history should be obtained, including the psychosocial impact of symptoms on the patient and potential secondary gain. Documentation from any previous office visits, laboratory testing, and diagnostic procedures should be obtained before further testing.4Table 2lists clues to specific diagnoses.1–4,6–21Diagnoses affecting immunocompromised patients with chronic diarrhea are beyond the scope of this article."
+        },
+        {
+            "parent": 1,
+            "text": "A thorough physical examination, including abdominal examination, visual inspection of the anus and perianal skin, and a digital rectal examination, is indicated for any patient who reports chronic diarrhea. Office anoscopy can be helpful in suspected inflammatory disorders."
+        },
+        {
+            "parent": 2,
+            "text": "The initial laboratory workup should include a complete blood count, C-reactive protein (CRP) level, anti-tissue transglutaminase immunoglobulin A (IgA) level, total IgA level, and a basic metabolic panel.1,8,22The diagnostic evaluation should be guided by history and physical examination. Alarm features such as anemia, unintentional weight loss, and persistent blood in the stool warrant further investigation.1,2,4A patient who meets Rome IV diagnostic criteria(Table 33)for IBS, has routine physical examination and initial laboratory results, and has no alarm features may be diagnosed with IBS.3"
+        },
+        {
+            "parent": 2,
+            "text": "Magnetic resonance imaging or computed tomography imaging with enterography may be performed for patients with alarm features, abnormal laboratory values, or suspected structural disease.4Colonoscopy should also be performed for patients with alarm features or for whom a reasonable initial workup has failed to yield a diagnosis. When colonoscopy is performed to evaluate chronic diarrhea, multiple mucosal biopsies should be taken, even if the endoscopic mucosal appearance is normal.23"
+        },
+        {
+            "parent": 2,
+            "text": "When the initial evaluation fails to narrow the differential diagnosis, testing for fecal occult blood (i.e., fecal immunochemistry test), fecal calprotectin (i.e., leukocytes or lactoferrin), and fecal fat (i.e., Sudan stain) may be helpful to categorize diarrhea as watery, fatty, or inflammatory.1,4Although this can help narrow the differential diagnosis, it is important to understand that some disorders can cause more than one type of diarrhea."
+        },
+        {
+            "parent": 2,
+            "text": "These three categories can be subdivided further based on a comprehensive fecal analysis including a 24-hour stool mass for the quantification of diarrhea and calculation of fecal components, quantitative fecal fat test (i.e., 24- to 48-hour chemical analysis or quantitative Sudan microscopy), and fecal chemistry test (i.e., pH level, osmolality, electrolytes, and phosphate).24,25However, these tests are not always readily available and usefulness varies.1,2When available, they can be helpful in diagnosing a factitious disorder and surreptitious laxative use.25"
+        },
+        {
+            "parent": 2,
+            "text": "Watery diarrhea is a loose stool that does not contain leukocytes, lactoferrin or calprotectin, blood, or elevated levels of fecal fat. It can be separated into secretory, osmotic, and functional types. Secretory diarrhea is caused by reduced water absorption, and results in high stool volumes; symptoms persist at night and during fasting. Osmotic diarrhea is caused by water retention in the intestine because of the presence of poorly absorbed solutes; stool analysis revealing high stool osmotic gaps can help distinguish it from other watery diarrheas.7Functional disorders lack a clear organic etiology and are diagnosed using Rome IV diagnostic criteria. The predominance of pain differentiates between IBS and functional diarrhea."
+        },
+        {
+            "parent": 2,
+            "text": "Fatty diarrhea, characterized by elevated levels of fecal fat, is broken down into malabsorptive and maldigestive types, based on etiology.7"
+        },
+        {
+            "parent": 2,
+            "text": "Inflammatory diarrhea is characterized by the presence of fecal leukocytes, lactoferrin or calprotectin, or blood. Further investigation of inflammatory diarrhea, including advanced imaging and colonoscopy, is always warranted.1,2,4"
+        },
+        {
+            "parent": 4,
+            "text": "Current studies indicate that IBS has a prevalence of 9% to 23% worldwide. If a patient meets Rome IV diagnostic criteria (Table 3;https://www.mdcalc.com/rome-iv-diagnostic-criteria-irritable-bowel-syndrome-ibs) and does not have any alarm features, an extensive workup is not typically recommended.3It is reasonable to order a complete blood count, CRP (or stool calprotectin), basic metabolic panel, and celiac serology, based on expert opinion and American College of Gastroenterology guidelines for the evaluation of celiac disease.3,4,8IBS symptoms may sometimes be the presentation of other medical causes of chronic diarrhea, including nonallergic food intolerance and bile acid malabsorption.4Patients who do not respond to typical IBS treatments may benefit from evaluation for additional diagnoses. There may be an association between small intestinal bacterial overgrowth and IBS; however, there is no definitive evidence that small intestinal bacterial overgrowth causes IBS symptoms. If there is a clinical concern, a glucose breath test can provide additional insight.26"
+        },
+        {
+            "parent": 5,
+            "text": "Functional diarrhea is distinct from IBS. Rome IV diagnostic criteria for functional diarrhea are “loose or watery stools, without predominant abdominal pain or bothersome bloating, occurring in greater than 25% of stools” for the past three months, with the onset of symptoms at least six months before diagnosis. Patients who meet the criteria for IBS cannot receive a diagnosis of functional diarrhea. The prevalence of functional diarrhea in adults may be as high as 17%. Functional diarrhea should be diagnosed after a reasonable effort at evaluating for organic disease. Lack of improvement with empiric loperamide (Imodium) should prompt reconsideration of the diagnosis.3"
+        },
+        {
+            "parent": 6,
+            "text": "Bile acid malabsorption is the failure of enterohepatic reabsorption of bile acids in the terminal ileum. It has been found in up to 35% of patients with IBS and microscopic colitis, and it is the underlying reason for diarrhea in ileal disease such as Crohn disease.11Diarrhea commonly seen after cholecystectomy is attributed to bile acid malabsorption.1The selenium homotaurocholic acid test is used to diagnose bile acid malabsorption in other countries but is not approved by the U.S. Food and Drug Administration. Where available, serum 7α-hydroxy-4-cholesten-3-one (elevated in bile acid malabsorption) and fibroblast growth factor 19 (low in bile acid malabsorption) have shown promise as initial tests.27Diagnosis can be made by starting patients on bile acid binders (i.e., cholestyramine [Questran]) and monitoring for improvement."
+        },
+        {
+            "parent": 7,
+            "text": "Microscopic colitis is estimated to cause 10% to 15% of all secretory diarrheas and is also present in 5% to 10% of patients who are diagnosed with IBS.4,14Typically, this disease presents in women around 60 years of age, although 25% of occurrences are in women younger than 45 years. The underlying mechanism is unclear; however, it has been associated with celiac disease, suggesting an autoimmune component. Medications such as proton pump inhibitors and nonsteroidal anti-inflammatory drugs have also been implicated. Symptoms include watery diarrhea, abdominal pain, weight loss, arthralgias, and fatigue. A diagnosis is made by colonoscopy with random biopsies because the gross appearance is typically normal.15"
+        },
+        {
+            "parent": 8,
+            "text": "IBD encompasses the diagnoses of Crohn disease and ulcerative colitis. Onset is typically between 10 and 40 years of age.13The prevalence in North America is 249 per 100,000 people for ulcerative colitis and 319 per 100,000 people for Crohn disease.28First-degree relatives of patients with IBD are at a 10-fold increased risk of developing IBD themselves.29Although IBD is usually associated with inflammatory diarrhea, Crohn disease can cause secretory diarrhea. Crohn disease also is commonly associated with extraintestinal manifestations such as arthralgias and erythema nodosum.13Patients with IBS symptoms and a CRP level less than 0.5 mg per L (4.76 nmol per L) or fecal calprotectin level less than 40 mcg per g have a less than 1% chance of having IBD.30However, neither CRP nor fecal calprotectin can rule out IBD when clinical suspicion is high or alarm features are present.13"
+        },
+        {
+            "parent": 9,
+            "text": "Celiac disease, also known as celiac sprue or gluten-sensitive enteropathy, usually causes malabsorptive fatty diarrhea, but it can also cause osmotic diarrhea through bile acid malabsorption.4It has a prevalence of 0.71% in the United States, is more common among whites and women,31and the prevalence among those with chronic diarrhea may be as high as 5%.4Prevalence in first- and second-degree relatives is 5% to 20%.8Extraintestinal manifestations include dermatitis herpetiformis, neurologic symptoms, iron deficiency anemia, and metabolic bone disease.32Clinicians should obtain serum anti-tissue transglutaminase and total IgA levels for all patients with chronic diarrhea for whom an apparent alternative diagnosis does not exist,8including patients meeting criteria for IBS or functional diarrhea.1,4"
+        },
+        {
+            "parent": 9,
+            "text": "The diagnosis is confirmed with an upper gastrointestinal endoscopy with duodenal biopsies. When there is a high index of suspicion, duodenal biopsies should be obtained despite normal serology. Patients who are already following a gluten-free diet may have negative antibodies and normal biopsies.8For those patients, celiac disease can be ruled out if genetic testing for human leukocyte antigen class II DQ2 and DQ8 molecules are negative.8Celiac disease should be differentiated from nonceliac gluten sensitivity, a disorder with similar symptoms but no celiac-specific antibodies, intestinal structure changes, or evidence of malabsorption.9A diagnosis of celiac disease carries serious health consequences for even small amounts of gluten consumption and considerations for family members; therefore, all efforts should be made to distinguish actual celiac disease from clinically similar disorders.8"
+        },
+        {
+            "parent": 10,
+            "text": "Most infectious diarrhea is acute and self-limited, but some infections can cause chronic symptoms. One of the most notable of these in resource-rich geographic areas isC. difficileinfection, which is commonly associated with antibiotic use and health care environments. AsymptomaticC. difficilecolonization is common and found in up to 15% of healthy adults, and not all strains produce toxins.10,21When antibiotics alter normal gut flora, toxigenic strains ofC. difficilecan overgrow and produce toxins A and B. These toxins cause inflammatory diarrhea and can lead to the formation of bacterial pseudomembranes.10Diagnosis is best made with a stool nucleic acid amplification test.Clinicians should only test diarrheal stools to avoid false positives.21"
+        },
+        {
+            "parent": 11,
+            "text": "Travel to resource-poor environments is a risk factor for many other infectious causes, and so is the consumption of untreated water, unwashed produce, raw dairy, and undercooked meat. In these instances, parasites are more likely than bacteria or viruses to cause chronic diarrhea in immunocompetent patients. Giardiasis is a waterborne, noninvasive, small bowel protozoal infection that leads to malabsorptive diarrhea. If infection is suspected, a stool antigen test is more sensitive than stool examination for ova and parasites.Entamoeba histolyticacauses an invasive protozoal infection, usually acquired through the fecal-oral route, that leads to inflammatory diarrhea. Diagnosis is initially made through stool examination for ova and parasites, but this can be falsely positive for nonpathogenicEntamoebaspecies. Diagnosis can be confirmed with serology or tissue biopsy.CryptosporidiumandCyclosporaare common causes of travelers' diarrhea but can be acquired domestically. Helminth infections, such asTrichuris trichiura(i.e., whipworm) andAscaris lumbricoides(i.e., roundworm), can usually be diagnosed with stool examination, but specific serologies can increase diagnostic yield when clinical suspicion is high. Eosinophilia is a common laboratory finding. When using stool ova and parasites for diagnosis, testing more than one sample increases the diagnostic yield.12"
+        },
+        {
+            "parent": 11,
+            "text": "Chronic bacterial diarrhea is uncommon. Some known pathogens includeTropheryma whippelii(i.e., Whipple disease),Yersinia enterocolitica, andMycobacterium tuberculosis. Diagnosis requires a high index of suspicion.12"
+        },
+        {
+            "parent": 12,
+            "text": "Endocrine disorders such as hyperthyroidism, Addison disease, and diabetes mellitus should be suspected as underlying pathologies in disordered gut motility or auto-immune enteropathy when other signs or symptoms of these disorders are present. Endocrine tumors such as carcinoid, VIPomas, and gastrinomas (i.e., Zollinger-Ellison syndrome) are rare. Levels of serum peptides (e.g., gastrin, calcitonin, vasoactive intestinal) should be obtained for patients with images of an endocrine tumor or for patients whose watery diarrhea is undiagnosed despite an appropriate evaluation.4"
+        },
+        {
+            "parent": 12,
+            "text": "This article updates a previous article on this topic byJuckett and Trivedi.6"
+        },
+        {
+            "parent": 12,
+            "text": "Data Sources:A PubMed search was completed in Clinical Queries using the key terms chronic diarrhea evaluation, chronic diarrhea guidelines, and diagnosis (conditions listed inTable 2). The searches included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Cochrane database, UpToDate, the Trip database, and Essential Evidence Plus. Search dates: September 2018 to January 2019, and December 2019."
+        },
+        {
+            "parent": 12,
+            "text": "The opinions or assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the Department of Defense, the U.S. Army Medical Corps, or the U.S. Army at large."
+        }
+    ],
+    "locked": false
+}

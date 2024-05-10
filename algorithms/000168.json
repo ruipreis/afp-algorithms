@@ -1,0 +1,234 @@
+{
+    "url": "https://www.aafp.org/pubs/afp/issues/2019/1201/p687.html#afp20191201p687-f1",
+    "title": "Acute Kidney Injury: Diagnosis and Management | AAFP",
+    "author": "MICHAEL G. MERCADO, MD, DUSTIN K. SMITH, DO, AND ESTHER L. GUARD, DO",
+    "doi": "Am Fam Physician.2019;100(11):687-694",
+    "abstract": "Acute kidney injury is a clinical syndrome characterized by a rapid decline in glomerular filtration rate and resultant accumulation of metabolic waste products. Acute kidney injury is associated with an increased risk of mortality, cardiovascular events, and progression to chronic kidney disease. Severity of acute kidney injury is classified according to urine output and elevations in creatinine level. Etiologies of acute kidney injury are categorized as prerenal, intrinsic renal, and postrenal. Accurate diagnosis of the underlying cause is key to successful management and includes a focused history and physical examination, serum and urine electrolyte measurements, and renal ultrasonography when risk factors for a postrenal cause are present (e.g., older male with prostatic hypertrophy). General management principles for acute kidney injury include determination of volume status, fluid resuscitation with isotonic crystalloid, treatment of volume overload with diuretics, discontinuation of nephrotoxic medications, and adjustment of prescribed drugs according to renal function. Additional supportive care measures may include optimizing nutritional status and glycemic control. Pharmacist-led quality-improvement programs reduce nephrotoxic exposures and rates of acute kidney injury in the hospital setting. Acute kidney injury care bundles are associated with improved in-hospital mortality rates and reduced risk of progression. Nephrology consultation should be considered when there is inadequate response to supportive treatment and for acute kidney injury without a clear cause, stage 3 or higher acute kidney injury, preexisting stage 4 or higher chronic kidney disease, renal replacement therapy, and other situations requiring subspecialist expertise.",
+    "headers": [
+        {
+            "id": 0,
+            "name": "Etiology",
+            "level": 2
+        },
+        {
+            "id": 1,
+            "name": "PRERENAL CAUSES",
+            "level": 3
+        },
+        {
+            "id": 2,
+            "name": "INTRINSIC RENAL CAUSES",
+            "level": 3
+        },
+        {
+            "id": 3,
+            "name": "POSTRENAL CAUSES",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Diagnosis",
+            "level": 2
+        },
+        {
+            "id": 5,
+            "name": "SERUM CREATININE LEVEL",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name": "URINE OUTPUT",
+            "level": 3
+        },
+        {
+            "id": 7,
+            "name": "CREATININE CLEARANCE",
+            "level": 3
+        },
+        {
+            "id": 8,
+            "name": "URINALYSIS AND URINE MICROSCOPY",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name": "URINE ELECTROLYTES",
+            "level": 3
+        },
+        {
+            "id": 10,
+            "name": "OTHER TESTS",
+            "level": 3
+        },
+        {
+            "id": 11,
+            "name": "Management",
+            "level": 2
+        },
+        {
+            "id": 12,
+            "name": "FLUID RESUSCITATION",
+            "level": 3
+        },
+        {
+            "id": 13,
+            "name": "AVOIDANCE OF NEPHROTOXICITY",
+            "level": 3
+        },
+        {
+            "id": 14,
+            "name": "ADDITIONAL MANAGEMENT CONSIDERATIONS",
+            "level": 3
+        },
+        {
+            "id": 15,
+            "name": "FOLLOW-UP",
+            "level": 3
+        },
+        {
+            "id": 16,
+            "name": "Prognosis",
+            "level": 2
+        },
+        {
+            "id": 17,
+            "name": "Prevention",
+            "level": 2
+        }
+    ],
+    "content": [
+        {
+            "parent": -1,
+            "text": "Acute kidney injury is defined as the sudden loss of kidney function over hours to days resulting in the inability to maintain electrolyte, acid-base, and water balance. Because of an aging population and increasing prevalence of hypertension and diabetes mellitus, from 2005 to 2014, the number of hospitalizations with a principal diagnosis of acute kidney injury increased from 281,500 to 504,600, and the number of hospitalizations with a secondary diagnosis of acute kidney injury increased from 1 million to 2.3 million.1Patients with acute kidney injury requiring renal dialysis and other forms of renal replacement therapy are 50 times more likely to progress to chronic kidney disease than those not requiring renal replacement therapy.2Risk factors for acute kidney injury are listed inTable 1.3–6"
+        },
+        {
+            "parent": -1,
+            "text": "A universal definition and staging system for acute kidney injury proposed by the Kidney Disease: Improving Global Outcomes (KDIGO) group merges the earlier RIFLE (risk of renal dysfunction, injury to the kidney, failure of kidney function, loss of kidney function, end-stage renal disease) and Acute Kidney Injury Network definitions.7–9The KDIGO system(Table 27)is used in this article."
+        },
+        {
+            "parent": 0,
+            "text": "Acute kidney injury is a complex clinical syndrome with prerenal, intrinsic renal, and postrenal etiologies.10Table 3summarizes these etiologies.10–13"
+        },
+        {
+            "parent": 1,
+            "text": "Prerenal acute kidney injury is associated with decreased renal perfusion and glomerular filtration rate (GFR) caused by intravascular volume depletion secondary to hypovolemia, peripheral vasodilation, decreased arterial pressures, and impaired cardiac function resulting in decreased cardiac output.14Sepsis is the most common cause of acute kidney injury seen in the intensive care unit (ICU).15Angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and nonsteroidal anti-inflammatory drugs are the most common medications that lower renal perfusion."
+        },
+        {
+            "parent": 1,
+            "text": "The kidneys activate mechanisms to compensate for the reduced renal perfusion in an attempt to maintain the GFR.14However, patients with impairment to these mechanisms, such as those with chronic kidney disease, have an elevated risk of acute kidney injury.3"
+        },
+        {
+            "parent": 2,
+            "text": "Intrinsic renal causes of acute kidney injury are categorized by the location of the injury, most commonly the glomerulus or tubule, and include the interstitial or vascular portions of the kidney.11Intrinsic acute kidney injury requires early identification and prompt subspecialty consultation."
+        },
+        {
+            "parent": 2,
+            "text": "Immune complexes from systemic illness (e.g., membranoproliferative glomerulonephritis, polyarteritis nodosa) cause acute inflammation and structural damage to the glomeruli. Acute tubular necrosis, the most common intrinsic kidney injury, is damage to the tubular cells of the kidney from ischemic or nephrotoxic causes. Ischemic causes include prolonged periods of severe hypotension, hypovolemia, or hypoperfusion to the kidneys (e.g., from hemorrhage, shock, sepsis, cirrhosis, peritonitis, or infarcts) that do not improve with rehydration.11Nephrotoxic causes include endogenous and exogenous toxins."
+        },
+        {
+            "parent": 2,
+            "text": "Acute interstitial nephritis, a common cause of acute kidney injury, is most often due to a hypersensitivity reaction to medications, usually an antibiotic or nonsteroidal anti-inflammatory drug.16Acute interstitial nephritis related to proton pump inhibitors is increasingly common, especially in older people.17,18Infections cause 5% to 10% of acute interstitial nephritis cases.16Vascular causes of acute kidney injury include large vessel diseases, such as renal artery thrombosis; embolism; stenosis; and operative renal arterial clamping.11"
+        },
+        {
+            "parent": 3,
+            "text": "Postrenal acute kidney injury is due to extrarenal obstruction of urinary flow. Causes include neurogenic bladder; retroperitoneal fibrosis; and the tumor burden of bladder, prostate, or cervical cancer. Prostatic hypertrophy is the most common cause in older men.11"
+        },
+        {
+            "parent": 4,
+            "text": "The history and physical examination are important in determining the etiology of acute kidney injury. The history can identify nephrotoxic medications or a systemic illness contributing to impaired renal function. The physical examination should focus on evaluating intravascular volume status. Skin rashes may indicate an underlying condition (e.g., systemic lupus erythematosus, atheroembolism/vasculitis) or exposure (e.g., drug rash suggesting acute interstitial necrosis) leading to acute kidney injury.11"
+        },
+        {
+            "parent": 5,
+            "text": "The serum creatinine level, which is part of the diagnostic criteria for acute kidney injury, is easily obtained. However, it is not an ideal marker, because creatinine concentration is influenced by age, sex, race, muscle mass, and protein catabolic rate. Additionally, serum creatinine is a slow changing surrogate for decreased GFR and may take 24 to 72 hours to reach a new steady state following acute kidney injury.6"
+        },
+        {
+            "parent": 6,
+            "text": "Urine output can be difficult to accurately assess because of collection and documentation errors. Serum creatinine or urine output can be used for diagnosis of acute kidney injury, although patients who meet diagnostic criteria for both are at increased risk of mortality from renal replacement therapy and hospitalization.7,19"
+        },
+        {
+            "parent": 7,
+            "text": "Creatinine clearance is a direct measure of GFR, and serial creatinine clearance testing provides a more efficient and accurate assessment of renal function than serum creatinine testing.20Creatinine clearance can be performed in collection periods of one to 24 hours, although longer collection times increase the likelihood of errors related to inaccurate time recording and incomplete collection.6A cohort study of 484 patients in the ICU found that four-hour creatinine clearance testing is a valid measurement of acute kidney injury (defined as an increase in serum creatinine greater than 50% in the control group or a decrease in creatinine clearance greater than 33% in the intervention group). A decrease of greater than 33% in the first 12 hours conferred a twofold elevated risk of dialysis or death.20"
+        },
+        {
+            "parent": 8,
+            "text": "Urinalysis in combination with urine microscopy provides insight into the location and cause of acute kidney injury.Table 4summarizes common findings and associated diagnoses based on urine evaluation.21"
+        },
+        {
+            "parent": 9,
+            "text": "The fractional excretion of sodium and the fractional excretion of urea are used to identify prerenal azotemia. Online tools for calculating fractional excretion of sodium and urea are available athttps://www.mdcalc.com/fractional-excretion-sodium-fenaandhttps://www.mdcalc.com/fractional-excretion-urea-feurea."
+        },
+        {
+            "parent": 9,
+            "text": "A fractional excretion of sodium less than 1% suggests a prerenal cause of acute kidney injury, whereas a value greater than 2% suggests an intrinsic cause. A fractional excretion of urea less than 35% suggests a prerenal cause, whereas a value greater than 50% suggests an intrinsic cause. Interpretation of urine electrolytes is limited because it is a single measure in time, and the results are confounded by acute volume changes. Fractional excretion of urea is more sensitive in patients with increased sodium excretion caused by diuretic therapy.22"
+        },
+        {
+            "parent": 10,
+            "text": "Renal ultrasonography may show evidence of a postrenal cause of acute kidney injury but should be performed only when the history suggests the presence of urinary tract obstruction.23Renal biopsy is reserved for patients with intrinsic acute kidney injury of unclear etiology or when diagnostic confirmation is necessary before initiating disease-specific therapy."
+        },
+        {
+            "parent": 11,
+            "text": "Management of acute kidney injury is primarily supportive, with the goals of preventing further damage and promoting recovery of renal function.7Figure 1is a suggested approach to the management of acute kidney injury based primarily on expert opinion.11,24The prompt diagnosis and treatment of the underlying cause is critical.12"
+        },
+        {
+            "parent": 12,
+            "text": "An assessment of volume status and hemodynamic stability is a key component in the management of patients with acute kidney injury because fluid overload is associated with increased mortality.25Consequently, a delicate balance exists between optimizing renal perfusion and avoiding fluid overload.26"
+        },
+        {
+            "parent": 12,
+            "text": "If fluid resuscitation is indicated, isotonic crystalloids (e.g., 0.9% normal saline, lactated Ringer solution, Plasma-Lyte A) are recommended over colloids (e.g., albumin, dextran) as the initial therapy.7,27,28Excess chloride may be associated with worsening renal function and acid-base disturbances.29A prospective study of patients in the ICU found that a chloride-restrictive strategy for resuscitation was associated with a lower incidence of acute kidney injury and need for renal replacement therapy.30Subsequently, two trials comparing balanced crystalloids with 0.9% sodium chloride demonstrated improved composite renal outcomes (mortality, need for renal replacement therapy, and persistent renal dysfunction) in the balanced crystalloid group for both critically ill patients (absolute risk reduction [ARR] = 1.1%; number needed to treat [NNT] = 91) and non– critically ill patients (ARR = 0.9%; NNT = 111).31,32"
+        },
+        {
+            "parent": 12,
+            "text": "A mean arterial pressure goal of 65 mm Hg or greater is acceptable, and vasopressors may be required if this is not achieved through fluid resuscitation. An online calculator to determine mean arterial pressure is available athttps://www.mdcalc.com/mean-arterial-pressure-map. Protocol-based strategies are recommended to prevent and improve acute kidney injury in high-risk patients (e.g., those who are postoperative or in septic shock).7A randomized controlled trial (RCT) of 776 patients with septic shock compared outcomes with a mean arterial pressure goal of 65 to 70 mm Hg vs. a goal of 80 to 85 mm Hg. No mortality difference was observed between the groups, but in a subset of patients with chronic hypertension, the higher goal group had lower rates of acute kidney injury (ARR = 13%; NNT = 8) and renal replacement therapy (ARR = 11%; NNT = 10).33"
+        },
+        {
+            "parent": 13,
+            "text": "A review of medications requiring discontinuation, dose adjustment, or monitoring is critical to the management of acute kidney injury(Table 5andTable 6).12In addition, the implementation of pharmacist-led quality-improvement programs is associated with reductions in nephrotoxic exposures and rates of acute kidney injury in the hospital setting.34"
+        },
+        {
+            "parent": 14,
+            "text": "Because of a lack of benefit, diuretics are not recommended for the treatment or prevention of acute kidney injury, except to alleviate volume overload.7For ICU patients, a plasma glucose target of 110 to 149 mg per dL (6.1 to 8.3 mmol per L) is recommended, although this target has not been studied in RCTs.7Nutritional status should be evaluated, and dietary recommendations should be based on the underlying cause and severity of the acute kidney injury.7,12"
+        },
+        {
+            "parent": 14,
+            "text": "If metabolic derangements from acute kidney injury do not respond to conservative treatment, renal replacement therapy, in consultation with a nephrologist, may be required.Table 7includes indications for initiating renal replacement therapy.7,35–37A multicenter RCT of 488 patients with acute kidney injury and septic shock compared early initiation of renal replacement therapy (within 12 hours) with delayed initiation (48 hours) and found no difference in 90-day mortality.38"
+        },
+        {
+            "parent": 14,
+            "text": "Early nephrology consultation (within 48 hours) appears to be beneficial for patients with acute kidney injury.39In addition to when initiating renal replacement therapy, nephrology consultation should be considered when there is inadequate response to supportive treatment and for acute kidney injury without a clear cause, stage 3 or higher acute kidney injury, stage 4 or higher chronic kidney disease, and other situations requiring specialist expertise (e.g., renal transplant, glomerulonephritis, multiple myeloma).36"
+        },
+        {
+            "parent": 14,
+            "text": "Inpatient data from a health care system found acute kidney injury care to be optimal only 50% of the time.40Multimodal educational programs delivered to clinicians have shown improvements in clinician self-assessment of acute kidney injury care.41Acute kidney injury care bundles, a specific set of guideline-based diagnostic and therapeutic interventions, are associated with improved in-hospital mortality rates and reduced risk of progression in observational studies.42"
+        },
+        {
+            "parent": 15,
+            "text": "The transition from the hospital to the outpatient setting presents an opportunity to improve the care of patients with acute kidney injury. Follow-up three months after hospitalization is reasonable if renal function is recovered (90% or greater from baseline), with earlier follow-up intervals (at three weeks and then again at three months) for patients with a slower recovery.43Blood pressure, weight, serum creatinine level, and GFR should be measured at each visit. Nephrology consultation is recommended if the estimated GFR remains less than 60 mL per minute per 1.73 m2.43The optimal duration of monitoring after acute kidney injury is unclear."
+        },
+        {
+            "parent": 16,
+            "text": "Stage 3 acute kidney injury requiring renal replacement therapy is associated with mortality rates between 44% and 52%.44,45Observational studies have shown an increased risk of developing chronic kidney disease following acute kidney injury.3In a cohort study that followed hospitalized Medicare beneficiaries for two years after discharge, acute kidney injury was associated with a 13-fold increased risk of end-stage renal disease in patients without preexisting chronic kidney disease and a 40-fold increase in patients with both acute kidney injury and chronic kidney disease.5Acute kidney injury is also associated with an increased risk of cardiovascular mortality, acute myocardial infarction, and heart failure.46,47A retrospective cohort study of 2,451 hospitalized patients with acute kidney injury found that they had a 22% increased risk of developing hypertension within six months.48"
+        },
+        {
+            "parent": 17,
+            "text": "An individualized approach to implementing preventive strategies is based on the presence of clinical situations that increase the risk of acute kidney injury, such as exposure to intravenous contrast media and being in the perioperative period. Use of periprocedural normal saline and minimizing the volume of contrast media reduce the risk of contrast media–induced acute kidney injury.49Sodium bicarbonate–based intravenous fluids are not superior to normal saline in preventing acute kidney injury.50"
+        },
+        {
+            "parent": 17,
+            "text": "A meta-analysis of 15 RCTs (n = 6,532) showed that in patients undergoing coronary angiography or percutaneous coronary intervention, high-dose statins (e.g., atorvastatin [Lipitor], rosuvastatin [Crestor], simvastatin [Zocor]) reduced the incidence of contrast media–induced acute kidney injury when compared with low-dose statins or placebo (ARR = 2.8%; NNT = 36).51A Cochrane review of 72 studies (n = 4,378) found no convincing evidence that any pharmacologic intervention reduces the risk of acute kidney injury during the perioperative period.52"
+        },
+        {
+            "parent": 17,
+            "text": "This article updates previous articles on this topic byRahman, et al.13;Needham53; andAgrawal and Swartz.54"
+        },
+        {
+            "parent": 17,
+            "text": "Data Sources:This manuscript was based on literature identified in Essential Evidence Plus, PubMed Clinical Queries, the Agency for Healthcare Research and Quality, the Cochrane Database of Systematic Reviews, and Google Scholar using the search terms acute kidney injury and acute renal failure. References from those sources were also searched. Search dates: October 2018, January 2019, April 2019, and August 2019."
+        },
+        {
+            "parent": 17,
+            "text": "The opinions and assertions contained herein are the private views of the authors and are not to be construed as official or as reflecting the views of the U.S. Navy, U.S. Air Force, Department of Defense, or the U.S. government."
+        }
+    ],
+    "locked": false
+}
